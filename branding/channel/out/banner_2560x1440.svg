@@ -10,11 +10,12 @@
   <g clip-path="url(#c)"><svg x="525" y="515" width="440" height="420" viewBox="560 220 800 760" preserveAspectRatio="xMidYMid meet">
 
   <g stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
-    <!-- suit jacket -->
-    <path d="M520 1100 Q530 785 705 732 Q840 698 960 704
-             Q1080 698 1215 732 Q1390 785 1400 1100 Z" fill="#2B3245"/>
-    <path d="M650 1100 Q650 900 700 840" fill="none" stroke="#1E2433" stroke-width="10"/>
-    <path d="M1270 1100 Q1270 900 1220 840" fill="none" stroke="#1E2433" stroke-width="10"/>
+    <!-- suit jacket: tailored, square shoulders -->
+    <path d="M615 1100 L625 820 Q630 768 675 752
+             L850 708 Q960 700 1070 708 L1245 752
+             Q1290 768 1295 820 L1305 1100 Z" fill="#2B3245"/>
+    <path d="M698 1100 L692 860" fill="none" stroke="#1E2433" stroke-width="8"/>
+    <path d="M1222 1100 L1228 860" fill="none" stroke="#1E2433" stroke-width="8"/>
     <!-- neck -->
     <path d="M888 640 L884 722 Q960 760 1036 722 L1032 640 Z" fill="#DDA27C"/>
     <!-- shirt -->
@@ -30,8 +31,8 @@
     <polygon points="850 712 938 925 880 940 795 815 832 795 782 735" fill="#1E2433"/>
     <polygon points="1070 712 982 925 1040 940 1125 815 1088 795 1138 735" fill="#1E2433"/>
     <!-- pocket square -->
-    <path d="M1165 880 L1250 880 L1235 852 L1210 866 L1192 848 Z" fill="#2FA36B"/>
-    <path d="M1155 880 L1260 880" fill="none"/>
+    <path d="M1130 880 L1205 880 L1192 854 L1170 867 L1154 850 Z" fill="#2FA36B"/>
+    <path d="M1120 880 L1215 880" fill="none"/>
     <!-- buttons -->
     <circle cx="990" cy="1050" r="8" fill="#1E2433"/>
   </g>

@@ -68,11 +68,12 @@ def body():
         return " ".join(f"{CX + sx*x} {y}" for x, y in pts)
     return f"""
   <g stroke="{INK}" stroke-width="{SW}" stroke-linejoin="round" stroke-linecap="round">
-    <!-- suit jacket -->
-    <path d="M{CX-440} {H+20} Q{CX-430} 785 {CX-255} 732 Q{CX-120} 698 {CX} 704
-             Q{CX+120} 698 {CX+255} 732 Q{CX+430} 785 {CX+440} {H+20} Z" fill="{SUIT}"/>
-    <path d="M{CX-310} {H+20} Q{CX-310} 900 {CX-260} 840" fill="none" stroke="{SUIT_SH}" stroke-width="10"/>
-    <path d="M{CX+310} {H+20} Q{CX+310} 900 {CX+260} 840" fill="none" stroke="{SUIT_SH}" stroke-width="10"/>
+    <!-- suit jacket: tailored, square shoulders -->
+    <path d="M{CX-345} {H+20} L{CX-335} 820 Q{CX-330} 768 {CX-285} 752
+             L{CX-110} 708 Q{CX} 700 {CX+110} 708 L{CX+285} 752
+             Q{CX+330} 768 {CX+335} 820 L{CX+345} {H+20} Z" fill="{SUIT}"/>
+    <path d="M{CX-262} {H+20} L{CX-268} 860" fill="none" stroke="{SUIT_SH}" stroke-width="8"/>
+    <path d="M{CX+262} {H+20} L{CX+268} 860" fill="none" stroke="{SUIT_SH}" stroke-width="8"/>
     <!-- neck -->
     <path d="M{CX-72} 640 L{CX-76} 722 Q{CX} 760 {CX+76} 722 L{CX+72} 640 Z" fill="{SKIN_SH}"/>
     <!-- shirt -->
@@ -88,8 +89,8 @@ def body():
     <polygon points="{lapel(-1)}" fill="{SUIT_SH}"/>
     <polygon points="{lapel(1)}" fill="{SUIT_SH}"/>
     <!-- pocket square -->
-    <path d="M{CX+205} 880 L{CX+290} 880 L{CX+275} 852 L{CX+250} 866 L{CX+232} 848 Z" fill="{GREEN}"/>
-    <path d="M{CX+195} 880 L{CX+300} 880" fill="none"/>
+    <path d="M{CX+170} 880 L{CX+245} 880 L{CX+232} 854 L{CX+210} 867 L{CX+194} 850 Z" fill="{GREEN}"/>
+    <path d="M{CX+160} 880 L{CX+255} 880" fill="none"/>
     <!-- buttons -->
     <circle cx="{CX+30}" cy="1050" r="8" fill="{SUIT_SH}"/>
   </g>"""
