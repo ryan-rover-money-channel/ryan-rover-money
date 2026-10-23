@@ -340,7 +340,7 @@ tired.""",
 "Supermarket aisle with many choices", "TOO MANY OPTIONS",
 "Weekly meal plan on fridge", "REDUCE DECISIONS")
 
-body_hook = "This simple trick tripled people's savings rates."
+body_hook = "This simple trick nearly quadrupled people's savings rates."
 item(16, "No commitment device", "willpower runs out",
 """Trap number sixteen. Relying on willpower instead of commitment.""",
 """Richard Thaler and Shlomo Benartzi designed a program called Save More Tomorrow. Employees agreed in advance to
