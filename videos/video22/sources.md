@@ -1,0 +1,9 @@
+- Federal Reserve, Economic Well-Being of U.S. Households in 2024 (SHED): 63% would cover a $400 emergency expense with cash or its equivalent
+- Federal Reserve, G.19 Consumer Credit: interest rate on credit card accounts assessed interest (above 20%)
+- Consumer Financial Protection Bureau, research on overdraft and NSF fee revenue
+- Edmunds, average new-vehicle monthly payment (above $700 in recent years)
+- US Bureau of Labor Statistics, Consumer Expenditure Survey (food away from home)
+- IRS filing season statistics (average federal refund around $3,000)
+- Richard Thaler, mental accounting; Daniel Kahneman, behavioral economics
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (first-generation wealth)
+- Growth examples: monthly compounding at 7% average yearly return (illustration, not a promise)
