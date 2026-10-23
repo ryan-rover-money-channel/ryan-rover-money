@@ -1,0 +1,4 @@
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth $192,700; by age: under 35 $39,040, 35-44 $135,300)
+- Federal Reserve, Economic Well-Being of U.S. Households in 2025 (20% experienced fraud or scams)
+- IRS, retirement plan and IRA rules (check current limits)
+- Rule of 72 and compound growth: stated illustrative math at 7% average yearly return

@@ -1,0 +1,668 @@
+{
+ "id": "video02",
+ "angle": "what changes at $100k net worth",
+ "length_scale": 1.5,
+ "title": "What Changes When You Hit $100,000 Net Worth",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Charlie Munger, Warren Buffett's longtime partner, used to say the first one hundred thousand dollars is the hardest. He didn't say it that politely, but you get the idea. So today, the real question. What actually changes when your net worth hits one hundred thousand dollars? Because something does change. And it's not what most people expect.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "One hundred thousand dollars of net worth. That's everything you own, your savings, your investments, the equity in your home, minus everything you owe. It's the line where money starts behaving differently.",
+   "card": {
+    "type": "stat",
+    "label": "net worth",
+    "big": "$100,000",
+    "sub": "what you own minus what you owe"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's why that line matters. Below it, almost all of your progress comes from what you save out of your paycheck. Above it, your money starts doing a real share of the work. The growth on your money starts to rival the money you put in. That's the moment the game changes, and most people never notice it happening.",
+   "query": "New York Stock Exchange trading floor",
+   "caption": "THE GAME CHANGES",
+   "cuts": 5
+  },
+  {
+   "text": "In this video, we'll go through fifteen things that change at one hundred thousand dollars. Some are exciting. Some are dangerous. And number fifteen is the mistake that keeps a lot of people stuck right at this level for years. We'll also look at exactly how long it takes to get there, with real math.",
+   "query": "Calculator with financial charts",
+   "caption": "15 CHANGES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's get into it. First, where does one hundred thousand dollars put you compared with everyone else?",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Net worth data comes from the Federal Reserve's Survey of Consumer Finances, the most detailed look at American household wealth, last published for the year twenty twenty two. Growth examples use simple, stated math, like a seven percent average yearly return. That's an illustration, not a promise. Markets go down as well as up. This is education, not financial advice.",
+   "query": "Federal Reserve Bank building columns",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "According to the Federal Reserve's Survey of Consumer Finances, the median net worth of all American families in twenty twenty two was about one hundred ninety two thousand seven hundred dollars. Median means half of families had more, and half had less.",
+   "card": {
+    "type": "stat",
+    "label": "median family net worth",
+    "big": "$192,700",
+    "sub": "Federal Reserve, SCF 2022"
+   },
+   "caption": "",
+   "cuts": 1,
+   "chapter": "The big picture"
+  },
+  {
+   "text": "But age changes everything. For families headed by someone under thirty five, the median was about thirty nine thousand dollars. For thirty five to forty four, about one hundred thirty five thousand. So if you hit one hundred thousand in your twenties or early thirties, you're well ahead of the typical family your age.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Under 35",
+     "big": "$39,040",
+     "sub": "median net worth"
+    },
+    "right": {
+     "label": "Age 35 to 44",
+     "big": "$135,300",
+     "sub": "median net worth"
+    },
+    "note": "Federal Reserve, Survey of Consumer Finances 2022"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "And look at the averages. The average net worth for all families was over one million dollars. That's far above the median, because a small number of very wealthy families pull the average up. That gap is a reminder. When people talk about what the average American has, ask whether they mean the average or the median. The median is the better picture of a typical household.",
+   "query": "Suburban houses street aerial",
+   "caption": "AVERAGE VS MEDIAN",
+   "cuts": 3
+  },
+  {
+   "text": "There's another reason this line matters, and it's psychological. Before one hundred thousand, many people feel like they're not really investors yet. Just people saving a bit. After it, they start thinking like owners. Owners of businesses, through funds. Owners of a growing machine. That shift in identity changes behavior. People who see themselves as investors tend to stay invested longer, panic less, and keep adding money. In many ways, the six figure mark is as much a mindset milestone as a money one.",
+   "query": "Business owner in office",
+   "caption": "FROM SAVER TO OWNER",
+   "cuts": 3
+  },
+  {
+   "text": "Alright. Now the fifteen changes. Number one is the reason Munger said the first hundred thousand is the hardest.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Change number one. Compounding stops being a theory and becomes something you can see on your statement.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Compounding becomes visible",
+    "sub": "growth you can actually see"
+   },
+   "caption": "CHANGE 1",
+   "cuts": 1,
+   "chapter": "1. Compounding becomes visible"
+  },
+  {
+   "text": "At small balances, growth is almost invisible. Seven percent of five thousand dollars is three hundred fifty dollars a year. Nice, but it doesn't move the needle. Seven percent of one hundred thousand dollars is seven thousand dollars a year. Same percentage. Twenty times the result. That's why the early years feel so slow, and why it suddenly feels like things are speeding up.",
+   "query": "Snowball rolling in snow",
+   "caption": "SAME %, 20X THE RESULT",
+   "cuts": 3
+  },
+  {
+   "text": "Picture it like a snowball. At the top of the hill, it's small and you're doing all the pushing. Around one hundred thousand dollars, it's heavy enough to start rolling on its own. You still push, but now the hill helps. Try this: look at your last year of investment statements and separate the money you added from the growth. Watching that growth line catch up with your contributions is one of the most motivating things in personal finance.",
+   "query": "Snow covered hill",
+   "caption": "THE SNOWBALL",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the math on screen. One hundred thousand dollars, with nothing added, at a seven percent average yearly return compounded monthly, becomes roughly two hundred thousand in about ten years. That's the rule of seventy two in action, which we'll get to in a moment.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Today",
+     "big": "$100,000",
+     "sub": "nothing added"
+    },
+    "right": {
+     "label": "About 10 years",
+     "big": "~$200,000",
+     "sub": "at 7% a year"
+    },
+    "note": "Illustration. Returns are not guaranteed."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Change number two. Your money can start earning about as much as you save.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Your money out-earns your savings",
+    "sub": "growth rivals contributions"
+   },
+   "caption": "CHANGE 2",
+   "cuts": 1,
+   "chapter": "2. Your money out-earns your savings"
+  },
+  {
+   "text": "Say you save five hundred dollars a month. That's six thousand dollars a year. At a seven percent return, one hundred thousand dollars would earn about seven thousand dollars in a year. In a good year, your money puts in more than you do. That's a strange and wonderful feeling the first time it happens.",
+   "query": "Two engines airplane wing",
+   "caption": "A SECOND ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "This is exactly why the first one hundred thousand is so hard. Before it, you are the engine. After it, you have a second engine. In a bad year, of course, the market can take money away instead, and that's part of the deal. But over long periods, the second engine tends to get stronger. Try this: write two numbers at the top of a page. What you saved last year, and what your investments earned. Track both every year.",
+   "query": "Notebook with financial notes",
+   "caption": "TRACK BOTH NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Change number three. The rule of seventy two starts to matter.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "The rule of 72 gets real",
+    "sub": "how fast money doubles"
+   },
+   "caption": "CHANGE 3",
+   "cuts": 1,
+   "chapter": "3. The rule of 72 gets real"
+  },
+  {
+   "text": "The rule of seventy two is a shortcut. Divide seventy two by your yearly return, and you get roughly how many years it takes for money to double. At seven percent, that's about ten years. At ten percent, about seven years. At two percent, thirty six years. It's an estimate, not an exact formula, but it's surprisingly close.",
+   "query": "Hourglass sand timer",
+   "caption": "72 \u00f7 RETURN = YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "When you have five thousand dollars, doubling to ten thousand doesn't feel life changing. When you have one hundred thousand, doubling to two hundred thousand absolutely does. And the next double after that is four hundred thousand. That's why patience is the most powerful financial skill. Try this: use the rule of seventy two on your own savings account rate today. If the answer is a very big number, your money is probably sitting in the wrong place.",
+   "query": "Wall clock office",
+   "caption": "PATIENCE PAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Change number four. You start tracking net worth, not just income.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "You think in net worth",
+    "sub": "not just income"
+   },
+   "caption": "CHANGE 4",
+   "cuts": 1,
+   "chapter": "4. You think in net worth"
+  },
+  {
+   "text": "Income is what comes in. Net worth is what you keep. Lots of people with big salaries have a small net worth, because everything that comes in goes right back out. Lots of people with ordinary salaries build real wealth, because they keep the gap between earning and spending, and invest it. At one hundred thousand, net worth becomes the number that tells the truth.",
+   "query": "Office building at dusk",
+   "caption": "INCOME VS NET WORTH",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple example. Two people each earn eighty thousand dollars a year. One spends seventy eight thousand. The other spends sixty five thousand and invests the rest. After ten years, their incomes look the same on paper. Their net worth looks completely different. Try this: once a month, write down what you own and what you owe. One number. It takes ten minutes, and it changes how you see every purchase.",
+   "query": "Spreadsheet on laptop",
+   "caption": "ONE NUMBER A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "Change number five. Fees start to hurt.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Fees start to hurt",
+    "sub": "1% is not small anymore"
+   },
+   "caption": "CHANGE 5",
+   "cuts": 1,
+   "chapter": "5. Fees start to hurt"
+  },
+  {
+   "text": "A one percent yearly fee sounds tiny. On one hundred thousand dollars, it's one thousand dollars a year. Every year. And that thousand dollars would otherwise have kept compounding. Over decades, a one percent difference in fees can add up to a very large amount of money, because you lose both the fee and all the growth it would have produced.",
+   "query": "Receipt and coins on table",
+   "caption": "1% = $1,000 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Funds charge something called an expense ratio, a yearly percentage of what you invest. Some broad index funds charge a small fraction of a percent. Some actively managed funds and some advice arrangements charge much more. Higher fees aren't always wrong, but you should know exactly what you're paying and what you get for it. Try this: find the expense ratio of every fund you own. It's listed on the fund's page. Add them up in dollars, not percent.",
+   "query": "Investment fund prospectus document",
+   "caption": "KNOW YOUR FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's put a number on that. Imagine one hundred thousand dollars growing for twenty years at seven percent a year before fees. If the total yearly cost is a small fraction of a percent, you keep almost all of that growth. If the cost is around one percent, your return effectively drops to around six percent, and the ending balance can be tens of thousands of dollars lower. Same market. Same years. The only difference is what you paid along the way. That's why low cost investing became so popular.",
+   "query": "Graph comparing two lines on screen",
+   "caption": "SAME MARKET, LESS MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Okay, quick check. If you're finding this useful, the next few get more practical, especially number nine. Let's keep going.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Change number six. Your mix of investments matters more than any single pick.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Allocation beats stock picking",
+    "sub": "the mix matters most"
+   },
+   "caption": "CHANGE 6",
+   "cuts": 1,
+   "chapter": "6. Allocation beats stock picking"
+  },
+  {
+   "text": "At this level, the big decision isn't which hot stock to buy. It's how your money is split between broad categories, like stocks, bonds and cash. That mix, called asset allocation, drives most of how your portfolio behaves, how much it can grow, and how far it can fall in a bad year.",
+   "query": "Pie chart financial report",
+   "caption": "THE MIX MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Someone in their twenties with a stable job might hold mostly stocks, because they have decades to wait out the bad years. Someone close to retirement usually holds more bonds and cash, because they can't wait as long. There's no single right answer, but there is a wrong one: not choosing at all. Try this: open your accounts and write down your actual mix. Many people are surprised by what they find.",
+   "query": "Person reviewing investment portfolio",
+   "caption": "CHECK YOUR MIX",
+   "cuts": 3
+  },
+  {
+   "text": "Change number seven. Market drops start to feel real.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Drops feel real",
+    "sub": "a 20% fall is $20,000"
+   },
+   "caption": "CHANGE 7",
+   "cuts": 1,
+   "chapter": "7. Drops feel real"
+  },
+  {
+   "text": "When you had five thousand dollars invested, a twenty percent drop cost you a thousand dollars on paper. Painful, but survivable. With one hundred thousand dollars, the same drop is twenty thousand dollars. That can be more than you saved in a whole year. And that's when many people make their worst decision: they sell after the drop and lock in the loss.",
+   "query": "Stock market crash red screen",
+   "caption": "-20% = -$20,000",
+   "cuts": 3
+  },
+  {
+   "text": "Markets have always had bad years, and some very bad ones. Historically, broad markets have recovered over long periods, but there are no guarantees, and recovery can take years. The best protection is deciding your plan before the drop happens. Try this: write a short note to your future self today. When my portfolio falls twenty percent, I will. Then finish the sentence. Read it when it happens.",
+   "query": "Handwritten letter and pen",
+   "caption": "A NOTE TO YOUR FUTURE SELF",
+   "cuts": 3
+  },
+  {
+   "text": "Another way to handle drops is to keep investing through them. When you invest the same amount every month, you automatically buy more shares when prices are low and fewer when prices are high. It's called dollar cost averaging. It doesn't guarantee a profit or protect against losses, but it removes the impossible job of guessing the perfect moment, and it turns a scary drop into a sale on what you were already buying.",
+   "query": "Shopping sale price tag",
+   "caption": "BUYING ON SALE",
+   "cuts": 3
+  },
+  {
+   "text": "Change number eight. Taxes start to matter a lot more.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Taxes matter more",
+    "sub": "where you hold it counts"
+   },
+   "caption": "CHANGE 8",
+   "cuts": 1,
+   "chapter": "8. Taxes matter more"
+  },
+  {
+   "text": "Retirement accounts like a four oh one k or an IRA give you tax advantages, either now or later, in exchange for keeping the money invested for the long term. At one hundred thousand dollars, the difference between investing inside those accounts and outside them can be thousands of dollars a year in taxes over time. The rules and limits change, so always check the current numbers with the IRS.",
+   "query": "Tax forms and calculator",
+   "caption": "TAXES ADD UP",
+   "cuts": 3
+  },
+  {
+   "text": "A common order many people follow: first, get any employer match on a four oh one k, because that's extra money for saving. Next, consider an IRA. Then, if you still have money to invest, add more to tax advantaged accounts or a regular brokerage account. Try this: check whether your employer offers a match, and whether you're getting all of it. Leaving a match on the table is leaving part of your pay behind.",
+   "query": "Retirement savings jar",
+   "caption": "GET THE FULL MATCH",
+   "cuts": 3
+  },
+  {
+   "text": "Change number nine. Your emergency fund becomes the guard dog of your investments.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "You need a real emergency fund",
+    "sub": "protect the investments"
+   },
+   "caption": "CHANGE 9",
+   "cuts": 1,
+   "chapter": "9. You need a real emergency fund"
+  },
+  {
+   "text": "Here's why. If you have investments but no cash cushion, any emergency forces you to sell, maybe at the worst possible time, maybe with taxes and penalties. A cash cushion of a few months of expenses means your investments never have to be touched for a broken car or a lost job. The cushion protects the compounding.",
+   "query": "Castle stone walls",
+   "caption": "TWO WALLS",
+   "cuts": 3
+  },
+  {
+   "text": "Think of it as two walls. The outer wall is cash for emergencies. The inner wall is your long term investments. As long as the outer wall holds, the inner one keeps growing. If you haven't watched my video on what changes at twenty thousand dollars, that's the outer wall. Try this: check how many months of expenses you hold in cash right now. If it's less than three, building that up may come before investing more.",
+   "query": "Savings account on phone",
+   "caption": "MONTHS OF CASH",
+   "cuts": 3
+  },
+  {
+   "text": "Many people use a simple target. Three months of essential expenses if their income is stable, six months or more if their income is irregular, or if they're the only earner in the house. At one hundred thousand of net worth, that might mean keeping ten or twenty thousand in cash while the rest is invested. It can feel like money doing nothing. It isn't. It's insurance for the compounding machine.",
+   "query": "Piggy bank and calculator",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Change number ten. If part of your net worth is your home, you realize equity is not cash.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Home equity isn't cash",
+    "sub": "rich on paper, tight in reality"
+   },
+   "caption": "CHANGE 10",
+   "cuts": 1,
+   "chapter": "10. Home equity isn't cash"
+  },
+  {
+   "text": "Net worth includes home equity, the value of your home minus what you owe on it. That's real wealth. But you can't buy groceries with it. To use it, you have to sell, borrow against it, or wait. So two people with the same one hundred thousand dollar net worth can live very different financial lives, depending on how much is locked in a house.",
+   "query": "House for sale sign",
+   "caption": "EQUITY IS NOT CASH",
+   "cuts": 3
+  },
+  {
+   "text": "Someone with one hundred thousand in home equity and nothing else is house rich and cash poor. Someone with fifty thousand in equity, thirty thousand invested and twenty thousand in cash has far more options. Neither is wrong, but the second is more flexible. Try this: split your net worth into three buckets. Cash, investments, and home. Look at how balanced it really is.",
+   "query": "Three glass jars with coins",
+   "caption": "THREE BUCKETS",
+   "cuts": 3
+  },
+  {
+   "text": "We're past the halfway point. The last five are about protecting what you built, and number fifteen is the trap. Stay with me.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Change number eleven. High interest debt becomes an emergency, not a footnote.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "High-interest debt is an emergency",
+    "sub": "no investment beats 20%"
+   },
+   "caption": "CHANGE 11",
+   "cuts": 1,
+   "chapter": "11. High-interest debt is an emergency"
+  },
+  {
+   "text": "It's hard to find an investment that reliably beats twenty percent a year. But credit card interest regularly costs that much. So if you have one hundred thousand dollars of net worth and ten thousand dollars on credit cards, paying off the cards is often one of the best returns available to you. Guaranteed, and tax free.",
+   "query": "Credit cards and bills on table",
+   "caption": "20% IS AN EMERGENCY",
+   "cuts": 3
+  },
+  {
+   "text": "Low interest debt is different. A mortgage at a low fixed rate might not need to be paid off early, because your money could earn more elsewhere over time. The rule of thumb: the higher the rate, the more urgent the payoff. Try this: list every debt with its interest rate, from highest to lowest. Attack the top one first, while making minimum payments on the rest.",
+   "query": "List written on notepad",
+   "caption": "HIGHEST RATE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Change number twelve. You become a target for salespeople.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "You become a sales target",
+    "sub": "products follow money"
+   },
+   "caption": "CHANGE 12",
+   "cuts": 1,
+   "chapter": "12. You become a sales target"
+  },
+  {
+   "text": "At one hundred thousand dollars, you start getting offers. Complex insurance products. Expensive managed accounts. Exclusive opportunities. Some are fine. Many come with high fees and long lock ups that mainly benefit the person selling them. And scammers know this level too. The Federal Reserve's latest survey found twenty percent of adults experienced financial fraud or a scam in the past year.",
+   "query": "Business handshake in suit",
+   "caption": "HOW DO YOU GET PAID?",
+   "cuts": 3
+  },
+  {
+   "text": "One simple rule protects you from most of it. If you can't explain how a product makes money, and how the seller makes money, in two sentences, don't buy it. Ask about every fee, ask whether the advisor is a fiduciary, meaning legally required to act in your interest, and never decide on the same day. Try this: next time someone pitches you, ask, how do you get paid on this? Their answer tells you a lot.",
+   "query": "Phone with scam call warning",
+   "caption": "20% HIT BY FRAUD",
+   "cuts": 3
+  },
+  {
+   "text": "Change number thirteen. The boring paperwork starts to matter.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Paperwork matters",
+    "sub": "beneficiaries and a will"
+   },
+   "caption": "CHANGE 13",
+   "cuts": 1,
+   "chapter": "13. Paperwork matters"
+  },
+  {
+   "text": "Retirement accounts and many investment accounts let you name a beneficiary, the person who receives the money if something happens to you. Those forms often override what's in a will. At one hundred thousand dollars, getting this wrong can cause real problems for the people you love. It's ten minutes of work that most people skip.",
+   "query": "Signing legal documents",
+   "caption": "NAME A BENEFICIARY",
+   "cuts": 3
+  },
+  {
+   "text": "Also consider basic protection. If people depend on your income, term life insurance is often a simple and affordable way to protect them. And a basic will makes your wishes clear. Laws differ by state, so a local professional can help. Try this: log into every account this week and check the beneficiary. Make sure it's the right person, and that the information is up to date.",
+   "query": "Family walking in park",
+   "caption": "PROTECT YOUR PEOPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Change number fourteen. Your options multiply.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Your options multiply",
+    "sub": "career, location, risk"
+   },
+   "caption": "CHANGE 14",
+   "cuts": 1,
+   "chapter": "14. Your options multiply"
+  },
+  {
+   "text": "With a solid cushion and one hundred thousand dollars of net worth, you can consider moves that were impossible before. A lower paying job you love, because your money is already working. A career change with a year of retraining. A move to a cheaper city. A small business. You're not forced to take the first offer anymore.",
+   "query": "Open road through countryside",
+   "caption": "CHOICES, NOT STUFF",
+   "cuts": 3
+  },
+  {
+   "text": "This is the real point of wealth. Not stuff. Choices. The person with options negotiates better, waits for better deals, and recovers faster from bad luck. Try this: write down one decision you'd make differently if money weren't the deciding factor. Then ask how far you are from making it possible. Sometimes the answer is closer than you think.",
+   "query": "Person writing in journal",
+   "caption": "WHAT WOULD YOU CHANGE?",
+   "cuts": 3
+  },
+  {
+   "text": "And now, number fifteen. The trap that keeps people stuck right here.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "15. The trap"
+  },
+  {
+   "text": "Change number fifteen. Complacency. Hitting one hundred thousand feels like the finish line. It's not. It's the starting line.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "The trap: easing off",
+    "sub": "the starting line, not the finish"
+   },
+   "caption": "CHANGE 15",
+   "cuts": 1
+  },
+  {
+   "text": "Here's how it happens. You hit the goal, you celebrate, and the automatic contributions quietly get smaller. A bigger car payment here, a lifestyle upgrade there. The snowball is still rolling, but now you've stopped pushing. And the years between one hundred thousand and five hundred thousand are exactly the years where pushing matters most, because every dollar you add has decades to compound.",
+   "query": "Finish line marathon",
+   "caption": "THE STARTING LINE",
+   "cuts": 3
+  },
+  {
+   "text": "Look at the difference. One hundred thousand dollars, plus five hundred dollars a month, at a seven percent average yearly return, for twenty years. That's the kind of path that can turn one hundred thousand into far more. Compare that with stopping contributions entirely.",
+   "card": {
+    "type": "growth",
+    "monthly": 500,
+    "rate": 0.07,
+    "years": 20
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "On top of that chart, the original one hundred thousand would have grown on its own to roughly four hundred thousand over twenty years at that same seven percent. Together, that's roughly six hundred sixty thousand dollars. Again, that's an illustration, not a promise, but it shows why the habit matters more after one hundred thousand, not less. Try this: when you hit a milestone, raise your automatic contribution instead of lowering it, even by fifty dollars.",
+   "query": "Mountain summit hiker",
+   "caption": "RAISE IT, DON'T STOP",
+   "cuts": 3
+  },
+  {
+   "text": "So how long does it take to get to one hundred thousand dollars from zero? It depends on two things: how much you invest each month, and what return you get. Let's look at a few realistic paths, with a seven percent average yearly return. Remember, real returns go up and down, and some years are negative.",
+   "query": "Calendar on desk",
+   "caption": "THE TIMELINE",
+   "cuts": 3,
+   "chapter": "How long it takes to reach $100,000"
+  },
+  {
+   "text": "At five hundred dollars a month and a seven percent average yearly return, it takes roughly eleven years to reach one hundred thousand. At one thousand dollars a month, roughly six and a half years. Doubling your contribution doesn't cut the time in half, but it gets close in the early years.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "$500 a month",
+     "big": "~11 years",
+     "sub": "at 7% a year"
+    },
+    "right": {
+     "label": "$1,000 a month",
+     "big": "~6.5 years",
+     "sub": "at 7% a year"
+    },
+    "note": "Illustration with monthly compounding. Not a promise."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "And here's the encouraging part. The last stretch is faster than the first. With five hundred dollars a month, going from zero to fifty thousand takes about six and a half years. Going from fifty to one hundred thousand takes less time, because the money you already have is helping. That's compounding again. The hardest part really is the beginning.",
+   "query": "Running track athletes",
+   "caption": "THE LAST STRETCH IS FASTER",
+   "cuts": 3
+  },
+  {
+   "text": "So if you're early in the journey and it feels slow, that's normal. It's supposed to feel slow at the start. Keep going.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Let's make this concrete with three people. Same goal. Very different paths. See which one sounds like you.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Three paths to $100,000"
+  },
+  {
+   "text": "Path one. Maya, twenty six, earns a modest salary. She can only invest three hundred dollars a month at first. But she automates it, never stops, and raises it by fifty dollars every time she gets a raise. She doesn't touch it during bad years. Her early progress feels painfully slow. It takes her years to reach the first twenty thousand. But because she started young and kept increasing, time does a huge share of her work. Her advantage isn't income. It's the calendar.",
+   "query": "Young woman working on laptop in cafe",
+   "caption": "PATH 1: TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Path two. Daniel, thirty four, earns more but started late. He had a car loan and credit card debt through his twenties. First he cleared the cards, which was like earning a guaranteed twenty percent return. Then he directed those same monthly payments, about nine hundred dollars, into investing. Because the habit of paying nine hundred a month already existed, he never felt the difference. His advantage is the size of his monthly contribution.",
+   "query": "Man paying bills at home desk",
+   "caption": "PATH 2: CONTRIBUTION",
+   "cuts": 3
+  },
+  {
+   "text": "Path three. Sara and Luis, a couple in their thirties, both work. They live on one income and invest most of the other. It's a big sacrifice for a few years, but it builds the cushion and the investments incredibly fast. They reach one hundred thousand in a few years, then relax their savings rate a bit, knowing the snowball is rolling. Their advantage is the savings rate.",
+   "query": "Couple walking together in city",
+   "caption": "PATH 3: SAVINGS RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Notice what all three have in common. None of them got lucky with a single stock. None of them waited for a perfect moment. All three automated the habit, avoided high interest debt, and kept going during bad years. Time, contribution, savings rate. Pick the lever you can pull hardest, and pull it consistently.",
+   "query": "Three runners on track",
+   "caption": "PICK YOUR LEVER",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple checklist you can do this week, wherever you are on the path. One. Calculate your net worth. Everything you own minus everything you owe, on one page. Two. Check that you have at least a few months of expenses in cash before you invest more. Three. List your debts by interest rate and decide which one to attack first.",
+   "query": "Weekly planner with checklist",
+   "caption": "THIS WEEK: 1 TO 3",
+   "cuts": 3,
+   "chapter": "What to do this week"
+  },
+  {
+   "text": "Four. Check your fees. Find the expense ratio of every fund you own and convert it into dollars per year. Five. Check your employer match and make sure you're getting all of it. Six. Set up, or raise, one automatic investment, even if it's small. And seven, check every beneficiary on every account.",
+   "query": "Laptop with online banking dashboard",
+   "caption": "THIS WEEK: 4 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "That's seven tasks. Most of them take less than half an hour. None of them require a big income. But together they remove most of the leaks that slow people down on the way to one hundred thousand dollars. Do them once, then check them again once a year.",
+   "query": "Coffee and notebook on table morning",
+   "caption": "SEVEN SIMPLE TASKS",
+   "cuts": 3
+  },
+  {
+   "text": "Five mistakes to avoid on the way to one hundred thousand. Mistake one. Chasing hot tips. Fast money stories are exciting, but most people build wealth slowly, with boring, diversified investments. Mistake two. Stopping during a downturn. Contributions made when prices are low are often the ones that help most later.",
+   "query": "Newspaper financial headlines",
+   "caption": "MISTAKES 1 AND 2",
+   "cuts": 3,
+   "chapter": "Five mistakes on the way"
+  },
+  {
+   "text": "Mistake three. Ignoring fees, which we covered. Small percentages, big dollars. Mistake four. Skipping the emergency fund and investing everything, which turns every surprise into a forced sale. And mistake five. Comparing yourself with people online. You see their car, not their debt. Run your own race, with your own numbers.",
+   "query": "Smartphone social media scrolling",
+   "caption": "MISTAKES 3, 4 AND 5",
+   "cuts": 3
+  },
+  {
+   "text": "Before the recap, let me answer the questions people ask me most about this milestone.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Does one hundred thousand dollars count if most of it is in a retirement account? Yes. Net worth counts everything you own, including retirement accounts. The difference is access. Money in a retirement account usually has rules and possible penalties for early withdrawals. So it counts for your net worth, but it's not your emergency fund.",
+   "query": "Retirement account statement",
+   "caption": "DOES RETIREMENT COUNT?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Should I pay off my mortgage or invest? It depends on your rate and your peace of mind. At a high rate, paying it down can make sense. At a low fixed rate, many people prefer to invest the difference, because over long periods investments have often earned more. There's no single right answer, but there is a clear order: emergency fund and high interest debt first.",
+   "query": "House keys on table",
+   "caption": "MORTGAGE OR INVEST?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Is it too late to start at forty, or fifty? No. You'll have fewer years for compounding, so the monthly contribution needs to do more of the work. But people in their forties and fifties are often at their highest earning years, which helps. Starting late is far better than not starting. Question four. Do I need a financial advisor? Not necessarily at this level. Many people do fine with simple low cost funds. If you do hire someone, know exactly how they're paid, and prefer someone who acts as a fiduciary.",
+   "query": "Older man reading financial newspaper",
+   "caption": "TOO LATE? ADVISOR?",
+   "cuts": 3
+  },
+  {
+   "text": "And one more, because it comes up every time. Is one hundred thousand dollars enough to retire? On its own, no, not for most people. Using the four percent rule of thumb many planners mention, one hundred thousand dollars would support roughly four thousand dollars of withdrawals a year. That's a meaningful supplement, not a full income. Which is exactly why it's the starting line, not the finish line.",
+   "query": "Retired couple on porch",
+   "caption": "ENOUGH TO RETIRE?",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. One, compounding becomes visible. Two, your money can out earn your savings. Three, the rule of seventy two gets real. Four, you think in net worth. Five, fees start to hurt. Six, allocation beats stock picking. Seven, drops feel real. Eight, taxes matter more.",
+   "query": "Checklist on clipboard",
+   "caption": "THE RECAP",
+   "cuts": 3,
+   "chapter": "Recap: all 15 changes"
+  },
+  {
+   "text": "Nine, your emergency fund guards your investments. Ten, home equity isn't cash. Eleven, high interest debt becomes an emergency. Twelve, you become a sales target. Thirteen, the paperwork matters. Fourteen, your options multiply. And fifteen, the trap of easing off right when the snowball starts rolling.",
+   "query": "Notebook with written goals",
+   "caption": "15 CHANGES",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the full step by step plan, from zero to one hundred thousand and beyond, it's in my playbook. The link is in the description. And if you missed it, watch my video on what changes at twenty thousand dollars in the bank. That's the foundation for everything we talked about today. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
