@@ -1,0 +1,11 @@
+- Mani, Mullainathan, Shafir and Zhao, Poverty Impedes Cognitive Function (Science, 2013); Mullainathan and Shafir, Scarcity (2013)
+- Tversky and Kahneman, Judgment under Uncertainty: Heuristics and Biases (Science, 1974); Kahneman and Tversky, Prospect Theory (1979); Kahneman, Thinking, Fast and Slow (2011)
+- Richard Thaler, mental accounting; Thaler and Benartzi, Save More Tomorrow (Journal of Political Economy, 2004)
+- Stango and Zinman, Exponential Growth Bias and Household Finance (Journal of Finance, 2009)
+- Arkes and Blumer, The Psychology of Sunk Cost (1985); Prelec and Simester, Always Leave Home Without It (Marketing Letters, 2001)
+- Shampanier, Mazar and Ariely, Zero as a Special Price (Marketing Science, 2007)
+- Karlsson, Loewenstein and Seppi, The Ostrich Effect (2009); Agarwal, Mikhed and Scholnick, Federal Reserve Bank of Philadelphia (lottery neighbors)
+- Brickman, Coates and Janoff-Bulman, Lottery Winners and Accident Victims (1978); Tali Sharot, The Optimism Bias (2011)
+- Madrian and Shea, The Power of Suggestion (Quarterly Journal of Economics, 2001); Iyengar and Lepper, When Choice is Demotivating (2000)
+- Martin Seligman, learned helplessness; American Psychological Association, Stress in America
+- Growth example: monthly compounding at 7% average yearly return (illustration, not a promise)
