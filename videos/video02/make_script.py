@@ -25,8 +25,7 @@ sc("""In this video, we'll go through fifteen things that change at one hundred 
 exciting. Some are dangerous. And number fifteen is the mistake that keeps a lot of people stuck right at
 this level for years. We'll also look at exactly how long it takes to get there, with real math.""",
    "Calculator with financial charts", "15 CHANGES")
-pr("""Before we start, if you want to get better with money every week, hit subscribe and turn on the bell.
-Let's get into it. First, where does one hundred thousand dollars put you compared with everyone else?""")
+pr("""Let's get into it. First, where does one hundred thousand dollars put you compared with everyone else?""")
 
 # ---------------- Sources ----------------
 ch("How we got the numbers")
@@ -487,8 +486,7 @@ options multiply. And fifteen, the trap of easing off right when the snowball st
 ch("What to do next")
 pr("""If you want the full step by step plan, from zero to one hundred thousand and beyond, it's in my
 playbook. The link is in the description. And if you missed it, watch my video on what changes at twenty
-thousand dollars in the bank. That's the foundation for everything we talked about today. And subscribe, so
-the next one shows up for you. I'm Ryan Rover. See you in the next one.""")
+thousand dollars in the bank. That's the foundation for everything we talked about today. I'm Ryan Rover. See you in the next one.""")
 
 save("video02", "What Changes When You Hit $100,000 Net Worth", [
     "Federal Reserve, Survey of Consumer Finances 2022 (median net worth $192,700; by age: under 35 $39,040, 35-44 $135,300)",
