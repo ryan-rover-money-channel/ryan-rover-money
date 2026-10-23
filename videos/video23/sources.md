@@ -1,0 +1,11 @@
+- US Bureau of Economic Analysis, personal saving rate (around 4-5% in recent years)
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth under 35: about $39,040)
+- Federal Reserve, Economic Well-Being of U.S. Households in 2024 (63% would cover a $400 expense with cash or its equivalent)
+- HUD, cost-burdened households (over 30% of income on housing); Harvard Joint Center for Housing Studies, State of the Nation's Housing
+- Edmunds, share of new-car loans of 72 months or longer
+- Federal Reserve, G.19 Consumer Credit: credit card interest rates
+- Fidelity, retirement savings guideline (1x salary by 30, 3x by 40, 6x by 50, 8x by 60, 10x by 67)
+- Social Security Administration (benefits replace about 40% of pre-retirement income for the average worker)
+- Thomas J. Stanley, income statement vs balance sheet affluent; Mullainathan and Shafir, Scarcity (2013)
+- American Psychological Association, Stress in America surveys; BLS JOLTS layoffs and discharges; Federal Reserve Bank of New York, Household Debt and Credit Report
+- Growth example: monthly compounding at 7% average yearly return (illustration, not a promise)

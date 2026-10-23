@@ -1,0 +1,879 @@
+{
+ "id": "video23",
+ "angle": "21 signs you're poorer than you think, from 3 angles: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "21 Signs You're Poorer Than You Think",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Here's an uncomfortable idea. A lot of people who feel comfortable with money are actually much closer to trouble than they realize. They have a nice car, a decent salary, a phone that costs more than their first car. And underneath, there's almost nothing holding it all up. Today, twenty one signs you might be poorer than you think. And don't worry. Every sign comes with a fix.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here's a number that surprises people. According to the Bureau of Economic Analysis, the personal saving rate in the United States has been running at only around four to five percent of disposable income in recent years.",
+   "card": {
+    "type": "stat",
+    "label": "US personal saving rate",
+    "big": "~4-5%",
+    "sub": "Bureau of Economic Analysis, recent years"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That means the typical American household spends roughly ninety five cents of every dollar it takes home. With that little margin, a single job loss, illness or big repair can knock a family off balance. And because so many people live this way, it feels normal. When everybody around you is stretched, being stretched doesn't feel like a warning sign. That's exactly why these signs are so easy to miss.",
+   "query": "Busy city street people walking",
+   "caption": "95 CENTS OF EVERY DOLLAR",
+   "cuts": 5
+  },
+  {
+   "text": "We'll go through these signs from three angles. First, the numbers. Hard measurements you can check in ten minutes. Second, the psychology. The feelings and beliefs that hide the problem. And third, the playbook. The weak spots in your safety net, and how to fix each one. If you recognize yourself in a few of these, that's not bad news. It's information. And information is where every turnaround starts.",
+   "query": "Magnifying glass on documents",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the numbers. Grab a pen, because you'll want to check a few of these as we go.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Our numbers come from named sources. Saving data comes from the Bureau of Economic Analysis. Household wealth comes from the Federal Reserve's Survey of Consumer Finances, and emergency savings from the Federal Reserve's Survey of Household Economics and Decisionmaking. Housing cost burden comes from the Department of Housing and Urban Development and Harvard's Joint Center for Housing Studies. Retirement guidelines come from Fidelity. This is education, not financial advice.",
+   "query": "Government building columns",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Seven measurements that tell the truth, no matter how things look from the outside.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Sign number one. You don't know your net worth, or it's lower than you'd guess.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "You don't know your net worth",
+    "sub": "the one number that matters"
+   },
+   "caption": "SIGN 1",
+   "cuts": 1,
+   "chapter": "1. You don't know your net worth"
+  },
+  {
+   "text": "Net worth is simple. Everything you own, minus everything you owe. Savings, investments, retirement accounts, the value of your home and car, minus your mortgage, car loans, student loans and credit cards. Many people have never done this calculation. And many who do are shocked, because the car they think of as an asset is worth less than the loan on it.",
+   "query": "Balance scale concept",
+   "caption": "OWN MINUS OWE",
+   "cuts": 3
+  },
+  {
+   "text": "The Federal Reserve's Survey of Consumer Finances found that the median net worth for families headed by someone under thirty five was about thirty nine thousand dollars in twenty twenty two. Lots of young adults are below zero because of student loans, and that's not a disaster on its own. The danger is not knowing the number, because you can't tell whether you're moving forward or sliding back.",
+   "query": "Young adults with student loans",
+   "caption": "UNDER 35: ABOUT $39,000",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Tonight, make a simple list with two columns. What you own, and what you owe. Use realistic values, like what your car would actually sell for today. Subtract. Write the date next to the answer. Do it again in three months. The direction of that number matters much more than where it starts.",
+   "query": "Notebook with two columns",
+   "caption": "CHECK IT EVERY 3 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number two. A four hundred dollar surprise would mean borrowing.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "You couldn't cover $400 in cash",
+    "sub": "the emergency test"
+   },
+   "caption": "SIGN 2",
+   "cuts": 1,
+   "chapter": "2. You couldn't cover $400 in cash"
+  },
+  {
+   "text": "The Federal Reserve asks Americans every year how they would pay for an unexpected four hundred dollar expense. In its report for twenty twenty four, about sixty three percent said they would cover it with cash or its equivalent. The rest would need to use a credit card they couldn't pay off right away, borrow from someone, sell something, or simply couldn't pay.",
+   "query": "Car repair mechanic garage",
+   "caption": "THE $400 TEST",
+   "cuts": 3
+  },
+  {
+   "text": "Four hundred dollars is a dentist visit, a car repair, a vet bill or a broken phone. These things are not rare. They're guaranteed to happen eventually, we just don't know when. If one of them sends you into debt, your budget has no room for normal life. And the interest on that debt makes the next surprise even harder.",
+   "query": "Dentist office chair",
+   "caption": "SURPRISES ARE GUARANTEED",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Build a starter emergency fund of one thousand dollars in a separate savings account. Set an automatic transfer, even twenty dollars a week. Sell one thing you don't use. Put any refund or bonus there first. Once you reach one thousand dollars, aim for one month of expenses, then three.",
+   "query": "Savings jar labeled emergency",
+   "caption": "START WITH $1,000",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number three. You save less than five percent of what you earn.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "You save less than 5%",
+    "sub": "below the national average"
+   },
+   "caption": "SIGN 3",
+   "cuts": 1,
+   "chapter": "3. You save less than 5%"
+  },
+  {
+   "text": "Remember, the national personal saving rate has been around four to five percent in recent years. Many financial planners suggest aiming for fifteen percent or more toward retirement alone, including any employer match. If you're saving less than five percent in total, you may be falling behind without feeling it.",
+   "query": "Calculator and savings book",
+   "caption": "LESS THAN 5%",
+   "cuts": 3
+  },
+  {
+   "text": "Here's why this matters so much. Your savings rate decides how fast you build a cushion and how much freedom you'll eventually have. Someone saving twenty percent of their pay builds options far faster than someone saving two percent, even if they earn the same salary. The savings rate is the engine. Income is just the fuel.",
+   "query": "Car engine close up",
+   "caption": "THE SAVINGS RATE IS THE ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Calculate your savings rate. Add up everything you saved and invested last month, including retirement contributions, and divide by your take home pay. Then raise it by one percentage point. Next month, another point. Small increases are much easier to stick to than one big jump.",
+   "query": "Graph going up steps",
+   "caption": "ONE POINT AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number four. Your housing costs more than thirty percent of your income.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Housing eats more than 30%",
+    "sub": "house poor"
+   },
+   "caption": "SIGN 4",
+   "cuts": 1,
+   "chapter": "4. Housing eats more than 30%"
+  },
+  {
+   "text": "The Department of Housing and Urban Development considers households that spend more than thirty percent of their income on housing to be cost burdened. Harvard's Joint Center for Housing Studies has reported that about half of American renter households were cost burdened in recent years, a record high. Homeowners can be stretched too, especially with rising insurance and property taxes.",
+   "query": "Apartment building exterior",
+   "caption": "MORE THAN 30%",
+   "cuts": 3
+  },
+  {
+   "text": "When housing takes too much, everything else gets squeezed. Saving becomes impossible, small surprises become crises, and people start using credit cards to cover groceries. The term house poor describes people who own a beautiful home but can't afford to do anything else.",
+   "query": "Beautiful house empty rooms",
+   "caption": "HOUSE POOR",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Add up your full housing cost, including rent or mortgage, insurance, property taxes, HOA fees and utilities. Divide by your gross monthly income. If it's well above thirty percent, look at options over the next year. A roommate, a cheaper place when the lease ends, refinancing if rates allow, or appealing a property tax assessment.",
+   "query": "Rent and bills paperwork",
+   "caption": "ADD IT ALL UP",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number five. Your car loan stretches six years or more.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Your car loan is six years or longer",
+    "sub": "the stretched payment"
+   },
+   "caption": "SIGN 5",
+   "cuts": 1,
+   "chapter": "5. Your car loan is six years or longer"
+  },
+  {
+   "text": "Car prices have climbed, and to keep monthly payments manageable, lenders have stretched loans longer and longer. Edmunds has reported that a large share of new car loans now run seventy two months or more, and some run eighty four months. That's seven years of payments on something that loses value every year.",
+   "query": "New cars on dealership lot",
+   "caption": "72 TO 84 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "The longer the loan, the more interest you pay, and the more likely you'll owe more than the car is worth for years. That's called being underwater, or upside down. If you need to sell or trade the car, the negative equity can get rolled into the next loan, and the hole gets deeper.",
+   "query": "Car sinking in water concept",
+   "caption": "UNDERWATER",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Look up what your car would sell for today and compare it with your loan balance. If you're underwater, the best move is usually to keep the car, pay a little extra each month, and drive it for years after it's paid off. Next time, aim for a loan of four years or less, or buy a cheaper car with cash.",
+   "query": "Car keys and paid stamp",
+   "caption": "DRIVE IT AFTER IT'S PAID",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number six. You pay only the minimum on your credit cards.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "You pay only the minimum",
+    "sub": "the slow trap"
+   },
+   "caption": "SIGN 6",
+   "cuts": 1,
+   "chapter": "6. You pay only the minimum"
+  },
+  {
+   "text": "Credit card statements are required to show how long it would take to pay off your balance if you only make minimum payments. For many balances, the answer is many years, and the total interest can be a big share of what you originally spent. With average card rates above twenty percent, according to the Federal Reserve, the minimum payment keeps you paying for a long time.",
+   "query": "Credit card statement minimum payment",
+   "caption": "MINIMUM PAYMENT WARNING",
+   "cuts": 3
+  },
+  {
+   "text": "Paying the minimum feels responsible, because you're never late. But it's often a sign that the card is quietly funding your lifestyle. If your balance stays the same or keeps rising month after month, your spending is larger than your income, and the card is covering the gap.",
+   "query": "Credit cards cut with scissors",
+   "caption": "STOP ADDING",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Stop adding new charges to cards with a balance. Then list them by interest rate and attack the highest one with every extra dollar while paying the minimum on the rest. If your rate is very high, ask the issuer for a lower rate, or look into a nonprofit credit counseling agency.",
+   "query": "Person on phone with bank",
+   "caption": "ASK FOR A LOWER RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number seven. Your retirement savings are far behind common milestones.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Retirement savings are behind",
+    "sub": "the milestones"
+   },
+   "caption": "SIGN 7",
+   "cuts": 1,
+   "chapter": "7. Retirement savings are behind"
+  },
+  {
+   "text": "Fidelity offers a widely quoted guideline. Aim to have about one times your salary saved for retirement by thirty, three times by forty, six times by fifty, eight times by sixty, and ten times by sixty seven. These are rough targets, not rules, and they assume you start saving in your twenties. But they're a useful reality check.",
+   "query": "Retired couple walking",
+   "caption": "1X BY 30, 3X BY 40",
+   "cuts": 3
+  },
+  {
+   "text": "Social Security was designed to replace only part of your pre retirement income, and the Social Security Administration says that for the average worker it replaces roughly forty percent. If you're counting on it to cover everything, the gap can be painful. Being behind isn't a crisis at thirty five. Being behind and not knowing it can become one at sixty.",
+   "query": "Social Security card",
+   "caption": "ABOUT 40% REPLACED",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Find your total retirement savings and divide by your salary. Compare it with the milestone for your age. If you're behind, make sure you get the full employer match first, then raise your contribution by one percent a year. After fifty, catch up contributions can help, so check the current IRS limits.",
+   "query": "Retirement account online",
+   "caption": "RAISE IT 1% A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Let's turn those seven numbers into a quick checkup you can do tonight. Grab your phone and a piece of paper. First, write your net worth, even a rough one. Second, write how much cash you could reach today without borrowing. Third, write what percentage of last month's take home pay you saved or invested. That's three numbers in about five minutes.",
+   "query": "Phone and notepad on table",
+   "caption": "THE CHECKUP: 1 TO 3",
+   "cuts": 3,
+   "chapter": "The ten minute money checkup"
+  },
+  {
+   "text": "Fourth, divide your total housing cost by your gross monthly income. Fifth, write the number of months left on your car loan. Sixth, write whether you paid your credit cards in full last month, yes or no. And seventh, divide your retirement savings by your yearly salary. Seven numbers, ten minutes, and you'll know more about your real financial health than most people ever do.",
+   "query": "Calculator and pen close up",
+   "caption": "THE CHECKUP: 4 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "Keep that piece of paper. Put a date on it. In six months, do the checkup again. You're not looking for perfection. You're looking for direction. If four of those seven numbers moved the right way, you're winning, no matter where you started. And that sense of progress is one of the best motivators there is.",
+   "query": "Calendar six months ahead",
+   "caption": "CHECK THE DIRECTION",
+   "cuts": 3
+  },
+  {
+   "text": "Here's why the earlier you fix these numbers the better. Two hundred fifty dollars a month, invested for thirty years at a seven percent average yearly return, grows to roughly three hundred five thousand dollars. You'd put in ninety thousand.",
+   "card": {
+    "type": "growth",
+    "monthly": 250,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That's angle one. Seven numbers. If several of them made you uncomfortable, good. That discomfort is useful. Now angle two, the psychology. Because the numbers are often hidden behind feelings that tell us everything's fine.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Here's the strange thing about being poorer than you think. It often doesn't feel like being poor. Your card still works. Your paycheck still arrives. You can still go out to dinner. The feeling of being okay comes from cash flow, not from wealth. And cash flow can disappear in a single phone call from your boss.",
+   "query": "Person relaxed on couch with phone",
+   "caption": "FEELING OKAY",
+   "cuts": 3,
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Sign number eight. You feel rich for a few days after payday, and broke the week before.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "You feel rich on payday",
+    "sub": "the payday high"
+   },
+   "caption": "SIGN 8",
+   "cuts": 1,
+   "chapter": "8. You feel rich on payday"
+  },
+  {
+   "text": "This boom and bust cycle is one of the clearest signs of living paycheck to paycheck. Right after payday the account looks full, and spending feels easy. By the end of the month, you're checking your balance before buying groceries.",
+   "query": "Person celebrating with money",
+   "caption": "THE PAYDAY HIGH",
+   "cuts": 3
+  },
+  {
+   "text": "The problem isn't how much you earn. It's that your spending follows your balance instead of a plan. When money is there, it gets spent. People on very different incomes report this same feeling, which shows that it's a pattern, not a salary level.",
+   "query": "Empty wallet end of month",
+   "caption": "THE BROKE WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Make your account look emptier on payday. Move savings out first, automatically. Put money for fixed bills into a separate bills account. What's left in your checking account is what you can actually spend, and it can last the whole month.",
+   "query": "Two bank accounts on screen",
+   "caption": "MOVE IT OUT FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number nine. You measure how you're doing by what you own.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "You measure wealth by stuff",
+    "sub": "things are not wealth"
+   },
+   "caption": "SIGN 9",
+   "cuts": 1,
+   "chapter": "9. You measure wealth by stuff"
+  },
+  {
+   "text": "A big TV, a new SUV, nice clothes, the latest phone. These things can make you feel successful. But most of them lose value fast, and many were bought with credit. Thomas Stanley's research on millionaires found that many people who look rich have very little real wealth, while many quiet millionaires look completely ordinary.",
+   "query": "Luxury SUV in driveway",
+   "caption": "LOOKING SUCCESSFUL",
+   "cuts": 3
+  },
+  {
+   "text": "Stanley called the first group income statement affluent. They earn and spend a lot. He called the second group balance sheet affluent. They own assets that grow. If your sense of success comes from what other people can see, you might be building the wrong kind of wealth.",
+   "query": "Modest house with garden",
+   "caption": "THE QUIET MILLIONAIRE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Change your scoreboard. Instead of counting things, track three numbers every month. Net worth, savings rate, and months of expenses you could cover. Celebrate when those go up, not when you buy something new.",
+   "query": "Scoreboard numbers",
+   "caption": "CHANGE YOUR SCOREBOARD",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number ten. You're spending money you expect to earn later.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "You count on future money",
+    "sub": "spending raises you don't have yet"
+   },
+   "caption": "SIGN 10",
+   "cuts": 1,
+   "chapter": "10. You count on future money"
+  },
+  {
+   "text": "A raise you're hoping for, a bonus that isn't guaranteed, a tax refund, a promotion next year. Many people make today's purchases based on tomorrow's income. When that money arrives, it's already spent. And if it doesn't arrive, the debt stays.",
+   "query": "Person dreaming of future",
+   "caption": "SPENDING TOMORROW'S MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "This is how buy now pay later and credit cards hook people. They let you live in the future, today. The trouble is, the future has its own expenses. Jobs change, companies cut bonuses, and life throws surprises. Spending money you don't have yet turns optimism into risk.",
+   "query": "Buy now pay later on phone",
+   "caption": "LIVING IN THE FUTURE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Only spend money that has already arrived. Treat any raise, bonus or refund as zero until it's actually in your account. And when it does arrive, decide its job before spending any of it.",
+   "query": "Paycheck deposit notification",
+   "caption": "ONLY SPEND WHAT ARRIVED",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number eleven. You tell yourself everyone lives like this.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "You think everyone lives this way",
+    "sub": "normal isn't safe"
+   },
+   "caption": "SIGN 11",
+   "cuts": 1,
+   "chapter": "11. You think everyone lives this way"
+  },
+  {
+   "text": "It's true that many Americans are stretched. But normal isn't the same as safe. If most of your friends have car payments, credit card balances and no savings, that becomes your baseline. You compare yourself with them and feel fine.",
+   "query": "Group of friends at restaurant",
+   "caption": "EVERYONE DOES IT",
+   "cuts": 3
+  },
+  {
+   "text": "Researchers who study social comparison have found that people judge their situation largely by the people around them. That's useful when the people around you are doing well. It's dangerous when they're all quietly struggling. The comfort of being average can keep you from noticing real risk.",
+   "query": "Crowd of people walking",
+   "caption": "NORMAL ISN'T SAFE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Compare yourself with a standard, not a crowd. Can you cover three months of expenses? Are you saving at least ten to fifteen percent? Do you have a plan for retirement? Those questions don't care what your neighbors are doing.",
+   "query": "Checklist standard measurements",
+   "caption": "USE A STANDARD",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If any of these signs hit close to home, I want you to know there's no judgment here. I make these videos so people can see the problem early. If that's useful to you, subscribe to Ryan Rover Money. It's free and it helps the channel more than you'd think. Now, sign twelve.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Sign number twelve. You feel anxious checking your bank balance, so you don't.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "You avoid checking your balance",
+    "sub": "money anxiety"
+   },
+   "caption": "SIGN 12",
+   "cuts": 1,
+   "chapter": "12. You avoid checking your balance"
+  },
+  {
+   "text": "Money anxiety is very common. Surveys from organizations like the American Psychological Association have consistently found money to be one of the top sources of stress for Americans. When checking your account brings dread, it's natural to avoid it.",
+   "query": "Person stressed looking at phone",
+   "caption": "MONEY ANXIETY",
+   "cuts": 3
+  },
+  {
+   "text": "But avoidance makes things worse. Unchecked accounts lead to overdrafts, missed fraud, and spending that quietly runs ahead of your income. The anxiety is often a signal that, deep down, you already know something isn't right.",
+   "query": "Overdraft notice letter",
+   "caption": "AVOIDANCE MAKES IT WORSE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Make checking small and routine. Five minutes, the same time each week. Look at the balance, scan for anything strange, and close it. Over time, familiarity replaces fear. And as your cushion grows, the anxiety usually shrinks with it.",
+   "query": "Weekly calendar reminder",
+   "caption": "5 MINUTES A WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number thirteen. You use credit cards to keep up a normal life.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "You use credit to feel normal",
+    "sub": "keeping up"
+   },
+   "caption": "SIGN 13",
+   "cuts": 1,
+   "chapter": "13. You use credit to feel normal"
+  },
+  {
+   "text": "Groceries on the card. Gas on the card. A friend's wedding on the card. When credit pays for everyday life, not just emergencies, it means your income isn't covering your lifestyle. The card is filling the gap, and charging you over twenty percent for it.",
+   "query": "Grocery checkout paying with card",
+   "caption": "GROCERIES ON CREDIT",
+   "cuts": 3
+  },
+  {
+   "text": "This sign is especially hard to see because nothing feels extravagant. You're not buying yachts. You're buying normal things. But normal things paid with expensive debt slowly turn into a heavy monthly payment that takes away even more of your income.",
+   "query": "Wedding celebration",
+   "caption": "NORMAL THINGS, EXPENSIVE DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. For one month, use only debit or cash for everyday spending. It will feel tight, and that's the point. The tightness shows you the real size of the gap. Then close the gap from both sides, cutting where you can and looking for ways to earn more.",
+   "query": "Cash and debit card",
+   "caption": "ONE MONTH ON DEBIT",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number fourteen. Money is always on your mind.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "You think about money constantly",
+    "sub": "scarcity mindset"
+   },
+   "caption": "SIGN 14",
+   "cuts": 1,
+   "chapter": "14. You think about money constantly"
+  },
+  {
+   "text": "Researchers Sendhil Mullainathan and Eldar Shafir wrote a book called Scarcity. They found that when people are short on money, the worry takes up mental bandwidth. It's harder to focus, harder to plan, and easier to make short term decisions that cost more later.",
+   "query": "Person thinking hard at desk",
+   "caption": "SCARCITY",
+   "cuts": 3
+  },
+  {
+   "text": "That means being financially stretched doesn't just cost money. It costs attention. People who are always worried about the next bill have less energy for the long term moves, like learning a new skill or negotiating a raise, that could actually change their situation.",
+   "query": "Book on desk with glasses",
+   "caption": "MENTAL BANDWIDTH",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Create a small buffer, even a few hundred dollars, and protect it. Many people find that even a small cushion reduces the constant worry and frees up mental space. Then use that space to make one long term move at a time.",
+   "query": "Small savings jar with coins",
+   "caption": "A SMALL BUFFER HELPS",
+   "cuts": 3
+  },
+  {
+   "text": "Why are these psychological signs so hard to see in ourselves? Part of it is optimism bias. Research shows that most people tend to believe bad things are more likely to happen to others than to themselves. Job losses, illnesses, accidents. We know they happen. We just don't expect them to happen to us. That's why emergency funds feel optional until the day they're not.",
+   "query": "Sunny day optimistic person",
+   "caption": "OPTIMISM BIAS",
+   "cuts": 3,
+   "chapter": "Why the brain hides the problem"
+  },
+  {
+   "text": "Another part is that wealth is invisible and spending is visible. You can see a new car in the driveway. You can't see an emergency fund or a retirement account. So the signals around us constantly reward spending and almost never reward saving. Nobody compliments your index fund at a dinner party.",
+   "query": "Shiny new car in driveway",
+   "caption": "SPENDING IS VISIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "The answer is to make your progress visible, at least to yourself. Some people use a chart on the fridge. Some rename savings accounts after their goals, like freedom fund or new roof. Some celebrate every thousand dollars saved. When progress is visible, saving starts to feel as rewarding as spending once did.",
+   "query": "Progress chart on fridge",
+   "caption": "MAKE PROGRESS VISIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle two. Payday highs, stuff as a scoreboard, spending future money, comparing with the crowd, avoidance, credit for normal life and constant worry. Now angle three, the playbook. These are the weak spots in your safety net. And this is where we fix things.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Think of your finances like a house. Income is the roof. Savings are the walls. Insurance is the foundation. Most people focus on the roof and forget the rest. These last seven signs are cracks in the foundation, and each one has a straightforward repair.",
+   "query": "House construction frame",
+   "caption": "FIX THE FOUNDATION",
+   "cuts": 3,
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Sign number fifteen. Losing your job would be a crisis within weeks.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "One job loss from crisis",
+    "sub": "how long could you last?"
+   },
+   "caption": "SIGN 15",
+   "cuts": 1,
+   "chapter": "15. One job loss from crisis"
+  },
+  {
+   "text": "Ask yourself a simple question. If your income stopped tomorrow, how many months could you cover your essential expenses? Rent, food, utilities, insurance, minimum payments. For many households, the honest answer is less than one month.",
+   "query": "Office worker carrying box",
+   "caption": "IF YOUR INCOME STOPPED",
+   "cuts": 3
+  },
+  {
+   "text": "Job losses happen even to good workers. Companies restructure, industries change, and recessions come. The Bureau of Labor Statistics reports millions of layoffs and discharges every year, even in good economies. Your job security depends partly on things you can't control. Your cushion depends on you.",
+   "query": "Layoff news headline",
+   "caption": "LAYOFFS HAPPEN",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Calculate your essential monthly expenses. Multiply by three. That's your medium term goal. Six months is even better if your income is irregular or you're the only earner. Build it step by step, and keep it in an FDIC insured high yield savings account.",
+   "query": "High yield savings on phone",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number sixteen. All your income comes from one place.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "One income source",
+    "sub": "all eggs in one basket"
+   },
+   "caption": "SIGN 16",
+   "cuts": 1,
+   "chapter": "16. One income source"
+  },
+  {
+   "text": "Most people depend on a single paycheck. That's normal, and it's not wrong. But it means one decision by one employer can change your whole life. People who build wealth often add a second stream over time, like a side business, freelance work, rental income or investment income.",
+   "query": "Basket of eggs",
+   "caption": "ONE BASKET",
+   "cuts": 3
+  },
+  {
+   "text": "A second income stream doesn't have to be big. Even a few hundred dollars a month adds resilience, and if you invest it, it grows. It also builds skills and contacts that make you more valuable in your main job.",
+   "query": "Freelancer working on laptop",
+   "caption": "A SECOND STREAM",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. List three skills people might pay you for. Pick one and test it with a single small project this month. Keep your expectations modest and your costs low. If it works, put most of what you earn into savings or investments, not into a bigger lifestyle.",
+   "query": "Notebook brainstorming list",
+   "caption": "TEST ONE SKILL",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number seventeen. You're missing basic insurance.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "No insurance safety net",
+    "sub": "one accident away"
+   },
+   "caption": "SIGN 17",
+   "cuts": 1,
+   "chapter": "17. No insurance safety net"
+  },
+  {
+   "text": "No health insurance, no renters insurance, the minimum car insurance, no disability coverage, and no life insurance even though people depend on you. Insurance feels like money thrown away until something goes wrong. Medical bills are one of the most common reasons Americans fall into debt.",
+   "query": "Hospital hallway",
+   "caption": "ONE ACCIDENT AWAY",
+   "cuts": 3
+  },
+  {
+   "text": "Disability insurance is the one people forget most. Your ability to earn an income over your career is probably your biggest financial asset, and an illness or injury can stop it. Many employers offer disability coverage, sometimes very cheaply.",
+   "query": "Person with cast on arm",
+   "caption": "PROTECT YOUR INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. List every type of insurance you have and what it covers. Check for the big gaps first. Health, disability if you work, life if anyone depends on your income, and liability. Renters insurance is often quite inexpensive and covers more than people expect.",
+   "query": "Insurance documents checklist",
+   "caption": "FIND THE GAPS",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number eighteen. Almost all your wealth is in your home.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "No investments outside your home",
+    "sub": "house rich, cash poor"
+   },
+   "caption": "SIGN 18",
+   "cuts": 1,
+   "chapter": "18. No investments outside your home"
+  },
+  {
+   "text": "Home equity counts toward net worth. But it's hard to use. You can't spend a bedroom at the grocery store. To turn home equity into cash, you usually need to sell or borrow against it. Many people reach their fifties or sixties with a valuable house and very little else.",
+   "query": "House with for sale sign",
+   "caption": "YOU CAN'T SPEND A BEDROOM",
+   "cuts": 3
+  },
+  {
+   "text": "A home is a place to live first. It's also concentrated in one property, one neighborhood and one local market. Investments like broad index funds spread risk across thousands of companies, and they can provide income in retirement without needing to sell your home.",
+   "query": "Diverse investment portfolio chart",
+   "caption": "SPREAD THE RISK",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Make sure you're investing outside your home, ideally through tax advantaged retirement accounts. Even if your house is your biggest asset, aim to build a second pile of wealth that you can actually access.",
+   "query": "Retirement account dashboard",
+   "caption": "BUILD A SECOND PILE",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number nineteen. You pay for convenience you can't really afford.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Paying for convenience you can't afford",
+    "sub": "the premium lifestyle"
+   },
+   "caption": "SIGN 19",
+   "cuts": 1,
+   "chapter": "19. Paying for convenience you can't afford"
+  },
+  {
+   "text": "Delivery fees, ride shares, premium subscriptions, pre cut vegetables, expensive coffees. Convenience is wonderful when you have room in your budget. When you don't, it becomes a quiet premium on almost everything you buy.",
+   "query": "Delivery driver with bag",
+   "caption": "THE CONVENIENCE PREMIUM",
+   "cuts": 3
+  },
+  {
+   "text": "The tricky part is that convenience often feels like a necessity when you're busy and tired. And many people who are stretched financially are also stretched for time. That makes convenience spending one of the hardest habits to change, and one of the most expensive.",
+   "query": "Tired person after work",
+   "caption": "BUSY AND TIRED",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Pick the single most expensive convenience in your budget and cut it in half for one month. For example, delivery twice a week instead of four times. Put the difference into savings automatically, so you can see what the change is worth.",
+   "query": "Cooking simple meal at home",
+   "caption": "CUT IT IN HALF",
+   "cuts": 3
+  },
+  {
+   "text": "Sign number twenty. Your total debt is higher than it was a year ago.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Your debt keeps growing",
+    "sub": "the direction matters"
+   },
+   "caption": "SIGN 20",
+   "cuts": 1,
+   "chapter": "20. Your debt keeps growing"
+  },
+  {
+   "text": "Debt isn't automatically bad. A reasonable mortgage or student loan can make sense. But if your total debt, not counting a new mortgage, keeps rising year after year, it usually means spending is outrunning income. And rising debt means rising interest payments, which take even more income next year.",
+   "query": "Stack of bills and calculator",
+   "caption": "DEBT GOING UP",
+   "cuts": 3
+  },
+  {
+   "text": "The New York Fed's household debt reports show total American household debt at record levels in recent years, including credit cards and auto loans. That doesn't mean your debt has to follow the national trend. The direction of your own debt is one of the clearest signals of where you're headed.",
+   "query": "Federal Reserve Bank of New York building",
+   "caption": "RECORD HOUSEHOLD DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Write down every debt, its balance and its rate. Next year, you want that total to be smaller. Choose a payoff method, like paying the highest rate first, and automate an extra payment, however small.",
+   "query": "Debt payoff chart going down",
+   "caption": "MAKE IT SMALLER",
+   "cuts": 3
+  },
+  {
+   "text": "And sign number twenty one. You don't have a written money plan.",
+   "card": {
+    "type": "list",
+    "n": 21,
+    "title": "You have no plan",
+    "sub": "hoping isn't a strategy"
+   },
+   "caption": "SIGN 21",
+   "cuts": 1,
+   "chapter": "21. You have no plan"
+  },
+  {
+   "text": "No budget, no goals, no idea when you could retire. Just hoping things work out. Hope is wonderful for motivation, but it's a terrible financial strategy. Without a plan, every decision happens in the moment, and the moment usually wants to spend.",
+   "query": "Person looking at map lost",
+   "caption": "HOPING ISN'T A PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "A plan doesn't have to be complex. It can fit on one page. What comes in, what goes out, what you save, what you're paying off, and what you're working toward. People who write down their goals tend to take them more seriously, because a written goal is a promise to yourself.",
+   "query": "One page plan on desk",
+   "caption": "IT FITS ON ONE PAGE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix. Write a one page plan this week. Income, fixed costs, savings, debts and three goals with numbers and dates. Review it once a month. Update it once a year. That one page can change the direction of your whole financial life.",
+   "query": "Calendar with monthly review",
+   "caption": "REVIEW MONTHLY",
+   "cuts": 3
+  },
+  {
+   "text": "Let me tell you a story that shows how these signs hide in plain sight.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The couple who looked fine"
+  },
+  {
+   "text": "Imagine a couple in their late thirties. Let's call them Chris and Dana. Two good jobs, combined income of about one hundred forty thousand dollars. A nice home in the suburbs, two newer cars, a family vacation every summer. Their friends think they're doing great. Honestly, so do they.",
+   "query": "Suburban family home",
+   "caption": "CHRIS AND DANA",
+   "cuts": 3
+  },
+  {
+   "text": "Then Chris's company announces layoffs. Suddenly, they run the numbers for the first time. Their housing takes almost forty percent of their income. Both car loans run seventy two months. They carry eight thousand dollars on credit cards. They have about two thousand dollars in savings, and their retirement accounts are far behind the milestones for their age.",
+   "query": "Couple at table with bills worried",
+   "caption": "THE NUMBERS FOR THE FIRST TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Chris keeps the job, this time. But the scare changes everything. They build a one page plan. They stop adding to the cards and pay them off in about a year. They raise retirement contributions one percent at a time. When the lease on one car ends, they replace it with an older, paid off model. Within three years, they have six months of expenses saved.",
+   "query": "Couple high five at home",
+   "caption": "THE TURNAROUND",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the lesson. Nothing about their income changed. Their friends probably didn't notice any difference. What changed was that they finally looked at the signs. They were poorer than they thought. Once they knew it, they could fix it. That's exactly what this video is meant to do for you.",
+   "query": "Couple walking in park smiling",
+   "caption": "LOOKING IS THE FIRST STEP",
+   "cuts": 3
+  },
+  {
+   "text": "Okay. Let's turn this into a simple score.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Score yourself"
+  },
+  {
+   "text": "Count how many of the twenty one signs applied to you. Zero to three. You're in good shape. Keep building and check again next year. Four to eight. You're like a lot of people, comfortable on the surface with a few weak spots. Pick the two most dangerous ones and fix them in the next three months.",
+   "query": "Scorecard with pen",
+   "caption": "SCORE YOURSELF",
+   "cuts": 3
+  },
+  {
+   "text": "Nine to fourteen. You're more exposed than you probably feel. Focus first on the emergency fund and high interest debt, because those protect you from the next surprise. Fifteen or more. Don't panic. You've just discovered the truth, and that's the hardest step. Start with one sign from each angle this month.",
+   "query": "Person climbing mountain",
+   "caption": "WHERE TO START",
+   "cuts": 3
+  },
+  {
+   "text": "Whatever your score, remember that these signs aren't a judgment of who you are. They're a snapshot of where you are. Snapshots change. The person who scores twelve today and works on it for two years can easily score three. That's the whole point of looking.",
+   "query": "Old photos and new photos",
+   "caption": "A SNAPSHOT, NOT A VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. I have a high income. Do these signs still apply? Absolutely. Many high earners live paycheck to paycheck because their spending rises with their income. In fact, a high income can hide these signs for longer, until a job loss suddenly reveals them.",
+   "query": "Business professional in office",
+   "caption": "HIGH INCOME TOO?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question two. Which sign is most dangerous? For most people, it's the combination of no emergency fund and growing credit card debt. Together, they create a cycle where every surprise adds expensive debt, and the debt makes it harder to save for the next surprise.",
+   "query": "Chain links close up",
+   "caption": "THE MOST DANGEROUS COMBO",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Should I pay off debt or build savings first? Many planners suggest a small starter emergency fund first, around one thousand dollars, so new surprises don't become new debt. Then attack high interest debt aggressively. Then build the full emergency fund.",
+   "query": "Balance scale with coins",
+   "caption": "DEBT OR SAVINGS FIRST?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. I'm in my fifties and I matched most of these signs. Is it too late? No. Your fifties are often your highest earning years, and the tax rules give you extra room to save through catch up contributions. You may need to work a few years longer or adjust your retirement lifestyle, but every year of strong saving now makes a real difference. Starting late beats never starting.",
+   "query": "Older man working at desk",
+   "caption": "IN YOUR FIFTIES?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. How often should I check these signs? A full checkup twice a year is plenty for most people. Your net worth and savings rate are worth a quick look every month. The goal is to stay aware without becoming obsessed. Money should serve your life, not take it over.",
+   "query": "Calendar with two dates circled",
+   "caption": "HOW OFTEN TO CHECK",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. Can I fix several signs at once? You can, but most people do better fixing one or two at a time. Each fix frees up money or attention for the next one. Paying off a card frees up cash for the emergency fund. The emergency fund protects you from new debt. Small wins stack, and momentum is easier to keep than to start.",
+   "query": "Dominoes falling in a row",
+   "caption": "ONE FIX LEADS TO THE NEXT",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Angle one, the numbers. You don't know your net worth, you couldn't cover four hundred dollars in cash, you save less than five percent, housing eats more than thirty percent, your car loan is six years or longer, you pay only the minimum, and your retirement savings are behind.",
+   "query": "Checklist on clipboard",
+   "caption": "THE NUMBERS: 1 TO 7",
+   "cuts": 3,
+   "chapter": "Recap: all 21 signs"
+  },
+  {
+   "text": "Angle two, the psychology. You feel rich on payday, you measure wealth by stuff, you count on future money, you think everyone lives this way, you avoid your balance, you use credit to feel normal, and money is always on your mind.",
+   "query": "Person thinking at window",
+   "caption": "THE PSYCHOLOGY: 8 TO 14",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three, the playbook. One job loss from crisis, one income source, no insurance net, no investments outside your home, convenience you can't afford, growing debt, and no plan.",
+   "query": "Notebook with plan",
+   "caption": "THE PLAYBOOK: 15 TO 21",
+   "cuts": 3
+  },
+  {
+   "text": "Remember, feeling poor and being poor are not the same, and feeling fine and being fine are not the same either. The numbers tell the truth. Look at them regularly, and they will tell you exactly what to do next. If you counted more signs than you'd like, that's okay. You now know exactly where to start. My playbook walks through the whole plan step by step, and the link is in the description. Tell me your score in the comments, no judgment. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
