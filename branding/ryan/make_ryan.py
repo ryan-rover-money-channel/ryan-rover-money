@@ -11,10 +11,13 @@ W, H = 1920, 1080
 CX = 960  # character centre
 
 INK = "#1B1B1F"
-SKIN = "#F1C29C"
-SKIN_SH = "#DDA27C"
-HAIR = "#4E3420"
-HAIR_HI = "#6B4A2E"
+SKIN = "#F3CBAE"
+SKIN_SH = "#DFAA8A"
+HAIR = "#2A1D16"
+HAIR_HI = "#4A372B"
+BEARD = "#3A2B21"
+MUSTACHE = "#7A563C"
+LIP = "#E2AE96"
 NAVY = "#1F2F4D"
 NAVY_SH = "#16223A"
 SUIT = "#2B3245"
@@ -107,22 +110,24 @@ def head_base():
     <path d="M{CX-145} 380 Q{CX-150} 300 {CX} 288 Q{CX+150} 300 {CX+145} 380
              L{CX+140} 510 Q{CX+132} 588 {CX+62} 620 Q{CX} 642 {CX-62} 620
              Q{CX-132} 588 {CX-140} 510 Z" fill="{SKIN}"/>
-    <!-- light stubble -->
-    <path d="M{CX-130} 520 Q{CX-118} 595 {CX-62} 616 Q{CX} 636 {CX+62} 616 Q{CX+118} 595 {CX+130} 520
-             Q{CX+60} 592 {CX} 588 Q{CX-60} 592 {CX-130} 520 Z" fill="{HAIR}" opacity="0.14" stroke="none"/>
-    <!-- social haircut: short sides, side part, swept top -->
-    <path d="M{CX-148} 405 Q{CX-162} 290 {CX-80} 248 Q{CX+10} 215 {CX+105} 245
-             Q{CX+168} 275 {CX+150} 405 Q{CX+146} 352 {CX+128} 335
-             Q{CX+60} 300 {CX-20} 318 Q{CX-50} 312 {CX-62} 292
-             Q{CX-100} 318 {CX-126} 340 Q{CX-142} 365 {CX-148} 405 Z" fill="{HAIR}"/>
-    <path d="M{CX-82} 252 Q{CX-70} 275 {CX-62} 292" fill="none" stroke="{HAIR_HI}" stroke-width="5"/>
-    <path d="M{CX-40} 262 Q{CX+40} 238 {CX+110} 262" fill="none" stroke="{HAIR_HI}" stroke-width="9"/>
-    <path d="M{CX-10} 290 Q{CX+60} 272 {CX+125} 300" fill="none" stroke="{HAIR_HI}" stroke-width="6"/>
+    <!-- full short beard (from Vinicius's reference photo) -->
+    <path d="M{CX-148} 432 L{CX-143} 512 Q{CX-136} 606 {CX-62} 646 Q{CX} 672 {CX+62} 646
+             Q{CX+136} 606 {CX+143} 512 L{CX+148} 432 L{CX+130} 432 L{CX+126} 515 Q{CX+104} 560 {CX+62} 546
+             Q{CX} 536 {CX-62} 546 Q{CX-104} 560 {CX-126} 515 L{CX-130} 432 Z" fill="{BEARD}" stroke-width="5"/>
+    <ellipse cx="{CX}" cy="574" rx="44" ry="17" fill="{LIP}" stroke="none"/>
+    <!-- dark wavy hair with volume, swept to the side -->
+    <path d="M{CX-150} 420 Q{CX-172} 330 {CX-132} 282 Q{CX-122} 228 {CX-62} 222
+             Q{CX-22} 190 {CX+32} 210 Q{CX+84} 194 {CX+118} 232 Q{CX+170} 250 {CX+162} 312
+             Q{CX+176} 362 {CX+152} 420 Q{CX+150} 362 {CX+122} 338 Q{CX+84} 348 {CX+52} 322
+             Q{CX+12} 346 {CX-28} 318 Q{CX-70} 340 {CX-100} 322 Q{CX-132} 352 {CX-150} 420 Z" fill="{HAIR}"/>
+    <path d="M{CX-95} 255 Q{CX-60} 240 {CX-30} 262" fill="none" stroke="{HAIR_HI}" stroke-width="7"/>
+    <path d="M{CX+5} 240 Q{CX+45} 225 {CX+85} 250" fill="none" stroke="{HAIR_HI}" stroke-width="7"/>
+    <path d="M{CX+70} 290 Q{CX+110} 280 {CX+135} 305" fill="none" stroke="{HAIR_HI}" stroke-width="6"/>
     <!-- nose -->
     <path d="M{CX+4} 455 Q{CX-14} 500 {CX-6} 510 Q{CX+10} 516 {CX+22} 508" fill="none" stroke-width="5"/>
     <!-- cheek tone -->
-    <ellipse cx="{CX-92}" cy="522" rx="22" ry="11" fill="#EE9C86" opacity="0.30" stroke="none"/>
-    <ellipse cx="{CX+92}" cy="522" rx="22" ry="11" fill="#EE9C86" opacity="0.30" stroke="none"/>
+    <ellipse cx="{CX-92}" cy="505" rx="20" ry="9" fill="#EE9C86" opacity="0.30" stroke="none"/>
+    <ellipse cx="{CX+92}" cy="505" rx="20" ry="9" fill="#EE9C86" opacity="0.30" stroke="none"/>
   </g>"""
 
 def eyes(state="open", look=(0, 0)):
@@ -136,7 +141,7 @@ def eyes(state="open", look=(0, 0)):
             out.append(f'<circle cx="{ex+lx}" cy="{449+ly}" r="10" fill="{INK}"/>')
         else:
             out.append(f'<ellipse cx="{ex}" cy="450" rx="22" ry="17" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/>')
-            out.append(f'<circle cx="{ex+lx}" cy="{451+ly}" r="11" fill="#3B2A1E"/>')
+            out.append(f'<circle cx="{ex+lx}" cy="{451+ly}" r="11" fill="#5A3A22"/>')
             out.append(f'<circle cx="{ex+lx+4}" cy="{447+ly}" r="3.5" fill="#FFFFFF"/>')
             # upper lid: calm, confident look
             out.append(f'<path d="M{ex-25} 446 Q{ex} 428 {ex+25} 446" fill="none" stroke="{INK}" stroke-width="7" stroke-linecap="round"/>')
@@ -150,11 +155,11 @@ def brows(kind="normal"):
         yy = y[i]
         inner = ex + (30 if i == 0 else -30)
         outer = ex + (-32 if i == 0 else 32)
-        out.append(f'<path d="M{outer} {yy+tilt} Q{ex} {yy-10} {inner} {yy}" fill="none" stroke="{HAIR}" stroke-width="15" stroke-linecap="round"/>')
+        out.append(f'<path d="M{outer} {yy+tilt} Q{ex} {yy-10} {inner} {yy}" fill="none" stroke="{HAIR}" stroke-width="18" stroke-linecap="round"/>')
     return "\n  ".join(out)
 
 def mouth(kind="closed"):
-    my = 562
+    my = 568
     if kind == "closed":
         return f'<path d="M{CX-44} {my} Q{CX} {my+26} {CX+44} {my}" fill="none" stroke="{INK}" stroke-width="7" stroke-linecap="round"/>'
     if kind == "mid":
@@ -179,8 +184,13 @@ def mouth(kind="closed"):
     raise ValueError(kind)
 
 
+def mustache():
+    return (f'<path d="M{CX-66} 566 Q{CX-50} 532 {CX} 538 Q{CX+50} 532 {CX+66} 566 '
+            f'Q{CX+40} 560 {CX} 562 Q{CX-40} 560 {CX-66} 566 Z" fill="{MUSTACHE}" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>')
+
+
 def ryan(mouth_kind="closed", eye_state="open", brow="normal", look=(0, 0), bg=True):
-    head = [head_base(), eyes(eye_state, look), brows(brow), mouth(mouth_kind)]
+    head = [head_base(), eyes(eye_state, look), brows(brow), mouth(mouth_kind), mustache()]
     head_g = f'<g transform="translate(0 {HEAD_DY}) translate({CX} 450) scale({HEAD_SCALE}) translate({-CX} -450)">' + "\n".join(head) + "</g>"
     parts = [background() if bg else "", body(), head_g]
     return f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">' + "\n".join(parts) + "</svg>"

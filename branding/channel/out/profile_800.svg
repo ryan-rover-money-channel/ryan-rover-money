@@ -13,7 +13,7 @@
     <path d="M698 1100 L692 860" fill="none" stroke="#1E2433" stroke-width="8"/>
     <path d="M1222 1100 L1228 860" fill="none" stroke="#1E2433" stroke-width="8"/>
     <!-- neck -->
-    <path d="M888 640 L884 722 Q960 760 1036 722 L1032 640 Z" fill="#DDA27C"/>
+    <path d="M888 640 L884 722 Q960 760 1036 722 L1032 640 Z" fill="#DFAA8A"/>
     <!-- shirt -->
     <path d="M848 712 L960 1100 L1072 712 Q960 745 848 712 Z" fill="#F4F2EC"/>
     <!-- tie -->
@@ -35,40 +35,43 @@
 <g transform="translate(0 25) translate(960 450) scale(1.15) translate(-960 -450)">
   <g stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
     <!-- ears -->
-    <ellipse cx="813" cy="455" rx="28" ry="42" fill="#F1C29C"/>
-    <ellipse cx="1107" cy="455" rx="28" ry="42" fill="#F1C29C"/>
+    <ellipse cx="813" cy="455" rx="28" ry="42" fill="#F3CBAE"/>
+    <ellipse cx="1107" cy="455" rx="28" ry="42" fill="#F3CBAE"/>
     <path d="M808 440 Q822 455 810 472" fill="none" stroke-width="4"/>
     <path d="M1112 440 Q1098 455 1110 472" fill="none" stroke-width="4"/>
     <!-- face: squarer jaw -->
     <path d="M815 380 Q810 300 960 288 Q1110 300 1105 380
              L1100 510 Q1092 588 1022 620 Q960 642 898 620
-             Q828 588 820 510 Z" fill="#F1C29C"/>
-    <!-- light stubble -->
-    <path d="M830 520 Q842 595 898 616 Q960 636 1022 616 Q1078 595 1090 520
-             Q1020 592 960 588 Q900 592 830 520 Z" fill="#4E3420" opacity="0.14" stroke="none"/>
-    <!-- social haircut: short sides, side part, swept top -->
-    <path d="M812 405 Q798 290 880 248 Q970 215 1065 245
-             Q1128 275 1110 405 Q1106 352 1088 335
-             Q1020 300 940 318 Q910 312 898 292
-             Q860 318 834 340 Q818 365 812 405 Z" fill="#4E3420"/>
-    <path d="M878 252 Q890 275 898 292" fill="none" stroke="#6B4A2E" stroke-width="5"/>
-    <path d="M920 262 Q1000 238 1070 262" fill="none" stroke="#6B4A2E" stroke-width="9"/>
-    <path d="M950 290 Q1020 272 1085 300" fill="none" stroke="#6B4A2E" stroke-width="6"/>
+             Q828 588 820 510 Z" fill="#F3CBAE"/>
+    <!-- full short beard (from Vinicius's reference photo) -->
+    <path d="M812 432 L817 512 Q824 606 898 646 Q960 672 1022 646
+             Q1096 606 1103 512 L1108 432 L1090 432 L1086 515 Q1064 560 1022 546
+             Q960 536 898 546 Q856 560 834 515 L830 432 Z" fill="#3A2B21" stroke-width="5"/>
+    <ellipse cx="960" cy="574" rx="44" ry="17" fill="#E2AE96" stroke="none"/>
+    <!-- dark wavy hair with volume, swept to the side -->
+    <path d="M810 420 Q788 330 828 282 Q838 228 898 222
+             Q938 190 992 210 Q1044 194 1078 232 Q1130 250 1122 312
+             Q1136 362 1112 420 Q1110 362 1082 338 Q1044 348 1012 322
+             Q972 346 932 318 Q890 340 860 322 Q828 352 810 420 Z" fill="#2A1D16"/>
+    <path d="M865 255 Q900 240 930 262" fill="none" stroke="#4A372B" stroke-width="7"/>
+    <path d="M965 240 Q1005 225 1045 250" fill="none" stroke="#4A372B" stroke-width="7"/>
+    <path d="M1030 290 Q1070 280 1095 305" fill="none" stroke="#4A372B" stroke-width="6"/>
     <!-- nose -->
     <path d="M964 455 Q946 500 954 510 Q970 516 982 508" fill="none" stroke-width="5"/>
     <!-- cheek tone -->
-    <ellipse cx="868" cy="522" rx="22" ry="11" fill="#EE9C86" opacity="0.30" stroke="none"/>
-    <ellipse cx="1052" cy="522" rx="22" ry="11" fill="#EE9C86" opacity="0.30" stroke="none"/>
+    <ellipse cx="868" cy="505" rx="20" ry="9" fill="#EE9C86" opacity="0.30" stroke="none"/>
+    <ellipse cx="1052" cy="505" rx="20" ry="9" fill="#EE9C86" opacity="0.30" stroke="none"/>
   </g>
 <ellipse cx="900" cy="450" rx="22" ry="17" fill="#FFFFFF" stroke="#1B1B1F" stroke-width="4"/>
-  <circle cx="900" cy="451" r="11" fill="#3B2A1E"/>
+  <circle cx="900" cy="451" r="11" fill="#5A3A22"/>
   <circle cx="904" cy="447" r="3.5" fill="#FFFFFF"/>
   <path d="M875 446 Q900 428 925 446" fill="none" stroke="#1B1B1F" stroke-width="7" stroke-linecap="round"/>
   <ellipse cx="1020" cy="450" rx="22" ry="17" fill="#FFFFFF" stroke="#1B1B1F" stroke-width="4"/>
-  <circle cx="1020" cy="451" r="11" fill="#3B2A1E"/>
+  <circle cx="1020" cy="451" r="11" fill="#5A3A22"/>
   <circle cx="1024" cy="447" r="3.5" fill="#FFFFFF"/>
   <path d="M995 446 Q1020 428 1045 446" fill="none" stroke="#1B1B1F" stroke-width="7" stroke-linecap="round"/>
-<path d="M868 402 Q900 388 930 398" fill="none" stroke="#4E3420" stroke-width="15" stroke-linecap="round"/>
-  <path d="M1052 402 Q1020 388 990 398" fill="none" stroke="#4E3420" stroke-width="15" stroke-linecap="round"/>
-<path d="M902 554 Q960 568 1018 554 Q1008 610 960 612 Q912 610 902 554 Z" fill="#7A2E2E" stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round"/><path d="M910 558 Q960 570 1010 558 L1004 574 Q960 584 916 574 Z" fill="#FFFFFF"/></g></svg>
+<path d="M868 402 Q900 388 930 398" fill="none" stroke="#2A1D16" stroke-width="18" stroke-linecap="round"/>
+  <path d="M1052 402 Q1020 388 990 398" fill="none" stroke="#2A1D16" stroke-width="18" stroke-linecap="round"/>
+<path d="M902 560 Q960 574 1018 560 Q1008 616 960 618 Q912 616 902 560 Z" fill="#7A2E2E" stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round"/><path d="M910 564 Q960 576 1010 564 L1004 580 Q960 590 916 580 Z" fill="#FFFFFF"/>
+<path d="M894 566 Q910 532 960 538 Q1010 532 1026 566 Q1000 560 960 562 Q920 560 894 566 Z" fill="#7A563C" stroke="#1B1B1F" stroke-width="5" stroke-linejoin="round"/></g></svg>
 </svg>
