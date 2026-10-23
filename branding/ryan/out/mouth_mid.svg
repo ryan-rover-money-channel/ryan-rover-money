@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EAF3EC"/><stop offset="1" stop-color="#CFE5D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <!-- shelf left -->
+  <g stroke="#1B1B1F" stroke-width="5" stroke-linejoin="round">
+    <rect x="150" y="300" width="420" height="22" rx="6" fill="#C9A47A"/>
+    <rect x="175" y="200" width="40" height="100" fill="#2FA36B"/>
+    <rect x="220" y="215" width="34" height="85" fill="#F2B84B"/>
+    <rect x="259" y="190" width="44" height="110" fill="#1F2F4D"/>
+    <rect x="308" y="225" width="30" height="75" fill="#E06B4F"/>
+    <path d="M430 300 L430 250 Q470 215 510 250 L510 300 Z" fill="#F4F2EC"/>
+    <text x="470" y="285" font-family="DejaVu Sans" font-weight="bold" font-size="34" text-anchor="middle" fill="#2FA36B" stroke="none">$</text>
+  </g>
+  <!-- chart frame right -->
+  <g stroke="#1B1B1F" stroke-width="5" stroke-linejoin="round" fill="none">
+    <rect x="1390" y="170" width="360" height="250" rx="14" fill="#FFFFFF"/>
+    <path d="M1430 380 L1500 340 L1560 355 L1630 280 L1710 215" stroke="#2FA36B" stroke-width="10" stroke-linecap="round"/>
+    <path d="M1690 210 L1714 212 L1708 236" stroke="#2FA36B" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <!-- plant -->
+  <g stroke="#1B1B1F" stroke-width="5" stroke-linejoin="round">
+    <path d="M1560 760 Q1500 640 1530 560 Q1580 640 1575 760 Z" fill="#2FA36B"/>
+    <path d="M1590 760 Q1620 620 1700 590 Q1680 690 1605 760 Z" fill="#3CB97C"/>
+    <path d="M1530 760 L1650 760 L1630 870 L1550 870 Z" fill="#E7DCC9"/>
+  </g>
+
+  <g stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- hoodie torso -->
+    <path d="M530 1100 Q540 790 710 735 Q840 700 960 705
+             Q1080 700 1210 735 Q1380 790 1390 1100 Z" fill="#1F2F4D"/>
+    <path d="M660 1100 Q660 900 710 840" fill="none" stroke="#16223A" stroke-width="10"/>
+    <path d="M1260 1100 Q1260 900 1210 840" fill="none" stroke="#16223A" stroke-width="10"/>
+    <!-- neck -->
+    <path d="M888 640 L884 720 Q960 760 1036 720 L1032 640 Z" fill="#DDA27C"/>
+    <!-- t-shirt V -->
+    <path d="M865 712 Q960 830 1055 712 Q960 760 865 712 Z" fill="#F4F2EC"/>
+    <!-- hood collar -->
+    <path d="M770 725 Q840 690 870 712 Q960 850 1050 712
+             Q1080 690 1150 725 Q1110 800 960 870 Q810 800 770 725 Z" fill="#16223A"/>
+    <path d="M870 712 Q960 850 1050 712" fill="none"/>
+    <!-- drawstrings -->
+    <path d="M915 815 L905 960" fill="none" stroke="#F4F2EC" stroke-width="9"/>
+    <path d="M1005 815 L1015 960" fill="none" stroke="#F4F2EC" stroke-width="9"/>
+    <circle cx="905" cy="968" r="9" fill="#2FA36B"/>
+    <circle cx="1015" cy="968" r="9" fill="#2FA36B"/>
+    <!-- chest badge: $ coin -->
+    <circle cx="1175" cy="880" r="34" fill="#2FA36B" stroke-width="5"/>
+    <text x="1175" y="895" font-family="DejaVu Sans" font-weight="bold" font-size="42" text-anchor="middle" fill="#FFFFFF" stroke="none">$</text>
+  </g>
+<g transform="translate(0 25) translate(960 450) scale(1.15) translate(-960 -450)">
+  <g stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- ears -->
+    <ellipse cx="810" cy="455" rx="30" ry="44" fill="#F1C29C"/>
+    <ellipse cx="1110" cy="455" rx="30" ry="44" fill="#F1C29C"/>
+    <path d="M805 440 Q820 455 808 472" fill="none" stroke-width="4"/>
+    <path d="M1115 440 Q1100 455 1112 472" fill="none" stroke-width="4"/>
+    <!-- face -->
+    <path d="M812 380 Q808 300 960 285 Q1112 300 1108 380
+             L1102 500 Q1085 600 960 630 Q835 600 818 500 Z" fill="#F1C29C"/>
+    <!-- stubble -->
+    <path d="M832 520 Q850 600 960 622 Q1070 600 1088 520
+             Q1020 590 960 585 Q900 590 832 520 Z" fill="#4E3420" opacity="0.18" stroke="none"/>
+    <!-- hair -->
+    <path d="M800 410 Q775 250 900 225 Q1000 190 1080 235
+             Q1150 270 1122 410 Q1110 345 1070 320
+             Q980 350 900 318 Q840 330 820 360 Q808 380 800 410 Z" fill="#4E3420"/>
+    <path d="M900 250 Q970 225 1040 250" fill="none" stroke="#6B4A2E" stroke-width="10"/>
+    <!-- nose -->
+    <path d="M964 455 Q946 500 954 510 Q970 516 982 508" fill="none" stroke-width="5"/>
+    <!-- cheeks -->
+    <ellipse cx="868" cy="520" rx="24" ry="13" fill="#EE9C86" opacity="0.45" stroke="none"/>
+    <ellipse cx="1052" cy="520" rx="24" ry="13" fill="#EE9C86" opacity="0.45" stroke="none"/>
+  </g>
+<ellipse cx="898" cy="448" rx="22" ry="25" fill="#FFFFFF" stroke="#1B1B1F" stroke-width="5"/>
+  <circle cx="898" cy="451" r="12" fill="#1B1B1F"/>
+  <circle cx="902" cy="446" r="4" fill="#FFFFFF"/>
+  <ellipse cx="1022" cy="448" rx="22" ry="25" fill="#FFFFFF" stroke="#1B1B1F" stroke-width="5"/>
+  <circle cx="1022" cy="451" r="12" fill="#1B1B1F"/>
+  <circle cx="1026" cy="446" r="4" fill="#FFFFFF"/>
+
+  <g fill="none" stroke="#1B1B1F" stroke-width="7">
+    <circle cx="898" cy="448" r="46"/>
+    <circle cx="1022" cy="448" r="46"/>
+    <path d="M943 444 Q960 432 977 444"/>
+    <path d="M852 440 L815 430"/>
+    <path d="M1068 440 L1105 430"/>
+  </g>
+  <path d="M872 420 L888 410" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+  <path d="M996 420 L1012 410" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+<path d="M868 386 Q898 368 926 380" fill="none" stroke="#4E3420" stroke-width="13" stroke-linecap="round"/>
+  <path d="M1052 386 Q1022 368 994 380" fill="none" stroke="#4E3420" stroke-width="13" stroke-linecap="round"/>
+<path d="M916 558 Q960 566 1004 558 Q994 596 960 598 Q926 596 916 558 Z" fill="#7A2E2E" stroke="#1B1B1F" stroke-width="6" stroke-linejoin="round"/><path d="M924 561 Q960 569 996 561 L990 570 Q960 576 930 570 Z" fill="#FFFFFF"/></g></svg>
