@@ -22,7 +22,7 @@ NAVY = "#1F2F4D"
 NAVY_SH = "#16223A"
 SUIT = "#2B3245"
 SUIT_SH = "#1E2433"
-TIE = "#1E7A50"
+TIE = "#1C1C20"
 SHIRT = "#F4F2EC"
 GREEN = "#2FA36B"
 SW = 6  # outline width
@@ -84,7 +84,7 @@ def body():
     <!-- tie -->
     <path d="M{CX-26} 742 L{CX+26} 742 L{CX+18} 778 L{CX-18} 778 Z" fill="{TIE}"/>
     <path d="M{CX-18} 778 L{CX+18} 778 L{CX+40} 990 L{CX} 1030 L{CX-40} 990 Z" fill="{TIE}"/>
-    <path d="M{CX-8} 800 L{CX+28} 900" fill="none" stroke="#2A9A67" stroke-width="6" opacity="0.7"/>
+    <path d="M{CX-8} 800 L{CX+28} 900" fill="none" stroke="#3C3C46" stroke-width="6" opacity="0.9"/>
     <!-- shirt collar -->
     <path d="M{CX-80} 705 L{CX-28} 742 L{CX-60} 790 L{CX-100} 722 Z" fill="{SHIRT}"/>
     <path d="M{CX+80} 705 L{CX+28} 742 L{CX+60} 790 L{CX+100} 722 Z" fill="{SHIRT}"/>
@@ -110,19 +110,17 @@ def head_base():
     <path d="M{CX-145} 380 Q{CX-150} 300 {CX} 288 Q{CX+150} 300 {CX+145} 380
              L{CX+140} 510 Q{CX+132} 588 {CX+62} 620 Q{CX} 642 {CX-62} 620
              Q{CX-132} 588 {CX-140} 510 Z" fill="{SKIN}"/>
-    <!-- full short beard (from Vinicius's reference photo) -->
-    <path d="M{CX-148} 432 L{CX-143} 512 Q{CX-136} 606 {CX-62} 646 Q{CX} 672 {CX+62} 646
-             Q{CX+136} 606 {CX+143} 512 L{CX+148} 432 L{CX+130} 432 L{CX+126} 515 Q{CX+104} 560 {CX+62} 546
-             Q{CX} 536 {CX-62} 546 Q{CX-104} 560 {CX-126} 515 L{CX-130} 432 Z" fill="{BEARD}" stroke-width="5"/>
+    <!-- short, trimmed beard -->
+    <path d="M{CX-145} 440 L{CX-140} 512 Q{CX-132} 590 {CX-62} 624 Q{CX} 646 {CX+62} 624
+             Q{CX+132} 590 {CX+140} 512 L{CX+145} 440 L{CX+132} 440 L{CX+128} 520 Q{CX+104} 560 {CX+62} 546
+             Q{CX} 536 {CX-62} 546 Q{CX-104} 560 {CX-128} 520 L{CX-132} 440 Z" fill="{BEARD}" fill-opacity="0.72" stroke="none"/>
     <ellipse cx="{CX}" cy="574" rx="44" ry="17" fill="{LIP}" stroke="none"/>
-    <!-- dark wavy hair with volume, swept to the side -->
-    <path d="M{CX-150} 420 Q{CX-172} 330 {CX-132} 282 Q{CX-122} 228 {CX-62} 222
-             Q{CX-22} 190 {CX+32} 210 Q{CX+84} 194 {CX+118} 232 Q{CX+170} 250 {CX+162} 312
-             Q{CX+176} 362 {CX+152} 420 Q{CX+150} 362 {CX+122} 338 Q{CX+84} 348 {CX+52} 322
-             Q{CX+12} 346 {CX-28} 318 Q{CX-70} 340 {CX-100} 322 Q{CX-132} 352 {CX-150} 420 Z" fill="{HAIR}"/>
-    <path d="M{CX-95} 255 Q{CX-60} 240 {CX-30} 262" fill="none" stroke="{HAIR_HI}" stroke-width="7"/>
-    <path d="M{CX+5} 240 Q{CX+45} 225 {CX+85} 250" fill="none" stroke="{HAIR_HI}" stroke-width="7"/>
-    <path d="M{CX+70} 290 Q{CX+110} 280 {CX+135} 305" fill="none" stroke="{HAIR_HI}" stroke-width="6"/>
+    <!-- dark straight hair, side-swept -->
+    <path d="M{CX-150} 418 Q{CX-166} 300 {CX-92} 246 Q{CX} 208 {CX+100} 236
+             Q{CX+170} 268 {CX+155} 418 Q{CX+150} 352 {CX+126} 333
+             Q{CX+50} 300 {CX-30} 320 Q{CX-92} 328 {CX-126} 348 Q{CX-146} 378 {CX-150} 418 Z" fill="{HAIR}"/>
+    <path d="M{CX-70} 262 Q{CX+10} 236 {CX+95} 262" fill="none" stroke="{HAIR_HI}" stroke-width="7"/>
+    <path d="M{CX-40} 292 Q{CX+40} 270 {CX+120} 298" fill="none" stroke="{HAIR_HI}" stroke-width="6"/>
     <!-- nose -->
     <path d="M{CX+4} 455 Q{CX-14} 500 {CX-6} 510 Q{CX+10} 516 {CX+22} 508" fill="none" stroke-width="5"/>
     <!-- cheek tone -->

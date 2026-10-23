@@ -21,9 +21,9 @@
     <!-- shirt -->
     <path d="M848 712 L960 1100 L1072 712 Q960 745 848 712 Z" fill="#F4F2EC"/>
     <!-- tie -->
-    <path d="M934 742 L986 742 L978 778 L942 778 Z" fill="#1E7A50"/>
-    <path d="M942 778 L978 778 L1000 990 L960 1030 L920 990 Z" fill="#1E7A50"/>
-    <path d="M952 800 L988 900" fill="none" stroke="#2A9A67" stroke-width="6" opacity="0.7"/>
+    <path d="M934 742 L986 742 L978 778 L942 778 Z" fill="#1C1C20"/>
+    <path d="M942 778 L978 778 L1000 990 L960 1030 L920 990 Z" fill="#1C1C20"/>
+    <path d="M952 800 L988 900" fill="none" stroke="#3C3C46" stroke-width="6" opacity="0.9"/>
     <!-- shirt collar -->
     <path d="M880 705 L932 742 L900 790 L860 722 Z" fill="#F4F2EC"/>
     <path d="M1040 705 L988 742 L1020 790 L1060 722 Z" fill="#F4F2EC"/>
@@ -47,19 +47,17 @@
     <path d="M815 380 Q810 300 960 288 Q1110 300 1105 380
              L1100 510 Q1092 588 1022 620 Q960 642 898 620
              Q828 588 820 510 Z" fill="#F3CBAE"/>
-    <!-- full short beard (from Vinicius's reference photo) -->
-    <path d="M812 432 L817 512 Q824 606 898 646 Q960 672 1022 646
-             Q1096 606 1103 512 L1108 432 L1090 432 L1086 515 Q1064 560 1022 546
-             Q960 536 898 546 Q856 560 834 515 L830 432 Z" fill="#3A2B21" stroke-width="5"/>
+    <!-- short, trimmed beard -->
+    <path d="M815 440 L820 512 Q828 590 898 624 Q960 646 1022 624
+             Q1092 590 1100 512 L1105 440 L1092 440 L1088 520 Q1064 560 1022 546
+             Q960 536 898 546 Q856 560 832 520 L828 440 Z" fill="#3A2B21" fill-opacity="0.72" stroke="none"/>
     <ellipse cx="960" cy="574" rx="44" ry="17" fill="#E2AE96" stroke="none"/>
-    <!-- dark wavy hair with volume, swept to the side -->
-    <path d="M810 420 Q788 330 828 282 Q838 228 898 222
-             Q938 190 992 210 Q1044 194 1078 232 Q1130 250 1122 312
-             Q1136 362 1112 420 Q1110 362 1082 338 Q1044 348 1012 322
-             Q972 346 932 318 Q890 340 860 322 Q828 352 810 420 Z" fill="#2A1D16"/>
-    <path d="M865 255 Q900 240 930 262" fill="none" stroke="#4A372B" stroke-width="7"/>
-    <path d="M965 240 Q1005 225 1045 250" fill="none" stroke="#4A372B" stroke-width="7"/>
-    <path d="M1030 290 Q1070 280 1095 305" fill="none" stroke="#4A372B" stroke-width="6"/>
+    <!-- dark straight hair, side-swept -->
+    <path d="M810 418 Q794 300 868 246 Q960 208 1060 236
+             Q1130 268 1115 418 Q1110 352 1086 333
+             Q1010 300 930 320 Q868 328 834 348 Q814 378 810 418 Z" fill="#2A1D16"/>
+    <path d="M890 262 Q970 236 1055 262" fill="none" stroke="#4A372B" stroke-width="7"/>
+    <path d="M920 292 Q1000 270 1080 298" fill="none" stroke="#4A372B" stroke-width="6"/>
     <!-- nose -->
     <path d="M964 455 Q946 500 954 510 Q970 516 982 508" fill="none" stroke-width="5"/>
     <!-- cheek tone -->
