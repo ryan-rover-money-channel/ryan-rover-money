@@ -1,0 +1,819 @@
+{
+ "id": "video44",
+ "angle": "the car payment trap: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "The Car Payment Trap: Why Americans Are Drowning in Auto Debt",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Walk through any parking lot in America and you'll see thousands of beautiful, shiny cars. Here's what you won't see. The loan behind each one. Americans now owe around one point six trillion dollars on auto loans, and the average new car payment is higher than many people's rent was a decade ago. Today, we're talking about the car payment trap.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Auto loan balances in the United States are around one point six trillion dollars, according to the Federal Reserve Bank of New York. That's more than Americans owe on credit cards.",
+   "card": {
+    "type": "stat",
+    "label": "u.s. auto loan debt",
+    "big": "~$1.6 TRILLION",
+    "size": 150,
+    "sub": "Federal Reserve Bank of New York"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Cars are necessary for most Americans. You need one to get to work, take kids to school, and buy groceries. That's exactly why the car trap is so powerful. It hides inside something you genuinely need. And the gap between the car you need and the car you're sold can quietly cost you hundreds of thousands of dollars over a lifetime.",
+   "query": "Parking lot full of cars",
+   "caption": "A NEED, NOT A TRAP",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at it from three angles. First, the numbers: what cars really cost, beyond the sticker. Second, the psychology: how dealers and our own brains turn a sensible purchase into a seven year payment. And third, the playbook: how to buy, finance and keep a car the way wealthy people often do.",
+   "query": "Car dealership showroom",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "And stay for the part about the hundred thousand dollar car payment. It's not a car that costs one hundred thousand. It's a much more ordinary story. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Auto debt totals come from the Federal Reserve Bank of New York. Typical payments, prices and loan terms come from industry research firms like Edmunds, Experian and Kelley Blue Book. Total ownership costs come from AAA's yearly Your Driving Costs study. These numbers change every quarter, so treat them as recent snapshots, not exact quotes. And this is education, not financial advice.",
+   "query": "Highway traffic aerial view",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Car loans are almost as old as cars. In the nineteen twenties, as cars became affordable to ordinary families, companies began offering installment plans, so people could pay over time. General Motors created its own finance arm in nineteen nineteen. Within a few years, a large share of new cars in America were bought on credit. The car payment was born almost as soon as the car itself.",
+   "query": "Vintage car nineteen twenties",
+   "caption": "THE FIRST CAR LOANS",
+   "cuts": 3,
+   "chapter": "How the car loan took over"
+  },
+  {
+   "text": "For decades, loans were relatively short. Three year loans were common for a long time. As prices rose faster than incomes, lenders stretched terms to keep payments manageable. Four years, then five, then six, and now seven years or more for some buyers. Each step made expensive cars feel affordable, without making them any cheaper.",
+   "query": "Calendar pages flipping",
+   "caption": "LONGER AND LONGER",
+   "cuts": 3
+  },
+  {
+   "text": "At the same time, cars changed. They became safer, more comfortable and more reliable, which is great. But they also became more expensive, and the most popular vehicles shifted from smaller sedans to larger trucks and SUVs. Many automakers reduced or dropped their cheapest models. So today's buyer often faces fewer low cost choices, and a bigger default price.",
+   "query": "Large SUV on highway",
+   "caption": "BIGGER, SAFER, PRICIER",
+   "cuts": 3
+  },
+  {
+   "text": "Angle one. The numbers. Let's see what a car actually costs.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Number one. The payment itself.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "The payment",
+    "sub": "around $750 a month"
+   },
+   "caption": "TRAP 1",
+   "cuts": 1,
+   "chapter": "1. The payment"
+  },
+  {
+   "text": "According to industry data from firms like Edmunds and Experian, the average monthly payment on a new car loan has been around seven hundred fifty dollars in recent years. Used car payments have averaged around five hundred dollars or more. And a growing share of new car buyers, close to one in five in some recent reports, have taken on payments of one thousand dollars a month or more.",
+   "query": "New car on dealer lot",
+   "caption": "~$750 A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "Think about what that means. Seven hundred fifty dollars a month is nine thousand dollars a year. For a household earning sixty thousand dollars before taxes, that can be close to one fifth of take home pay, just for the loan. Before gas, insurance, repairs, registration or parking.",
+   "query": "Paycheck stub calculator",
+   "caption": "$9,000 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "And here's the important part. A car payment isn't like a mortgage, where you're often building equity in something that may hold its value. A car is almost always losing value. You're making a big payment on something that's shrinking every month you own it.",
+   "query": "Car odometer miles",
+   "caption": "PAYING FOR A SHRINKING ASSET",
+   "cuts": 3
+  },
+  {
+   "text": "Number two. The price.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "The price",
+    "sub": "close to $50,000"
+   },
+   "caption": "TRAP 2",
+   "cuts": 1,
+   "chapter": "2. The price"
+  },
+  {
+   "text": "Kelley Blue Book data shows the average price paid for a new vehicle has been close to fifty thousand dollars recently. Trucks and SUVs have become the most popular vehicles, and they tend to cost more. Features that used to be luxury options, like big screens and advanced safety systems, are now standard in many trims.",
+   "query": "Pickup truck dealership",
+   "caption": "CLOSE TO $50,000",
+   "cuts": 3
+  },
+  {
+   "text": "Compare that with incomes. The median household income in the United States, according to the Census Bureau, has been around eighty thousand dollars. So the typical new car now costs well over half of a typical household's yearly income, before taxes. Many planners suggest your total car costs should be a much smaller share of your budget than that.",
+   "query": "Suburban family home driveway",
+   "caption": "OVER HALF A YEAR'S INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Number three. The loan term.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "The term",
+    "sub": "six and seven year loans"
+   },
+   "caption": "TRAP 3",
+   "cuts": 1,
+   "chapter": "3. The term"
+  },
+  {
+   "text": "To make big prices fit into monthly budgets, loans have gotten longer. Six year loans, seventy two months, are now common. Seven year loans, eighty four months, have become more common too. A longer loan lowers the monthly payment, which makes an expensive car feel affordable.",
+   "query": "Calendar many years",
+   "caption": "72 TO 84 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "But longer loans have two big costs. First, more total interest, because you're borrowing for longer. Second, you can owe more than the car is worth for much longer, because the car loses value faster than you pay down the loan. That gap is called negative equity, and we'll get to it in a moment.",
+   "query": "Scale tipping unbalanced",
+   "caption": "MORE INTEREST, MORE RISK",
+   "cuts": 3
+  },
+  {
+   "text": "Same forty thousand dollar loan at seven percent. Over five years, the payment is about seven hundred ninety dollars and the total interest about seven thousand five hundred. Over seven years, the payment drops to about six hundred five dollars, but the interest rises to about ten thousand seven hundred.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "5-year loan",
+     "big": "~$7,500",
+     "sub": "interest, ~$792 a month"
+    },
+    "right": {
+     "label": "7-year loan",
+     "big": "~$10,700",
+     "sub": "interest, ~$604 a month"
+    },
+    "note": "Illustration: $40,000 at 7% APR."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Number four. The interest rate.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "The interest",
+    "sub": "rates have climbed"
+   },
+   "caption": "TRAP 4",
+   "cuts": 1,
+   "chapter": "4. The interest"
+  },
+  {
+   "text": "When interest rates were near zero, car loans were cheap. In recent years, rates have climbed. New car loans have often averaged around seven percent, and used car loans have often been in the double digits. Borrowers with lower credit scores can pay far more, sometimes fifteen to twenty percent or higher.",
+   "query": "Interest rate chart rising",
+   "caption": "HIGHER RATES",
+   "cuts": 3
+  },
+  {
+   "text": "At those rates, the same car can cost wildly different amounts. A thirty thousand dollar used car loan at seven percent for five years costs about five thousand six hundred dollars in interest. At fifteen percent, it's about twelve thousand eight hundred. Same car. More than double the interest. Your credit score is literally priced into your car.",
+   "query": "Credit score report",
+   "caption": "YOUR SCORE IS IN THE PRICE",
+   "cuts": 3
+  },
+  {
+   "text": "Number five. Depreciation. The cost nobody sends you a bill for.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Depreciation",
+    "sub": "the silent cost"
+   },
+   "caption": "TRAP 5",
+   "cuts": 1,
+   "chapter": "5. Depreciation"
+  },
+  {
+   "text": "Depreciation is the value a car loses over time. It's often the single biggest cost of owning a new car, bigger than gas or insurance. A common estimate is that many new cars lose around twenty percent of their value in the first year, and roughly half or more in about five years, though it varies a lot by model.",
+   "query": "Used car lot price signs",
+   "caption": "~20% IN YEAR ONE",
+   "cuts": 3
+  },
+  {
+   "text": "On a fifty thousand dollar car, losing twenty percent in the first year is ten thousand dollars. That's almost two hundred dollars a week, gone, just for the privilege of being the first owner. You never see it on a bill. You only find out when you sell or trade in.",
+   "query": "Car key on table",
+   "caption": "$10,000 IN YEAR ONE",
+   "cuts": 3
+  },
+  {
+   "text": "This is why many wealthy people buy cars that are a few years old. The first owner has already paid for the steepest part of the drop. You still get a reliable, modern car, and you skip the most expensive part of the ride.",
+   "query": "Certified pre owned cars",
+   "caption": "LET SOMEONE ELSE PAY IT",
+   "cuts": 3
+  },
+  {
+   "text": "Number six. The full cost of owning.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "The full cost",
+    "sub": "it's not just the payment"
+   },
+   "caption": "TRAP 6",
+   "cuts": 1,
+   "chapter": "6. The full cost"
+  },
+  {
+   "text": "AAA calculates the total yearly cost of owning a new car, including depreciation, insurance, fuel, maintenance, finance charges, registration and taxes. In recent years, its estimate has been more than eleven thousand dollars a year for an average new vehicle driven fifteen thousand miles. That's roughly nine hundred to one thousand dollars a month.",
+   "query": "Gas station fuel pump",
+   "caption": "$11,000+ A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "So when someone says their car payment is five hundred dollars, the real cost is often double that. Car insurance alone has risen sharply in recent years in many states. Bigger, more expensive cars usually mean bigger insurance bills, bigger tires, and more expensive repairs.",
+   "query": "Car insurance documents",
+   "caption": "THE PAYMENT IS HALF",
+   "cuts": 3
+  },
+  {
+   "text": "Insurance deserves its own warning. In recent years, car insurance premiums have risen much faster than general inflation in many parts of the country. Modern cars are full of sensors, cameras and computers, which makes even small accidents more expensive to repair. And repair costs feed directly into premiums. Some drivers have seen their insurance rise by hundreds of dollars a year, even with a clean record.",
+   "query": "Car bumper sensors repair shop",
+   "caption": "INSURANCE IS RISING",
+   "cuts": 3
+  },
+  {
+   "text": "Try this simple exercise. Add up everything your car cost you last year. Payments, insurance, fuel, maintenance, repairs, registration, parking and tolls. Then divide by the miles you drove. Many people discover they're paying sixty, eighty cents or more for every mile. Once you know your cost per mile, every trip and every car decision looks different.",
+   "query": "Odometer close up",
+   "caption": "YOUR COST PER MILE",
+   "cuts": 3
+  },
+  {
+   "text": "According to AAA, owning an average new car costs more than eleven thousand dollars a year, once you add depreciation, insurance, fuel, maintenance, interest and fees.",
+   "card": {
+    "type": "stat",
+    "label": "yearly cost of a new car",
+    "big": "$11,000+",
+    "sub": "AAA Your Driving Costs"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Number seven. Negative equity.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Negative equity",
+    "sub": "owing more than it's worth"
+   },
+   "caption": "TRAP 7",
+   "cuts": 1,
+   "chapter": "7. Negative equity"
+  },
+  {
+   "text": "Negative equity, also called being upside down or underwater, means you owe more on your loan than the car is worth. With long loans and fast depreciation, it's become very common. Edmunds has reported that around a quarter or more of new car buyers trading in a vehicle owed more than it was worth, often by several thousand dollars.",
+   "query": "Car underwater flood",
+   "caption": "UPSIDE DOWN",
+   "cuts": 3
+  },
+  {
+   "text": "What do people do with that negative equity? Very often, they roll it into the next loan. The dealer adds the old debt to the new car loan. Now you start your new car already deeply underwater, with a bigger loan and a bigger payment. And if you trade in again in a few years, the hole gets deeper.",
+   "query": "Hole in the ground",
+   "caption": "ROLLING THE HOLE FORWARD",
+   "cuts": 3
+  },
+  {
+   "text": "Negative equity is also dangerous if the car is totaled or stolen. Insurance pays what the car is worth, not what you owe. Without gap insurance, you could be left paying off a loan on a car you no longer have.",
+   "query": "Car accident scene",
+   "caption": "TOTALED AND STILL PAYING",
+   "cuts": 3
+  },
+  {
+   "text": "Number eight. The opportunity cost. Here's the hundred thousand dollar car payment I promised.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Opportunity cost",
+    "sub": "the $100,000 payment"
+   },
+   "caption": "TRAP 8",
+   "cuts": 1,
+   "chapter": "8. Opportunity cost"
+  },
+  {
+   "text": "Opportunity cost is what you give up by choosing one thing over another. Imagine the difference between a seven hundred fifty dollar payment and a more modest three hundred fifty dollar payment on a reliable used car. That's four hundred dollars a month.",
+   "query": "Two cars side by side",
+   "caption": "THE $400 GAP",
+   "cuts": 3
+  },
+  {
+   "text": "Now imagine you invest that four hundred dollars every month, at a seven percent average yearly return, for thirty years. The math says it could grow to nearly four hundred ninety thousand dollars. Even over fifteen years, it could be over one hundred twenty thousand. That's the real price of the nicer car. Not the sticker. The future it replaces.",
+   "query": "Retirement couple happy",
+   "caption": "THE FUTURE IT REPLACES",
+   "cuts": 3
+  },
+  {
+   "text": "Four hundred dollars a month, the gap between a big car payment and a modest one, invested at seven percent a year for thirty years. You'd put in one hundred forty four thousand dollars.",
+   "card": {
+    "type": "growth",
+    "monthly": 400,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That's an illustration, not a promise. Markets go up and down. But it shows why many self made millionaires drive ordinary cars. It's not that they can't afford a nicer one. It's that they know what the nicer one really costs.",
+   "query": "Ordinary sedan parked suburb",
+   "caption": "WHY MILLIONAIRES DRIVE OLD CARS",
+   "cuts": 3
+  },
+  {
+   "text": "And here's the part that worries economists. When people stretch for big car payments, there's less room for anything to go wrong. Credit agencies have reported rising delinquencies on auto loans, especially among borrowers with lower credit scores. Missing car payments can lead to repossession, which damages credit for years, and often leaves people still owing money after the car is sold at auction.",
+   "query": "Tow truck repossession",
+   "caption": "WHEN IT GOES WRONG",
+   "cuts": 3
+  },
+  {
+   "text": "So the numbers are clear. But if they're so clear, why do so many people fall in? That's angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Six ways the car buying process, and our own brains, push us into the trap.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Trick number nine. The monthly payment question.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "What payment are you looking for?",
+    "sub": "the monthly frame"
+   },
+   "caption": "TRICK 9",
+   "cuts": 1,
+   "chapter": "9. What payment are you looking for?"
+  },
+  {
+   "text": "Walk into many dealerships and one of the first questions is, what monthly payment are you looking for? It sounds helpful. But once you answer, the conversation can shift from the price of the car to the size of the payment. And almost any car can fit almost any payment, if the loan is long enough.",
+   "query": "Car salesman shaking hands",
+   "caption": "WHAT PAYMENT?",
+   "cuts": 3
+  },
+  {
+   "text": "Say you answer five hundred dollars. The dealer can stretch the loan, adjust the trade in value, add a few products, and still land at five hundred. You feel like you got what you asked for. But the total cost, the thing that actually matters, might be thousands of dollars higher.",
+   "query": "Contract paperwork signing",
+   "caption": "THE PAYMENT HIDES THE PRICE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: when asked about payments, say, I'm focused on the out the door price. That's the total price including taxes and fees. Negotiate that first. Financing is a separate conversation.",
+   "query": "Price tag on windshield",
+   "caption": "SAY OUT THE DOOR PRICE",
+   "cuts": 3
+  },
+  {
+   "text": "Trick number ten. Juggling four numbers at once.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "The four square",
+    "sub": "too many numbers at once"
+   },
+   "caption": "TRICK 10",
+   "cuts": 1,
+   "chapter": "10. The four square"
+  },
+  {
+   "text": "Car deals involve four main numbers: the price of the car, the value of your trade in, the down payment, and the monthly payment. Some salespeople have traditionally used a worksheet sometimes called the four square to discuss all four together. When everything moves at once, it's very hard to see where you're gaining and where you're losing.",
+   "query": "Worksheet with numbers",
+   "caption": "FOUR NUMBERS AT ONCE",
+   "cuts": 3
+  },
+  {
+   "text": "A great trade in value can be offset by a higher price. A lower price can be offset by a worse loan rate. Confusion helps the side that does this every day. Try this: negotiate one number at a time. First the out the door price. Then, separately, your trade in. Then financing. Never all at once.",
+   "query": "Person focused one task",
+   "caption": "ONE NUMBER AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Trick number eleven. The add ons.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "The add ons",
+    "sub": "extras in the finance office"
+   },
+   "caption": "TRICK 11",
+   "cuts": 1,
+   "chapter": "11. The add ons"
+  },
+  {
+   "text": "After you agree on a car, you're often taken to the finance office. That's where add ons appear. Extended warranties, paint and fabric protection, tire and wheel plans, gap insurance, and more. Some can be useful. But they're often priced with big markups, and they're usually rolled into the loan, so you pay interest on them too.",
+   "query": "Office desk paperwork",
+   "caption": "THE FINANCE OFFICE",
+   "cuts": 3
+  },
+  {
+   "text": "Gap insurance, for example, can be smart if you have a small down payment and a long loan. But it's often cheaper through your own auto insurer than at the dealership. Extended warranties can sometimes be bought later, or from other sources. Try this: before you go, decide which add ons you want, if any, and get outside quotes. In the office, you can say no, and you can walk away.",
+   "query": "Person saying no politely",
+   "caption": "YOU CAN SAY NO",
+   "cuts": 3
+  },
+  {
+   "text": "Trick number twelve. Identity.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Identity",
+    "sub": "you are what you drive"
+   },
+   "caption": "TRICK 12",
+   "cuts": 1,
+   "chapter": "12. Identity"
+  },
+  {
+   "text": "Cars aren't just transportation. They're identity. Car ads rarely talk about cost per mile. They show freedom, power, adventure, success. And for many people, the car in the driveway is the most visible signal of how they're doing in life. That makes cars a perfect target for comparison spending.",
+   "query": "Car commercial mountain road",
+   "caption": "FREEDOM, POWER, SUCCESS",
+   "cuts": 3
+  },
+  {
+   "text": "The tricky part is that this signal is often false. A new luxury SUV might mean someone is wealthy. Or it might mean they have an eighty four month loan and no savings. Thomas Stanley's research on millionaires found many of them drove modest, older cars. The flashiest car on the street is not a reliable sign of wealth. Try this: decide what you want your money to say about you in twenty years, not in the parking lot today.",
+   "query": "Modest car in driveway",
+   "caption": "THE SIGNAL IS OFTEN FALSE",
+   "cuts": 3
+  },
+  {
+   "text": "Trick number thirteen. The new car feeling.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "The new car feeling",
+    "sub": "it fades fast"
+   },
+   "caption": "TRICK 13",
+   "cuts": 1,
+   "chapter": "13. The new car feeling"
+  },
+  {
+   "text": "A new car feels amazing. The smell, the technology, the smooth ride. But psychologists have long studied how quickly people adapt to new things. It's called hedonic adaptation. Within months, the new car becomes just your car. The excitement fades. The payment doesn't.",
+   "query": "New car interior dashboard",
+   "caption": "THE FEELING FADES",
+   "cuts": 3
+  },
+  {
+   "text": "That's how many people end up trading in after three or four years, chasing the feeling again, often while still underwater on the old loan. The trap repeats. Try this: before buying, imagine the car two years from now with a few scratches and coffee stains. Is it still worth the payment? If the answer is yes, great. If it's only exciting when it's new, pause.",
+   "query": "Car with scratches parking",
+   "caption": "PICTURE IT IN TWO YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Trick number fourteen. Thinking everyone has a car payment.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Payment normalization",
+    "sub": "everyone has one"
+   },
+   "caption": "TRICK 14",
+   "cuts": 1,
+   "chapter": "14. Payment normalization"
+  },
+  {
+   "text": "Many people believe a car payment is a permanent part of adult life, like a phone bill. As soon as one loan ends, the next one starts. But that belief is one of the most expensive in personal finance. The years after a loan ends, when you still have a reliable car and no payment, are where real savings happen.",
+   "query": "Bills on kitchen counter",
+   "caption": "THE PERMANENT PAYMENT",
+   "cuts": 3
+  },
+  {
+   "text": "If you keep a car for ten years instead of five, and it's reliable, you might enjoy five years with no payment at all. Even with higher repair costs in later years, those payment free years can free up tens of thousands of dollars. Try this: when your loan ends, keep paying the same amount, but to yourself, in a savings account. That becomes the cash for your next car.",
+   "query": "Older car still running well",
+   "caption": "THE PAYMENT FREE YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this is changing how you look at that car in your driveway, subscribe to the channel. It's free, and it helps me keep making these videos for you. Now, the playbook.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. The playbook. Ten moves to buy, finance and own a car without falling into the trap.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Many planners use a simple guideline called the twenty four ten rule. Put at least twenty percent down. Finance for no more than four years. And keep total car costs under ten percent of your gross income.",
+   "card": {
+    "type": "stat",
+    "label": "the 20/4/10 rule",
+    "big": "20 / 4 / 10",
+    "sub": "20% down, 4 years max, under 10% of income"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Move one. Use the twenty four ten rule as a guardrail. It's not a law, and in some places it's hard to follow, especially with today's prices. But the further you are from it, the more risk you're taking. If a car only fits with zero down and seven years, that's a sign it's too expensive for your budget right now.",
+   "query": "Guardrail mountain road",
+   "caption": "MOVE 1: A GUARDRAIL",
+   "cuts": 3
+  },
+  {
+   "text": "Move two. Know the full cost before you shop. Add the payment, insurance, fuel, maintenance and registration. Call your insurer and get a quote for the exact model before you buy. Some models cost much more to insure than others, and that surprise can wreck a budget.",
+   "query": "Phone call insurance quote",
+   "caption": "MOVE 2: THE FULL COST",
+   "cuts": 3
+  },
+  {
+   "text": "Move three. Consider buying a reliable used car, a few years old. You skip the steepest part of the depreciation, and many modern cars can run well past one hundred fifty thousand miles with good care. Have an independent mechanic inspect it before you buy. That inspection often costs less than one car payment and can save you thousands.",
+   "query": "Mechanic inspecting car",
+   "caption": "MOVE 3: BUY SLIGHTLY USED",
+   "cuts": 3
+  },
+  {
+   "text": "Move four. Get pre approved for a loan before you walk into the dealership, ideally from a credit union or your bank. Now you know your rate. If the dealer can beat it, great. If not, you have a backup. This one move takes away a lot of the dealer's power over the financing.",
+   "query": "Credit union branch",
+   "caption": "MOVE 4: PRE APPROVAL",
+   "cuts": 3
+  },
+  {
+   "text": "Move five. Negotiate the out the door price, in writing, by email if possible. Contact several dealers, ask for their best total price on the exact car, including all fees. Let them compete. This takes some time, but it can save more money per hour than almost anything else you'll do that year.",
+   "query": "Laptop email negotiation",
+   "caption": "MOVE 5: OUT THE DOOR, IN WRITING",
+   "cuts": 3
+  },
+  {
+   "text": "Move six. Handle your trade in separately. Get offers from online buyers and other dealers first, so you know what it's really worth. Sometimes selling privately gets you more. Move seven. Say no in the finance office to anything you didn't plan to buy. You can always ask for time to think.",
+   "query": "Car for sale sign window",
+   "caption": "MOVES 6 AND 7",
+   "cuts": 3
+  },
+  {
+   "text": "Move eight. Keep your car for a long time. Maintain it on schedule, follow the manual, fix small problems before they become big ones. The longer you drive a reliable car after it's paid off, the more money stays in your pocket.",
+   "query": "Mechanic oil change",
+   "caption": "MOVE 8: KEEP IT LONG",
+   "cuts": 3
+  },
+  {
+   "text": "Move nine. Pay yourself a car payment. When your loan ends, or right now if you have no loan, send a set amount every month into a car fund. When it's time for the next car, you can pay cash, or make a big down payment. That's how you leave the payment cycle for good.",
+   "query": "Savings jar labeled car",
+   "caption": "MOVE 9: PAY YOURSELF",
+   "cuts": 3
+  },
+  {
+   "text": "Paying yourself three hundred fifty dollars a month for five years, at a modest four percent savings rate, builds roughly twenty three thousand dollars. That's a solid used car, in cash.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "$350 a month",
+     "big": "5 years",
+     "sub": "into a car fund"
+    },
+    "right": {
+     "label": "Your next car",
+     "big": "~$23,000",
+     "sub": "in cash, no loan"
+    },
+    "note": "Illustration at a 4% yearly savings rate."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "And move ten. If you're already underwater, stop the cycle. Don't roll the negative equity into another loan. Keep the car and pay extra toward the principal until you're above water. Check if you can refinance at a lower rate. Or, if the payment is truly unaffordable, consider selling privately and buying something cheaper, covering the gap with savings or a small loan. It hurts once. Rolling it forward hurts for years.",
+   "query": "Person paying bills determined",
+   "caption": "MOVE 10: STOP ROLLING IT",
+   "cuts": 3
+  },
+  {
+   "text": "Ten moves. A guardrail, the full cost, slightly used, pre approval, out the door price, trade in separately, say no to extras, keep it long, pay yourself, and never roll the hole forward.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Let me share a pattern I see again and again in how financially comfortable people handle cars. It's not glamorous. That's the point.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "How wealthy people often buy cars"
+  },
+  {
+   "text": "First, they decide the budget before they fall in love with a car. The number comes from their plan, not from the showroom. They know what share of their income goes to transportation, and they shop inside that number, even if they could technically afford more.",
+   "query": "Person writing budget notebook",
+   "caption": "BUDGET FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Second, they think in total cost, not monthly payment. They ask what the car will cost them over the next five or ten years, including depreciation and insurance. A car that's cheaper per month but loses value faster can easily be the more expensive choice.",
+   "query": "Calculator and car keys",
+   "caption": "TOTAL COST, NOT MONTHLY",
+   "cuts": 3
+  },
+  {
+   "text": "Third, they buy reliability over status. Models with strong reliability records and reasonable repair costs. They're not trying to impress anyone at a stoplight. And fourth, they drive the car for a long time, often until it's genuinely worn out, and they bank the payment free years. That's not being cheap. It's choosing where money creates the most value.",
+   "query": "Reliable car long road trip",
+   "caption": "RELIABILITY AND TIME",
+   "cuts": 3
+  },
+  {
+   "text": "And here's the honest truth. Plenty of wealthy people do love cars, and some buy expensive ones. The difference is the order. They build wealth first, and buy the fun car with money that's already working for them, often in cash. Most people do it the other way around. They buy the fun car first, with a loan, and hope the wealth comes later.",
+   "query": "Classic sports car garage",
+   "caption": "WEALTH FIRST, CAR SECOND",
+   "cuts": 3
+  },
+  {
+   "text": "The car trap doesn't hit everyone equally. Borrowers with lower credit scores often pay much higher interest rates, sometimes double or triple what prime borrowers pay. That means the people with the least room in their budgets often pay the most for the same car. Some buy here pay here lots charge very high rates and can repossess quickly.",
+   "query": "Used car lot small dealer",
+   "caption": "HIGHER RATES, LESS ROOM",
+   "cuts": 3,
+   "chapter": "Who gets hurt most"
+  },
+  {
+   "text": "Young drivers are another group at risk. Their first car loan often comes before they've built a cushion, with high insurance costs on top. A big payment at twenty two can delay everything else, moving out, building an emergency fund, investing early. If you're young, the best car is usually a reliable, boring one that leaves room for your future.",
+   "query": "Young driver first car",
+   "caption": "YOUNG DRIVERS",
+   "cuts": 3
+  },
+  {
+   "text": "If you're in either group, the most powerful step isn't finding the perfect car. It's improving your credit before you borrow, if you can wait, and keeping the loan as small as possible. Even a few months of on time payments on other bills, and lower card balances, can move your score, and your rate, in the right direction.",
+   "query": "Credit score improving chart",
+   "caption": "IMPROVE CREDIT FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple checklist for the day you actually buy. Screenshot this part.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Your buying day checklist"
+  },
+  {
+   "text": "Before you go. Know your budget and the full monthly cost. Have your pre approval letter. Have your trade in offers from other buyers. Have the insurance quote for the exact model. And have a written out the door price from at least two dealers. If you have all five, you're already ahead of most buyers.",
+   "query": "Documents folder organized",
+   "caption": "BEFORE YOU GO",
+   "cuts": 3
+  },
+  {
+   "text": "At the dealership. Test drive the exact car. Confirm the out the door price in writing before anything else. Then discuss your trade in. Then financing, comparing their rate with your pre approval. Read every line of the contract, and make sure the numbers match what you agreed. Mistakes happen, and they rarely happen in your favor.",
+   "query": "Car test drive",
+   "caption": "AT THE DEALERSHIP",
+   "cuts": 3
+  },
+  {
+   "text": "In the finance office. Bring your list of add ons you want, if any, with outside prices. For everything else, a polite no thank you is enough. Watch for products that appear in the paperwork without being discussed. And remember, you can always leave. A dealer who pressures you to sign right now is giving you a very good reason to walk away.",
+   "query": "Person leaving office door",
+   "caption": "IN THE FINANCE OFFICE",
+   "cuts": 3
+  },
+  {
+   "text": "And after. Set up autopay on the loan. If you can, round the payment up, even by twenty five or fifty dollars, so the extra goes to principal and you finish early. Put your maintenance schedule in your calendar. And open your car fund, so your next car starts saving itself today.",
+   "query": "Calendar reminder phone",
+   "caption": "AFTER YOU BUY",
+   "cuts": 3
+  },
+  {
+   "text": "Let's compare two drivers over ten years. Mike loves new cars. Every four years or so he trades in for a new one, usually rolling a little negative equity into the next loan. His payment hovers around seven hundred fifty dollars a month, and he's never without one.",
+   "query": "Man in new car showroom",
+   "caption": "MIKE: ALWAYS A PAYMENT",
+   "cuts": 3,
+   "chapter": "Two drivers, ten years"
+  },
+  {
+   "text": "Over ten years, Mike pays about ninety thousand dollars in car payments, and at the end he owns a car worth maybe thirty thousand, with a loan balance still on it. His insurance has been higher too, because newer, more expensive cars cost more to insure.",
+   "query": "Stack of car loan statements",
+   "caption": "$90,000 IN PAYMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Sarah buys a reliable three year old car with a four year loan at about four hundred dollars a month. When the loan ends, she keeps paying four hundred dollars a month, but into her own savings and investments. She drives the same car for ten years, with some bigger repair bills in the later years.",
+   "query": "Woman next to older reliable car",
+   "caption": "SARAH: KEEP AND SAVE",
+   "cuts": 3
+  },
+  {
+   "text": "Over ten years, Sarah pays about nineteen thousand dollars in loan payments. For the last six years, her four hundred dollars a month goes to her own accounts, about twenty nine thousand dollars before any growth. Even after setting aside several thousand for repairs, the gap between Mike and Sarah can easily reach fifty to sixty thousand dollars. Same decade. Same need. Very different results.",
+   "query": "Two paths split road",
+   "caption": "A $60,000 DIFFERENCE",
+   "cuts": 3
+  },
+  {
+   "text": "And notice. Sarah didn't drive a junk car. She didn't suffer. She simply let someone else pay the steep part of depreciation, kept her car longer, and turned her old payment into savings. Mike didn't do anything crazy either. He just followed what felt normal. That's the car trap. Normal is expensive.",
+   "query": "Happy woman driving",
+   "caption": "NORMAL IS EXPENSIVE",
+   "cuts": 3
+  },
+  {
+   "text": "Here's one more way to see it. If Sarah invests her freed up four hundred dollars a month for those six years at a seven percent average return, it could grow to around thirty five thousand dollars. And if she keeps going after the decade ends, that habit keeps compounding for the rest of her life, while Mike is still choosing his next payment. The car didn't make the difference. The payment free years did.",
+   "query": "Growth chart upward",
+   "caption": "THE PAYMENT FREE YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "So if you take one thing from this story, let it be this. The goal isn't to never enjoy a nice car. It's to spend fewer years of your life making car payments. Every payment free year is a raise you give yourself.",
+   "query": "Open road sunset",
+   "caption": "FEWER PAYMENT YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions people ask me most about car payments.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Is leasing better than buying? Leasing can make sense for some people, like those who want a new car every few years and drive limited miles, or some business owners. But leasing usually means a permanent payment, and fees for extra miles or wear. For most people trying to build wealth, buying a reliable car and keeping it for a long time costs less over time.",
+   "query": "Lease agreement signing",
+   "caption": "LEASE OR BUY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Should I pay cash for a car? If you can pay cash without draining your emergency fund, it's often a great choice. No interest, no lender, and no risk of being underwater. But don't empty your savings for a car. A car paid in cash with no emergency fund is fragile. Keep the cushion, then use the rest.",
+   "query": "Cash money envelope",
+   "caption": "PAY CASH?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What about zero percent financing deals? Sometimes they're genuinely good, especially on new cars from manufacturers. But they're often only for buyers with excellent credit, and sometimes you have to give up a cash rebate to get them. Do the math both ways. A rebate plus a low credit union rate can sometimes beat zero percent.",
+   "query": "Zero percent sign dealership",
+   "caption": "ZERO PERCENT DEALS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. How long should a car last? It depends on the model and how you care for it, but many modern cars can run reliably for well over ten years with regular maintenance. A useful rule: when annual repair costs regularly approach what a year of payments on a replacement would be, or the car becomes unsafe, it's time to consider replacing it.",
+   "query": "Old car high mileage odometer",
+   "caption": "HOW LONG SHOULD IT LAST?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Is an electric vehicle cheaper? It can be, depending on prices, incentives, electricity costs and how much you drive. Fuel and maintenance can be lower. But purchase prices, insurance and depreciation can be higher on some models. Run the full cost numbers for your situation, the same way you would for any car.",
+   "query": "Electric car charging station",
+   "caption": "ELECTRIC CHEAPER?",
+   "cuts": 3
+  },
+  {
+   "text": "And question six. My payment is already too high. What do I do today? First, look at refinancing, especially if your credit has improved since you bought. Second, put any extra money toward the principal. Third, cut other costs temporarily to protect your emergency fund. And fourth, if it's truly unworkable, talk to your lender early, before you miss a payment. Lenders usually prefer a solution to a repossession.",
+   "query": "Person calling lender",
+   "caption": "PAYMENT TOO HIGH?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. I have a growing family. Don't I need a big new SUV? You might need more space, and that's a real need. But space doesn't have to mean new or luxury. A three to five year old minivan or midsize SUV can carry a family safely for a lot less. Safety ratings are public, so you can compare used models easily. Buy the space you need, not the badge.",
+   "query": "Family loading minivan",
+   "caption": "A BIGGER FAMILY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question eight. How much should I put down? More is generally better, because it lowers the loan, the interest and the risk of negative equity. Twenty percent is a common target. If you can't put anything down, that's a signal to consider a cheaper car, or to save for a few more months first. A few months of patience can save years of payments.",
+   "query": "Savings piggy bank",
+   "caption": "HOW MUCH DOWN?",
+   "cuts": 3
+  },
+  {
+   "text": "And one bonus question. What about buying a car with a co signer? Co signing means the other person is fully responsible for the debt if you don't pay. It can damage relationships and credit on both sides. If a car only works with a co signer, it might be a sign to choose a cheaper car for now.",
+   "query": "Two people signing contract",
+   "caption": "CO SIGNING?",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. The numbers: around one point six trillion dollars in auto debt, payments around seven hundred fifty dollars for new cars, prices close to fifty thousand, longer loans, higher rates, fast depreciation, and full ownership costs over eleven thousand dollars a year. Plus negative equity, and the hidden opportunity cost of every extra dollar.",
+   "query": "Checklist clipboard",
+   "caption": "THE NUMBERS",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "The psychology: the monthly payment question, juggling four numbers at once, finance office add ons, cars as identity, the fading new car feeling, and thinking everyone has a payment.",
+   "query": "Brain thinking illustration",
+   "caption": "THE PSYCHOLOGY",
+   "cuts": 3
+  },
+  {
+   "text": "And the playbook: use the twenty four ten rule, know the full cost, buy slightly used, get pre approved, negotiate the out the door price, handle trade ins separately, skip the extras, keep the car long, pay yourself a car payment, and never roll negative equity forward.",
+   "query": "Car keys and notebook",
+   "caption": "THE PLAYBOOK",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the full plan for every big money decision, not just cars, it's in my playbook. The link is in the description. And watch my video on how credit card companies make money from you. The same tricks show up in a lot of places. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
