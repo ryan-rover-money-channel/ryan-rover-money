@@ -1,0 +1,1 @@
+- Growth math: monthly compounding at 7% (illustration, not a promise)

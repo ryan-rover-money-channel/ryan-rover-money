@@ -201,6 +201,8 @@ FRAMES = {
     "mouth_open": dict(mouth_kind="open"),
     # blink overlay
     "blink": dict(mouth_kind="closed", eye_state="closed"),
+    "blink_mid": dict(mouth_kind="mid", eye_state="closed"),
+    "blink_open": dict(mouth_kind="open", eye_state="closed"),
     # expressions for thumbnails and reactions
     "expr_smile": dict(mouth_kind="smile"),
     "expr_surprised": dict(mouth_kind="o", eye_state="wide", brow="up"),
