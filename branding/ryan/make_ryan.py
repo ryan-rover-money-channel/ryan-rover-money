@@ -17,6 +17,9 @@ HAIR = "#4E3420"
 HAIR_HI = "#6B4A2E"
 NAVY = "#1F2F4D"
 NAVY_SH = "#16223A"
+SUIT = "#2B3245"
+SUIT_SH = "#1E2433"
+TIE = "#1E7A50"
 SHIRT = "#F4F2EC"
 GREEN = "#2FA36B"
 SW = 6  # outline width
@@ -25,22 +28,26 @@ HEAD_DY = 25
 
 
 def background():
+    towers = "".join(
+        f'<rect x="{x}" y="{560-h}" width="{w}" height="{h}" fill="#9FB3C8"/>'
+        for x, w, h in [(165, 60, 210), (232, 45, 290), (284, 70, 170), (362, 50, 330), (420, 65, 230), (492, 55, 280)]
+    )
     return f"""
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#EAF3EC"/><stop offset="1" stop-color="#CFE5D6"/>
+      <stop offset="0" stop-color="#EEF2F0"/><stop offset="1" stop-color="#D5E2DA"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFE6F5"/><stop offset="1" stop-color="#EAF4FA"/>
     </linearGradient>
   </defs>
   <rect width="{W}" height="{H}" fill="url(#bg)"/>
-  <!-- shelf left -->
+  <!-- office window with skyline -->
   <g stroke="{INK}" stroke-width="5" stroke-linejoin="round">
-    <rect x="150" y="300" width="420" height="22" rx="6" fill="#C9A47A"/>
-    <rect x="175" y="200" width="40" height="100" fill="{GREEN}"/>
-    <rect x="220" y="215" width="34" height="85" fill="#F2B84B"/>
-    <rect x="259" y="190" width="44" height="110" fill="{NAVY}"/>
-    <rect x="308" y="225" width="30" height="75" fill="#E06B4F"/>
-    <path d="M430 300 L430 250 Q470 215 510 250 L510 300 Z" fill="#F4F2EC"/>
-    <text x="470" y="285" font-family="DejaVu Sans" font-weight="bold" font-size="34" text-anchor="middle" fill="{GREEN}" stroke="none">$</text>
+    <rect x="150" y="150" width="420" height="420" rx="8" fill="url(#sky)"/>
+    <g stroke="none">{towers}</g>
+    <path d="M360 150 L360 570 M150 360 L570 360" fill="none" stroke-width="8" stroke="#F7F7F5"/>
+    <rect x="150" y="150" width="420" height="420" rx="8" fill="none"/>
   </g>
   <!-- chart frame right -->
   <g stroke="{INK}" stroke-width="5" stroke-linejoin="round" fill="none">
@@ -55,101 +62,95 @@ def background():
     <path d="M1530 760 L1650 760 L1630 870 L1550 870 Z" fill="#E7DCC9"/>
   </g>"""
 
-
 def body():
+    def lapel(sx):
+        pts = [(110, 712), (22, 925), (80, 940), (165, 815), (128, 795), (178, 735)]
+        return " ".join(f"{CX + sx*x} {y}" for x, y in pts)
     return f"""
   <g stroke="{INK}" stroke-width="{SW}" stroke-linejoin="round" stroke-linecap="round">
-    <!-- hoodie torso -->
-    <path d="M{CX-430} {H+20} Q{CX-420} 790 {CX-250} 735 Q{CX-120} 700 {CX} 705
-             Q{CX+120} 700 {CX+250} 735 Q{CX+420} 790 {CX+430} {H+20} Z" fill="{NAVY}"/>
-    <path d="M{CX-300} {H+20} Q{CX-300} 900 {CX-250} 840" fill="none" stroke="{NAVY_SH}" stroke-width="10"/>
-    <path d="M{CX+300} {H+20} Q{CX+300} 900 {CX+250} 840" fill="none" stroke="{NAVY_SH}" stroke-width="10"/>
+    <!-- suit jacket -->
+    <path d="M{CX-440} {H+20} Q{CX-430} 785 {CX-255} 732 Q{CX-120} 698 {CX} 704
+             Q{CX+120} 698 {CX+255} 732 Q{CX+430} 785 {CX+440} {H+20} Z" fill="{SUIT}"/>
+    <path d="M{CX-310} {H+20} Q{CX-310} 900 {CX-260} 840" fill="none" stroke="{SUIT_SH}" stroke-width="10"/>
+    <path d="M{CX+310} {H+20} Q{CX+310} 900 {CX+260} 840" fill="none" stroke="{SUIT_SH}" stroke-width="10"/>
     <!-- neck -->
-    <path d="M{CX-72} 640 L{CX-76} 720 Q{CX} 760 {CX+76} 720 L{CX+72} 640 Z" fill="{SKIN_SH}"/>
-    <!-- t-shirt V -->
-    <path d="M{CX-95} 712 Q{CX} 830 {CX+95} 712 Q{CX} 760 {CX-95} 712 Z" fill="{SHIRT}"/>
-    <!-- hood collar -->
-    <path d="M{CX-190} 725 Q{CX-120} 690 {CX-90} 712 Q{CX} 850 {CX+90} 712
-             Q{CX+120} 690 {CX+190} 725 Q{CX+150} 800 {CX} 870 Q{CX-150} 800 {CX-190} 725 Z" fill="{NAVY_SH}"/>
-    <path d="M{CX-90} 712 Q{CX} 850 {CX+90} 712" fill="none"/>
-    <!-- drawstrings -->
-    <path d="M{CX-45} 815 L{CX-55} 960" fill="none" stroke="{SHIRT}" stroke-width="9"/>
-    <path d="M{CX+45} 815 L{CX+55} 960" fill="none" stroke="{SHIRT}" stroke-width="9"/>
-    <circle cx="{CX-55}" cy="968" r="9" fill="{GREEN}"/>
-    <circle cx="{CX+55}" cy="968" r="9" fill="{GREEN}"/>
-    <!-- chest badge: $ coin -->
-    <circle cx="{CX+215}" cy="880" r="34" fill="{GREEN}" stroke-width="5"/>
-    <text x="{CX+215}" y="895" font-family="DejaVu Sans" font-weight="bold" font-size="42" text-anchor="middle" fill="#FFFFFF" stroke="none">$</text>
+    <path d="M{CX-72} 640 L{CX-76} 722 Q{CX} 760 {CX+76} 722 L{CX+72} 640 Z" fill="{SKIN_SH}"/>
+    <!-- shirt -->
+    <path d="M{CX-112} 712 L{CX} {H+20} L{CX+112} 712 Q{CX} 745 {CX-112} 712 Z" fill="{SHIRT}"/>
+    <!-- tie -->
+    <path d="M{CX-26} 742 L{CX+26} 742 L{CX+18} 778 L{CX-18} 778 Z" fill="{TIE}"/>
+    <path d="M{CX-18} 778 L{CX+18} 778 L{CX+40} 990 L{CX} 1030 L{CX-40} 990 Z" fill="{TIE}"/>
+    <path d="M{CX-8} 800 L{CX+28} 900" fill="none" stroke="#2A9A67" stroke-width="6" opacity="0.7"/>
+    <!-- shirt collar -->
+    <path d="M{CX-80} 705 L{CX-28} 742 L{CX-60} 790 L{CX-100} 722 Z" fill="{SHIRT}"/>
+    <path d="M{CX+80} 705 L{CX+28} 742 L{CX+60} 790 L{CX+100} 722 Z" fill="{SHIRT}"/>
+    <!-- lapels -->
+    <polygon points="{lapel(-1)}" fill="{SUIT_SH}"/>
+    <polygon points="{lapel(1)}" fill="{SUIT_SH}"/>
+    <!-- pocket square -->
+    <path d="M{CX+205} 880 L{CX+290} 880 L{CX+275} 852 L{CX+250} 866 L{CX+232} 848 Z" fill="{GREEN}"/>
+    <path d="M{CX+195} 880 L{CX+300} 880" fill="none"/>
+    <!-- buttons -->
+    <circle cx="{CX+30}" cy="1050" r="8" fill="{SUIT_SH}"/>
   </g>"""
-
 
 def head_base():
     return f"""
   <g stroke="{INK}" stroke-width="{SW}" stroke-linejoin="round" stroke-linecap="round">
     <!-- ears -->
-    <ellipse cx="{CX-150}" cy="455" rx="30" ry="44" fill="{SKIN}"/>
-    <ellipse cx="{CX+150}" cy="455" rx="30" ry="44" fill="{SKIN}"/>
-    <path d="M{CX-155} 440 Q{CX-140} 455 {CX-152} 472" fill="none" stroke-width="4"/>
-    <path d="M{CX+155} 440 Q{CX+140} 455 {CX+152} 472" fill="none" stroke-width="4"/>
-    <!-- face -->
-    <path d="M{CX-148} 380 Q{CX-152} 300 {CX} 285 Q{CX+152} 300 {CX+148} 380
-             L{CX+142} 500 Q{CX+125} 600 {CX} 630 Q{CX-125} 600 {CX-142} 500 Z" fill="{SKIN}"/>
-    <!-- stubble -->
-    <path d="M{CX-128} 520 Q{CX-110} 600 {CX} 622 Q{CX+110} 600 {CX+128} 520
-             Q{CX+60} 590 {CX} 585 Q{CX-60} 590 {CX-128} 520 Z" fill="{HAIR}" opacity="0.18" stroke="none"/>
-    <!-- hair -->
-    <path d="M{CX-160} 410 Q{CX-185} 250 {CX-60} 225 Q{CX+40} 190 {CX+120} 235
-             Q{CX+190} 270 {CX+162} 410 Q{CX+150} 345 {CX+110} 320
-             Q{CX+20} 350 {CX-60} 318 Q{CX-120} 330 {CX-140} 360 Q{CX-152} 380 {CX-160} 410 Z" fill="{HAIR}"/>
-    <path d="M{CX-60} 250 Q{CX+10} 225 {CX+80} 250" fill="none" stroke="{HAIR_HI}" stroke-width="10"/>
+    <ellipse cx="{CX-147}" cy="455" rx="28" ry="42" fill="{SKIN}"/>
+    <ellipse cx="{CX+147}" cy="455" rx="28" ry="42" fill="{SKIN}"/>
+    <path d="M{CX-152} 440 Q{CX-138} 455 {CX-150} 472" fill="none" stroke-width="4"/>
+    <path d="M{CX+152} 440 Q{CX+138} 455 {CX+150} 472" fill="none" stroke-width="4"/>
+    <!-- face: squarer jaw -->
+    <path d="M{CX-145} 380 Q{CX-150} 300 {CX} 288 Q{CX+150} 300 {CX+145} 380
+             L{CX+140} 510 Q{CX+132} 588 {CX+62} 620 Q{CX} 642 {CX-62} 620
+             Q{CX-132} 588 {CX-140} 510 Z" fill="{SKIN}"/>
+    <!-- light stubble -->
+    <path d="M{CX-130} 520 Q{CX-118} 595 {CX-62} 616 Q{CX} 636 {CX+62} 616 Q{CX+118} 595 {CX+130} 520
+             Q{CX+60} 592 {CX} 588 Q{CX-60} 592 {CX-130} 520 Z" fill="{HAIR}" opacity="0.14" stroke="none"/>
+    <!-- social haircut: short sides, side part, swept top -->
+    <path d="M{CX-148} 405 Q{CX-162} 290 {CX-80} 248 Q{CX+10} 215 {CX+105} 245
+             Q{CX+168} 275 {CX+150} 405 Q{CX+146} 352 {CX+128} 335
+             Q{CX+60} 300 {CX-20} 318 Q{CX-50} 312 {CX-62} 292
+             Q{CX-100} 318 {CX-126} 340 Q{CX-142} 365 {CX-148} 405 Z" fill="{HAIR}"/>
+    <path d="M{CX-82} 252 Q{CX-70} 275 {CX-62} 292" fill="none" stroke="{HAIR_HI}" stroke-width="5"/>
+    <path d="M{CX-40} 262 Q{CX+40} 238 {CX+110} 262" fill="none" stroke="{HAIR_HI}" stroke-width="9"/>
+    <path d="M{CX-10} 290 Q{CX+60} 272 {CX+125} 300" fill="none" stroke="{HAIR_HI}" stroke-width="6"/>
     <!-- nose -->
     <path d="M{CX+4} 455 Q{CX-14} 500 {CX-6} 510 Q{CX+10} 516 {CX+22} 508" fill="none" stroke-width="5"/>
-    <!-- cheeks -->
-    <ellipse cx="{CX-92}" cy="520" rx="24" ry="13" fill="#EE9C86" opacity="0.45" stroke="none"/>
-    <ellipse cx="{CX+92}" cy="520" rx="24" ry="13" fill="#EE9C86" opacity="0.45" stroke="none"/>
+    <!-- cheek tone -->
+    <ellipse cx="{CX-92}" cy="522" rx="22" ry="11" fill="#EE9C86" opacity="0.30" stroke="none"/>
+    <ellipse cx="{CX+92}" cy="522" rx="22" ry="11" fill="#EE9C86" opacity="0.30" stroke="none"/>
   </g>"""
-
 
 def eyes(state="open", look=(0, 0)):
     lx, ly = look
     out = []
-    for ex in (CX - 62, CX + 62):
+    for ex in (CX - 60, CX + 60):
         if state == "closed":
-            out.append(f'<path d="M{ex-24} 448 Q{ex} 462 {ex+24} 448" fill="none" stroke="{INK}" stroke-width="6" stroke-linecap="round"/>')
+            out.append(f'<path d="M{ex-24} 450 Q{ex} 462 {ex+24} 450" fill="none" stroke="{INK}" stroke-width="6" stroke-linecap="round"/>')
         elif state == "wide":
-            out.append(f'<ellipse cx="{ex}" cy="445" rx="25" ry="31" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/>')
-            out.append(f'<circle cx="{ex+lx}" cy="{447+ly}" r="11" fill="{INK}"/>')
+            out.append(f'<ellipse cx="{ex}" cy="447" rx="23" ry="26" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/>')
+            out.append(f'<circle cx="{ex+lx}" cy="{449+ly}" r="10" fill="{INK}"/>')
         else:
-            out.append(f'<ellipse cx="{ex}" cy="448" rx="22" ry="25" fill="#FFFFFF" stroke="{INK}" stroke-width="5"/>')
-            out.append(f'<circle cx="{ex+lx}" cy="{451+ly}" r="12" fill="{INK}"/>')
-            out.append(f'<circle cx="{ex+lx+4}" cy="{446+ly}" r="4" fill="#FFFFFF"/>')
+            out.append(f'<ellipse cx="{ex}" cy="450" rx="22" ry="17" fill="#FFFFFF" stroke="{INK}" stroke-width="4"/>')
+            out.append(f'<circle cx="{ex+lx}" cy="{451+ly}" r="11" fill="#3B2A1E"/>')
+            out.append(f'<circle cx="{ex+lx+4}" cy="{447+ly}" r="3.5" fill="#FFFFFF"/>')
+            # upper lid: calm, confident look
+            out.append(f'<path d="M{ex-25} 446 Q{ex} 428 {ex+25} 446" fill="none" stroke="{INK}" stroke-width="7" stroke-linecap="round"/>')
     return "\n  ".join(out)
-
-
-def glasses():
-    return f"""
-  <g fill="none" stroke="{INK}" stroke-width="7">
-    <circle cx="{CX-62}" cy="448" r="46"/>
-    <circle cx="{CX+62}" cy="448" r="46"/>
-    <path d="M{CX-17} 444 Q{CX} 432 {CX+17} 444"/>
-    <path d="M{CX-108} 440 L{CX-145} 430"/>
-    <path d="M{CX+108} 440 L{CX+145} 430"/>
-  </g>
-  <path d="M{CX-88} 420 L{CX-72} 410" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
-  <path d="M{CX+36} 420 L{CX+52} 410" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" opacity="0.8"/>"""
-
 
 def brows(kind="normal"):
-    y = {"normal": (380, 380), "up": (360, 360), "think": (364, 386), "serious": (390, 390)}[kind]
-    tilt = {"normal": 6, "up": 10, "think": 4, "serious": -6}[kind]
+    y = {"normal": (398, 398), "up": (376, 376), "think": (382, 402), "serious": (406, 406)}[kind]
+    tilt = {"normal": 4, "up": 10, "think": 2, "serious": -8}[kind]
     out = []
-    for i, ex in enumerate((CX - 62, CX + 62)):
+    for i, ex in enumerate((CX - 60, CX + 60)):
         yy = y[i]
-        inner = ex + (28 if i == 0 else -28)
-        outer = ex + (-30 if i == 0 else 30)
-        out.append(f'<path d="M{outer} {yy+tilt} Q{ex} {yy-12} {inner} {yy}" fill="none" stroke="{HAIR}" stroke-width="13" stroke-linecap="round"/>')
+        inner = ex + (30 if i == 0 else -30)
+        outer = ex + (-32 if i == 0 else 32)
+        out.append(f'<path d="M{outer} {yy+tilt} Q{ex} {yy-10} {inner} {yy}" fill="none" stroke="{HAIR}" stroke-width="15" stroke-linecap="round"/>')
     return "\n  ".join(out)
-
 
 def mouth(kind="closed"):
     my = 562
@@ -178,7 +179,7 @@ def mouth(kind="closed"):
 
 
 def ryan(mouth_kind="closed", eye_state="open", brow="normal", look=(0, 0), bg=True):
-    head = [head_base(), eyes(eye_state, look), glasses(), brows(brow), mouth(mouth_kind)]
+    head = [head_base(), eyes(eye_state, look), brows(brow), mouth(mouth_kind)]
     head_g = f'<g transform="translate(0 {HEAD_DY}) translate({CX} 450) scale({HEAD_SCALE}) translate({-CX} -450)">' + "\n".join(head) + "</g>"
     parts = [background() if bg else "", body(), head_g]
     return f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">' + "\n".join(parts) + "</svg>"
