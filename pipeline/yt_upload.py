@@ -5,7 +5,7 @@ import datetime as dt, json, os, subprocess, sys, pathlib, requests
 
 STATE = pathlib.Path("agendamento/youtube-state.json")
 COST_UPLOAD, COST_THUMB = 1600, 50
-# Brasília times (UTC-3): long 13:00, Shorts 17:00 and 21:00
+# US audience: long videos publish at 16:00 UTC = 12:00 noon Eastern (11:00 after DST ends), Shorts slots unused (scheduled by hand)
 SLOTS_UTC = [(16, 0), (20, 0), (24, 0)]
 
 
