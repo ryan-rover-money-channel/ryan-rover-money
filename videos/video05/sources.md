@@ -1,0 +1,7 @@
+- Federal Reserve, Economic Well-Being of U.S. Households in 2025 (63% would cover a $400 expense with cash or its equivalent)
+- Federal Reserve G.19 Consumer Credit (credit card interest rates above 20%)
+- IRS, 401(k) and IRA contribution limits and catch-up contributions (check current-year limits)
+- S&P Dow Jones Indices, SPIVA U.S. Scorecard (most active funds trail their benchmark over long periods)
+- Bureau of Labor Statistics, Consumer Expenditure Survey (housing, transportation and food are the largest spending categories)
+- Kahneman and Tversky, Prospect Theory, Econometrica (1979) (losses loom larger than gains)
+- Compound growth: stated illustrative math at 7% average yearly return, compounded monthly

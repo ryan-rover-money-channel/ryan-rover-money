@@ -1,0 +1,7 @@
+- Federal Reserve, Economic Well-Being of U.S. Households in 2025 (63% would cover a $400 expense with cash or its equivalent)
+- Bankrate, Emergency Savings Report 2026 (share of Americans with no emergency savings or less than three months)
+- Consumer Financial Protection Bureau, overdraft and NSF fee research (overdraft fees typically around $35)
+- Edmunds, new vehicle financing data (average new car payment above $700 a month)
+- IRS, filing season statistics (average federal refund around $3,000 in recent years)
+- Federal Reserve Bank of Atlanta, Wage Growth Tracker (job switchers vs job stayers)
+- Locke and Latham, goal-setting research (specific goals with deadlines improve results)

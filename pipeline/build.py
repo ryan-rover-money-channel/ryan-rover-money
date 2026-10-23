@@ -141,7 +141,8 @@ def main(video):
                 end = pos + (b - a) * len(c) / chars
                 srt.append(f"{len(srt)+1}\n{ts(t0 + pos)} --> {ts(t0 + end)}\n{c}\n"); pos = end
         dur = probe(out / f"{i}.mp4")
-        timeline.append({"scene": i, "start": t0, "dur": dur, "chapter": s.get("chapter"), "caption": s.get("caption", "")})
+        timeline.append({"scene": i, "start": t0, "dur": dur, "chapter": s.get("chapter"), "caption": s.get("caption", ""),
+                         "hook": s.get("short_hook")})
         t0 += dur
     (out / "list.txt").write_text("".join(f"file '{i}.mp4'\n" for i in range(len(scenes))))
     (out / "captions.srt").write_text("\n".join(srt))
@@ -158,7 +159,7 @@ def main(video):
         "-b:v", "250k", "-c:a", "aac", "-b:a", "48k", str(out / "preview.mp4"))
     total = probe(final)
     for k, t in enumerate([8, 25, 45, total * 0.25, total * 0.5, total * 0.75, total - 20]):
-        run("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{t:.1f}", "-i", str(final), "-frames:v", "1", "-vf", "scale=960:-1", str(out / f"frame{k}.jpg"))
+        run("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{min(t, total - 1):.1f}", "-i", str(final), "-frames:v", "1", "-vf", "scale=960:-1", str(out / f"frame{k}.jpg"))
     print("done", final, f"{total/60:.1f} min, captions {len(srt)}")
 
 
