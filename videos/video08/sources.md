@@ -1,0 +1,9 @@
+- Federal Reserve, Economic Well-Being of U.S. Households in 2025 (63% would cover a $400 expense with cash or its equivalent)
+- Consumer Financial Protection Bureau, overdraft research (fees typically around $35) and What is a payday loan ($15 per $100 equals almost 400% APR)
+- Federal Reserve G.19 Consumer Credit (credit card interest rates above 20%)
+- FICO, What's in my FICO Scores (payment history about 35%)
+- American Psychological Association, Stress in America surveys (money as a common source of stress)
+- LendingClub and PYMNTS, paycheck-to-paycheck reports (a majority of U.S. consumers)
+- KFF, polling on cost-related delays in health care
+- Mullainathan and Shafir, Scarcity: Why Having Too Little Means So Much (2013)
+- Compound growth: stated illustrative math at 7% average yearly return, compounded monthly
