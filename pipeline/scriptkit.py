@@ -3,7 +3,7 @@ start, save() writes script.json + sources.md next to the calling script and pri
 import json, pathlib, sys
 
 S, _next = [], [None]
-SCALE = 1.5
+SCALE = 1.25
 
 
 def ch(name):

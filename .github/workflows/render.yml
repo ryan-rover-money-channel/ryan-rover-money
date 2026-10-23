@@ -19,8 +19,8 @@ jobs:
           sudo apt-get update -y && sudo apt-get install -y ffmpeg fonts-dejavu-core
           pip install piper-tts requests cairosvg
           mkdir -p voices && cd voices
-          B=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/norman/medium
-          curl -sSLO $B/en_US-norman-medium.onnx && curl -sSLO $B/en_US-norman-medium.onnx.json
+          B=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high
+          curl -sSLO $B/en_US-ryan-high.onnx && curl -sSLO $B/en_US-ryan-high.onnx.json
       - name: Fetch real photos (Wikimedia Commons) for photo scenes
         run: python pipeline/fetch_media.py "${{ inputs.video }}"
       - name: Render

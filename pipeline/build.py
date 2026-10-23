@@ -8,9 +8,10 @@ sys.path.insert(0, os.path.dirname(__file__))
 import cards, presenter
 
 W, H, FPS = 1920, 1080, 30
-MODEL = os.environ.get("PIPER_MODEL", "voices/en_US-norman-medium.onnx")
+MODEL = os.environ.get("PIPER_MODEL", "voices/en_US-ryan-high.onnx")  # channel voice approved 2026-10-23 (sample 02)
 TAG = "0x2FA36B"  # caption tag colour (brand green)
-SCALE = os.environ.get("PIPER_LENGTH_SCALE", "1.2")  # >1 slows the voice to a documentary pace
+SCALE = os.environ.get("PIPER_LENGTH_SCALE", "1.25")  # >1 slows the voice down
+NOISE, NOISE_W = "0.9", "0.9"  # livelier delivery, as in the approved sample
 GAP, TAIL = 0.18, 0.35  # silence between sentences / at the end of a scene
 
 
@@ -19,9 +20,10 @@ def run(*a, **k):
 
 
 def piper(text, wav):
-    for flag in ("--length-scale", "--length_scale"):
+    for sep in ("-", "_"):
         try:
-            run("piper", "--model", MODEL, flag, SCALE, "--output_file", str(wav), input=text.encode()); return
+            run("piper", "--model", MODEL, f"--length{sep}scale", SCALE, f"--noise{sep}scale", NOISE,
+                f"--noise{sep}w", NOISE_W, "--output_file", str(wav), input=text.encode()); return
         except subprocess.CalledProcessError:
             continue
     run("piper", "--model", MODEL, "--output_file", str(wav), input=text.encode())
