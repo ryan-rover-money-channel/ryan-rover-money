@@ -1,0 +1,824 @@
+{
+ "id": "video42",
+ "angle": "20 money myths: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "20 Money Myths That Keep You Poor",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Most money mistakes don't come from bad luck. They come from bad ideas. Things you heard from a parent, a coworker, a TV show, or a video like this one, that sounded true, and quietly cost you thousands of dollars. Today, we're going to break twenty money myths that keep people poor.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Twenty myths. Some are about math, some are about mindset, and some are about the everyday moves people make with credit, debt and investing.",
+   "card": {
+    "type": "stat",
+    "label": "money myths",
+    "big": "20",
+    "sub": "that keep people poor"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's why myths are so dangerous. A bad habit you know is bad. You can work on it. A myth feels like common sense. You don't question it, so you repeat it for years. And because money compounds, a small wrong belief held for twenty years can cost far more than one big mistake.",
+   "query": "Old books on shelf",
+   "caption": "COMMON SENSE THAT ISN'T",
+   "cuts": 5
+  },
+  {
+   "text": "We'll go through them from three angles. Angle one, the numbers: myths that fall apart the moment you do the math. Angle two, the psychology: myths about money and who you are. And angle three, the playbook: myths about credit, debt and investing that change what you do this month.",
+   "query": "Three doors hallway",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Some of these will surprise you. Number five, number eight and number fifteen surprise almost everyone. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Social Security figures come from the Social Security Administration. Tax refund data comes from the IRS. Credit score guidance comes from the Consumer Financial Protection Bureau. Growth examples use stated math, like a seven percent average yearly return. That's an illustration, not a promise. This is education, not financial advice.",
+   "query": "Social Security Administration building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. Myths that fall apart with simple math.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Myth number one. Small amounts don't matter.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Small amounts don't matter",
+    "sub": "the math says otherwise"
+   },
+   "caption": "MYTH 1",
+   "cuts": 1,
+   "chapter": "1. Small amounts don't matter"
+  },
+  {
+   "text": "This myth sounds reasonable. What's fifty dollars? It won't change my life. And on its own, one fifty dollar decision doesn't. But money decisions aren't one time events. They repeat. Fifty dollars a week is twenty six hundred dollars a year. And if that money is invested instead of spent, it doesn't just add up. It compounds.",
+   "query": "Coins stacked growing",
+   "caption": "$50 A WEEK = $2,600 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Picture two coworkers. One spends an extra fifty dollars a week on things she barely remembers. The other invests it automatically. Neither feels richer or poorer week to week. But after twenty or thirty years, the gap between them can be life changing. Try this: pick one small recurring expense and redirect it to savings for ninety days. Watch the balance.",
+   "query": "Two coworkers office",
+   "caption": "SAME WEEK, DIFFERENT FUTURE",
+   "cuts": 3
+  },
+  {
+   "text": "Where does this myth come from? Mostly from how slow the start feels. In the first year, fifty dollars a week invested might earn only a little growth, so it really does look like it doesn't matter. The payoff shows up years later, when you've stopped paying attention. Our brains judge a habit by what it does this month, not what it does in twenty years. That's exactly why small amounts get ignored, and exactly why the people who don't ignore them end up ahead.",
+   "query": "Seedling growing timelapse",
+   "caption": "SLOW START, BIG FINISH",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the math. About two hundred dollars a month, invested at a seven percent average yearly return, for thirty years. You'd put in seventy two thousand dollars. Look where it could end up.",
+   "card": {
+    "type": "growth",
+    "monthly": 200,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Myth number two. Cash is the safest place for your money.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Cash is the safest place",
+    "sub": "inflation is a slow leak"
+   },
+   "caption": "MYTH 2",
+   "cuts": 1,
+   "chapter": "2. Cash is the safest place"
+  },
+  {
+   "text": "In the short term, cash is safe. It won't drop twenty percent in a month. That's exactly why it's perfect for an emergency fund. But over decades, cash has a hidden enemy: inflation. Prices rise over time, so the same dollar buys less. At three percent inflation, by the rule of seventy two, prices roughly double in about twenty four years.",
+   "query": "Dollar bills in safe",
+   "caption": "SAFE FROM CRASHES, NOT FROM TIME",
+   "cuts": 3
+  },
+  {
+   "text": "That means one hundred thousand dollars sitting in a zero interest account for twenty four years could buy only about half of what it buys today. The balance looks the same. The value isn't. Cash is safe from crashes, but not from time. Try this: keep your emergency fund in cash, ideally earning interest, and let your long term money grow in investments that have historically beaten inflation over long periods.",
+   "query": "Grocery prices supermarket",
+   "caption": "PRICES DOUBLE IN ~24 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "This myth comes from real pain. Many people watched their parents lose money in a crash, or lost money themselves, and decided never again. That fear is understandable. But it swaps a visible risk, a crash, for an invisible one, inflation. The answer isn't all cash or all stocks. It's matching each dollar to its job. Money for emergencies and near term goals stays stable. Money for twenty years from now can take more risk, because it has time to recover.",
+   "query": "Worried man reading newspaper",
+   "caption": "VISIBLE RISK VS INVISIBLE RISK",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number three. Your house is your best investment.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Your house is your best investment",
+    "sub": "a home is not a portfolio"
+   },
+   "caption": "MYTH 3",
+   "cuts": 1,
+   "chapter": "3. Your house is your best investment"
+  },
+  {
+   "text": "A home can be a great thing to own. It gives you stability, and paying down a mortgage builds equity. But calling it your best investment ignores the costs. Property taxes, insurance, maintenance, repairs, closing costs when you buy and sell. Many planners use a rule of thumb of setting aside around one to two percent of a home's value each year just for upkeep.",
+   "query": "House with for sale sign",
+   "caption": "A HOME IS NOT A PORTFOLIO",
+   "cuts": 3
+  },
+  {
+   "text": "And historically, home prices have grown more slowly than many people assume once you account for inflation and all those costs, though it varies hugely by city and decade. The best way to see a home is as a place to live that may also build wealth, not as your retirement plan. Try this: add up what your home really costs you each year, beyond the mortgage. Taxes, insurance, repairs. Most people are surprised.",
+   "query": "Roof repair workers",
+   "caption": "1-2% A YEAR IN UPKEEP",
+   "cuts": 3
+  },
+  {
+   "text": "Why do so many people believe it? Because for many families, the house really was the biggest pile of wealth they ever had. But often that's because the mortgage forced them to save every month, not because the house was a spectacular investment. The mortgage payment was automatic and non negotiable. That's the real lesson. Forced, automatic saving works. You can get the same effect with automatic investing, without putting everything into one property in one city.",
+   "query": "Family in front of house",
+   "caption": "THE FORCED SAVINGS EFFECT",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number four. Renting is throwing money away.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Renting is throwing money away",
+    "sub": "it depends on the math"
+   },
+   "caption": "MYTH 4",
+   "cuts": 1,
+   "chapter": "4. Renting is throwing money away"
+  },
+  {
+   "text": "Rent pays for a place to live. That's not throwing money away. It's buying shelter. Owners also pay for things they never get back: mortgage interest, property taxes, insurance and maintenance. The real question is not rent versus nothing. It's rent versus the unrecoverable costs of owning.",
+   "query": "Apartment building windows",
+   "caption": "RENT BUYS SHELTER",
+   "cuts": 3
+  },
+  {
+   "text": "In some cities and some years, renting and investing the difference can come out ahead. In others, buying wins, especially if you stay many years. It depends on prices, interest rates, how long you'll stay, and whether you actually invest the difference. Try this: before buying, compare your rent with the full monthly cost of owning, not just the mortgage. Then decide with numbers, not a slogan.",
+   "query": "Calculator with house keys",
+   "caption": "COMPARE THE REAL COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "This myth is often repeated by people selling homes and mortgages, and by parents who bought decades ago when prices relative to income were often lower. Renting has real advantages: flexibility to move for a better job, no surprise repair bills, and a smaller upfront cost. Owning has its own: stability, control, and a payment that doesn't rise with the market if your rate is fixed. Neither is automatically smarter. The smartest choice is the one that fits your life and your numbers.",
+   "query": "Moving truck boxes",
+   "caption": "FLEXIBILITY VS STABILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number five. Social Security will cover your retirement.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Social Security will cover retirement",
+    "sub": "it was never designed to"
+   },
+   "caption": "MYTH 5",
+   "cuts": 1,
+   "chapter": "5. Social Security will cover retirement"
+  },
+  {
+   "text": "This is one of the most expensive myths in America. According to the Social Security Administration, for the average worker, retirement benefits replace only about forty percent of their earnings before retirement. Most financial planners say people need considerably more than that to keep a similar lifestyle.",
+   "query": "Social Security card",
+   "caption": "ABOUT 40% OF YOUR PAY",
+   "cuts": 3
+  },
+  {
+   "text": "Social Security is valuable. It's protected against inflation, and it lasts for life. But it was designed as a foundation, not a full income. The gap has to come from somewhere: workplace plans, IRAs, other savings, or working longer. Try this: create an account on the official Social Security website and look at your estimated benefit. Then compare it with what you spend today.",
+   "query": "Retired couple budget kitchen table",
+   "caption": "MIND THE GAP",
+   "cuts": 3
+  },
+  {
+   "text": "The myth survives partly because older generations often had pensions on top of Social Security, guaranteed monthly checks from their employer for life. Today, far fewer private sector workers have a traditional pension. Most have a four oh one k or nothing at all, which means the responsibility for the gap moved from the employer to you. If your parents retired comfortably on Social Security plus a pension, your plan probably needs to look different.",
+   "query": "Factory workers vintage photo",
+   "caption": "THE MISSING PENSION",
+   "cuts": 3
+  },
+  {
+   "text": "The Social Security Administration says benefits replace about forty percent of an average worker's pre retirement earnings. The rest has to come from your own savings.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Social Security",
+     "big": "~40%",
+     "sub": "average worker"
+    },
+    "right": {
+     "label": "Your savings",
+     "big": "the rest",
+     "sub": "401(k), IRA, other"
+    },
+    "note": "Source: Social Security Administration"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Myth number six. The tax refund is free money.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "The tax refund is free money",
+    "sub": "it was always yours"
+   },
+   "caption": "MYTH 6",
+   "cuts": 1,
+   "chapter": "6. The tax refund is free money"
+  },
+  {
+   "text": "A tax refund feels like a bonus. But it's not a gift from the government. It's your own money, which you overpaid during the year, coming back to you without interest. IRS data shows the average refund in recent filing seasons has been around three thousand dollars. That's roughly two hundred fifty dollars a month that people lent to the government for free.",
+   "query": "Tax return forms",
+   "caption": "YOUR MONEY, RETURNED",
+   "cuts": 3
+  },
+  {
+   "text": "For some people, a big refund works as forced savings, and that's okay. But if you're carrying credit card debt at twenty percent while waiting for a refund, that's an expensive trade. Try this: if you get a large refund every year, consider adjusting your withholding with your employer. Then send that extra monthly money straight to debt or savings.",
+   "query": "Paycheck stub calculator",
+   "caption": "ADJUST YOUR WITHHOLDING",
+   "cuts": 3
+  },
+  {
+   "text": "Refund season is also a big season for retailers, car dealers and travel companies, and they know it. Ads land right when the money does. That's one reason refunds disappear so fast. A simple defense is to decide the refund's job before it arrives, and move it there the same day it lands. The less time it sits in checking, the less likely it is to be spent on something you won't remember by summer.",
+   "query": "Shopping mall sale signs",
+   "caption": "REFUND SEASON IS SALES SEASON",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number seven. You can wait for the perfect moment to invest.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "You can time the market",
+    "sub": "almost nobody can"
+   },
+   "caption": "MYTH 7",
+   "cuts": 1,
+   "chapter": "7. You can time the market"
+  },
+  {
+   "text": "Waiting for the dip sounds smart. Buy low, sell high. The problem is that nobody knows when the dip will come, how deep it will be, or when it ends. Many of the market's best days have historically come very close to its worst days, during the scariest periods. If you're out waiting, you often miss both.",
+   "query": "Stock market chart volatile",
+   "caption": "NOBODY KNOWS WHEN",
+   "cuts": 3
+  },
+  {
+   "text": "Studies of long term returns have repeatedly found that missing even a handful of the best days over decades can sharply reduce your total return. Time in the market has generally beaten timing the market, though no strategy is guaranteed. Try this: instead of waiting, invest a fixed amount on a fixed day every month. It's called dollar cost averaging, and it removes the guessing.",
+   "query": "Calendar with payday marked",
+   "caption": "SAME DAY EVERY MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "This myth is fed by stories. Everybody has heard about someone who sold right before a crash. Fewer people hear about the many who sold too early, or never got back in and missed the recovery. Being right once makes a great story. Being right over and over, on both the exit and the re entry, is something even many professionals struggle to do consistently. A boring schedule beats a brilliant guess most of the time.",
+   "query": "Fortune teller crystal ball",
+   "caption": "STORIES VS STATISTICS",
+   "cuts": 3
+  },
+  {
+   "text": "That's the math myths. Now the harder ones. The myths that live in your head.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. Myths about money and mindset. These are harder to see, because they feel like who you are.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Myth number eight. More income will fix my money problems.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "More income will fix it",
+    "sub": "income without habits leaks"
+   },
+   "caption": "MYTH 8",
+   "cuts": 1,
+   "chapter": "8. More income will fix it"
+  },
+  {
+   "text": "Higher income helps. But it doesn't fix habits, and history shows it. A well known study by economists looking at professional football players found that roughly one in six filed for bankruptcy within about twelve years of retiring, despite earning millions during their careers. Big income, no system.",
+   "query": "American football stadium",
+   "caption": "MILLIONS, THEN BANKRUPT",
+   "cuts": 3
+  },
+  {
+   "text": "You don't have to be a pro athlete to see it. Many people get a raise, and within a year, the extra money has been absorbed by a nicer car, a bigger place and more dinners out. Their stress stays the same. The fix is to build habits at your current income, so that when more money arrives, it has somewhere to go. Try this: decide now what percent of your next raise goes to savings.",
+   "query": "New car showroom",
+   "caption": "THE RAISE DISAPPEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Why do we believe it? Because when money is tight, more income really does help, and that feeling sticks. We assume the relief scales forever. But spending has a way of rising to meet income. Researchers call it lifestyle inflation. The people who escape it usually do one thing: they decide in advance where new money goes, before they get used to having it. Income is fuel. Habits are the engine.",
+   "query": "Fuel pump gas station",
+   "caption": "INCOME IS FUEL, HABITS ARE THE ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number nine. Rich people just got lucky or inherited it.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Rich people just got lucky",
+    "sub": "luck helps, habits compound"
+   },
+   "caption": "MYTH 9",
+   "cuts": 1,
+   "chapter": "9. Rich people just got lucky"
+  },
+  {
+   "text": "Some did. Luck and family money are real. But researchers Thomas Stanley and William Danko, in their book The Millionaire Next Door, found that most of the American millionaires they studied were first generation wealthy. Many were business owners or professionals who lived below their means, drove ordinary cars and invested steadily for decades.",
+   "query": "Ordinary suburban house",
+   "caption": "THE MILLIONAIRE NEXT DOOR",
+   "cuts": 3
+  },
+  {
+   "text": "This myth is dangerous because it makes effort feel pointless. If it's all luck, why try? But the habits Stanley described are boring and available to most people. Spend less than you earn. Avoid showing off. Invest consistently. Try this: next time you see someone with wealth, ask what habits might be behind it, not just what luck.",
+   "query": "Older man driving ordinary car",
+   "caption": "BORING HABITS",
+   "cuts": 3
+  },
+  {
+   "text": "Part of this myth comes from what we can see. Visible wealth is often the flashy kind, new money spending loudly. Quiet wealth is invisible by design. The teacher with a paid off house and a large retirement account doesn't post about it. So our picture of rich people is skewed toward the ones who show it, and those are often not the ones who keep it.",
+   "query": "Quiet neighborhood street",
+   "caption": "QUIET WEALTH IS INVISIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number ten. Budgets are for broke people.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Budgets are for broke people",
+    "sub": "budgets are for free people"
+   },
+   "caption": "MYTH 10",
+   "cuts": 1,
+   "chapter": "10. Budgets are for broke people"
+  },
+  {
+   "text": "Lots of people think a budget means deprivation. Counting every penny, never having fun. But a budget is just a plan for your money before it arrives. Wealthy households and businesses budget all the time. Without a plan, money tends to drift toward whatever is loudest this week.",
+   "query": "Notebook budget planning",
+   "caption": "A PLAN, NOT A PRISON",
+   "cuts": 3
+  },
+  {
+   "text": "A good budget can be very simple. One popular approach splits after tax income into needs, wants and savings. Another just automates savings first and lets you spend the rest freely. The point isn't the method. It's the decision. Try this: write three numbers. What you need each month, what you want to save, and what's left for fun. That's a budget.",
+   "query": "Friends having dinner restaurant",
+   "caption": "FUN IS IN THE PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "The myth often comes from bad budget experiences. Someone tried tracking every coffee in a spreadsheet, felt guilty for a month, and quit. That's not a budget problem. That's a design problem. The best budget is the one you barely notice: automatic savings, automatic bill payments, and a clear amount you're free to spend without tracking every dollar. Less effort, more results.",
+   "query": "Spreadsheet frustration",
+   "caption": "DESIGN, NOT GUILT",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number eleven. Talking about money is rude.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Talking about money is rude",
+    "sub": "silence protects bad deals"
+   },
+   "caption": "MYTH 11",
+   "cuts": 1,
+   "chapter": "11. Talking about money is rude"
+  },
+  {
+   "text": "Many families never talk about money. Kids grow up not knowing what things cost, how debt works, or how their parents saved. Coworkers don't share salaries, so they don't know if they're underpaid. Couples avoid the topic until it becomes a fight. Silence feels polite, but it mostly protects bad deals.",
+   "query": "Family talking around table",
+   "caption": "SILENCE IS EXPENSIVE",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need to announce your net worth at dinner. But talking openly with a partner, sharing salary ranges with trusted coworkers, and teaching kids how money works can be worth a lot. Try this: have one money conversation this week. With a partner, a friend or your kids. Keep it simple. What's one money thing you wish you'd learned earlier?",
+   "query": "Parent teaching child with coins",
+   "caption": "TEACH THE KIDS",
+   "cuts": 3
+  },
+  {
+   "text": "This myth has real costs at work. When nobody knows what anyone else earns, it's hard to tell if you're underpaid, and harder to negotiate. In recent years, a number of states have passed pay transparency laws requiring many employers to share salary ranges in job postings. That's a sign the silence is breaking. Use it. Look up the posted ranges for your role before your next review.",
+   "query": "Job posting on laptop",
+   "caption": "KNOW YOUR RANGE",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number twelve. I'm too young to worry about it, or too old to start.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "I'm too young or too old",
+    "sub": "the best time is now"
+   },
+   "caption": "MYTH 12",
+   "cuts": 1,
+   "chapter": "12. I'm too young or too old"
+  },
+  {
+   "text": "In your twenties, retirement feels like science fiction. But that's exactly when time is most powerful. Money invested at twenty five has forty years to compound before sixty five. In your fifties, it can feel too late. But you may have fifteen or more years of work left, your highest income, and extra catch up contribution limits in retirement accounts.",
+   "query": "Young graduate cap",
+   "caption": "THE YOUNG HAVE TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Both ages have a superpower. The young have time. The older have income. The only real mistake is waiting for a better age that never comes. Try this: if you're young, start with any amount and automate it. If you're older, find out your current catch up contribution limits, and aim to save a bigger share of each raise.",
+   "query": "Older professional at desk",
+   "caption": "THE OLDER HAVE INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Both versions of this myth are really the same thing: a reason to wait. Too young means not yet. Too old means not anymore. Either way, the result is the same, no action. The fix is to make the first step so small it's hard to say no. One percent of your paycheck. Twenty dollars a week. A single phone call to your benefits office. Momentum matters more than size at the start.",
+   "query": "First step on staircase",
+   "caption": "MAKE THE FIRST STEP SMALL",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number thirteen. Being frugal means being cheap.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Frugal means cheap",
+    "sub": "spend on what matters"
+   },
+   "caption": "MYTH 13",
+   "cuts": 1,
+   "chapter": "13. Frugal means cheap"
+  },
+  {
+   "text": "Cheap is buying the lowest price every time, even when it costs more later, or making other people pay for you. Frugal is different. Frugal means spending deliberately. Cutting hard on things you don't care about, so you can spend generously on the things you do.",
+   "query": "Old reliable car",
+   "caption": "FRUGAL IS NOT CHEAP",
+   "cuts": 3
+  },
+  {
+   "text": "A frugal person might drive a ten year old car and skip the latest phone, then spend happily on travel with family. A cheap person buys shoes that fall apart in six months, then buys them again. Frugality is about value, not price. Try this: list your top three priorities in life. Then look at your spending. Does your money match the list?",
+   "query": "Family travel vacation beach",
+   "caption": "SPEND ON WHAT MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "This myth survives because people confuse frugality with misery. Nobody wants to be the friend who never pays their share. But real frugality looks generous on the outside. The frugal person can host dinner at home, help a friend in trouble and give to causes they care about, because they're not spending everything on things that don't matter to them.",
+   "query": "Dinner party at home friends",
+   "caption": "FRUGAL LOOKS GENEROUS",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number fourteen. Investing is just gambling.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Investing is gambling",
+    "sub": "owning is not betting"
+   },
+   "caption": "MYTH 14",
+   "cuts": 1,
+   "chapter": "14. Investing is gambling"
+  },
+  {
+   "text": "Gambling has a built in negative expected outcome for the player. The house wins over time. Owning a broad, diversified slice of many businesses for decades is different. Companies produce goods, services and profits, and over long periods broad markets have historically grown, though with painful drops along the way.",
+   "query": "Casino slot machines",
+   "caption": "THE HOUSE WINS",
+   "cuts": 3
+  },
+  {
+   "text": "That said, some things people call investing really are closer to gambling. Betting your savings on one hot stock, trading options you don't understand, or chasing whatever went up last week. The difference is time, diversification and cost. Try this: if you invest, ask three questions. How many companies do I own through this? What does it cost per year? And can I hold it for ten years without touching it?",
+   "query": "Diverse businesses city street",
+   "caption": "OWNING MANY BUSINESSES",
+   "cuts": 3
+  },
+  {
+   "text": "The myth is strengthened every time a market crashes and the headlines scream. Drops of twenty or thirty percent are scary, and they do happen. But the difference between a gambler and an owner is what they do next. A gambler wants the money back fast. An owner keeps owning, keeps adding, and waits. Over long periods, patience has historically been rewarded, though never guaranteed.",
+   "query": "Patient fisherman lake",
+   "caption": "OWNERS WAIT",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If one of these myths hit a little close to home, subscribe to the channel. It's free, and it helps me keep making these videos. Now the last angle, the one that changes what you do this month.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. Myths about credit, debt and investing that change your next move.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Myth number fifteen. You need to carry a credit card balance to build credit.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Carry a balance to build credit",
+    "sub": "pay in full, every month"
+   },
+   "caption": "MYTH 15",
+   "cuts": 1,
+   "chapter": "15. Carry a balance to build credit"
+  },
+  {
+   "text": "This one costs Americans a lot of money. You don't need to carry a balance and pay interest to build credit. The Consumer Financial Protection Bureau explains that paying on time and keeping your balances low compared with your limits are among the most important factors. Paying the full statement balance every month shows you can handle credit, and costs nothing in interest.",
+   "query": "Credit card statement",
+   "caption": "NO BALANCE NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the difference in dollars. Carrying a two thousand dollar balance at twenty two percent costs roughly four hundred forty dollars a year in interest, for zero benefit to your score. Paying in full costs nothing. Try this: set your card to automatically pay the full statement balance each month. If you can't yet, set it to pay well above the minimum.",
+   "query": "Autopay setting phone",
+   "caption": "PAY IN FULL",
+   "cuts": 3
+  },
+  {
+   "text": "Where did this myth come from? It's a mix up. Using a credit card regularly and paying it on time does help build credit history. Somewhere along the way, using a card turned into carrying a balance in people's minds. They're not the same. You can use the card every month, pay it off completely, and get all the benefits without paying a dollar of interest.",
+   "query": "Paying bill online laptop",
+   "caption": "USE IT, DON'T CARRY IT",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number sixteen. Checking your own credit score hurts it.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Checking your score hurts it",
+    "sub": "soft checks are free"
+   },
+   "caption": "MYTH 16",
+   "cuts": 1,
+   "chapter": "16. Checking your score hurts it"
+  },
+  {
+   "text": "When you check your own credit, it's called a soft inquiry, and it doesn't affect your score. Hard inquiries happen when a lender checks your credit because you applied for new credit, and those can have a small, temporary effect. Looking at your own numbers is free and harmless.",
+   "query": "Credit report on laptop",
+   "caption": "SOFT CHECKS DON'T HURT",
+   "cuts": 3
+  },
+  {
+   "text": "People who avoid checking often miss errors. A wrong late payment, an account that isn't theirs, an old debt reported twice. Mistakes on credit reports aren't rare, and fixing them can raise your score. Try this: get your free reports from annual credit report dot com, the official site, and read every line once a year.",
+   "query": "Person reading report carefully",
+   "caption": "CHECK FOR ERRORS",
+   "cuts": 3
+  },
+  {
+   "text": "This myth comes from a half truth. Applying for lots of new credit in a short time can lower your score a bit, because lenders may see it as a sign of risk. People heard credit checks hurt your score, and lumped every check together. But checking your own report is not applying for anything. Many banks and card apps now show your score for free, and looking at it is completely safe.",
+   "query": "Banking app credit score",
+   "caption": "LOOKING IS SAFE",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number seventeen. Closing old credit cards improves your score.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Close old cards to boost your score",
+    "sub": "it can backfire"
+   },
+   "caption": "MYTH 17",
+   "cuts": 1,
+   "chapter": "17. Close old cards to boost your score"
+  },
+  {
+   "text": "It feels responsible to close cards you don't use. But it can backfire. Your score looks at how much of your available credit you're using. Close a card, and your available credit drops, so the same balance suddenly looks bigger. Older accounts can also help the average age of your credit history.",
+   "query": "Scissors cutting credit card",
+   "caption": "CLOSING CAN BACKFIRE",
+   "cuts": 3
+  },
+  {
+   "text": "If an old card has no annual fee and doesn't tempt you to spend, it's often fine to keep it open and use it for a small purchase now and then. If it has a high annual fee or it really tempts you, closing it may still be the right call. Try this: before closing any card, check its fee and your total credit use, and decide with both.",
+   "query": "Wallet with few cards",
+   "caption": "KEEP THE OLD, NO FEE CARD",
+   "cuts": 3
+  },
+  {
+   "text": "This myth comes from good instincts. Fewer cards can mean less temptation and less to track. For some people that's worth it. The key is knowing the trade off. If you close a card, try to keep your other balances low so your overall credit use stays healthy. And never close your oldest card right before applying for a mortgage or car loan.",
+   "query": "Mortgage application papers",
+   "caption": "TIMING MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number eighteen. All debt is bad.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "All debt is bad",
+    "sub": "rate and purpose matter"
+   },
+   "caption": "MYTH 18",
+   "cuts": 1,
+   "chapter": "18. All debt is bad"
+  },
+  {
+   "text": "Debt is a tool. A low rate mortgage on a home you can afford, a reasonable student loan for a degree that raises your income, or a business loan with a clear plan can make sense. Credit card debt at twenty percent for things that lose value is a very different thing. The interest rate, and what the money buys, decide whether debt helps or hurts.",
+   "query": "Hammer and tools workbench",
+   "caption": "A TOOL OR A TRAP",
+   "cuts": 3
+  },
+  {
+   "text": "A simple test. Does this debt help me earn more, or own something that holds value, at a reasonable rate I can comfortably pay? If yes, it might be useful. If it's for something that's gone in a month, at a high rate, it's usually a trap. Try this: label every debt you have as tool or trap. Pay off the traps first.",
+   "query": "Graduation ceremony",
+   "caption": "DEBT WITH A PURPOSE",
+   "cuts": 3
+  },
+  {
+   "text": "This myth often comes from people who were badly burned by debt, and their caution makes sense. But fear of all debt can lead to its own mistakes, like draining every dollar of savings to avoid a low rate loan, leaving no cushion for emergencies. Being debt free is a great goal. Being debt free with zero savings is fragile. Balance matters.",
+   "query": "Balance scale weights",
+   "caption": "DEBT FREE AND FRAGILE",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number nineteen. You need a lot of money to start investing.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "You need a lot to start investing",
+    "sub": "start with what you have"
+   },
+   "caption": "MYTH 19",
+   "cuts": 1,
+   "chapter": "19. You need a lot to start investing"
+  },
+  {
+   "text": "Decades ago, investing often required large minimums and expensive commissions. Today, many brokerages have no minimum to open an account and offer fractional shares, so you can buy a slice of a fund with a small amount. Many workplace retirement plans let you contribute a small percent of each paycheck.",
+   "query": "Smartphone investing app",
+   "caption": "NO BIG MINIMUM",
+   "cuts": 3
+  },
+  {
+   "text": "Starting small isn't just possible. It's smart. It builds the habit and teaches you how markets feel when they move, while the stakes are low. Try this: if your employer offers a retirement plan with a match, contribute at least enough to get the full match. That match is part of your pay.",
+   "query": "Paycheck and retirement plan form",
+   "caption": "GET THE MATCH",
+   "cuts": 3
+  },
+  {
+   "text": "This myth hurts younger people the most. They wait to have a big amount before starting, and lose the years when time is most powerful. The first investment isn't really about the money. It's about learning. How to open an account, how to pick a low cost fund, how it feels when the balance drops. Better to learn those lessons with one hundred dollars than with one hundred thousand.",
+   "query": "Student with laptop",
+   "caption": "LEARN WITH SMALL MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Myth number twenty. You need a financial expert before you can start.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "You need an expert to begin",
+    "sub": "simple beats complex"
+   },
+   "caption": "MYTH 20",
+   "cuts": 1,
+   "chapter": "20. You need an expert to begin"
+  },
+  {
+   "text": "Good advice can be valuable, especially for complex situations like a business, an inheritance or taxes. But the basics don't require an expert. An emergency fund, no high interest debt, and steady contributions to low cost diversified funds is a plan many people can run on their own.",
+   "query": "Financial advisor meeting",
+   "caption": "SIMPLE BEATS COMPLEX",
+   "cuts": 3
+  },
+  {
+   "text": "If you do hire help, know how they're paid. Ask whether they're a fiduciary, meaning legally required to act in your best interest. Ask about every fee, in dollars. Try this: write a one page plan for yourself. What you're saving for, how much each month, and where it goes. If you can't fill it in, that's when an hour with a fee only advisor might be worth it.",
+   "query": "One page plan notebook",
+   "caption": "YOUR ONE PAGE PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Part of this myth is marketing. Complexity sells. If investing looked simple, fewer people would pay for help. Some of the most respected investors, including Warren Buffett, have said that for most people, low cost index funds are a sensible choice. That doesn't mean advice is useless. It means simple is not the same as amateur.",
+   "query": "Simple tools on table",
+   "caption": "SIMPLE IS NOT AMATEUR",
+   "cuts": 3
+  },
+  {
+   "text": "Breaking a myth isn't enough. You need something to replace it. So here are ten simple rules to live by instead.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Ten rules to replace the myths"
+  },
+  {
+   "text": "Rule one. Small amounts, repeated and invested, are how most people build wealth. Rule two. Cash for emergencies, investments for the long term. Rule three. Your home is a place to live first. Rule four. Compare the full costs of renting and owning before you decide.",
+   "query": "Notebook with written rules",
+   "caption": "RULES 1 TO 4",
+   "cuts": 3
+  },
+  {
+   "text": "Rule five. Plan for Social Security to be part of your retirement, not all of it. Rule six. A big tax refund is a loan you gave for free. Rule seven. Invest on a schedule, not on a feeling.",
+   "query": "Calendar planner pen",
+   "caption": "RULES 5 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "Rule eight. Build the habit before the income. Rule nine. Pay your cards in full and check your credit every year. And rule ten. Keep it simple, keep it cheap, and keep going for a very long time.",
+   "query": "Road stretching into distance",
+   "caption": "RULES 8 TO 10",
+   "cuts": 3
+  },
+  {
+   "text": "Let's put a price on a few of these myths with simple examples. Take Kevin. He believed small amounts don't matter, so for ten years he never started investing. When he finally began at thirty five, he had to save much more each month to reach the same goal as a friend who started at twenty five with less. The myth didn't feel expensive. It cost him a decade of compounding.",
+   "query": "Man looking at old photos",
+   "caption": "KEVIN: THE LOST DECADE",
+   "cuts": 3,
+   "chapter": "How myths cost real money"
+  },
+  {
+   "text": "Then there's Priya. She thought carrying a small balance helped her credit, so she always left a few hundred dollars on her card. Over five years, she paid hundreds of dollars in interest for nothing. When she switched to paying in full, her score kept improving, and her interest dropped to zero.",
+   "query": "Woman using credit card online",
+   "caption": "PRIYA: INTEREST FOR NOTHING",
+   "cuts": 3
+  },
+  {
+   "text": "And Tom and Rachel believed renting was throwing money away. They stretched to buy a house at the top of their budget. Between taxes, insurance and a roof repair in year two, they had no cushion left, and put the repairs on credit cards. Owning wasn't the mistake. Buying with no margin was. A few years later, after building savings back up, they were glad they owned. The order mattered.",
+   "query": "Couple in front of new home",
+   "caption": "TOM AND RACHEL: NO MARGIN",
+   "cuts": 3
+  },
+  {
+   "text": "Notice the pattern. None of these people were careless. They were following advice that sounded right. That's what makes myths so expensive. The fix is simple: whenever you hear a money rule, ask for the math behind it.",
+   "query": "Magnifying glass on document",
+   "caption": "ASK FOR THE MATH",
+   "cuts": 3
+  },
+  {
+   "text": "A few questions people ask me about these myths.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Where do money myths come from? Mostly from good intentions. Parents repeat what worked for them, in a different economy. Salespeople repeat what helps them sell. And social media rewards bold, simple claims over careful ones. The best defense is checking a claim against a neutral source, like a government agency or an independent nonprofit.",
+   "query": "Grandparents with grandchildren",
+   "caption": "WHERE MYTHS COME FROM",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Is it ever smart to keep a lot of cash? Yes. Your emergency fund should be in cash. And money you'll need in the next few years, like a down payment, usually belongs somewhere stable too. The myth isn't that cash is bad. It's that cash is the best place for long term money.",
+   "query": "Savings account interest rates",
+   "caption": "WHEN CASH IS SMART",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. If renting can be fine, when does buying make sense? Generally when you plan to stay for many years, you have a solid emergency fund after the down payment, and the full monthly cost of owning fits comfortably in your budget. Many people use online rent versus buy calculators to compare the numbers for their own city.",
+   "query": "Neighborhood houses aerial",
+   "caption": "WHEN TO BUY",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Is it bad to get a tax refund at all? No. A small refund is normal, because exact withholding is hard. The issue is a very large refund every year while you carry high interest debt. That's money working for the government instead of for you.",
+   "query": "IRS tax forms desk",
+   "caption": "IS A REFUND BAD?",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. What's the single most expensive myth on this list? For most people, it's number five. Assuming Social Security will cover retirement leads to saving too little, too late. The second most expensive is probably number one, believing small amounts don't matter, because it delays the start. And in personal finance, the start is everything.",
+   "query": "Retirement planning documents",
+   "caption": "THE MOST EXPENSIVE MYTH",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought on myths. Not every piece of old advice is wrong. Spend less than you earn. Avoid debt you can't afford. Save for a rainy day. Those are old, and they're true. The skill isn't rejecting everything you were told. It's keeping the advice that survives the math, and dropping the rest.",
+   "query": "Old and new books stacked",
+   "caption": "KEEP WHAT SURVIVES THE MATH",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. The math myths: small amounts don't matter, cash is safest, your house is your best investment, renting is throwing money away, Social Security will cover you, the tax refund is free money, and you can time the market.",
+   "query": "Checklist clipboard",
+   "caption": "THE MATH MYTHS",
+   "cuts": 3,
+   "chapter": "Recap: all 20 myths"
+  },
+  {
+   "text": "The mindset myths: more income will fix it, rich people just got lucky, budgets are for broke people, talking about money is rude, you're too young or too old, frugal means cheap, and investing is gambling.",
+   "query": "Brain thinking illustration",
+   "caption": "THE MINDSET MYTHS",
+   "cuts": 3
+  },
+  {
+   "text": "And the playbook myths: carry a balance to build credit, checking your score hurts it, close old cards, all debt is bad, you need a lot to start investing, and you need an expert before you begin.",
+   "query": "Credit cards and notebook",
+   "caption": "THE PLAYBOOK MYTHS",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the full plan without the myths, from broke to your first million, it's in my playbook. The link is in the description. And if you haven't seen it yet, watch my video on why most people stay broke. It pairs perfectly with this one. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
