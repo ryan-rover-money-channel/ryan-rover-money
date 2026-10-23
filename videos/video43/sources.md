@@ -1,0 +1,7 @@
+- Consumer Financial Protection Bureau, credit card market reports (more than $100 billion in interest and about $25 billion in fees in 2022; about $14 billion in late fees)
+- Federal Reserve, G.19 Consumer Credit (average APR on accounts assessed interest above 20%)
+- Schuh, Shy and Stavins, Who Gains and Who Loses from Credit Card Payments? Federal Reserve Bank of Boston (2010)
+- Neil Stewart, The Cost of Anchoring on Credit-Card Minimum Repayments, Psychological Science (2009)
+- Credit CARD Act of 2009 (minimum payment disclosure, penalty rate rules)
+- CFPB consumer guidance on deferred interest promotions
+- Payoff and interest figures: stated illustrative math
