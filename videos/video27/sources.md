@@ -1,0 +1,9 @@
+- Whitebread and Bingham, University of Cambridge, Habit Formation and Learning in Young Children (Money Advice Service, 2013)
+- T. Rowe Price, Parents, Kids & Money Survey
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996): economic outpatient care
+- Federal Reserve, G.19 Consumer Credit (credit card rates above 20%)
+- IRS, Roth IRA eligibility (earned income) and contribution limits
+- Federal Trade Commission, Consumer Sentinel data by age
+- Morgan Housel, The Psychology of Money (2020); Dunn, Aknin and Norton, Spending Money on Others Promotes Happiness (Science, 2008)
+- Next Gen Personal Finance, state personal finance graduation requirements
+- Growth example: monthly compounding at 7% average yearly return (illustration, not a promise)
