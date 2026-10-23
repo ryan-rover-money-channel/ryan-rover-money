@@ -43,11 +43,16 @@ def hook_clip(text, sd, n, scale):
         dur = w.getnframes() / w.getframerate() + 0.25
     raw = sd / f"hook{n}_raw.mp4"
     presenter.render(wav, dur, raw, seed=1)          # medium angle: whole face fits the 9:16 crop
-    tf = sd / f"hook{n}.txt"
-    tf.write_text("\n".join(textwrap.wrap(text.upper(), 18)))
-    vf = (f"crop=ih*9/16:ih,scale=1080:1920,"
-          f"drawtext=textfile={tf}:fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:fontcolor=black:"
-          f"fontsize=74:line_spacing=14:box=1:boxcolor=0xFFD400@0.96:boxborderw=28:x=(w-text_w)/2:y=1380")
+    # one drawtext per line: a newline inside drawtext shows up as a missing-glyph box on recent ffmpeg
+    lines = textwrap.wrap(text.upper(), 18)
+    font = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+    y0 = 1380 - 45 * (len(lines) - 1)
+    draws = []
+    for k, line in enumerate(lines):
+        tf = sd / f"hook{n}_{k}.txt"; tf.write_text(line)
+        draws.append(f"drawtext=textfile={tf}:fontfile={font}:fontcolor=black:fontsize=74:box=1:"
+                     f"boxcolor=0xFFD400@0.96:boxborderw=22:x=(w-text_w)/2:y={y0 + k * 118}")
+    vf = "crop=ih*9/16:ih,scale=1080:1920," + ",".join(draws)
     out = sd / f"hook{n}.mp4"
     run("ffmpeg", "-y", "-loglevel", "error", "-i", str(raw), "-i", str(wav), "-vf", vf, "-af", "apad",
         "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "24", "-c:a", "aac", "-ar", "44100", str(out))
@@ -74,6 +79,7 @@ def main(video):
     tl = json.loads((d / "timeline.json").read_text())
     caps = [m for m in re.findall(r"(\d+)\n(\S+) --> (\S+)\n(.*?)(?:\n\n|\Z)", (d / "captions.srt").read_text(), re.S)]
     sd = d / "shorts"; sd.mkdir(exist_ok=True)
+    hk = d / "hooks"; hk.mkdir(exist_ok=True)
     scale = str(json.loads((d.parent / "script.json").read_text()).get("length_scale", "1.25"))
     groups = hooked(tl)
     if len(groups) < 5:
@@ -84,7 +90,7 @@ def main(video):
         hook = group[0].get("hook")
         hd = 0.0
         if hook:
-            hv, hd = hook_clip(hook, sd, n, scale)
+            hv, hd = hook_clip(hook, hk, n, scale)
         lines = []
         for _, s0, s1, txt in caps:
             x, y = tsec(s0), tsec(s1)
