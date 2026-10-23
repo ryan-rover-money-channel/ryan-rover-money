@@ -1,0 +1,11 @@
+- Pew Research Center, share of adults in middle-income households (61% in 1971, 51% in 2023)
+- Kelley Blue Book, average new-vehicle transaction price above $50,000 (2025); Edmunds, average new-car payment above $700
+- Federal Reserve G.19 credit card rates; Federal Reserve Bank of New York, Household Debt and Credit Report (card balances over $1 trillion)
+- The Knot, Real Weddings Study 2024 (average cost about $33,000); Francis-Tan and Mialon, Emory University (2014)
+- USDA, food loss and waste (30-40% of the US food supply)
+- DellaVigna and Malmendier, Paying Not to Go to the Gym (American Economic Review, 2006)
+- Agarwal, Mikhed and Scholnick, Federal Reserve Bank of Philadelphia, lottery prizes and neighbors' spending
+- Zonda, Cost vs. Value Report; American Gaming Association, commercial gaming revenue tracker
+- Bronnenberg et al., Do Pharmacists Buy Bayer? (QJE 2015); IRS filing season statistics; IRS Tax Withholding Estimator
+- Federal Student Aid, student loan portfolio (over $1.5 trillion); US BLS Consumer Expenditure Survey
+- Growth example: monthly compounding at 7% average yearly return (illustration, not a promise)
