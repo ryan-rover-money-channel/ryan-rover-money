@@ -1,5 +1,5 @@
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2] / "pipeline"))
-from scriptkit import ch, sc, pr, card, save
+from scriptkit import ch, sc, pr, card, save, short
 
 
 def level(n, name, sub, card_text, what, numbers, trap, move, q1, c1, q2, c2, q3, c3, q4, c4):
@@ -12,6 +12,7 @@ def level(n, name, sub, card_text, what, numbers, trap, move, q1, c1, q2, c2, q3
 
 # ---------------- Intro ----------------
 ch("Intro")
+short("There are seven money levels. Most people are stuck on level two.")
 pr("""Hi, I'm Ryan Rover. Every person watching this video is on one of seven money levels. Not because of
 how much they earn, but because of what their money is doing right now. Some people are fighting debt every
 month. Some people never have to work again. And most people are stuck somewhere in the middle without
@@ -63,6 +64,7 @@ For forty five to fifty four, about two hundred forty seven thousand.""",
 pr("""Keep those numbers in mind, because they'll help you see where you really stand. Now, level one.""")
 
 # ---------------- Levels ----------------
+short("If you pay only the minimum on your credit card, watch this.")
 level(1, "Underwater", "you owe more than you own",
       """Level one. Underwater. You owe more than you own. Your net worth is below zero. If you sold everything
 you have today, you still couldn't pay off what you owe.""",
@@ -167,6 +169,7 @@ didn't interrupt the process.""",
       "Mansion house exterior", "FEES AND BIG UPGRADES",
       "Bank vault door", "PROTECT THE MACHINE")
 
+short("One million dollars is not the finish line. Here's why.")
 level(6, "Millionaire", "a seven figure net worth",
       """Level six. Millionaire. Your net worth has passed one million dollars. It sounds like the finish line.
 For most people who get here, it isn't.""",
@@ -207,6 +210,135 @@ about. Not getting rich. Getting free.""",
       "Stock market crash newspaper", "NOT A GUARANTEE",
       "Family walking on beach", "IT'S ABOUT TIME")
 
+# ---------------- Three angles ----------------
+ch("Angle 1: The numbers behind each level")
+pr("""Now let's look at these seven levels from three different angles. First the numbers, then the
+psychology, then the playbook. Because knowing your level is one thing. Understanding why people get stuck
+there, and exactly what to do about it, is what actually moves you up.""")
+sc("""Angle one. The numbers. The biggest number on every level isn't your salary. It's the gap between what
+comes in and what goes out. Economists call it your savings rate. If you earn four thousand dollars a month
+after tax and spend three thousand six hundred, your savings rate is ten percent. If you spend three thousand
+two hundred, it's twenty percent. That one number decides how fast you climb, more than any investment you
+will ever pick.""",
+   "Calculator and pen on financial papers", "THE GAP DECIDES EVERYTHING")
+card("""Here's what the gap does over time. Two hundred dollars a month, invested for thirty years at a seven
+percent average yearly return, grows to roughly two hundred forty four thousand dollars. Double it to four
+hundred a month, and it's roughly four hundred eighty eight thousand. Same person, same market. The only
+difference is the gap.""",
+     {"type": "compare", "left": {"label": "$200 a month", "big": "~$244,000", "sub": "30 years at 7%"},
+      "right": {"label": "$400 a month", "big": "~$488,000", "sub": "30 years at 7%"},
+      "note": "Illustration, compounded monthly. Returns are not guaranteed."})
+sc("""Now look at the math of debt, because it works in exactly the same way, just backwards. A five thousand
+dollar credit card balance at twenty two percent costs about eleven hundred dollars a year in interest. That's
+eleven hundred dollars that could have been invested, and instead it went to the bank. On level one, compound
+interest is working against you every single day. The first goal is simply to switch sides.""",
+   "Credit card close up", "COMPOUNDING IN REVERSE")
+sc("""Here's another number that matters on levels two and three: months of runway. Take the money you could
+reach in a week, and divide it by what you spend in a month on essentials. Rent, food, transport, insurance,
+minimum payments. If the answer is under one, any surprise becomes debt. Between one and three, you can absorb
+most surprises. Over three to six, a job loss becomes a hard time instead of a disaster.""",
+   "Runway airport", "MONTHS OF RUNWAY")
+sc("""On levels four and five, the number that starts to matter is the one most people never calculate: what
+their money earned this year compared with what they added. In the early years, almost all of the growth is
+your own contributions. But somewhere around the middle of level five, at a seven percent illustration, a
+typical year of growth can match a year of saving. That's the crossover point, and you can see it on your own
+statements.""",
+   "Stock market chart on screen", "THE CROSSOVER POINT")
+sc("""And on levels six and seven, the number is years of freedom. Divide your investments by your yearly
+spending. Five hundred thousand dollars invested and forty thousand a year in spending is twelve and a half
+years. One million at the same spending is twenty five years, which is the old four percent rule of thumb.
+It's not a perfect measure, but it's the most honest one, because it ties your money to your actual life.""",
+   "Hourglass sand timer", "YEARS OF FREEDOM")
+sc("""Put those together and you get a simple scorecard you can fill in on one piece of paper. Your savings
+rate. Your months of runway. Your growth compared with your contributions. And your years of freedom. Those
+four numbers tell you your level more accurately than any salary or any bank balance ever could. And the good
+news is, every one of them can be improved starting this month.""",
+   "Notebook with financial notes", "YOUR 4-NUMBER SCORECARD")
+
+short("Why do people with good salaries stay broke? It's not math.")
+ch("Angle 2: The psychology of each level")
+pr("""Angle two. The psychology. Because if money were only math, everybody would be on level five. It
+isn't. Every level has its own way of thinking, and the way of thinking is usually what keeps people stuck.""")
+sc("""On level one, the feeling is shame, and shame makes people look away. They stop opening statements.
+They don't know their exact balances. And what you don't look at, you can't fix. Researchers Sendhil
+Mullainathan and Eldar Shafir wrote about this in their book Scarcity. When money is very tight, your mind
+narrows onto the urgent problem in front of you, and long term planning gets squeezed out. It's not a
+character flaw. It's what scarcity does to anyone.""",
+   "Person stressed looking at bills", "SCARCITY NARROWS YOUR MIND")
+sc("""So the fix on level one is not willpower. It's making the problem small and visible. One list. Every
+debt, every balance, every rate. People are often surprised that once the list exists, the anxiety drops,
+even before a single dollar is paid. The monster under the bed is always bigger than the monster on paper.""",
+   "Person writing list notebook", "MAKE IT VISIBLE")
+sc("""On level two, the mindset is, I deserve it. And honestly, you probably do. You work hard. But the
+problem is that every purchase gets judged on its own, and almost any single purchase looks reasonable. The
+coffee, the delivery, the upgrade. Behavioral economists call this mental accounting. We put money in
+different mental buckets, and we don't see the total. Level two people rarely have one big leak. They have
+thirty small ones.""",
+   "Coffee shop cup", "THIRTY SMALL LEAKS")
+sc("""On level three, the feeling shifts to relief, and relief brings a new risk: comfort. You've got a few
+thousand dollars, the pressure's off, and it's tempting to stop. This is the level where many people stall
+for years. Not because they can't save more, but because the urgency is gone. The trick is to replace fear
+with a goal. Not, I need money. But, I want ten thousand dollars by next summer.""",
+   "Person relaxing on couch", "RELIEF BECOMES COMFORT")
+sc("""On level four, the enemy is boredom. Investing every month in a broad fund is not exciting. Nothing
+happens most days. So people start tinkering. They check prices daily, they move money around, they chase
+whatever went up last month. Studies of investor behavior, like the long running research by the firm
+DALBAR, have repeatedly found that the average investor earns less than the funds they invest in, largely
+because of bad timing.""",
+   "Person yawning at desk", "BORING IS THE POINT")
+sc("""On level five, the mindset is comparison. Your friends upgrade their houses. Your coworker buys a new
+truck. Social media shows you people your age on beaches every weekend. And because you now have real money,
+you can afford to keep up, at least for a while. Psychologists sometimes call this the hedonic treadmill.
+Every upgrade feels great for a few months, then it becomes normal, and you need the next one.""",
+   "Treadmill gym", "THE HEDONIC TREADMILL")
+sc("""On level six, the risk is overconfidence. You did it once, so you start believing you can't lose. People
+take bigger bets, put too much money in one stock or one deal, or lend to someone with a great story. And on
+level seven, the surprising feeling is often fear. People who saved for decades find it hard to actually
+spend. Some keep working long after they need to, just because spending feels wrong.""",
+   "Chess game", "OVERCONFIDENCE AND FEAR")
+sc("""So here's the pattern. Shame, then entitlement, then comfort, boredom, comparison, overconfidence, and
+finally fear. Every level has a feeling that pulls you sideways. If you know which feeling belongs to your
+level, you can see it coming. And seeing it coming is half the battle.""",
+   "Road sign curve ahead", "SEE IT COMING")
+
+short("Do these three things this week to move up one money level.")
+ch("Angle 3: The playbook for each level")
+pr("""Angle three. The playbook. Here's exactly what I'd do this week on each level. Not someday. This week.
+Find yours and do just the steps for your level.""")
+sc("""Level one, this week. Write the list of every debt with its balance and interest rate. Cancel or pause
+any subscription you didn't use last month. Call your credit card company and ask for a lower interest rate.
+It doesn't always work, but it costs nothing to ask. And pick your target: the highest rate debt, which gets
+every extra dollar from now on.""",
+   "Phone call customer service", "LEVEL 1: THIS WEEK")
+sc("""Level two, this week. Open a separate savings account, ideally at a different bank from your checking.
+Set an automatic transfer on payday, even twenty five or fifty dollars. Then look at your last month of
+spending and circle every purchase you don't remember making. Those are your leaks. Pick three to stop.""",
+   "Online banking smartphone app", "LEVEL 2: THIS WEEK")
+sc("""Level three, this week. Write down your essential monthly costs and multiply by three. That's your next
+target. Move your cushion to a high yield savings account if it's earning almost nothing. Rates change, so
+compare a few banks, and check that the bank is FDIC insured. And give the account a name, like Freedom Fund.
+It sounds silly, but named goals are harder to raid.""",
+   "Bank building United States", "LEVEL 3: THIS WEEK")
+sc("""Level four, this week. If your employer offers a retirement plan with a match, make sure you're
+contributing at least enough to get the full match. That's part of your pay you're leaving on the table
+otherwise. Then set your investing on autopilot, and turn off daily price notifications. Check your
+investments once a month, at most.""",
+   "Office workers meeting", "LEVEL 4: THIS WEEK")
+sc("""Level five, this week. Find the expense ratio of every fund you own and add up what you pay in dollars
+per year. Then write down your three biggest fixed costs: housing, cars, insurance. Before any upgrade to one
+of them, ask a simple question. How many months of freedom does this cost me? Sometimes it's worth it. Often
+it isn't.""",
+   "Investment fund prospectus document", "LEVEL 5: THIS WEEK")
+sc("""Level six, this week. Check that no single stock, property or business is so large that losing it would
+drop you two levels. Review your insurance and your will, or start one if you don't have it. And level seven,
+this week. Write a simple spending plan for the next twelve months, including a version for a bad market
+year. Then, and this is the hard part, plan something to actually enjoy.""",
+   "Lawyer office documents", "LEVELS 6 AND 7: THIS WEEK")
+sc("""Notice something about this playbook. None of it requires a high income. None of it requires predicting
+the stock market. It's lists, automatic transfers, a few phone calls and a few rules. That's the honest truth
+about money levels. The people at the top mostly did simple things for a long time.""",
+   "Sunrise over mountains", "SIMPLE THINGS, LONG TIME")
+
 # ---------------- How long ----------------
 ch("How long each level takes")
 pr("""So how long does it actually take to climb? Let me show you the math, because it's more encouraging than you
@@ -227,6 +359,45 @@ sc("""And here's the part people forget. You don't have to climb all seven level
 level one to level three, from debt to a real cushion, is the biggest jump in peace of mind most people will ever
 feel. Start there.""",
    "Sunrise over mountains", "START WITH THE NEXT LEVEL")
+
+# ---------------- Example climbs ----------------
+ch("Three example climbs")
+pr("""Numbers are easier to feel when they belong to a person. So here are three example climbs. These are
+made up examples, not real people, but every number in them is simple math you can check.""")
+sc("""Example one. Maria is twenty six, earns forty eight thousand dollars a year, and owes nine thousand
+dollars on two credit cards. She's on level one. She writes her list, stops using the cards, and finds three
+hundred fifty dollars a month by cutting delivery food and switching her phone plan. Her minimum payments
+were about two hundred fifty dollars, so now six hundred dollars a month goes at the debt, highest rate card
+first. At around twenty two percent interest, she's debt free in about a year and a half.""",
+   "Young woman working on laptop", "EXAMPLE 1: MARIA")
+sc("""Then the magic part. The moment her last card is paid, she doesn't spend that money. She keeps the same
+payment going, but now into her own savings account. In about a year, she has a cushion of around seven
+thousand dollars, with a bit of interest on top. At twenty eight, she's on level three. Same salary. Same
+apartment. Completely different life.""",
+   "Piggy bank coins", "SAME SALARY, NEW LEVEL")
+sc("""Example two. James and Tasha are thirty five, with two kids and a combined income of ninety five thousand
+dollars. They're on level two: no debt except the mortgage and one car loan, but nothing left at the end of
+each month. When the car loan ends, they keep driving the car and redirect the four hundred fifty dollar
+payment. They also send half of every raise to savings.""",
+   "Family relaxing at home", "EXAMPLE 2: JAMES AND TASHA")
+sc("""Within two years they have a full emergency fund. Then they start investing six hundred dollars a month.
+At a seven percent illustration, that grows to roughly one hundred four thousand dollars in ten years, on top of
+their home equity. By their mid forties, they're solidly on level five. Nobody around them noticed anything,
+because they never changed the way they lived. They just stopped upgrading.""",
+   "Suburban houses street United States", "THEY STOPPED UPGRADING")
+sc("""Example three. Robert is fifty two. He has about one hundred fifty thousand dollars in a retirement
+account and a paid off house, so he's on level five, but he's worried he started too late. He's in his peak
+earning years, so he raises his contributions to fifteen hundred dollars a month for the next thirteen years.""",
+   "Older man reading financial newspaper", "EXAMPLE 3: ROBERT")
+sc("""At a seven percent illustration, his one hundred fifty thousand plus those contributions could grow to
+roughly seven hundred fifty thousand dollars by sixty five. Add Social Security, and a paid off house, and his
+level seven number, the amount he needs, is much smaller than he feared. Late isn't the same as never. It just
+means your monthly number does more of the work.""",
+   "Retired couple on porch", "LATE IS NOT NEVER")
+sc("""Look at what these three examples have in common. Nobody won the lottery. Nobody picked a magic stock.
+Each one found a gap, protected it with an automatic transfer, and refused to let lifestyle creep eat it. The
+level changed because the behavior changed, and the behavior changed because the money became visible.""",
+   "Staircase steps", "WHAT THEY HAD IN COMMON")
 
 # ---------------- Mistakes ----------------
 ch("Five mistakes that drop you a level")
@@ -261,6 +432,16 @@ sc("""Question four. What if I have a low income? Then the early levels are abou
 high interest debt, build even a small cushion, and look for ways to raise your income, like new skills or a better
 paying job. Small amounts still count, because the habit is what moves you up.""",
    "Person studying laptop at night", "LOW INCOME?")
+sc("""Question five. Should I invest or pay off debt first? It depends on the interest rate. Debt above
+roughly eight to ten percent, like most credit cards, usually comes first, because paying it off is a
+guaranteed return at that rate. Low rate debt, like some mortgages, can sit alongside investing. And in almost
+every case, grab any employer match first, because that's an instant return you won't find anywhere else.""",
+   "Calculator with financial charts", "DEBT OR INVEST FIRST?")
+sc("""Question six. How often should I check my level? Once a month is plenty for most people. Pick the same
+day, maybe the first Sunday of the month. Write down your four numbers: savings rate, months of runway, growth
+compared with contributions, and years of freedom. Checking every day makes you react to noise. Checking once
+a month shows you the trend, and the trend is what matters.""",
+   "Calendar planning", "CHECK ONCE A MONTH")
 
 # ---------------- Recap ----------------
 ch("Recap: the 7 levels")
@@ -270,6 +451,13 @@ the starter cushion. Level four, stable, with a full emergency fund and regular 
 sc("""Level five, momentum, where your money does real work. Level six, millionaire, which isn't the finish line.
 And level seven, financially independent, when your investments can pay for your life and work becomes optional.""",
    "Mountain climber reaching summit", "LEVELS 5 TO 7")
+sc("""And remember the three angles. The numbers: your savings rate, your runway, your growth and your years of
+freedom. The psychology: shame, entitlement, comfort, boredom, comparison, overconfidence and fear, one feeling
+for each level, pulling you sideways. And the playbook: a few simple moves this week, for your level only. If
+you remember nothing else from this video, remember that your level is not a verdict on you as a person. It's
+just a starting point on a map, and every level on that map has a path to the next one. Millions of people
+have walked it before you, most of them with ordinary jobs and ordinary incomes.""",
+   "Map and compass", "NUMBERS, PSYCHOLOGY, PLAYBOOK")
 
 # ---------------- Close ----------------
 ch("What to do next")

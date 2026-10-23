@@ -1,0 +1,8 @@
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth $192,700, mean $1,063,700; by age: under 35 $39,040, 35-44 $135,300, 45-54 $246,700)
+- Federal Reserve, Economic Well-Being of U.S. Households in 2025 (63% would cover a $400 expense with cash; about 1 in 5 experienced fraud or scams)
+- Bankrate, Emergency Savings Report (about 1 in 4 Americans have no emergency savings)
+- Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit (total household debt above $18 trillion)
+- Federal Reserve G.19 Consumer Credit (credit card interest rates above 20%)
+- UBS Global Wealth Report 2025 (more than 20 million millionaires in the United States)
+- William P. Bengen, Determining Withdrawal Rates Using Historical Data, Journal of Financial Planning (1994)
+- Compound growth: stated illustrative math at 7% average yearly return, compounded monthly
