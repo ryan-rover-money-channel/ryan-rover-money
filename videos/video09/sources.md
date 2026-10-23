@@ -1,0 +1,9 @@
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth under 35: $39,040)
+- Kelley Blue Book, average new-vehicle transaction prices (around $48,000-$50,000 in recent years)
+- Federal Trade Commission, Consumer Sentinel Network data 2024 (more than $12 billion reported lost to fraud)
+- Bureau of Labor Statistics, Business Employment Dynamics (establishment survival rates)
+- Barber and Odean, Trading Is Hazardous to Your Wealth, Journal of Finance (2000)
+- Richard Thaler, Mental Accounting Matters, Journal of Behavioral Decision Making (1999)
+- Vanguard research, lump-sum investing versus dollar-cost averaging
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996)
+- Compound growth: stated illustrative math at 7% average yearly return, compounded monthly; 4% rule of thumb (Bengen, 1994)
