@@ -1,0 +1,8 @@
+- Ramsey Solutions, National Study of Millionaires (79% received no inheritance; most common careers; about 8 in 10 invested in their company retirement plan; average age reaching $1M about 49)
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996); Thomas J. Stanley, Stop Acting Rich (2009): median vehicle price about $31,000
+- US Bureau of Labor Statistics, American Time Use Survey (TV is the top leisure activity, close to 3 hours a day)
+- Edmunds, average new-vehicle monthly payment (above $700)
+- Tom Corley, Rich Habits survey (small, self-reported sample)
+- Federal Trade Commission, Consumer Sentinel fraud reports (investment scams among the costliest)
+- Centers for Disease Control and Prevention, about 1 in 3 US adults don't get enough sleep
+- Growth examples: monthly compounding at 7% average yearly return (illustration, not a promise)
