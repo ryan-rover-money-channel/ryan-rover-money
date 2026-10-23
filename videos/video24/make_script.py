@@ -1,9 +1,14 @@
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2] / "pipeline"))
-from scriptkit import ch, sc, pr, card, save
+from scriptkit import ch, sc, pr, card, save, short
+
+body_hook = None  # set right before item() to start a Short at its first explained scene
 
 def item(n, title, sub, card_text, body, example, fix, q1, c1, q2, c2, q3, c3):
     ch(f"{n}. {title}")
     card(card_text, {"type": "list", "n": n, "title": title, "sub": sub}, f"{n} OF 20")
+    global body_hook
+    if body_hook:
+        short(body_hook); body_hook = None
     sc(body, q1, c1)
     sc(example, q2, c2)
     sc(fix, q3, c3)
@@ -15,6 +20,7 @@ jet, and a meeting on a yacht. But the research on real American millionaires pa
 picture. Their Tuesday looks a lot like yours. The alarm, the commute, the work, the dinner. The difference is
 in a handful of small choices along the way. Today, we're going to walk through a normal Tuesday, hour by
 hour, and find twenty of those choices.""")
+short('Most millionaires never got a single dollar of inheritance.')
 card("""Here's a fact that changes how you picture millionaires. In Ramsey Solutions' National Study of
 Millionaires, a survey of more than ten thousand American millionaires, seventy nine percent said they did
 not receive any inheritance at all.""",
@@ -101,6 +107,7 @@ account. That fund becomes the cash for your next car.""",
 "Car payment bill", "$700 A MONTH",
 "Savings account car fund", "PAY YOURSELF THE PAYMENT")
 
+short('This car payment is costing you a fortune.')
 card("""Here's that math on screen. A seven hundred dollar monthly payment, invested instead at a seven
 percent average yearly return, grows to roughly one hundred twenty one thousand dollars in ten years.""",
      {"type": "growth", "monthly": 700, "rate": 0.07, "years": 10})
@@ -237,6 +244,7 @@ toward my own goals? If not, let it go. You're running your own race.""",
 "Person walking alone confidently", "OPT OUT",
 "Running track lane", "RUN YOUR OWN RACE")
 
+body_hook = 'Why millionaires barely react when stocks drop.'
 item(12, "They think in decades", "long term thinking",
 """Four o'clock. Moment number twelve. A market headline says stocks dropped. They barely react.""",
 """Market drops are normal. Broad stock markets have fallen significantly many times in history, and have
@@ -292,6 +300,7 @@ start the conversation.""",
 "Parent and child counting coins", "TEACHING KIDS",
 "Simple home meal", "FOUR DINNERS A WEEK")
 
+body_hook = 'Americans spend about three hours a day on this.'
 item(15, "Screens off, books on", "the TV gap",
 """Seven thirty. Moment number fifteen. The TV gap.""",
 """According to the Bureau of Labor Statistics' American Time Use Survey, watching TV is the top leisure
@@ -394,6 +403,7 @@ end up as quiet millionaires. Not through one big moment. Through thousands of s
 # ---------------- Real people ----------------
 ch("Real quiet millionaires")
 pr("""Does this kind of Tuesday really make millionaires? Let me tell you about a few real people.""")
+short('A janitor quietly built an eight million dollar fortune.')
 sc("""Ronald Read worked as a gas station attendant and later as a janitor in Brattleboro, Vermont. He
 lived simply, drove an old car and was known for his modest habits. When he died in twenty fourteen, people
 discovered he had built a fortune of around eight million dollars, mostly by buying shares of well known

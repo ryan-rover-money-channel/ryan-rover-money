@@ -1,9 +1,14 @@
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2] / "pipeline"))
-from scriptkit import ch, sc, pr, card, save
+from scriptkit import ch, sc, pr, card, save, short
+
+body_hook = None  # set right before item() to start a Short at its first explained scene
 
 def item(n, title, sub, card_text, body, example, q1, c1, q2, c2):
     ch(f"{n}. {title}")
     card(card_text, {"type": "list", "n": n, "title": title, "sub": sub}, f"NEVER BUY {n}")
+    global body_hook
+    if body_hook:
+        short(body_hook); body_hook = None
     sc(body, q1, c1)
     sc(example, q2, c2)
 
@@ -13,6 +18,7 @@ pr("""Hi, I'm Ryan Rover. When people picture rich people, they picture them buy
 the watch, the car with the doors that open upward. But when researchers actually sat down with American
 millionaires and looked at their receipts, they found something strange. Most of them were quietly
 refusing to buy the very things the rest of us think we need. Today, twenty of those things.""")
+short('Most millionaires never paid more than this for a suit.')
 card("""Here's the number that started it all. In the book The Millionaire Next Door, researchers Thomas
 Stanley and William Danko surveyed American millionaires. Most of them said they had never spent more than
 three hundred ninety nine dollars on a suit.""",
@@ -45,6 +51,7 @@ ch("Angle 1: The Numbers")
 pr("""Angle one. The numbers. These are the purchases where the math alone is enough to make a millionaire
 say no.""")
 
+body_hook = "Rich people drive Toyotas, not Ferraris. Here's why."
 item(1, "Brand new cars, every few years", "the fastest way to lose money",
 """Number one. Rich people rarely buy a brand new car every few years.""",
 """A new car starts losing value the moment you drive it home. Estimates from sources like Carfax and
@@ -78,6 +85,7 @@ it by twelve. That's what your balance is costing you a year.""",
 "Credit cards on table", "20%+ INTEREST",
 "Credit card statement close up", "PAY IN FULL")
 
+body_hook = 'Lightning is more likely than this lottery win.'
 item(3, "Lottery tickets", "the tax on hope",
 """Number three. Lottery tickets.""",
 """Americans spend more than one hundred billion dollars a year on lottery tickets, according to the North
@@ -174,6 +182,7 @@ one. It's about status, comfort, belonging and fear. The next seven things on ou
 people skip because they've learned to see the psychology behind them.""",
    "Brain illustration thinking", "SPENDING IS EMOTIONAL")
 
+body_hook = 'Would you still buy it if nobody could see it?'
 item(8, "Status symbols", "buying what others will see",
 """Number eight. Status symbols.""",
 """Stanley described a type of person he called the income statement affluent. People with high incomes
@@ -383,6 +392,7 @@ upgrading. They pay their credit card in full. They cancel two subscriptions the
 delivery. It's not hard to imagine that freeing up five hundred dollars a month for a typical household.
 Not by living in misery. Just by refusing to pay for things that don't add much to their life.""",
    "Family budget planning at table", "$500 A MONTH")
+short('Skip a few things and watch this happen.')
 card("""Now invest that five hundred dollars a month at a seven percent average yearly return. After thirty
 years, that could grow to roughly six hundred ten thousand dollars. You would have put in one hundred eighty
 thousand. The rest is growth.""",

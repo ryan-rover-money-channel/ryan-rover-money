@@ -19,7 +19,8 @@
     "sub": "Bureau of Economic Analysis, recent years"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Americans save only about five cents of every dollar."
   },
   {
    "text": "That means the typical American household spends roughly ninety five cents of every dollar it takes home. With that little margin, a single job loss, illness or big repair can knock a family off balance. And because so many people live this way, it feels normal. When everybody around you is stretched, being stretched doesn't feel like a warning sign. That's exactly why these signs are so easy to miss.",
@@ -97,7 +98,8 @@
    "text": "The Federal Reserve asks Americans every year how they would pay for an unexpected four hundred dollar expense. In its report for twenty twenty four, about sixty three percent said they would cover it with cash or its equivalent. The rest would need to use a credit card they couldn't pay off right away, borrow from someone, sell something, or simply couldn't pay.",
    "query": "Car repair mechanic garage",
    "caption": "THE $400 TEST",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Could you pay a four hundred dollar bill today?"
   },
   {
    "text": "Four hundred dollars is a dentist visit, a car repair, a vet bill or a broken phone. These things are not rare. They're guaranteed to happen eventually, we just don't know when. If one of them sends you into debt, your budget has no room for normal life. And the interest on that debt makes the next surprise even harder.",
@@ -187,7 +189,8 @@
    "text": "Car prices have climbed, and to keep monthly payments manageable, lenders have stretched loans longer and longer. Edmunds has reported that a large share of new car loans now run seventy two months or more, and some run eighty four months. That's seven years of payments on something that loses value every year.",
    "query": "New cars on dealership lot",
    "caption": "72 TO 84 MONTHS",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Is your car loan longer than six years?"
   },
   {
    "text": "The longer the loan, the more interest you pay, and the more likely you'll owe more than the car is worth for years. That's called being underwater, or upside down. If you need to sell or trade the car, the negative equity can get rolled into the next loan, and the hole gets deeper.",
@@ -266,7 +269,8 @@
    "query": "Phone and notepad on table",
    "caption": "THE CHECKUP: 1 TO 3",
    "cuts": 3,
-   "chapter": "The ten minute money checkup"
+   "chapter": "The ten minute money checkup",
+   "short_hook": "Do this ten minute money checkup tonight."
   },
   {
    "text": "Fourth, divide your total housing cost by your gross monthly income. Fifth, write the number of months left on your car loan. Sixth, write whether you paid your credit cards in full last month, yes or no. And seventh, divide your retirement savings by your yearly salary. Seven numbers, ten minutes, and you'll know more about your real financial health than most people ever do.",
@@ -319,7 +323,8 @@
    "text": "This boom and bust cycle is one of the clearest signs of living paycheck to paycheck. Right after payday the account looks full, and spending feels easy. By the end of the month, you're checking your balance before buying groceries.",
    "query": "Person celebrating with money",
    "caption": "THE PAYDAY HIGH",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Rich on payday, broke a week later? Watch this."
   },
   {
    "text": "The problem isn't how much you earn. It's that your spending follows your balance instead of a plan. When money is there, it gets spent. People on very different incomes report this same feeling, which shows that it's a pattern, not a salary level.",

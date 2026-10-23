@@ -1,9 +1,14 @@
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2] / "pipeline"))
-from scriptkit import ch, sc, pr, card, save
+from scriptkit import ch, sc, pr, card, save, short
+
+body_hook = None  # set right before item() to start a Short at its first explained scene
 
 def item(n, title, sub, card_text, body, example, fix, q1, c1, q2, c2, q3, c3):
     ch(f"{n}. {title}")
     card(card_text, {"type": "list", "n": n, "title": title, "sub": sub}, f"SIGN {n}")
+    global body_hook
+    if body_hook:
+        short(body_hook); body_hook = None
     sc(body, q1, c1)
     sc(example, q2, c2)
     sc(fix, q3, c3)
@@ -14,6 +19,7 @@ pr("""Hi, I'm Ryan Rover. Here's an uncomfortable idea. A lot of people who feel
 actually much closer to trouble than they realize. They have a nice car, a decent salary, a phone that
 costs more than their first car. And underneath, there's almost nothing holding it all up. Today, twenty one
 signs you might be poorer than you think. And don't worry. Every sign comes with a fix.""")
+short('Americans save only about five cents of every dollar.')
 card("""Here's a number that surprises people. According to the Bureau of Economic Analysis, the personal
 saving rate in the United States has been running at only around four to five percent of disposable income
 in recent years.""",
@@ -61,6 +67,7 @@ again in three months. The direction of that number matters much more than where
 "Young adults with student loans", "UNDER 35: ABOUT $39,000",
 "Notebook with two columns", "CHECK IT EVERY 3 MONTHS")
 
+body_hook = 'Could you pay a four hundred dollar bill today?'
 item(2, "You couldn't cover $400 in cash", "the emergency test",
 """Sign number two. A four hundred dollar surprise would mean borrowing.""",
 """The Federal Reserve asks Americans every year how they would pay for an unexpected four hundred dollar
@@ -112,6 +119,7 @@ property tax assessment.""",
 "Beautiful house empty rooms", "HOUSE POOR",
 "Rent and bills paperwork", "ADD IT ALL UP")
 
+body_hook = 'Is your car loan longer than six years?'
 item(5, "Your car loan is six years or longer", "the stretched payment",
 """Sign number five. Your car loan stretches six years or more.""",
 """Car prices have climbed, and to keep monthly payments manageable, lenders have stretched loans longer
@@ -162,6 +170,7 @@ by one percent a year. After fifty, catch up contributions can help, so check th
 "Retirement account online", "RAISE IT 1% A YEAR")
 
 ch("The ten minute money checkup")
+short('Do this ten minute money checkup tonight.')
 sc("""Let's turn those seven numbers into a quick checkup you can do tonight. Grab your phone and a piece of
 paper. First, write your net worth, even a rough one. Second, write how much cash you could reach today
 without borrowing. Third, write what percentage of last month's take home pay you saved or invested. That's
@@ -194,6 +203,7 @@ okay comes from cash flow, not from wealth. And cash flow can disappear in a sin
 boss.""",
    "Person relaxed on couch with phone", "FEELING OKAY")
 
+body_hook = 'Rich on payday, broke a week later? Watch this.'
 item(8, "You feel rich on payday", "the payday high",
 """Sign number eight. You feel rich for a few days after payday, and broke the week before.""",
 """This boom and bust cycle is one of the clearest signs of living paycheck to paycheck. Right after payday

@@ -27,7 +27,8 @@
     "note": "Pew Research Center"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "The middle class is shrinking. Here's the proof."
   },
   {
    "text": "Pew's research shows the middle class has been shrinking for decades, while costs like housing, health care and college have climbed faster than many paychecks. That's real, and it's not your fault. But here's the hopeful part. Inside a typical middle class budget, there's often a surprising amount of money leaking into things that don't make life much better. Find those leaks, and you can create room to save, invest and breathe, even in an expensive world.",
@@ -165,7 +166,8 @@
    "text": "According to The Knot's Real Weddings Study, the average cost of a wedding in the United States was around thirty three thousand dollars in twenty twenty four. For many couples, that's more than a down payment on a starter home in many parts of the country, or a big head start on retirement.",
    "query": "Wedding reception hall decorated",
    "caption": "$33,000 AVERAGE",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "The average wedding now costs this much."
   },
   {
    "text": "Some couples pay cash, and if that's what they truly value, great. But many borrow, or drain savings they worked years to build, and start married life behind. Interestingly, a widely cited study by economists at Emory University found that higher wedding spending was not associated with longer marriages. The party is one day. The bills can last much longer.",
@@ -417,7 +419,8 @@
    "text": "Many homeowners believe a big remodel will add more value than it costs. But the annual Cost versus Value report, which compares the cost of common projects with the value they add at resale, has consistently found that most major remodels recoup less than their cost. Upscale kitchen and bathroom remodels often recover only part of what was spent.",
    "query": "Kitchen renovation construction",
    "caption": "THE REMODEL",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "That kitchen remodel probably won't pay for itself."
   },
   {
    "text": "Renovating because you love your home and want to enjoy it is a fine choice. The waste is renovating on debt and telling yourself it's an investment. And sometimes the renovation is driven by what the neighbors did, not by what you actually need.",
@@ -561,7 +564,8 @@
    "text": "Take a two hundred dollar monthly waste, like an unused gym, two forgotten streaming services and a bit of food waste. Over thirty years, that's seventy two thousand dollars spent. But invested at a seven percent average yearly return, the same two hundred dollars a month could grow to roughly two hundred forty four thousand dollars. The real cost of that waste isn't seventy two thousand. It's closer to a quarter of a million.",
    "query": "Calculator and coins growing",
    "caption": "THE INVISIBLE PRICE",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Two hundred dollars of waste really costs this much."
   },
   {
    "text": "Once you start seeing that second price tag, many purchases change. A new SUV is not just fifty thousand dollars. It's what fifty thousand dollars could have become by retirement. That doesn't mean you should never buy anything. It means you should buy things that are worth both prices.",
@@ -592,7 +596,8 @@
    "text": "The IRS has reported average federal tax refunds of around three thousand dollars in recent years. Many people love getting a big refund. But a refund means you overpaid your taxes all year, and the government kept that money without paying you any interest.",
    "query": "IRS tax form",
    "caption": "$3,000 AVERAGE REFUND",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Your big tax refund is a free loan to the government."
   },
   {
    "text": "Three thousand dollars a year is about two hundred fifty dollars a month. If that money stayed in your paycheck, it could have paid down a credit card at twenty percent, or been invested every month. Instead, it sat with the government for free.",

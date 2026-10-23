@@ -1,9 +1,14 @@
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2] / "pipeline"))
-from scriptkit import ch, sc, pr, card, save
+from scriptkit import ch, sc, pr, card, save, short
+
+body_hook = None  # set right before item() to start a Short at its first explained scene
 
 def item(n, title, sub, card_text, body, example, q1, c1, q2, c2):
     ch(f"{n}. {title}")
     card(card_text, {"type": "list", "n": n, "title": title, "sub": sub}, f"HABIT {n}")
+    global body_hook
+    if body_hook:
+        short(body_hook); body_hook = None
     sc(body, q1, c1)
     sc(example, q2, c2)
 
@@ -13,6 +18,7 @@ pr("""Hi, I'm Ryan Rover. Most people who stay broke aren't lazy, and they aren'
 obvious way. They work hard. They pay their bills. And still, every month, the money just disappears. The
 reason is usually not one big mistake. It's a handful of small habits that run quietly in the background,
 like apps draining your phone battery. Today, twenty five of them.""")
+short("More than a third of Americans can't do this.")
 card("""Here's why this matters. In the Federal Reserve's survey of household well being for twenty twenty
 four, about sixty three percent of adults said they would cover a four hundred dollar emergency expense
 using cash or its equivalent. That means more than a third would not.""",
@@ -80,6 +86,7 @@ consider moving to one that doesn't.""",
 "Bank branch exterior", "$30 FOR A $5 COFFEE",
 "Person on phone with bank", "ASK THEM TO WAIVE IT")
 
+body_hook = 'The one question that keeps people broke.'
 item(4, "Financing everything", "the monthly payment mindset",
 """Habit number four. Thinking in monthly payments.""",
 """Car dealers, phone carriers and even furniture stores love to ask one question. What monthly payment are
@@ -186,6 +193,7 @@ aren't perfectly rational with money. We use shortcuts. Those shortcuts are usef
 of them quietly keep us broke.""",
    "Brain illustration concept", "MENTAL SHORTCUTS")
 
+body_hook = 'Why your tax refund vanishes in weeks.'
 item(10, "Treating windfalls as fun money", "the bonus that vanishes",
 """Habit number ten. Treating extra money as free money.""",
 """A tax refund, a bonus, a birthday check, a side gig payment. Thaler called this mental accounting. We put
@@ -323,6 +331,7 @@ automatic transfer of even twenty five dollars every payday. Small and automatic
 "Flat tire on car", "EVERY SURPRISE BECOMES DEBT",
 "Savings account app", "START WITH $1,000")
 
+body_hook = "Stop saving what's left over. Do this instead."
 item(19, "Saving what's left over", "there is never anything left",
 """Habit number nineteen. Saving whatever is left at the end of the month.""",
 """For most people, there's nothing left at the end of the month. Spending expands to fill whatever is
@@ -404,6 +413,7 @@ month with someone you trust. Share one goal and one struggle. Saying it out lou
 # ---------------- Story ----------------
 ch("Two paychecks, two stories")
 pr("""Let me show you how these habits play out with two people earning exactly the same.""")
+short('Same paycheck. Completely different life.')
 sc("""Jordan and Taylor both earn sixty thousand dollars a year. Jordan has most of the habits on this list.
 A car payment, a credit card balance, a pile of subscriptions, takeout most nights, and no automatic
 savings. Every month, Jordan's account hits nearly zero right before payday. Jordan isn't reckless. Jordan

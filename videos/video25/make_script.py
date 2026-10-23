@@ -1,9 +1,14 @@
 import sys, pathlib; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2] / "pipeline"))
-from scriptkit import ch, sc, pr, card, save
+from scriptkit import ch, sc, pr, card, save, short
+
+body_hook = None  # set right before item() to start a Short at its first explained scene
 
 def item(n, title, sub, card_text, body, example, fix, q1, c1, q2, c2, q3, c3):
     ch(f"{n}. {title}")
     card(card_text, {"type": "list", "n": n, "title": title, "sub": sub}, f"WASTE {n}")
+    global body_hook
+    if body_hook:
+        short(body_hook); body_hook = None
     sc(body, q1, c1)
     sc(example, q2, c2)
     sc(fix, q3, c3)
@@ -15,6 +20,7 @@ kids, a mortgage. And yet, so many middle class families feel like they're runni
 than their parents did, and somehow have less breathing room. Part of that is rising costs, no doubt. But
 part of it is where the money goes. Today, twenty things the middle class wastes money on, and what to do
 with that money instead.""")
+short("The middle class is shrinking. Here's the proof.")
 card("""Here's the squeeze in one number. According to the Pew Research Center, the share of American adults
 living in middle income households fell from sixty one percent in nineteen seventy one to about fifty one
 percent in twenty twenty three.""",
@@ -98,6 +104,7 @@ you'll pay in full that month.""",
 "Interest charges on statement", "$2,200 A YEAR",
 "Paid in full stamp", "PAY IN FULL")
 
+body_hook = 'The average wedding now costs this much.'
 item(4, "The very expensive wedding", "one day, years of debt",
 """Waste number four. The very expensive wedding.""",
 """According to The Knot's Real Weddings Study, the average cost of a wedding in the United States was
@@ -239,6 +246,7 @@ dates or driving instead of flying.""",
 "Credit card at hotel desk", "STILL PAYING NEXT SUMMER",
 "Vacation savings jar", "SAVE FIRST, TRAVEL LATER")
 
+body_hook = "That kitchen remodel probably won't pay for itself."
 item(11, "Renovations that don't pay back", "the remodel trap",
 """Waste number eleven. Renovations they expect to pay for themselves.""",
 """Many homeowners believe a big remodel will add more value than it costs. But the annual Cost versus Value
@@ -329,6 +337,7 @@ sc("""Before the last six, let's talk about the most important idea in this whol
 spend has two prices. The price on the tag, and what that dollar could have become. Economists call the
 second one opportunity cost. It's invisible, which is exactly why the middle class underestimates it.""",
    "Price tag close up", "TWO PRICES")
+short('Two hundred dollars of waste really costs this much.')
 sc("""Take a two hundred dollar monthly waste, like an unused gym, two forgotten streaming services and a
 bit of food waste. Over thirty years, that's seventy two thousand dollars spent. But invested at a seven
 percent average yearly return, the same two hundred dollars a month could grow to roughly two hundred
@@ -347,6 +356,7 @@ fixing them. But that's exactly why they're so often ignored, and why fixing the
 no change to your lifestyle.""",
    "Office paperwork organized", "THE BORING LEAKS")
 
+body_hook = 'Your big tax refund is a free loan to the government.'
 item(15, "A giant tax refund", "an interest free loan to the government",
 """Waste number fifteen. A huge tax refund every year.""",
 """The IRS has reported average federal tax refunds of around three thousand dollars in recent years. Many

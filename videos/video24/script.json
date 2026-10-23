@@ -19,7 +19,8 @@
     "sub": "Ramsey Solutions, National Study of Millionaires"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Most millionaires never got a single dollar of inheritance."
   },
   {
    "text": "In that same study, the most common careers among the millionaires were things like engineer, accountant, teacher, manager and attorney. Ordinary professional jobs. Thomas Stanley found something similar decades earlier in The Millionaire Next Door. Most millionaires were self made, many owned small businesses, and many lived in normal neighborhoods. So when we look at a millionaire's Tuesday, we're mostly looking at the Tuesday of a regular person who made a lot of good small decisions, for a long time.",
@@ -150,7 +151,8 @@
     "years": 10
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "This car payment is costing you a fortune."
   },
   {
    "text": "Seven thirty. Moment number four. The commute. Many millionaires turn it into a classroom.",
@@ -425,7 +427,8 @@
    "text": "Market drops are normal. Broad stock markets have fallen significantly many times in history, and have historically recovered over long periods, though there are no guarantees and recovery can take years. Millionaires who built wealth through investing usually learned to ignore daily noise.",
    "query": "Stock market red screen",
    "caption": "STOCKS DROPPED",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Why millionaires barely react when stocks drop."
   },
   {
    "text": "Their mindset is measured in decades, not days. A bad Tuesday on the market is a footnote in a thirty year plan. Many keep investing through drops, which means they buy more shares when prices are lower. That patience is one of the biggest advantages ordinary investors have.",
@@ -527,7 +530,8 @@
    "text": "According to the Bureau of Labor Statistics' American Time Use Survey, watching TV is the top leisure activity for Americans, at close to three hours a day on average. That's around twenty hours a week. Add social media and phones, and many evenings simply disappear.",
    "query": "Family watching television",
    "caption": "3 HOURS OF TV A DAY",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Americans spend about three hours a day on this."
   },
   {
    "text": "Warren Buffett has said he spends a large part of each day reading. Bill Gates is famous for reading dozens of books a year. You don't need to match them. But swapping even thirty minutes of TV for reading or learning, five nights a week, adds up to more than one hundred twenty hours a year.",
@@ -730,7 +734,8 @@
    "text": "Ronald Read worked as a gas station attendant and later as a janitor in Brattleboro, Vermont. He lived simply, drove an old car and was known for his modest habits. When he died in twenty fourteen, people discovered he had built a fortune of around eight million dollars, mostly by buying shares of well known companies and holding them for decades. He left millions to his local hospital and library.",
    "query": "Small town Vermont main street",
    "caption": "RONALD READ",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "A janitor quietly built an eight million dollar fortune."
   },
   {
    "text": "Grace Groner was a secretary at Abbott Laboratories near Chicago. In nineteen thirty five, she bought three shares of Abbott stock for one hundred eighty dollars. She never sold. She reinvested the dividends, lived in a small one bedroom house, and bought her clothes at rummage sales. When she died in twenty ten, her stock was worth about seven million dollars, which she left to her college, Lake Forest College.",

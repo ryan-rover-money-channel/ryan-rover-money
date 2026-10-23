@@ -1,0 +1,9 @@
+- Thomas J. Stanley, Stop Acting Rich (2009): median price millionaires paid for most recent vehicle about $31,000; The Millionaire Next Door (1996)
+- Kelley Blue Book, average new-vehicle transaction price above $50,000 (2025); Edmunds, loan terms and monthly payments
+- Carfax and Edmunds, depreciation estimates
+- S&P Global Mobility, average age of US light vehicles (record above 12.5 years)
+- AAA, Your Driving Costs (more than $12,000 a year to own and operate a new vehicle)
+- Morgan Housel, The Psychology of Money (2020): the man in the car paradox
+- Gilovich, Medvec and Savitsky, The Spotlight Effect in Social Judgment (1999); Mischel, Stanford marshmallow studies, and later replication by Watts, Duncan and Quan (2018)
+- Ramit Sethi, I Will Teach You to Be Rich (conscious spending)
+- Growth example: monthly compounding at 7% average yearly return (illustration, not a promise)

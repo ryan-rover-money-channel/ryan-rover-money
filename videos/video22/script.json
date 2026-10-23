@@ -19,7 +19,8 @@
     "sub": "Federal Reserve, SHED 2024"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "More than a third of Americans can't do this."
   },
   {
    "text": "Think about that. Tens of millions of working adults, many with decent jobs, would have to borrow, sell something, or simply not pay if a four hundred dollar bill showed up tomorrow. That's not usually a salary problem. Plenty of people with good incomes are in that group. It's a habits problem, and habits can be changed.",
@@ -139,7 +140,8 @@
    "text": "Car dealers, phone carriers and even furniture stores love to ask one question. What monthly payment are you comfortable with? Once you think in payments instead of total price, almost anything feels affordable. Edmunds has reported average new car payments well above seven hundred dollars a month in recent years.",
    "query": "Car dealership showroom",
    "caption": "WHAT PAYMENT IS COMFORTABLE?",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "The one question that keeps people broke."
   },
   {
    "text": "The problem is that payments stack. A car, a phone, a couch, a laptop, a buy now pay later order. Each one feels small. Together they can eat a huge share of your income before you've bought a single grocery. Try this: add up every monthly payment you have, excluding rent or mortgage. Write the total on a sticky note and put it somewhere you'll see it.",
@@ -325,7 +327,8 @@
    "text": "A tax refund, a bonus, a birthday check, a side gig payment. Thaler called this mental accounting. We put money into different mental buckets, and money that feels unexpected goes into the fun bucket. But a dollar is a dollar, whether it came from your paycheck or a refund.",
    "query": "Envelope with cash bonus",
    "caption": "A DOLLAR IS A DOLLAR",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Why your tax refund vanishes in weeks."
   },
   {
    "text": "The IRS has reported average federal tax refunds of roughly three thousand dollars in recent years. For many households, that's the single biggest chunk of money they get all year, and it often disappears within weeks. Try this: before your next windfall arrives, decide in writing where it goes. For example, half to savings or debt, half to enjoy. Decide before you see the money.",
@@ -577,7 +580,8 @@
    "text": "For most people, there's nothing left at the end of the month. Spending expands to fill whatever is available. That's why saving last almost never works.",
    "query": "Empty wallet",
    "caption": "NOTHING LEFT",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Stop saving what's left over. Do this instead."
   },
   {
    "text": "The fix is to pay yourself first. On payday, before you spend anything, a set amount moves automatically into savings or investments. You then live on what remains. Try this: set up an automatic transfer for the day after payday. Start with five percent of your take home pay. Raise it by one percent every few months. You'll barely notice.",
@@ -739,7 +743,8 @@
    "text": "Jordan and Taylor both earn sixty thousand dollars a year. Jordan has most of the habits on this list. A car payment, a credit card balance, a pile of subscriptions, takeout most nights, and no automatic savings. Every month, Jordan's account hits nearly zero right before payday. Jordan isn't reckless. Jordan is just running on default settings.",
    "query": "Young professional tired at desk",
    "caption": "JORDAN: DEFAULT SETTINGS",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Same paycheck. Completely different life."
   },
   {
    "text": "Taylor earns the same, but set up a few systems early. Automatic transfer to savings the day after payday. Full employer match. A used car paid in cash. Credit card paid in full. Groceries planned on Sundays. Taylor still eats out and travels, just on purpose.",

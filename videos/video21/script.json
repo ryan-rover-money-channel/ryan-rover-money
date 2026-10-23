@@ -19,7 +19,8 @@
     "sub": "for a suit (The Millionaire Next Door, 1996)"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Most millionaires never paid more than this for a suit."
   },
   {
    "text": "That book came out in nineteen ninety six, so prices have changed. But the pattern hasn't. Stanley kept studying millionaires for years after, and the same picture showed up again and again. The typical American millionaire is not a movie star or a tech founder. It's a business owner, a teacher, an engineer, a manager. Someone who earned a good income and simply refused to spend it all.",
@@ -67,7 +68,8 @@
    "text": "A new car starts losing value the moment you drive it home. Estimates from sources like Carfax and Edmunds put the drop at around twenty percent in the first year, and roughly half or more after five years, depending on the model. Meanwhile, Kelley Blue Book reported that the average price paid for a new vehicle in America passed fifty thousand dollars in twenty twenty five. That's a lot of money to watch melt.",
    "query": "Used car dealership lot",
    "caption": "-20% IN YEAR ONE",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Rich people drive Toyotas, not Ferraris. Here's why."
   },
   {
    "text": "In Stop Acting Rich, Stanley found that the median price millionaires paid for their most recent car was about thirty one thousand dollars, in a survey from the late two thousands. Many bought used, and many kept their cars for years. One of the most popular brands among them was Toyota, not Ferrari. Try this: before your next car, look up the five year resale value of the model. If it loses half, you're paying for that loss every month.",
@@ -126,7 +128,8 @@
    "text": "Americans spend more than one hundred billion dollars a year on lottery tickets, according to the North American Association of State and Provincial Lotteries. The odds of winning the Powerball jackpot are about one in two hundred ninety two million. You are far more likely to be struck by lightning than to hit that jackpot.",
    "query": "Lottery tickets scratch cards",
    "caption": "1 IN 292 MILLION",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Lightning is more likely than this lottery win."
   },
   {
    "text": "On average, lotteries pay back only a portion of what players spend, which is how states raise money from them. So, on average, every ticket loses money. Rich people do take risks, but they take risks where the odds are on their side, like owning businesses and investments. Try this: if you buy tickets, add up what you spent last year. Then imagine that money in an index fund instead.",
@@ -277,7 +280,8 @@
    "text": "Stanley described a type of person he called the income statement affluent. People with high incomes who look rich, with the big house, the luxury car and the designer clothes, but who have little actual wealth. Their money goes out as fast as it comes in. He contrasted them with the balance sheet affluent, who might look ordinary but own real assets.",
    "query": "Luxury designer shopping street",
    "caption": "LOOKING RICH",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Would you still buy it if nobody could see it?"
   },
   {
    "text": "The trap is that status purchases are designed to be seen. And once you buy one, your new neighbors and coworkers have the same things, so the status fades and you need the next one. Economists call this keeping up with the Joneses. Try this: before a big purchase, ask, would I still buy this if nobody could ever see it? If the answer is no, you're paying for an audience.",
@@ -641,7 +645,8 @@
     "years": 30
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Skip a few things and watch this happen."
   },
   {
    "text": "That's the secret Stanley kept finding in his research. The millionaire next door didn't get there through one big win. They got there by quietly refusing hundreds of small and medium purchases, and putting that money to work for decades. It's not exciting. It's not glamorous. But it works for ordinary people with ordinary incomes, and that's what makes it powerful.",
