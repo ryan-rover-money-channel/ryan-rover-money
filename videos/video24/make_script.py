@@ -514,7 +514,8 @@ talk with their partner, planning tomorrow, gratitude, and sleep.""",
 # ---------------- Close ----------------
 ch("What to do next")
 pr("""Here's the thing I love about this. You don't need a lucky break, a rich family or a genius idea to
-live a millionaire's Tuesday. You just need a few good defaults, repeated for a long time. Tomorrow is a
+live a millionaire's Tuesday. You just need a few good defaults, repeated for a long time, with the patience to let them work while
+everybody else is chasing something faster. Tomorrow is a
 normal day for you, too. Pick three moments from this video and try them. If you want the
 full plan for turning ordinary days into real wealth, it's in my playbook, linked in the description. Tell me
 in the comments which moment you're starting with. I'm Ryan Rover. See you in the next one.""")
