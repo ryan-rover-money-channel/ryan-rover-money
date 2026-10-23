@@ -1,0 +1,851 @@
+{
+ "id": "video47",
+ "angle": "how banks make money: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "How Banks Really Make Money (And What They Don't Tell You)",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. You walk into a bank, or open its app, and everything is free. Free checking, a free debit card, free online transfers. And yet banks are some of the most profitable businesses in the world. So here's the question. If it's all free, where does the money come from? Today, we're going inside the business of banking, and I'll show you exactly how banks make money, including the parts they don't advertise.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Banks make money in two main ways. They earn a spread between what they pay you on deposits and what they charge on loans. And they charge fees for services, some obvious, some quiet.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "The spread",
+     "big": "Interest",
+     "sub": "loans minus deposits"
+    },
+    "right": {
+     "label": "The extras",
+     "big": "Fees",
+     "sub": "services, penalties, products"
+    },
+    "note": "The two engines of bank profit"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "None of this is secret, and banks provide real value. They keep your money safe, move it around the world in seconds, and make it possible for millions of people to buy homes and start businesses. But understanding how they profit tells you exactly where you might be overpaying, and where your money could be working much harder for you instead of for the bank.",
+   "query": "Bank building columns",
+   "caption": "REAL VALUE, REAL PROFIT",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at it from three angles. First, the numbers: the eight main ways banks earn money from customers like you. Second, the psychology: why we stay with banks that pay us little and charge us a lot. And third, the playbook: ten moves to make sure your bank works for you.",
+   "query": "Bank vault door open",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "By the end, you might want to look at your savings account rate. Many people are shocked by it. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Industry data comes from the Federal Deposit Insurance Corporation, the FDIC, which publishes reports on bank earnings and national average deposit rates. Overdraft data comes from the Consumer Financial Protection Bureau. Rules on debit card fees come from the Federal Reserve. Interest rates change often, so treat any rate as a snapshot. This is education, not financial advice.",
+   "query": "FDIC sign building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Before the numbers, a quick bit of history. Because the way banks make money today is surprisingly old.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A short history of banking"
+  },
+  {
+   "text": "Banking as we know it took shape centuries ago. In Renaissance Italy, families like the Medici of Florence built banking empires by taking deposits, lending money and moving funds between cities with letters of credit. Goldsmiths in seventeenth century London discovered something important. People left gold with them for safekeeping, and only a fraction of it was ever withdrawn at once. So they could lend out the rest.",
+   "query": "Renaissance Florence painting",
+   "caption": "THE MEDICI BANK",
+   "cuts": 3
+  },
+  {
+   "text": "That discovery is the heart of modern banking. Keep a portion of deposits available, lend or invest the rest, and earn the difference. It works beautifully, as long as everyone doesn't ask for their money back at the same time. When they do, it's called a bank run, and history is full of them.",
+   "query": "Old goldsmith workshop",
+   "caption": "LEND THE REST",
+   "cuts": 3
+  },
+  {
+   "text": "During the Great Depression, thousands of American banks failed, and many families lost their savings. In response, Congress created the Federal Deposit Insurance Corporation in nineteen thirty three. Since then, depositors at insured banks have been protected up to a limit, which today is two hundred fifty thousand dollars. The FDIC says no depositor has lost a penny of insured funds since it began.",
+   "query": "Great Depression bank run crowd",
+   "caption": "1933: THE FDIC",
+   "cuts": 3
+  },
+  {
+   "text": "Banking has changed enormously since then, with ATMs, online banking and apps. But the basic model hasn't. Take deposits, pay depositors less than you earn on loans and investments, and charge fees for services. Understanding that old model is the key to making the modern one work for you.",
+   "query": "Modern bank app phone",
+   "caption": "THE SAME OLD MODEL",
+   "cuts": 3
+  },
+  {
+   "text": "Angle one. The eight main ways banks make money. Let's follow your dollar after you deposit it.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Way number one. The spread.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "The spread",
+    "sub": "borrow low, lend high"
+   },
+   "caption": "WAY 1",
+   "cuts": 1,
+   "chapter": "1. The spread"
+  },
+  {
+   "text": "When you deposit money, the bank doesn't keep it in a vault with your name on it. It lends much of it out, as mortgages, car loans, business loans and credit cards, or invests it in things like government bonds. The bank pays you a low rate on your deposit, and earns a higher rate on the loans and investments. The difference is called the net interest margin.",
+   "query": "Bank teller counter",
+   "caption": "BORROW LOW, LEND HIGH",
+   "cuts": 3
+  },
+  {
+   "text": "According to the FDIC, the average net interest margin for American banks has been around three percent in recent years. That sounds small. But apply three percent to trillions of dollars of deposits and loans, and it becomes the largest source of profit in the banking industry.",
+   "query": "Stacks of money vault",
+   "caption": "AROUND 3%",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple way to picture it. You deposit ten thousand dollars and earn almost nothing. The bank lends that money for a car loan at eight percent. That's about eight hundred dollars a year on your money. Even after costs, losses and the interest they pay you, there's usually plenty left. That's the core of the business.",
+   "query": "Car loan contract",
+   "caption": "YOUR $10,000 AT WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Way number two. Paying depositors very little.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Paying you almost nothing",
+    "sub": "the national average rate"
+   },
+   "caption": "WAY 2",
+   "cuts": 1,
+   "chapter": "2. Paying you almost nothing"
+  },
+  {
+   "text": "The FDIC publishes a national average rate for savings accounts. In recent years, even when interest rates in the economy were relatively high, that average stayed well under one percent. At the same time, many online banks and credit unions were paying several percent on high yield savings accounts, sometimes around four percent or more at various points.",
+   "query": "Savings account app low rate",
+   "caption": "UNDER 1% VS SEVERAL %",
+   "cuts": 3
+  },
+  {
+   "text": "Why the gap? Many big banks don't need to compete hard for your deposits. They have huge customer bases, lots of branches, and customers who rarely move their money. So they can pay less. Online banks, without the cost of branches, often pay more to attract customers.",
+   "query": "Big bank branch downtown",
+   "caption": "WHY THE GAP?",
+   "cuts": 3
+  },
+  {
+   "text": "Look at what that gap means in dollars. Twenty thousand dollars in an account paying a fraction of one percent might earn under one hundred dollars in a year. The same amount at four percent would earn about eight hundred dollars. Same safety, if both are FDIC insured. Seven hundred dollars of difference, just for the choice of where your savings sit.",
+   "query": "Calculator with savings",
+   "caption": "$700 A YEAR DIFFERENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Twenty thousand dollars in savings for one year. At a typical big bank rate, a fraction of one percent. At a four percent high yield account, about eight hundred dollars.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Low rate savings",
+     "big": "<$100",
+     "sub": "a year on $20,000"
+    },
+    "right": {
+     "label": "4% high yield",
+     "big": "~$800",
+     "sub": "a year on $20,000"
+    },
+    "note": "Illustration. Rates change often."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Way number three. Lending.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Loans of every kind",
+    "sub": "mortgages, cars, cards"
+   },
+   "caption": "WAY 3",
+   "cuts": 1,
+   "chapter": "3. Loans of every kind"
+  },
+  {
+   "text": "Lending is where the spread is earned. Mortgages, home equity lines, auto loans, personal loans, business loans and credit cards. Each carries a different rate depending on the risk. A mortgage backed by a house might carry a lower rate. A credit card with nothing behind it carries a much higher one, often above twenty percent.",
+   "query": "House mortgage signing",
+   "caption": "EVERY KIND OF LOAN",
+   "cuts": 3
+  },
+  {
+   "text": "Banks also earn fees when they create loans. Origination fees, closing costs, application fees. And they can sell many mortgages to other investors, collect a fee for servicing them, and use the money to lend again. A single home loan can generate income in several different ways over its life.",
+   "query": "Loan documents stack",
+   "caption": "FEES ON TOP OF INTEREST",
+   "cuts": 3
+  },
+  {
+   "text": "For you, the key is that loan pricing depends heavily on your credit score and your shopping. Two people with similar finances can get very different rates, simply because one compared offers and the other accepted the first one. On a mortgage, even a small rate difference can add up to thousands of dollars over the years.",
+   "query": "Comparing offers on laptop",
+   "caption": "SHOP YOUR RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Way number four. Overdraft and insufficient funds fees.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Overdraft fees",
+    "sub": "billions from small mistakes"
+   },
+   "caption": "WAY 4",
+   "cuts": 1,
+   "chapter": "4. Overdraft fees"
+  },
+  {
+   "text": "An overdraft happens when you spend more than you have in your checking account, and the bank covers the difference, for a fee. For years, a typical fee was around thirty dollars or more, even if the purchase was a small coffee. The Consumer Financial Protection Bureau found that banks once collected well over ten billion dollars a year from these fees.",
+   "query": "Bank overdraft notice",
+   "caption": "A $35 COFFEE",
+   "cuts": 3
+  },
+  {
+   "text": "The good news: under pressure from regulators and competition, many banks have cut or eliminated these fees in recent years. The CFPB reported that overdraft and insufficient funds revenue fell to around six billion dollars in twenty twenty three, roughly half of what it had been before the pandemic. Still, six billion dollars is a lot of money, and it often comes from customers with the smallest balances.",
+   "query": "Chart falling bars",
+   "caption": "STILL BILLIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Overdraft protection is often presented as a service. And sometimes it is useful. But you can usually opt out of overdraft coverage for debit card purchases and ATM withdrawals, so a transaction is simply declined instead of costing you a fee. Try this: check your overdraft settings in your banking app today, and consider linking a savings account as a backup instead.",
+   "query": "Phone banking settings",
+   "caption": "CHECK YOUR SETTINGS",
+   "cuts": 3
+  },
+  {
+   "text": "According to the Consumer Financial Protection Bureau, banks collected around six billion dollars in overdraft and insufficient funds fees in twenty twenty three, down from more than twelve billion before the pandemic.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "2019",
+     "big": "$12B+",
+     "sub": "overdraft and NSF fees"
+    },
+    "right": {
+     "label": "2023",
+     "big": "~$6B",
+     "sub": "overdraft and NSF fees"
+    },
+    "note": "Source: Consumer Financial Protection Bureau"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Way number five. Monthly and service fees.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Account fees",
+    "sub": "the price of free"
+   },
+   "caption": "WAY 5",
+   "cuts": 1,
+   "chapter": "5. Account fees"
+  },
+  {
+   "text": "Free checking often comes with conditions. Keep a minimum balance, set up direct deposit, or make a number of debit purchases each month. Miss the condition, and a monthly maintenance fee appears, often somewhere around five to fifteen dollars. Twelve dollars a month is one hundred forty four dollars a year, for an account that may pay you almost nothing in interest.",
+   "query": "Bank statement monthly fee",
+   "caption": "THE PRICE OF FREE",
+   "cuts": 3
+  },
+  {
+   "text": "Then there are service fees. Wire transfers, which can cost twenty five dollars or more. Out of network ATM fees, sometimes charged twice, once by your bank and once by the ATM owner. Paper statement fees, foreign transaction fees on debit cards, and fees for cashier's checks or stop payments.",
+   "query": "ATM machine fee screen",
+   "caption": "SERVICE FEES ADD UP",
+   "cuts": 3
+  },
+  {
+   "text": "Each fee is small. But fees are almost pure profit for a bank, because the service often costs very little to provide. Try this: download your last three statements and search for the word fee. Add up everything you find. Then ask your bank to waive them, or switch to a bank that doesn't charge them.",
+   "query": "Search on bank statement",
+   "caption": "SEARCH FOR THE WORD FEE",
+   "cuts": 3
+  },
+  {
+   "text": "Way number six. Your debit card swipes.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Your debit card swipes",
+    "sub": "fees from merchants"
+   },
+   "caption": "WAY 6",
+   "cuts": 1,
+   "chapter": "6. Your debit card swipes"
+  },
+  {
+   "text": "Every time you use your debit card, the merchant pays a fee, and part of it goes to your bank. Since the Durbin amendment, part of the Dodd Frank law in twenty ten, the Federal Reserve has capped these fees for large banks at about twenty one cents plus a small percentage per transaction. Smaller banks and credit unions are exempt from the cap.",
+   "query": "Debit card terminal",
+   "caption": "A FEW CENTS PER SWIPE",
+   "cuts": 3
+  },
+  {
+   "text": "A few cents per swipe doesn't sound like much. But Americans make tens of billions of debit card payments every year. That adds up to billions of dollars in revenue. This is one reason banks encourage you to use your debit card instead of cash, and why some accounts require a certain number of card purchases to avoid fees.",
+   "query": "Crowded store checkout",
+   "caption": "BILLIONS OF SWIPES",
+   "cuts": 3
+  },
+  {
+   "text": "Should you avoid your debit card because of this? Not necessarily. The fee is paid by the merchant, not you. But it's worth knowing that for everyday purchases, a credit card paid in full each month often gives you more protection and rewards, while the debit card mainly benefits the bank. Use whichever keeps you in control of your spending.",
+   "query": "Wallet debit and credit cards",
+   "caption": "WHICH CARD TO USE",
+   "cuts": 3
+  },
+  {
+   "text": "Way number seven. Selling you more products.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Selling you more products",
+    "sub": "the cross sell"
+   },
+   "caption": "WAY 7",
+   "cuts": 1,
+   "chapter": "7. Selling you more products"
+  },
+  {
+   "text": "Once you're a customer, banks want to sell you more. A credit card, a mortgage, an investment account, insurance, a personal loan. Inside the industry, this is called cross selling, and it's a big focus, because a customer with five products is more profitable and less likely to leave than a customer with one.",
+   "query": "Bank advisor meeting",
+   "caption": "THE CROSS SELL",
+   "cuts": 3
+  },
+  {
+   "text": "Cross selling isn't bad on its own. But it can go very wrong. In twenty sixteen, regulators fined Wells Fargo after it was revealed that employees, under heavy sales pressure, had opened millions of accounts without customers' permission. The bank paid large penalties and settlements. It became one of the most famous banking scandals of the decade.",
+   "query": "Bank scandal newspaper",
+   "caption": "WHEN SALES GOALS GO WRONG",
+   "cuts": 3
+  },
+  {
+   "text": "The investment and advice side can also be expensive. Some bank investment products come with higher fees than similar low cost options elsewhere. Try this: when your bank offers a new product, ask three questions. What does it cost per year in dollars? How is the person recommending it paid? And can I get the same thing cheaper somewhere else?",
+   "query": "Investment brochure fees",
+   "caption": "ASK THREE QUESTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Way number eight. Float.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Float and timing",
+    "sub": "money in motion"
+   },
+   "caption": "WAY 8",
+   "cuts": 1,
+   "chapter": "8. Float and timing"
+  },
+  {
+   "text": "When money moves between accounts or banks, there can be a delay. Deposits sometimes take a day or two to become available, and some transfers take days. During that time, the money is sitting somewhere, and banks can benefit from holding it. This is sometimes called float.",
+   "query": "Money transfer arrows",
+   "caption": "MONEY IN MOTION",
+   "cuts": 3
+  },
+  {
+   "text": "Faster payment systems are shrinking float, which is good for customers. The Federal Reserve launched an instant payment service called FedNow in twenty twenty three, and many banks now offer real time transfers. But holds on deposits still exist, often for good reasons like fraud prevention. Knowing how long your bank holds deposits helps you avoid bounced payments.",
+   "query": "Instant payment phone",
+   "caption": "FASTER PAYMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: check your bank's funds availability policy. It's usually on their website. If your paycheck lands on Friday but isn't available until Monday, schedule your bills accordingly, or ask about early direct deposit, which some banks and credit unions offer.",
+   "query": "Paycheck direct deposit",
+   "caption": "KNOW YOUR HOLD TIMES",
+   "cuts": 3
+  },
+  {
+   "text": "So that's how your dollar earns money for the bank. The spread on loans, the low rate on deposits, the loans themselves, overdraft fees, account and service fees, debit card swipes, cross selling, and float. Most of these are reasonable. A few are expensive. And almost all of them can be reduced if you know where to look.",
+   "query": "Bank building at night",
+   "caption": "EIGHT ENGINES",
+   "cuts": 3
+  },
+  {
+   "text": "One more thing worth knowing about the spread. When interest rates in the economy rise, banks often raise the rates they charge on loans quickly, but raise the rates they pay on savings slowly. When rates fall, the reverse often happens. Savings rates drop fast, and loan rates drift down more slowly. Economists call this deposit rate stickiness. For savers, the lesson is simple. Don't wait for your bank to give you a raise. Go where the rate already is.",
+   "query": "Interest rate chart arrows",
+   "caption": "STICKY RATES",
+   "cuts": 3
+  },
+  {
+   "text": "So if the numbers are this clear, why do so many people stay with a bank that pays them so little? That's angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Six reasons we keep our money where it earns the least.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Reason number nine. Inertia.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Inertia",
+    "sub": "the bank you opened at 18"
+   },
+   "caption": "WAY 9",
+   "cuts": 1,
+   "chapter": "9. Inertia"
+  },
+  {
+   "text": "Many people still bank where their parents opened their first account, or where they signed up in college. Switching feels like a hassle. Moving direct deposits, updating automatic payments, learning a new app. Economists call the tendency to stick with the default status quo bias. Banks know that once you're in, you're unlikely to leave.",
+   "query": "Teenager opening bank account",
+   "caption": "THE FIRST BANK",
+   "cuts": 3
+  },
+  {
+   "text": "And inertia is profitable. It's why banks can pay loyal customers less than new ones. Some banks even offer better rates to new customers than to existing ones. Loyalty, in banking, is often rewarded with lower interest.",
+   "query": "Loyalty card concept",
+   "caption": "LOYALTY PAYS LESS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: you don't have to leave your bank. Keep your checking account where it is for convenience, and open a high yield savings account elsewhere for your emergency fund and savings goals. Link them. It takes about fifteen minutes and can earn you hundreds of dollars a year.",
+   "query": "Two bank accounts linked",
+   "caption": "KEEP CHECKING, MOVE SAVINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Reason number ten. Free feels good.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Free feels good",
+    "sub": "the zero price effect"
+   },
+   "caption": "WAY 10",
+   "cuts": 1,
+   "chapter": "10. Free feels good"
+  },
+  {
+   "text": "Researchers have found that people react to a price of zero very differently from any other price. Free checking, free transfers, free debit cards. It feels like a great deal. And it makes us less likely to ask what we're giving up. In banking, free often means paid for in other ways, like low deposit rates or fees when you slip.",
+   "query": "Free sign in window",
+   "caption": "THE ZERO PRICE EFFECT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: look at your bank as a total cost. Add up fees paid, then subtract interest earned. If the number is a cost to you, your free account isn't free. Compare it with what a high yield account and a no fee checking account would give you.",
+   "query": "Balance sheet simple",
+   "caption": "TOTAL COST, NOT FREE",
+   "cuts": 3
+  },
+  {
+   "text": "Free also shapes how we judge new options. A high yield account that pays four percent might ask you to open a new login, wait a day for transfers, or link accounts. Those small hassles feel bigger than the hundreds of dollars of interest you'd earn, because the hassle is immediate and the interest arrives slowly. Recognize that bias, and do the fifteen minutes of setup anyway.",
+   "query": "Laptop new account setup",
+   "caption": "SMALL HASSLE, BIG REWARD",
+   "cuts": 3
+  },
+  {
+   "text": "Reason number eleven. Big feels safe.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Trust and fear",
+    "sub": "big feels safe"
+   },
+   "caption": "WAY 11",
+   "cuts": 1,
+   "chapter": "11. Trust and fear"
+  },
+  {
+   "text": "Many people believe a big bank with a famous name is safer than a smaller or online bank. But for most savers, the key protection is FDIC insurance. Deposits at insured banks are protected up to two hundred fifty thousand dollars per depositor, per insured bank, for each account ownership category. Credit unions have similar protection through the National Credit Union Administration.",
+   "query": "FDIC insured sticker",
+   "caption": "$250,000 PROTECTION",
+   "cuts": 3
+  },
+  {
+   "text": "In March twenty twenty three, Silicon Valley Bank collapsed after customers rushed to withdraw their money, in one of the fastest bank runs in history. Many of its customers had balances far above the insured limit. The lesson for ordinary savers isn't that banks are unsafe. It's that the insurance limit matters, and that you should know which bank is actually holding your money.",
+   "query": "Bank closed sign",
+   "caption": "WHY THE LIMIT MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: confirm that any bank you use is FDIC insured, or any credit union is NCUA insured, using the official government websites. And if you ever have more than the insured limit in one place, ask about how to structure your accounts to stay protected.",
+   "query": "Government website on laptop",
+   "caption": "CONFIRM THE INSURANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Reason number twelve. Convenience.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Convenience",
+    "sub": "everything in one place"
+   },
+   "caption": "WAY 12",
+   "cuts": 1,
+   "chapter": "12. Convenience"
+  },
+  {
+   "text": "Having everything in one place feels simple. Checking, savings, credit card, mortgage, all in one app. Banks encourage this with relationship discounts and bundled benefits. Sometimes the bundle is a good deal. But often, convenience is the price you pay for not shopping around.",
+   "query": "Banking app dashboard",
+   "caption": "ALL IN ONE APP",
+   "cuts": 3
+  },
+  {
+   "text": "The best rate on a savings account is rarely at the same place as the best mortgage rate, or the best credit card for you. Splitting your banking across two or three institutions takes a little more effort, but it can mean better rates on almost everything. Modern apps make linking accounts easy.",
+   "query": "Multiple apps phone",
+   "caption": "BEST IN EACH CATEGORY",
+   "cuts": 3
+  },
+  {
+   "text": "A simple setup works for most people. One checking account for bills and spending, wherever is most convenient. One high yield savings account for the emergency fund and goals. And one investment account, at a low cost brokerage, for long term money. Three accounts, three jobs, each at the place that does that job best.",
+   "query": "Three folders organized desk",
+   "caption": "THREE ACCOUNTS, THREE JOBS",
+   "cuts": 3
+  },
+  {
+   "text": "Reason number thirteen. Complexity.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Complexity",
+    "sub": "fine print fatigue"
+   },
+   "caption": "WAY 13",
+   "cuts": 1,
+   "chapter": "13. Complexity"
+  },
+  {
+   "text": "Bank accounts come with long fee schedules, terms and conditions, and disclosures. Few people read them. That's not because people are lazy. It's because the documents are long and confusing. And when something is confusing, we stick with what we have. Complexity protects the status quo.",
+   "query": "Long fine print document",
+   "caption": "FINE PRINT FATIGUE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: you only need to find five things in any account's terms. The interest rate. The monthly fee and how to avoid it. The overdraft policy. The ATM fees. And the funds availability policy. Five numbers. Ten minutes. That's all it takes to compare almost any two accounts.",
+   "query": "Highlighter on document",
+   "caption": "FIND FIVE NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Banks are required to disclose fees and rates, and many publish simple summary sheets. Some even offer a one page fee table. Ask for it, or search the bank's site for account disclosures. Once you have it, the comparison takes minutes, and the complexity barrier disappears.",
+   "query": "One page summary document",
+   "caption": "ASK FOR THE SUMMARY",
+   "cuts": 3
+  },
+  {
+   "text": "Reason number fourteen. You never see what you didn't earn.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Not seeing the cost",
+    "sub": "the invisible opportunity"
+   },
+   "caption": "WAY 14",
+   "cuts": 1,
+   "chapter": "14. Not seeing the cost"
+  },
+  {
+   "text": "Fees show up on your statement. But the interest you could have earned somewhere else never shows up anywhere. There's no line that says you missed seven hundred dollars this year. Because the cost is invisible, it doesn't feel real. Economists call it opportunity cost, and it's one of the hardest costs for humans to notice.",
+   "query": "Empty space on statement",
+   "caption": "THE INVISIBLE COST",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: make it visible. Write down your savings balance and your current rate. Then calculate what you'd earn at a competitive high yield rate. The difference is your yearly loyalty cost. Seeing that number is often enough to make the switch.",
+   "query": "Writing numbers notebook",
+   "caption": "YOUR LOYALTY COST",
+   "cuts": 3
+  },
+  {
+   "text": "Do the same for loans. If you have a car loan or credit card at your main bank, check what other lenders would offer you today. If your credit has improved, a refinance or a balance transfer might lower your rate. Your bank won't call you to suggest it. Their best outcome is that you never ask.",
+   "query": "Refinance offer letter",
+   "caption": "CHECK YOUR LOANS TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Let's follow one paycheck through the system. Your employer sends three thousand dollars by direct deposit. Within seconds, it's in your checking account, earning little or nothing. Your bank now has three thousand more dollars of deposits it can use to fund loans and investments.",
+   "query": "Direct deposit notification",
+   "caption": "THE PAYCHECK ARRIVES",
+   "cuts": 3,
+   "chapter": "Follow one paycheck"
+  },
+  {
+   "text": "Over the next two weeks, you pay rent, buy groceries with your debit card and pay a few bills. Each debit purchase sends a few cents to the bank. If your balance dips too low on the wrong day, a fee might appear. Meanwhile, the money you haven't spent yet is helping the bank earn interest elsewhere.",
+   "query": "Grocery debit card payment",
+   "caption": "THE MONEY MOVES",
+   "cuts": 3
+  },
+  {
+   "text": "Now imagine you also carry a credit card balance at the same bank, and you have a car loan there. The bank is earning on your deposits, on your card balance at over twenty percent, on your car loan, and on your swipes. You might be one of its most profitable customers, while earning almost nothing on your own money.",
+   "query": "Bank customer profile illustration",
+   "caption": "A VERY PROFITABLE CUSTOMER",
+   "cuts": 3
+  },
+  {
+   "text": "Flip that picture. Savings in a high yield account, earning a competitive rate. Credit card paid in full every month. Car loan from the cheapest lender you could find. Debit or credit card used thoughtfully. Now the bank still makes some money from you, which is fair, but much more of the value flows back to you. That's the goal.",
+   "query": "Balanced scale coins",
+   "caption": "FLIP THE PICTURE",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're about to go check your savings rate, good. Do it. And if this video is helping, subscribe to the channel. It's free, and it helps me keep making these videos for you. Now, the playbook.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. Ten moves to make your bank work for you, not the other way around.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Move one. Move your savings to a high yield account. Keep checking wherever is convenient, but put your emergency fund and savings goals somewhere that pays a competitive rate, and make sure it's FDIC or NCUA insured. This single move often earns people hundreds of dollars a year for fifteen minutes of work.",
+   "query": "High yield savings app",
+   "caption": "MOVE 1: HIGH YIELD SAVINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Move two. Turn off overdraft coverage for debit card purchases if you don't need it, or link a savings account as a backup. Move three. Avoid monthly fees. Meet the conditions, ask for a fee waiver, or switch to a no fee account. Many online banks and credit unions charge no monthly fees at all.",
+   "query": "Settings toggles phone",
+   "caption": "MOVES 2 AND 3",
+   "cuts": 3
+  },
+  {
+   "text": "Move four. Use in network ATMs, or choose a bank that reimburses ATM fees. Move five. Set up alerts. Low balance alerts, large transaction alerts and deposit alerts. They're free, and they prevent most overdrafts and catch fraud quickly.",
+   "query": "Phone notification alert",
+   "caption": "MOVES 4 AND 5",
+   "cuts": 3
+  },
+  {
+   "text": "Move six. Shop every loan. Before a mortgage, car loan or personal loan, get quotes from at least three lenders, including a credit union. Compare the APR, not just the monthly payment. On big loans, a small rate difference can mean thousands of dollars.",
+   "query": "Credit union sign",
+   "caption": "MOVE 6: SHOP EVERY LOAN",
+   "cuts": 3
+  },
+  {
+   "text": "Move seven. Say no to products you don't understand. If the person recommending a product can't explain its costs clearly, that's your answer. Move eight. Keep your investments low cost. Compare any bank investment product with low cost index funds at a brokerage, and look at the fees in dollars.",
+   "query": "Person declining offer politely",
+   "caption": "MOVES 7 AND 8",
+   "cuts": 3
+  },
+  {
+   "text": "Move nine. Review your bank once a year. Same day every year, check your rates, fees and accounts. Ask your bank to match competitors. If they won't, move. And move ten. Use the bank's business model in your favor. Take advantage of sign up bonuses when they make sense, pay credit cards in full, and keep your money where it earns the most.",
+   "query": "Calendar yearly review",
+   "caption": "MOVES 9 AND 10",
+   "cuts": 3
+  },
+  {
+   "text": "Moving twenty thousand dollars from a low rate account to a four percent account, and adding two hundred dollars a month, for ten years. Here's roughly where it could grow.",
+   "card": {
+    "type": "growth",
+    "start": 20000,
+    "monthly": 200,
+    "rate": 0.04,
+    "years": 10
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That's an illustration, with rates that will change over time. But notice that this growth comes with no stock market risk at all, just a better rate on safe money. Banks count on most people never making this move. You can be the exception.",
+   "query": "Person smiling at phone",
+   "caption": "SAFE MONEY, BETTER RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's compare two savers. Patricia has thirty thousand dollars in savings at the big bank she's used for twenty years. The rate is a fraction of one percent. She pays a twelve dollar monthly fee on her checking because her balance sometimes dips below the minimum, and she's been charged two overdraft fees this year.",
+   "query": "Woman at big bank branch",
+   "caption": "PATRICIA: TWENTY YEARS",
+   "cuts": 3,
+   "chapter": "Two savers"
+  },
+  {
+   "text": "In a year, Patricia earns maybe one hundred dollars in interest and pays about two hundred twenty dollars in fees. Her bank relationship costs her money. She doesn't notice, because the fees are small and the missing interest is invisible.",
+   "query": "Bank statement fees highlighted",
+   "caption": "A COST SHE DOESN'T SEE",
+   "cuts": 3
+  },
+  {
+   "text": "Kevin has the same thirty thousand. His checking account is at a credit union with no monthly fee, and his savings are in an FDIC insured high yield account paying around four percent. He turned off overdraft coverage and set low balance alerts. He spent one afternoon setting it up.",
+   "query": "Man with laptop setting accounts",
+   "caption": "KEVIN: ONE AFTERNOON",
+   "cuts": 3
+  },
+  {
+   "text": "In a year, Kevin earns roughly twelve hundred dollars in interest and pays nothing in fees. The gap between Patricia and Kevin is more than thirteen hundred dollars a year, with exactly the same amount of money and exactly the same level of safety. Over ten years, that's well over thirteen thousand dollars, before counting any interest on the difference.",
+   "query": "Two paths split",
+   "caption": "$1,300 A YEAR DIFFERENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Same thirty thousand dollars. Same safety. Very different results in a single year.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Patricia",
+     "big": "-$120",
+     "sub": "interest minus fees"
+    },
+    "right": {
+     "label": "Kevin",
+     "big": "+$1,200",
+     "sub": "interest, no fees"
+    },
+    "note": "Illustration. Rates and fees vary."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "To be fair, let's talk about what banks do well, because this isn't a story about villains. Banks make it possible to get paid electronically, pay bills in seconds, and keep money safe from theft and fire. They fund mortgages that let families own homes, and loans that help businesses grow and hire. Without banks, modern economic life would barely function.",
+   "query": "Small business owner shop",
+   "caption": "WHAT BANKS DO WELL",
+   "cuts": 3,
+   "chapter": "What banks do well"
+  },
+  {
+   "text": "Banks also carry real risks and costs. Some loans aren't repaid. Fraud costs them billions. Regulation requires them to hold capital, follow strict rules and run expensive compliance programs. Branches, staff and technology all cost money. Profit is how they cover those costs and pay their shareholders.",
+   "query": "Bank security guard",
+   "caption": "REAL COSTS, REAL RISKS",
+   "cuts": 3
+  },
+  {
+   "text": "So the goal isn't to hate your bank. It's to be an informed customer. Use the services that give you real value, avoid the products and fees that don't, and make sure your own money earns a fair return. Banks respond to customers who shop around. That's how competition works.",
+   "query": "Customer shaking hands with banker",
+   "caption": "AN INFORMED CUSTOMER",
+   "cuts": 3
+  },
+  {
+   "text": "In recent years, many financial apps have appeared that look like banks, but aren't. Some are technology companies that partner with a licensed bank behind the scenes. They can offer great features, like early paydays, budgeting tools and higher savings rates. But it's important to know who actually holds your money.",
+   "query": "Fintech app on phone",
+   "caption": "APPS THAT LOOK LIKE BANKS",
+   "cuts": 3,
+   "chapter": "What about banking apps?"
+  },
+  {
+   "text": "In twenty twenty four, a company called Synapse, which connected several popular apps to partner banks, went bankrupt. Many customers of those apps found their money frozen for months, and some reported missing funds. The lesson isn't to avoid apps. It's to read the fine print. Check which bank holds your deposits, whether it's FDIC insured, and whether your balance is held in your name.",
+   "query": "Frozen account message screen",
+   "caption": "KNOW WHO HOLDS YOUR MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a short script you can use when you call your bank. It works more often than people think.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to say when you call your bank"
+  },
+  {
+   "text": "Start friendly. Hi, I've been a customer for a long time, and I'm reviewing my accounts. Then be specific. I've been charged a monthly fee and an overdraft fee this year. Could you waive them? Many banks have the power to refund fees, especially for long time customers, and they'd rather keep you happy than lose you.",
+   "query": "Person calling bank smiling",
+   "caption": "ASK FOR A WAIVER",
+   "cuts": 3
+  },
+  {
+   "text": "Then ask about rates. My savings account pays much less than insured online banks. Do you have a better savings option for me? If they offer something, compare it. If they don't, thank them and move your savings. And on loans, ask whether you qualify for a lower rate given your payment history.",
+   "query": "Notes during phone call",
+   "caption": "ASK FOR A BETTER RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Stay polite, keep it short, and don't be afraid of a no. The worst outcome is that nothing changes, and you move your money anyway. The best outcome is that a ten minute call saves you hundreds of dollars a year.",
+   "query": "Phone call ending happy",
+   "caption": "TEN MINUTES, REAL MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Before the questions, five red flags that your bank account is costing you too much. One. Your savings rate is a tiny fraction of what insured online banks are paying. Two. You've paid a monthly maintenance fee in the last three months. Three. You've paid an overdraft or insufficient funds fee this year.",
+   "query": "Red flag warning",
+   "caption": "RED FLAGS 1 TO 3",
+   "cuts": 3,
+   "chapter": "Five red flags in your bank account"
+  },
+  {
+   "text": "Four. You regularly pay out of network ATM fees. And five. You've bought an investment or insurance product from your bank without comparing it elsewhere. If you see two or more of these, block out one afternoon and run the playbook. It's one of the highest paying afternoons you'll ever spend.",
+   "query": "Afternoon desk work",
+   "caption": "RED FLAGS 4 AND 5",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions people ask me most about banks.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Are online banks safe? If they're FDIC insured, deposits are protected up to the limits, just like at a big bank. Check the FDIC's official BankFind tool. Some apps are not banks themselves but partner with banks, so make sure you understand which bank actually holds your money and whether it's insured.",
+   "query": "FDIC BankFind website",
+   "caption": "ARE ONLINE BANKS SAFE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Is a credit union better than a bank? Credit unions are member owned nonprofits, and they often offer lower fees and better loan rates, especially on auto loans. Banks may offer more branches and technology. Many people use both. A credit union for loans and checking, and an online bank for high yield savings.",
+   "query": "Credit union branch building",
+   "caption": "CREDIT UNION OR BANK?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Should I keep money in a CD? A certificate of deposit locks your money for a set time at a fixed rate. It can make sense for money you won't need until a specific date, especially if rates are expected to fall. But early withdrawals usually come with a penalty, so don't put your emergency fund in one.",
+   "query": "Certificate of deposit document",
+   "caption": "WHAT ABOUT CDs?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. How do I switch banks without chaos? Open the new account first. Move your direct deposit. Then move automatic payments one by one over a month or two. Keep the old account open, with a small balance, until you're sure everything has moved. Then close it. It's a project, not a crisis.",
+   "query": "Checklist moving accounts",
+   "caption": "HOW TO SWITCH",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Do banks really lend out my money? Yes. That's the business. Banks hold some cash and reserves, and lend or invest much of the rest. This system is why deposit insurance and regulation exist, to protect depositors if a bank fails.",
+   "query": "Bank lending illustration",
+   "caption": "DO THEY LEND MY MONEY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. Is it worth chasing bank sign up bonuses? Sometimes. Some banks pay a few hundred dollars for opening an account and setting up direct deposit. If the requirements are easy and there are no fees, it can be worth it. But read the conditions carefully, and don't open so many accounts that you lose track.",
+   "query": "Bonus offer card",
+   "caption": "SIGN UP BONUSES?",
+   "cuts": 3
+  },
+  {
+   "text": "And question six. What's the one thing I should do today? Look up the interest rate on your savings account. Then look up the rate on a few FDIC insured high yield accounts. If the difference is large, you've just found free money waiting to be collected.",
+   "query": "Person checking phone rate",
+   "caption": "THE ONE THING TODAY",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Banks make money from the spread, paying you little and lending at more, from all kinds of loans, from overdraft fees, from monthly and service fees, from debit card swipes, from selling you more products, and from float.",
+   "query": "Checklist clipboard",
+   "caption": "THE EIGHT WAYS",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "We stay because of inertia, the appeal of free, the feeling that big is safe, convenience, complexity, and the invisible cost of interest we never earned.",
+   "query": "Brain thinking illustration",
+   "caption": "WHY WE STAY",
+   "cuts": 3
+  },
+  {
+   "text": "And the playbook: high yield savings, overdraft settings, no monthly fees, in network ATMs, alerts, shop every loan, skip products you don't understand, keep investments low cost, review once a year, and use the system in your favor.",
+   "query": "Thumbs up phone bank",
+   "caption": "THE PLAYBOOK",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the full plan for making every dollar work harder, it's in my playbook. The link is in the description. And watch my video on how credit card companies make money from you. It's the other half of the banking business. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
