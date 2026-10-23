@@ -34,12 +34,18 @@ def stat(c):
 def growth(c):
     """Monthly contributions compounding monthly. Shows the math it used, so the number is checkable."""
     m, r, y = float(c["monthly"]), float(c["rate"]), int(c["years"])
-    pts, bal, put = [], 0.0, 0.0
-    for month in range(12 * y + 1):
-        if month:
-            bal = bal * (1 + r / 12) + m; put += m
-        if month % 12 == 0:
-            pts.append((bal, put))
+    start = float(c.get("start", 0))
+    if start and not m:  # one lump sum, compounded yearly (matches the "x 1.07 per year" math in narration)
+        pts = [(start * (1 + r) ** k, start) for k in range(y + 1)]
+        head, how = f"${start:,.0f} invested once, for {y} years", "compounded yearly"
+    else:
+        pts, bal, put = [], start, start
+        for month in range(12 * y + 1):
+            if month:
+                bal = bal * (1 + r / 12) + m; put += m
+            if month % 12 == 0:
+                pts.append((bal, put))
+        head, how = f"${m:,.0f} a month for {y} years", "compounded monthly"
     top = max(p[0] for p in pts) * 1.1
     x0, x1, y0, y1 = 260, 1660, 900, 260
     X = lambda k: x0 + (x1 - x0) * k / y
@@ -49,8 +55,8 @@ def growth(c):
     area = f"{x0},{y0} " + line + f" {x1},{y0}"
     end, cost = pts[-1]
     return frame(f'''
-  <text x="{x0}" y="150" font-family="{FONT}" font-weight="bold" font-size="54" fill="#FFFFFF">${m:,.0f} a month for {y} years</text>
-  <text x="{x0}" y="205" font-family="{FONT}" font-size="34" fill="#C9D4E6">assuming {r*100:.0f}% average yearly return, compounded monthly</text>
+  <text x="{x0}" y="150" font-family="{FONT}" font-weight="bold" font-size="54" fill="#FFFFFF">{head}</text>
+  <text x="{x0}" y="205" font-family="{FONT}" font-size="34" fill="#C9D4E6">assuming {r*100:.0f}% average yearly return, {how}</text>
   <polygon points="{area}" fill="{GREEN}" fill-opacity="0.25"/>
   <polyline points="{line}" fill="none" stroke="{GREEN2}" stroke-width="10" stroke-linejoin="round"/>
   <polyline points="{paid}" fill="none" stroke="#C9D4E6" stroke-width="6" stroke-dasharray="18 14"/>

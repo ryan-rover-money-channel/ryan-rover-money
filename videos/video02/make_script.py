@@ -303,6 +303,46 @@ after one hundred thousand, not less. Try this: when you hit a milestone, raise 
 instead of lowering it, even by fifty dollars.""",
    "Mountain summit hiker", "RAISE IT, DON'T STOP")
 
+# ---------------- Same money, different ages ----------------
+ch("$100,000 at 25, 40 and 55")
+pr("""Here's something most people miss. One hundred thousand dollars is not the same number at every age.
+The money is the same. What it can become is completely different. Let me show you three versions of the
+same milestone.""")
+card("""Let's keep it simple. Imagine you reach one hundred thousand dollars invested, you never add another
+dollar, and it earns a seven percent average yearly return until age sixty five. That's an illustration,
+not a promise. But look at how much the starting age matters.""",
+     {"type": "stat", "label": "$100,000 at 7% until 65", "big": "3 ages", "sub": "same money, very different futures"})
+card("""Reach it at twenty five, and you have forty years of growth ahead. At seven percent, one hundred
+thousand dollars grows to roughly one point five million dollars by sixty five, without adding a single
+dollar. That is the most powerful position on this list, and almost nobody is in it.""",
+     {"type": "growth", "start": 100000, "monthly": 0, "rate": 0.07, "years": 40})
+sc("""Reach it at forty, and you have twenty five years. The same one hundred thousand grows to roughly five
+hundred forty thousand dollars. Still a big number. Not a full retirement on its own for most people, but a
+serious foundation, especially if you keep adding to it every month.""",
+   "Middle aged man reviewing finances on laptop", "AT 40: ABOUT $540,000")
+sc("""Reach it at fifty five, and you have ten years. It grows to roughly one hundred ninety seven
+thousand dollars. That's still almost double, and it matters a lot. But at this age, the money you keep
+adding, and the years you keep working, matter more than the growth.""",
+   "Older couple planning retirement at table", "AT 55: ABOUT $197,000")
+pr("""So if you're young, the lesson is urgency. Every year you get there sooner is worth a lot. And if
+you're older, the lesson is not regret. It's focus. Let me explain what I mean.""")
+sc("""If you're in your twenties or early thirties, your biggest asset isn't your account. It's time.
+Cutting costs, raising your income, and automating your investing early all get multiplied for decades.
+A raise you invest at twenty eight is worth far more by retirement than the same raise at forty eight.""",
+   "Young professional working at desk", "YOUNG: TIME IS THE ASSET")
+sc("""If you're in your forties or fifties, your biggest levers are different. Your income is usually
+higher, so your savings rate can be much higher. In the United States, people fifty and older can also
+make extra catch up contributions to retirement accounts, so check the current limits each year. And
+lowering your fees and avoiding big mistakes protects what you've already built.""",
+   "Financial advisor meeting with client", "OLDER: SAVINGS RATE AND PROTECTION")
+sc("""And whatever your age, compare yourself to the right people. The Federal Reserve's survey found the
+median net worth for families under thirty five was about thirty nine thousand dollars, and about one
+hundred thirty five thousand for families thirty five to forty four. Hitting one hundred thousand early
+puts you well ahead. Hitting it later is still real progress.""",
+   "Federal Reserve Board Building Washington", "COMPARE TO YOUR AGE")
+pr("""The point isn't to feel good or bad about your age. It's to know which lever is strongest for you
+right now, and pull that one first.""")
+
 # ---------------- How long it takes ----------------
 ch("How long it takes to reach $100,000")
 sc("""So how long does it take to get to one hundred thousand dollars from zero? It depends on two things:
@@ -402,6 +442,32 @@ own, no, not for most people. Using the four percent rule of thumb many planners
 thousand dollars would support roughly four thousand dollars of withdrawals a year. That's a meaningful
 supplement, not a full income. Which is exactly why it's the starting line, not the finish line.""",
    "Retired couple on porch", "ENOUGH TO RETIRE?")
+sc("""Question six. What if the market crashes right after I hit one hundred thousand? It probably will drop
+at some point. Broad stock markets have fallen twenty percent or more many times in history, and they have
+always been scary while it was happening. If your money is invested, you might watch one hundred thousand
+become eighty thousand for a while. The people who did best historically were usually the ones who kept
+investing through the drop instead of selling at the bottom. Past results don't guarantee future ones, but
+panic selling locks in the loss.""",
+   "Stock market chart falling on screen", "WHAT IF IT CRASHES?")
+sc("""Question seven. Should I tell people I've reached it? Honestly, most people are better off keeping it
+quiet. Not because it's shameful, but because money changes how people treat you. Friends may start asking
+for loans, family may expect help, and scammers love people they know have savings. Celebrate it with your
+partner or someone you trust, and let your habits stay the same.""",
+   "Two friends having coffee", "KEEP IT QUIET")
+sc("""And question eight. What's the next milestone after this? For most people the next big one is two
+hundred fifty thousand dollars, and then half a million. Here's the encouraging part. At a seven percent
+return, money roughly doubles about every ten years, by the rule of seventy two. So the second one hundred
+thousand usually comes faster than the first, because your money is now doing part of the work for you.""",
+   "Mountain climber reaching summit", "THE NEXT MILESTONE")
+pr("""If you have a question I didn't answer here, leave it in the comments. I read them, and the best ones
+become future videos. And if you're still far from one hundred thousand, don't let that number scare you.
+Every person who reached it started at zero, with a first deposit that felt too small to matter. It did
+matter. It was the start of the habit, and the habit is what gets you there. So set up the transfer today, even if it's small, and let time do
+the heavy lifting for you.""")
+card("""Here's a quick reminder of how small that first step can be. Two hundred dollars a month, for
+twenty years, at a seven percent average yearly return, grows to roughly one hundred four thousand
+dollars. You'd put in forty eight thousand. Small, boring, and automatic beats big and occasional.""",
+     {"type": "growth", "monthly": 200, "rate": 0.07, "years": 20})
 
 # ---------------- Recap ----------------
 ch("Recap: all 15 changes")

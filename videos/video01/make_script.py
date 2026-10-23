@@ -369,6 +369,50 @@ up, send at least half of the raise to savings or investing, and enjoy the other
 better life, but your cushion and your future grow faster than your bills. Try this: next time you get a
 raise, set up the extra transfer before the first bigger paycheck even arrives.""", "Paycheck and calculator on desk", "HALF THE RAISE")
 
+# ---------------- Three people ----------------
+ch("Three people, one number")
+pr("""Numbers are easier to feel when there's a person behind them. So let me walk you through three
+people. They're made up, but every one of them is built from situations that happen to real people every
+single day. Watch what twenty thousand dollars does in each story.""")
+sc("""Meet Maya. She's thirty one, works in marketing, and spends about four thousand dollars a month on
+rent, food, her car and everything else. On a Tuesday morning, her company announces layoffs, and her
+whole team is cut. No warning. Two weeks of severance, and that's it.""",
+   "Office worker carrying box of belongings", "MAYA: THE LAYOFF")
+card("""Here's the difference twenty thousand dollars makes for Maya. With four thousand a month in costs,
+her savings cover about five months. That's five months to find the right job, not the first job. People
+who can wait for a better offer often come back at the same pay or higher. People who panic tend to accept
+less, and that lower salary follows them for years.""",
+     {"type": "compare", "left": {"label": "Without savings", "big": "2 weeks", "sub": "take the first offer"},
+      "right": {"label": "With $20,000", "big": "5 months", "sub": "wait for the right offer"},
+      "note": "Example: $4,000 monthly costs. Use your own numbers."})
+sc("""Maya doesn't touch a credit card. She files for unemployment benefits, cuts a few subscriptions,
+and spends her mornings applying and her afternoons learning a new skill. Eleven weeks later she accepts a
+job that pays a little more than the old one. The layoff still hurt. But it was a bad season, not a
+disaster.""",
+   "Woman working on laptop at home", "A BAD SEASON, NOT A DISASTER")
+sc("""Now meet Daniel. He's forty, a contractor, two kids. His truck's transmission fails, and the
+repair quote is three thousand eight hundred dollars. The same week, a client offers him a bigger project,
+but he has to buy materials up front, about five thousand dollars, and he gets paid in sixty days.""",
+   "Pickup truck in auto repair shop", "DANIEL: TWO BILLS, ONE WEEK")
+sc("""Without savings, Daniel has a terrible choice. He can put the repair on a card at over twenty
+percent interest and turn down the project. Or he can take a high cost loan and hope the client pays on
+time. With twenty thousand dollars, he fixes the truck, buys the materials, and takes the job. The
+project pays him far more than the repair cost. Savings didn't just protect Daniel. They let him say yes
+to an opportunity.""",
+   "Construction worker reviewing plans", "SAVINGS LET YOU SAY YES")
+sc("""And finally, meet Priya and Sam. Married, mid thirties, both working. For years, they argued about
+money every few weeks. Not about big things. About the dentist bill, the car insurance renewal, the
+friend's wedding they had to fly to. Every surprise expense turned into a fight about whose fault it was.""",
+   "Couple sitting at kitchen table with bills", "PRIYA AND SAM: THE FIGHTS")
+sc("""They didn't fix it with a budgeting app. They fixed it by building a shared cushion, slowly, over
+about two and a half years, until it reached twenty thousand dollars. The surprise bills still came. But
+now a dentist bill was just a transfer, not an argument. Sam put it simply. We still talk about money. We
+just don't fight about it anymore.""",
+   "Happy couple walking in park", "A TRANSFER, NOT AN ARGUMENT")
+pr("""Three different lives. A layoff, a broken truck, a marriage under pressure. And in every story, the
+money did the same thing. It bought time, it bought choices, and it bought peace. That's the pattern you'll
+see again and again, and it's why twenty thousand dollars matters more than it looks on paper.""")
+
 # ---------------- Verdict ----------------
 ch("The verdict")
 pr("""So, what really changes at twenty thousand dollars? Here's my honest verdict.""")
@@ -419,6 +463,29 @@ The better move is to change the destination. Once the cushion is full, redirect
 transfer into long term investing. Same habit, new job. That's how twenty thousand becomes one hundred
 thousand, and one hundred thousand becomes much more.""",
    "Finish line running race", "MISTAKE 5")
+
+# ---------------- Questions ----------------
+ch("Questions people ask")
+pr("""Before the recap, let me answer the three questions I get the most about this.""")
+sc("""Question one. Should I pay off debt first, or build the twenty thousand first? For most people the
+answer is both, in order. Build a small starter cushion, say one thousand dollars, so a surprise doesn't
+push you deeper into debt. Then attack any debt above about eight percent interest, especially credit
+cards. Once that's gone, build the full cushion. Paying off a card at twenty two percent is a guaranteed
+return no savings account can match.""",
+   "Credit cards and calculator on table", "DEBT OR SAVINGS FIRST?")
+card("""Question two. Isn't cash a bad investment because of inflation? As an investment, yes. But this
+money isn't an investment. It's insurance. In a high yield savings account paying around four percent,
+twenty thousand dollars earns roughly eight hundred dollars a year. In a regular checking account paying
+next to nothing, it earns about two dollars. Same safety, very different result.""",
+     {"type": "compare", "left": {"label": "Checking at 0.01%", "big": "$2", "sub": "per year"},
+      "right": {"label": "High yield at ~4%", "big": "$800", "sub": "per year"},
+      "note": "On $20,000. Rates change; check current rates."})
+sc("""Question three. Is twenty thousand the right number for me? Maybe not exactly. The real target is
+three to six months of your essential costs. If your costs are low, you may need less. If you're self
+employed, have kids, or work in an unstable industry, you may want more. Twenty thousand is simply the
+point where, for a typical household, the changes in this video really start to show up. Write your own number down today, then divide it by what you can save each
+month. That gives you a date, and a goal with a date is a plan, not a wish.""",
+   "Family budget planning at table", "YOUR NUMBER")
 
 # ---------------- Recap ----------------
 ch("Recap: all 15 changes")
