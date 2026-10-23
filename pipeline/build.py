@@ -40,7 +40,15 @@ def ts(t):
 
 
 def sentences(text):
-    return [x.strip() for x in re.findall(r"[^.?!]+[.?!]+|[^.?!]+$", text) if x.strip()]
+    # closing quotes/brackets stay with their sentence, so Piper never gets a lone '"' (it crashes on that)
+    out = [x.strip() for x in re.findall(r"[^.?!]+[.?!]+[\"')\]]*|[^.?!]+$", text) if x.strip()]
+    merged = []
+    for x in out:
+        if merged and not re.search(r"[A-Za-z0-9]", x):
+            merged[-1] += x
+        else:
+            merged.append(x)
+    return merged
 
 
 def chunks(text, n=7):
