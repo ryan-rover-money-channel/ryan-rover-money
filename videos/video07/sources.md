@@ -1,0 +1,7 @@
+- Federal Reserve, Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances (median net worth all families $192,700, mean $1,063,700; by age of head: under 35 $39,040; 35-44 $135,300; 45-54 $246,700; 55-64 $364,500; 65-74 $409,900; 75+ $335,600)
+- Fidelity Investments, How much do I need to save for retirement? (1x salary by 30, 3x by 40, 6x by 50, 8x by 60, 10x by 67)
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996) (expected net worth = age x pretax income / 10)
+- IRS, catch-up contributions and required minimum distributions (check current-year rules)
+- Social Security Administration, delayed retirement credits (benefits grow for each year of delay up to age 70)
+- FBI Internet Crime Complaint Center, Elder Fraud Report
+- Compound growth: stated illustrative math at 7% average yearly return, compounded monthly
