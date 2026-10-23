@@ -1,0 +1,9 @@
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996): most millionaires surveyed never spent more than $399 on a suit, $140 on shoes, $235 on a wristwatch
+- Thomas J. Stanley, Stop Acting Rich (2009): median price millionaires paid for their most recent vehicle about $31,000; income statement vs balance sheet affluent
+- Kelley Blue Book, average new-vehicle transaction price above $50,000 (2025)
+- Carfax and Edmunds, new-car depreciation estimates (around 20% in the first year)
+- Federal Reserve, G.19 Consumer Credit: interest rate on credit card accounts assessed interest (above 20%)
+- North American Association of State and Provincial Lotteries, US lottery sales over $100 billion a year; Powerball jackpot odds 1 in 292.2 million (Powerball.com)
+- Federal Trade Commission, consumer guidance on timeshares and timeshare resale scams
+- Bronnenberg, Dube, Gentzkow and Shapiro, Do Pharmacists Buy Bayer? (Quarterly Journal of Economics, 2015)
+- Growth examples: monthly compounding at 7% average yearly return (illustration, not a promise)
