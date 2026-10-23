@@ -42,5 +42,7 @@ def save(vid, title, sources, angle):
     words = sum(len(s["text"].split()) for s in S)
     mins = round(words * SCALE / 212, 1)
     print(vid, len(S), "scenes", words, "words", mins, "min")
+    if not vid.startswith("test") and sum("subscribe" in s["text"].lower() for s in S) < 2:
+        raise SystemExit(f"{vid}: every video must ask viewers to subscribe (intro and ending at least)")
     if mins < 30.5 and not vid.startswith("test"):
         raise SystemExit(f"{vid}: too short ({mins} min), every video must run over 30 minutes")

@@ -20,7 +20,8 @@ changes are obvious. A few of them are almost invisible, and the last one on thi
 can quietly undo everything if you are not careful.""",
    "United States one hundred dollar bill", "WHAT REALLY CHANGES")
 pr("""So we'll go through fifteen real changes, one by one, with the numbers behind them. Then I'll show you
-exactly where to keep that money and how people actually get there. Let's start.""")
+exactly where to keep that money and how people actually get there. And if you want to get better with
+money every week, hit subscribe and turn on the bell, so you don't miss the next one. Let's start.""")
 
 # ---------------- How we got the numbers ----------------
 ch("How we got the numbers")
@@ -370,6 +371,9 @@ better life, but your cushion and your future grow faster than your bills. Try t
 raise, set up the extra transfer before the first bigger paycheck even arrives.""", "Paycheck and calculator on desk", "HALF THE RAISE")
 
 # ---------------- Three people ----------------
+pr("""Quick pause. If these changes are already making you think about your own money, do me a favor and
+subscribe to the channel. It's free, it takes one second, and it helps me keep making these videos.""")
+
 ch("Three people, one number")
 pr("""Numbers are easier to feel when there's a person behind them. So let me walk you through three
 people. They're made up, but every one of them is built from situations that happen to real people every
@@ -503,7 +507,8 @@ are. Avoid that one, and the other fourteen keep working for you for the rest of
 ch("What to do next")
 pr("""If you want the full plan, step by step, from zero all the way to your first million, it's in my
 playbook. The link is in the description. And if this video helped, the next one is about what changes at
-one hundred thousand dollars. That's where things get really interesting. I'm Ryan Rover. See you there.""")
+one hundred thousand dollars. That's where things get really interesting. So if you haven't yet, subscribe
+right now so you don't miss it. I'm Ryan Rover. See you there.""")
 
 save("video01", "What Changes When You Have $20,000 in the Bank", [
     "Federal Reserve, Economic Well-Being of U.S. Households in 2025 (May 2026): https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-executive-summary.htm",
