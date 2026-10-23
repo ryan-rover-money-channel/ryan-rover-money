@@ -19,7 +19,8 @@
     "sub": "that keep people poor"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "This money myth is quietly costing you thousands"
   },
   {
    "text": "Here's why myths are so dangerous. A bad habit you know is bad. You can work on it. A myth feels like common sense. You don't question it, so you repeat it for years. And because money compounds, a small wrong belief held for twenty years can cost far more than one big mistake.",
@@ -312,7 +313,8 @@
    },
    "caption": "MYTH 8",
    "cuts": 1,
-   "chapter": "8. More income will fix it"
+   "chapter": "8. More income will fix it",
+   "short_hook": "Why more money won't fix your money problems"
   },
   {
    "text": "Higher income helps. But it doesn't fix habits, and history shows it. A well known study by economists looking at professional football players found that roughly one in six filed for bankruptcy within about twelve years of retiring, despite earning millions during their careers. Big income, no system.",
@@ -534,7 +536,8 @@
    },
    "caption": "MYTH 15",
    "cuts": 1,
-   "chapter": "15. Carry a balance to build credit"
+   "chapter": "15. Carry a balance to build credit",
+   "short_hook": "Carrying a credit card balance does NOT build credit"
   },
   {
    "text": "This one costs Americans a lot of money. You don't need to carry a balance and pay interest to build credit. The Consumer Financial Protection Bureau explains that paying on time and keeping your balances low compared with your limits are among the most important factors. Paying the full statement balance every month shows you can handle credit, and costs nothing in interest.",
@@ -714,7 +717,8 @@
    "text": "Rule one. Small amounts, repeated and invested, are how most people build wealth. Rule two. Cash for emergencies, investments for the long term. Rule three. Your home is a place to live first. Rule four. Compare the full costs of renting and owning before you decide.",
    "query": "Notebook with written rules",
    "caption": "RULES 1 TO 4",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "10 money rules that replace the biggest myths"
   },
   {
    "text": "Rule five. Plan for Social Security to be part of your retirement, not all of it. Rule six. A big tax refund is a loan you gave for free. Rule seven. Invest on a schedule, not on a feeling.",
@@ -800,7 +804,8 @@
    "query": "Checklist clipboard",
    "caption": "THE MATH MYTHS",
    "cuts": 3,
-   "chapter": "Recap: all 20 myths"
+   "chapter": "Recap: all 20 myths",
+   "short_hook": "20 money myths that keep you poor"
   },
   {
    "text": "The mindset myths: more income will fix it, rich people just got lucky, budgets are for broke people, talking about money is rude, you're too young or too old, frugal means cheap, and investing is gambling.",

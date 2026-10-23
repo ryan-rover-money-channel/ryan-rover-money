@@ -27,7 +27,8 @@
     "note": "The two engines of bank profit"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Your bank makes money from your savings. Here's how."
   },
   {
    "text": "None of this is secret, and banks provide real value. They keep your money safe, move it around the world in seconds, and make it possible for millions of people to buy homes and start businesses. But understanding how they profit tells you exactly where you might be overpaying, and where your money could be working much harder for you instead of for the bank.",
@@ -400,7 +401,8 @@
    },
    "caption": "WAY 9",
    "cuts": 1,
-   "chapter": "9. Inertia"
+   "chapter": "9. Inertia",
+   "short_hook": "Why you're probably still with the wrong bank"
   },
   {
    "text": "Many people still bank where their parents opened their first account, or where they signed up in college. Switching feels like a hassle. Moving direct deposits, updating automatic payments, learning a new app. Economists call the tendency to stick with the default status quo bias. Banks know that once you're in, you're unlikely to leave.",
@@ -611,7 +613,8 @@
    "text": "Move one. Move your savings to a high yield account. Keep checking wherever is convenient, but put your emergency fund and savings goals somewhere that pays a competitive rate, and make sure it's FDIC or NCUA insured. This single move often earns people hundreds of dollars a year for fifteen minutes of work.",
    "query": "High yield savings app",
    "caption": "MOVE 1: HIGH YIELD SAVINGS",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "10 moves to make your bank work for you"
   },
   {
    "text": "Move two. Turn off overdraft coverage for debit card purchases if you don't need it, or link a savings account as a backup. Move three. Avoid monthly fees. Meet the conditions, ask for a fee waiver, or switch to a no fee account. Many online banks and credit unions charge no monthly fees at all.",
@@ -666,7 +669,8 @@
    "query": "Woman at big bank branch",
    "caption": "PATRICIA: TWENTY YEARS",
    "cuts": 3,
-   "chapter": "Two savers"
+   "chapter": "Two savers",
+   "short_hook": "Same savings, one moved banks. Here's the difference."
   },
   {
    "text": "In a year, Patricia earns maybe one hundred dollars in interest and pays about two hundred twenty dollars in fees. Her bank relationship costs her money. She doesn't notice, because the fees are small and the missing interest is invisible.",
@@ -827,7 +831,8 @@
    "query": "Checklist clipboard",
    "caption": "THE EIGHT WAYS",
    "cuts": 3,
-   "chapter": "Recap"
+   "chapter": "Recap",
+   "short_hook": "How banks really make money"
   },
   {
    "text": "We stay because of inertia, the appeal of free, the feeling that big is safe, convenience, complexity, and the invisible cost of interest we never earned.",

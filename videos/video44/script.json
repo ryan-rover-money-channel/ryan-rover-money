@@ -20,7 +20,8 @@
     "sub": "Federal Reserve Bank of New York"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "The average new car payment is now around $750 a month"
   },
   {
    "text": "Cars are necessary for most Americans. You need one to get to work, take kids to school, and buy groceries. That's exactly why the car trap is so powerful. It hides inside something you genuinely need. And the gap between the car you need and the car you're sold can quietly cost you hundreds of thousands of dollars over a lifetime.",
@@ -367,7 +368,8 @@
    },
    "caption": "TRICK 9",
    "cuts": 1,
-   "chapter": "9. What payment are you looking for?"
+   "chapter": "9. What payment are you looking for?",
+   "short_hook": "The one question car dealers ask to get you to overpay"
   },
   {
    "text": "Walk into many dealerships and one of the first questions is, what monthly payment are you looking for? It sounds helpful. But once you answer, the conversation can shift from the price of the car to the size of the payment. And almost any car can fit almost any payment, if the loan is long enough.",
@@ -528,7 +530,8 @@
     "sub": "20% down, 4 years max, under 10% of income"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "The 20/4/10 rule for buying a car"
   },
   {
    "text": "Move one. Use the twenty four ten rule as a guardrail. It's not a law, and in some places it's hard to follow, especially with today's prices. But the further you are from it, the more risk you're taking. If a car only fits with zero down and seven years, that's a sign it's too expensive for your budget right now.",
@@ -692,7 +695,8 @@
    "query": "Man in new car showroom",
    "caption": "MIKE: ALWAYS A PAYMENT",
    "cuts": 3,
-   "chapter": "Two drivers, ten years"
+   "chapter": "Two drivers, ten years",
+   "short_hook": "Two drivers, ten years, a $60,000 difference"
   },
   {
    "text": "Over ten years, Mike pays about ninety thousand dollars in car payments, and at the end he owns a car worth maybe thirty thousand, with a loan balance still on it. His insurance has been higher too, because newer, more expensive cars cost more to insure.",
@@ -795,7 +799,8 @@
    "query": "Checklist clipboard",
    "caption": "THE NUMBERS",
    "cuts": 3,
-   "chapter": "Recap"
+   "chapter": "Recap",
+   "short_hook": "Why Americans are drowning in car debt"
   },
   {
    "text": "The psychology: the monthly payment question, juggling four numbers at once, finance office add ons, cars as identity, the fading new car feeling, and thinking everyone has a payment.",

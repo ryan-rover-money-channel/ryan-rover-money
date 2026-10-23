@@ -19,7 +19,8 @@
     "sub": "disguised as good decisions"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "This 'smart' money move is actually a trap"
   },
   {
    "text": "Here's why these traps are so effective. A bad decision that looks bad is easy to avoid. Your friends warn you, your gut warns you. But a bad decision that looks good gets praise. Your parents congratulate you. The salesperson calls you smart. Society rewards it. So you walk in with a smile, and only discover the cost years later, when it's hard to undo.",
@@ -288,7 +289,8 @@
    },
    "caption": "TRAP 7",
    "cuts": 1,
-   "chapter": "7. Any degree at any cost"
+   "chapter": "7. Any degree at any cost",
+   "short_hook": "Why co-signing a loan is one of the riskiest favors you can do"
   },
   {
    "text": "Education can be one of the best investments in your life. On average, people with college degrees earn more over their careers. But on average hides a lot. The cost of the school, the field of study, whether you finish, and how much you borrow all matter. According to the Federal Reserve, Americans owe more than one point six trillion dollars in student loans.",
@@ -516,7 +518,8 @@
    },
    "caption": "TRAP 13",
    "cuts": 1,
-   "chapter": "13. Loading up on your company's stock"
+   "chapter": "13. Loading up on your company's stock",
+   "short_hook": "Thousands of employees lost almost everything this way"
   },
   {
    "text": "Investing in what you know sounds smart. You work there, you believe in the company, and maybe you even get a discount on shares. But think about the risk. If the company struggles, you could lose your job and your investments at the same time. Your paycheck and your savings both depend on the same company.",
@@ -666,7 +669,8 @@
    "text": "Question one. Who benefits if I say yes? Follow the money. If a salesperson, a lender or a store benefits much more than you do, slow down. Question two. What's the total cost, not the monthly cost? Monthly prices hide the size of commitments.",
    "query": "Person thinking with notebook",
    "caption": "QUESTIONS 1 AND 2",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "7 questions that catch any money trap before it's too late"
   },
   {
    "text": "Question three. Is this a one time cost, or a new permanent one? Permanent costs deserve much more caution. Question four. What happens if things go wrong? If I lose my job, get sick or the market drops, does this decision make it worse?",
@@ -782,7 +786,8 @@
    "query": "Checklist clipboard",
    "caption": "THE MATH TRAPS",
    "cuts": 3,
-   "chapter": "Recap: all 15 traps"
+   "chapter": "Recap: all 15 traps",
+   "short_hook": "15 financial traps disguised as good decisions"
   },
   {
    "text": "The emotional traps: any degree at any cost, co signing, lending to family, the timeshare, you deserve it upgrades, and keeping up appearances.",

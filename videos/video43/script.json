@@ -27,7 +27,8 @@
     "note": "Source: Consumer Financial Protection Bureau"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Who really pays for your credit card rewards?"
   },
   {
    "text": "That's not a typo. More than one hundred billion dollars in a single year, just in interest. And that's before we count the money merchants pay every time you swipe. Credit cards are one of the most profitable products in banking. Once you understand how that profit is made, you can use cards for their benefits while paying almost nothing.",
@@ -375,7 +376,8 @@
    },
    "caption": "WAY 9",
    "cuts": 1,
-   "chapter": "9. The minimum payment anchor"
+   "chapter": "9. The minimum payment anchor",
+   "short_hook": "The minimum payment is designed to keep you in debt"
   },
   {
    "text": "Your statement shows several numbers: the full balance, and a much smaller minimum payment. Research by psychologist Neil Stewart found that showing the minimum payment can act as an anchor, a number your brain latches onto. In his experiments, people who saw a minimum payment tended to choose to repay less than people who didn't see one.",
@@ -561,7 +563,8 @@
    "text": "Rule one. Pay the full statement balance every month. This single habit removes the biggest source of card profit, interest. Most cards give you a grace period, so if you pay the full statement balance by the due date, new purchases don't get charged interest at all.",
    "query": "Paid in full stamp",
    "caption": "RULE 1: PAY IN FULL",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "10 rules so your credit card makes $0 from you"
   },
   {
    "text": "Rule two. Turn on autopay. At least the minimum, ideally the full balance. You'll never pay a late fee or trigger a penalty rate again. Rule three. Know your APR. Write it down. If you ever carry a balance, that's the number that matters, not the rewards.",
@@ -652,7 +655,8 @@
    "query": "Young man with phone and card",
    "caption": "ALEX: THE TRANSACTOR",
    "cuts": 3,
-   "chapter": "Two cardholders, same card"
+   "chapter": "Two cardholders, same card",
+   "short_hook": "Same credit card, two very different results"
   },
   {
    "text": "Over a year, Alex earns roughly four hundred eighty dollars in cash back. He pays no interest, no late fees, and no annual fee. The card company still makes money from Alex, through swipe fees paid by merchants, but Alex comes out ahead. For him, the card is a tool.",
@@ -788,7 +792,8 @@
    "query": "Checklist clipboard",
    "caption": "THE EIGHT WAYS",
    "cuts": 3,
-   "chapter": "Recap"
+   "chapter": "Recap",
+   "short_hook": "8 ways credit card companies make money from you"
   },
   {
    "text": "They keep it flowing with design: the minimum payment anchor, rewards that make you spend, deferred interest promotions, rising credit limits and painless payments. And you flip the deal with ten rules, starting with the most important one. Pay in full, every month, on autopay.",

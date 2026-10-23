@@ -19,7 +19,8 @@
     "sub": "the paycheck to paycheck loop"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Why do people with good jobs still feel broke every month?"
   },
   {
    "text": "Here's the uncomfortable truth. Staying broke is rarely about one big mistake. It's about a system. Small leaks, habits you never chose on purpose, and a few traps that are designed by very smart people to keep your money moving out of your account. Once you see that system, you can't unsee it. And that's where the escape starts.",
@@ -232,7 +233,8 @@
    },
    "caption": "REASON 1",
    "cuts": 1,
-   "chapter": "1. Scarcity tunnels your vision"
+   "chapter": "1. Scarcity tunnels your vision",
+   "short_hook": "The mental trap that keeps smart people broke"
   },
   {
    "text": "Researchers Sendhil Mullainathan and Eldar Shafir wrote a book called Scarcity. Their core idea is simple. When you're short on money, your mind focuses hard on the urgent problem in front of you, like this week's rent. That focus helps in the moment, but it pushes everything else out. Long term planning, saving, comparing prices. They called it tunneling.",
@@ -507,7 +509,8 @@
    "text": "Step one. Find your real number. Look at the last three months of bank and card statements and add up everything that went out. Not what you think you spend. What you actually spent. Divide by three. That's your real monthly cost of living. Most people are surprised, and that surprise is useful.",
    "query": "Bank statements highlighter",
    "caption": "STEP 1: YOUR REAL NUMBER",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "10 steps to escape the paycheck to paycheck loop"
   },
   {
    "text": "Step two. Build a starter cushion. Before anything fancy, get one thousand dollars, or one month of essential expenses, into a separate savings account. This is the wall between you and the next credit card emergency. It won't solve everything, but it breaks the cycle where every surprise becomes debt.",
@@ -633,7 +636,8 @@
    "text": "Jasmine, twenty nine, earns a decent salary in a big city. She's never missed rent, but she's never had more than a few hundred dollars saved either. Her problem is lifestyle creep and comparison. When she tracked three months of spending, she found about six hundred dollars a month in takeout, rideshares and subscriptions she barely noticed.",
    "query": "Young woman in city apartment",
    "caption": "JASMINE: THE LEAKS",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "Three people, three ways out of being broke"
   },
   {
    "text": "She didn't cut everything. She cut half. Three hundred dollars a month moved automatically into savings on payday. In a little over three months she had her starter cushion. A year later, she had a real emergency fund. Same job, same city. The difference was the order. Save first, then spend.",
@@ -780,7 +784,8 @@
    "query": "Checklist clipboard",
    "caption": "THE NUMBERS",
    "cuts": 3,
-   "chapter": "Recap"
+   "chapter": "Recap",
+   "short_hook": "Why most people stay broke, in 30 seconds"
   },
   {
    "text": "The psychology: scarcity tunnels your vision, today beats tomorrow, comparison spending, lifestyle creep, mental accounting, the ostrich effect, painless credit, optimism bias, identity, and waiting for more income. Ten traps, all human, all fixable.",

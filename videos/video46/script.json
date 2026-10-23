@@ -19,7 +19,8 @@
     "sub": "often every two weeks, often no interest"
    },
    "caption": "",
-   "cuts": 1
+   "cuts": 1,
+   "short_hook": "Buy now, pay later is the quietest debt trap of this decade"
   },
   {
    "text": "Here's the thing. On paper, a zero interest loan paid on time is a pretty good deal. It costs nothing extra. So why are regulators, economists and consumer groups paying such close attention? Because the product is designed to make spending feel smaller than it is, to be used again and again, and to be easy to stack. And debt that feels small is the easiest kind to accumulate.",
@@ -320,7 +321,8 @@
    },
    "caption": "TRAP 7",
    "cuts": 1,
-   "chapter": "7. The smaller number"
+   "chapter": "7. The smaller number",
+   "short_hook": "Why 4 payments of $50 feels cheaper than $200"
   },
   {
    "text": "When a two hundred dollar jacket is shown as four payments of fifty dollars, your brain anchors on fifty. Fifty feels affordable. Two hundred might make you pause. It's the same jacket and the same total, but the number you see first changes the decision. Marketers have known this for a long time. It's the same reason gym memberships are priced per day and cars are priced per month.",
@@ -549,7 +551,8 @@
    "text": "Rule one, the golden rule. Only use buy now, pay later for something you could pay for in full today, with money you already have. If you can afford it now, splitting it is just a timing choice. If you can't, the plan is a loan you may not be able to repay. This one rule eliminates most of the risk.",
    "query": "Gold star rule",
    "caption": "RULE 1: COULD I PAY TODAY?",
-   "cuts": 3
+   "cuts": 3,
+   "short_hook": "The one rule for using buy now, pay later safely"
   },
   {
    "text": "Rule two. One plan at a time. Never stack. If you have a plan running, finish it before starting another. This keeps the total visible and the schedule simple. Rule three. Never for consumables. Food, takeout, groceries, and everyday items are gone long before the payments end. Paying later for a meal you ate weeks ago is a sign the budget needs attention, not a payment plan.",
@@ -671,7 +674,8 @@
    "query": "Young woman stressed looking at phone",
    "caption": "EMMA: THE STACK",
    "cuts": 3,
-   "chapter": "Two shoppers"
+   "chapter": "Two shoppers",
+   "short_hook": "Same shopping habits, very different endings"
   },
   {
    "text": "One payment bounced, leading to a late fee from the lender and an overdraft fee from her bank. She started using her credit card to cover the next installments, which added interest. It took her about five months, a second job on weekends, and a lot of stress to get out. Looking back, no single purchase was the problem. The stack was.",
@@ -756,7 +760,8 @@
    "query": "Checklist clipboard",
    "caption": "THE NUMBERS",
    "cuts": 3,
-   "chapter": "Recap"
+   "chapter": "Recap",
+   "short_hook": "Buy now, pay later: what nobody tells you"
   },
   {
    "text": "The psychology: the smaller number wins, it doesn't feel like debt, less pain of paying, bigger carts, instant approval, social normalization and losing track across apps.",
