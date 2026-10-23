@@ -1,0 +1,934 @@
+{
+ "id": "video49",
+ "angle": "get rich quick schemes: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "15 Get Rich Quick Schemes and Why They Fail",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Everyone wants to get rich faster. That's human. And there's an entire industry built on that wish. Courses, apps, coins, trading bots, secret systems and opportunities that are only open for a few more hours. Today, fifteen get rich quick schemes, how each one actually works, and why almost all of them fail the people who join.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "According to the Federal Trade Commission, Americans reported losing more than twelve billion dollars to fraud in twenty twenty four, and investment scams were the single biggest category of losses.",
+   "card": {
+    "type": "stat",
+    "label": "reported fraud losses, 2024",
+    "big": "$12.5 BILLION",
+    "size": 150,
+    "sub": "Federal Trade Commission"
+   },
+   "caption": "",
+   "cuts": 1,
+   "short_hook": "Get rich quick schemes all share this one secret"
+  },
+  {
+   "text": "Here's the key idea of this whole video. Most get rich quick schemes have the same secret. The person getting rich is the one selling the scheme, not the one buying it. The course seller gets rich from courses. The promoter gets rich from the coin. The person at the top of the pyramid gets rich from the people below. Once you see that, you see it everywhere.",
+   "query": "Pyramid structure illustration",
+   "caption": "WHO REALLY GETS RICH",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at fifteen schemes from three angles. Angle one, the numbers: the classic schemes, and the math that dooms most participants. Angle two, the psychology: the modern schemes that use hype, gurus and the fear of missing out. And angle three, the playbook: the newest scams of the internet age, and a checklist that protects you from all of them.",
+   "query": "Magnifying glass investigation",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Number eleven is costing Americans billions every year, and most victims never saw it coming. Let's start with the classics.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Fraud losses come from the Federal Trade Commission's Consumer Sentinel data and the FBI's Internet Crime Complaint Center. Research on day trading and multi level marketing comes from published academic and nonprofit studies. Lottery odds come from the official game rules. This video is education, not financial or legal advice. If you think you've been scammed, report it to the FTC and the FBI.",
+   "query": "FBI building Washington",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "If you think only gullible people fall for get rich quick schemes, consider Isaac Newton. One of the greatest scientists in history. In seventeen twenty, he invested in the South Sea Company, a British trading company whose stock was soaring on hype. He reportedly sold early for a profit, then watched the price keep climbing, and bought back in near the top.",
+   "query": "Isaac Newton portrait",
+   "caption": "ISAAC NEWTON, 1720",
+   "cuts": 3,
+   "chapter": "Even Isaac Newton fell for it"
+  },
+  {
+   "text": "The bubble burst. The stock collapsed, and Newton reportedly lost a large sum. A famous line is often attributed to him: that he could calculate the motions of the heavenly bodies, but not the madness of people. Whether he said it exactly that way or not, the lesson stuck. Intelligence doesn't protect you from crowd psychology.",
+   "query": "Old London stock exchange painting",
+   "caption": "THE MADNESS OF PEOPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Every generation has its own version. Railway mania in the eighteen forties. Florida land in the nineteen twenties. Dot com stocks around two thousand. Meme coins today. The technology changes. The human emotions, greed, envy and the fear of missing out, stay exactly the same.",
+   "query": "Old railway steam train",
+   "caption": "EVERY GENERATION HAS ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Angle one. The classic schemes, and the math that dooms most people who join.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Scheme number one. The Ponzi scheme.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "The Ponzi scheme",
+    "sub": "old money pays new promises"
+   },
+   "caption": "SCHEME 1",
+   "cuts": 1,
+   "chapter": "1. The Ponzi scheme"
+  },
+  {
+   "text": "A Ponzi scheme promises steady, high returns, but there's no real investment behind them. Early investors are paid with money from newer investors. It's named after Charles Ponzi, who ran one in Boston in nineteen twenty, promising fifty percent returns in forty five days. The returns looked real, because early investors really were paid, with other people's money.",
+   "query": "Vintage 1920 Boston street",
+   "caption": "CHARLES PONZI, 1920",
+   "cuts": 3
+  },
+  {
+   "text": "The biggest Ponzi scheme in history was run by Bernie Madoff, a respected Wall Street figure. For decades, he reported smooth, reliable gains to his clients. When it collapsed in two thousand eight, the reported account balances were around sixty five billion dollars, much of it fictional. Charities, retirees and families lost life savings.",
+   "query": "Wall Street sign",
+   "caption": "MADOFF: $65 BILLION ON PAPER",
+   "cuts": 3
+  },
+  {
+   "text": "The math is simple and brutal. A Ponzi scheme needs ever more new money to pay old investors. Eventually, new money slows down, withdrawals speed up, and it collapses. The people who join late, which is most people, lose. Real investments go up and down. Suspiciously smooth returns that never have a bad year are a warning sign, not a feature.",
+   "query": "Line chart perfectly smooth",
+   "caption": "TOO SMOOTH IS A WARNING",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number two. Pyramid schemes and the problem with many multi level marketing companies.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "The pyramid and the MLM",
+    "sub": "recruit to earn"
+   },
+   "caption": "SCHEME 2",
+   "cuts": 1,
+   "chapter": "2. The pyramid and the MLM"
+  },
+  {
+   "text": "A pyramid scheme pays people mainly for recruiting others, not for selling real products to real customers. It's illegal. Multi level marketing, or MLM, is legal when it's built around genuine product sales. But many MLMs reward recruiting heavily, and the structure means most participants are at the bottom.",
+   "query": "Pyramid chart drawing",
+   "caption": "RECRUIT TO EARN",
+   "cuts": 3
+  },
+  {
+   "text": "A survey by the AARP Foundation in twenty eighteen found that nearly half of MLM participants said they lost money, and about another quarter said they broke even. The Federal Trade Commission has warned that in many MLMs, the vast majority of participants make little or no money, after counting what they spend on inventory, fees and events.",
+   "query": "Boxes of unsold inventory",
+   "caption": "MOST LOSE OR BREAK EVEN",
+   "cuts": 3
+  },
+  {
+   "text": "The math is the problem. If each person needs to recruit five people, who each recruit five more, you run out of people in a surprisingly small number of levels. By level ten or so, you'd need millions of new recruits. The people near the top can earn a lot. Everyone else is chasing a shrinking pool.",
+   "query": "Crowd thinning out",
+   "caption": "YOU RUN OUT OF PEOPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: before joining any business opportunity, ask for the company's income disclosure statement, which many MLMs publish. Look at what the typical participant earns, not the top one percent. Then subtract your costs. That's your realistic outcome.",
+   "query": "Income disclosure document",
+   "caption": "READ THE DISCLOSURE",
+   "cuts": 3
+  },
+  {
+   "text": "If every person recruits five new people, the number needed doubles quickly. By the tenth level, a pyramid would need nearly ten million people.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Level 3",
+     "big": "125",
+     "sub": "people needed"
+    },
+    "right": {
+     "label": "Level 10",
+     "big": "~9.8M",
+     "sub": "people needed"
+    },
+    "note": "Simple math: 5 to the power of each level."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Scheme number three. The lottery.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "The lottery",
+    "sub": "the most popular long shot"
+   },
+   "caption": "SCHEME 3",
+   "cuts": 1,
+   "chapter": "3. The lottery"
+  },
+  {
+   "text": "The lottery isn't a scam. It's legal, the odds are published, and some of the money supports public programs. But it's the most popular get rich quick plan in America. And the odds are extraordinary. The odds of winning the Powerball jackpot are about one in two hundred ninety two million, according to the game's official rules.",
+   "query": "Lottery tickets",
+   "caption": "1 IN 292 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "On average, lotteries pay out less than they take in. That's how they fund prizes and public programs. So for players as a group, the expected return is negative. Someone has to win, but the typical player loses most of what they spend, year after year.",
+   "query": "Lottery ticket losing",
+   "caption": "THE AVERAGE PLAYER LOSES",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the uncomfortable part. Studies have found that lower income households often spend a larger share of their income on lottery tickets. The lottery sells hope most effectively to people who feel they have few other paths.",
+   "query": "Convenience store counter",
+   "caption": "HOPE FOR SALE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you play for fun, set a small monthly limit and treat it as entertainment, like a movie ticket. And consider investing the same amount on a schedule. Twenty dollars a week invested for thirty years at a seven percent average return could grow to roughly one hundred thousand dollars. Not a jackpot. But much more likely.",
+   "query": "Small investment app",
+   "caption": "A MORE LIKELY JACKPOT",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number four. Day trading as a way to get rich.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Day trading",
+    "sub": "most traders lose"
+   },
+   "caption": "SCHEME 4",
+   "cuts": 1,
+   "chapter": "4. Day trading"
+  },
+  {
+   "text": "Day trading means buying and selling stocks, options or currencies within the same day, trying to profit from small price moves. Apps have made it free and easy, and social media is full of screenshots of big wins. But the research is sobering.",
+   "query": "Trading screens multiple monitors",
+   "caption": "BUY AND SELL TODAY",
+   "cuts": 3
+  },
+  {
+   "text": "One well known study of day traders in Brazil, by researchers Fernando Chague, Rodrigo De Losso and Bruno Giovannetti, followed people who day traded for more than three hundred days. They found that about ninety seven percent lost money. Only a tiny fraction earned more than the minimum wage from it.",
+   "query": "Loss chart red",
+   "caption": "ABOUT 97% LOST MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Why do most lose? You're competing against professional firms with faster computers, better data and lower costs. Every trade can have costs, like spreads and taxes on short term gains. And emotions, fear and greed, make people sell low and buy high. Day trading is a contest where most players are outmatched.",
+   "query": "Computer servers data center",
+   "caption": "OUTMATCHED",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you want to learn about markets, start with a small amount you can afford to lose, and keep your real long term money in diversified, low cost funds. Separate the hobby from the plan.",
+   "query": "Two separate jars",
+   "caption": "SEPARATE HOBBY FROM PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "In a study of Brazilian day traders who persisted for over three hundred days, about ninety seven percent lost money.",
+   "card": {
+    "type": "stat",
+    "label": "persistent day traders",
+    "big": "~97% LOST",
+    "size": 170,
+    "sub": "Chague, De Losso and Giovannetti, 2019"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Scheme number five. Sports betting as income.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Sports betting apps",
+    "sub": "the house always has an edge"
+   },
+   "caption": "SCHEME 5",
+   "cuts": 1,
+   "chapter": "5. Sports betting apps"
+  },
+  {
+   "text": "Since a twenty eighteen Supreme Court decision allowed states to legalize sports betting, it has exploded across much of the country. Apps offer promotions, live bets during games, and parlays with huge payouts. Some people see it as a way to make money from what they know about sports.",
+   "query": "Sports betting app phone",
+   "caption": "BETTING IN YOUR POCKET",
+   "cuts": 3
+  },
+  {
+   "text": "But sportsbooks build an edge into the odds, often called the vig, or the house edge. To break even on standard bets, you need to win more than half the time, consistently. Very few people can do that over the long run. And sportsbooks can limit accounts that win too much.",
+   "query": "Casino sportsbook screens",
+   "caption": "THE HOUSE EDGE",
+   "cuts": 3
+  },
+  {
+   "text": "Researchers have begun studying the financial effects of legal sports betting. Some early studies found signs of higher debt and financial stress in states after betting was legalized, particularly among younger men. It's entertainment with a cost, not an income plan.",
+   "query": "Young man stressed phone",
+   "caption": "ENTERTAINMENT, NOT INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you bet, set a strict monthly budget for it, like any entertainment, and never chase losses. And if betting stops feeling like fun, the national problem gambling helpline, one eight hundred GAMBLER, offers free, confidential help.",
+   "query": "Helpline phone",
+   "caption": "KNOW WHERE TO GET HELP",
+   "cuts": 3
+  },
+  {
+   "text": "Those are the classics. The modern ones use something more powerful than math. They use your emotions.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Five modern schemes built on hype, gurus and the fear of missing out.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Scheme number six. The pump and dump.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "The pump and dump",
+    "sub": "hype up, cash out"
+   },
+   "caption": "SCHEME 6",
+   "cuts": 1,
+   "chapter": "6. The pump and dump",
+   "short_hook": "The guru getting rich is selling you the course"
+  },
+  {
+   "text": "In a pump and dump, promoters buy a cheap stock or coin, then hype it everywhere. Social media, chat groups, paid influencers. The price shoots up as new buyers pile in. Then the promoters sell, or dump, at the top. The price crashes, and the latecomers are left holding something worth very little.",
+   "query": "Rocket chart then crash",
+   "caption": "HYPE UP, CASH OUT",
+   "cuts": 3
+  },
+  {
+   "text": "This used to happen with penny stocks through phone calls and spam emails. Today it happens with small crypto tokens and thinly traded stocks through social media and messaging apps. The Securities and Exchange Commission has brought many cases against people running these schemes.",
+   "query": "Chat group phone messages",
+   "caption": "NOW ON SOCIAL MEDIA",
+   "cuts": 3
+  },
+  {
+   "text": "The psychology is fear of missing out. You see the price rising, you see people celebrating, and you jump in because you don't want to be the one who missed it. But by the time something is everywhere, the early buyers are often getting ready to sell to you.",
+   "query": "Crowd rushing",
+   "caption": "FEAR OF MISSING OUT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if someone is urging you to buy something right now, before it moons, ask, why are they telling me? If they already own it, they benefit when you buy. That's a conflict, and sometimes it's a scheme.",
+   "query": "Person questioning phone",
+   "caption": "WHY ARE THEY TELLING ME?",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number seven. Joining a mania.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "The mania",
+    "sub": "everyone's getting rich"
+   },
+   "caption": "SCHEME 7",
+   "cuts": 1,
+   "chapter": "7. The mania"
+  },
+  {
+   "text": "Manias aren't always scams. Sometimes there's a real technology or asset underneath. But when prices rise mostly because people expect them to keep rising, it can turn into a bubble. History is full of them, from tulip bulbs in the sixteen hundreds, to dot com stocks around two thousand, to the NFT craze of twenty twenty one.",
+   "query": "Tulips field Netherlands",
+   "caption": "TULIPS TO NFTs",
+   "cuts": 3
+  },
+  {
+   "text": "In twenty twenty one, some digital collectibles, NFTs, sold for millions of dollars. Within a couple of years, trading volumes had collapsed and many NFTs were worth a tiny fraction of their peak prices. The people who bought near the top, often with money they couldn't afford to lose, took the biggest hits.",
+   "query": "Digital art on screen",
+   "caption": "THE NFT CRASH",
+   "cuts": 3
+  },
+  {
+   "text": "The psychological driver is social proof. When everyone around you is making money, it feels foolish not to join. Your neighbor, your coworker and your cousin are all bragging about gains. Nobody brags about losses, so you only hear one side.",
+   "query": "Friends celebrating phones",
+   "caption": "YOU ONLY HEAR THE WINS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: when you hear about a new thing that's making everyone rich, write down the date and the price, and wait three months before doing anything. You'll learn more from watching than from jumping in.",
+   "query": "Notebook date written",
+   "caption": "WAIT AND WATCH",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number eight. The trading course.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "The trading course",
+    "sub": "the guru's real business"
+   },
+   "caption": "SCHEME 8",
+   "cuts": 1,
+   "chapter": "8. The trading course"
+  },
+  {
+   "text": "You've seen the ads. A young person with a sports car, a beach and a laptop, promising to teach you their trading system. For a few hundred or a few thousand dollars, you can learn the secret. Often with a monthly membership for signals and a private chat group.",
+   "query": "Luxury car beach laptop",
+   "caption": "THE GURU LIFESTYLE",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the question to ask. If the system reliably made lots of money, why would they sell it? The honest answer, in many cases, is that the course is the business. Selling courses to thousands of people produces steady income, while trading produces uncertain results.",
+   "query": "Online course sales page",
+   "caption": "THE COURSE IS THE BUSINESS",
+   "cuts": 3
+  },
+  {
+   "text": "Regulators have taken action against some trading educators for misleading claims about earnings. And the lifestyle in the ads is sometimes rented. The car, the house, the private jet photo. The goal is to make you feel that success is close, and that the course is the only thing in the way.",
+   "query": "Rented supercar",
+   "caption": "SOMETIMES IT'S RENTED",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: before buying any course that promises income, search the person's name with words like complaint, lawsuit or refund. And remember, real investing education, like how index funds work, is available for free from sources like the SEC's investor education website.",
+   "query": "SEC investor education website",
+   "caption": "FREE REAL EDUCATION",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number nine. The free seminar.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "The seminar",
+    "sub": "free lunch, expensive upsell"
+   },
+   "caption": "SCHEME 9",
+   "cuts": 1,
+   "chapter": "9. The seminar"
+  },
+  {
+   "text": "Free real estate seminars, free wealth workshops, free dinners. They usually end with an upsell. A mentoring program, an advanced course or a coaching package that can cost thousands, sometimes tens of thousands of dollars. The free event is the funnel.",
+   "query": "Hotel conference room seminar",
+   "caption": "THE FREE FUNNEL",
+   "cuts": 3
+  },
+  {
+   "text": "The most famous example may be Trump University, which offered real estate seminars and expensive mentoring packages. Former students sued, saying they were misled, and in twenty sixteen a settlement of twenty five million dollars was reached, without an admission of wrongdoing. Many other seminar companies have faced similar complaints and legal actions.",
+   "query": "Courthouse building",
+   "caption": "A $25 MILLION SETTLEMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Seminars use a powerful set of persuasion tools. Free food creates a feeling that you owe something. Limited time discounts create urgency. Success stories create social proof. And the high price itself makes the product feel valuable.",
+   "query": "Limited time offer sign",
+   "caption": "THE PERSUASION TOOLKIT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: go to any free seminar with your credit cards left at home. Take notes, then wait at least a week before buying anything. If it's truly valuable, it will still be available.",
+   "query": "Wallet left at home",
+   "caption": "LEAVE THE CARDS AT HOME",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number ten. The easy passive income business.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "The passive income dream",
+    "sub": "easy money, hard reality"
+   },
+   "caption": "SCHEME 10",
+   "cuts": 1,
+   "chapter": "10. The passive income dream"
+  },
+  {
+   "text": "Dropshipping, print on demand, automated online stores, affiliate empires, YouTube automation. Sellers promise that you can set it up once and earn while you sleep. Some people really do build real businesses this way. But it's almost never fast, easy or passive.",
+   "query": "Laptop on beach",
+   "caption": "EARN WHILE YOU SLEEP?",
+   "cuts": 3
+  },
+  {
+   "text": "Real online businesses need marketing, customer service, product quality, returns, and constant adjustment. Advertising costs can eat the profits. Competition is fierce, because the same course taught the same strategy to thousands of other people at the same time.",
+   "query": "Online store dashboard",
+   "caption": "THOUSANDS DOING THE SAME",
+   "cuts": 3
+  },
+  {
+   "text": "The scheme isn't the business model itself. It's the promise that it's easy, and the expensive course or software you need to buy first. The people reliably earning passive income are often the ones selling the dream.",
+   "query": "Money flowing to seller",
+   "caption": "SELLING THE DREAM",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you want to start an online business, start small and cheap. Test one idea with your own effort and a small budget before paying anyone for a system. Real businesses grow from real customers, not from course modules.",
+   "query": "Small business owner packaging",
+   "caption": "START SMALL AND CHEAP",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this video might protect someone you love from one of these schemes, share it with them. And subscribe to the channel if it's helping you. It's free, and it helps me keep making these videos. Now, the newest scams, and how to protect yourself.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. Five scams of the internet age, and the checklist that stops them.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Scheme number eleven. Pig butchering.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Pig butchering",
+    "sub": "the long con"
+   },
+   "caption": "SCHEME 11",
+   "cuts": 1,
+   "chapter": "11. Pig butchering",
+   "short_hook": "This investment scam starts with a wrong number text"
+  },
+  {
+   "text": "The name is ugly, and so is the scam. It often starts with a wrong number text, a dating app match or a friendly message on social media. Over weeks or months, the scammer builds trust, sometimes romance. Then they mention how they've been making money investing in crypto, and offer to show you.",
+   "query": "Wrong number text message",
+   "caption": "IT STARTS WITH A TEXT",
+   "cuts": 3
+  },
+  {
+   "text": "They direct you to a fake investment platform that looks real. You invest a little, and the platform shows big gains. You might even withdraw a small amount, which builds trust. So you invest more. When you try to withdraw the larger sum, there are suddenly fees, taxes or excuses. Then the person disappears.",
+   "query": "Fake trading app screen",
+   "caption": "THE FAKE PLATFORM",
+   "cuts": 3
+  },
+  {
+   "text": "The FBI's Internet Crime Complaint Center has reported that investment fraud, much of it involving cryptocurrency, causes billions of dollars in reported losses every year, more than any other type of crime it tracks. Victims include people of every age and education level.",
+   "query": "FBI internet crime report",
+   "caption": "BILLIONS EVERY YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: never invest through a platform recommended by someone you've only met online, no matter how long you've talked. Never send money to someone you haven't met in person. And if you've been targeted, report it at the FBI's IC3 website.",
+   "query": "Report button website",
+   "caption": "NEVER INVEST WITH STRANGERS",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number twelve. The AI trading bot.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "The AI trading bot",
+    "sub": "new words, old trick"
+   },
+   "caption": "SCHEME 12",
+   "cuts": 1,
+   "chapter": "12. The AI trading bot"
+  },
+  {
+   "text": "Every new technology brings new scams that use its name. Today, it's artificial intelligence. Ads promise an AI trading bot that makes guaranteed daily profits, or a quantum algorithm that never loses. Regulators, including the SEC and the Commodity Futures Trading Commission, have warned investors about these claims.",
+   "query": "Robot trading screen",
+   "caption": "AI TRADING BOT",
+   "cuts": 3
+  },
+  {
+   "text": "Some of these are simply Ponzi schemes with modern branding. Others are fake platforms that never invest your money at all. Many use deepfake videos of celebrities or famous investors appearing to endorse them.",
+   "query": "Deepfake video warning",
+   "caption": "DEEPFAKE ENDORSEMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "The truth is that if an AI system reliably produced guaranteed profits, its owners would have no reason to sell it to you for a monthly fee. Big financial firms do use algorithms, but they don't guarantee profits, and they don't advertise on social media.",
+   "query": "Data center servers",
+   "caption": "NO ONE SELLS A MONEY MACHINE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: whenever you see the words guaranteed and returns together, stop. Legitimate investments always carry risk, and honest firms say so.",
+   "query": "Stop sign",
+   "caption": "GUARANTEED RETURNS = STOP",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number thirteen. The guaranteed high yield investment.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "The guaranteed note",
+    "sub": "high yield, no risk"
+   },
+   "caption": "SCHEME 13",
+   "cuts": 1,
+   "chapter": "13. The guaranteed note"
+  },
+  {
+   "text": "This scheme often targets retirees. A promissory note, a private fund or a special program that promises ten or twelve percent a year, guaranteed, with no risk. It's often sold by a friendly agent, at a church, a club, or through a trusted community.",
+   "query": "Retirees at community event",
+   "caption": "TEN PERCENT, GUARANTEED?",
+   "cuts": 3
+  },
+  {
+   "text": "The SEC and state securities regulators have repeatedly warned about promissory note fraud and unregistered investments. Often, the investment isn't registered, the seller isn't licensed, and the returns are paid from new investors' money, a Ponzi scheme in disguise.",
+   "query": "Securities regulator warning",
+   "caption": "UNREGISTERED, UNLICENSED",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: before investing in anything, check the seller on FINRA BrokerCheck and the SEC's Investment Adviser Public Disclosure website, both free. And check whether the investment is registered with the SEC or your state securities regulator.",
+   "query": "BrokerCheck website",
+   "caption": "CHECK THE SELLER",
+   "cuts": 3
+  },
+  {
+   "text": "And remember that safe, insured products already exist for people who want stability. Treasury bonds, FDIC insured savings accounts and certificates of deposit. They won't pay ten percent guaranteed. That's exactly the point. Real safety comes with modest returns. If someone offers both high returns and total safety, they're offering something that doesn't exist.",
+   "query": "Treasury bonds document",
+   "caption": "REAL SAFETY IS MODEST",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number fourteen. Gifting circles and blessing looms.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "The cash gifting circle",
+    "sub": "friendship as a pyramid"
+   },
+   "caption": "SCHEME 14",
+   "cuts": 1,
+   "chapter": "14. The cash gifting circle"
+  },
+  {
+   "text": "These schemes spread through friends and social media. You give money, say one hundred or one thousand dollars, to someone at the center of a circle. Then you recruit others, and eventually you move to the center and receive gifts worth many times what you put in.",
+   "query": "Women circle group meeting",
+   "caption": "THE GIFTING CIRCLE",
+   "cuts": 3
+  },
+  {
+   "text": "It's a pyramid scheme dressed up as community and generosity. The math is the same as scheme number two. The circles need endless new members, and most people who join lose their money. Regulators have warned that calling it a gift doesn't make it legal.",
+   "query": "Circle diagram growing",
+   "caption": "A PYRAMID IN DISGUISE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if an opportunity requires you to recruit others to get paid, and there's no real product being sold, walk away. And gently warn the friend who invited you. They may be a victim too.",
+   "query": "Friends talking honestly",
+   "caption": "WALK AWAY, WARN A FRIEND",
+   "cuts": 3
+  },
+  {
+   "text": "These circles can also damage friendships for years. When the circle collapses, the people who recruited their friends often feel responsible for the losses. The money is gone, and so is the trust. It's one more reason why schemes that run on friendship are so harmful.",
+   "query": "Broken friendship concept",
+   "caption": "IT COSTS FRIENDSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "Scheme number fifteen. The recovery scam.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "The recovery scam",
+    "sub": "victims targeted twice"
+   },
+   "caption": "SCHEME 15",
+   "cuts": 1,
+   "chapter": "15. The recovery scam"
+  },
+  {
+   "text": "This is one of the cruelest. After someone loses money to a scam, they're contacted by a person claiming to be a lawyer, an investigator or even a government agent who can recover their money, for an upfront fee. It's often the same scammers, or their partners, targeting the victim a second time.",
+   "query": "Phone call from lawyer",
+   "caption": "TARGETED TWICE",
+   "cuts": 3
+  },
+  {
+   "text": "The FTC and FBI have warned that legitimate government agencies don't charge fees to recover lost money, and won't contact you asking for payment in gift cards, crypto or wire transfers.",
+   "query": "Gift cards payment warning",
+   "caption": "NO UPFRONT FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you've lost money to a scam, report it directly to the FTC at report fraud dot FTC dot gov, and to the FBI's IC3. Contact your bank immediately. And be extremely skeptical of anyone who contacts you offering to get it back for a fee.",
+   "query": "Reporting fraud online",
+   "caption": "REPORT, DON'T PAY",
+   "cuts": 3
+  },
+  {
+   "text": "And if you've been scammed, please know this. It is not your fault that someone lied to you. Scammers are professionals who do this all day. Reporting helps investigators find patterns and sometimes recover money, and talking about it helps protect the next person.",
+   "query": "Comforting hand on shoulder",
+   "caption": "IT'S NOT YOUR FAULT",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the checklist that catches nearly every scheme in this video. Ten red flags. If you see two or more, walk away.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The scam checklist"
+  },
+  {
+   "text": "Red flag one. Guaranteed high returns with little or no risk. Red flag two. Pressure to act right now. Red flag three. You make money mainly by recruiting others. Red flag four. Payment by gift card, wire transfer or crypto to a person.",
+   "query": "Red flags lined up",
+   "caption": "RED FLAGS 1 TO 4",
+   "cuts": 3,
+   "short_hook": "10 red flags that expose almost any money scam"
+  },
+  {
+   "text": "Red flag five. The seller isn't registered or licensed, and you can't find them on BrokerCheck. Red flag six. Returns that are suspiciously smooth, every month. Red flag seven. You can't clearly explain how the money is made.",
+   "query": "Warning signs board",
+   "caption": "RED FLAGS 5 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "Red flag eight. You were contacted out of the blue, especially online. Red flag nine. Celebrity endorsements you can't verify. And red flag ten. Fees appear when you try to withdraw your money. If you see any of these, stop and talk to someone you trust before sending a single dollar.",
+   "query": "Person thinking before acting",
+   "caption": "RED FLAGS 8 TO 10",
+   "cuts": 3
+  },
+  {
+   "text": "Guaranteed returns. Pressure. Recruiting. Gift cards or crypto. Unlicensed seller. Smooth returns. Unclear model. Unsolicited contact. Fake celebrities. Withdrawal fees.",
+   "card": {
+    "type": "stat",
+    "label": "the scam checklist",
+    "big": "10 RED FLAGS",
+    "size": 170,
+    "sub": "two or more? walk away"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "So if get rich quick doesn't work, what does? The answer is boring. And that's exactly why it works.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What actually works"
+  },
+  {
+   "text": "Get rich slowly. Spend less than you earn. Build an emergency fund. Avoid high interest debt. Invest consistently in diversified, low cost funds, and hold them for decades. Increase your income through skills and career growth. None of it is exciting. All of it is available to ordinary people.",
+   "query": "Slow growing tree",
+   "caption": "GET RICH SLOWLY",
+   "cuts": 3
+  },
+  {
+   "text": "Five hundred dollars a month, invested at a seven percent average yearly return for thirty years. You'd put in one hundred eighty thousand dollars. That's the slow path, and it's far more reliable than any scheme.",
+   "card": {
+    "type": "growth",
+    "monthly": 500,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That's an illustration, not a promise. Markets go up and down, and there are bad years. But notice that this path doesn't need you to be lucky, to be early, or to find a secret. It just needs time and consistency. Every scheme in this video is selling you a shortcut around those two things. There isn't one.",
+   "query": "Long straight road",
+   "caption": "NO SHORTCUT",
+   "cuts": 3
+  },
+  {
+   "text": "Let's do some quick math on the returns schemes promise, because it exposes them instantly.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The math of too good to be true"
+  },
+  {
+   "text": "Many scams promise one percent a day. It sounds modest. One percent. But compounded daily for a year, one percent a day turns one thousand dollars into roughly thirty seven thousand dollars. If that were real and repeatable, a few thousand dollars would make you one of the richest people on Earth within a few years. That's how you know it isn't.",
+   "query": "Calculator big number",
+   "caption": "1% A DAY = 37X A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Charles Ponzi promised fifty percent in forty five days. Some modern schemes promise ten percent a month. Compare that with the long run average of broad stock markets, often cited at around seven to ten percent a year before inflation, with plenty of bad years along the way. When someone promises in a month what the market historically delivered in a year, with no risk, the numbers are telling you the truth.",
+   "query": "Stock market long term chart",
+   "caption": "A MONTH VS A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "One percent a day sounds small. Compounded for a year, it would turn one thousand dollars into about thirty seven thousand. That's why no real investment offers it.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Promised",
+     "big": "1% a day",
+     "sub": "sounds modest"
+    },
+    "right": {
+     "label": "Means",
+     "big": "~37x",
+     "sub": "in a single year"
+    },
+    "note": "Simple compounding math. Real investments don't do this."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's a simple rule. If the promised return is far above what the broad stock market has historically earned, and the seller says the risk is low or zero, one of those two claims is false. Usually both.",
+   "query": "Scale imbalanced",
+   "caption": "ONE OF THEM IS FALSE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's talk about why smart, careful people still fall for these schemes. It's not about intelligence.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Why smart people fall for it"
+  },
+  {
+   "text": "First, trust. Most schemes spread through people we trust. A friend, a church member, a coworker, a family member, or someone we've been talking to online for months. Scammers call this affinity fraud. They target communities where trust is high and questions feel rude.",
+   "query": "Church community gathering",
+   "caption": "AFFINITY FRAUD",
+   "cuts": 3
+  },
+  {
+   "text": "Second, stress. People facing money problems, retirement worries or a big life change are more likely to take risks for a big payoff. Scammers look for those moments. A layoff, a divorce, the loss of a spouse, or the fear that savings won't last.",
+   "query": "Stressed person bills",
+   "caption": "STRESS OPENS THE DOOR",
+   "cuts": 3
+  },
+  {
+   "text": "Third, small wins. Many schemes let you win early. A small withdrawal that works, a first trade that profits, a few weeks of gains on the dashboard. Those wins create confidence, and confidence leads to bigger deposits. Fourth, shame. Once people have lost money, they often keep going, hoping to win it back, or stay silent because they're embarrassed. Both help the scammer.",
+   "query": "Slot machine small win",
+   "caption": "SMALL WINS, BIG DEPOSITS",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought on what actually works. The slow path has a hidden benefit. It doesn't require you to watch screens, chase tips, or trust strangers. It runs quietly in the background while you live your life, work, and spend time with people you love. A scheme asks for your money and your attention. The slow path asks only for your patience.",
+   "query": "Family relaxing park",
+   "caption": "PATIENCE, NOT ATTENTION",
+   "cuts": 3
+  },
+  {
+   "text": "What if it's not you, but someone you love who's caught in a scheme? Here's how to help, without pushing them away.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "When someone you love is in one"
+  },
+  {
+   "text": "Start with curiosity, not judgment. Ask questions. How does it make money? Have you been able to withdraw? Who else is involved? People defend their decisions when they feel attacked. They think more clearly when they're asked to explain.",
+   "query": "Two people having coffee talk",
+   "caption": "CURIOSITY, NOT JUDGMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Then look things up together. Search the company name with the word scam or complaint. Check BrokerCheck and the SEC's website. Look for regulator warnings. Finding the evidence together is much more powerful than being told they're wrong.",
+   "query": "Searching on laptop together",
+   "caption": "LOOK IT UP TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "Suggest a simple test. Try to withdraw a meaningful amount of money. Legitimate investments let you take your money out, sometimes with clear, disclosed fees or tax consequences. If withdrawals are blocked, delayed or require new payments, that's often the moment people realize the truth.",
+   "query": "Withdraw button on app",
+   "caption": "THE WITHDRAWAL TEST",
+   "cuts": 3
+  },
+  {
+   "text": "And stay close, even if they don't listen at first. Many victims say they were too embarrassed to admit the loss. If they know you won't say I told you so, they're more likely to come to you before they send the next payment.",
+   "query": "Family hug support",
+   "caption": "STAY CLOSE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's finish with two neighbors. Gary, fifty eight, received a friendly message from someone he met online. Over two months, they became friends. Then she showed him a crypto platform where she'd been earning big returns. Gary started with five thousand dollars. The app showed gains every week.",
+   "query": "Older man on laptop at home",
+   "caption": "GARY: THE NEW FRIEND",
+   "cuts": 3,
+   "chapter": "Two neighbors, one opportunity",
+   "short_hook": "Two neighbors, one 'opportunity', two very different endings"
+  },
+  {
+   "text": "He invested more, eventually much of his retirement savings. When he tried to withdraw, the platform asked for a tax payment first. Then another fee. Then his friend stopped answering. Gary lost most of what he put in. He was embarrassed and didn't tell anyone for months, which is very common with scam victims.",
+   "query": "Man sitting alone worried",
+   "caption": "THE WITHDRAWAL FEES",
+   "cuts": 3
+  },
+  {
+   "text": "His neighbor, Linda, got a similar message. But she had a rule. Never invest with someone I haven't met in person, and never through a platform someone else picks. She looked up the platform, found warnings about it online, and reported the account. Then she told Gary about it, too late for his money, but in time to stop him from paying a recovery scammer who contacted him next.",
+   "query": "Woman on phone reporting",
+   "caption": "LINDA: THE RULE",
+   "cuts": 3
+  },
+  {
+   "text": "The difference wasn't intelligence. Gary was a smart, educated man. The difference was a rule decided in advance, before emotions got involved. That's the real protection. Not being clever in the moment. Having rules that make the decision for you.",
+   "query": "Notebook written rules",
+   "caption": "A RULE DECIDED IN ADVANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Notice something else about Gary's story. The scam didn't feel like a scam at any point along the way. It felt like friendship, then like a lucky opportunity, then like a temporary problem with fees. Every step was small. That's how most people lose large amounts. Not in one big decision, but in a series of small ones that each seemed reasonable.",
+   "query": "Footsteps on path",
+   "caption": "A SERIES OF SMALL STEPS",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer a few questions people ask about these schemes.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Is crypto a scam? Crypto itself is a technology and an asset class, and some people invest in it as a small, high risk part of their portfolio. But crypto is also used in many scams, because transfers are fast and hard to reverse. Be very careful about who you're dealing with, and never invest more than you can afford to lose.",
+   "query": "Bitcoin coins",
+   "caption": "IS CRYPTO A SCAM?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Are all MLMs pyramid schemes? Not legally. Some sell real products to real customers. But many participants still lose money. Read the income disclosure, count all your costs, and be very cautious if the pitch is more about recruiting than about the product.",
+   "query": "Products display table",
+   "caption": "ARE ALL MLMs SCAMS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What if I already lost money? First, stop sending money, no matter what fees are demanded. Contact your bank right away. Report the scam to the FTC and the FBI's IC3. Save every message and receipt. And talk to someone you trust. Shame keeps victims quiet, and silence helps scammers.",
+   "query": "Person talking to friend support",
+   "caption": "ALREADY LOST MONEY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. How do I protect my parents? Talk about scams openly and often, without judgment. Share specific examples, like the wrong number text. Agree on a family rule: no big money moves without a conversation first. And consider setting up account alerts together.",
+   "query": "Adult child with elderly parent",
+   "caption": "PROTECT YOUR PARENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. How can I tell a real investment adviser from a fake one? Look them up on FINRA BrokerCheck and the SEC's Investment Adviser Public Disclosure site. Ask if they're a fiduciary. Ask where your money will be held. Legitimate advisers usually use a well known independent custodian, a separate firm that holds your assets, so they can't simply take your money. If the answer is send it to me directly, walk away.",
+   "query": "Financial adviser office",
+   "caption": "REAL OR FAKE ADVISER?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. What's the single best protection? A waiting period. Most scams depend on speed, because time lets you think, ask and search. Make a personal rule that any investment over a small amount waits at least one week, and gets discussed with someone you trust. Scammers hate that rule. Honest people don't mind it at all.",
+   "query": "Calendar one week later",
+   "caption": "THE WAITING PERIOD",
+   "cuts": 3
+  },
+  {
+   "text": "And question seven. Is there any legitimate way to get rich fast? Some people do get rich fast, through a successful business, a rare skill or luck. But these are exceptions, usually after years of work nobody saw. For most people, the reliable path is slower, and it works better than any shortcut.",
+   "query": "Entrepreneur working late",
+   "caption": "ANY FAST WAY?",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. The classics: Ponzi schemes, pyramids and many MLMs, the lottery, day trading and sports betting. The modern hype schemes: the pump and dump, the mania, the trading course, the free seminar and the passive income dream.",
+   "query": "Checklist clipboard",
+   "caption": "THE FIRST TEN",
+   "cuts": 3,
+   "chapter": "Recap: all 15 schemes"
+  },
+  {
+   "text": "And the internet age scams: pig butchering, AI trading bots, guaranteed high yield notes, gifting circles and recovery scams. One truth connects them all. In a get rich quick scheme, the person getting rich is usually the one selling it.",
+   "query": "Pyramid illustration",
+   "caption": "THE LAST FIVE",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the real, slow and reliable plan for building wealth, it's in my playbook. The link is in the description. And watch my video on twenty money myths that keep you poor. Many of these schemes start with one of those myths. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
