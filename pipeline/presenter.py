@@ -5,6 +5,8 @@ import pathlib, random, subprocess, wave, array
 ART = pathlib.Path("branding/ryan/out")
 FPS = 30
 MOUTH = ["closed", "mid", "open"]
+ANGLES = (1.0, 1.35, 1.75)   # wide, medium, close-up
+FACE = (960, 470)            # centre of Ryan's face in the 1920x1080 drawing
 
 
 def levels(wav_path):
@@ -59,8 +61,11 @@ def render(wav_path, dur, video_path, seed=0):
         lines += [f"file '{(ART / (nm + '.png')).resolve()}'", f"duration {c / FPS:.4f}"]
     lines.append(f"file '{(ART / (runs[-1][0] + '.png')).resolve()}'")
     lst.write_text("\n".join(lines) + "\n")
-    # slow push-in so the shot is never fully static
-    zoom = f"zoompan=z='1+0.00012*on':x='iw/2-(iw/zoom/2)':y='ih/3-(ih/zoom/3)':d=1:s=1920x1080:fps={FPS}"
+    # three camera angles (wide, medium, close-up on the face), rotating clip by clip,
+    # each with a slow push-in so the shot is never fully static
+    z0 = ANGLES[seed % len(ANGLES)]
+    zoom = (f"zoompan=z='{z0}+0.00012*on':x='max(0,min(iw-iw/zoom,{FACE[0]}-iw/zoom/2))'"
+            f":y='max(0,min(ih-ih/zoom,{FACE[1]}-ih/zoom/2))':d=1:s=1920x1080:fps={FPS}")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
                     "-vf", f"fps={FPS},{zoom},format=yuv420p", "-frames:v", str(total),
                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-an", str(video_path)], check=True)

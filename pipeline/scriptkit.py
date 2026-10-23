@@ -2,12 +2,17 @@
 start, save() writes script.json + sources.md next to the calling script and prints the estimated length."""
 import json, pathlib, sys
 
-S, _next = [], [None]
+S, _next, _hook = [], [None], [None]
 SCALE = 1.25
 
 
 def ch(name):
     _next[0] = name
+
+
+def short(hook):
+    """The next scene starts a vertical Short; Ryan says this hook line first (shorts.py)."""
+    _hook[0] = " ".join(hook.split())
 
 
 def sc(text, query, caption, cuts=3):
@@ -27,6 +32,8 @@ def card(text, spec, caption=""):
 def _add(s):
     if _next[0]:
         s["chapter"] = _next[0]; _next[0] = None
+    if _hook[0]:
+        s["short_hook"] = _hook[0]; _hook[0] = None
     S.append(s)
 
 
@@ -44,5 +51,7 @@ def save(vid, title, sources, angle):
     print(vid, len(S), "scenes", words, "words", mins, "min")
     if not vid.startswith("test") and not any("subscribe" in s["text"].lower() for s in S[len(S) // 4: 3 * len(S) // 4]):
         raise SystemExit(f"{vid}: every video must ask viewers to subscribe in the middle of the video")
+    if not vid.startswith("test") and vid not in ("video01", "video02") and sum("short_hook" in s for s in S) < 5:
+        raise SystemExit(f"{vid}: every video needs at least 5 Shorts with a hook, use short()")
     if mins < 30.5 and not vid.startswith("test"):
         raise SystemExit(f"{vid}: too short ({mins} min), every video must run over 30 minutes")

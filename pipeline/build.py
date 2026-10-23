@@ -141,7 +141,8 @@ def main(video):
                 end = pos + (b - a) * len(c) / chars
                 srt.append(f"{len(srt)+1}\n{ts(t0 + pos)} --> {ts(t0 + end)}\n{c}\n"); pos = end
         dur = probe(out / f"{i}.mp4")
-        timeline.append({"scene": i, "start": t0, "dur": dur, "chapter": s.get("chapter"), "caption": s.get("caption", "")})
+        timeline.append({"scene": i, "start": t0, "dur": dur, "chapter": s.get("chapter"), "caption": s.get("caption", ""),
+                         "hook": s.get("short_hook")})
         t0 += dur
     (out / "list.txt").write_text("".join(f"file '{i}.mp4'\n" for i in range(len(scenes))))
     (out / "captions.srt").write_text("\n".join(srt))
