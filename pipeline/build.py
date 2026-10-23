@@ -159,7 +159,7 @@ def main(video):
         "-b:v", "250k", "-c:a", "aac", "-b:a", "48k", str(out / "preview.mp4"))
     total = probe(final)
     for k, t in enumerate([8, 25, 45, total * 0.25, total * 0.5, total * 0.75, total - 20]):
-        run("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{t:.1f}", "-i", str(final), "-frames:v", "1", "-vf", "scale=960:-1", str(out / f"frame{k}.jpg"))
+        run("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{min(t, total - 1):.1f}", "-i", str(final), "-frames:v", "1", "-vf", "scale=960:-1", str(out / f"frame{k}.jpg"))
     print("done", final, f"{total/60:.1f} min, captions {len(srt)}")
 
 
