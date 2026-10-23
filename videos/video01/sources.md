@@ -1,0 +1,7 @@
+- Federal Reserve, Economic Well-Being of U.S. Households in 2025 (May 2026): https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-executive-summary.htm
+- Federal Reserve, Survey of Consumer Finances 2022 (median transaction accounts $8,000)
+- Bankrate, Emergency Savings Report 2026: https://www.bankrate.com/banking/savings/emergency-savings-survey
+- CFPB, What is a payday loan (fee of $15 per $100 equals almost 400% APR)
+- Federal Reserve G.19 Consumer Credit (credit card interest rates)
+- FDIC, Deposit Insurance ($250,000 per depositor, per insured bank, per ownership category)
+- Mullainathan and Shafir, Scarcity: Why Having Too Little Means So Much (2013)
