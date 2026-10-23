@@ -1,0 +1,42 @@
+name: voices
+# Renders the same sample line with several Piper voices and settings, so the narrator can be picked by ear.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  voices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render samples
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y ffmpeg
+          pip install piper-tts
+          mkdir -p voices samples && cd voices
+          H=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US
+          for v in norman/medium ryan/high bryce/medium joe/medium john/medium hfc_male/medium kusal/medium; do
+            n="en_US-$(dirname $v)-$(basename $v)"
+            curl -sSLO $H/$v/$n.onnx && curl -sSLO $H/$v/$n.onnx.json
+          done
+          cd ..
+          TEXT="Hi, I'm Ryan Rover! What really changes when you have twenty thousand dollars in the bank? Way more than you think. And number fifteen? That's the one that surprised me the most. Let's go!"
+          say() { # model, length, noise, noise_w, out
+            echo "$TEXT" | piper --model voices/$1.onnx --length-scale $2 --noise-scale $3 --noise-w $4 --output_file $5 2>/dev/null \
+            || echo "$TEXT" | piper --model voices/$1.onnx --length_scale $2 --noise_scale $3 --noise_w $4 --output_file $5
+          }
+          i=1
+          for m in en_US-norman-medium en_US-ryan-high en_US-bryce-medium en_US-joe-medium en_US-john-medium en_US-hfc_male-medium en_US-kusal-medium; do
+            say $m 1.25 0.9 0.9 /tmp/a.wav
+            ffmpeg -y -loglevel error -i /tmp/a.wav -c:a libmp3lame -b:a 128k samples/$(printf %02d $i)_${m#en_US-}_animada.mp3
+            i=$((i+1))
+          done
+          say en_US-norman-medium 1.5 0.667 0.8 /tmp/a.wav
+          ffmpeg -y -loglevel error -i /tmp/a.wav -c:a libmp3lame -b:a 128k samples/00_norman-medium_atual.mp3
+          ls -la samples
+      - name: Publish samples
+        run: |
+          mkdir -p /tmp/s && cp samples/* /tmp/s/
+          git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
+          git checkout --orphan voice-samples && git rm -rf -q . && mkdir samples && cp /tmp/s/* samples/
+          git add -f samples && git commit -q -m "voice samples" && git push -f origin voice-samples
