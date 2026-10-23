@@ -478,6 +478,13 @@ friendly. And share the golden rule. Many young people have never had anyone exp
 conversation can save them years of stress.""",
    "Parent and teenager talking", "TALKING TO YOUNG ADULTS")
 
+sc("""One last thought before the recap. Buy now, pay later isn't evil, and the people who use it aren't
+foolish. It's a well designed product that solves a real problem, wanting something now and paying
+gradually. The danger is that it solves that problem by borrowing from your future self, a little at a
+time, in a way that's easy to miss. Your future self deserves a say. Give them one by checking the total
+before you tap.""",
+   "Person looking in mirror", "ASK YOUR FUTURE SELF")
+
 # ---------------- Recap ----------------
 ch("Recap")
 short("Buy now, pay later: what nobody tells you")
