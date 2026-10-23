@@ -1,0 +1,806 @@
+{
+ "id": "video45",
+ "angle": "15 financial traps: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "15 Financial Traps Disguised as Good Decisions",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. The most dangerous money mistakes don't look like mistakes. Nobody brags about gambling away their savings. But people proudly tell you about the big house they got approved for, the degree they borrowed for, or the loan they co signed for their brother. Today, fifteen financial traps disguised as good decisions.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Fifteen traps. Each one looks responsible, generous or smart on the surface. Each one can quietly cost you thousands, or even decades of progress.",
+   "card": {
+    "type": "stat",
+    "label": "financial traps",
+    "big": "15",
+    "sub": "disguised as good decisions"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's why these traps are so effective. A bad decision that looks bad is easy to avoid. Your friends warn you, your gut warns you. But a bad decision that looks good gets praise. Your parents congratulate you. The salesperson calls you smart. Society rewards it. So you walk in with a smile, and only discover the cost years later, when it's hard to undo.",
+   "query": "Gift box with ribbon",
+   "caption": "IT LOOKS LIKE A GIFT",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at these traps from three angles. Angle one, the numbers: traps where the math is hidden behind a good story. Angle two, the psychology: traps that use love, pride and identity against you. And angle three, the playbook: the traps that hit your long term wealth, and a simple filter to catch any trap before you step in it.",
+   "query": "Three keys on table",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Number thirteen is one that thousands of people fell into at one famous company, and lost almost everything. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Student loan totals come from the Federal Reserve. Retirement account rules come from the IRS. Co signing rules come from the Federal Trade Commission's required cosigner notice. Examples use stated, simple math, like a seven percent average yearly return, which is an illustration, not a promise. Your situation may be different, so treat this as education, not financial advice.",
+   "query": "Library research documents",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. Traps where the math hides behind a good story.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Trap number one. Buying the biggest house the bank will approve.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "The biggest house you're approved for",
+    "sub": "approval is not affordability"
+   },
+   "caption": "TRAP 1",
+   "cuts": 1,
+   "chapter": "1. The biggest house you're approved for"
+  },
+  {
+   "text": "Getting approved for a big mortgage feels like a vote of confidence. The bank looked at your numbers and said yes, so it must be affordable, right? Not necessarily. Lenders approve based on rules about your income and debts. They don't know about your plans to have kids, change careers, travel or retire early. Approval tells you the maximum risk the lender will take. Not the right amount for your life.",
+   "query": "Mortgage approval letter",
+   "caption": "APPROVED IS NOT AFFORDABLE",
+   "cuts": 3
+  },
+  {
+   "text": "A bigger house brings bigger everything. Higher property taxes, higher insurance, higher utilities, more furniture, more repairs. Many people who max out their approval end up house poor. They own a beautiful home, but they can't save, can't invest, and live one surprise away from stress. The house was supposed to be a foundation. It became a ceiling.",
+   "query": "Large empty house interior",
+   "caption": "HOUSE POOR",
+   "cuts": 3
+  },
+  {
+   "text": "A common guideline is to keep total housing costs around a quarter to under a third of your gross income, including taxes and insurance, not just the mortgage. Try this: when you get your approval amount, decide in advance to shop at seventy to eighty percent of it. The extra room in your budget will be worth more than the extra room in your house.",
+   "query": "House keys and calculator",
+   "caption": "SHOP BELOW THE MAX",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If your house feels too big for your budget, you have options. Look into refinancing if rates drop. Appeal your property tax assessment if it seems high. Shop your home insurance every year. Consider renting a room or a basement unit if local rules allow it. And if none of that works, selling and downsizing isn't failure. It's a reset that can free up years of progress.",
+   "query": "Home for rent sign",
+   "caption": "ALREADY HOUSE POOR?",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number two. Rushing to pay off a low rate mortgage while skipping retirement savings.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Paying off a cheap mortgage first",
+    "sub": "while skipping the match"
+   },
+   "caption": "TRAP 2",
+   "cuts": 1,
+   "chapter": "2. Paying off a cheap mortgage first"
+  },
+  {
+   "text": "Being debt free is a wonderful goal, and paying extra on a mortgage feels responsible. But the order matters. If your mortgage rate is low, say three or four percent, and you're not getting your employer's retirement match, you may be leaving a much better deal on the table. A match can be like an instant fifty or one hundred percent return on the matched money.",
+   "query": "Mortgage statement extra payment",
+   "caption": "THE ORDER MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Money sent to a mortgage is also locked inside the house. If you lose your job, the bank doesn't care that you paid extra last year. You still owe the next payment. Money in an emergency fund or investments stays flexible. Some people end up with lots of home equity and very little cash, which is a fragile place to be.",
+   "query": "Locked door with key",
+   "caption": "LOCKED IN THE HOUSE",
+   "cuts": 3
+  },
+  {
+   "text": "This doesn't mean never pay extra. If your rate is high, or you're close to retirement and want lower expenses, it can make a lot of sense. Try this: before paying extra on your mortgage, check three boxes. Full employer match, solid emergency fund, and no high interest debt. Then decide.",
+   "query": "Checklist three boxes",
+   "caption": "THREE BOXES FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If you've been paying extra on a low rate mortgage while skipping your match, the fix is easy. Redirect the extra payment to your retirement plan until you get the full match, and build your emergency fund. The equity you already built isn't lost. You're just changing where the next dollar goes.",
+   "query": "Redirect arrow sign",
+   "caption": "REDIRECT THE NEXT DOLLAR",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number three. Keeping all your money in a savings account forever.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Keeping everything in savings",
+    "sub": "safe today, poorer tomorrow"
+   },
+   "caption": "TRAP 3",
+   "cuts": 1,
+   "chapter": "3. Keeping everything in savings"
+  },
+  {
+   "text": "Saving is great. Keeping everything in savings forever is a trap. A savings account protects you from market drops, which is perfect for emergencies and short term goals. But over decades, inflation slowly eats cash. If prices rise three percent a year and your savings earn one percent, you're losing about two percent of buying power every year, while feeling completely safe.",
+   "query": "Bank savings passbook",
+   "caption": "SAFE AND SHRINKING",
+   "cuts": 3
+  },
+  {
+   "text": "Picture fifty thousand dollars sitting in a low interest account for twenty years, losing about two percent a year in real terms. Its buying power could fall to roughly thirty three thousand dollars in today's money. The same money invested in a diversified portfolio has historically had a good chance of growing much more over twenty years, although with ups and downs along the way.",
+   "query": "Grocery receipt prices",
+   "caption": "LOSING TO INFLATION",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: give every dollar a time horizon. Money you need within a few years stays safe and liquid. Money for ten or twenty years from now can be invested for growth. The trap isn't saving. It's using one tool for every job.",
+   "query": "Tools on workbench",
+   "caption": "THE RIGHT TOOL FOR THE JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If most of your long term money is sitting in a low interest account, start by moving your emergency fund to a high yield savings account, which pays more while staying safe. Then, for money you won't need for many years, consider investing gradually, a set amount each month, so you don't have to worry about picking the perfect day.",
+   "query": "High yield savings app",
+   "caption": "START GRADUALLY",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number four. Buying something because it's on sale.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Buying because it's on sale",
+    "sub": "50% off is not 100% savings"
+   },
+   "caption": "TRAP 4",
+   "cuts": 1,
+   "chapter": "4. Buying because it's on sale"
+  },
+  {
+   "text": "Sales trigger something powerful in our brains. Fifty percent off feels like making money. But if you didn't plan to buy it, you didn't save fifty percent. You spent fifty percent. Retailers know this well. Limited time offers, countdown timers, and strikethrough prices are designed to make you act before you think.",
+   "query": "Sale sign fifty percent off",
+   "caption": "YOU SPENT 50%",
+   "cuts": 3
+  },
+  {
+   "text": "Many reference prices, the original price shown next to the sale price, are higher than what most people ever paid. And seasonal sales create a sense of urgency every few weeks. Black Friday, then holiday sales, then New Year sales, then spring sales. If you wait, there's almost always another one.",
+   "query": "Black Friday crowd store",
+   "caption": "THERE'S ALWAYS ANOTHER SALE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: before any sale purchase, ask, would I buy this at full price? If the answer is no, you probably don't really need it. Keep a wish list of things you actually want, and only buy from that list when a real discount appears. That's how sales work for you, instead of you working for sales.",
+   "query": "Wish list on phone",
+   "caption": "BUY FROM THE LIST",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? Look at the last three months of purchases and circle anything you bought mainly because it was discounted. Add it up. That's your sale tax. Then unsubscribe from store emails and turn off shopping app notifications. Fewer reminders mean fewer impulses. Many people cut spending noticeably just by reducing what they see.",
+   "query": "Unsubscribe email button",
+   "caption": "YOUR SALE TAX",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number five. Extended warranties on everyday things.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Extended warranties",
+    "sub": "insurance on small risks"
+   },
+   "caption": "TRAP 5",
+   "cuts": 1,
+   "chapter": "5. Extended warranties"
+  },
+  {
+   "text": "At the checkout, you're often offered protection. Two more years of coverage on your TV, laptop or blender for a modest fee. It feels responsible, like insurance. But many products don't fail during the extended period, and many failures are already covered by the manufacturer's warranty or by your credit card's purchase protection.",
+   "query": "Electronics store checkout",
+   "caption": "PROTECTION PLAN?",
+   "cuts": 3
+  },
+  {
+   "text": "For the store, these plans are often very profitable, because the price is set well above the expected cost of repairs. That's not a scam. It's just math that's designed to favor the seller. Insurance makes the most sense for big risks you couldn't afford to cover yourself, like your health, your home or your income. Not a sixty dollar toaster.",
+   "query": "Toaster kitchen counter",
+   "caption": "INSURE BIG RISKS, NOT SMALL ONES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: self insure. Skip most small warranties, and put what you would have paid into a savings bucket for repairs and replacements. Over time, many people find the bucket covers their occasional failures, with money left over.",
+   "query": "Savings jar labeled repairs",
+   "caption": "SELF INSURE",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? Many extended warranties can be canceled for a prorated refund, especially in the first weeks or months. Check your contract. And check your credit card benefits too. Some cards extend the manufacturer's warranty for free on purchases made with the card. You might already have coverage you're paying for twice.",
+   "query": "Warranty contract paperwork",
+   "caption": "CANCEL AND CHECK",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number six. Celebrating a big tax refund.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "The big tax refund",
+    "sub": "an interest free loan"
+   },
+   "caption": "TRAP 6",
+   "cuts": 1,
+   "chapter": "6. The big tax refund"
+  },
+  {
+   "text": "We covered this briefly in another video, but it's worth repeating, because it's so common. A big tax refund feels like winning. In reality, it means you overpaid your taxes throughout the year, and the government held your money without paying you any interest.",
+   "query": "Tax refund check",
+   "caption": "YOUR OWN MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "If you're carrying credit card debt while waiting for a refund, it can be even worse. You're paying twenty percent on the card while lending the government money at zero percent. Adjusting your withholding could give you that money every paycheck, which you could use to pay down the card months earlier.",
+   "query": "Credit card and tax forms",
+   "caption": "20% VS 0%",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: use the IRS withholding estimator on the official IRS website once a year, especially after a big life change. If a big refund helps you save because you'd spend the money otherwise, that's a valid choice. Just make it on purpose.",
+   "query": "IRS website on laptop",
+   "caption": "MAKE IT ON PURPOSE",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? This year, when the refund arrives, give it a job the same day. For example, most of it to high interest debt or your emergency fund, and a small slice for something fun. Next year, adjust your withholding so the money arrives in your paycheck instead, and automate it straight to savings.",
+   "query": "Bank transfer phone app",
+   "caption": "GIVE IT A JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Six math traps. Now the ones that are harder to see, because they use your emotions.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. Traps that use love, pride and identity against you.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Trap number seven. Borrowing whatever it takes for a degree.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Any degree at any cost",
+    "sub": "education is not always an investment"
+   },
+   "caption": "TRAP 7",
+   "cuts": 1,
+   "chapter": "7. Any degree at any cost"
+  },
+  {
+   "text": "Education can be one of the best investments in your life. On average, people with college degrees earn more over their careers. But on average hides a lot. The cost of the school, the field of study, whether you finish, and how much you borrow all matter. According to the Federal Reserve, Americans owe more than one point six trillion dollars in student loans.",
+   "query": "University graduation ceremony",
+   "caption": "$1.6 TRILLION+ IN STUDENT LOANS",
+   "cuts": 3
+  },
+  {
+   "text": "The trap is treating any degree, at any price, as automatically good. Borrowing a large amount for a program with modest expected earnings, or for an expensive school when a cheaper one offers a similar path, can lead to years of large payments. And student loans are generally very hard to discharge in bankruptcy.",
+   "query": "Student studying with loan papers",
+   "caption": "PRICE AND PAYOFF MATTER",
+   "cuts": 3
+  },
+  {
+   "text": "A common rule of thumb is to avoid borrowing more in total than you expect to earn in your first year after graduation. Try this: before choosing a school or program, look up typical earnings for that field and compare the total cost of several schools. The government's College Scorecard website shows costs and typical earnings by school and program.",
+   "query": "Laptop college comparison",
+   "caption": "COMPARE COST AND EARNINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If student loans feel heavy, look into the federal repayment options available for your loans, including income driven plans, on the official student aid website. Avoid companies that charge fees for help you can get for free. And remember, your earnings are the biggest lever. Investing in skills that raise your income can shrink the loan faster than anything else.",
+   "query": "Student loan website laptop",
+   "caption": "KNOW YOUR OPTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number eight. Co signing a loan for someone you love.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Co-signing a loan",
+    "sub": "you are the loan"
+   },
+   "caption": "TRAP 8",
+   "cuts": 1,
+   "chapter": "8. Co-signing a loan"
+  },
+  {
+   "text": "Co signing feels generous. Your child, sibling or friend can't qualify alone, and your signature makes the difference. But co signing doesn't mean vouching for someone. It means you are legally responsible for the whole debt. The Federal Trade Commission's cosigner notice warns that you may have to pay the full amount if the borrower doesn't, plus late fees or collection costs.",
+   "query": "Signing contract pen",
+   "caption": "YOU ARE THE LOAN",
+   "cuts": 3
+  },
+  {
+   "text": "And the loan shows up on your credit report. If the borrower pays late, your score can drop. The debt can also make it harder for you to qualify for your own loans. Lenders asked for a co signer because they saw risk. Your signature doesn't remove that risk. It moves it to you.",
+   "query": "Credit report with late payment",
+   "caption": "THEIR RISK BECOMES YOURS",
+   "cuts": 3
+  },
+  {
+   "text": "Co signing can also strain relationships in a way money gifts don't. If the borrower struggles, you're suddenly their creditor. Try this: only co sign if you could comfortably pay the entire debt yourself, and would be okay doing so. If not, consider helping in a different way, like a smaller gift toward a down payment.",
+   "query": "Family argument at table",
+   "caption": "MONEY AND RELATIONSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? Some loans allow a co signer to be released after the main borrower makes a certain number of on time payments and qualifies alone. Ask the lender. The borrower could also refinance the loan in their own name once their credit improves. Until then, monitor the account closely.",
+   "query": "Bank loan officer meeting",
+   "caption": "ASK ABOUT RELEASE",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number nine. Lending money to friends and family.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Lending to friends and family",
+    "sub": "loans that become gifts"
+   },
+   "caption": "TRAP 9",
+   "cuts": 1,
+   "chapter": "9. Lending to friends and family"
+  },
+  {
+   "text": "Helping people you love is a good thing. But personal loans between friends and family often go wrong in predictable ways. There's no clear schedule, no consequences for late payment, and a lot of awkwardness. The lender starts to resent the borrower. The borrower starts to avoid the lender. Both lose something more valuable than money.",
+   "query": "Two friends awkward conversation",
+   "caption": "LOANS THAT HURT FRIENDSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "A useful approach many people follow: only lend what you'd be willing to give away. If it comes back, great. If it doesn't, you've decided in advance that the relationship matters more. This protects both your finances and your peace of mind.",
+   "query": "Hands giving money envelope",
+   "caption": "ONLY LEND WHAT YOU'D GIVE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you do lend, write down the amount and a simple repayment plan, and both sign it. It's not about distrust. It's about clarity. Clear expectations protect relationships far better than vague promises.",
+   "query": "Simple written agreement",
+   "caption": "WRITE IT DOWN",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If someone owes you money and it's hurting the relationship, have one calm conversation. Agree on a small, realistic payment plan, or decide to forgive the loan and let it go. Either choice is better than silent resentment. And next time, decide in advance whether it's a loan or a gift.",
+   "query": "Two people shaking hands",
+   "caption": "ONE CALM CONVERSATION",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number ten. Buying a timeshare.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "The timeshare",
+    "sub": "a vacation you keep paying for"
+   },
+   "caption": "TRAP 10",
+   "cuts": 1,
+   "chapter": "10. The timeshare"
+  },
+  {
+   "text": "Timeshare presentations are famously persuasive. Free gifts, a beautiful resort, a sales team trained to make you feel like you're investing in a lifetime of vacations. But many timeshares come with yearly maintenance fees that tend to rise over time, whether you use the week or not.",
+   "query": "Resort pool tropical",
+   "caption": "THE VACATION THAT SELLS ITSELF",
+   "cuts": 3
+  },
+  {
+   "text": "And the resale market is often weak. Many owners find their timeshare is worth a small fraction of what they paid, and some struggle to sell at all. A purchase that felt like an asset can turn into an ongoing obligation. The Federal Trade Commission has also warned about scams targeting timeshare owners who are trying to get out.",
+   "query": "For sale sign ignored",
+   "caption": "HARD TO SELL",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you love a resort, compare the full cost of a timeshare, including fees for years, with simply booking the same kind of vacation each year. And never sign on the day of a presentation. A good deal will still be a good deal tomorrow.",
+   "query": "Couple on vacation beach",
+   "caption": "COMPARE THE FULL COST",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? Check whether your contract has a rescission period, a window to cancel shortly after signing. Some resorts have official exit programs. Be very careful with companies that promise to get you out for a big upfront fee. The FTC warns that some of them are scams. Start with the resort itself.",
+   "query": "Resort reception desk",
+   "caption": "START WITH THE RESORT",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number eleven. Rewarding yourself because you deserve it.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "You deserve it",
+    "sub": "the reward that resets you"
+   },
+   "caption": "TRAP 11",
+   "cuts": 1,
+   "chapter": "11. You deserve it"
+  },
+  {
+   "text": "After a promotion, a hard year or a big milestone, it's natural to celebrate. And you should. The trap is when the reward is permanent. A bigger apartment, a luxury car payment, or an expensive new habit. These aren't one time treats. They're new fixed costs that follow you for years.",
+   "query": "Celebration champagne toast",
+   "caption": "A TREAT OR A NEW COST?",
+   "cuts": 3
+  },
+  {
+   "text": "Marketers love the phrase you deserve it, because it turns spending into a moral reward. But deserving something and being able to afford it are two different questions. And a permanent upgrade can quietly undo the progress that earned the reward in the first place.",
+   "query": "Luxury shopping bags",
+   "caption": "DESERVE VS AFFORD",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: celebrate with experiences or one time purchases, and set a budget for it. A great dinner, a weekend trip, something you've wanted for a while. Then send the rest of the raise to your goals. You get the joy without resetting your budget.",
+   "query": "Friends dinner celebration",
+   "caption": "CELEBRATE ONCE",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? Pick the one upgrade that adds the least joy for its cost, and undo just that one. Maybe it's a subscription, a lease you can downgrade at renewal, or a membership you rarely use. You don't have to undo everything. One reversed upgrade can free up hundreds a month.",
+   "query": "Canceling membership card",
+   "caption": "UNDO ONE UPGRADE",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number twelve. Spending to match the people around you.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Keeping up appearances",
+    "sub": "the expensive kind of normal"
+   },
+   "caption": "TRAP 12",
+   "cuts": 1,
+   "chapter": "12. Keeping up appearances"
+  },
+  {
+   "text": "When your friends move to nicer neighborhoods, take bigger trips, or send their kids to expensive activities, it's hard not to follow. It feels like normal life for your stage. But your friends might be earning more, inheriting money, or borrowing heavily. You can't see their balance sheet. Only their lifestyle.",
+   "query": "Neighborhood big houses",
+   "caption": "MATCHING THE NEIGHBORS",
+   "cuts": 3
+  },
+  {
+   "text": "This trap is powerful because saying no can feel like falling behind, or like being left out. But matching someone else's spending with your own income is one of the fastest routes to debt. Their normal might be your financial emergency.",
+   "query": "Person feeling left out",
+   "caption": "THEIR NORMAL, YOUR EMERGENCY",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: find at least one friend who shares your money goals. Plan cheaper ways to spend time together. Hiking, potlucks, game nights. You'll be surprised how many people are quietly relieved when someone suggests it.",
+   "query": "Friends hiking together",
+   "caption": "FIND YOUR PEOPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? Notice which situations trigger the spending. A certain group, a certain app, a certain time of year. You don't need to drop your friends. Just suggest one cheaper plan a month, and let your spending follow your values instead of the group's. Most real friends won't mind at all.",
+   "query": "Friends picnic park",
+   "caption": "SUGGEST ONE CHEAPER PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you've spotted one of your own decisions on this list, you're not alone, and it's not too late to fix. Subscribe to the channel if this is helping. It's free, and it helps me keep making these videos. Now, the traps that hit your long term wealth.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. The traps that hit your retirement and long term wealth, and a simple filter to catch any trap before you step in.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Trap number thirteen. Putting too much money in your own company's stock.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Loading up on your company's stock",
+    "sub": "loyalty isn't diversification"
+   },
+   "caption": "TRAP 13",
+   "cuts": 1,
+   "chapter": "13. Loading up on your company's stock"
+  },
+  {
+   "text": "Investing in what you know sounds smart. You work there, you believe in the company, and maybe you even get a discount on shares. But think about the risk. If the company struggles, you could lose your job and your investments at the same time. Your paycheck and your savings both depend on the same company.",
+   "query": "Corporate office building",
+   "caption": "ONE COMPANY, TWO RISKS",
+   "cuts": 3
+  },
+  {
+   "text": "The most famous example is Enron. When the energy company collapsed in two thousand one, many employees had a large share of their retirement savings in Enron stock, by some reports around sixty percent of the 401k plan's assets. They lost their jobs and much of their retirement at the same time. Loyalty was punished twice.",
+   "query": "Empty office after layoffs",
+   "caption": "THE ENRON LESSON",
+   "cuts": 3
+  },
+  {
+   "text": "Many advisors suggest keeping any single stock, including your employer's, to a small share of your portfolio, often ten percent or less. Try this: check how much of your total investments is in your employer's stock. If it's a big share, consider gradually diversifying, and ask a tax professional about the best way to do it.",
+   "query": "Pie chart portfolio diversified",
+   "caption": "KEEP IT SMALL",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If a big share of your portfolio is in one company, you don't have to sell everything at once. Some people sell a portion on a schedule, for example every quarter, and move it into diversified funds. If the shares came from an employee plan, ask a tax professional how to reduce the tax bill.",
+   "query": "Calendar quarterly plan",
+   "caption": "DIVERSIFY ON A SCHEDULE",
+   "cuts": 3
+  },
+  {
+   "text": "Trap number fourteen. Cashing out your 401k to pay off debt.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Raiding your 401(k) to pay off debt",
+    "sub": "trading a big future for a small relief"
+   },
+   "caption": "TRAP 14",
+   "cuts": 1,
+   "chapter": "14. Raiding your 401(k) to pay off debt"
+  },
+  {
+   "text": "When debt feels overwhelming, the retirement account can look like a rescue. The money is right there. But early withdrawals usually come with a heavy cost. Before age fifty nine and a half, many withdrawals are subject to income tax plus a ten percent additional tax, according to IRS rules, although there are some exceptions.",
+   "query": "Retirement account statement",
+   "caption": "INCOME TAX PLUS 10%",
+   "cuts": 3
+  },
+  {
+   "text": "That means withdrawing ten thousand dollars could leave you with much less after taxes and penalties, sometimes six or seven thousand, depending on your tax bracket. And you lose all the future growth that money would have produced. At seven percent a year, ten thousand dollars could grow to about seventy six thousand over thirty years.",
+   "query": "Money disappearing illustration",
+   "caption": "$10,000 TODAY, $76,000 LATER",
+   "cuts": 3
+  },
+  {
+   "text": "Changing jobs is another moment people cash out. Instead, many people roll the money into an IRA or a new employer's plan, which can keep the tax advantages. Try this: before touching retirement money, look at every other option first. Budget cuts, a debt payoff plan, a lower interest loan, a hardship program with your creditors.",
+   "query": "Person planning with laptop",
+   "caption": "LAST RESORT, NOT FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If you took money out early, don't panic. Restart contributions as soon as possible, and at least capture your employer match. If you took a 401k loan instead, keep making payments on time, and learn the rules about what happens if you leave your job, because some loans can become due sooner.",
+   "query": "Restart button",
+   "caption": "RESTART CONTRIBUTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Ten thousand dollars left invested at a seven percent average yearly return for thirty years. That's what an early withdrawal really costs.",
+   "card": {
+    "type": "growth",
+    "start": 10000,
+    "monthly": 0,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Trap number fifteen. Paying for your kids' college instead of saving for your own retirement.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Paying for college before retirement",
+    "sub": "you can borrow for one, not the other"
+   },
+   "caption": "TRAP 15",
+   "cuts": 1,
+   "chapter": "15. Paying for college before retirement"
+  },
+  {
+   "text": "This one comes from love. Parents want to give their kids the best start, so they pour money into college savings, or pay tuition directly, while their own retirement savings fall behind. It feels like the right thing to do.",
+   "query": "Parents with college student",
+   "caption": "OUT OF LOVE",
+   "cuts": 3
+  },
+  {
+   "text": "But there's a hard truth financial planners often repeat. Your kids can borrow for college, apply for scholarships, work part time, or choose a less expensive school. There are no scholarships for retirement. If you reach sixty five without enough saved, the people most likely to help you are, ironically, your kids.",
+   "query": "Elderly parent with adult child",
+   "caption": "NO SCHOLARSHIPS FOR RETIREMENT",
+   "cuts": 3
+  },
+  {
+   "text": "This doesn't mean don't help at all. It means put your own oxygen mask on first. Try this: make sure you're on track for retirement, including your employer match, before contributing large amounts to college savings. Then help as much as you comfortably can, and talk openly with your kids about what you can and can't cover.",
+   "query": "Airplane oxygen mask",
+   "caption": "YOUR OXYGEN MASK FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Already in? If you've been prioritizing college over retirement, it's not too late to rebalance. Increase your retirement contributions, use catch up contributions if you're fifty or older, and have an honest talk with your kids about cheaper school options, scholarships and aid. Many families find a plan that works for both generations.",
+   "query": "Family meeting kitchen table",
+   "caption": "REBALANCE THE PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Before the filter, let's talk about why smart people fall for these traps. It's not about intelligence. It's about persuasion.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Why smart people fall for them"
+  },
+  {
+   "text": "Psychologist Robert Cialdini spent years studying how people are persuaded, and described several principles that show up in almost every sales situation. One is social proof. We tend to do what people like us are doing. If everyone at work has a new car, or all your friends bought a house at the top of their budget, it starts to feel normal and safe.",
+   "query": "Crowd following leader",
+   "caption": "SOCIAL PROOF",
+   "cuts": 3
+  },
+  {
+   "text": "Another is authority. When a banker approves you, or someone with a title recommends a product, we tend to trust it. But a banker approving a loan isn't advising you. They're making a business decision for the bank. And a salesperson with an impressive title still gets paid when you buy.",
+   "query": "Banker in suit at desk",
+   "caption": "AUTHORITY",
+   "cuts": 3
+  },
+  {
+   "text": "A third is scarcity. Limited time offers, only two left, this price ends today. When something seems scarce, we want it more and think less. That's why timeshare presentations, car dealers and online stores lean so heavily on deadlines. And a fourth is reciprocity. Accept a free gift, a free dinner or a free vacation night, and you feel a quiet pressure to give something back. Like your signature.",
+   "query": "Countdown timer on screen",
+   "caption": "SCARCITY AND RECIPROCITY",
+   "cuts": 3
+  },
+  {
+   "text": "Knowing these principles doesn't make you immune, but it helps. When you notice social proof, authority, scarcity or a free gift in a money decision, treat it like a yellow light. Slow down, and run the filter.",
+   "query": "Yellow traffic light",
+   "caption": "A YELLOW LIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "So how do you spot a trap before you step in it? Here's a simple filter. Seven questions you can ask about any big money decision.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The trap filter"
+  },
+  {
+   "text": "Question one. Who benefits if I say yes? Follow the money. If a salesperson, a lender or a store benefits much more than you do, slow down. Question two. What's the total cost, not the monthly cost? Monthly prices hide the size of commitments.",
+   "query": "Person thinking with notebook",
+   "caption": "QUESTIONS 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Is this a one time cost, or a new permanent one? Permanent costs deserve much more caution. Question four. What happens if things go wrong? If I lose my job, get sick or the market drops, does this decision make it worse?",
+   "query": "Umbrella in storm",
+   "caption": "QUESTIONS 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Would I make this choice if nobody could see it? This catches decisions driven by pride, guilt or appearances. Question six. Can I easily undo it? Easy to reverse decisions are low risk. Hard to reverse ones, like co signing or a timeshare, need extra thought.",
+   "query": "Undo arrow symbol",
+   "caption": "QUESTIONS 5 AND 6",
+   "cuts": 3
+  },
+  {
+   "text": "And question seven. Will I feel the same way in thirty days? Big decisions made under pressure, excitement or emotion often look different a month later. If it's a good decision, it will still be good in thirty days. If someone says the offer expires today, that's usually the clearest warning sign of all.",
+   "query": "Calendar thirty days",
+   "caption": "QUESTION 7: 30 DAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Who benefits? Total cost? Permanent? What if it goes wrong? Would I do it unseen? Can I undo it? Will I feel the same in thirty days?",
+   "card": {
+    "type": "stat",
+    "label": "the trap filter",
+    "big": "7 QUESTIONS",
+    "size": 180,
+    "sub": "ask them before any big money decision"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Let's see how these traps play out with three examples. First, Nicole and James. They were approved for a six hundred thousand dollar home, and bought right at the limit. Their friends congratulated them. Two years later, a baby arrived, childcare costs jumped, and property taxes rose. They stopped contributing to retirement and started using credit cards for unexpected bills.",
+   "query": "Couple in large new house",
+   "caption": "NICOLE AND JAMES",
+   "cuts": 3,
+   "chapter": "Three traps in real life"
+  },
+  {
+   "text": "Their fix wasn't dramatic. They refinanced when they could, rented out the basement for a few years, and rebuilt their emergency fund. But they lost several years of retirement contributions. Looking back, they say a house at eighty percent of their approval would have given them the same happiness, with none of the stress.",
+   "query": "Basement apartment rental",
+   "caption": "THE QUIET FIX",
+   "cuts": 3
+  },
+  {
+   "text": "Second, Robert. His younger brother needed a car loan and couldn't qualify, so Robert co signed. Eighteen months later, his brother lost his job and stopped paying. The lender came to Robert. He paid the remaining balance to protect his credit, but the relationship with his brother was strained for years. Robert says he'd have rather given his brother a few thousand dollars toward a cheaper car.",
+   "query": "Brothers serious conversation",
+   "caption": "ROBERT: THE CO SIGNER",
+   "cuts": 3
+  },
+  {
+   "text": "And third, Diane. She worked at a growing company for fifteen years and kept most of her retirement in company stock, because the price kept going up. When the industry changed, the stock fell sharply, and layoffs followed. She kept her job, but her retirement savings shrank dramatically. She now keeps no more than a small share in any single company. Diversification isn't exciting. It's protection.",
+   "query": "Woman looking at falling stock chart",
+   "caption": "DIANE: ONE BASKET",
+   "cuts": 3
+  },
+  {
+   "text": "Notice that none of these people were reckless. Each decision looked responsible, generous or loyal at the time. That's what makes these traps so hard to see. And that's why a simple filter, asked every time, is more powerful than willpower or luck.",
+   "query": "Road with hidden potholes",
+   "caption": "THEY LOOKED RESPONSIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer a few questions people ask about these traps.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Is buying a home a trap? No. Buying a home you can comfortably afford, with an emergency fund left over, can be a great decision. The trap is buying at the absolute limit of your approval, with no margin. The house is fine. The stretch is the problem.",
+   "query": "Happy family new home",
+   "caption": "IS BUYING A TRAP?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. What if I've already co signed? Stay informed. Ask the borrower for access to the account, or regular updates. Set up alerts if you can. If they start to struggle, act early. Talk to them and the lender before late payments pile up. And avoid co signing again unless you'd be comfortable paying the whole debt.",
+   "query": "Phone with account alerts",
+   "caption": "ALREADY CO SIGNED?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Is life insurance a trap? Term life insurance can be a smart, affordable way to protect people who depend on your income. Permanent policies, like whole life, are more complex and much more expensive, and they suit some situations, like certain estate planning needs. The trap is buying a complex policy mainly as an investment without understanding the costs. Ask how the agent is paid, and compare.",
+   "query": "Insurance policy documents",
+   "caption": "LIFE INSURANCE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. How do I say no to family without hurting them? Be honest and kind. Something like, I love you and I want to help, but I'm not able to lend money or co sign right now. Then, if you can, offer another kind of help, like time, advice, or a small gift. A clear no often protects the relationship better than a reluctant yes.",
+   "query": "Family hug",
+   "caption": "SAYING NO WITH LOVE",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. What's the most common trap of all? Probably the permanent upgrade after a raise. It looks completely reasonable, it's socially approved, and it quietly locks in higher spending for years. The fix is to decide where your next raise goes before you get it.",
+   "query": "Pay raise letter",
+   "caption": "THE MOST COMMON TRAP",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. How do I undo a trap without feeling ashamed? Remember that every trap on this list was designed, or socially approved, to look like a good decision. Falling for one doesn't mean you're bad with money. It means you're human. The skill isn't never making mistakes. It's noticing them early, fixing the next decision, and not letting pride keep you stuck in the old one.",
+   "query": "Person walking forward confident",
+   "caption": "NO SHAME, JUST NEXT STEPS",
+   "cuts": 3
+  },
+  {
+   "text": "And question seven. Which trap should I fix first? Start with the one that costs you the most every month. For many people, that's housing or a car. For others, it's high interest debt, or a missing employer match. Fix the biggest monthly leak first, then the next one. Small fixes, stacked over a year, add up faster than you'd expect.",
+   "query": "Water leak bucket",
+   "caption": "FIX THE BIGGEST LEAK FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. The math traps: the biggest house you're approved for, paying off a cheap mortgage before your match, keeping everything in savings, buying because it's on sale, extended warranties on small things, and the big tax refund.",
+   "query": "Checklist clipboard",
+   "caption": "THE MATH TRAPS",
+   "cuts": 3,
+   "chapter": "Recap: all 15 traps"
+  },
+  {
+   "text": "The emotional traps: any degree at any cost, co signing, lending to family, the timeshare, you deserve it upgrades, and keeping up appearances.",
+   "query": "Heart and money illustration",
+   "caption": "THE EMOTIONAL TRAPS",
+   "cuts": 3
+  },
+  {
+   "text": "And the long term traps: loading up on company stock, raiding your 401k, and paying for college before retirement. Plus the filter: who benefits, total cost, permanent or not, what if it goes wrong, would I do it unseen, can I undo it, and will I feel the same in thirty days.",
+   "query": "Long road to horizon",
+   "caption": "THE LONG TERM TRAPS",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the full plan for avoiding traps and building wealth step by step, it's in my playbook. The link is in the description. And if you liked this one, watch my video on twenty money myths that keep you poor. They're close cousins of these traps. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

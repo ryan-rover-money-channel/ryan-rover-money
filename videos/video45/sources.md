@@ -1,0 +1,6 @@
+- Federal Reserve, Consumer Credit G.19 (student loans outstanding above $1.6 trillion)
+- IRS, retirement plan early distributions (10% additional tax before 59 1/2, with exceptions); IRS Tax Withholding Estimator
+- Federal Trade Commission, Cosigning a Loan (required cosigner notice); FTC guidance on timeshare resale scams
+- U.S. Department of Education, College Scorecard
+- Enron collapse (2001): employee 401(k) concentration in company stock, as widely reported
+- Growth and inflation figures: stated illustrative math
