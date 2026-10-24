@@ -1,0 +1,4175 @@
+1
+00:00:00,000 --> 00:00:01,973
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,153 --> 00:00:04,777
+Here's something most money advice gets wrong.
+
+3
+00:00:04,957 --> 00:00:06,859
+It assumes people are broke because they
+
+4
+00:00:06,859 --> 00:00:08,428
+don't know the right information.
+
+5
+00:00:08,608 --> 00:00:09,920
+Spend less than you earn.
+
+6
+00:00:10,100 --> 00:00:11,076
+Avoid debt.
+
+7
+00:00:11,256 --> 00:00:12,242
+Invest early.
+
+8
+00:00:12,422 --> 00:00:13,572
+We all know that.
+
+9
+00:00:13,752 --> 00:00:15,432
+And yet millions of smart,
+
+10
+00:00:15,432 --> 00:00:17,630
+hardworking people still struggle.
+
+11
+00:00:17,810 --> 00:00:18,030
+Why?
+
+12
+00:00:18,210 --> 00:00:20,741
+Because the problem usually isn't knowledge.
+
+13
+00:00:20,921 --> 00:00:22,001
+It's psychology.
+
+14
+00:00:22,181 --> 00:00:24,514
+Your brain has built in shortcuts that
+
+15
+00:00:24,514 --> 00:00:26,295
+work great for everyday life,
+
+16
+00:00:26,295 --> 00:00:27,707
+and terribly for money.
+
+17
+00:00:27,887 --> 00:00:30,441
+Today, twenty of those mental traps,
+
+18
+00:00:30,441 --> 00:00:32,357
+and how to escape each one.
+
+19
+00:00:32,706 --> 00:00:34,573
+Here's a study that changes how you
+
+20
+00:00:34,573 --> 00:00:35,853
+think about being broke.
+
+21
+00:00:36,033 --> 00:00:39,131
+Researchers published in the journal Science found
+
+22
+00:00:39,131 --> 00:00:41,423
+that the same farmers in India scored
+
+23
+00:00:41,423 --> 00:00:44,583
+noticeably worse on cognitive tests before harvest,
+
+24
+00:00:44,583 --> 00:00:45,884
+when money was tight,
+
+25
+00:00:45,884 --> 00:00:47,061
+than after harvest,
+
+26
+00:00:47,061 --> 00:00:48,548
+when they had been paid.
+
+27
+00:00:48,899 --> 00:00:50,350
+Think about what that means.
+
+28
+00:00:50,530 --> 00:00:51,513
+The same people,
+
+29
+00:00:51,513 --> 00:00:53,173
+with the same intelligence,
+
+30
+00:00:53,173 --> 00:00:56,000
+performed worse on mental tests simply because
+
+31
+00:00:56,000 --> 00:00:57,844
+they were worried about money.
+
+32
+00:00:58,024 --> 00:01:01,081
+The researchers argued that financial stress takes
+
+33
+00:01:01,081 --> 00:01:02,304
+up mental bandwidth,
+
+34
+00:01:02,304 --> 00:01:04,688
+leaving less room for careful thinking.
+
+35
+00:01:04,868 --> 00:01:05,844
+In other words,
+
+36
+00:01:05,844 --> 00:01:08,316
+being broke doesn't just come from bad
+
+37
+00:01:08,316 --> 00:01:08,966
+decisions.
+
+38
+00:01:09,146 --> 00:01:10,540
+It can also cause them.
+
+39
+00:01:10,720 --> 00:01:13,332
+That's one of the most important ideas
+
+40
+00:01:13,332 --> 00:01:14,776
+in this entire video,
+
+41
+00:01:14,776 --> 00:01:17,320
+and it's why willpower alone so often
+
+42
+00:01:17,320 --> 00:01:17,732
+fails.
+
+43
+00:01:18,082 --> 00:01:20,431
+We'll go through these twenty traps from
+
+44
+00:01:20,431 --> 00:01:21,194
+three angles.
+
+45
+00:01:21,374 --> 00:01:22,848
+First, the numbers.
+
+46
+00:01:23,028 --> 00:01:25,262
+The ways our brains get money math
+
+47
+00:01:25,262 --> 00:01:27,759
+wrong, from big interest rates to tiny
+
+48
+00:01:27,759 --> 00:01:28,415
+purchases.
+
+49
+00:01:28,595 --> 00:01:30,523
+Second, the psychology.
+
+50
+00:01:30,703 --> 00:01:32,756
+The emotional traps around fear,
+
+51
+00:01:32,756 --> 00:01:34,360
+comparison and avoidance.
+
+52
+00:01:34,540 --> 00:01:36,200
+And third, the playbook.
+
+53
+00:01:36,380 --> 00:01:38,263
+The habits of mind that keep us
+
+54
+00:01:38,263 --> 00:01:40,875
+stuck, along with the research backed tools
+
+55
+00:01:40,875 --> 00:01:42,940
+that actually work to get unstuck.
+
+56
+00:01:43,120 --> 00:01:45,291
+None of this is about blaming anyone.
+
+57
+00:01:45,471 --> 00:01:48,116
+It's about understanding the machine between your
+
+58
+00:01:48,116 --> 00:01:49,682
+ears, so you can work with it
+
+59
+00:01:49,682 --> 00:01:50,869
+instead of against it.
+
+60
+00:01:51,219 --> 00:01:52,944
+Let's begin with the numbers,
+
+61
+00:01:52,944 --> 00:01:54,965
+and a trap that costs people money
+
+62
+00:01:54,965 --> 00:01:56,630
+every single time they shop.
+
+63
+00:01:56,979 --> 00:02:00,170
+Our sources are published research in behavioral
+
+64
+00:02:00,170 --> 00:02:01,832
+economics and psychology.
+
+65
+00:02:02,012 --> 00:02:05,246
+Work by Nobel Prize winners Daniel Kahneman
+
+66
+00:02:05,246 --> 00:02:06,674
+and Richard Thaler,
+
+67
+00:02:06,674 --> 00:02:10,358
+research by Sendhil Mullainathan and Eldar Shafir
+
+68
+00:02:10,358 --> 00:02:13,216
+on scarcity, studies by Drazen Prelec,
+
+69
+00:02:13,216 --> 00:02:16,223
+Dan Ariely, Brigitte Madrian and others.
+
+70
+00:02:16,403 --> 00:02:18,284
+I'll name each study as we go.
+
+71
+00:02:18,464 --> 00:02:21,726
+Some famous psychology findings have had trouble
+
+72
+00:02:21,726 --> 00:02:24,988
+replicating, so I've focused on well established
+
+73
+00:02:24,988 --> 00:02:27,706
+ones, and I'll flag uncertainty where it
+
+74
+00:02:27,706 --> 00:02:28,181
+exists.
+
+75
+00:02:28,361 --> 00:02:31,318
+Growth examples use a stated seven percent
+
+76
+00:02:31,318 --> 00:02:32,867
+average yearly return,
+
+77
+00:02:32,867 --> 00:02:35,049
+an illustration, not a promise.
+
+78
+00:02:35,229 --> 00:02:36,542
+This is education,
+
+79
+00:02:36,542 --> 00:02:38,073
+not financial advice.
+
+80
+00:02:38,423 --> 00:02:39,155
+Angle one.
+
+81
+00:02:39,335 --> 00:02:40,124
+The numbers.
+
+82
+00:02:40,304 --> 00:02:42,549
+Seven ways your brain gets money math
+
+83
+00:02:42,549 --> 00:02:44,612
+wrong, often without you noticing.
+
+84
+00:02:44,961 --> 00:02:46,088
+Trap number one.
+
+85
+00:02:46,268 --> 00:02:46,860
+Anchoring.
+
+86
+00:02:47,040 --> 00:02:49,180
+The first number you see shapes every
+
+87
+00:02:49,180 --> 00:02:50,105
+number after it.
+
+88
+00:02:50,455 --> 00:02:51,993
+In a famous experiment,
+
+89
+00:02:51,993 --> 00:02:54,601
+Amos Tversky and Daniel Kahneman spun a
+
+90
+00:02:54,601 --> 00:02:57,143
+wheel of fortune that landed on either
+
+91
+00:02:57,143 --> 00:02:58,681
+a low or a high number,
+
+92
+00:02:58,681 --> 00:03:01,490
+then asked people to estimate a completely
+
+93
+00:03:01,490 --> 00:03:02,761
+unrelated quantity.
+
+94
+00:03:02,941 --> 00:03:05,256
+People who saw the higher number gave
+
+95
+00:03:05,256 --> 00:03:06,633
+much higher estimates.
+
+96
+00:03:06,813 --> 00:03:07,827
+A random number,
+
+97
+00:03:07,827 --> 00:03:10,045
+with no connection to the question,
+
+98
+00:03:10,045 --> 00:03:11,376
+pulled their answers.
+
+99
+00:03:11,556 --> 00:03:13,548
+That's anchoring, and stores,
+
+100
+00:03:13,548 --> 00:03:16,296
+car dealers and salespeople use it every
+
+101
+00:03:16,296 --> 00:03:16,571
+day.
+
+102
+00:03:16,921 --> 00:03:19,353
+Think of the original price crossed out
+
+103
+00:03:19,353 --> 00:03:20,788
+next to the sale price.
+
+104
+00:03:20,968 --> 00:03:23,603
+Or the expensive model placed beside the
+
+105
+00:03:23,603 --> 00:03:25,778
+one the store really wants you to
+
+106
+00:03:25,778 --> 00:03:26,041
+buy.
+
+107
+00:03:26,221 --> 00:03:28,236
+Or the car's sticker price that makes
+
+108
+00:03:28,236 --> 00:03:30,250
+the negotiated price feel like a win.
+
+109
+00:03:30,430 --> 00:03:32,434
+The anchor makes a high price seem
+
+110
+00:03:32,434 --> 00:03:34,261
+reasonable, even when it isn't.
+
+111
+00:03:34,441 --> 00:03:36,360
+You leave feeling you saved money,
+
+112
+00:03:36,360 --> 00:03:38,336
+when you may have simply spent less
+
+113
+00:03:38,336 --> 00:03:40,142
+than an inflated starting point.
+
+114
+00:03:40,492 --> 00:03:41,293
+Escape it.
+
+115
+00:03:41,473 --> 00:03:42,475
+Before you shop,
+
+116
+00:03:42,475 --> 00:03:43,916
+decide your own number,
+
+117
+00:03:43,916 --> 00:03:46,046
+based on your budget and research,
+
+118
+00:03:46,046 --> 00:03:47,173
+and write it down.
+
+119
+00:03:47,353 --> 00:03:50,023
+Ignore the crossed out price completely.
+
+120
+00:03:50,203 --> 00:03:52,158
+Ask yourself, would I pay this if
+
+121
+00:03:52,158 --> 00:03:54,290
+I had never seen the original price?
+
+122
+00:03:54,470 --> 00:03:56,177
+If not, it's not a deal.
+
+123
+00:03:56,357 --> 00:03:57,344
+It's an anchor.
+
+124
+00:03:57,694 --> 00:03:58,994
+Trap number two.
+
+125
+00:03:59,174 --> 00:04:00,254
+Mental accounting.
+
+126
+00:04:00,434 --> 00:04:02,766
+Treating some dollars as less real than
+
+127
+00:04:02,766 --> 00:04:03,185
+others.
+
+128
+00:04:03,536 --> 00:04:05,997
+Richard Thaler, who won the Nobel Prize
+
+129
+00:04:05,997 --> 00:04:08,775
+in economics, described how people put money
+
+130
+00:04:08,775 --> 00:04:10,037
+into mental buckets.
+
+131
+00:04:10,217 --> 00:04:12,690
+Money from a paycheck feels serious.
+
+132
+00:04:12,870 --> 00:04:14,683
+Money from a tax refund,
+
+133
+00:04:14,683 --> 00:04:16,874
+a bonus or a casino win feels
+
+134
+00:04:16,874 --> 00:04:18,083
+like play money.
+
+135
+00:04:18,263 --> 00:04:20,817
+Rationally, every dollar is the same.
+
+136
+00:04:20,997 --> 00:04:23,571
+But emotionally, we spend found money much
+
+137
+00:04:23,571 --> 00:04:24,306
+more easily.
+
+138
+00:04:24,656 --> 00:04:27,091
+This is why tax refunds often disappear
+
+139
+00:04:27,091 --> 00:04:29,463
+quickly, and why people can keep money
+
+140
+00:04:29,463 --> 00:04:31,898
+in a low interest savings account while
+
+141
+00:04:31,898 --> 00:04:34,396
+carrying a credit card balance at twenty
+
+142
+00:04:34,396 --> 00:04:34,896
+percent.
+
+143
+00:04:35,076 --> 00:04:37,525
+The savings bucket feels untouchable,
+
+144
+00:04:37,525 --> 00:04:39,975
+while the debt bucket feels separate.
+
+145
+00:04:40,155 --> 00:04:42,543
+In reality, using the savings to pay
+
+146
+00:04:42,543 --> 00:04:44,069
+off the expensive debt,
+
+147
+00:04:44,069 --> 00:04:46,391
+while keeping an emergency cushion,
+
+148
+00:04:46,391 --> 00:04:48,979
+would often leave them much better off.
+
+149
+00:04:49,329 --> 00:04:50,095
+Escape it.
+
+150
+00:04:50,275 --> 00:04:52,550
+Treat every dollar as the same dollar.
+
+151
+00:04:52,730 --> 00:04:54,391
+Before a windfall arrives,
+
+152
+00:04:54,391 --> 00:04:56,881
+decide in writing exactly where it will
+
+153
+00:04:56,881 --> 00:04:57,072
+go.
+
+154
+00:04:57,252 --> 00:04:59,653
+And look at your whole financial picture
+
+155
+00:04:59,653 --> 00:05:01,813
+at once, savings and debts together,
+
+156
+00:05:01,813 --> 00:05:03,673
+so the buckets don't trick you.
+
+157
+00:05:04,023 --> 00:05:05,427
+Trap number three.
+
+158
+00:05:05,607 --> 00:05:06,583
+Present bias.
+
+159
+00:05:06,763 --> 00:05:09,561
+Today always feels more important than tomorrow.
+
+160
+00:05:09,911 --> 00:05:12,912
+Economists have shown that people value rewards
+
+161
+00:05:12,912 --> 00:05:14,955
+now far more than rewards later,
+
+162
+00:05:14,955 --> 00:05:17,126
+even when the later reward is much
+
+163
+00:05:17,126 --> 00:05:17,573
+bigger.
+
+164
+00:05:17,753 --> 00:05:19,965
+Ask people whether they want one hundred
+
+165
+00:05:19,965 --> 00:05:22,177
+dollars today or one hundred ten dollars
+
+166
+00:05:22,177 --> 00:05:22,730
+in a week,
+
+167
+00:05:22,730 --> 00:05:24,278
+and many take the money now.
+
+168
+00:05:24,458 --> 00:05:26,484
+But ask about one hundred dollars in
+
+169
+00:05:26,484 --> 00:05:28,285
+a year versus one hundred ten in
+
+170
+00:05:28,285 --> 00:05:29,298
+a year and a week,
+
+171
+00:05:29,298 --> 00:05:30,367
+and most will wait.
+
+172
+00:05:30,547 --> 00:05:32,165
+The extra week is the same,
+
+173
+00:05:32,165 --> 00:05:33,903
+but the present pulls harder.
+
+174
+00:05:34,253 --> 00:05:37,051
+With money, present bias is why saving
+
+175
+00:05:37,051 --> 00:05:39,187
+for retirement feels so hard.
+
+176
+00:05:39,367 --> 00:05:41,132
+Retirement is decades away,
+
+177
+00:05:41,132 --> 00:05:43,094
+and the weekend is right here.
+
+178
+00:05:43,274 --> 00:05:45,366
+It's also why buy now pay later
+
+179
+00:05:45,366 --> 00:05:47,592
+and credit cards are so tempting.
+
+180
+00:05:47,772 --> 00:05:49,990
+They let you enjoy the present and
+
+181
+00:05:49,990 --> 00:05:52,077
+push the cost into a future that
+
+182
+00:05:52,077 --> 00:05:53,055
+feels abstract.
+
+183
+00:05:53,405 --> 00:05:54,124
+Escape it.
+
+184
+00:05:54,304 --> 00:05:55,860
+Make the future feel real.
+
+185
+00:05:56,040 --> 00:05:58,682
+Some research suggests that people who view
+
+186
+00:05:58,682 --> 00:06:01,508
+age progressed photos of themselves save more.
+
+187
+00:06:01,688 --> 00:06:03,504
+You can also take the decision out
+
+188
+00:06:03,504 --> 00:06:04,786
+of the present entirely,
+
+189
+00:06:04,786 --> 00:06:07,296
+with automatic transfers that happen before you
+
+190
+00:06:07,296 --> 00:06:08,097
+can be tempted.
+
+191
+00:06:08,447 --> 00:06:09,631
+Trap number four.
+
+192
+00:06:09,811 --> 00:06:11,564
+Exponential growth bias.
+
+193
+00:06:11,744 --> 00:06:14,461
+We underestimate how fast things compound.
+
+194
+00:06:14,811 --> 00:06:18,225
+Economists Victor Stango and Jonathan Zinman studied
+
+195
+00:06:18,225 --> 00:06:20,917
+what they called exponential growth bias.
+
+196
+00:06:21,097 --> 00:06:23,356
+Most people think of growth in straight
+
+197
+00:06:23,356 --> 00:06:25,614
+lines, but compound interest grows in a
+
+198
+00:06:25,614 --> 00:06:25,962
+curve.
+
+199
+00:06:26,142 --> 00:06:28,838
+So people tend to underestimate how quickly
+
+200
+00:06:28,838 --> 00:06:31,032
+savings can grow over long periods,
+
+201
+00:06:31,032 --> 00:06:33,038
+and how quickly debt can grow at
+
+202
+00:06:33,038 --> 00:06:34,292
+high interest rates.
+
+203
+00:06:34,643 --> 00:06:35,653
+Here's an example.
+
+204
+00:06:35,833 --> 00:06:37,775
+One hundred dollars a month at a
+
+205
+00:06:37,775 --> 00:06:40,507
+seven percent average yearly return for forty
+
+206
+00:06:40,507 --> 00:06:40,871
+years.
+
+207
+00:06:41,051 --> 00:06:43,341
+Most people guess well under one hundred
+
+208
+00:06:43,341 --> 00:06:44,314
+thousand dollars.
+
+209
+00:06:44,494 --> 00:06:47,111
+The actual result is roughly two hundred
+
+210
+00:06:47,111 --> 00:06:48,093
+sixty thousand.
+
+211
+00:06:48,273 --> 00:06:49,325
+On the debt side,
+
+212
+00:06:49,325 --> 00:06:52,110
+people underestimate how much a high interest
+
+213
+00:06:52,110 --> 00:06:54,337
+balance grows when they only pay the
+
+214
+00:06:54,337 --> 00:06:54,832
+minimum.
+
+215
+00:06:55,012 --> 00:06:57,616
+The research found that people with stronger
+
+216
+00:06:57,616 --> 00:07:00,279
+exponential growth bias tended to borrow more
+
+217
+00:07:00,279 --> 00:07:01,108
+and save less.
+
+218
+00:07:01,458 --> 00:07:02,177
+Escape it.
+
+219
+00:07:02,357 --> 00:07:03,414
+Stop guessing.
+
+220
+00:07:03,594 --> 00:07:06,514
+Use a compound interest calculator for both
+
+221
+00:07:06,514 --> 00:07:07,669
+savings and debt.
+
+222
+00:07:07,849 --> 00:07:09,328
+Seeing the actual curve,
+
+223
+00:07:09,328 --> 00:07:11,238
+on screen, is the best cure for
+
+224
+00:07:11,238 --> 00:07:12,656
+straight line thinking.
+
+225
+00:07:13,006 --> 00:07:14,039
+Here's that curve.
+
+226
+00:07:14,219 --> 00:07:16,023
+One hundred dollars a month,
+
+227
+00:07:16,023 --> 00:07:17,054
+for forty years,
+
+228
+00:07:17,054 --> 00:07:19,696
+at a seven percent average yearly return,
+
+229
+00:07:19,696 --> 00:07:22,144
+grows to roughly two hundred sixty two
+
+230
+00:07:22,144 --> 00:07:23,240
+thousand dollars.
+
+231
+00:07:23,420 --> 00:07:25,196
+You'd put in forty eight thousand.
+
+232
+00:07:25,546 --> 00:07:26,962
+Trap number five.
+
+233
+00:07:27,142 --> 00:07:28,965
+The sunk cost fallacy.
+
+234
+00:07:29,145 --> 00:07:31,585
+Sticking with something because you've already paid
+
+235
+00:07:31,585 --> 00:07:31,919
+for it.
+
+236
+00:07:32,270 --> 00:07:35,248
+Researchers Hal Arkes and Catherine Blumer showed
+
+237
+00:07:35,248 --> 00:07:38,227
+that people often continue investing in something
+
+238
+00:07:38,227 --> 00:07:40,963
+simply because they've already put money into
+
+239
+00:07:40,963 --> 00:07:43,334
+it, even when quitting would be better.
+
+240
+00:07:43,514 --> 00:07:46,252
+Money that's already spent and can't be
+
+241
+00:07:46,252 --> 00:07:48,007
+recovered is a sunk cost.
+
+242
+00:07:48,187 --> 00:07:51,287
+Rationally, it shouldn't affect future decisions.
+
+243
+00:07:51,467 --> 00:07:53,301
+Emotionally, it does.
+
+244
+00:07:53,652 --> 00:07:55,823
+Think of repairing an old car again
+
+245
+00:07:55,823 --> 00:07:58,368
+and again because you've already spent so
+
+246
+00:07:58,368 --> 00:07:59,050
+much on it.
+
+247
+00:07:59,230 --> 00:08:01,809
+Or holding a losing investment because selling
+
+248
+00:08:01,809 --> 00:08:03,491
+would make the loss feel real.
+
+249
+00:08:03,671 --> 00:08:05,613
+Or finishing a meal you don't enjoy
+
+250
+00:08:05,613 --> 00:08:06,945
+because you paid for it.
+
+251
+00:08:07,125 --> 00:08:08,033
+In each case,
+
+252
+00:08:08,033 --> 00:08:10,755
+the past payment pushes you toward more
+
+253
+00:08:10,755 --> 00:08:12,361
+spending, or more loss.
+
+254
+00:08:12,712 --> 00:08:13,385
+Escape it.
+
+255
+00:08:13,565 --> 00:08:14,949
+When making a decision,
+
+256
+00:08:14,949 --> 00:08:16,514
+ask only about the future.
+
+257
+00:08:16,694 --> 00:08:18,534
+Ignoring what I've already spent,
+
+258
+00:08:18,534 --> 00:08:20,374
+what's the best choice from here?
+
+259
+00:08:20,554 --> 00:08:22,372
+If you were starting fresh today,
+
+260
+00:08:22,372 --> 00:08:23,584
+would you choose this?
+
+261
+00:08:23,764 --> 00:08:25,533
+If not, it may be time to
+
+262
+00:08:25,533 --> 00:08:26,028
+let go.
+
+263
+00:08:26,379 --> 00:08:27,818
+Trap number six.
+
+264
+00:08:27,998 --> 00:08:29,949
+Painless payments make you spend more.
+
+265
+00:08:30,299 --> 00:08:32,948
+Drazen Prelec and Duncan Simester ran a
+
+266
+00:08:32,948 --> 00:08:35,666
+famous study where people bid on tickets
+
+267
+00:08:35,666 --> 00:08:37,636
+to sold out basketball games.
+
+268
+00:08:37,816 --> 00:08:39,679
+Those told they had to pay by
+
+269
+00:08:39,679 --> 00:08:42,569
+credit card were willing to pay substantially
+
+270
+00:08:42,569 --> 00:08:44,689
+more, in some cases about double,
+
+271
+00:08:44,689 --> 00:08:46,744
+compared with those paying cash.
+
+272
+00:08:46,924 --> 00:08:49,498
+Paying with cash creates a small feeling
+
+273
+00:08:49,498 --> 00:08:50,012
+of pain.
+
+274
+00:08:50,192 --> 00:08:52,965
+Cards, and especially tapping a phone,
+
+275
+00:08:52,965 --> 00:08:54,279
+remove most of it.
+
+276
+00:08:54,629 --> 00:08:57,861
+Today, almost everything is designed to remove
+
+277
+00:08:57,861 --> 00:08:58,564
+that pain.
+
+278
+00:08:58,744 --> 00:09:00,106
+One click checkout,
+
+279
+00:09:00,106 --> 00:09:03,831
+saved cards, subscriptions that renew automatically,
+
+280
+00:09:03,831 --> 00:09:04,619
+tap to pay.
+
+281
+00:09:04,799 --> 00:09:07,111
+Each one makes spending feel lighter,
+
+282
+00:09:07,111 --> 00:09:08,236
+and more frequent.
+
+283
+00:09:08,416 --> 00:09:10,157
+It's not that cards are evil.
+
+284
+00:09:10,337 --> 00:09:12,334
+It's that they quietly remove one of
+
+285
+00:09:12,334 --> 00:09:13,832
+the brain's natural brakes.
+
+286
+00:09:14,182 --> 00:09:14,971
+Escape it.
+
+287
+00:09:15,151 --> 00:09:16,358
+Add friction back.
+
+288
+00:09:16,538 --> 00:09:19,116
+Delete saved cards from shopping sites.
+
+289
+00:09:19,296 --> 00:09:22,099
+Use cash for categories where you tend
+
+290
+00:09:22,099 --> 00:09:24,311
+to overspend, like eating out.
+
+291
+00:09:24,491 --> 00:09:26,571
+And check your card balance often,
+
+292
+00:09:26,571 --> 00:09:28,590
+so the spending feels real again.
+
+293
+00:09:28,940 --> 00:09:30,460
+Trap number seven.
+
+294
+00:09:30,640 --> 00:09:32,530
+The word free makes us lose our
+
+295
+00:09:32,530 --> 00:09:33,079
+judgment.
+
+296
+00:09:33,429 --> 00:09:36,278
+In experiments by Dan Ariely and colleagues,
+
+297
+00:09:36,278 --> 00:09:39,256
+people chose between a fancy chocolate truffle
+
+298
+00:09:39,256 --> 00:09:41,134
+for a small price and a cheap
+
+299
+00:09:41,134 --> 00:09:42,624
+chocolate for one cent.
+
+300
+00:09:42,804 --> 00:09:44,116
+Many chose the truffle.
+
+301
+00:09:44,296 --> 00:09:46,437
+But when both prices dropped by one
+
+302
+00:09:46,437 --> 00:09:48,394
+cent, making the cheap one free,
+
+303
+00:09:48,394 --> 00:09:51,147
+people switched dramatically to the free one,
+
+304
+00:09:51,147 --> 00:09:53,777
+even though the price difference stayed the
+
+305
+00:09:53,777 --> 00:09:54,083
+same.
+
+306
+00:09:54,263 --> 00:09:56,132
+Zero isn't just a low price.
+
+307
+00:09:56,312 --> 00:09:58,367
+It feels like a different category.
+
+308
+00:09:58,717 --> 00:10:00,621
+Businesses use this constantly.
+
+309
+00:10:00,801 --> 00:10:03,074
+Free shipping if you spend thirty five
+
+310
+00:10:03,074 --> 00:10:03,552
+dollars.
+
+311
+00:10:03,732 --> 00:10:05,253
+Buy one, get one free.
+
+312
+00:10:05,433 --> 00:10:07,537
+A free trial that turns into a
+
+313
+00:10:07,537 --> 00:10:08,800
+paid subscription.
+
+314
+00:10:08,980 --> 00:10:10,721
+Free gifts with purchase.
+
+315
+00:10:10,901 --> 00:10:12,772
+Often, the free part leads us to
+
+316
+00:10:12,772 --> 00:10:14,350
+spend more than we planned.
+
+317
+00:10:14,699 --> 00:10:15,524
+Escape it.
+
+318
+00:10:15,704 --> 00:10:16,758
+When you see free,
+
+319
+00:10:16,758 --> 00:10:18,281
+ask what it's costing you.
+
+320
+00:10:18,461 --> 00:10:20,294
+Did you add items just to qualify
+
+321
+00:10:20,294 --> 00:10:21,294
+for free shipping?
+
+322
+00:10:21,474 --> 00:10:23,462
+Will you remember to cancel that free
+
+323
+00:10:23,462 --> 00:10:23,784
+trial?
+
+324
+00:10:23,964 --> 00:10:25,940
+Put a reminder in your calendar the
+
+325
+00:10:25,940 --> 00:10:27,633
+day you sign up for any trial.
+
+326
+00:10:27,983 --> 00:10:29,985
+You might think these traps only fool
+
+327
+00:10:29,985 --> 00:10:30,851
+careless people.
+
+328
+00:10:31,031 --> 00:10:31,681
+They don't.
+
+329
+00:10:31,861 --> 00:10:34,648
+Kahneman described two systems of thinking.
+
+330
+00:10:34,828 --> 00:10:36,182
+System one is fast,
+
+331
+00:10:36,182 --> 00:10:37,893
+automatic and emotional.
+
+332
+00:10:38,073 --> 00:10:39,617
+System two is slow,
+
+333
+00:10:39,617 --> 00:10:41,242
+careful and logical.
+
+334
+00:10:41,422 --> 00:10:43,021
+Most daily decisions,
+
+335
+00:10:43,021 --> 00:10:44,847
+including most spending,
+
+336
+00:10:44,847 --> 00:10:46,217
+run on system one.
+
+337
+00:10:46,397 --> 00:10:48,823
+It's efficient, but it's also where these
+
+338
+00:10:48,823 --> 00:10:49,474
+traps live.
+
+339
+00:10:49,823 --> 00:10:52,293
+Even experts fall for them when they're
+
+340
+00:10:52,293 --> 00:10:54,003
+tired, rushed or emotional.
+
+341
+00:10:54,183 --> 00:10:56,058
+That's why stores play music,
+
+342
+00:10:56,058 --> 00:10:58,451
+use countdown timers and put candy at
+
+343
+00:10:58,451 --> 00:10:59,291
+the checkout.
+
+344
+00:10:59,471 --> 00:11:01,852
+They're designed to catch system one when
+
+345
+00:11:01,852 --> 00:11:03,187
+system two is off duty.
+
+346
+00:11:03,367 --> 00:11:05,189
+Being smart doesn't protect you.
+
+347
+00:11:05,369 --> 00:11:06,635
+Being prepared does.
+
+348
+00:11:06,984 --> 00:11:08,999
+The solution isn't to try harder in
+
+349
+00:11:08,999 --> 00:11:09,748
+every moment.
+
+350
+00:11:09,928 --> 00:11:12,795
+Nobody can think carefully about every purchase.
+
+351
+00:11:12,975 --> 00:11:14,977
+The solution is to make a few
+
+352
+00:11:14,977 --> 00:11:16,703
+big decisions in advance,
+
+353
+00:11:16,703 --> 00:11:18,428
+when system two is awake,
+
+354
+00:11:18,428 --> 00:11:20,568
+and let systems carry them out.
+
+355
+00:11:20,748 --> 00:11:22,678
+That's the theme you'll see again and
+
+356
+00:11:22,678 --> 00:11:23,825
+again in the playbook.
+
+357
+00:11:24,175 --> 00:11:25,173
+That's angle one.
+
+358
+00:11:25,353 --> 00:11:27,664
+Anchoring, mental accounting,
+
+359
+00:11:27,664 --> 00:11:30,693
+present bias, exponential growth bias,
+
+360
+00:11:30,693 --> 00:11:34,119
+sunk costs, painless payments and the power
+
+361
+00:11:34,119 --> 00:11:34,757
+of free.
+
+362
+00:11:34,937 --> 00:11:36,272
+Now angle two.
+
+363
+00:11:36,452 --> 00:11:37,567
+The psychology.
+
+364
+00:11:37,747 --> 00:11:39,610
+These traps are more emotional,
+
+365
+00:11:39,610 --> 00:11:41,474
+and in many ways more powerful.
+
+366
+00:11:41,823 --> 00:11:44,360
+The emotional traps are about fear,
+
+367
+00:11:44,360 --> 00:11:46,317
+shame, comparison and hope.
+
+368
+00:11:46,497 --> 00:11:48,589
+They explain why people avoid looking at
+
+369
+00:11:48,589 --> 00:11:50,734
+their accounts, keep up with friends they
+
+370
+00:11:50,734 --> 00:11:52,252
+can't afford to keep up with,
+
+371
+00:11:52,252 --> 00:11:54,031
+and expect things to get better on
+
+372
+00:11:54,031 --> 00:11:54,554
+their own.
+
+373
+00:11:54,734 --> 00:11:55,985
+They're deeply human,
+
+374
+00:11:55,985 --> 00:11:58,249
+and recognizing them is the first step
+
+375
+00:11:58,249 --> 00:11:59,262
+to escaping them.
+
+376
+00:11:59,611 --> 00:12:00,865
+Trap number eight.
+
+377
+00:12:01,045 --> 00:12:02,264
+The scarcity tunnel.
+
+378
+00:12:02,614 --> 00:12:04,145
+In their book Scarcity,
+
+379
+00:12:04,145 --> 00:12:07,538
+Sendhil Mullainathan and Eldar Shafir described how
+
+380
+00:12:07,538 --> 00:12:10,532
+running short of money creates tunnel vision.
+
+381
+00:12:10,712 --> 00:12:13,208
+When you're worried about this month's rent,
+
+382
+00:12:13,208 --> 00:12:15,533
+it's very hard to think about retirement,
+
+383
+00:12:15,533 --> 00:12:16,610
+or even next month.
+
+384
+00:12:16,790 --> 00:12:18,741
+The urgent crowds out the important.
+
+385
+00:12:19,090 --> 00:12:21,118
+This is why payday loans and high
+
+386
+00:12:21,118 --> 00:12:23,699
+interest credit can seem reasonable in the
+
+387
+00:12:23,699 --> 00:12:24,129
+moment.
+
+388
+00:12:24,309 --> 00:12:26,724
+They solve the problem inside the tunnel,
+
+389
+00:12:26,724 --> 00:12:29,374
+today's bill, while creating a bigger problem
+
+390
+00:12:29,374 --> 00:12:30,021
+outside it.
+
+391
+00:12:30,201 --> 00:12:32,094
+It's not a lack of intelligence.
+
+392
+00:12:32,274 --> 00:12:34,863
+It's what scarcity does to anyone's thinking.
+
+393
+00:12:35,212 --> 00:12:35,932
+Escape it.
+
+394
+00:12:36,112 --> 00:12:37,874
+Build even a small buffer,
+
+395
+00:12:37,874 --> 00:12:39,364
+a few hundred dollars,
+
+396
+00:12:39,364 --> 00:12:40,652
+as fast as you can.
+
+397
+00:12:40,832 --> 00:12:42,799
+Many people find that even a small
+
+398
+00:12:42,799 --> 00:12:44,303
+cushion widens the tunnel.
+
+399
+00:12:44,483 --> 00:12:46,925
+And make important long term decisions,
+
+400
+00:12:46,925 --> 00:12:49,491
+like setting up retirement contributions,
+
+401
+00:12:49,491 --> 00:12:50,868
+during calmer moments,
+
+402
+00:12:50,868 --> 00:12:53,748
+so they run automatically when stress returns.
+
+403
+00:12:54,097 --> 00:12:55,479
+Trap number nine.
+
+404
+00:12:55,659 --> 00:12:56,785
+The ostrich effect.
+
+405
+00:12:56,965 --> 00:13:00,065
+Avoiding information when you expect bad news.
+
+406
+00:13:00,415 --> 00:13:02,352
+Researchers George Loewenstein,
+
+407
+00:13:02,352 --> 00:13:04,977
+Duane Seppi and Niklas Karlsson found that
+
+408
+00:13:04,977 --> 00:13:07,663
+investors logged in to check their accounts
+
+409
+00:13:07,663 --> 00:13:09,663
+more often when markets were up,
+
+410
+00:13:09,663 --> 00:13:12,037
+and less often when markets were down.
+
+411
+00:13:12,217 --> 00:13:14,674
+People avoid information that might make them
+
+412
+00:13:14,674 --> 00:13:15,166
+feel bad.
+
+413
+00:13:15,346 --> 00:13:18,091
+With money, that can mean unopened bills,
+
+414
+00:13:18,091 --> 00:13:20,501
+unchecked balances and ignored debt.
+
+415
+00:13:20,850 --> 00:13:22,990
+The problem is that money problems grow
+
+416
+00:13:22,990 --> 00:13:23,648
+in the dark.
+
+417
+00:13:23,828 --> 00:13:24,874
+Fees pile up,
+
+418
+00:13:24,874 --> 00:13:26,562
+fraud goes unnoticed,
+
+419
+00:13:26,562 --> 00:13:28,089
+and debt compounds.
+
+420
+00:13:28,269 --> 00:13:30,286
+By the time people finally look,
+
+421
+00:13:30,286 --> 00:13:31,988
+the problem is much bigger,
+
+422
+00:13:31,988 --> 00:13:34,446
+which makes the next look even scarier.
+
+423
+00:13:34,795 --> 00:13:35,550
+Escape it.
+
+424
+00:13:35,730 --> 00:13:37,704
+Make looking small and routine.
+
+425
+00:13:37,884 --> 00:13:40,062
+Five minutes, once a week,
+
+426
+00:13:40,062 --> 00:13:42,156
+same time, with a coffee.
+
+427
+00:13:42,336 --> 00:13:43,475
+Open every account,
+
+428
+00:13:43,475 --> 00:13:44,553
+read every number,
+
+429
+00:13:44,553 --> 00:13:45,332
+and close it.
+
+430
+00:13:45,512 --> 00:13:47,311
+Familiarity shrinks fear.
+
+431
+00:13:47,491 --> 00:13:48,760
+After a few weeks,
+
+432
+00:13:48,760 --> 00:13:51,509
+most people find the weekly check takes
+
+433
+00:13:51,509 --> 00:13:54,116
+less time and causes far less anxiety
+
+434
+00:13:54,116 --> 00:13:55,456
+than they expected.
+
+435
+00:13:55,805 --> 00:13:57,094
+Trap number ten.
+
+436
+00:13:57,274 --> 00:13:58,458
+Social comparison.
+
+437
+00:13:58,808 --> 00:14:00,863
+We judge our lives by comparing them
+
+438
+00:14:00,863 --> 00:14:01,548
+with others.
+
+439
+00:14:01,728 --> 00:14:04,325
+Researchers at the Federal Reserve Bank of
+
+440
+00:14:04,325 --> 00:14:06,861
+Philadelphia found that when someone in a
+
+441
+00:14:06,861 --> 00:14:08,654
+neighborhood won the lottery,
+
+442
+00:14:08,654 --> 00:14:11,065
+their neighbors were more likely to buy
+
+443
+00:14:11,065 --> 00:14:12,611
+visible things like cars,
+
+444
+00:14:12,611 --> 00:14:15,023
+and later more likely to face financial
+
+445
+00:14:15,023 --> 00:14:15,579
+distress.
+
+446
+00:14:15,759 --> 00:14:17,721
+Seeing others spend makes us spend.
+
+447
+00:14:18,071 --> 00:14:20,224
+Social media turned this up to the
+
+448
+00:14:20,224 --> 00:14:20,730
+maximum.
+
+449
+00:14:20,910 --> 00:14:23,317
+You compare your everyday life with everyone
+
+450
+00:14:23,317 --> 00:14:24,521
+else's highlight reel.
+
+451
+00:14:24,701 --> 00:14:26,919
+The vacation, the new kitchen,
+
+452
+00:14:26,919 --> 00:14:27,510
+the car.
+
+453
+00:14:27,690 --> 00:14:30,082
+You never see their credit card statements.
+
+454
+00:14:30,262 --> 00:14:32,132
+And comparison is a game you can't
+
+455
+00:14:32,132 --> 00:14:34,662
+win, because there's always someone with more.
+
+456
+00:14:35,012 --> 00:14:35,825
+Escape it.
+
+457
+00:14:36,005 --> 00:14:38,583
+Compare yourself with your past self instead.
+
+458
+00:14:38,763 --> 00:14:40,434
+Are you better off than last year?
+
+459
+00:14:40,614 --> 00:14:42,902
+Unfollow accounts that make you feel poor.
+
+460
+00:14:43,082 --> 00:14:45,413
+And remember, the people who look richest
+
+461
+00:14:45,413 --> 00:14:46,948
+are often the most in debt.
+
+462
+00:14:47,297 --> 00:14:48,784
+Trap number eleven.
+
+463
+00:14:48,964 --> 00:14:50,415
+Hedonic adaptation.
+
+464
+00:14:50,595 --> 00:14:51,907
+We get used to everything.
+
+465
+00:14:52,256 --> 00:14:54,581
+A classic study by Philip Brickman and
+
+466
+00:14:54,581 --> 00:14:57,824
+colleagues in nineteen seventy eight compared lottery
+
+467
+00:14:57,824 --> 00:15:00,332
+winners with other people and found that,
+
+468
+00:15:00,332 --> 00:15:01,189
+after a while,
+
+469
+00:15:01,189 --> 00:15:03,881
+the winners were not dramatically happier in
+
+470
+00:15:03,881 --> 00:15:04,737
+everyday life.
+
+471
+00:15:04,917 --> 00:15:07,924
+Psychologists call this hedonic adaptation.
+
+472
+00:15:08,104 --> 00:15:10,140
+We quickly get used to new things,
+
+473
+00:15:10,140 --> 00:15:11,935
+and they stop making us happy.
+
+474
+00:15:12,285 --> 00:15:13,750
+That's why the new car,
+
+475
+00:15:13,750 --> 00:15:16,169
+the bigger house or the upgraded phone
+
+476
+00:15:16,169 --> 00:15:18,078
+feels amazing for a few weeks,
+
+477
+00:15:18,078 --> 00:15:19,797
+and then just feels normal.
+
+478
+00:15:19,977 --> 00:15:21,832
+And then we want the next upgrade
+
+479
+00:15:21,832 --> 00:15:23,181
+to recapture the thrill.
+
+480
+00:15:23,361 --> 00:15:26,542
+That cycle, sometimes called the hedonic treadmill,
+
+481
+00:15:26,542 --> 00:15:29,411
+keeps people spending more without feeling any
+
+482
+00:15:29,411 --> 00:15:29,909
+happier.
+
+483
+00:15:30,259 --> 00:15:31,014
+Escape it.
+
+484
+00:15:31,194 --> 00:15:32,297
+Notice the fade.
+
+485
+00:15:32,477 --> 00:15:34,288
+After your next big purchase,
+
+486
+00:15:34,288 --> 00:15:36,599
+check in with yourself a month later.
+
+487
+00:15:36,779 --> 00:15:38,125
+Is it still exciting?
+
+488
+00:15:38,305 --> 00:15:39,977
+Use that knowledge next time.
+
+489
+00:15:40,157 --> 00:15:42,653
+And spend more on experiences and time
+
+490
+00:15:42,653 --> 00:15:45,610
+with people, which research suggests tends to
+
+491
+00:15:45,610 --> 00:15:47,843
+bring longer lasting satisfaction.
+
+492
+00:15:48,192 --> 00:15:49,934
+Let me pause here for a moment.
+
+493
+00:15:50,114 --> 00:15:52,357
+If this is helping you understand your
+
+494
+00:15:52,357 --> 00:15:53,479
+own money behavior,
+
+495
+00:15:53,479 --> 00:15:55,664
+please subscribe to Ryan Rover Money.
+
+496
+00:15:55,844 --> 00:15:57,946
+It's free and it helps more people
+
+497
+00:15:57,946 --> 00:15:59,060
+find these videos.
+
+498
+00:15:59,240 --> 00:16:00,522
+Okay, trap twelve,
+
+499
+00:16:00,522 --> 00:16:03,301
+which explains why so many people never
+
+500
+00:16:03,301 --> 00:16:04,940
+change anything at all.
+
+501
+00:16:05,289 --> 00:16:06,787
+Trap number twelve.
+
+502
+00:16:06,967 --> 00:16:08,442
+Status quo bias.
+
+503
+00:16:08,622 --> 00:16:11,071
+We stick with whatever we already have.
+
+504
+00:16:11,421 --> 00:16:13,622
+People tend to stay with their current
+
+505
+00:16:13,622 --> 00:16:16,518
+situation, even when switching would clearly help.
+
+506
+00:16:16,698 --> 00:16:18,475
+The same bank with high fees.
+
+507
+00:16:18,655 --> 00:16:20,919
+The same insurance company every year.
+
+508
+00:16:21,099 --> 00:16:22,968
+The same expensive phone plan.
+
+509
+00:16:23,148 --> 00:16:25,595
+Changing feels like effort and risk,
+
+510
+00:16:25,595 --> 00:16:26,410
+so we don't.
+
+511
+00:16:26,760 --> 00:16:29,249
+Brigitte Madrian and Dennis Shea studied a
+
+512
+00:16:29,249 --> 00:16:31,855
+company that switched its retirement plan to
+
+513
+00:16:31,855 --> 00:16:33,100
+automatic enrollment.
+
+514
+00:16:33,280 --> 00:16:36,571
+Participation among new employees jumped dramatically,
+
+515
+00:16:36,571 --> 00:16:38,582
+from well under half to the large
+
+516
+00:16:38,582 --> 00:16:39,131
+majority.
+
+517
+00:16:39,311 --> 00:16:40,518
+Nothing else changed.
+
+518
+00:16:40,698 --> 00:16:42,887
+People simply stuck with the default,
+
+519
+00:16:42,887 --> 00:16:43,833
+whatever it was.
+
+520
+00:16:44,183 --> 00:16:44,857
+Escape it.
+
+521
+00:16:45,037 --> 00:16:47,626
+Use status quo bias to your advantage.
+
+522
+00:16:47,806 --> 00:16:49,084
+Set good defaults,
+
+523
+00:16:49,084 --> 00:16:52,705
+like automatic savings and automatic bill payments,
+
+524
+00:16:52,705 --> 00:16:55,402
+so doing nothing means doing the right
+
+525
+00:16:55,402 --> 00:16:55,828
+thing.
+
+526
+00:16:56,008 --> 00:16:57,044
+And once a year,
+
+527
+00:16:57,044 --> 00:16:58,144
+review your bank,
+
+528
+00:16:58,144 --> 00:16:59,761
+insurance and phone plan,
+
+529
+00:16:59,761 --> 00:17:02,220
+and switch if there's a better option.
+
+530
+00:17:02,569 --> 00:17:04,241
+Trap number thirteen.
+
+531
+00:17:04,421 --> 00:17:05,849
+Optimism bias.
+
+532
+00:17:06,029 --> 00:17:08,630
+Believing bad things happen to other people.
+
+533
+00:17:08,980 --> 00:17:12,324
+Neuroscientist Tali Sharot and other researchers have
+
+534
+00:17:12,324 --> 00:17:15,417
+documented that most people tend to underestimate
+
+535
+00:17:15,417 --> 00:17:17,184
+their chances of bad events,
+
+536
+00:17:17,184 --> 00:17:18,068
+like job loss,
+
+537
+00:17:18,068 --> 00:17:19,393
+illness or accidents,
+
+538
+00:17:19,393 --> 00:17:22,296
+and overestimate their chances of good events.
+
+539
+00:17:22,476 --> 00:17:24,148
+Optimism helps us get out of bed
+
+540
+00:17:24,148 --> 00:17:24,932
+in the morning,
+
+541
+00:17:24,932 --> 00:17:26,551
+but it can leave us unprepared.
+
+542
+00:17:26,901 --> 00:17:29,742
+With money, optimism bias is why people
+
+543
+00:17:29,742 --> 00:17:31,272
+skip emergency funds,
+
+544
+00:17:31,272 --> 00:17:33,238
+carry too little insurance,
+
+545
+00:17:33,238 --> 00:17:36,224
+and assume their income will keep rising.
+
+546
+00:17:36,404 --> 00:17:38,448
+Most of the time things work out.
+
+547
+00:17:38,628 --> 00:17:40,277
+But the times they don't can be
+
+548
+00:17:40,277 --> 00:17:41,553
+financially devastating.
+
+549
+00:17:41,903 --> 00:17:42,658
+Escape it.
+
+550
+00:17:42,838 --> 00:17:44,835
+Plan for the bad scenario while hoping
+
+551
+00:17:44,835 --> 00:17:45,729
+for the good one.
+
+552
+00:17:45,909 --> 00:17:48,459
+Build an emergency fund of three to
+
+553
+00:17:48,459 --> 00:17:50,135
+six months of expenses.
+
+554
+00:17:50,315 --> 00:17:52,567
+Check your insurance for major gaps.
+
+555
+00:17:52,747 --> 00:17:54,448
+Then you can stay optimistic,
+
+556
+00:17:54,448 --> 00:17:56,149
+with a safety net underneath.
+
+557
+00:17:56,500 --> 00:17:58,067
+Trap number fourteen.
+
+558
+00:17:58,247 --> 00:17:59,269
+Loss aversion.
+
+559
+00:17:59,449 --> 00:18:02,107
+Losing hurts more than winning feels good.
+
+560
+00:18:02,458 --> 00:18:05,257
+Kahneman and Tversky found that losses feel
+
+561
+00:18:05,257 --> 00:18:08,122
+roughly twice as painful as equivalent gains
+
+562
+00:18:08,122 --> 00:18:08,773
+feel good.
+
+563
+00:18:08,953 --> 00:18:11,210
+Losing one hundred dollars hurts more than
+
+564
+00:18:11,210 --> 00:18:13,145
+finding one hundred dollars pleases.
+
+565
+00:18:13,325 --> 00:18:15,791
+This shapes many money decisions,
+
+566
+00:18:15,791 --> 00:18:17,585
+often in unhelpful ways.
+
+567
+00:18:17,936 --> 00:18:20,588
+Loss aversion can make people panic sell
+
+568
+00:18:20,588 --> 00:18:22,710
+investments during market drops,
+
+569
+00:18:22,710 --> 00:18:23,903
+locking in losses.
+
+570
+00:18:24,083 --> 00:18:26,388
+It can make them avoid investing at
+
+571
+00:18:26,388 --> 00:18:28,891
+all, keeping money in cash that slowly
+
+572
+00:18:28,891 --> 00:18:30,538
+loses value to inflation.
+
+573
+00:18:30,718 --> 00:18:32,800
+And it can make them hold losing
+
+574
+00:18:32,800 --> 00:18:34,167
+investments too long,
+
+575
+00:18:34,167 --> 00:18:36,314
+hoping to avoid admitting a loss.
+
+576
+00:18:36,664 --> 00:18:37,408
+Escape it.
+
+577
+00:18:37,588 --> 00:18:40,107
+Decide your plan before the market drops.
+
+578
+00:18:40,287 --> 00:18:42,100
+Write down what you'll do in a
+
+579
+00:18:42,100 --> 00:18:44,579
+crash, which for many long term investors
+
+580
+00:18:44,579 --> 00:18:45,848
+is to keep investing.
+
+581
+00:18:46,028 --> 00:18:48,071
+And stop checking investments daily.
+
+582
+00:18:48,251 --> 00:18:49,694
+The more often you look,
+
+583
+00:18:49,694 --> 00:18:51,676
+the more often you'll see losses.
+
+584
+00:18:52,026 --> 00:18:54,420
+Underneath these traps are a few basic
+
+585
+00:18:54,420 --> 00:18:54,987
+emotions.
+
+586
+00:18:55,167 --> 00:18:57,292
+Fear, shame, envy and hope.
+
+587
+00:18:57,472 --> 00:18:59,318
+Fear makes us avoid looking.
+
+588
+00:18:59,498 --> 00:19:01,286
+Shame makes us hide problems.
+
+589
+00:19:01,466 --> 00:19:03,312
+Envy makes us compare and spend.
+
+590
+00:19:03,492 --> 00:19:05,731
+Hope makes us believe things will sort
+
+591
+00:19:05,731 --> 00:19:06,615
+themselves out.
+
+592
+00:19:06,795 --> 00:19:08,652
+None of these emotions are wrong.
+
+593
+00:19:08,832 --> 00:19:09,506
+They're human.
+
+594
+00:19:09,686 --> 00:19:11,084
+But left unexamined,
+
+595
+00:19:11,084 --> 00:19:12,623
+they run our finances.
+
+596
+00:19:12,972 --> 00:19:16,471
+Surveys by the American Psychological Association have
+
+597
+00:19:16,471 --> 00:19:18,868
+consistently found money to be one of
+
+598
+00:19:18,868 --> 00:19:21,459
+the top sources of stress for Americans.
+
+599
+00:19:21,639 --> 00:19:23,409
+And stress, as we saw with the
+
+600
+00:19:23,409 --> 00:19:25,947
+farmers study, makes good decisions harder.
+
+601
+00:19:26,127 --> 00:19:27,520
+It becomes a cycle.
+
+602
+00:19:27,700 --> 00:19:29,699
+Money worries create stress,
+
+603
+00:19:29,699 --> 00:19:31,985
+stress leads to worse decisions,
+
+604
+00:19:31,985 --> 00:19:35,270
+and worse decisions create more money worries.
+
+605
+00:19:35,619 --> 00:19:38,455
+Breaking that cycle usually starts with one
+
+606
+00:19:38,455 --> 00:19:39,114
+small win.
+
+607
+00:19:39,294 --> 00:19:40,745
+Paying off one card.
+
+608
+00:19:40,925 --> 00:19:43,038
+Saving the first five hundred dollars.
+
+609
+00:19:43,218 --> 00:19:45,122
+Canceling three subscriptions.
+
+610
+00:19:45,302 --> 00:19:47,056
+Small wins create relief,
+
+611
+00:19:47,056 --> 00:19:48,809
+relief creates bandwidth,
+
+612
+00:19:48,809 --> 00:19:51,754
+and bandwidth makes the next good decision
+
+613
+00:19:51,754 --> 00:19:52,245
+easier.
+
+614
+00:19:52,425 --> 00:19:53,749
+Momentum is real.
+
+615
+00:19:53,929 --> 00:19:56,306
+Many people who turned their finances around
+
+616
+00:19:56,306 --> 00:19:58,306
+say the hardest part wasn't the math.
+
+617
+00:19:58,486 --> 00:19:59,932
+It was the first step,
+
+618
+00:19:59,932 --> 00:20:02,101
+and the second one came much more
+
+619
+00:20:02,101 --> 00:20:02,561
+easily.
+
+620
+00:20:02,910 --> 00:20:03,921
+That's angle two.
+
+621
+00:20:04,101 --> 00:20:05,635
+The scarcity tunnel,
+
+622
+00:20:05,635 --> 00:20:07,093
+the ostrich effect,
+
+623
+00:20:07,093 --> 00:20:10,008
+social comparison, hedonic adaptation,
+
+624
+00:20:10,008 --> 00:20:11,235
+status quo bias,
+
+625
+00:20:11,235 --> 00:20:13,690
+optimism bias and loss aversion.
+
+626
+00:20:13,870 --> 00:20:15,066
+Now angle three.
+
+627
+00:20:15,246 --> 00:20:15,989
+The playbook.
+
+628
+00:20:16,169 --> 00:20:18,379
+Six traps about habits and identity,
+
+629
+00:20:18,379 --> 00:20:20,773
+and the research backed tools that help
+
+630
+00:20:20,773 --> 00:20:21,939
+people escape them.
+
+631
+00:20:22,289 --> 00:20:24,098
+The good news about mental traps is
+
+632
+00:20:24,098 --> 00:20:25,389
+that they're predictable.
+
+633
+00:20:25,569 --> 00:20:27,880
+And anything predictable can be planned for.
+
+634
+00:20:28,060 --> 00:20:31,763
+Behavioral economists haven't just discovered the traps.
+
+635
+00:20:31,943 --> 00:20:34,326
+They've also tested tools that help people
+
+636
+00:20:34,326 --> 00:20:34,950
+avoid them.
+
+637
+00:20:35,130 --> 00:20:37,510
+This last group pairs each trap with
+
+638
+00:20:37,510 --> 00:20:38,369
+its antidote.
+
+639
+00:20:38,720 --> 00:20:40,391
+Trap number fifteen.
+
+640
+00:20:40,571 --> 00:20:41,639
+Decision fatigue.
+
+641
+00:20:41,990 --> 00:20:44,177
+Every day you make hundreds of decisions,
+
+642
+00:20:44,177 --> 00:20:46,310
+and many people find that their judgment
+
+643
+00:20:46,310 --> 00:20:47,911
+gets worse as the day goes on.
+
+644
+00:20:48,091 --> 00:20:50,871
+That's one reason late night online shopping
+
+645
+00:20:50,871 --> 00:20:52,072
+can be so tempting,
+
+646
+00:20:52,072 --> 00:20:54,537
+and why people tend to grab convenience
+
+647
+00:20:54,537 --> 00:20:55,927
+food after a long day.
+
+648
+00:20:56,107 --> 00:20:58,886
+Research on decision fatigue is debated,
+
+649
+00:20:58,886 --> 00:21:01,457
+but the experience of being too tired
+
+650
+00:21:01,457 --> 00:21:03,957
+to choose well is familiar to almost
+
+651
+00:21:03,957 --> 00:21:04,583
+everyone.
+
+652
+00:21:04,933 --> 00:21:07,214
+Stores and apps make it worse with
+
+653
+00:21:07,214 --> 00:21:08,288
+endless options.
+
+654
+00:21:08,468 --> 00:21:11,076
+Research by Sheena Iyengar and Mark Lepper
+
+655
+00:21:11,076 --> 00:21:13,559
+suggested that too many choices can make
+
+656
+00:21:13,559 --> 00:21:15,795
+people less likely to choose at all,
+
+657
+00:21:15,795 --> 00:21:18,278
+or less satisfied with what they choose.
+
+658
+00:21:18,458 --> 00:21:20,779
+With money, too many options can lead
+
+659
+00:21:20,779 --> 00:21:21,845
+to doing nothing,
+
+660
+00:21:21,845 --> 00:21:22,975
+or choosing badly.
+
+661
+00:21:23,325 --> 00:21:24,068
+Escape it.
+
+662
+00:21:24,248 --> 00:21:25,536
+Reduce decisions.
+
+663
+00:21:25,716 --> 00:21:27,251
+Plan meals for the week,
+
+664
+00:21:27,251 --> 00:21:29,362
+so dinner isn't a nightly choice.
+
+665
+00:21:29,542 --> 00:21:31,434
+Choose a simple investment,
+
+666
+00:21:31,434 --> 00:21:33,676
+like a broad low cost index fund
+
+667
+00:21:33,676 --> 00:21:35,077
+or target date fund,
+
+668
+00:21:35,077 --> 00:21:37,460
+so you're not constantly deciding.
+
+669
+00:21:37,640 --> 00:21:39,463
+Avoid shopping when you're tired.
+
+670
+00:21:39,813 --> 00:21:41,345
+Trap number sixteen.
+
+671
+00:21:41,525 --> 00:21:43,917
+Relying on willpower instead of commitment.
+
+672
+00:21:44,267 --> 00:21:47,289
+Richard Thaler and Shlomo Benartzi designed a
+
+673
+00:21:47,289 --> 00:21:49,572
+program called Save More Tomorrow.
+
+674
+00:21:49,752 --> 00:21:52,458
+Employees agreed in advance to increase their
+
+675
+00:21:52,458 --> 00:21:54,983
+retirement savings rate each time they got
+
+676
+00:21:54,983 --> 00:21:55,464
+a raise.
+
+677
+00:21:55,644 --> 00:21:58,026
+Because the increase happened in the future,
+
+678
+00:21:58,026 --> 00:21:59,649
+and came out of a raise rather
+
+679
+00:21:59,649 --> 00:22:00,894
+than their current pay,
+
+680
+00:22:00,894 --> 00:22:02,355
+it didn't feel like a loss.
+
+681
+00:22:02,535 --> 00:22:04,469
+In the first company to use it,
+
+682
+00:22:04,469 --> 00:22:07,588
+participants' average savings rate rose from about
+
+683
+00:22:07,588 --> 00:22:09,584
+three and a half percent to over
+
+684
+00:22:09,584 --> 00:22:11,893
+thirteen percent in under four years.
+
+685
+00:22:12,243 --> 00:22:13,752
+That's a commitment device.
+
+686
+00:22:13,932 --> 00:22:16,469
+A decision made in advance that binds
+
+687
+00:22:16,469 --> 00:22:17,635
+your future self.
+
+688
+00:22:17,815 --> 00:22:20,757
+People who rely on willpower alone tend
+
+689
+00:22:20,757 --> 00:22:24,452
+to struggle, because willpower is weakest exactly
+
+690
+00:22:24,452 --> 00:22:26,639
+when temptation is strongest.
+
+691
+00:22:26,819 --> 00:22:29,650
+Commitment devices remove the need for willpower
+
+692
+00:22:29,650 --> 00:22:30,476
+in the moment.
+
+693
+00:22:30,827 --> 00:22:31,616
+Escape it.
+
+694
+00:22:31,796 --> 00:22:33,003
+Commit in advance.
+
+695
+00:22:33,183 --> 00:22:35,953
+Ask your employer whether your retirement plan
+
+696
+00:22:35,953 --> 00:22:38,000
+offers automatic yearly increases,
+
+697
+00:22:38,000 --> 00:22:39,023
+and turn them on.
+
+698
+00:22:39,203 --> 00:22:41,399
+Or set a calendar reminder to raise
+
+699
+00:22:41,399 --> 00:22:43,784
+your savings rate by one percent every
+
+700
+00:22:43,784 --> 00:22:45,101
+time you get a raise.
+
+701
+00:22:45,452 --> 00:22:47,158
+Trap number seventeen.
+
+702
+00:22:47,338 --> 00:22:48,673
+A broke identity.
+
+703
+00:22:49,024 --> 00:22:52,460
+Many people carry a story about themselves.
+
+704
+00:22:52,640 --> 00:22:53,697
+I'm bad with money.
+
+705
+00:22:53,877 --> 00:22:55,374
+People like me don't invest.
+
+706
+00:22:55,554 --> 00:22:56,704
+I'll never get ahead.
+
+707
+00:22:56,884 --> 00:22:59,923
+Psychologists have long noted that beliefs about
+
+708
+00:22:59,923 --> 00:23:01,760
+ourselves shape our behavior.
+
+709
+00:23:01,940 --> 00:23:03,990
+If you believe you're bad with money,
+
+710
+00:23:03,990 --> 00:23:05,430
+you're less likely to try,
+
+711
+00:23:05,430 --> 00:23:07,203
+and more likely to give up after
+
+712
+00:23:07,203 --> 00:23:07,756
+a setback.
+
+713
+00:23:08,107 --> 00:23:10,649
+Identities often come from childhood.
+
+714
+00:23:10,829 --> 00:23:12,861
+What your parents said about money,
+
+715
+00:23:12,861 --> 00:23:14,428
+how your family handled it,
+
+716
+00:23:14,428 --> 00:23:16,112
+and what happened around you.
+
+717
+00:23:16,292 --> 00:23:18,138
+But identities aren't permanent.
+
+718
+00:23:18,318 --> 00:23:21,147
+Many first generation millionaires grew up with
+
+719
+00:23:21,147 --> 00:23:23,133
+very little and built a new story
+
+720
+00:23:23,133 --> 00:23:23,856
+about money.
+
+721
+00:23:24,206 --> 00:23:24,914
+Escape it.
+
+722
+00:23:25,094 --> 00:23:26,313
+Change the sentence.
+
+723
+00:23:26,493 --> 00:23:28,417
+Instead of I'm bad with money,
+
+724
+00:23:28,417 --> 00:23:30,533
+try I'm learning to manage money.
+
+725
+00:23:30,713 --> 00:23:32,666
+Then prove it to yourself with one
+
+726
+00:23:32,666 --> 00:23:33,987
+small action this week.
+
+727
+00:23:34,167 --> 00:23:35,978
+Identity follows behavior.
+
+728
+00:23:36,158 --> 00:23:37,751
+Every small win is a vote for
+
+729
+00:23:37,751 --> 00:23:39,235
+the person you're becoming.
+
+730
+00:23:39,585 --> 00:23:41,094
+Trap number eighteen.
+
+731
+00:23:41,274 --> 00:23:42,539
+Learned helplessness.
+
+732
+00:23:42,890 --> 00:23:46,945
+Psychologist Martin Seligman described learned helplessness,
+
+733
+00:23:46,945 --> 00:23:50,392
+when people who repeatedly experience setbacks they
+
+734
+00:23:50,392 --> 00:23:52,150
+can't control stop trying,
+
+735
+00:23:52,150 --> 00:23:54,650
+even when things become controllable.
+
+736
+00:23:54,830 --> 00:23:57,083
+With money, after years of struggling,
+
+737
+00:23:57,083 --> 00:23:59,870
+some people simply stop believing their actions
+
+738
+00:23:59,870 --> 00:24:00,937
+make a difference.
+
+739
+00:24:01,288 --> 00:24:02,472
+It's understandable.
+
+740
+00:24:02,652 --> 00:24:04,893
+If every raise has been swallowed by
+
+741
+00:24:04,893 --> 00:24:07,570
+rising costs, and every savings attempt has
+
+742
+00:24:07,570 --> 00:24:09,500
+been wiped out by an emergency,
+
+743
+00:24:09,500 --> 00:24:11,243
+giving up can feel rational.
+
+744
+00:24:11,423 --> 00:24:13,626
+But it often keeps people stuck long
+
+745
+00:24:13,626 --> 00:24:15,707
+after opportunities have improved.
+
+746
+00:24:16,058 --> 00:24:16,708
+Escape it.
+
+747
+00:24:16,888 --> 00:24:19,395
+Start with something you can fully control
+
+748
+00:24:19,395 --> 00:24:20,649
+and complete quickly.
+
+749
+00:24:20,829 --> 00:24:22,466
+Cancel one subscription.
+
+750
+00:24:22,646 --> 00:24:24,237
+Call to remove one fee.
+
+751
+00:24:24,417 --> 00:24:25,787
+Save twenty dollars.
+
+752
+00:24:25,967 --> 00:24:28,383
+Each small success proves that your actions
+
+753
+00:24:28,383 --> 00:24:28,777
+matter.
+
+754
+00:24:28,957 --> 00:24:31,673
+That proof is the antidote to helplessness.
+
+755
+00:24:32,024 --> 00:24:33,428
+Trap number nineteen.
+
+756
+00:24:33,608 --> 00:24:35,060
+The planning fallacy.
+
+757
+00:24:35,410 --> 00:24:38,706
+Kahneman and Tversky described the planning fallacy,
+
+758
+00:24:38,706 --> 00:24:41,560
+our tendency to underestimate how long things
+
+759
+00:24:41,560 --> 00:24:43,842
+will take and how much they'll cost,
+
+760
+00:24:43,842 --> 00:24:45,998
+even when we've been wrong before.
+
+761
+00:24:46,178 --> 00:24:48,210
+Renovations go over budget.
+
+762
+00:24:48,390 --> 00:24:50,259
+Weddings cost more than planned.
+
+763
+00:24:50,439 --> 00:24:53,051
+Monthly budgets forget irregular expenses.
+
+764
+00:24:53,401 --> 00:24:56,328
+With money, the planning fallacy shows up
+
+765
+00:24:56,328 --> 00:24:58,684
+in budgets that leave no room for
+
+766
+00:24:58,684 --> 00:25:01,111
+irregular costs, like car repairs,
+
+767
+00:25:01,111 --> 00:25:04,395
+gifts, medical bills and annual subscriptions.
+
+768
+00:25:04,575 --> 00:25:07,489
+Those surprises aren't really surprises.
+
+769
+00:25:07,669 --> 00:25:10,036
+They're just expenses that don't happen every
+
+770
+00:25:10,036 --> 00:25:10,351
+month.
+
+771
+00:25:10,702 --> 00:25:11,363
+Escape it.
+
+772
+00:25:11,543 --> 00:25:13,169
+Add a buffer to every plan.
+
+773
+00:25:13,349 --> 00:25:15,888
+Many people add ten to twenty percent
+
+774
+00:25:15,888 --> 00:25:17,192
+to project budgets.
+
+775
+00:25:17,372 --> 00:25:19,077
+And create sinking funds,
+
+776
+00:25:19,077 --> 00:25:22,691
+separate savings for predictable irregular costs like
+
+777
+00:25:22,691 --> 00:25:26,033
+car maintenance, holidays and insurance premiums.
+
+778
+00:25:26,383 --> 00:25:28,008
+And trap number twenty.
+
+779
+00:25:28,188 --> 00:25:30,057
+Struggling in silence.
+
+780
+00:25:30,408 --> 00:25:32,355
+Money is still one of the most
+
+781
+00:25:32,355 --> 00:25:35,342
+taboo topics in many families and friendships.
+
+782
+00:25:35,522 --> 00:25:37,367
+People talk about health,
+
+783
+00:25:37,367 --> 00:25:39,360
+relationships and politics,
+
+784
+00:25:39,360 --> 00:25:41,721
+but not their debts or salaries.
+
+785
+00:25:41,901 --> 00:25:44,041
+Shame keeps money problems hidden,
+
+786
+00:25:44,041 --> 00:25:46,557
+and hidden problems are harder to solve.
+
+787
+00:25:46,907 --> 00:25:48,969
+When people do talk about money,
+
+788
+00:25:48,969 --> 00:25:49,936
+with a partner,
+
+789
+00:25:49,936 --> 00:25:52,128
+a friend, a counselor or a support
+
+790
+00:25:52,128 --> 00:25:54,577
+group, they often find others face the
+
+791
+00:25:54,577 --> 00:25:55,544
+same struggles.
+
+792
+00:25:55,724 --> 00:25:58,081
+Accountability also helps.
+
+793
+00:25:58,261 --> 00:26:00,219
+Telling someone your goal makes you more
+
+794
+00:26:00,219 --> 00:26:01,442
+likely to follow through.
+
+795
+00:26:01,793 --> 00:26:02,443
+Escape it.
+
+796
+00:26:02,623 --> 00:26:04,477
+Find one person you trust to talk
+
+797
+00:26:04,477 --> 00:26:05,096
+money with.
+
+798
+00:26:05,276 --> 00:26:08,039
+Share one goal and one struggle.
+
+799
+00:26:08,219 --> 00:26:10,121
+If debt feels overwhelming,
+
+800
+00:26:10,121 --> 00:26:13,362
+nonprofit credit counseling agencies can help.
+
+801
+00:26:13,542 --> 00:26:15,079
+You don't have to figure it out
+
+802
+00:26:15,079 --> 00:26:15,376
+alone.
+
+803
+00:26:15,727 --> 00:26:18,146
+To see how these traps work together,
+
+804
+00:26:18,146 --> 00:26:20,763
+let's follow one person through a single
+
+805
+00:26:20,763 --> 00:26:21,613
+ordinary day.
+
+806
+00:26:21,963 --> 00:26:22,845
+Meet Sam.
+
+807
+00:26:23,025 --> 00:26:24,043
+In the morning,
+
+808
+00:26:24,043 --> 00:26:25,266
+Sam gets an email.
+
+809
+00:26:25,446 --> 00:26:27,721
+Flash sale, forty percent off,
+
+810
+00:26:27,721 --> 00:26:29,010
+ends at midnight.
+
+811
+00:26:29,190 --> 00:26:31,473
+The original price is crossed out,
+
+812
+00:26:31,473 --> 00:26:34,159
+and the sale price suddenly looks cheap.
+
+813
+00:26:34,339 --> 00:26:37,079
+That's anchoring and urgency working together.
+
+814
+00:26:37,259 --> 00:26:39,189
+Sam adds a jacket to the cart,
+
+815
+00:26:39,189 --> 00:26:40,733
+and then two more items,
+
+816
+00:26:40,733 --> 00:26:43,563
+because shipping is free over fifty dollars.
+
+817
+00:26:43,743 --> 00:26:45,380
+That's the power of free.
+
+818
+00:26:45,731 --> 00:26:47,685
+At lunch, Sam taps a phone to
+
+819
+00:26:47,685 --> 00:26:49,707
+pay for a meal that costs more
+
+820
+00:26:49,707 --> 00:26:50,583
+than planned.
+
+821
+00:26:50,763 --> 00:26:52,485
+It doesn't feel like spending,
+
+822
+00:26:52,485 --> 00:26:54,839
+because there's no cash leaving a wallet.
+
+823
+00:26:55,019 --> 00:26:56,563
+That's the pain of paying,
+
+824
+00:26:56,563 --> 00:26:58,107
+or rather, the lack of it.
+
+825
+00:26:58,287 --> 00:27:01,654
+Later, a coworker shows off new headphones.
+
+826
+00:27:01,834 --> 00:27:04,005
+Sam starts browsing for a pair.
+
+827
+00:27:04,185 --> 00:27:05,613
+That's social comparison.
+
+828
+00:27:05,963 --> 00:27:06,980
+In the evening,
+
+829
+00:27:06,980 --> 00:27:09,016
+Sam is tired after a long day.
+
+830
+00:27:09,196 --> 00:27:11,046
+Cooking feels impossible,
+
+831
+00:27:11,046 --> 00:27:12,749
+so dinner is delivered.
+
+832
+00:27:12,929 --> 00:27:14,415
+That's decision fatigue.
+
+833
+00:27:14,595 --> 00:27:17,573
+A notification says the investment account is
+
+834
+00:27:17,573 --> 00:27:18,565
+down this week.
+
+835
+00:27:18,745 --> 00:27:20,080
+Sam doesn't open it.
+
+836
+00:27:20,260 --> 00:27:21,665
+That's the ostrich effect.
+
+837
+00:27:21,845 --> 00:27:22,968
+And before bed,
+
+838
+00:27:22,968 --> 00:27:26,038
+Sam thinks, I'll start saving next month,
+
+839
+00:27:26,038 --> 00:27:27,685
+once things calm down.
+
+840
+00:27:27,865 --> 00:27:30,608
+That's present bias and optimism bias in
+
+841
+00:27:30,608 --> 00:27:31,499
+one sentence.
+
+842
+00:27:31,849 --> 00:27:34,147
+Sam isn't reckless or foolish.
+
+843
+00:27:34,327 --> 00:27:36,278
+Sam is completely normal.
+
+844
+00:27:36,458 --> 00:27:38,948
+Every one of those choices felt reasonable
+
+845
+00:27:38,948 --> 00:27:39,778
+in the moment.
+
+846
+00:27:39,958 --> 00:27:42,271
+Now imagine that same day with a
+
+847
+00:27:42,271 --> 00:27:43,790
+few systems in place.
+
+848
+00:27:43,970 --> 00:27:46,257
+No saved card on shopping sites.
+
+849
+00:27:46,437 --> 00:27:48,979
+Savings that move automatically on payday.
+
+850
+00:27:49,159 --> 00:27:50,518
+A meal plan for the week.
+
+851
+00:27:50,698 --> 00:27:52,520
+Investment alerts turned off.
+
+852
+00:27:52,700 --> 00:27:53,774
+The same person,
+
+853
+00:27:53,774 --> 00:27:54,781
+the same brain,
+
+854
+00:27:54,781 --> 00:27:56,659
+and a very different result.
+
+855
+00:27:57,010 --> 00:27:58,391
+Here's something worth knowing.
+
+856
+00:27:58,571 --> 00:28:00,866
+Many of these traps are well understood
+
+857
+00:28:00,866 --> 00:28:02,867
+by the companies that sell to you.
+
+858
+00:28:03,047 --> 00:28:06,073
+Retailers, apps and lenders employ people who
+
+859
+00:28:06,073 --> 00:28:08,562
+study consumer behavior for a living.
+
+860
+00:28:08,742 --> 00:28:10,480
+That doesn't make them villains,
+
+861
+00:28:10,480 --> 00:28:12,327
+but it does mean the playing field
+
+862
+00:28:12,327 --> 00:28:12,979
+isn't level.
+
+863
+00:28:13,159 --> 00:28:15,263
+Let's look at a few common designs,
+
+864
+00:28:15,263 --> 00:28:16,526
+so you can spot them.
+
+865
+00:28:16,876 --> 00:28:20,235
+Countdown timers and limited time offers create
+
+866
+00:28:20,235 --> 00:28:23,238
+urgency, which pushes decisions into fast,
+
+867
+00:28:23,238 --> 00:28:24,596
+emotional thinking.
+
+868
+00:28:24,776 --> 00:28:28,080
+Subscription models rely on status quo bias,
+
+869
+00:28:28,080 --> 00:28:30,558
+because many people never cancel.
+
+870
+00:28:30,738 --> 00:28:32,736
+Free trials rely on the power of
+
+871
+00:28:32,736 --> 00:28:35,046
+free and on us forgetting the renewal
+
+872
+00:28:35,046 --> 00:28:35,359
+date.
+
+873
+00:28:35,539 --> 00:28:38,116
+Decoy pricing places an expensive option next
+
+874
+00:28:38,116 --> 00:28:39,663
+to the one they want you to
+
+875
+00:28:39,663 --> 00:28:41,840
+buy, which makes it look reasonable by
+
+876
+00:28:41,840 --> 00:28:42,470
+comparison.
+
+877
+00:28:42,650 --> 00:28:44,415
+That's anchoring by design.
+
+878
+00:28:44,764 --> 00:28:47,133
+Buy now pay later services split a
+
+879
+00:28:47,133 --> 00:28:49,153
+purchase into small payments,
+
+880
+00:28:49,153 --> 00:28:51,591
+which plays on present bias and the
+
+881
+00:28:51,591 --> 00:28:52,636
+pain of paying.
+
+882
+00:28:52,816 --> 00:28:55,777
+Loyalty points make spending feel like earning.
+
+883
+00:28:55,957 --> 00:28:58,387
+And endless scrolling feeds are designed to
+
+884
+00:28:58,387 --> 00:28:59,347
+keep you looking,
+
+885
+00:28:59,347 --> 00:29:01,382
+which means seeing more ads and more
+
+886
+00:29:01,382 --> 00:29:02,795
+things other people have.
+
+887
+00:29:02,975 --> 00:29:04,565
+None of this is secret.
+
+888
+00:29:04,745 --> 00:29:07,102
+It's simply how modern selling works.
+
+889
+00:29:07,452 --> 00:29:09,411
+Once you recognize these designs,
+
+890
+00:29:09,411 --> 00:29:11,191
+they lose much of their power.
+
+891
+00:29:11,371 --> 00:29:14,103
+A countdown timer becomes a signal to
+
+892
+00:29:14,103 --> 00:29:15,876
+slow down, not speed up.
+
+893
+00:29:16,056 --> 00:29:18,761
+A free trial becomes a calendar reminder.
+
+894
+00:29:18,941 --> 00:29:21,156
+A split payment becomes a total price
+
+895
+00:29:21,156 --> 00:29:22,354
+you add up yourself.
+
+896
+00:29:22,534 --> 00:29:24,502
+Awareness won't make you immune,
+
+897
+00:29:24,502 --> 00:29:26,593
+but it gives your careful system a
+
+898
+00:29:26,593 --> 00:29:27,700
+chance to step in.
+
+899
+00:29:28,050 --> 00:29:30,516
+Let's pull everything together into a simple
+
+900
+00:29:30,516 --> 00:29:30,965
+toolkit.
+
+901
+00:29:31,145 --> 00:29:33,332
+Five tools that beat most of these
+
+902
+00:29:33,332 --> 00:29:34,233
+traps at once.
+
+903
+00:29:34,582 --> 00:29:35,430
+Tool one.
+
+904
+00:29:35,610 --> 00:29:36,191
+Automate.
+
+905
+00:29:36,371 --> 00:29:40,544
+Automatic savings, investments and bill payments beat
+
+906
+00:29:40,544 --> 00:29:43,851
+present bias, status quo bias and decision
+
+907
+00:29:43,851 --> 00:29:45,426
+fatigue in one move.
+
+908
+00:29:45,606 --> 00:29:46,338
+Tool two.
+
+909
+00:29:46,518 --> 00:29:47,876
+Add friction to spending.
+
+910
+00:29:48,056 --> 00:29:49,431
+Delete saved cards,
+
+911
+00:29:49,431 --> 00:29:51,746
+use cash for problem categories,
+
+912
+00:29:51,746 --> 00:29:54,423
+and wait twenty four hours before non
+
+913
+00:29:54,423 --> 00:29:55,870
+essential purchases.
+
+914
+00:29:56,050 --> 00:29:58,156
+That beats the pain of paying,
+
+915
+00:29:58,156 --> 00:30:00,403
+anchoring and the power of free.
+
+916
+00:30:00,754 --> 00:30:01,589
+Tool three.
+
+917
+00:30:01,769 --> 00:30:02,814
+Look regularly.
+
+918
+00:30:02,994 --> 00:30:05,794
+A weekly five minute money check beats
+
+919
+00:30:05,794 --> 00:30:08,887
+the ostrich effect and keeps optimism bias
+
+920
+00:30:08,887 --> 00:30:09,403
+honest.
+
+921
+00:30:09,583 --> 00:30:10,373
+Tool four.
+
+922
+00:30:10,553 --> 00:30:12,004
+Decide in advance.
+
+923
+00:30:12,184 --> 00:30:14,835
+Write down your plan for windfalls,
+
+924
+00:30:14,835 --> 00:30:16,654
+raises and market drops.
+
+925
+00:30:16,834 --> 00:30:18,648
+That beats mental accounting,
+
+926
+00:30:18,648 --> 00:30:21,025
+loss aversion and the scarcity tunnel.
+
+927
+00:30:21,375 --> 00:30:22,628
+And tool five.
+
+928
+00:30:22,808 --> 00:30:23,540
+Talk about it.
+
+929
+00:30:23,720 --> 00:30:24,668
+A money buddy,
+
+930
+00:30:24,668 --> 00:30:27,173
+a partner or a counselor beats shame,
+
+931
+00:30:27,173 --> 00:30:30,152
+learned helplessness and the broke identity.
+
+932
+00:30:30,332 --> 00:30:31,562
+Five tools.
+
+933
+00:30:31,742 --> 00:30:32,694
+Twenty traps.
+
+934
+00:30:32,874 --> 00:30:34,406
+You don't have to win every battle
+
+935
+00:30:34,406 --> 00:30:35,127
+with your brain.
+
+936
+00:30:35,307 --> 00:30:36,912
+You just need a system that wins
+
+937
+00:30:36,912 --> 00:30:37,965
+most of them for you.
+
+938
+00:30:38,316 --> 00:30:39,209
+Question one.
+
+939
+00:30:39,389 --> 00:30:41,711
+Are poor people just making bad choices?
+
+940
+00:30:41,891 --> 00:30:42,100
+No.
+
+941
+00:30:42,280 --> 00:30:45,090
+That's the key insight of scarcity research.
+
+942
+00:30:45,270 --> 00:30:47,844
+Anyone, regardless of intelligence,
+
+943
+00:30:47,844 --> 00:30:51,152
+tends to make worse decisions under financial
+
+944
+00:30:51,152 --> 00:30:51,667
+stress.
+
+945
+00:30:51,847 --> 00:30:54,233
+The choices are a symptom as much
+
+946
+00:30:54,233 --> 00:30:55,028
+as a cause.
+
+947
+00:30:55,208 --> 00:30:57,664
+That's why systems and buffers matter more
+
+948
+00:30:57,664 --> 00:30:58,482
+than lectures.
+
+949
+00:30:58,833 --> 00:30:59,738
+Question two.
+
+950
+00:30:59,918 --> 00:31:02,054
+Which trap is the most expensive?
+
+951
+00:31:02,234 --> 00:31:03,263
+For many people,
+
+952
+00:31:03,263 --> 00:31:06,093
+the combination of present bias and painless
+
+953
+00:31:06,093 --> 00:31:08,987
+payments, which leads to high interest credit
+
+954
+00:31:08,987 --> 00:31:09,630
+card debt.
+
+955
+00:31:09,810 --> 00:31:12,828
+Interest above twenty percent compounds quickly,
+
+956
+00:31:12,828 --> 00:31:16,224
+and exponential growth bias makes people underestimate
+
+957
+00:31:16,224 --> 00:31:17,356
+how fast it grows.
+
+958
+00:31:17,707 --> 00:31:18,809
+Question three.
+
+959
+00:31:18,989 --> 00:31:21,023
+Can I really change how my brain
+
+960
+00:31:21,023 --> 00:31:21,404
+works?
+
+961
+00:31:21,584 --> 00:31:23,163
+You don't need to change your brain.
+
+962
+00:31:23,343 --> 00:31:24,969
+You need to change your environment.
+
+963
+00:31:25,149 --> 00:31:28,347
+Automatic transfers, removed saved cards and a
+
+964
+00:31:28,347 --> 00:31:30,850
+weekly check work with your brain as
+
+965
+00:31:30,850 --> 00:31:31,267
+it is.
+
+966
+00:31:31,447 --> 00:31:32,829
+That's why they're so effective.
+
+967
+00:31:33,179 --> 00:31:34,142
+Question four.
+
+968
+00:31:34,322 --> 00:31:35,448
+Where should I start?
+
+969
+00:31:35,628 --> 00:31:37,357
+Pick the trap that cost you the
+
+970
+00:31:37,357 --> 00:31:38,194
+most last year.
+
+971
+00:31:38,374 --> 00:31:39,473
+For many people,
+
+972
+00:31:39,473 --> 00:31:41,671
+that's debt or impulse spending.
+
+973
+00:31:41,851 --> 00:31:44,207
+Choose one tool from the toolkit and
+
+974
+00:31:44,207 --> 00:31:45,450
+apply it this week.
+
+975
+00:31:45,630 --> 00:31:46,977
+Then add another next month.
+
+976
+00:31:47,328 --> 00:31:48,326
+Question five.
+
+977
+00:31:48,506 --> 00:31:50,619
+Do these traps affect rich people too?
+
+978
+00:31:50,799 --> 00:31:51,623
+Absolutely.
+
+979
+00:31:51,803 --> 00:31:53,914
+Wealthy people fall for anchoring,
+
+980
+00:31:53,914 --> 00:31:56,645
+loss aversion and social comparison as well.
+
+981
+00:31:56,825 --> 00:31:59,101
+The difference is that many have built
+
+982
+00:31:59,101 --> 00:32:02,097
+systems, like automatic investing and advisors who
+
+983
+00:32:02,097 --> 00:32:04,973
+enforce discipline, and they often have cushions
+
+984
+00:32:04,973 --> 00:32:06,891
+that make mistakes less painful.
+
+985
+00:32:07,071 --> 00:32:08,665
+Systems and buffers,
+
+986
+00:32:08,665 --> 00:32:10,658
+not superhuman willpower.
+
+987
+00:32:11,008 --> 00:32:12,261
+Question six.
+
+988
+00:32:12,441 --> 00:32:14,111
+How do I help a partner or
+
+989
+00:32:14,111 --> 00:32:16,424
+family member caught in these traps?
+
+990
+00:32:16,604 --> 00:32:18,227
+Start with curiosity,
+
+991
+00:32:18,227 --> 00:32:19,309
+not criticism.
+
+992
+00:32:19,489 --> 00:32:21,525
+Share what you've learned about the traps
+
+993
+00:32:21,525 --> 00:32:23,263
+as something that affects everyone,
+
+994
+00:32:23,263 --> 00:32:23,959
+including you.
+
+995
+00:32:24,139 --> 00:32:26,536
+Then suggest one system you could try
+
+996
+00:32:26,536 --> 00:32:28,998
+together, like a weekly money check or
+
+997
+00:32:28,998 --> 00:32:30,164
+automatic savings.
+
+998
+00:32:30,344 --> 00:32:32,625
+People change more easily when they don't
+
+999
+00:32:32,625 --> 00:32:33,293
+feel judged.
+
+1000
+00:32:33,643 --> 00:32:34,722
+Question seven.
+
+1001
+00:32:34,902 --> 00:32:36,740
+Is it bad to be optimistic about
+
+1002
+00:32:36,740 --> 00:32:37,085
+money?
+
+1003
+00:32:37,265 --> 00:32:37,834
+Not at all.
+
+1004
+00:32:38,014 --> 00:32:41,054
+Optimism keeps people investing for the long
+
+1005
+00:32:41,054 --> 00:32:43,610
+term and trying again after setbacks.
+
+1006
+00:32:43,790 --> 00:32:45,755
+The trick is to pair optimism with
+
+1007
+00:32:45,755 --> 00:32:46,449
+preparation.
+
+1008
+00:32:46,629 --> 00:32:49,080
+Expect things to work out over time,
+
+1009
+00:32:49,080 --> 00:32:51,327
+and still keep an emergency fund,
+
+1010
+00:32:51,327 --> 00:32:53,711
+insurance and a plan for bad years.
+
+1011
+00:32:53,891 --> 00:32:56,584
+Hopeful and prepared is the best combination.
+
+1012
+00:32:56,935 --> 00:32:57,817
+Quick recap.
+
+1013
+00:32:57,997 --> 00:32:59,727
+Angle one, the numbers.
+
+1014
+00:32:59,907 --> 00:33:02,098
+Anchoring, mental accounting,
+
+1015
+00:33:02,098 --> 00:33:04,969
+present bias, exponential growth bias,
+
+1016
+00:33:04,969 --> 00:33:07,312
+sunk costs, the pain of paying,
+
+1017
+00:33:07,312 --> 00:33:08,974
+and the power of free.
+
+1018
+00:33:09,325 --> 00:33:11,275
+Angle two, the psychology.
+
+1019
+00:33:11,455 --> 00:33:13,025
+The scarcity tunnel,
+
+1020
+00:33:13,025 --> 00:33:14,516
+the ostrich effect,
+
+1021
+00:33:14,516 --> 00:33:17,498
+social comparison, hedonic adaptation,
+
+1022
+00:33:17,498 --> 00:33:18,754
+status quo bias,
+
+1023
+00:33:18,754 --> 00:33:21,265
+optimism bias and loss aversion.
+
+1024
+00:33:21,616 --> 00:33:23,311
+Angle three, the playbook.
+
+1025
+00:33:23,491 --> 00:33:26,950
+Decision fatigue, relying on willpower instead of
+
+1026
+00:33:26,950 --> 00:33:28,998
+commitment, a broke identity,
+
+1027
+00:33:28,998 --> 00:33:32,034
+learned helplessness, the planning fallacy,
+
+1028
+00:33:32,034 --> 00:33:33,870
+and struggling in silence.
+
+1029
+00:33:34,220 --> 00:33:36,275
+Remember the farmers from the beginning.
+
+1030
+00:33:36,455 --> 00:33:38,555
+Same people, same intelligence,
+
+1031
+00:33:38,555 --> 00:33:41,807
+different results, just because of money stress.
+
+1032
+00:33:41,987 --> 00:33:44,111
+Being broke isn't a character flaw.
+
+1033
+00:33:44,291 --> 00:33:46,557
+It's often a brain doing exactly what
+
+1034
+00:33:46,557 --> 00:33:48,578
+brains do, in a world designed to
+
+1035
+00:33:48,578 --> 00:33:49,864
+take advantage of it.
+
+1036
+00:33:50,044 --> 00:33:51,332
+Once you see the traps,
+
+1037
+00:33:51,332 --> 00:33:53,237
+you can build systems around them.
+
+1038
+00:33:53,417 --> 00:33:54,859
+If you want the full plan,
+
+1039
+00:33:54,859 --> 00:33:55,969
+it's in my playbook,
+
+1040
+00:33:55,969 --> 00:33:57,411
+linked in the description.
+
+1041
+00:33:57,591 --> 00:33:59,545
+Tell me in the comments which trap
+
+1042
+00:33:59,545 --> 00:34:01,097
+you recognized in yourself.
+
+1043
+00:34:01,277 --> 00:34:02,473
+I'm Ryan Rover.
+
+1044
+00:34:02,653 --> 00:34:03,849
+See you in the next one.
