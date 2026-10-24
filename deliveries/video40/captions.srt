@@ -1,0 +1,4055 @@
+1
+00:00:00,000 --> 00:00:01,845
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,025 --> 00:00:03,621
+We've all been told that the way
+
+3
+00:00:03,621 --> 00:00:05,067
+to get rich is to save money.
+
+4
+00:00:05,247 --> 00:00:06,237
+Skip the coffee,
+
+5
+00:00:06,237 --> 00:00:07,289
+clip the coupons,
+
+6
+00:00:07,289 --> 00:00:09,206
+put something away every month.
+
+7
+00:00:09,386 --> 00:00:10,930
+And saving matters,
+
+8
+00:00:10,930 --> 00:00:11,418
+a lot.
+
+9
+00:00:11,598 --> 00:00:13,607
+But here's the uncomfortable truth.
+
+10
+00:00:13,787 --> 00:00:16,105
+Saving alone, money sitting in a bank
+
+11
+00:00:16,105 --> 00:00:18,674
+account, will almost never make you rich.
+
+12
+00:00:18,854 --> 00:00:20,372
+In fact, over decades,
+
+13
+00:00:20,372 --> 00:00:22,512
+it can quietly make you poorer.
+
+14
+00:00:22,692 --> 00:00:24,236
+Today I'll show you why,
+
+15
+00:00:24,236 --> 00:00:27,068
+and what actually turns savings into wealth.
+
+16
+00:00:27,419 --> 00:00:29,323
+Here's the math in one picture.
+
+17
+00:00:29,503 --> 00:00:31,330
+Five hundred dollars a month,
+
+18
+00:00:31,330 --> 00:00:33,725
+kept in cash earning nothing for forty
+
+19
+00:00:33,725 --> 00:00:35,931
+years, adds up to two hundred forty
+
+20
+00:00:35,931 --> 00:00:37,003
+thousand dollars.
+
+21
+00:00:37,183 --> 00:00:39,654
+The same five hundred dollars a month,
+
+22
+00:00:39,654 --> 00:00:42,386
+invested at a seven percent average yearly
+
+23
+00:00:42,386 --> 00:00:44,923
+return, could grow to roughly one point
+
+24
+00:00:44,923 --> 00:00:46,354
+three million dollars.
+
+25
+00:00:46,534 --> 00:00:47,533
+Same habit.
+
+26
+00:00:47,713 --> 00:00:48,514
+Same effort.
+
+27
+00:00:48,694 --> 00:00:50,679
+More than five times the result.
+
+28
+00:00:51,030 --> 00:00:53,540
+And that comparison is generous to cash,
+
+29
+00:00:53,540 --> 00:00:55,360
+because it ignores inflation.
+
+30
+00:00:55,540 --> 00:00:56,579
+Over forty years,
+
+31
+00:00:56,579 --> 00:00:59,023
+rising prices would shrink what that two
+
+32
+00:00:59,023 --> 00:01:01,956
+hundred forty thousand dollars can actually buy,
+
+33
+00:01:01,956 --> 00:01:03,667
+probably to well under half.
+
+34
+00:01:03,847 --> 00:01:05,345
+Saving builds the pile.
+
+35
+00:01:05,525 --> 00:01:06,790
+But without growth,
+
+36
+00:01:06,790 --> 00:01:09,186
+the pile is slowly melting while you
+
+37
+00:01:09,186 --> 00:01:09,786
+build it.
+
+38
+00:01:09,966 --> 00:01:12,485
+That's the core idea of this video.
+
+39
+00:01:12,665 --> 00:01:14,611
+Saving is the start of wealth,
+
+40
+00:01:14,611 --> 00:01:15,974
+not the whole recipe.
+
+41
+00:01:16,324 --> 00:01:18,727
+We'll explore this from three angles.
+
+42
+00:01:18,907 --> 00:01:20,346
+First, the numbers.
+
+43
+00:01:20,526 --> 00:01:23,564
+Inflation, interest, taxes and the ceiling on
+
+44
+00:01:23,564 --> 00:01:25,252
+how much anyone can save.
+
+45
+00:01:25,432 --> 00:01:27,347
+Second, the psychology.
+
+46
+00:01:27,527 --> 00:01:29,282
+Why saving feels so safe,
+
+47
+00:01:29,282 --> 00:01:31,809
+and why that feeling can hold people
+
+48
+00:01:31,809 --> 00:01:32,160
+back.
+
+49
+00:01:32,340 --> 00:01:33,907
+And third, the playbook.
+
+50
+00:01:34,087 --> 00:01:36,659
+The three things that actually build wealth
+
+51
+00:01:36,659 --> 00:01:38,693
+when you combine them with saving,
+
+52
+00:01:38,693 --> 00:01:40,786
+investing, earning more and owning.
+
+53
+00:01:40,966 --> 00:01:43,157
+Reminder, this is education,
+
+54
+00:01:43,157 --> 00:01:44,801
+not financial advice,
+
+55
+00:01:44,801 --> 00:01:48,087
+and all growth examples are illustrations,
+
+56
+00:01:48,087 --> 00:01:49,105
+not promises.
+
+57
+00:01:49,455 --> 00:01:51,045
+Let's start with the numbers.
+
+58
+00:01:51,225 --> 00:01:53,211
+And the first lesson is about the
+
+59
+00:01:53,211 --> 00:01:55,498
+silent thief in every savings account.
+
+60
+00:01:55,848 --> 00:01:56,811
+Our numbers.
+
+61
+00:01:56,991 --> 00:01:59,530
+Inflation data comes from the Bureau of
+
+62
+00:01:59,530 --> 00:02:00,637
+Labor Statistics.
+
+63
+00:02:00,817 --> 00:02:02,809
+Long run returns on stocks,
+
+64
+00:02:02,809 --> 00:02:05,614
+bonds and cash come from research like
+
+65
+00:02:05,614 --> 00:02:08,492
+Jeremy Siegel's Stocks for the Long Run
+
+66
+00:02:08,492 --> 00:02:10,337
+and data from S and P Dow
+
+67
+00:02:10,337 --> 00:02:11,370
+Jones Indices.
+
+68
+00:02:11,550 --> 00:02:13,768
+Account rules come from the IRS.
+
+69
+00:02:13,948 --> 00:02:17,263
+Growth examples use monthly compounding at stated
+
+70
+00:02:17,263 --> 00:02:19,564
+average returns, as illustrations,
+
+71
+00:02:19,564 --> 00:02:20,647
+not predictions.
+
+72
+00:02:20,997 --> 00:02:21,705
+Angle one.
+
+73
+00:02:21,885 --> 00:02:22,732
+The numbers.
+
+74
+00:02:22,912 --> 00:02:25,286
+Seven reasons the math of saving alone
+
+75
+00:02:25,286 --> 00:02:26,848
+doesn't add up to wealth.
+
+76
+00:02:27,198 --> 00:02:28,405
+Lesson number one.
+
+77
+00:02:28,585 --> 00:02:30,965
+Inflation slowly eats cash.
+
+78
+00:02:31,315 --> 00:02:33,989
+Inflation means prices rise over time,
+
+79
+00:02:33,989 --> 00:02:36,311
+so each dollar buys a little less
+
+80
+00:02:36,311 --> 00:02:37,085
+every year.
+
+81
+00:02:37,265 --> 00:02:38,591
+In the United States,
+
+82
+00:02:38,591 --> 00:02:41,497
+inflation has averaged roughly three percent a
+
+83
+00:02:41,497 --> 00:02:42,950
+year over the long run,
+
+84
+00:02:42,950 --> 00:02:45,792
+according to Bureau of Labor Statistics data,
+
+85
+00:02:45,792 --> 00:02:48,445
+though some periods have been much higher.
+
+86
+00:02:48,625 --> 00:02:52,073
+In 2022, it rose above eight percent.
+
+87
+00:02:52,424 --> 00:02:54,397
+Here's what that does to savings.
+
+88
+00:02:54,577 --> 00:02:57,026
+Ten thousand dollars in an account earning
+
+89
+00:02:57,026 --> 00:02:57,901
+half a percent,
+
+90
+00:02:57,901 --> 00:02:59,767
+with inflation at three percent,
+
+91
+00:02:59,767 --> 00:03:02,041
+would buy only about what four thousand
+
+92
+00:03:02,041 --> 00:03:04,665
+eight hundred dollars buys today after thirty
+
+93
+00:03:04,665 --> 00:03:05,015
+years.
+
+94
+00:03:05,195 --> 00:03:07,602
+The balance grew a little on paper,
+
+95
+00:03:07,602 --> 00:03:09,596
+but its real value was cut by
+
+96
+00:03:09,596 --> 00:03:10,628
+more than half.
+
+97
+00:03:10,978 --> 00:03:13,944
+That's why economists talk about real returns,
+
+98
+00:03:13,944 --> 00:03:15,749
+your return after inflation.
+
+99
+00:03:15,929 --> 00:03:18,677
+If your savings earn less than inflation,
+
+100
+00:03:18,677 --> 00:03:20,620
+your real return is negative.
+
+101
+00:03:20,800 --> 00:03:23,017
+You're losing buying power every year,
+
+102
+00:03:23,017 --> 00:03:25,409
+even though your balance never goes down.
+
+103
+00:03:25,759 --> 00:03:27,717
+High yield savings accounts help,
+
+104
+00:03:27,717 --> 00:03:30,507
+and sometimes they've paid more than inflation.
+
+105
+00:03:30,687 --> 00:03:32,220
+But over long periods,
+
+106
+00:03:32,220 --> 00:03:35,076
+cash has generally only roughly kept pace
+
+107
+00:03:35,076 --> 00:03:36,678
+with inflation at best.
+
+108
+00:03:36,858 --> 00:03:38,042
+It preserves money.
+
+109
+00:03:38,222 --> 00:03:40,289
+It rarely grows it in a meaningful
+
+110
+00:03:40,289 --> 00:03:40,532
+way.
+
+111
+00:03:40,883 --> 00:03:42,701
+Think about what things cost when your
+
+112
+00:03:42,701 --> 00:03:43,611
+parents were young.
+
+113
+00:03:43,791 --> 00:03:45,083
+A movie ticket,
+
+114
+00:03:45,083 --> 00:03:46,548
+a gallon of milk,
+
+115
+00:03:46,548 --> 00:03:47,409
+a new car,
+
+116
+00:03:47,409 --> 00:03:48,098
+a house.
+
+117
+00:03:48,278 --> 00:03:50,789
+Prices that once seemed normal now look
+
+118
+00:03:50,789 --> 00:03:51,111
+tiny.
+
+119
+00:03:51,291 --> 00:03:54,507
+That's inflation working slowly over decades.
+
+120
+00:03:54,687 --> 00:03:56,793
+Your savings face the same force,
+
+121
+00:03:56,793 --> 00:03:58,898
+which is why money that must last
+
+122
+00:03:58,898 --> 00:04:01,195
+thirty or forty years needs to grow,
+
+123
+00:04:01,195 --> 00:04:02,024
+not just sit.
+
+124
+00:04:02,375 --> 00:04:03,199
+Try this.
+
+125
+00:04:03,379 --> 00:04:05,148
+Look at the interest rate on your
+
+126
+00:04:05,148 --> 00:04:07,238
+savings account and compare it with the
+
+127
+00:04:07,238 --> 00:04:08,418
+latest inflation rate.
+
+128
+00:04:08,598 --> 00:04:09,988
+If inflation is higher,
+
+129
+00:04:09,988 --> 00:04:12,405
+your savings are shrinking in real terms
+
+130
+00:04:12,405 --> 00:04:13,009
+right now.
+
+131
+00:04:13,360 --> 00:04:14,462
+Lesson number two.
+
+132
+00:04:14,642 --> 00:04:17,290
+The growth gap between cash and investing.
+
+133
+00:04:17,640 --> 00:04:20,136
+Let's go deeper into the opening example.
+
+134
+00:04:20,316 --> 00:04:22,557
+Five hundred dollars a month for forty
+
+135
+00:04:22,557 --> 00:04:23,914
+years, earning nothing,
+
+136
+00:04:23,914 --> 00:04:26,156
+is two hundred forty thousand dollars.
+
+137
+00:04:26,336 --> 00:04:28,538
+Earning half a percent in a typical
+
+138
+00:04:28,538 --> 00:04:31,496
+savings account, it's roughly two hundred sixty
+
+139
+00:04:31,496 --> 00:04:32,315
+six thousand.
+
+140
+00:04:32,495 --> 00:04:34,405
+Invested at seven percent,
+
+141
+00:04:34,405 --> 00:04:36,756
+roughly one point three million.
+
+142
+00:04:37,106 --> 00:04:38,348
+Why such a huge gap?
+
+143
+00:04:38,528 --> 00:04:41,565
+Because compounding needs a meaningful rate to
+
+144
+00:04:41,565 --> 00:04:41,895
+work.
+
+145
+00:04:42,075 --> 00:04:43,360
+At half a percent,
+
+146
+00:04:43,360 --> 00:04:45,360
+your money barely snowballs.
+
+147
+00:04:45,540 --> 00:04:46,685
+At seven percent,
+
+148
+00:04:46,685 --> 00:04:49,312
+growth starts producing its own growth,
+
+149
+00:04:49,312 --> 00:04:50,458
+and over decades,
+
+150
+00:04:50,458 --> 00:04:53,017
+that growth becomes most of the total.
+
+151
+00:04:53,368 --> 00:04:56,787
+Historically, long term research like Jeremy Siegel's
+
+152
+00:04:56,787 --> 00:04:57,884
+has found that U.
+
+153
+00:04:58,064 --> 00:04:58,412
+S.
+
+154
+00:04:58,592 --> 00:05:01,502
+stocks returned roughly six to seven percent
+
+155
+00:05:01,502 --> 00:05:03,949
+a year after inflation over very long
+
+156
+00:05:03,949 --> 00:05:07,321
+periods, while short term government bills returned
+
+157
+00:05:07,321 --> 00:05:09,900
+well under one percent after inflation.
+
+158
+00:05:10,080 --> 00:05:12,727
+The difference compounds into a massive gap.
+
+159
+00:05:13,078 --> 00:05:15,458
+Of course, stocks come with risk.
+
+160
+00:05:15,638 --> 00:05:17,687
+They can fall sharply and stay down
+
+161
+00:05:17,687 --> 00:05:18,273
+for years.
+
+162
+00:05:18,453 --> 00:05:20,367
+That's why cash still has a role
+
+163
+00:05:20,367 --> 00:05:21,623
+for short term needs.
+
+164
+00:05:21,803 --> 00:05:24,013
+But for money you won't touch for
+
+165
+00:05:24,013 --> 00:05:26,893
+decades, cash's safety comes at an enormous
+
+166
+00:05:26,893 --> 00:05:27,898
+long term cost.
+
+167
+00:05:28,248 --> 00:05:30,001
+Here's another way to see the gap.
+
+168
+00:05:30,181 --> 00:05:31,435
+In the cash example,
+
+169
+00:05:31,435 --> 00:05:33,692
+every dollar of the final balance is
+
+170
+00:05:33,692 --> 00:05:35,510
+a dollar you put in yourself.
+
+171
+00:05:35,690 --> 00:05:37,231
+In the invested example,
+
+172
+00:05:37,231 --> 00:05:39,287
+more than four out of every five
+
+173
+00:05:39,287 --> 00:05:41,600
+dollars at the end came from growth,
+
+174
+00:05:41,600 --> 00:05:43,399
+not from your contributions.
+
+175
+00:05:43,579 --> 00:05:45,866
+Investing doesn't ask you to work harder.
+
+176
+00:05:46,046 --> 00:05:47,938
+It asks your money to work too.
+
+177
+00:05:48,289 --> 00:05:49,078
+Try this.
+
+178
+00:05:49,258 --> 00:05:51,556
+Calculate how much you've saved in cash
+
+179
+00:05:51,556 --> 00:05:53,147
+beyond your emergency fund.
+
+180
+00:05:53,327 --> 00:05:55,827
+Then use a compound interest calculator to
+
+181
+00:05:55,827 --> 00:05:57,910
+see what that money might become if
+
+182
+00:05:57,910 --> 00:05:59,457
+invested for twenty years.
+
+183
+00:05:59,808 --> 00:06:01,131
+Lesson number three.
+
+184
+00:06:01,311 --> 00:06:02,980
+There's a ceiling on how much you
+
+185
+00:06:02,980 --> 00:06:03,436
+can save.
+
+186
+00:06:03,786 --> 00:06:05,871
+Saving comes from the gap between what
+
+187
+00:06:05,871 --> 00:06:07,408
+you earn and what you spend.
+
+188
+00:06:07,588 --> 00:06:09,057
+You can cut spending,
+
+189
+00:06:09,057 --> 00:06:10,177
+but only so far.
+
+190
+00:06:10,357 --> 00:06:13,765
+Rent, food, transportation and insurance have a
+
+191
+00:06:13,765 --> 00:06:14,200
+floor.
+
+192
+00:06:14,380 --> 00:06:16,962
+For someone earning fifty thousand dollars a
+
+193
+00:06:16,962 --> 00:06:19,721
+year, even an aggressive twenty percent savings
+
+194
+00:06:19,721 --> 00:06:21,833
+rate is ten thousand dollars a year.
+
+195
+00:06:22,184 --> 00:06:23,590
+Income, on the other hand,
+
+196
+00:06:23,590 --> 00:06:24,726
+has no fixed ceiling.
+
+197
+00:06:24,906 --> 00:06:26,349
+A raise, a promotion,
+
+198
+00:06:26,349 --> 00:06:27,036
+a new job,
+
+199
+00:06:27,036 --> 00:06:29,304
+a side business or a skill that's
+
+200
+00:06:29,304 --> 00:06:31,777
+in demand can increase what you earn
+
+201
+00:06:31,777 --> 00:06:34,320
+far more than cutting can reduce what
+
+202
+00:06:34,320 --> 00:06:35,007
+you spend.
+
+203
+00:06:35,357 --> 00:06:38,508
+Personal finance writer Ramit Sethi often makes
+
+204
+00:06:38,508 --> 00:06:39,246
+this point.
+
+205
+00:06:39,426 --> 00:06:41,006
+There's a limit to how much you
+
+206
+00:06:41,006 --> 00:06:42,433
+can cut, but no limit to how
+
+207
+00:06:42,433 --> 00:06:43,350
+much you can earn.
+
+208
+00:06:43,530 --> 00:06:45,336
+Cutting spending is important,
+
+209
+00:06:45,336 --> 00:06:47,443
+but it eventually runs out of room.
+
+210
+00:06:47,793 --> 00:06:50,091
+This doesn't mean frugality is useless.
+
+211
+00:06:50,271 --> 00:06:53,112
+It means frugality works best combined with
+
+212
+00:06:53,112 --> 00:06:56,018
+growing income and investing the difference.
+
+213
+00:06:56,369 --> 00:06:58,145
+Here's a simple comparison.
+
+214
+00:06:58,325 --> 00:07:01,159
+Cutting a fifteen dollar streaming service saves
+
+215
+00:07:01,159 --> 00:07:03,166
+one hundred eighty dollars a year.
+
+216
+00:07:03,346 --> 00:07:05,639
+Negotiating a three percent raise on a
+
+217
+00:07:05,639 --> 00:07:08,414
+fifty thousand dollar salary adds one thousand
+
+218
+00:07:08,414 --> 00:07:10,103
+five hundred dollars a year,
+
+219
+00:07:10,103 --> 00:07:12,456
+and that raise often carries into every
+
+220
+00:07:12,456 --> 00:07:13,482
+future raise too.
+
+221
+00:07:13,662 --> 00:07:15,005
+Both are worth doing,
+
+222
+00:07:15,005 --> 00:07:16,924
+but they aren't the same size.
+
+223
+00:07:17,275 --> 00:07:18,076
+Try this.
+
+224
+00:07:18,256 --> 00:07:20,765
+Write down your biggest three expenses and
+
+225
+00:07:20,765 --> 00:07:21,959
+your current income.
+
+226
+00:07:22,139 --> 00:07:24,278
+Ask which has more room to change
+
+227
+00:07:24,278 --> 00:07:25,704
+in the next two years.
+
+228
+00:07:26,054 --> 00:07:27,354
+Lesson number four.
+
+229
+00:07:27,534 --> 00:07:30,088
+Interest is taxed as ordinary income.
+
+230
+00:07:30,438 --> 00:07:32,529
+Interest from a savings account,
+
+231
+00:07:32,529 --> 00:07:34,881
+CD or money market fund is generally
+
+232
+00:07:34,881 --> 00:07:37,495
+taxed as ordinary income at your regular
+
+233
+00:07:37,495 --> 00:07:37,822
+rate.
+
+234
+00:07:38,002 --> 00:07:40,175
+If you're in the twenty two percent
+
+235
+00:07:40,175 --> 00:07:43,092
+federal bracket and earn four percent interest,
+
+236
+00:07:43,092 --> 00:07:45,576
+you keep roughly three point one percent
+
+237
+00:07:45,576 --> 00:07:46,755
+before state taxes.
+
+238
+00:07:47,106 --> 00:07:48,766
+Now subtract inflation.
+
+239
+00:07:48,946 --> 00:07:51,150
+If inflation is three percent,
+
+240
+00:07:51,150 --> 00:07:52,253
+your after tax,
+
+241
+00:07:52,253 --> 00:07:55,192
+after inflation return is close to zero.
+
+242
+00:07:55,372 --> 00:07:57,729
+Your savings are treading water at best.
+
+243
+00:07:58,079 --> 00:08:01,919
+Investments held in tax advantaged accounts like
+
+244
+00:08:01,919 --> 00:08:03,119
+four oh one ks,
+
+245
+00:08:03,119 --> 00:08:06,079
+IRAs and Roth IRAs avoid yearly taxes
+
+246
+00:08:06,079 --> 00:08:06,879
+on growth.
+
+247
+00:08:07,059 --> 00:08:09,811
+And long term capital gains and qualified
+
+248
+00:08:09,811 --> 00:08:12,832
+dividends in regular accounts often get lower
+
+249
+00:08:12,832 --> 00:08:14,443
+tax rates than interest.
+
+250
+00:08:14,793 --> 00:08:16,121
+So the same dollar,
+
+251
+00:08:16,121 --> 00:08:18,219
+saved in cash or invested in a
+
+252
+00:08:18,219 --> 00:08:19,828
+tax advantaged account,
+
+253
+00:08:19,828 --> 00:08:22,975
+can have very different results after decades
+
+254
+00:08:22,975 --> 00:08:23,605
+of taxes.
+
+255
+00:08:23,955 --> 00:08:26,086
+This doesn't mean you should avoid interest
+
+256
+00:08:26,086 --> 00:08:26,532
+entirely.
+
+257
+00:08:26,712 --> 00:08:29,451
+Your emergency fund still belongs in safe,
+
+258
+00:08:29,451 --> 00:08:31,147
+interest earning accounts.
+
+259
+00:08:31,327 --> 00:08:33,524
+It just means that for long term
+
+260
+00:08:33,524 --> 00:08:35,859
+money, the tax drag on interest is
+
+261
+00:08:35,859 --> 00:08:38,536
+one more reason cash struggles to build
+
+262
+00:08:38,536 --> 00:08:40,871
+wealth, and one more reason to use
+
+263
+00:08:40,871 --> 00:08:43,274
+tax advantaged accounts for growth.
+
+264
+00:08:43,624 --> 00:08:44,251
+Try this.
+
+265
+00:08:44,431 --> 00:08:46,409
+Look at last year's tax forms for
+
+266
+00:08:46,409 --> 00:08:47,368
+interest income.
+
+267
+00:08:47,548 --> 00:08:49,361
+That's money you paid tax on that
+
+268
+00:08:49,361 --> 00:08:51,229
+might have grown tax deferred in a
+
+269
+00:08:51,229 --> 00:08:52,273
+retirement account.
+
+270
+00:08:52,623 --> 00:08:53,969
+Lesson number five.
+
+271
+00:08:54,149 --> 00:08:56,015
+Cash has an important job,
+
+272
+00:08:56,015 --> 00:08:58,168
+just not the job of making you
+
+273
+00:08:58,168 --> 00:08:58,526
+rich.
+
+274
+00:08:58,877 --> 00:09:00,119
+Let's be fair to saving.
+
+275
+00:09:00,299 --> 00:09:01,669
+Cash is essential.
+
+276
+00:09:01,849 --> 00:09:04,202
+An emergency fund of three to six
+
+277
+00:09:04,202 --> 00:09:07,483
+months of essential expenses protects you from
+
+278
+00:09:07,483 --> 00:09:10,336
+job loss, medical bills and car repairs.
+
+279
+00:09:10,516 --> 00:09:12,810
+It stops a bad month from becoming
+
+280
+00:09:12,810 --> 00:09:13,755
+a debt spiral.
+
+281
+00:09:14,105 --> 00:09:16,603
+Cash is also right for short term
+
+282
+00:09:16,603 --> 00:09:18,647
+goals, like a car purchase,
+
+283
+00:09:18,647 --> 00:09:20,994
+a down payment in the next year
+
+284
+00:09:20,994 --> 00:09:22,963
+or two, or a planned trip.
+
+285
+00:09:23,143 --> 00:09:25,511
+Money you'll need soon shouldn't be exposed
+
+286
+00:09:25,511 --> 00:09:26,777
+to stock market swings.
+
+287
+00:09:27,127 --> 00:09:29,182
+The problem isn't having cash.
+
+288
+00:09:29,362 --> 00:09:31,469
+It's having too much cash for too
+
+289
+00:09:31,469 --> 00:09:31,788
+long.
+
+290
+00:09:31,968 --> 00:09:34,751
+Money beyond your emergency fund and near
+
+291
+00:09:34,751 --> 00:09:37,263
+term goals often sits idle for years,
+
+292
+00:09:37,263 --> 00:09:38,621
+losing buying power.
+
+293
+00:09:38,971 --> 00:09:41,404
+A useful mental model is to give
+
+294
+00:09:41,404 --> 00:09:42,848
+every dollar a job.
+
+295
+00:09:43,028 --> 00:09:45,304
+Safety dollars stay in cash.
+
+296
+00:09:45,484 --> 00:09:48,305
+Goal dollars wait in savings or CDs.
+
+297
+00:09:48,485 --> 00:09:50,714
+Growth dollars get invested for the long
+
+298
+00:09:50,714 --> 00:09:50,993
+term.
+
+299
+00:09:51,343 --> 00:09:53,383
+Some people find it helps to see
+
+300
+00:09:53,383 --> 00:09:54,531
+cash as insurance,
+
+301
+00:09:54,531 --> 00:09:55,870
+not as an investment.
+
+302
+00:09:56,050 --> 00:09:58,193
+You don't buy car insurance expecting it
+
+303
+00:09:58,193 --> 00:09:59,104
+to make you rich.
+
+304
+00:09:59,284 --> 00:10:00,799
+You buy it so a bad day
+
+305
+00:10:00,799 --> 00:10:01,919
+doesn't ruin you.
+
+306
+00:10:02,099 --> 00:10:04,375
+An emergency fund works the same way.
+
+307
+00:10:04,555 --> 00:10:06,524
+Its return is peace of mind,
+
+308
+00:10:06,524 --> 00:10:08,493
+and that's worth paying for,
+
+309
+00:10:08,493 --> 00:10:09,478
+up to a point.
+
+310
+00:10:09,828 --> 00:10:10,547
+Try this.
+
+311
+00:10:10,727 --> 00:10:13,305
+Split your savings into three labels,
+
+312
+00:10:13,305 --> 00:10:15,046
+safety, goals and growth.
+
+313
+00:10:15,226 --> 00:10:17,612
+Any growth money still sitting in cash
+
+314
+00:10:17,612 --> 00:10:19,685
+is probably ready to be invested.
+
+315
+00:10:20,035 --> 00:10:21,381
+Lesson number six.
+
+316
+00:10:21,561 --> 00:10:23,576
+Time multiplies investing,
+
+317
+00:10:23,576 --> 00:10:24,429
+not saving.
+
+318
+00:10:24,779 --> 00:10:26,199
+In a savings account,
+
+319
+00:10:26,199 --> 00:10:27,416
+time barely helps,
+
+320
+00:10:27,416 --> 00:10:29,039
+because the rate is low.
+
+321
+00:10:29,219 --> 00:10:30,818
+In an investment account,
+
+322
+00:10:30,818 --> 00:10:33,376
+time is the biggest multiplier there is.
+
+323
+00:10:33,556 --> 00:10:36,248
+Every extra year gives compounding more room
+
+324
+00:10:36,248 --> 00:10:36,737
+to work.
+
+325
+00:10:37,087 --> 00:10:39,612
+Three hundred dollars a month for thirty
+
+326
+00:10:39,612 --> 00:10:41,190
+five years, kept in cash,
+
+327
+00:10:41,190 --> 00:10:44,157
+totals one hundred twenty six thousand dollars.
+
+328
+00:10:44,337 --> 00:10:46,813
+Invested at a seven percent average yearly
+
+329
+00:10:46,813 --> 00:10:48,995
+return, it could grow to roughly five
+
+330
+00:10:48,995 --> 00:10:50,351
+hundred forty thousand.
+
+331
+00:10:50,701 --> 00:10:52,853
+That means the longer you leave long
+
+332
+00:10:52,853 --> 00:10:53,990
+term money in cash,
+
+333
+00:10:53,990 --> 00:10:55,066
+the more you lose.
+
+334
+00:10:55,246 --> 00:10:57,825
+A decade of saving without investing can
+
+335
+00:10:57,825 --> 00:11:00,210
+cost far more than the decade itself,
+
+336
+00:11:00,210 --> 00:11:03,176
+because those dollars miss their most powerful
+
+337
+00:11:03,176 --> 00:11:04,337
+compounding years.
+
+338
+00:11:04,687 --> 00:11:06,680
+The good news is that it's never
+
+339
+00:11:06,680 --> 00:11:08,425
+too late to start investing.
+
+340
+00:11:08,605 --> 00:11:10,684
+But the sooner long term money starts
+
+341
+00:11:10,684 --> 00:11:12,595
+working, the less you need to save
+
+342
+00:11:12,595 --> 00:11:13,887
+to reach the same goal.
+
+343
+00:11:14,238 --> 00:11:15,856
+Here's a striking way to think about
+
+344
+00:11:15,856 --> 00:11:15,991
+it.
+
+345
+00:11:16,171 --> 00:11:18,065
+For a twenty five year old,
+
+346
+00:11:18,065 --> 00:11:21,081
+each dollar invested at seven percent could
+
+347
+00:11:21,081 --> 00:11:24,098
+become roughly fifteen dollars by age sixty
+
+348
+00:11:24,098 --> 00:11:24,449
+five.
+
+349
+00:11:24,629 --> 00:11:26,357
+For a forty five year old,
+
+350
+00:11:26,357 --> 00:11:29,017
+the same dollar might become about four.
+
+351
+00:11:29,197 --> 00:11:31,992
+Your earliest dollars are your most powerful
+
+352
+00:11:31,992 --> 00:11:34,469
+ones, which is exactly why leaving them
+
+353
+00:11:34,469 --> 00:11:35,803
+in cash is so costly.
+
+354
+00:11:36,154 --> 00:11:37,094
+Try this.
+
+355
+00:11:37,274 --> 00:11:40,077
+If you're saving for retirement in cash,
+
+356
+00:11:40,077 --> 00:11:43,020
+move it into a retirement account invested
+
+357
+00:11:43,020 --> 00:11:44,001
+in a low cost,
+
+358
+00:11:44,001 --> 00:11:45,192
+diversified fund.
+
+359
+00:11:45,542 --> 00:11:46,923
+Lesson number seven.
+
+360
+00:11:47,103 --> 00:11:49,953
+A raise invested beats a lifetime of
+
+361
+00:11:49,953 --> 00:11:50,586
+coupons.
+
+362
+00:11:50,936 --> 00:11:53,152
+Imagine you get a ten thousand dollar
+
+363
+00:11:53,152 --> 00:11:54,769
+raise and invest all of it,
+
+364
+00:11:54,769 --> 00:11:57,284
+about eight hundred thirty three dollars a
+
+365
+00:11:57,284 --> 00:11:59,321
+month, for thirty years at a seven
+
+366
+00:11:59,321 --> 00:12:01,118
+percent average yearly return.
+
+367
+00:12:01,298 --> 00:12:03,580
+That could grow to roughly one million
+
+368
+00:12:03,580 --> 00:12:04,061
+dollars.
+
+369
+00:12:04,411 --> 00:12:05,890
+To match that by cutting,
+
+370
+00:12:05,890 --> 00:12:08,139
+you'd need to cut eight hundred thirty
+
+371
+00:12:08,139 --> 00:12:10,565
+three dollars a month from your spending,
+
+372
+00:12:10,565 --> 00:12:12,340
+every month, for thirty years.
+
+373
+00:12:12,520 --> 00:12:13,445
+For most people,
+
+374
+00:12:13,445 --> 00:12:15,527
+that's far harder than earning more.
+
+375
+00:12:15,878 --> 00:12:17,541
+Research on job changes,
+
+376
+00:12:17,541 --> 00:12:19,898
+such as wage data from the Federal
+
+377
+00:12:19,898 --> 00:12:21,561
+Reserve Bank of Atlanta,
+
+378
+00:12:21,561 --> 00:12:24,126
+has shown that people who switch jobs
+
+379
+00:12:24,126 --> 00:12:26,829
+have often seen faster wage growth than
+
+380
+00:12:26,829 --> 00:12:27,869
+those who stay,
+
+381
+00:12:27,869 --> 00:12:29,879
+at least during many periods.
+
+382
+00:12:30,230 --> 00:12:34,540
+Skills, certifications, negotiation and career moves can
+
+383
+00:12:34,540 --> 00:12:36,464
+raise income for decades.
+
+384
+00:12:36,644 --> 00:12:39,180
+Every raise you invest builds wealth far
+
+385
+00:12:39,180 --> 00:12:40,766
+faster than saving alone.
+
+386
+00:12:41,116 --> 00:12:44,006
+Earning more also makes saving easier emotionally.
+
+387
+00:12:44,186 --> 00:12:46,362
+When your income rises and you invest
+
+388
+00:12:46,362 --> 00:12:47,479
+part of each raise,
+
+389
+00:12:47,479 --> 00:12:49,949
+you can save more without cutting anything
+
+390
+00:12:49,949 --> 00:12:50,537
+you enjoy.
+
+391
+00:12:50,717 --> 00:12:53,164
+That's far more sustainable than squeezing an
+
+392
+00:12:53,164 --> 00:12:55,175
+already tight budget year after year.
+
+393
+00:12:55,526 --> 00:12:56,303
+Try this.
+
+394
+00:12:56,483 --> 00:12:58,504
+Research the market pay for your role.
+
+395
+00:12:58,684 --> 00:12:59,993
+If you're below it,
+
+396
+00:12:59,993 --> 00:13:01,853
+prepare a case for a raise,
+
+397
+00:13:01,853 --> 00:13:03,989
+or explore other opportunities.
+
+398
+00:13:04,340 --> 00:13:05,268
+That's angle one.
+
+399
+00:13:05,448 --> 00:13:07,440
+Inflation, the growth gap,
+
+400
+00:13:07,440 --> 00:13:08,972
+the savings ceiling,
+
+401
+00:13:08,972 --> 00:13:10,351
+taxes on interest,
+
+402
+00:13:10,351 --> 00:13:11,577
+cash's real job,
+
+403
+00:13:11,577 --> 00:13:13,262
+time and earning more.
+
+404
+00:13:13,442 --> 00:13:14,533
+Now angle two.
+
+405
+00:13:14,713 --> 00:13:15,758
+The psychology.
+
+406
+00:13:16,108 --> 00:13:17,640
+If the math is so clear,
+
+407
+00:13:17,640 --> 00:13:19,683
+why do so many people keep their
+
+408
+00:13:19,683 --> 00:13:20,577
+money in cash?
+
+409
+00:13:20,757 --> 00:13:23,788
+Because the psychology of saving is powerful.
+
+410
+00:13:23,968 --> 00:13:25,192
+Cash feels safe,
+
+411
+00:13:25,192 --> 00:13:26,875
+investing feels risky,
+
+412
+00:13:26,875 --> 00:13:29,400
+and our brains are wired to avoid
+
+413
+00:13:29,400 --> 00:13:29,935
+losses.
+
+414
+00:13:30,115 --> 00:13:33,163
+Here are seven psychological reasons people get
+
+415
+00:13:33,163 --> 00:13:34,201
+stuck as savers,
+
+416
+00:13:34,201 --> 00:13:35,758
+and how to move forward.
+
+417
+00:13:36,108 --> 00:13:37,385
+Lesson number eight.
+
+418
+00:13:37,565 --> 00:13:38,698
+Cash feels safe,
+
+419
+00:13:38,698 --> 00:13:40,328
+but it isn't risk free.
+
+420
+00:13:40,678 --> 00:13:42,999
+The number in a savings account never
+
+421
+00:13:42,999 --> 00:13:43,627
+goes down.
+
+422
+00:13:43,807 --> 00:13:45,966
+That stability feels like safety.
+
+423
+00:13:46,146 --> 00:13:48,155
+But inflation is a risk too.
+
+424
+00:13:48,335 --> 00:13:50,222
+It's just slow and invisible,
+
+425
+00:13:50,222 --> 00:13:52,501
+so it doesn't trigger the same fear
+
+426
+00:13:52,501 --> 00:13:54,128
+as a falling stock price.
+
+427
+00:13:54,478 --> 00:13:57,649
+Economists sometimes call this money illusion,
+
+428
+00:13:57,649 --> 00:14:00,408
+the tendency to think in nominal dollars
+
+429
+00:14:00,408 --> 00:14:02,407
+instead of real buying power.
+
+430
+00:14:02,587 --> 00:14:05,172
+A balance of ten thousand dollars feels
+
+431
+00:14:05,172 --> 00:14:07,492
+the same today and in twenty years,
+
+432
+00:14:07,492 --> 00:14:09,878
+even though it buys much less later.
+
+433
+00:14:10,229 --> 00:14:13,085
+Long term, the biggest financial risk for
+
+434
+00:14:13,085 --> 00:14:15,383
+many savers isn't a market crash.
+
+435
+00:14:15,563 --> 00:14:17,742
+It's running out of money in retirement,
+
+436
+00:14:17,742 --> 00:14:19,975
+or never building enough to have options.
+
+437
+00:14:20,326 --> 00:14:21,917
+Recognizing both risks,
+
+438
+00:14:21,917 --> 00:14:24,063
+market risk and inflation risk,
+
+439
+00:14:24,063 --> 00:14:25,655
+helps you balance them,
+
+440
+00:14:25,655 --> 00:14:28,215
+instead of only avoiding the one that
+
+441
+00:14:28,215 --> 00:14:29,184
+feels scarier.
+
+442
+00:14:29,534 --> 00:14:31,494
+There's also a risk in being too
+
+443
+00:14:31,494 --> 00:14:33,760
+cautious with your career and income.
+
+444
+00:14:33,940 --> 00:14:35,575
+Never asking for a raise,
+
+445
+00:14:35,575 --> 00:14:38,258
+never learning new skills or never taking
+
+446
+00:14:38,258 --> 00:14:40,090
+a chance on a better job can
+
+447
+00:14:40,090 --> 00:14:42,511
+quietly cost far more over a lifetime
+
+448
+00:14:42,511 --> 00:14:43,820
+than a market crash.
+
+449
+00:14:44,000 --> 00:14:46,235
+Playing it safe isn't always the safe
+
+450
+00:14:46,235 --> 00:14:46,658
+choice.
+
+451
+00:14:47,009 --> 00:14:47,821
+Try this.
+
+452
+00:14:48,001 --> 00:14:50,325
+Ask yourself which worries you more,
+
+453
+00:14:50,325 --> 00:14:52,714
+a temporary market drop or not having
+
+454
+00:14:52,714 --> 00:14:53,876
+enough at seventy.
+
+455
+00:14:54,056 --> 00:14:55,853
+Your answer can guide how much you
+
+456
+00:14:55,853 --> 00:14:56,541
+keep in cash.
+
+457
+00:14:56,891 --> 00:14:58,110
+Lesson number nine.
+
+458
+00:14:58,290 --> 00:15:00,681
+Frugality fatigue is real.
+
+459
+00:15:01,032 --> 00:15:02,802
+Some people try to get rich by
+
+460
+00:15:02,802 --> 00:15:04,631
+cutting every possible expense.
+
+461
+00:15:04,811 --> 00:15:07,322
+No vacations, no dinners out,
+
+462
+00:15:07,322 --> 00:15:08,967
+no small pleasures.
+
+463
+00:15:09,147 --> 00:15:10,642
+It can work for a while,
+
+464
+00:15:10,642 --> 00:15:12,199
+but many people burn out,
+
+465
+00:15:12,199 --> 00:15:14,441
+and then swing back to overspending.
+
+466
+00:15:14,792 --> 00:15:17,507
+Extreme frugality can also take time and
+
+467
+00:15:17,507 --> 00:15:20,222
+energy away from things that grow wealth
+
+468
+00:15:20,222 --> 00:15:22,190
+faster, like building skills,
+
+469
+00:15:22,190 --> 00:15:24,498
+networking or starting a business.
+
+470
+00:15:24,678 --> 00:15:26,797
+Spending hours to save a few dollars
+
+471
+00:15:26,797 --> 00:15:27,975
+can be a poor trade.
+
+472
+00:15:28,325 --> 00:15:30,637
+A more sustainable approach is to cut
+
+473
+00:15:30,637 --> 00:15:33,261
+ruthlessly on things you don't care about,
+
+474
+00:15:33,261 --> 00:15:35,573
+and spend on things that truly matter
+
+475
+00:15:35,573 --> 00:15:36,010
+to you.
+
+476
+00:15:36,190 --> 00:15:39,093
+That keeps saving sustainable for decades.
+
+477
+00:15:39,443 --> 00:15:41,823
+Being a great saver is a strength.
+
+478
+00:15:42,003 --> 00:15:44,114
+The trap is believing saving is the
+
+479
+00:15:44,114 --> 00:15:44,777
+only lever.
+
+480
+00:15:44,957 --> 00:15:48,053
+The most successful wealth builders pull several
+
+481
+00:15:48,053 --> 00:15:49,021
+levers at once.
+
+482
+00:15:49,371 --> 00:15:52,521
+Ramit Sethi calls this spending extravagantly on
+
+483
+00:15:52,521 --> 00:15:54,949
+the things you love and cutting costs
+
+484
+00:15:54,949 --> 00:15:57,312
+mercilessly on the things you don't.
+
+485
+00:15:57,492 --> 00:15:59,782
+It turns saving from a punishment into
+
+486
+00:15:59,782 --> 00:16:02,013
+a choice, and choices are much easier
+
+487
+00:16:02,013 --> 00:16:04,062
+to stick with than rules that feel
+
+488
+00:16:04,062 --> 00:16:05,027
+like punishment.
+
+489
+00:16:05,377 --> 00:16:06,154
+Try this.
+
+490
+00:16:06,334 --> 00:16:08,643
+List three expenses you'd happily cut and
+
+491
+00:16:08,643 --> 00:16:10,108
+three you'd never give up.
+
+492
+00:16:10,288 --> 00:16:11,548
+Cut the first three,
+
+493
+00:16:11,548 --> 00:16:12,934
+keep the second three,
+
+494
+00:16:12,934 --> 00:16:14,572
+and invest the difference.
+
+495
+00:16:14,922 --> 00:16:16,083
+Lesson number ten.
+
+496
+00:16:16,263 --> 00:16:19,097
+Fear of losing money keeps people in
+
+497
+00:16:19,097 --> 00:16:19,490
+cash.
+
+498
+00:16:19,840 --> 00:16:23,457
+Psychologists Daniel Kahneman and Amos Tversky found
+
+499
+00:16:23,457 --> 00:16:25,961
+that losses tend to feel about twice
+
+500
+00:16:25,961 --> 00:16:28,466
+as painful as equal gains feel good.
+
+501
+00:16:28,646 --> 00:16:30,002
+That makes investing,
+
+502
+00:16:30,002 --> 00:16:31,616
+where losses are visible,
+
+503
+00:16:31,616 --> 00:16:33,940
+feel much scarier than keeping cash.
+
+504
+00:16:34,290 --> 00:16:36,852
+Many people who lived through crashes,
+
+505
+00:16:36,852 --> 00:16:39,213
+like 2008, kept their money in cash
+
+506
+00:16:39,213 --> 00:16:40,562
+for years afterward,
+
+507
+00:16:40,562 --> 00:16:43,461
+missing much of the recovery that followed.
+
+508
+00:16:43,812 --> 00:16:45,522
+One way to reduce fear is to
+
+509
+00:16:45,522 --> 00:16:47,783
+start small and invest automatically,
+
+510
+00:16:47,783 --> 00:16:49,982
+so you're not making a big emotional
+
+511
+00:16:49,982 --> 00:16:51,265
+decision all at once.
+
+512
+00:16:51,445 --> 00:16:54,226
+Another is choosing a balanced fund with
+
+513
+00:16:54,226 --> 00:16:55,756
+both stocks and bonds,
+
+514
+00:16:55,756 --> 00:16:57,564
+which tends to swing less.
+
+515
+00:16:57,914 --> 00:17:00,578
+Over time, as you see your investments
+
+516
+00:17:00,578 --> 00:17:01,841
+recover from dips,
+
+517
+00:17:01,841 --> 00:17:03,173
+fear usually fades.
+
+518
+00:17:03,353 --> 00:17:05,501
+Experience builds confidence.
+
+519
+00:17:05,851 --> 00:17:07,499
+It also helps to zoom out.
+
+520
+00:17:07,679 --> 00:17:08,906
+Over a single day,
+
+521
+00:17:08,906 --> 00:17:11,290
+the stock market falls quite often.
+
+522
+00:17:11,470 --> 00:17:12,618
+Over a single year,
+
+523
+00:17:12,618 --> 00:17:14,490
+it has risen more often than it
+
+524
+00:17:14,490 --> 00:17:15,940
+has fallen historically.
+
+525
+00:17:16,120 --> 00:17:17,801
+Over twenty year periods,
+
+526
+00:17:17,801 --> 00:17:19,684
+the S and P five hundred has
+
+527
+00:17:19,684 --> 00:17:22,777
+historically delivered positive total returns,
+
+528
+00:17:22,777 --> 00:17:25,802
+though the past doesn't guarantee the future.
+
+529
+00:17:25,982 --> 00:17:27,741
+The longer your time horizon,
+
+530
+00:17:27,741 --> 00:17:30,288
+the less frightening the short term swings
+
+531
+00:17:30,288 --> 00:17:30,592
+look.
+
+532
+00:17:30,942 --> 00:17:31,743
+Try this.
+
+533
+00:17:31,923 --> 00:17:34,987
+Invest a small amount automatically each month
+
+534
+00:17:34,987 --> 00:17:35,853
+for one year,
+
+535
+00:17:35,853 --> 00:17:38,517
+and watch what happens without reacting.
+
+536
+00:17:38,697 --> 00:17:40,706
+Then decide whether to increase it.
+
+537
+00:17:41,056 --> 00:17:42,263
+Quick pause.
+
+538
+00:17:42,443 --> 00:17:44,367
+If this is changing how you think
+
+539
+00:17:44,367 --> 00:17:45,475
+about your savings,
+
+540
+00:17:45,475 --> 00:17:47,633
+please subscribe to Ryan Rover Money.
+
+541
+00:17:47,813 --> 00:17:49,424
+It's free, and it helps us keep
+
+542
+00:17:49,424 --> 00:17:50,100
+making these.
+
+543
+00:17:50,280 --> 00:17:51,940
+Now, lesson eleven.
+
+544
+00:17:52,290 --> 00:17:53,520
+Lesson number eleven.
+
+545
+00:17:53,700 --> 00:17:56,231
+A scarcity mindset narrows your focus.
+
+546
+00:17:56,582 --> 00:18:00,589
+Economist Sendhil Mullainathan and psychologist Eldar Shafir
+
+547
+00:18:00,589 --> 00:18:02,526
+wrote a book called Scarcity.
+
+548
+00:18:02,706 --> 00:18:05,017
+They argue that when people feel they
+
+549
+00:18:05,017 --> 00:18:06,141
+don't have enough,
+
+550
+00:18:06,141 --> 00:18:07,015
+money or time,
+
+551
+00:18:07,015 --> 00:18:09,701
+their attention narrows to immediate needs,
+
+552
+00:18:09,701 --> 00:18:11,762
+making long term planning harder.
+
+553
+00:18:12,112 --> 00:18:14,622
+For savers, a scarcity mindset can show
+
+554
+00:18:14,622 --> 00:18:16,682
+up as hoarding cash out of fear,
+
+555
+00:18:16,682 --> 00:18:19,321
+even when there's enough for emergencies.
+
+556
+00:18:19,501 --> 00:18:20,434
+It feels safe,
+
+557
+00:18:20,434 --> 00:18:22,032
+but it can block growth.
+
+558
+00:18:22,383 --> 00:18:24,929
+Building a solid emergency fund first can
+
+559
+00:18:24,929 --> 00:18:26,295
+help break this cycle.
+
+560
+00:18:26,475 --> 00:18:28,574
+Once you know emergencies are covered,
+
+561
+00:18:28,574 --> 00:18:30,894
+it becomes easier to think about investing
+
+562
+00:18:30,894 --> 00:18:31,723
+for the future.
+
+563
+00:18:32,073 --> 00:18:33,547
+Reframing helps too.
+
+564
+00:18:33,727 --> 00:18:35,643
+Investing isn't spending money.
+
+565
+00:18:35,823 --> 00:18:37,790
+It's moving money from a place where
+
+566
+00:18:37,790 --> 00:18:39,429
+it shrinks to a place where it
+
+567
+00:18:39,429 --> 00:18:39,921
+can grow.
+
+568
+00:18:40,271 --> 00:18:42,324
+Scarcity can also be a phase,
+
+569
+00:18:42,324 --> 00:18:43,881
+not a permanent state.
+
+570
+00:18:44,061 --> 00:18:46,535
+Many people who once lived paycheck to
+
+571
+00:18:46,535 --> 00:18:48,682
+paycheck later build real wealth.
+
+572
+00:18:48,862 --> 00:18:50,852
+The key is moving step by step,
+
+573
+00:18:50,852 --> 00:18:52,777
+first stability, then savings,
+
+574
+00:18:52,777 --> 00:18:55,280
+then investing, so each stage gives you
+
+575
+00:18:55,280 --> 00:18:57,655
+the breathing room to think about the
+
+576
+00:18:57,655 --> 00:18:57,976
+next.
+
+577
+00:18:58,326 --> 00:18:59,138
+Try this.
+
+578
+00:18:59,318 --> 00:19:01,336
+Once your emergency fund is full,
+
+579
+00:19:01,336 --> 00:19:03,536
+write down a specific long term goal
+
+580
+00:19:03,536 --> 00:19:05,309
+for the next dollar you save.
+
+581
+00:19:05,489 --> 00:19:07,904
+Purpose makes investing feel less risky.
+
+582
+00:19:08,254 --> 00:19:09,601
+Lesson number twelve.
+
+583
+00:19:09,781 --> 00:19:11,858
+Being a saver can become your whole
+
+584
+00:19:11,858 --> 00:19:12,393
+identity.
+
+585
+00:19:12,743 --> 00:19:15,556
+Many careful people proudly see themselves as
+
+586
+00:19:15,556 --> 00:19:15,994
+savers.
+
+587
+00:19:16,174 --> 00:19:17,911
+That identity is valuable,
+
+588
+00:19:17,911 --> 00:19:20,251
+but it can also make investing feel
+
+589
+00:19:20,251 --> 00:19:22,390
+like a betrayal of who they are,
+
+590
+00:19:22,390 --> 00:19:24,997
+as if taking any risk is irresponsible.
+
+591
+00:19:25,347 --> 00:19:28,544
+Expanding your identity from saver to investor
+
+592
+00:19:28,544 --> 00:19:30,281
+or owner can be powerful.
+
+593
+00:19:30,461 --> 00:19:32,075
+Investors still save.
+
+594
+00:19:32,255 --> 00:19:34,147
+They just put their savings to work.
+
+595
+00:19:34,497 --> 00:19:37,672
+Many millionaires studied by Thomas Stanley and
+
+596
+00:19:37,672 --> 00:19:40,509
+William Danko in The Millionaire Next Door
+
+597
+00:19:40,509 --> 00:19:41,860
+were careful savers,
+
+598
+00:19:41,860 --> 00:19:44,900
+but they also invested consistently and often
+
+599
+00:19:44,900 --> 00:19:46,049
+owned businesses.
+
+600
+00:19:46,399 --> 00:19:48,628
+Saving is how you collect the seeds.
+
+601
+00:19:48,808 --> 00:19:50,596
+Investing is how you plant them.
+
+602
+00:19:50,946 --> 00:19:53,855
+Your saving skills are a huge advantage
+
+603
+00:19:53,855 --> 00:19:54,974
+as an investor.
+
+604
+00:19:55,154 --> 00:19:57,471
+The discipline to live below your means
+
+605
+00:19:57,471 --> 00:20:00,084
+is exactly what lets you invest consistently
+
+606
+00:20:00,084 --> 00:20:01,807
+through good markets and bad.
+
+607
+00:20:01,987 --> 00:20:04,280
+Many people who earn more never build
+
+608
+00:20:04,280 --> 00:20:06,201
+wealth because they can't save.
+
+609
+00:20:06,381 --> 00:20:08,158
+You already have the hardest part.
+
+610
+00:20:08,508 --> 00:20:09,320
+Try this.
+
+611
+00:20:09,500 --> 00:20:10,465
+Say out loud,
+
+612
+00:20:10,465 --> 00:20:12,542
+I'm a saver and an investor.
+
+613
+00:20:12,722 --> 00:20:14,832
+Then take one small action this week
+
+614
+00:20:14,832 --> 00:20:16,472
+that an investor would take.
+
+615
+00:20:16,822 --> 00:20:18,261
+Lesson number thirteen.
+
+616
+00:20:18,441 --> 00:20:20,763
+Waiting for certainty keeps money idle.
+
+617
+00:20:21,114 --> 00:20:23,908
+Many savers plan to invest once things
+
+618
+00:20:23,908 --> 00:20:26,481
+settle down, once the market drops,
+
+619
+00:20:26,481 --> 00:20:28,834
+once they understand everything.
+
+620
+00:20:29,014 --> 00:20:30,603
+But markets are never certain,
+
+621
+00:20:30,603 --> 00:20:32,509
+and there's always a reason to wait.
+
+622
+00:20:32,859 --> 00:20:35,158
+Meanwhile, months turn into years.
+
+623
+00:20:35,338 --> 00:20:37,031
+Every year in cash is a year
+
+624
+00:20:37,031 --> 00:20:39,691
+of missed compounding and lost buying power.
+
+625
+00:20:40,041 --> 00:20:41,494
+Dollar cost averaging,
+
+626
+00:20:41,494 --> 00:20:43,939
+investing a fixed amount on a regular
+
+627
+00:20:43,939 --> 00:20:46,450
+schedule, removes the need to pick the
+
+628
+00:20:46,450 --> 00:20:47,309
+perfect time.
+
+629
+00:20:47,489 --> 00:20:49,478
+You buy more shares when prices are
+
+630
+00:20:49,478 --> 00:20:51,297
+low and fewer when they're high.
+
+631
+00:20:51,647 --> 00:20:53,871
+You don't need to understand everything to
+
+632
+00:20:53,871 --> 00:20:54,189
+start.
+
+633
+00:20:54,369 --> 00:20:55,787
+A simple, low cost,
+
+634
+00:20:55,787 --> 00:20:59,294
+diversified fund is a reasonable starting point
+
+635
+00:20:59,294 --> 00:21:00,488
+for many people.
+
+636
+00:21:00,838 --> 00:21:03,576
+Remember too that investing isn't all or
+
+637
+00:21:03,576 --> 00:21:04,123
+nothing.
+
+638
+00:21:04,303 --> 00:21:05,988
+You don't have to move all your
+
+639
+00:21:05,988 --> 00:21:06,858
+savings at once.
+
+640
+00:21:07,038 --> 00:21:08,967
+You can invest a portion now and
+
+641
+00:21:08,967 --> 00:21:10,172
+add more each month.
+
+642
+00:21:10,352 --> 00:21:12,367
+That spreads out your timing and makes
+
+643
+00:21:12,367 --> 00:21:14,381
+the first step much less intimidating.
+
+644
+00:21:14,731 --> 00:21:15,625
+Try this.
+
+645
+00:21:15,805 --> 00:21:17,245
+Set a date within the next two
+
+646
+00:21:17,245 --> 00:21:18,974
+weeks to make your first investment.
+
+647
+00:21:19,154 --> 00:21:21,801
+A deadline turns waiting into action.
+
+648
+00:21:22,151 --> 00:21:23,695
+Lesson number fourteen.
+
+649
+00:21:23,875 --> 00:21:26,835
+The rules changed since our grandparents' time.
+
+650
+00:21:27,186 --> 00:21:30,344
+Decades ago, many workers had pensions.
+
+651
+00:21:30,524 --> 00:21:33,250
+Employers promised a monthly check for life
+
+652
+00:21:33,250 --> 00:21:36,166
+in retirement, and they managed the investing.
+
+653
+00:21:36,346 --> 00:21:38,598
+Workers could simply save a little and
+
+654
+00:21:38,598 --> 00:21:39,783
+rely on the pension.
+
+655
+00:21:40,133 --> 00:21:43,443
+Today, most private sector workers rely on
+
+656
+00:21:43,443 --> 00:21:46,123
+four oh one k style plans instead.
+
+657
+00:21:46,303 --> 00:21:49,503
+The responsibility for investing and making money
+
+658
+00:21:49,503 --> 00:21:52,573
+last has shifted from employers to individuals.
+
+659
+00:21:52,923 --> 00:21:55,756
+That means saving alone isn't enough anymore.
+
+660
+00:21:55,936 --> 00:21:58,885
+Without investing, there's nothing to replace the
+
+661
+00:21:58,885 --> 00:22:01,172
+growth a pension fund used to provide.
+
+662
+00:22:01,522 --> 00:22:02,903
+The upside is control.
+
+663
+00:22:03,083 --> 00:22:04,844
+You choose how much to invest,
+
+664
+00:22:04,844 --> 00:22:06,605
+where to invest it and when to
+
+665
+00:22:06,605 --> 00:22:07,309
+increase it.
+
+666
+00:22:07,660 --> 00:22:09,541
+People are also living longer.
+
+667
+00:22:09,721 --> 00:22:12,186
+A retirement that starts at sixty five
+
+668
+00:22:12,186 --> 00:22:14,132
+can last thirty years or more.
+
+669
+00:22:14,312 --> 00:22:16,436
+Money that needs to last three decades
+
+670
+00:22:16,436 --> 00:22:17,610
+can't just sit still.
+
+671
+00:22:17,790 --> 00:22:19,422
+It needs to keep growing,
+
+672
+00:22:19,422 --> 00:22:20,923
+even during retirement,
+
+673
+00:22:20,923 --> 00:22:22,817
+to keep up with rising costs.
+
+674
+00:22:23,167 --> 00:22:24,014
+Try this.
+
+675
+00:22:24,194 --> 00:22:26,680
+If your employer offers a retirement plan,
+
+676
+00:22:26,680 --> 00:22:28,751
+find out how it's invested and make
+
+677
+00:22:28,751 --> 00:22:30,763
+sure your money isn't sitting in a
+
+678
+00:22:30,763 --> 00:22:32,124
+cash option by default.
+
+679
+00:22:32,474 --> 00:22:33,310
+That's angle two.
+
+680
+00:22:33,490 --> 00:22:35,270
+The illusion of safety,
+
+681
+00:22:35,270 --> 00:22:37,747
+frugality fatigue, fear of loss,
+
+682
+00:22:37,747 --> 00:22:39,991
+scarcity, the saver identity,
+
+683
+00:22:39,991 --> 00:22:43,242
+waiting for certainty and a changed world.
+
+684
+00:22:43,422 --> 00:22:44,629
+Now angle three.
+
+685
+00:22:44,809 --> 00:22:45,645
+The playbook.
+
+686
+00:22:45,996 --> 00:22:48,051
+Here's how to turn saving into wealth.
+
+687
+00:22:48,231 --> 00:22:50,856
+Six moves that combine saving with the
+
+688
+00:22:50,856 --> 00:22:52,860
+three real engines of wealth,
+
+689
+00:22:52,860 --> 00:22:55,278
+investing, earning more and owning.
+
+690
+00:22:55,628 --> 00:22:57,009
+Move number fifteen.
+
+691
+00:22:57,189 --> 00:22:58,826
+Save with a destination.
+
+692
+00:22:59,177 --> 00:23:01,650
+Start by saving an emergency fund of
+
+693
+00:23:01,650 --> 00:23:04,467
+three to six months of essential expenses
+
+694
+00:23:04,467 --> 00:23:06,665
+in a high yield savings account.
+
+695
+00:23:06,845 --> 00:23:08,029
+That's your foundation.
+
+696
+00:23:08,380 --> 00:23:09,622
+Then set a rule.
+
+697
+00:23:09,802 --> 00:23:12,105
+Every dollar saved beyond that has a
+
+698
+00:23:12,105 --> 00:23:14,792
+destination, a specific short term goal or
+
+699
+00:23:14,792 --> 00:23:16,071
+long term investing.
+
+700
+00:23:16,422 --> 00:23:18,268
+Automation makes this easy.
+
+701
+00:23:18,448 --> 00:23:20,889
+Set up automatic transfers on payday to
+
+702
+00:23:20,889 --> 00:23:22,141
+your emergency fund,
+
+703
+00:23:22,141 --> 00:23:24,206
+then to your investment accounts.
+
+704
+00:23:24,556 --> 00:23:26,716
+Once your emergency fund is full,
+
+705
+00:23:26,716 --> 00:23:29,072
+redirect that transfer to investing.
+
+706
+00:23:29,252 --> 00:23:30,779
+The habit stays the same,
+
+707
+00:23:30,779 --> 00:23:32,549
+but the money starts growing.
+
+708
+00:23:32,899 --> 00:23:35,221
+Short term goals deserve a plan too.
+
+709
+00:23:35,401 --> 00:23:37,275
+Money for a car in two years
+
+710
+00:23:37,275 --> 00:23:39,350
+or a home down payment in three
+
+711
+00:23:39,350 --> 00:23:41,425
+can sit in a high yield savings
+
+712
+00:23:41,425 --> 00:23:43,500
+account, CDs or Treasury bills,
+
+713
+00:23:43,500 --> 00:23:46,312
+where it earns some interest without stock
+
+714
+00:23:46,312 --> 00:23:47,115
+market risk.
+
+715
+00:23:47,295 --> 00:23:49,485
+Matching each goal to the right account
+
+716
+00:23:49,485 --> 00:23:51,730
+is what saving with a destination really
+
+717
+00:23:51,730 --> 00:23:52,067
+means.
+
+718
+00:23:52,417 --> 00:23:53,218
+Try this.
+
+719
+00:23:53,398 --> 00:23:54,826
+Check your emergency fund.
+
+720
+00:23:55,006 --> 00:23:55,821
+If it's full,
+
+721
+00:23:55,821 --> 00:23:58,080
+set up an automatic transfer of your
+
+722
+00:23:58,080 --> 00:24:00,903
+extra savings into an investment account this
+
+723
+00:24:00,903 --> 00:24:01,217
+week.
+
+724
+00:24:01,567 --> 00:24:03,099
+Move number sixteen.
+
+725
+00:24:03,279 --> 00:24:04,881
+Invest automatically.
+
+726
+00:24:05,232 --> 00:24:07,531
+Investing doesn't have to be complicated.
+
+727
+00:24:07,711 --> 00:24:10,649
+Low cost, broad index funds or target
+
+728
+00:24:10,649 --> 00:24:13,509
+date funds let you own a diversified
+
+729
+00:24:13,509 --> 00:24:16,209
+portfolio with one or two choices.
+
+730
+00:24:16,559 --> 00:24:19,799
+Automatic monthly investing removes emotion and timing
+
+731
+00:24:19,799 --> 00:24:20,820
+from the process.
+
+732
+00:24:21,000 --> 00:24:23,038
+The money moves before you can spend
+
+733
+00:24:23,038 --> 00:24:24,680
+it or worry about the market.
+
+734
+00:24:25,030 --> 00:24:27,179
+Turn on dividend reinvestment,
+
+735
+00:24:27,179 --> 00:24:29,901
+so every dividend buys more shares and
+
+736
+00:24:29,901 --> 00:24:31,764
+compounding keeps running.
+
+737
+00:24:32,114 --> 00:24:35,201
+Increase your automatic investment every time your
+
+738
+00:24:35,201 --> 00:24:36,003
+income rises.
+
+739
+00:24:36,183 --> 00:24:39,155
+Your savings rate grows without feeling painful.
+
+740
+00:24:39,505 --> 00:24:41,804
+Keep costs low as you invest.
+
+741
+00:24:41,984 --> 00:24:43,975
+Fund fees come out of your returns
+
+742
+00:24:43,975 --> 00:24:44,619
+every year.
+
+743
+00:24:44,799 --> 00:24:46,871
+A fund charging a few hundredths of
+
+744
+00:24:46,871 --> 00:24:48,765
+a percent leaves far more of the
+
+745
+00:24:48,765 --> 00:24:50,836
+growth to you than one charging one
+
+746
+00:24:50,836 --> 00:24:53,440
+percent, and over decades the difference can
+
+747
+00:24:53,440 --> 00:24:55,630
+be tens or even hundreds of thousands
+
+748
+00:24:55,630 --> 00:24:56,281
+of dollars.
+
+749
+00:24:56,631 --> 00:24:57,467
+Try this.
+
+750
+00:24:57,647 --> 00:25:00,597
+Set up an automatic monthly investment into
+
+751
+00:25:00,597 --> 00:25:02,106
+a low cost index fund,
+
+752
+00:25:02,106 --> 00:25:03,410
+even if it's small,
+
+753
+00:25:03,410 --> 00:25:05,812
+and schedule a reminder to raise it
+
+754
+00:25:05,812 --> 00:25:06,772
+in six months.
+
+755
+00:25:07,122 --> 00:25:08,469
+Move number seventeen.
+
+756
+00:25:08,649 --> 00:25:09,856
+Grow your income.
+
+757
+00:25:10,206 --> 00:25:12,848
+Your income is your biggest wealth building
+
+758
+00:25:12,848 --> 00:25:13,155
+tool.
+
+759
+00:25:13,335 --> 00:25:16,160
+Every extra dollar earned and invested can
+
+760
+00:25:16,160 --> 00:25:17,572
+compound for decades.
+
+761
+00:25:17,922 --> 00:25:20,678
+Ways to grow income include asking for
+
+762
+00:25:20,678 --> 00:25:22,346
+raises, switching jobs,
+
+763
+00:25:22,346 --> 00:25:26,117
+getting certifications, learning in demand skills or
+
+764
+00:25:26,117 --> 00:25:27,930
+starting a side business.
+
+765
+00:25:28,280 --> 00:25:31,076
+Negotiating your starting salary matters too,
+
+766
+00:25:31,076 --> 00:25:33,562
+because future raises often build on it.
+
+767
+00:25:33,742 --> 00:25:36,365
+A small difference early can grow over
+
+768
+00:25:36,365 --> 00:25:37,539
+an entire career.
+
+769
+00:25:37,889 --> 00:25:40,327
+The key is to invest income increases,
+
+770
+00:25:40,327 --> 00:25:41,546
+not spend them all.
+
+771
+00:25:41,726 --> 00:25:43,964
+If you raise your lifestyle with every
+
+772
+00:25:43,964 --> 00:25:45,731
+raise, your wealth won't grow.
+
+773
+00:25:46,082 --> 00:25:47,765
+Side income counts too.
+
+774
+00:25:47,945 --> 00:25:50,132
+Even a few hundred dollars a month
+
+775
+00:25:50,132 --> 00:25:52,512
+from freelancing or a small business,
+
+776
+00:25:52,512 --> 00:25:54,957
+invested consistently, can add up to a
+
+777
+00:25:54,957 --> 00:25:57,465
+meaningful amount over a decade or two.
+
+778
+00:25:57,645 --> 00:25:59,599
+And unlike cutting expenses,
+
+779
+00:25:59,599 --> 00:26:01,902
+side income can grow over time as
+
+780
+00:26:01,902 --> 00:26:04,135
+your skills and reputation grow.
+
+781
+00:26:04,486 --> 00:26:05,391
+Try this.
+
+782
+00:26:05,571 --> 00:26:07,862
+Choose one skill that could increase your
+
+783
+00:26:07,862 --> 00:26:09,204
+income in the next year,
+
+784
+00:26:09,204 --> 00:26:11,383
+and spend thirty minutes a day learning
+
+785
+00:26:11,383 --> 00:26:11,550
+it.
+
+786
+00:26:11,901 --> 00:26:13,236
+Move number eighteen.
+
+787
+00:26:13,416 --> 00:26:14,542
+Build ownership.
+
+788
+00:26:14,892 --> 00:26:17,773
+Wealth usually comes from owning things that
+
+789
+00:26:17,773 --> 00:26:18,952
+grow, like stocks,
+
+790
+00:26:18,952 --> 00:26:20,720
+businesses and real estate.
+
+791
+00:26:20,900 --> 00:26:22,479
+Wages pay your bills.
+
+792
+00:26:22,659 --> 00:26:24,250
+Ownership builds wealth.
+
+793
+00:26:24,600 --> 00:26:26,792
+Owning index funds makes you a part
+
+794
+00:26:26,792 --> 00:26:28,733
+owner of hundreds of companies.
+
+795
+00:26:28,913 --> 00:26:31,096
+Their profits and growth become your growth.
+
+796
+00:26:31,446 --> 00:26:34,224
+Some people also build ownership through a
+
+797
+00:26:34,224 --> 00:26:36,473
+small business or rental property.
+
+798
+00:26:36,653 --> 00:26:38,620
+These take more work and risk,
+
+799
+00:26:38,620 --> 00:26:40,391
+but can grow wealth faster.
+
+800
+00:26:40,741 --> 00:26:43,810
+Even employee stock purchase plans or equity
+
+801
+00:26:43,810 --> 00:26:45,972
+compensation can add ownership,
+
+802
+00:26:45,972 --> 00:26:48,692
+though it's wise not to concentrate too
+
+803
+00:26:48,692 --> 00:26:50,226
+much in your employer.
+
+804
+00:26:50,576 --> 00:26:53,651
+Ownership also changes how you experience the
+
+805
+00:26:53,651 --> 00:26:54,198
+economy.
+
+806
+00:26:54,378 --> 00:26:56,109
+When companies grow profits,
+
+807
+00:26:56,109 --> 00:26:57,717
+workers might get a raise,
+
+808
+00:26:57,717 --> 00:26:59,324
+but owners get the growth.
+
+809
+00:26:59,504 --> 00:27:01,299
+Being both a worker and an owner
+
+810
+00:27:01,299 --> 00:27:03,487
+lets you benefit from your paycheck and
+
+811
+00:27:03,487 --> 00:27:05,563
+from the economy's growth at the same
+
+812
+00:27:05,563 --> 00:27:05,843
+time.
+
+813
+00:27:06,193 --> 00:27:07,005
+Try this.
+
+814
+00:27:07,185 --> 00:27:09,345
+Look at your net worth and calculate
+
+815
+00:27:09,345 --> 00:27:11,564
+what percentage is in assets that can
+
+816
+00:27:11,564 --> 00:27:11,864
+grow.
+
+817
+00:27:12,044 --> 00:27:14,064
+Aim to increase it each year.
+
+818
+00:27:14,415 --> 00:27:15,738
+Move number nineteen.
+
+819
+00:27:15,918 --> 00:27:17,985
+Use tax advantaged accounts.
+
+820
+00:27:18,335 --> 00:27:19,736
+Four oh one ks,
+
+821
+00:27:19,736 --> 00:27:22,819
+IRAs, Roth IRAs and HSAs let your
+
+822
+00:27:22,819 --> 00:27:26,276
+investments grow with tax advantages.
+
+823
+00:27:26,456 --> 00:27:28,876
+That means more money stays invested and
+
+824
+00:27:28,876 --> 00:27:29,602
+compounding.
+
+825
+00:27:29,952 --> 00:27:31,686
+If your employer offers a match,
+
+826
+00:27:31,686 --> 00:27:33,690
+contribute at least enough to get it.
+
+827
+00:27:33,870 --> 00:27:35,907
+It's one of the best returns available
+
+828
+00:27:35,907 --> 00:27:36,390
+anywhere.
+
+829
+00:27:36,740 --> 00:27:39,806
+Roth accounts can provide tax free withdrawals
+
+830
+00:27:39,806 --> 00:27:42,939
+in retirement, which can be especially valuable
+
+831
+00:27:42,939 --> 00:27:44,205
+if you start early.
+
+832
+00:27:44,555 --> 00:27:47,678
+Check current contribution limits and rules on
+
+833
+00:27:47,678 --> 00:27:48,764
+the IRS website,
+
+834
+00:27:48,764 --> 00:27:50,801
+because they change over time.
+
+835
+00:27:51,151 --> 00:27:54,402
+Health savings accounts deserve a special mention.
+
+836
+00:27:54,582 --> 00:27:56,012
+If you're eligible,
+
+837
+00:27:56,012 --> 00:27:59,325
+HSAs can offer tax deductible contributions,
+
+838
+00:27:59,325 --> 00:28:02,337
+tax free growth and tax free withdrawals
+
+839
+00:28:02,337 --> 00:28:04,671
+for qualified medical expenses.
+
+840
+00:28:04,851 --> 00:28:07,147
+Some people invest their HSA for the
+
+841
+00:28:07,147 --> 00:28:09,635
+long term and pay current medical costs
+
+842
+00:28:09,635 --> 00:28:10,528
+out of pocket.
+
+843
+00:28:10,878 --> 00:28:11,818
+Try this.
+
+844
+00:28:11,998 --> 00:28:14,445
+Make sure you're contributing enough to get
+
+845
+00:28:14,445 --> 00:28:15,867
+your full employer match,
+
+846
+00:28:15,867 --> 00:28:17,802
+and open an IRA if you're eligible
+
+847
+00:28:17,802 --> 00:28:18,883
+and don't have one.
+
+848
+00:28:19,233 --> 00:28:20,382
+Move number twenty.
+
+849
+00:28:20,562 --> 00:28:22,176
+Spend on what grows you.
+
+850
+00:28:22,526 --> 00:28:24,209
+Not all spending is equal.
+
+851
+00:28:24,389 --> 00:28:25,944
+Spending on education,
+
+852
+00:28:25,944 --> 00:28:29,476
+skills, health and relationships can increase your
+
+853
+00:28:29,476 --> 00:28:32,090
+earning power and quality of life for
+
+854
+00:28:32,090 --> 00:28:32,656
+decades.
+
+855
+00:28:33,006 --> 00:28:35,310
+A course that leads to a promotion,
+
+856
+00:28:35,310 --> 00:28:37,878
+a certification that raises your pay or
+
+857
+00:28:37,878 --> 00:28:40,445
+a gym membership that keeps you healthy
+
+858
+00:28:40,445 --> 00:28:42,552
+can pay off far more than saving
+
+859
+00:28:42,552 --> 00:28:43,803
+that money in cash.
+
+860
+00:28:44,153 --> 00:28:45,836
+The key is to be intentional.
+
+861
+00:28:46,016 --> 00:28:48,554
+Ask whether each big expense will grow
+
+862
+00:28:48,554 --> 00:28:51,426
+your income, health or happiness over time.
+
+863
+00:28:51,777 --> 00:28:55,637
+Saving, investing, earning and growing yourself work
+
+864
+00:28:55,637 --> 00:28:56,305
+together.
+
+865
+00:28:56,485 --> 00:28:58,772
+Each one makes the others more powerful.
+
+866
+00:28:59,122 --> 00:29:00,850
+Think of it as a portfolio of
+
+867
+00:29:00,850 --> 00:29:01,804
+your whole life.
+
+868
+00:29:01,984 --> 00:29:03,116
+Cash for safety,
+
+869
+00:29:03,116 --> 00:29:04,743
+investments for growth,
+
+870
+00:29:04,743 --> 00:29:06,511
+skills for earning power,
+
+871
+00:29:06,511 --> 00:29:10,119
+health for energy and relationships for opportunity
+
+872
+00:29:10,119 --> 00:29:11,109
+and happiness.
+
+873
+00:29:11,289 --> 00:29:14,065
+Saving alone fills only one corner of
+
+874
+00:29:14,065 --> 00:29:15,190
+that portfolio.
+
+875
+00:29:15,370 --> 00:29:17,773
+Wealth comes from building all of it.
+
+876
+00:29:18,123 --> 00:29:18,924
+Try this.
+
+877
+00:29:19,104 --> 00:29:21,233
+Pick one investment in yourself this year
+
+878
+00:29:21,233 --> 00:29:23,258
+that could raise your income or improve
+
+879
+00:29:23,258 --> 00:29:24,816
+your health, and commit to it.
+
+880
+00:29:25,166 --> 00:29:27,486
+Imagine two siblings who each save five
+
+881
+00:29:27,486 --> 00:29:29,926
+hundred dollars a month for thirty years.
+
+882
+00:29:30,106 --> 00:29:31,383
+Both are disciplined.
+
+883
+00:29:31,563 --> 00:29:33,734
+Both skip the fancy cars.
+
+884
+00:29:33,914 --> 00:29:36,124
+The first keeps everything in a savings
+
+885
+00:29:36,124 --> 00:29:38,221
+account earning about half a percent.
+
+886
+00:29:38,401 --> 00:29:40,779
+The second keeps an emergency fund,
+
+887
+00:29:40,779 --> 00:29:42,817
+then invests the rest in a low
+
+888
+00:29:42,817 --> 00:29:43,904
+cost index fund.
+
+889
+00:29:44,255 --> 00:29:45,259
+After thirty years,
+
+890
+00:29:45,259 --> 00:29:47,425
+the first sibling has roughly one hundred
+
+891
+00:29:47,425 --> 00:29:48,957
+ninety four thousand dollars.
+
+892
+00:29:49,137 --> 00:29:51,508
+The second, at a seven percent average
+
+893
+00:29:51,508 --> 00:29:54,316
+yearly return, could have roughly six hundred
+
+894
+00:29:54,316 --> 00:29:55,128
+ten thousand.
+
+895
+00:29:55,308 --> 00:29:57,568
+Same discipline, same savings,
+
+896
+00:29:57,568 --> 00:29:59,301
+very different results.
+
+897
+00:29:59,652 --> 00:30:01,869
+Both siblings were great savers.
+
+898
+00:30:02,049 --> 00:30:04,209
+The difference wasn't how much they saved.
+
+899
+00:30:04,389 --> 00:30:06,059
+It was what they did with their
+
+900
+00:30:06,059 --> 00:30:06,490
+savings.
+
+901
+00:30:06,670 --> 00:30:08,504
+Saving built the foundation.
+
+902
+00:30:08,684 --> 00:30:10,240
+Investing built the wealth.
+
+903
+00:30:10,590 --> 00:30:11,356
+Question one.
+
+904
+00:30:11,536 --> 00:30:13,556
+Should I stop saving and just invest?
+
+905
+00:30:13,736 --> 00:30:13,957
+No.
+
+906
+00:30:14,137 --> 00:30:16,209
+Keep an emergency fund in cash,
+
+907
+00:30:16,209 --> 00:30:18,616
+then invest money you won't need for
+
+908
+00:30:18,616 --> 00:30:19,953
+at least five years.
+
+909
+00:30:20,133 --> 00:30:22,734
+Saving and investing work together.
+
+910
+00:30:23,084 --> 00:30:23,989
+Question two.
+
+911
+00:30:24,169 --> 00:30:25,632
+Isn't investing risky?
+
+912
+00:30:25,812 --> 00:30:27,877
+Yes, investments can lose value,
+
+913
+00:30:27,877 --> 00:30:29,748
+especially in the short term.
+
+914
+00:30:29,928 --> 00:30:32,280
+But keeping long term money in cash
+
+915
+00:30:32,280 --> 00:30:33,422
+has its own risk,
+
+916
+00:30:33,422 --> 00:30:35,640
+losing buying power to inflation.
+
+917
+00:30:35,820 --> 00:30:39,628
+Diversification and time help manage investment risk.
+
+918
+00:30:39,978 --> 00:30:41,092
+Question three.
+
+919
+00:30:41,272 --> 00:30:42,596
+How much cash should I keep?
+
+920
+00:30:42,776 --> 00:30:44,918
+Many people aim for three to six
+
+921
+00:30:44,918 --> 00:30:46,860
+months of essential expenses,
+
+922
+00:30:46,860 --> 00:30:49,003
+plus money for goals in the next
+
+923
+00:30:49,003 --> 00:30:49,672
+few years.
+
+924
+00:30:49,852 --> 00:30:51,849
+More if your income is irregular.
+
+925
+00:30:52,199 --> 00:30:53,116
+Question four.
+
+926
+00:30:53,296 --> 00:30:55,737
+What if the market crashes right after
+
+927
+00:30:55,737 --> 00:30:56,315
+I invest?
+
+928
+00:30:56,495 --> 00:30:57,375
+It can happen,
+
+929
+00:30:57,375 --> 00:30:58,445
+and it's painful.
+
+930
+00:30:58,625 --> 00:31:01,206
+But if you're investing for decades and
+
+931
+00:31:01,206 --> 00:31:02,729
+adding money regularly,
+
+932
+00:31:02,729 --> 00:31:04,979
+a crash early on means your future
+
+933
+00:31:04,979 --> 00:31:07,692
+contributions buy shares at lower prices.
+
+934
+00:31:07,872 --> 00:31:11,390
+Historically, broad markets have recovered from past
+
+935
+00:31:11,390 --> 00:31:14,095
+crashes, though it sometimes took years.
+
+936
+00:31:14,446 --> 00:31:15,507
+In your twenties,
+
+937
+00:31:15,507 --> 00:31:17,943
+the biggest move is turning saving into
+
+938
+00:31:17,943 --> 00:31:19,879
+investing as early as possible.
+
+939
+00:31:20,059 --> 00:31:22,199
+Build a starter emergency fund,
+
+940
+00:31:22,199 --> 00:31:24,961
+grab any employer match and invest small
+
+941
+00:31:24,961 --> 00:31:26,480
+amounts automatically.
+
+942
+00:31:26,660 --> 00:31:28,825
+Your early dollars have the most time
+
+943
+00:31:28,825 --> 00:31:30,522
+to grow, so even fifty or one
+
+944
+00:31:30,522 --> 00:31:32,862
+hundred dollars a month invested now can
+
+945
+00:31:32,862 --> 00:31:35,379
+matter more than much larger amounts later.
+
+946
+00:31:35,729 --> 00:31:37,672
+In your thirties and forties,
+
+947
+00:31:37,672 --> 00:31:39,080
+income usually rises,
+
+948
+00:31:39,080 --> 00:31:41,426
+and so does the temptation to spend
+
+949
+00:31:41,426 --> 00:31:41,627
+it.
+
+950
+00:31:41,807 --> 00:31:44,381
+This is the decade to invest every
+
+951
+00:31:44,381 --> 00:31:47,257
+raise, keep a solid emergency fund and
+
+952
+00:31:47,257 --> 00:31:50,210
+avoid letting large cash piles sit idle
+
+953
+00:31:50,210 --> 00:31:50,967
+for years.
+
+954
+00:31:51,147 --> 00:31:53,045
+It's also a great time to invest
+
+955
+00:31:53,045 --> 00:31:55,180
+in skills that raise your income for
+
+956
+00:31:55,180 --> 00:31:56,604
+the rest of your career.
+
+957
+00:31:56,954 --> 00:31:58,984
+In your fifties and beyond,
+
+958
+00:31:58,984 --> 00:32:00,414
+the balance shifts.
+
+959
+00:32:00,594 --> 00:32:02,008
+You still need growth,
+
+960
+00:32:02,008 --> 00:32:04,323
+because retirement can last decades,
+
+961
+00:32:04,323 --> 00:32:06,445
+but you also need more stability.
+
+962
+00:32:06,625 --> 00:32:09,362
+Many people gradually add bonds and cash
+
+963
+00:32:09,362 --> 00:32:11,757
+for near term needs while keeping a
+
+964
+00:32:11,757 --> 00:32:14,973
+meaningful share invested for long term growth.
+
+965
+00:32:15,323 --> 00:32:16,275
+Mistake one.
+
+966
+00:32:16,455 --> 00:32:19,041
+Keeping retirement money in cash inside a
+
+967
+00:32:19,041 --> 00:32:20,240
+retirement account.
+
+968
+00:32:20,420 --> 00:32:22,915
+Some people contribute to a four oh
+
+969
+00:32:22,915 --> 00:32:24,982
+one k or IRA but never choose
+
+970
+00:32:24,982 --> 00:32:27,477
+investments, so the money sits in a
+
+971
+00:32:27,477 --> 00:32:29,046
+cash option for years.
+
+972
+00:32:29,226 --> 00:32:32,326
+Check that your contributions are actually invested.
+
+973
+00:32:32,676 --> 00:32:33,790
+Mistake two.
+
+974
+00:32:33,970 --> 00:32:36,048
+Saving for everything except growth.
+
+975
+00:32:36,228 --> 00:32:39,349
+Vacations, cars and holidays all get their
+
+976
+00:32:39,349 --> 00:32:42,470
+own savings, but long term investing comes
+
+977
+00:32:42,470 --> 00:32:43,659
+last, if at all.
+
+978
+00:32:43,839 --> 00:32:46,361
+Pay your future self first by automating
+
+979
+00:32:46,361 --> 00:32:48,820
+investments before other savings goals.
+
+980
+00:32:49,170 --> 00:32:50,215
+Mistake three.
+
+981
+00:32:50,395 --> 00:32:52,264
+Waiting for a big lump sum.
+
+982
+00:32:52,444 --> 00:32:54,890
+Some people wait until they've saved a
+
+983
+00:32:54,890 --> 00:32:56,821
+large amount before investing.
+
+984
+00:32:57,001 --> 00:33:00,172
+But regular small investments started now usually
+
+985
+00:33:00,172 --> 00:33:03,084
+beat a larger investment started years later.
+
+986
+00:33:03,435 --> 00:33:04,236
+Quick recap.
+
+987
+00:33:04,416 --> 00:33:06,111
+Angle one, the numbers.
+
+988
+00:33:06,291 --> 00:33:08,459
+Inflation, the growth gap,
+
+989
+00:33:08,459 --> 00:33:10,127
+the savings ceiling,
+
+990
+00:33:10,127 --> 00:33:11,629
+taxes on interest,
+
+991
+00:33:11,629 --> 00:33:14,464
+cash's job, time and earning more.
+
+992
+00:33:14,814 --> 00:33:16,880
+Angle two, the psychology.
+
+993
+00:33:17,060 --> 00:33:18,830
+The illusion of safety,
+
+994
+00:33:18,830 --> 00:33:21,292
+frugality fatigue, fear of loss,
+
+995
+00:33:21,292 --> 00:33:23,523
+scarcity, the saver identity,
+
+996
+00:33:23,523 --> 00:33:26,755
+waiting for certainty and a changed world.
+
+997
+00:33:27,105 --> 00:33:28,591
+Angle three, the playbook.
+
+998
+00:33:28,771 --> 00:33:30,637
+Save with a destination,
+
+999
+00:33:30,637 --> 00:33:33,669
+invest automatically, grow your income,
+
+1000
+00:33:33,669 --> 00:33:37,400
+build ownership, use tax advantaged accounts and
+
+1001
+00:33:37,400 --> 00:33:39,266
+spend on what grows you.
+
+1002
+00:33:39,616 --> 00:33:41,608
+Saving is where wealth begins,
+
+1003
+00:33:41,608 --> 00:33:43,865
+but it isn't where wealth is made.
+
+1004
+00:33:44,045 --> 00:33:45,487
+Put your savings to work,
+
+1005
+00:33:45,487 --> 00:33:47,565
+grow your income and own things that
+
+1006
+00:33:47,565 --> 00:33:47,853
+grow.
+
+1007
+00:33:48,033 --> 00:33:49,593
+If you want my full step by
+
+1008
+00:33:49,593 --> 00:33:51,384
+step plan, it's in my playbook,
+
+1009
+00:33:51,384 --> 00:33:52,886
+linked in the description.
+
+1010
+00:33:53,066 --> 00:33:54,351
+Tell me in the comments,
+
+1011
+00:33:54,351 --> 00:33:56,225
+how much of your savings is working
+
+1012
+00:33:56,225 --> 00:33:56,654
+for you?
+
+1013
+00:33:56,834 --> 00:33:58,157
+I'm Ryan Rover.
+
+1014
+00:33:58,337 --> 00:33:59,521
+See you in the next one.
