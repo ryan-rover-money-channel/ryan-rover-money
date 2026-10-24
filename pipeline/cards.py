@@ -26,7 +26,7 @@ def frame(body):
 def stat(c):
     sub = f'<text x="960" y="760" font-family="{FONT}" font-size="46" text-anchor="middle" fill="#C9D4E6">{esc(c.get("sub", ""))}</text>'
     return frame(f'''
-  <text x="960" y="330" font-family="{FONT}" font-weight="bold" font-size="56" letter-spacing="6" text-anchor="middle" fill="{GREEN2}">{esc(c.get("label", "")).upper()}</text>
+  <text x="960" y="330" font-family="{FONT}" font-weight="bold" font-size="56" letter-spacing="6" text-anchor="middle" fill="{GREEN2}">{esc(str(c.get("label", "")).upper())}</text>
   <text x="960" y="600" font-family="{FONT}" font-weight="bold" font-size="{c.get("size", 230)}" text-anchor="middle" fill="#FFFFFF">{esc(c["big"])}</text>
   {sub}''')
 
@@ -78,7 +78,7 @@ def list_item(c):
 def compare(c):
     l, r = c["left"], c["right"]
     col = lambda x, side, color: f'''
-  <text x="{x}" y="330" font-family="{FONT}" font-weight="bold" font-size="52" text-anchor="middle" fill="{color}">{esc(side["label"]).upper()}</text>
+  <text x="{x}" y="330" font-family="{FONT}" font-weight="bold" font-size="52" text-anchor="middle" fill="{color}">{esc(str(side["label"]).upper())}</text>
   <text x="{x}" y="560" font-family="{FONT}" font-weight="bold" font-size="150" text-anchor="middle" fill="#FFFFFF">{esc(side["big"])}</text>
   <text x="{x}" y="660" font-family="{FONT}" font-size="40" text-anchor="middle" fill="#C9D4E6">{esc(side.get("sub", ""))}</text>'''
     return frame(col(500, l, "#E58A6F") + '<line x1="960" y1="250" x2="960" y2="760" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="4"/>'
