@@ -1,0 +1,9 @@
+- William P. Bengen, Determining Withdrawal Rates Using Historical Data (Journal of Financial Planning, 1994)
+- Cooley, Hubbard and Walz, Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable (AAII Journal, 1998), the Trinity study
+- Morningstar, The State of Retirement Income (safe withdrawal rate research)
+- Guyton and Klinger, Decision Rules and Maximum Initial Withdrawal Rates (Journal of Financial Planning, 2006)
+- Social Security Administration: average retired worker benefit (2025), claiming ages
+- Employee Benefit Research Institute: retiree spending and asset drawdown research
+- Locke and Latham, goal-setting theory
+- Morgan Housel, The Psychology of Money (2020)
+- Growth and sequence examples: stated average returns, illustrations, not promises

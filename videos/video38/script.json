@@ -1,0 +1,1134 @@
+{
+ "id": "video38",
+ "angle": "the 4% rule in 20 lessons, from 3 angles: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "The 4% Rule: How Much You Need to Never Work Again",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. How much money do you need to never work again? Most people have no idea. They guess a number like one million or five million and hope it's enough. But there's a simple rule of thumb that gives you a real starting point in about five seconds. It's called the four percent rule. Today I'll show you how it works, where it came from, where it breaks, and how to use it to build your own freedom number.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here's the rule. Take what you spend in a year and multiply it by twenty five. If you spend forty thousand dollars a year, your target is one million dollars. Why twenty five? Because four percent of one million is forty thousand. The idea is that you could withdraw about four percent in your first year of retirement, adjust for inflation after that, and have a good chance of your money lasting around thirty years.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "You spend each year",
+     "big": "$40K",
+     "sub": "living costs"
+    },
+    "right": {
+     "label": "Your freedom number",
+     "big": "$1M",
+     "sub": "25 times spending"
+    },
+    "note": "a rule of thumb from historical U.S. data, not a guarantee"
+   },
+   "caption": "",
+   "cuts": 1,
+   "short_hook": "Multiply your yearly spending by twenty five. That's your freedom number."
+  },
+  {
+   "text": "That simple multiplication changes how people think about retirement. Suddenly, freedom isn't a vague dream. It's a number tied directly to your lifestyle. And it reveals something powerful. Lowering your spending doesn't just help you save more. It also lowers the number you need. Every one thousand dollars you cut from yearly spending reduces your target by about twenty five thousand dollars.",
+   "query": "Person calculating on notepad",
+   "caption": "SPEND LESS, NEED LESS",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at the four percent rule from three angles. First, the numbers. Where the rule came from, what it assumes and how risky it really is. Second, the psychology. Why spending your savings is so hard, and why so many people get the number wrong. And third, the playbook. How to calculate your own number, reach it and make it last. Reminder, this is education, not financial advice, and nothing about the future is guaranteed.",
+   "query": "Three paths in a park",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the numbers. And first, where did this rule actually come from?",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Our numbers. The four percent rule comes from William Bengen's 1994 study in the Journal of Financial Planning, and was supported by the 1998 Trinity study by Philip Cooley, Carl Hubbard and Daniel Walz. Recent safe withdrawal research comes from Morningstar. Social Security figures come from the Social Security Administration. Growth examples use stated average returns, as illustrations, not promises.",
+   "query": "Research papers on desk",
+   "caption": "OUR NUMBERS",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Seven lessons about what the four percent rule really says, and what it doesn't.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Lesson number one. Where the four percent rule came from.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Where the rule came from",
+    "sub": "Bengen's 1994 study"
+   },
+   "caption": "LESSON 1",
+   "cuts": 1,
+   "chapter": "1. Where the rule came from"
+  },
+  {
+   "text": "In 1994, a financial planner named William Bengen asked a simple question. How much can a retiree withdraw from savings each year without running out of money? He tested historical U.S. market data going back to 1926, imagining retirees starting in every possible year.",
+   "query": "Financial planner at old computer",
+   "caption": "BENGEN, 1994",
+   "cuts": 3
+  },
+  {
+   "text": "He assumed a portfolio split between stocks and intermediate term government bonds. The retiree withdrew a set percentage in year one, then increased the dollar amount each year with inflation, no matter what markets did.",
+   "query": "Pie chart stocks and bonds",
+   "caption": "STOCKS AND BONDS",
+   "cuts": 3
+  },
+  {
+   "text": "His finding was that a first year withdrawal of about four percent, adjusted for inflation afterward, lasted at least thirty years in every historical period he tested, including retirements that began just before the Great Depression and the high inflation of the 1970s.",
+   "query": "Historical timeline of crises",
+   "caption": "LASTED 30 YEARS IN EVERY PERIOD",
+   "cuts": 3
+  },
+  {
+   "text": "Four years later, three professors at Trinity University published a similar study, often called the Trinity study. It also found that withdrawal rates around four percent had high historical success rates over thirty years for portfolios with a large share of stocks.",
+   "query": "University building",
+   "caption": "THE TRINITY STUDY",
+   "cuts": 3
+  },
+  {
+   "text": "Bengen himself later suggested that with more asset classes, slightly higher starting rates might have worked historically. But four percent stuck, because it's simple and memorable. It became one of the most famous rules in personal finance.",
+   "query": "Number four on sign",
+   "caption": "SIMPLE AND MEMORABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number two. Turn your spending into a target.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "The times twenty five rule",
+    "sub": "turning spending into a target"
+   },
+   "caption": "LESSON 2",
+   "cuts": 1,
+   "chapter": "2. The times twenty five rule"
+  },
+  {
+   "text": "The flip side of a four percent withdrawal is the times twenty five rule. If four percent of your portfolio covers one year of spending, then you need twenty five years of spending saved. Spend thirty thousand a year, you need about seven hundred fifty thousand. Spend sixty thousand, you need about one point five million.",
+   "query": "Table of spending and targets",
+   "caption": "$30K NEEDS $750K, $60K NEEDS $1.5M",
+   "cuts": 3
+  },
+  {
+   "text": "Notice that this uses spending, not income. Someone earning two hundred thousand dollars but spending one hundred eighty thousand needs four and a half million dollars. Someone earning sixty thousand but spending thirty thousand needs only seven hundred fifty thousand. Your lifestyle sets your target.",
+   "query": "Two households compared",
+   "caption": "SPENDING SETS THE TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "It's also about spending in retirement, which may differ from today. Some costs disappear, like commuting or a mortgage that's paid off. Others may rise, like health care and travel.",
+   "query": "Retiree budget sheet",
+   "caption": "RETIREMENT SPENDING CHANGES",
+   "cuts": 3
+  },
+  {
+   "text": "And the money that counts is the money coming from your portfolio. Income from Social Security, a pension or part time work reduces how much you need to withdraw, and therefore how much you need saved.",
+   "query": "Social Security card",
+   "caption": "OTHER INCOME LOWERS THE TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Add up your yearly spending, subtract any guaranteed retirement income you expect, and multiply what's left by twenty five. That's your first draft freedom number.",
+   "query": "Person with calculator",
+   "caption": "YOUR FIRST DRAFT NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number three. The order of returns matters.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Sequence of returns risk",
+    "sub": "bad timing can sink a plan"
+   },
+   "caption": "LESSON 3",
+   "cuts": 1,
+   "chapter": "3. Sequence of returns risk"
+  },
+  {
+   "text": "When you're saving, the order of good and bad years doesn't change your final result much if you just hold. But when you're withdrawing, it matters enormously. This is called sequence of returns risk.",
+   "query": "Two lines diverging",
+   "caption": "SEQUENCE RISK",
+   "cuts": 3,
+   "short_hook": "Two retirees. Same returns. One runs out of money first. Here's why."
+  },
+  {
+   "text": "Here's an illustration. Two retirees each start with one million dollars and withdraw forty thousand a year. Both experience exactly the same twelve yearly returns, just in a different order. For one, the two bad years come first. For the other, they come last.",
+   "query": "Two retirees side by side",
+   "caption": "SAME RETURNS, DIFFERENT ORDER",
+   "cuts": 3
+  },
+  {
+   "text": "After twelve years, the retiree who faced the bad years first has roughly seven hundred forty thousand dollars left. The one who faced them last has roughly one million. Same average, very different result, because selling investments to fund withdrawals after a crash locks in losses.",
+   "query": "Two account balances",
+   "caption": "$740K VS $1M",
+   "cuts": 3
+  },
+  {
+   "text": "This is why the first five to ten years of retirement are often called the danger zone. A big crash early on can do lasting damage to a portfolio that's also funding withdrawals.",
+   "query": "Warning zone on timeline",
+   "caption": "THE DANGER ZONE",
+   "cuts": 3
+  },
+  {
+   "text": "Many retirees manage this risk by holding a few years of spending in bonds or cash, so they don't have to sell stocks during a downturn, and by being willing to cut spending a little in bad years.",
+   "query": "Cash reserve bucket",
+   "caption": "A CASH BUFFER HELPS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number four. Four percent isn't a guarantee.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "What success really means",
+    "sub": "the rule isn't a guarantee"
+   },
+   "caption": "LESSON 4",
+   "cuts": 1,
+   "chapter": "4. What success really means"
+  },
+  {
+   "text": "The four percent rule is based on U.S. history. It worked in every historical thirty year period Bengen tested, but there's no promise the future will look like the past. Future returns could be higher or lower.",
+   "query": "Crystal ball",
+   "caption": "HISTORY ISN'T A PROMISE",
+   "cuts": 3
+  },
+  {
+   "text": "Some researchers have argued that future returns may be lower than historical averages, which would make four percent riskier. Morningstar's recent research, for example, has estimated a safe starting withdrawal rate for new retirees in the high three percent range, depending on assumptions.",
+   "query": "Research report page",
+   "caption": "SOME SUGGEST LOWER RATES",
+   "cuts": 3
+  },
+  {
+   "text": "Others point out that in most historical periods, a four percent withdrawal left retirees with much more money than they started with. The rule was designed around the worst cases, so in typical cases it may be conservative.",
+   "query": "Growing balance in retirement",
+   "caption": "OFTEN CONSERVATIVE",
+   "cuts": 3
+  },
+  {
+   "text": "The truth is that four percent is a reasonable starting point, not a precise answer. Think of it as a guide for planning, not a law of physics.",
+   "query": "Compass on map",
+   "caption": "A GUIDE, NOT A LAW",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Run your numbers at both three and a half and four percent. If you'd be comfortable at either, you have a margin of safety.",
+   "query": "Two calculations side by side",
+   "caption": "TEST 3.5% AND 4%",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number five. The rule assumes about thirty years.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Time horizon",
+    "sub": "thirty years isn't forever"
+   },
+   "caption": "LESSON 5",
+   "cuts": 1,
+   "chapter": "5. Time horizon"
+  },
+  {
+   "text": "Bengen's research focused on retirements lasting around thirty years, which fits someone retiring around sixty five. But someone retiring at forty might need their money to last fifty years or more.",
+   "query": "Timeline thirty versus fifty years",
+   "caption": "30 YEARS VS 50 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Longer retirements generally require lower withdrawal rates. Many early retirement planners use three to three and a half percent for very long horizons, which means saving roughly twenty nine to thirty three times yearly spending instead of twenty five.",
+   "query": "Larger savings target",
+   "caption": "EARLY RETIREES OFTEN USE 3 TO 3.5%",
+   "cuts": 3
+  },
+  {
+   "text": "Life expectancy matters too. Many people live into their nineties, especially couples, where at least one partner often lives a long time. Planning only to age eighty five could leave you short.",
+   "query": "Elderly couple smiling",
+   "caption": "PLAN FOR A LONG LIFE",
+   "cuts": 3
+  },
+  {
+   "text": "On the other hand, someone retiring at seventy may be able to withdraw a bit more, because their money doesn't need to last as long.",
+   "query": "Retiree at seventy",
+   "caption": "LATER RETIREMENT, HIGHER RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Decide how many years your money needs to last, from your planned retirement age to at least ninety five, and adjust your withdrawal rate to match.",
+   "query": "Calendar to age 95",
+   "caption": "PLAN TO 95",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number six. Your investment mix matters.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Stocks and bonds mix",
+    "sub": "too safe can be risky"
+   },
+   "caption": "LESSON 6",
+   "cuts": 1,
+   "chapter": "6. Stocks and bonds mix"
+  },
+  {
+   "text": "The four percent rule assumed a meaningful share of stocks, often fifty to seventy five percent. Stocks provide growth that helps your money keep up with inflation over decades.",
+   "query": "Pie chart with stocks",
+   "caption": "STOCKS PROVIDE GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "Many people assume retirement money should be entirely in safe investments. But a portfolio that's too conservative may not grow fast enough to support inflation adjusted withdrawals for thirty years. In Bengen's research, very low stock allocations had lower safe withdrawal rates.",
+   "query": "Cash only jar",
+   "caption": "TOO SAFE CAN BE RISKY",
+   "cuts": 3
+  },
+  {
+   "text": "Bonds and cash still play an important role. They reduce volatility and provide money to spend during stock market downturns, helping with sequence risk.",
+   "query": "Balanced scale",
+   "caption": "BONDS REDUCE SWINGS",
+   "cuts": 3
+  },
+  {
+   "text": "The right mix depends on your age, other income and comfort with ups and downs. Target date funds and balanced funds offer simple ready made mixes.",
+   "query": "Target date fund brochure",
+   "caption": "SIMPLE READY MADE MIXES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look at your current mix of stocks and bonds and ask whether it fits your timeline. If you're decades from retirement, a very conservative mix may be holding you back.",
+   "query": "Person reviewing portfolio",
+   "caption": "CHECK YOUR MIX",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number seven. Don't forget inflation and taxes.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Inflation and taxes",
+    "sub": "the hidden costs"
+   },
+   "caption": "LESSON 7",
+   "cuts": 1,
+   "chapter": "7. Inflation and taxes"
+  },
+  {
+   "text": "The four percent rule raises your withdrawals with inflation each year, which is crucial. At three percent inflation, prices roughly double in about twenty four years. Forty thousand dollars of spending today could mean around eighty thousand later in retirement.",
+   "query": "Rising price tags",
+   "caption": "PRICES CAN DOUBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Taxes are another factor. The rule is typically calculated before taxes. Withdrawals from traditional four oh one ks and IRAs are usually taxed as income, while qualified Roth withdrawals are tax free and taxable accounts may face capital gains taxes.",
+   "query": "Tax forms",
+   "caption": "WITHDRAWALS MAY BE TAXED",
+   "cuts": 3
+  },
+  {
+   "text": "So if you need forty thousand dollars a year to spend, you may need to withdraw more than that from pre tax accounts to cover taxes. Your freedom number should account for this.",
+   "query": "Gross versus net income",
+   "caption": "PLAN FOR TAXES",
+   "cuts": 3
+  },
+  {
+   "text": "Having money in different types of accounts, pre tax, Roth and taxable, can give you flexibility to manage taxes in retirement.",
+   "query": "Three account buckets",
+   "caption": "TAX FLEXIBILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Estimate how much of your retirement savings is in pre tax accounts, and add a cushion to your freedom number for taxes.",
+   "query": "Person adding cushion",
+   "caption": "ADD A TAX CUSHION",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle one. Where the rule came from, the times twenty five rule, sequence risk, no guarantees, time horizon, investment mix, and inflation and taxes. Now angle two. The psychology.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "The math of retirement is only half the challenge. The other half is emotional. Saving for decades and then spending your savings feels very different from what most people expect. Here are seven psychological lessons about the four percent rule.",
+   "query": "Brain illustration",
+   "caption": "THE EMOTIONAL HALF",
+   "cuts": 3,
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Lesson number eight. A number turns a dream into a plan.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "The number makes it real",
+    "sub": "a vague goal becomes a target"
+   },
+   "caption": "LESSON 8",
+   "cuts": 1,
+   "chapter": "8. The number makes it real"
+  },
+  {
+   "text": "Most people approach retirement with vague hopes. Someday, enough, comfortable. Without a number, it's hard to know whether you're on track, so many people either worry constantly or ignore it entirely.",
+   "query": "Foggy road",
+   "caption": "VAGUE GOALS CREATE ANXIETY",
+   "cuts": 3
+  },
+  {
+   "text": "The four percent rule gives you a concrete target. Once you know you need, say, one point two million dollars, you can calculate how much to save each month and track your progress.",
+   "query": "Progress bar toward goal",
+   "caption": "A CONCRETE TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "Research on goal setting, including work by psychologists Edwin Locke and Gary Latham, has found that specific, challenging goals tend to lead to better performance than vague goals like do your best.",
+   "query": "Target with arrow",
+   "caption": "SPECIFIC GOALS WORK BETTER",
+   "cuts": 3
+  },
+  {
+   "text": "Tracking progress toward your number can be motivating. Watching yourself move from ten percent to twenty five percent to fifty percent of the way there makes the journey feel real.",
+   "query": "Milestone chart",
+   "caption": "TRACK YOUR PERCENTAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Calculate what percentage of your freedom number you have today. Write it down and check it once a year.",
+   "query": "Notebook with percentage",
+   "caption": "WHAT PERCENT ARE YOU?",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number nine. Spending savings is surprisingly hard.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Fear of spending",
+    "sub": "the saver's dilemma"
+   },
+   "caption": "LESSON 9",
+   "cuts": 1,
+   "chapter": "9. Fear of spending"
+  },
+  {
+   "text": "After decades of saving, many retirees find it emotionally difficult to start spending. Watching a balance go down can feel like failure, even when it's exactly the plan.",
+   "query": "Retiree hesitating at checkout",
+   "caption": "SPENDING FEELS LIKE FAILURE",
+   "cuts": 3,
+   "short_hook": "Many retirees are scared to spend money they spent decades saving."
+  },
+  {
+   "text": "Research by the Employee Benefit Research Institute and others has found that many retirees spend down their savings slowly, and some keep much of their savings intact well into retirement, often out of caution and uncertainty.",
+   "query": "Untouched savings account",
+   "caption": "MANY UNDERSPEND",
+   "cuts": 3
+  },
+  {
+   "text": "Caution can be wise, but underspending has a cost too. Money saved for decades might never be used for the experiences and security it was meant to provide.",
+   "query": "Unused travel brochure",
+   "caption": "UNDERSPENDING HAS A COST",
+   "cuts": 3
+  },
+  {
+   "text": "A clear withdrawal plan, like the four percent rule, can actually make spending easier. It gives you permission to spend a set amount with confidence.",
+   "query": "Retiree enjoying trip",
+   "caption": "A PLAN GIVES PERMISSION",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If you're retired or close, write down what a safe yearly spending amount looks like for you, and give yourself permission to use it.",
+   "query": "Written spending plan",
+   "caption": "GIVE YOURSELF PERMISSION",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number ten. Lifestyle creep moves the finish line.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Lifestyle creep",
+    "sub": "the moving target"
+   },
+   "caption": "LESSON 10",
+   "cuts": 1,
+   "chapter": "10. Lifestyle creep"
+  },
+  {
+   "text": "As income grows, spending often grows with it. Bigger house, nicer car, more expensive vacations. Each upgrade feels small, but together they raise your yearly spending.",
+   "query": "Upgraded car and house",
+   "caption": "SPENDING GROWS WITH INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Because of the times twenty five rule, every permanent ten thousand dollar increase in yearly spending raises your freedom number by about two hundred fifty thousand dollars. Lifestyle creep doesn't just reduce what you save. It moves the finish line further away.",
+   "query": "Finish line moving away",
+   "caption": "$10K MORE SPENDING, $250K MORE NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "The opposite is also true. Reducing yearly spending by ten thousand dollars lowers the target by about two hundred fifty thousand, and frees up money to save. It's a double benefit.",
+   "query": "Finish line moving closer",
+   "caption": "THE DOUBLE BENEFIT",
+   "cuts": 3
+  },
+  {
+   "text": "This doesn't mean never upgrading your life. It means making upgrades deliberately, knowing what each one costs in years of work.",
+   "query": "Person thinking about purchase",
+   "caption": "UPGRADE DELIBERATELY",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Before any big recurring expense, multiply its yearly cost by twenty five. That's what it adds to your freedom number.",
+   "query": "Calculator multiplying",
+   "caption": "MULTIPLY BY 25",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If knowing your freedom number sounds useful, please subscribe to Ryan Rover Money. It's free, and it helps us keep making these. Now, lesson eleven.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Lesson number eleven. One more year syndrome.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "One more year syndrome",
+    "sub": "never feeling ready"
+   },
+   "caption": "LESSON 11",
+   "cuts": 1,
+   "chapter": "11. One more year syndrome"
+  },
+  {
+   "text": "Many people reach their number and still don't stop working. They think, just one more year, to be safe. Then another. And another. The finish line keeps moving because fear keeps moving it.",
+   "query": "Calendar pages flipping",
+   "caption": "JUST ONE MORE YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Some extra cushion can be smart, especially with uncertain markets. But years are the one resource you can't get back. Working years longer than necessary trades healthy, active years for money you may never need.",
+   "query": "Hourglass",
+   "caption": "YEARS ARE PRICELESS",
+   "cuts": 3
+  },
+  {
+   "text": "A plan with flexibility, like being willing to cut spending in bad years or earn some part time income, can give you the confidence to stop when you've reached a reasonable target.",
+   "query": "Flexible plan diagram",
+   "caption": "FLEXIBILITY BUILDS CONFIDENCE",
+   "cuts": 3
+  },
+  {
+   "text": "It also helps to think about what you're retiring to, not just from. People with clear plans for their time often feel more ready to make the leap.",
+   "query": "Person gardening happily",
+   "caption": "RETIRE TO SOMETHING",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write down what would make you feel ready to stop full time work. A number, a buffer, a plan for your days. Then hold yourself to it.",
+   "query": "Written checklist",
+   "caption": "DEFINE READY",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number twelve. Financial freedom doesn't have to mean stopping work.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Freedom without full retirement",
+    "sub": "the power of options"
+   },
+   "caption": "LESSON 12",
+   "cuts": 1,
+   "chapter": "12. Freedom without full retirement"
+  },
+  {
+   "text": "Many people who reach financial independence keep working, but on their own terms. Part time, a passion project, a lower stress job or starting a business. The freedom is in the choice.",
+   "query": "Person working on passion project",
+   "caption": "FREEDOM IS CHOICE",
+   "cuts": 3
+  },
+  {
+   "text": "Even partial financial independence is powerful. If your savings could cover half your spending, you could take a lower paying job you love, or work fewer hours.",
+   "query": "Half filled progress bar",
+   "caption": "PARTIAL FREEDOM COUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Some people use the idea of coast FIRE, where they've saved enough that their investments could grow to their full number by traditional retirement age, even without more contributions. From there, they only need to cover current expenses.",
+   "query": "Car coasting downhill",
+   "caption": "COAST FIRE",
+   "cuts": 3
+  },
+  {
+   "text": "Earning even a small income in early retirement can dramatically reduce how much you need to withdraw, making your money last much longer.",
+   "query": "Part time work income",
+   "caption": "A LITTLE INCOME GOES FAR",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Calculate what percentage of your spending your savings could cover today using four percent. That's your current level of freedom.",
+   "query": "Percentage on screen",
+   "caption": "YOUR FREEDOM LEVEL",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number thirteen. Define enough for yourself.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Comparison and enough",
+    "sub": "defining your own number"
+   },
+   "caption": "LESSON 13",
+   "cuts": 1,
+   "chapter": "13. Comparison and enough"
+  },
+  {
+   "text": "Some people chase five or ten million because that's what wealthy people seem to have. But your freedom number depends only on your own spending, not anyone else's.",
+   "query": "Mountain of money versus modest home",
+   "caption": "YOUR NUMBER, NOT THEIRS",
+   "cuts": 3
+  },
+  {
+   "text": "Morgan Housel writes that one of the hardest financial skills is getting the goalpost to stop moving. Without a sense of enough, no amount ever feels sufficient.",
+   "query": "Goalpost on field",
+   "caption": "STOP MOVING THE GOALPOST",
+   "cuts": 3
+  },
+  {
+   "text": "A clear number tied to a lifestyle you actually want can bring peace. You know what you're working toward, and you know when you've arrived.",
+   "query": "Peaceful person at sunset",
+   "caption": "ENOUGH BRINGS PEACE",
+   "cuts": 3
+  },
+  {
+   "text": "That doesn't mean you can't want more. It means the more is a choice, not a requirement for feeling secure.",
+   "query": "Person smiling with options",
+   "caption": "MORE IS A CHOICE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Describe your ideal ordinary week in retirement, then estimate what it costs. That's the foundation of your enough.",
+   "query": "Week planner",
+   "caption": "DESCRIBE YOUR IDEAL WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number fourteen. Flexible plans beat rigid ones.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Uncertainty and flexibility",
+    "sub": "plans that bend"
+   },
+   "caption": "LESSON 14",
+   "cuts": 1,
+   "chapter": "14. Uncertainty and flexibility"
+  },
+  {
+   "text": "The original four percent rule assumes you raise withdrawals with inflation every year, no matter what. Real people don't usually behave that rigidly. They cut back in bad years and spend more in good ones.",
+   "query": "Flexible bridge",
+   "caption": "REAL PEOPLE ADJUST",
+   "cuts": 3
+  },
+  {
+   "text": "Research on flexible withdrawal strategies, such as guardrail approaches developed by planners Jonathan Guyton and William Klinger, suggests that being willing to trim spending after poor markets can support higher starting withdrawal rates.",
+   "query": "Guardrails on road",
+   "caption": "GUARDRAILS",
+   "cuts": 3
+  },
+  {
+   "text": "Flexibility reduces anxiety. If you know you'd cut travel for a year or two during a crash, a bad market feels less like a threat to your entire retirement.",
+   "query": "Calm retiree reading news",
+   "caption": "FLEXIBILITY REDUCES FEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Separating spending into needs and wants helps. Cover essential needs with stable income and safer assets, and fund wants from the riskier portfolio.",
+   "query": "Needs and wants lists",
+   "caption": "NEEDS VERSUS WANTS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. List which retirement expenses you could reduce for a year if markets fell sharply. That list is your safety valve.",
+   "query": "Safety valve illustration",
+   "caption": "YOUR SAFETY VALVE",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle two. The number makes it real, fear of spending, lifestyle creep, one more year, freedom without full retirement, defining enough and flexibility. Now angle three. The playbook.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Let's turn the four percent rule into a practical plan. Six moves to calculate your number, reach it and make it last.",
+   "query": "Toolbox on table",
+   "caption": "SIX MOVES",
+   "cuts": 3,
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Move number fifteen. Track your real spending.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Track your real spending",
+    "sub": "the foundation of the number"
+   },
+   "caption": "LESSON 15",
+   "cuts": 1,
+   "chapter": "15. Track your real spending"
+  },
+  {
+   "text": "Your freedom number is only as good as your spending estimate. Many people underestimate what they spend by a lot, because small purchases and irregular expenses add up.",
+   "query": "Receipts pile",
+   "caption": "MOST PEOPLE UNDERESTIMATE",
+   "cuts": 3
+  },
+  {
+   "text": "Look at at least three to six months of bank and credit card statements, plus yearly expenses like insurance, gifts, car repairs and holidays.",
+   "query": "Bank statements on table",
+   "caption": "USE REAL STATEMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Then estimate how spending will change in retirement. Remove work costs and add things like health insurance before Medicare, which generally starts at sixty five.",
+   "query": "Health insurance card",
+   "caption": "ADJUST FOR RETIREMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Budgeting apps or a simple spreadsheet can help. The goal isn't perfection, just a realistic number. Many people find it helpful to sort spending into three groups, essentials like housing and food, regular extras like dining out, and one time costs like a new roof. Each group behaves differently in retirement.",
+   "query": "Budgeting app",
+   "caption": "REALISTIC, NOT PERFECT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Add up last year's total spending from your statements. It might surprise you.",
+   "query": "Person shocked at total",
+   "caption": "ADD UP LAST YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Move number sixteen. Calculate your freedom number.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Calculate your freedom number",
+    "sub": "spending times twenty five"
+   },
+   "caption": "LESSON 16",
+   "cuts": 1,
+   "chapter": "16. Calculate your freedom number"
+  },
+  {
+   "text": "Start with expected yearly retirement spending. Subtract guaranteed income, like Social Security or a pension. Multiply what's left by twenty five, or by twenty nine to thirty three for very long early retirements.",
+   "query": "Formula on whiteboard",
+   "caption": "THE FORMULA",
+   "cuts": 3
+  },
+  {
+   "text": "Example. Spending of sixty thousand dollars, minus twenty four thousand from Social Security, leaves thirty six thousand to come from investments. Times twenty five equals nine hundred thousand dollars.",
+   "query": "Example calculation",
+   "caption": "$36K TIMES 25 = $900K",
+   "cuts": 3
+  },
+  {
+   "text": "Add a cushion for taxes if much of your money is in pre tax accounts, and consider a buffer for big future costs like home repairs or helping family.",
+   "query": "Cushion illustration",
+   "caption": "ADD CUSHIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Revisit your number every few years. Your life, spending and the economy will change.",
+   "query": "Calendar with review dates",
+   "caption": "REVISIT IT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Do the calculation today and write your freedom number somewhere you'll see it.",
+   "query": "Number written on sticky note",
+   "caption": "WRITE YOUR NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Move number seventeen. Factor in Social Security.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Factor in Social Security",
+    "sub": "the built in pension"
+   },
+   "caption": "LESSON 17",
+   "cuts": 1,
+   "chapter": "17. Factor in Social Security"
+  },
+  {
+   "text": "Social Security is an inflation adjusted income stream for life, something very valuable. In 2025, the average retired worker benefit was around two thousand dollars a month, according to the Social Security Administration.",
+   "query": "Social Security statement",
+   "caption": "AROUND $2,000 A MONTH ON AVERAGE",
+   "cuts": 3,
+   "short_hook": "Social Security can cut the amount you need to save by hundreds of thousands."
+  },
+  {
+   "text": "Twenty four thousand dollars a year of Social Security would otherwise require about six hundred thousand dollars of savings under the four percent rule. That's a big reduction in what you need to save.",
+   "query": "Savings reduced",
+   "caption": "WORTH ABOUT $600K OF SAVINGS",
+   "cuts": 3
+  },
+  {
+   "text": "When you claim matters. Claiming before full retirement age reduces benefits, while waiting past it, up to age seventy, increases them. For many people, delaying can significantly boost lifetime income.",
+   "query": "Age timeline 62 to 70",
+   "caption": "WHEN YOU CLAIM MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "You can see your estimated benefits by creating an account on the Social Security Administration's website. Your statement shows estimates at different claiming ages, so you can see exactly how much waiting could add to your monthly check, and how that changes the amount you need to save.",
+   "query": "SSA website on laptop",
+   "caption": "CHECK YOUR ESTIMATE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Log in to your Social Security account, check your estimated benefit and subtract it from your retirement spending before calculating your number.",
+   "query": "Person logging in",
+   "caption": "SUBTRACT IT",
+   "cuts": 3
+  },
+  {
+   "text": "Move number eighteen. Build a plan to reach your number.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Close the gap",
+    "sub": "how fast you can get there"
+   },
+   "caption": "LESSON 18",
+   "cuts": 1,
+   "chapter": "18. Close the gap"
+  },
+  {
+   "text": "Once you know your number, you can estimate how long it'll take. At a seven percent average yearly return, investing one thousand dollars a month could reach one million dollars in roughly twenty seven to twenty eight years, starting from zero.",
+   "query": "Timeline to one million",
+   "caption": "$1,000 A MONTH: ABOUT 28 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Two thousand dollars a month could get there in roughly twenty years. Three thousand a month, in roughly fifteen and a half years. Your savings rate is one of the biggest levers you control.",
+   "query": "Faster timelines chart",
+   "caption": "$2,000: 20 YEARS, $3,000: 15.5",
+   "cuts": 3
+  },
+  {
+   "text": "Raising income, cutting big expenses and investing raises are the most powerful ways to speed things up. The big three expenses for most households are housing, transportation and food. Small wins there can shave years off your timeline, far more than skipping the occasional coffee.",
+   "query": "Three levers",
+   "caption": "THREE BIG LEVERS",
+   "cuts": 3
+  },
+  {
+   "text": "Use tax advantaged accounts first, like four oh one ks, IRAs and HSAs, so more of your money compounds.",
+   "query": "Retirement accounts",
+   "caption": "TAX ADVANTAGED FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Use an online compound interest calculator with your current savings, monthly amount and seven percent to see your estimated timeline.",
+   "query": "Online calculator",
+   "caption": "SEE YOUR TIMELINE",
+   "cuts": 3
+  },
+  {
+   "text": "Move number nineteen. Protect the first years of retirement.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Protect the early years",
+    "sub": "manage sequence risk"
+   },
+   "caption": "LESSON 19",
+   "cuts": 1,
+   "chapter": "19. Protect the early years"
+  },
+  {
+   "text": "Because sequence risk is greatest early on, many retirees hold one to three years of spending in cash or short term bonds when they retire. If markets crash, they spend from that buffer instead of selling stocks low.",
+   "query": "Cash buffer bucket",
+   "caption": "A 1 TO 3 YEAR BUFFER",
+   "cuts": 3
+  },
+  {
+   "text": "Some people use a bucket strategy. Near term money in cash, medium term money in bonds and long term money in stocks.",
+   "query": "Three buckets",
+   "caption": "THE BUCKET STRATEGY",
+   "cuts": 3
+  },
+  {
+   "text": "Others reduce their stock allocation around retirement and gradually increase it again later, an approach some researchers have studied as a way to manage sequence risk.",
+   "query": "Changing allocation chart",
+   "caption": "ADJUST YOUR MIX",
+   "cuts": 3
+  },
+  {
+   "text": "Having part time income or flexibility in the first few years can also protect your portfolio enormously. Even ten or fifteen thousand dollars a year from consulting or a part time job means you withdraw less during the years when a crash would hurt the most.",
+   "query": "Part time worker",
+   "caption": "EARLY FLEXIBILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If you're within five years of retirement, plan how you'd cover two years of spending without selling stocks.",
+   "query": "Planning worksheet",
+   "caption": "PLAN TWO YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Move number twenty. Review and adjust every year.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Review and adjust",
+    "sub": "the rule is a starting point"
+   },
+   "caption": "LESSON 20",
+   "cuts": 1,
+   "chapter": "20. Review and adjust"
+  },
+  {
+   "text": "The four percent rule is a starting point, not autopilot. Each year in retirement, review your portfolio, spending and the market.",
+   "query": "Annual review meeting",
+   "caption": "REVIEW EVERY YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "If your portfolio has grown a lot, you may be able to spend more. If it has fallen sharply, a small temporary cut can help protect your plan.",
+   "query": "Adjusting dial",
+   "caption": "ADJUST AS NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "Many retirees work with a fee only fiduciary financial planner for these decisions, especially around taxes, Social Security and withdrawals.",
+   "query": "Advisor meeting",
+   "caption": "GET HELP IF NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "The goal isn't to follow a rule perfectly. It's to spend confidently while making sure your money lasts. A plan that you review, understand and adjust will serve you far better than any single number followed blindly for thirty years.",
+   "query": "Confident retiree",
+   "caption": "SPEND WITH CONFIDENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Pick an annual review date and write down the questions you'll ask yourself each year.",
+   "query": "Calendar reminder",
+   "caption": "PICK A REVIEW DATE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's run the four percent rule for three different households, so you can see how much the number depends on lifestyle and other income. These are simplified illustrations, before taxes, just to show how the math works.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Three freedom numbers"
+  },
+  {
+   "text": "Household one is a single person who spends thirty thousand dollars a year, owns a modest paid off condo and expects about twenty thousand dollars a year from Social Security. That leaves ten thousand dollars a year to come from savings. Times twenty five, their freedom number is about two hundred fifty thousand dollars. Far less than the million most people imagine.",
+   "query": "Single person in small condo",
+   "caption": "HOUSEHOLD 1: ABOUT $250K",
+   "cuts": 3
+  },
+  {
+   "text": "Household two is a couple spending sixty thousand dollars a year, with combined Social Security of about thirty six thousand. They need twenty four thousand a year from savings, so their freedom number is about six hundred thousand dollars. If they downsize their home and cut yearly spending to fifty thousand, the number falls to about three hundred fifty thousand.",
+   "query": "Couple in suburban home",
+   "caption": "HOUSEHOLD 2: ABOUT $600K",
+   "cuts": 3
+  },
+  {
+   "text": "Household three is a family that spends one hundred twenty thousand dollars a year and wants to retire at fifty, long before Social Security begins. For a long retirement they use three and a half percent, so they divide by point zero three five. Their freedom number is roughly three point four million dollars. Lifestyle and timing changed the target enormously.",
+   "query": "Family with large house",
+   "caption": "HOUSEHOLD 3: ABOUT $3.4M",
+   "cuts": 3
+  },
+  {
+   "text": "Same rule, three completely different answers, from a quarter of a million to more than three million dollars. That's why copying someone else's retirement number makes little sense. The only number that matters is the one built from your spending, your income and your timeline.",
+   "query": "Three different numbers on board",
+   "caption": "YOUR NUMBER IS PERSONAL",
+   "cuts": 3
+  },
+  {
+   "text": "In your twenties and thirties, the four percent rule is mostly a motivation tool. Your future spending is uncertain, but knowing that roughly twenty five times spending is the goal helps you see why saving early matters, and why keeping your lifestyle in check gives you options later.",
+   "query": "Young professional planning",
+   "caption": "20s AND 30s: MOTIVATION",
+   "cuts": 3,
+   "chapter": "Using the rule at every age"
+  },
+  {
+   "text": "In your forties and fifties, the rule becomes a progress check. You have a clearer picture of your spending, your Social Security estimate and your savings. This is the time to compare where you are with where you need to be, and to adjust contributions, catch up savings and your retirement age.",
+   "query": "Middle aged person reviewing accounts",
+   "caption": "40s AND 50s: PROGRESS CHECK",
+   "cuts": 3
+  },
+  {
+   "text": "In your sixties and beyond, the rule turns into a spending guide. It helps you decide how much to withdraw each year, when to claim Social Security and how much to keep in safer assets. Many retirees use it as a starting point, then adjust each year with flexibility.",
+   "query": "Retired couple at kitchen table",
+   "caption": "60s AND BEYOND: SPENDING GUIDE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's put the whole video into a simple five step worksheet you can do tonight with a pen and paper.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Your freedom number in five steps"
+  },
+  {
+   "text": "Step one. Write down what you spend in a typical year, using real bank and credit card statements, not a guess. Include the irregular costs people forget, like car repairs, gifts, annual subscriptions, insurance and holidays. If you're unsure, add ten percent. This number is the foundation for everything else, so it's worth getting right.",
+   "query": "Pen and paper worksheet",
+   "caption": "STEP 1: REAL SPENDING",
+   "cuts": 3
+  },
+  {
+   "text": "Step two. Adjust that number for retirement. Cross out costs that will likely disappear, like commuting, work clothes, retirement contributions or a mortgage you'll have paid off. Add costs that may appear, like health insurance before Medicare, more travel or helping family. What's left is your estimated retirement spending.",
+   "query": "Crossing out expenses",
+   "caption": "STEP 2: RETIREMENT SPENDING",
+   "cuts": 3
+  },
+  {
+   "text": "Step three. Subtract guaranteed income. Look up your estimated Social Security benefit, and add any pension or reliable rental income. Subtract the yearly total from your retirement spending. The result is the amount your investments need to provide each year.",
+   "query": "Subtracting income on paper",
+   "caption": "STEP 3: SUBTRACT GUARANTEED INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Step four. Multiply. Use twenty five for a traditional thirty year retirement, or around twenty nine to thirty three for a very long early retirement. Then add a cushion if most of your savings are in pre tax accounts, since withdrawals there are usually taxed. That's your freedom number.",
+   "query": "Multiplication on worksheet",
+   "caption": "STEP 4: MULTIPLY AND CUSHION",
+   "cuts": 3
+  },
+  {
+   "text": "Step five. Compare your freedom number with what you have today, and work out the gap. Then decide how you'll close it, by saving more, earning more, spending less, working a little longer or combining all four. Write the plan next to the number, and revisit both once a year.",
+   "query": "Plan written next to number",
+   "caption": "STEP 5: CLOSE THE GAP",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine two retirees, each with one million dollars, each planning to withdraw forty thousand dollars a year. In their second year of retirement, the market drops thirty percent. Both portfolios fall sharply, and both feel scared.",
+   "query": "Two retirees watching news",
+   "caption": "SAME START, SAME CRASH",
+   "cuts": 3,
+   "chapter": "Two retirees",
+   "short_hook": "Two retirees saved the same amount. Only one panicked."
+  },
+  {
+   "text": "The first retiree panics, sells all their stocks and moves everything to cash. When markets recover over the next few years, their money doesn't. They keep withdrawing forty thousand a year from a shrinking pile, and their plan is now at real risk.",
+   "query": "Worried retiree",
+   "caption": "RETIREE ONE PANICS",
+   "cuts": 3
+  },
+  {
+   "text": "The second retiree had a two year cash buffer. They spend from it, trim travel for a year and leave their stocks alone. When markets recover, their portfolio recovers too. Same crash, very different outcomes, because one had a plan for bad years.",
+   "query": "Calm retiree gardening",
+   "caption": "RETIREE TWO HAD A PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "The four percent rule didn't save the second retiree by itself. What saved them was the system around it. A realistic number, a cash buffer for bad years, a willingness to adjust spending a little and the discipline to stay invested. The rule tells you where to aim. The system is what gets you through the storms.",
+   "query": "Lighthouse in storm",
+   "caption": "THE SYSTEM MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Is four percent too high now? Some researchers suggest slightly lower starting rates for long retirements or lower expected returns. Others think four percent remains reasonable. Using three and a half to four percent with flexibility is a common middle ground.",
+   "query": "Debate illustration",
+   "caption": "IS 4% TOO HIGH?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question two. Does the rule work for early retirement? It can be a starting point, but longer retirements usually call for lower withdrawal rates, often three to three and a half percent, and more flexibility.",
+   "query": "Young retiree",
+   "caption": "EARLY RETIREMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What if I have a pension? A pension, like Social Security, reduces how much you need from savings. Subtract it from your spending before multiplying by twenty five.",
+   "query": "Pension statement",
+   "caption": "WHAT ABOUT PENSIONS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Should I include my home's value? Usually not, unless you plan to sell or downsize and use the money for living expenses. Your home provides shelter, not spending money.",
+   "query": "House",
+   "caption": "WHAT ABOUT MY HOME?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. What about long term care costs? Long term care can be very expensive, and many retirees will need some help later in life. Some people plan for it with long term care insurance, others set aside extra savings or plan to use home equity. It's worth discussing with a planner, because it can be one of the biggest late life expenses.",
+   "query": "Caregiver helping senior",
+   "caption": "LONG TERM CARE",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. Can I retire with less than twenty five times spending? Possibly, with more flexibility. Part time income, delaying Social Security, a willingness to cut spending in bad years, or moving to a lower cost area can all make a smaller number work. The more flexible you are, the less you may need.",
+   "query": "Person working part time happily",
+   "caption": "LESS THAN 25 TIMES?",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one. Using income instead of spending. Your freedom number is built from what you spend, not what you earn. Using income can make your target far too high or, if you spend more than you think, far too low.",
+   "query": "Income versus spending",
+   "caption": "MISTAKE 1: INCOME, NOT SPENDING",
+   "cuts": 3,
+   "chapter": "Four 4% rule mistakes"
+  },
+  {
+   "text": "Mistake two. Forgetting health care before Medicare. People who retire before sixty five need health insurance until Medicare starts, and premiums can be significant. Build that cost into your spending estimate.",
+   "query": "Health insurance bill",
+   "caption": "MISTAKE 2: HEALTH CARE GAP",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three. Treating four percent as guaranteed. It's a historical rule of thumb. Markets, inflation and your lifespan can differ from the past. Build in a margin of safety and stay flexible.",
+   "query": "Warning sign",
+   "caption": "MISTAKE 3: TREATING IT AS A GUARANTEE",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake four. Ignoring taxes. Withdrawals from pre tax accounts are usually taxed as income. If you need forty thousand dollars to spend, you may need to withdraw more. Plan for the tax bill.",
+   "query": "Tax bill",
+   "caption": "MISTAKE 4: IGNORING TAXES",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Angle one, the numbers. Where the rule came from, the times twenty five rule, sequence risk, no guarantees, time horizon, investment mix, and inflation and taxes.",
+   "query": "Checklist on clipboard",
+   "caption": "THE NUMBERS: 1 TO 7",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "Angle two, the psychology. A number makes it real, fear of spending, lifestyle creep, one more year, freedom without full retirement, defining enough and flexibility.",
+   "query": "Person thinking",
+   "caption": "THE PSYCHOLOGY: 8 TO 14",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three, the playbook. Track spending, calculate your number, factor in Social Security, close the gap, protect the early years and review every year.",
+   "query": "Notebook with plan",
+   "caption": "THE PLAYBOOK: 15 TO 20",
+   "cuts": 3
+  },
+  {
+   "text": "Your freedom number isn't a fantasy. It's your yearly spending times twenty five, adjusted for your life. Once you know it, you can build a real plan to reach it. If you want my full step by step plan, it's in my playbook, linked in the description. Tell me in the comments, what's your freedom number? I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
