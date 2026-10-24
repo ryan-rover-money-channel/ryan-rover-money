@@ -1,0 +1,941 @@
+{
+ "id": "video58",
+ "angle": "emergency fund from zero: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "How to Build an Emergency Fund From Zero",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. If a four hundred dollar emergency hit you tomorrow, could you pay it in cash? According to the Federal Reserve, millions of American adults couldn't. If that's you, this video is for you. Today, I'll show you how to build an emergency fund from absolutely zero, step by step, even on a tight budget.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "An emergency fund is money set aside only for real emergencies: a job loss, a medical bill, an urgent car repair. It's not exciting. It doesn't grow fast. But it might be the most important money you'll ever save, because it protects everything else.",
+   "query": "Savings jar on table",
+   "caption": "THE MOST IMPORTANT MONEY",
+   "cuts": 8,
+   "short_hook": "Could you cover a $400 emergency tomorrow? Millions can't."
+  },
+  {
+   "text": "Without one, every surprise becomes debt. A car repair goes on a credit card. A medical bill becomes a payment plan. A lost job means falling behind on rent. And once that cycle starts, it's very hard to escape.",
+   "query": "Stressed person bills",
+   "caption": "EVERY SURPRISE BECOMES DEBT",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at this from three angles. First, the numbers: how many people have an emergency fund, how much you need, and what not having one costs. Second, the psychology: why saving for emergencies is so hard, and how to make it easier. And third, the playbook: twelve steps from zero to a full emergency fund.",
+   "query": "Three paths map",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Stay for step seven. It's a way to raise your first few hundred dollars in a single weekend. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Emergency savings data comes from the Federal Reserve's annual Survey of Household Economics and Decisionmaking, known as SHED. Credit card interest information comes from the Federal Reserve's consumer credit data. Deposit insurance information comes from the FDIC and NCUA. Behavioral research is named as we go. Interest examples are stated math. This is education, not financial advice.",
+   "query": "Federal Reserve building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. How many people are prepared, how much you need, and what it costs not to have it.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Every year, the Federal Reserve asks American adults a simple question: if you faced an unexpected expense of four hundred dollars, how would you pay for it? In recent surveys, about sixty three percent said they would cover it with cash or its equivalent. That means more than a third would not.",
+   "query": "Survey results chart",
+   "caption": "~63% COULD PAY $400 IN CASH",
+   "cuts": 3
+  },
+  {
+   "text": "In recent Federal Reserve surveys, about sixty three percent of adults said they would cover a four hundred dollar emergency with cash or its equivalent. More than a third would not.",
+   "card": {
+    "type": "stat",
+    "label": "adults who'd cover $400 with cash",
+    "big": "~63%",
+    "sub": "Federal Reserve SHED, recent years"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Those who couldn't said they'd use a credit card and pay over time, borrow from friends or family, take a payday loan, sell something, or simply wouldn't be able to pay. Each of those options costs money, relationships or stress.",
+   "query": "Borrowing money from friend",
+   "caption": "THE ALTERNATIVES COST",
+   "cuts": 3
+  },
+  {
+   "text": "Now, how much do you need? The most common guideline is three to six months of essential expenses. Essentials mean rent or mortgage, utilities, groceries, insurance, transportation and minimum debt payments. Not your full lifestyle. Just what you'd need to keep the lights on.",
+   "query": "Essentials checklist",
+   "caption": "3 TO 6 MONTHS OF ESSENTIALS",
+   "cuts": 3
+  },
+  {
+   "text": "If your essentials are twenty five hundred dollars a month, three months is seventy five hundred dollars and six months is fifteen thousand. That can sound overwhelming from zero. But you don't build it all at once. You build it in stages, and every stage protects you more.",
+   "query": "Staircase stages",
+   "caption": "$7,500 TO $15,000",
+   "cuts": 3
+  },
+  {
+   "text": "Who needs closer to six months, or more? People with irregular income, single income households, people in industries with frequent layoffs, homeowners, and people with health conditions or dependents. Who might be okay with three? Dual income households with stable jobs and few dependents.",
+   "query": "Different households",
+   "caption": "3 OR 6?",
+   "cuts": 3
+  },
+  {
+   "text": "Now, what does it cost not to have an emergency fund? Say a two thousand dollar car repair goes on a credit card at twenty two percent interest, and you pay one hundred dollars a month. It would take about twenty six months to pay off, and you'd pay around twenty five hundred dollars in total. The emergency cost five hundred dollars more because you didn't have savings.",
+   "query": "Credit card bill interest",
+   "caption": "$2,000 REPAIR = ~$2,500 ON CREDIT",
+   "cuts": 3
+  },
+  {
+   "text": "A two thousand dollar emergency, paid with a credit card at twenty two percent interest with one hundred dollar monthly payments, versus paid from savings.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "on a credit card",
+     "big": "~$2,500",
+     "sub": "about 26 months of payments"
+    },
+    "right": {
+     "label": "from savings",
+     "big": "$2,000",
+     "sub": "paid once, then refill"
+    },
+    "note": "Illustration at 22% APR."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "And payday loans can be far more expensive. The Consumer Financial Protection Bureau has reported that a typical two week payday loan can carry fees that work out to an annual percentage rate of almost four hundred percent. One emergency can turn into months of fees.",
+   "query": "Payday loan storefront",
+   "caption": "PAYDAY LOANS: ~400% APR",
+   "cuts": 3
+  },
+  {
+   "text": "Now the good news. Small, regular savings add up faster than people expect. Twenty five dollars a week is thirteen hundred dollars a year. Fifty dollars a week is twenty six hundred. One hundred dollars a week is fifty two hundred. And in a high yield savings account, that money can earn interest while it waits.",
+   "query": "Coins stacking weekly",
+   "caption": "$50 A WEEK = $2,600 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "What kinds of emergencies actually happen? For most households, the common ones are car repairs, medical and dental bills, home or appliance repairs, pet emergencies, and income disruptions like reduced hours or job loss. Most of these aren't rare. Over a few years, almost every household faces several of them.",
+   "query": "Broken car on roadside",
+   "caption": "THE COMMON EMERGENCIES",
+   "cuts": 3
+  },
+  {
+   "text": "Job loss is the big one. The Bureau of Labor Statistics reports that in recent years, the median length of unemployment has often been around two to three months, and many people take longer to find work. That's one reason three to six months of essentials is the standard guideline. It covers a typical job search with room to spare.",
+   "query": "Job search laptop",
+   "caption": "JOB SEARCHES TAKE TIME",
+   "cuts": 3
+  },
+  {
+   "text": "And here's a bonus. In a high yield savings account, your emergency fund earns interest while it waits. Some high yield accounts have paid around four percent a year recently, though rates change. On a ten thousand dollar fund, four percent is about four hundred dollars a year, money that works for you instead of against you.",
+   "query": "Interest earned statement",
+   "caption": "IT EARNS WHILE IT WAITS",
+   "cuts": 3
+  },
+  {
+   "text": "Saving one hundred fifty dollars a week, about six hundred fifty a month, for two years in an account earning four percent a year.",
+   "card": {
+    "type": "growth",
+    "monthly": 650,
+    "rate": 0.04,
+    "years": 2
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "So the math is clear: an emergency fund saves money and protects you. Then why is it so hard to build? Angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Five reasons emergency funds are hard to build, and how to beat each one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Reason one. It feels like nothing is happening. Investing has growth charts. Paying off debt has shrinking balances. An emergency fund just sits there. Our brains like visible rewards, and this money's reward is invisible: the crisis that never happens.",
+   "query": "Empty quiet room",
+   "caption": "REASON 1: INVISIBLE REWARD",
+   "cuts": 3,
+   "short_hook": "Why saving for emergencies feels impossible, and how to fix it"
+  },
+  {
+   "text": "The fix: make progress visible. Name the account, set a goal, and watch a progress bar fill. Celebrate milestones like five hundred, one thousand, and one month of expenses. Small celebrations keep you going.",
+   "query": "Progress bar milestones",
+   "caption": "THE FIX: VISIBLE PROGRESS",
+   "cuts": 3
+  },
+  {
+   "text": "Reason two. Present bias. Behavioral economists describe a tendency to value rewards today much more than rewards later. Spending fifty dollars now feels great. Being protected from a future emergency feels abstract. So the present wins, again and again.",
+   "query": "Present versus future scale",
+   "caption": "REASON 2: PRESENT BIAS",
+   "cuts": 3
+  },
+  {
+   "text": "The fix: automate it, so the decision is made once. When savings happen automatically on payday, the present version of you doesn't get a vote every week. Researchers Richard Thaler and Shlomo Benartzi showed with their Save More Tomorrow program that automatic, pre committed savings can dramatically raise how much people save.",
+   "query": "Automatic transfer setup",
+   "caption": "THE FIX: AUTOMATE",
+   "cuts": 3
+  },
+  {
+   "text": "Reason three. It feels impossible from zero. When the goal is fifteen thousand dollars and you have zero, the gap is so big that starting feels pointless. So people don't start.",
+   "query": "Mountain looking huge",
+   "caption": "REASON 3: TOO BIG",
+   "cuts": 3
+  },
+  {
+   "text": "The fix: break it into stages. Your first goal isn't fifteen thousand. It's five hundred. Then one thousand. Then one month. Each stage is reachable, and each one makes you safer than before.",
+   "query": "Small steps up mountain",
+   "caption": "THE FIX: STAGES",
+   "cuts": 3
+  },
+  {
+   "text": "Reason four. Easy access, easy spending. If your emergency fund sits in your checking account, it slowly disappears into everyday spending. Money that's always visible and one tap away rarely survives.",
+   "query": "Money disappearing from wallet",
+   "caption": "REASON 4: TOO EASY TO SPEND",
+   "cuts": 3
+  },
+  {
+   "text": "The fix: separation. Keep the fund in a separate high yield savings account, maybe even at a different bank. Close enough to reach in a day or two. Far enough that you don't spend it by accident.",
+   "query": "Separate bank account",
+   "caption": "THE FIX: SEPARATION",
+   "cuts": 3
+  },
+  {
+   "text": "And reason five. Every month feels like an emergency. When money is tight, there's always something urgent. Kids need shoes. A bill is higher than expected. It can feel like there's never extra.",
+   "query": "Overwhelmed parent",
+   "caption": "REASON 5: ALWAYS SOMETHING",
+   "cuts": 3
+  },
+  {
+   "text": "The fix: separate expected costs from true emergencies. Shoes, birthdays and annual bills are expected, even if irregular. Plan for them with small sinking funds. Then the emergency fund is only touched for real surprises.",
+   "query": "Sinking fund envelopes",
+   "caption": "THE FIX: SINKING FUNDS",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a mindset shift that helps many people. Think of your emergency fund as insurance you pay to yourself. Instead of paying interest to a credit card company after an emergency, you pay into your own account before it. And unlike most insurance, if you never need it, you keep every dollar.",
+   "query": "Insurance paid to yourself",
+   "caption": "INSURANCE YOU OWN",
+   "cuts": 3,
+   "chapter": "The mindset that works"
+  },
+  {
+   "text": "And think of it as buying calm. Many people say the first thousand dollars in savings did more for their stress level than any raise. You're not just saving money. You're buying the ability to handle bad news without panic.",
+   "query": "Calm person reading news",
+   "caption": "BUYING CALM",
+   "cuts": 3
+  },
+  {
+   "text": "The idea of saving for hard times is ancient. Many cultures have a version of the advice. In the Bible, Joseph advises Pharaoh to store grain during seven good years to prepare for seven years of famine. The phrase saving for a rainy day has been used in English for centuries.",
+   "query": "Ancient grain storage",
+   "caption": "AN ANCIENT IDEA",
+   "cuts": 3,
+   "chapter": "Saving for a rainy day"
+  },
+  {
+   "text": "During the Great Depression in the 1930s, many American families lost their savings when thousands of banks failed. That's one reason Congress created the Federal Deposit Insurance Corporation in 1933, to protect bank deposits. Today, FDIC insurance covers deposits up to legal limits, currently two hundred fifty thousand dollars per depositor, per insured bank, for each account ownership category.",
+   "query": "1930s bank run",
+   "caption": "1933: THE FDIC",
+   "cuts": 3
+  },
+  {
+   "text": "For many decades, people kept emergency savings in passbook savings accounts at local banks. Then, in the 2000s, online banks began offering higher interest rates because they didn't have branch costs. Today, anyone can open a high yield savings account in minutes.",
+   "query": "Old passbook savings book",
+   "caption": "FROM PASSBOOKS TO APPS",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're building your emergency fund, or about to start, subscribe to the channel. It's free, and it helps me keep making these videos. Now, the twelve steps from zero.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. The playbook. Twelve steps from zero to a full emergency fund.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Step one. Face the starting line.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Face the starting line",
+    "sub": "know your numbers"
+   },
+   "caption": "STEP 1",
+   "cuts": 1,
+   "chapter": "Step 1. Face the starting line",
+   "short_hook": "12 steps to build an emergency fund from zero"
+  },
+  {
+   "text": "Write down how much cash you have available right now, outside of what's needed for this month's bills. For many people starting this journey, the honest answer is close to zero.",
+   "query": "Bank balance low",
+   "caption": "WHERE YOU ARE NOW",
+   "cuts": 3
+  },
+  {
+   "text": "Also list any debts and their minimum payments, and any money that's coming soon, like a tax refund or a final paycheck. This gives you a complete, honest snapshot. It only takes about twenty minutes, and it turns a vague worry into specific numbers.",
+   "query": "Notebook with numbers",
+   "caption": "A COMPLETE SNAPSHOT",
+   "cuts": 3
+  },
+  {
+   "text": "If you're starting at zero, be gentle with yourself. Many people are. The point of this step isn't to feel bad about the number. It's to know exactly where the starting line is, so every dollar you add feels like progress.",
+   "query": "Starting line on track",
+   "caption": "ZERO IS A STARTING LINE",
+   "cuts": 3
+  },
+  {
+   "text": "Step two. Calculate your essential expenses.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Calculate your essential expenses",
+    "sub": "your target"
+   },
+   "caption": "STEP 2",
+   "cuts": 1,
+   "chapter": "Step 2. Calculate your essential expenses"
+  },
+  {
+   "text": "Add up rent or mortgage, utilities, groceries, insurance, transportation, childcare and minimum debt payments. That's your monthly essentials. Multiply by three and by six. Those are your long term targets.",
+   "query": "Calculator essentials",
+   "caption": "MULTIPLY BY 3 AND 6",
+   "cuts": 3
+  },
+  {
+   "text": "If you're not sure what you spend, look at the last three months of bank statements and average them. Don't include things you'd cut immediately in a crisis, like dining out or streaming services. Those aren't essentials when times are hard.",
+   "query": "Bank statements highlighted",
+   "caption": "WHAT YOU'D KEEP IN A CRISIS",
+   "cuts": 3
+  },
+  {
+   "text": "For most people, essential expenses are somewhere between sixty and seventy five percent of their normal spending. If you normally spend four thousand a month, your essentials might be around twenty eight hundred. That's the number your emergency fund is built around.",
+   "query": "Essentials list",
+   "caption": "USUALLY 60 TO 75%",
+   "cuts": 3
+  },
+  {
+   "text": "Step three. Open a separate high yield savings account.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Open a separate high yield savings account",
+    "sub": "a home for the fund"
+   },
+   "caption": "STEP 3",
+   "cuts": 1,
+   "chapter": "Step 3. Open a separate high yield savings account"
+  },
+  {
+   "text": "Online banks and many credit unions offer high yield savings accounts that often pay much more interest than a typical big bank savings account. Deposits are insured by the FDIC or NCUA up to legal limits.",
+   "query": "High yield savings online",
+   "caption": "A SEPARATE HOME",
+   "cuts": 3
+  },
+  {
+   "text": "Give the account a clear name, like Emergency Fund, or something personal, like Peace of Mind. A named account with a purpose is psychologically harder to spend from. It's a small trick, but it works for many people.",
+   "query": "Named savings account",
+   "caption": "NAME IT",
+   "cuts": 3
+  },
+  {
+   "text": "Look for an account with no monthly fees, no minimum balance, and FDIC or NCUA insurance. Check the current interest rate, but don't chase every small rate change. The most important features are safety and easy access within a day or two.",
+   "query": "Bank comparison chart",
+   "caption": "SAFE, FREE, ACCESSIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Step four. Automate a small transfer.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Automate a small transfer",
+    "sub": "pay your future first"
+   },
+   "caption": "STEP 4",
+   "cuts": 1,
+   "chapter": "Step 4. Automate a small transfer"
+  },
+  {
+   "text": "Set up an automatic transfer from checking to your emergency fund the day after payday. Choose an amount you won't notice too much, even if it's twenty five dollars.",
+   "query": "Automatic transfer",
+   "caption": "THE DAY AFTER PAYDAY",
+   "cuts": 3
+  },
+  {
+   "text": "If your income arrives on different days, set the transfer for the day each paycheck lands. And if your bank allows it, set up automatic round ups, which move spare change from each purchase into savings. Small amounts, many times a week, add up.",
+   "query": "Round up savings app",
+   "caption": "ROUND UPS HELP TOO",
+   "cuts": 3
+  },
+  {
+   "text": "If you can't name an amount yet, start with ten dollars per paycheck. The habit matters more than the amount at first. You can raise it every month as you find more money.",
+   "query": "Ten dollar bill",
+   "caption": "EVEN $10 COUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Step five. Hit your first quick win: five hundred dollars.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Hit your first quick win",
+    "sub": "$500"
+   },
+   "caption": "STEP 5",
+   "cuts": 1,
+   "chapter": "Step 5. Hit your first quick win"
+  },
+  {
+   "text": "Five hundred dollars can cover many common emergencies, like a minor car repair, a doctor visit or a broken phone. It's the first milestone, and it's reachable within a few months for most people.",
+   "query": "Five hundred dollars",
+   "caption": "THE FIRST $500",
+   "cuts": 3
+  },
+  {
+   "text": "At twenty five dollars a week, five hundred dollars takes about twenty weeks. At fifty dollars a week, about ten. Add one weekend of selling unused things, and it can happen in a month or two.",
+   "query": "Calendar weeks counting",
+   "caption": "10 TO 20 WEEKS",
+   "cuts": 3
+  },
+  {
+   "text": "A good trick is to round up your goal. If your quick win target is five hundred dollars, set up the account so you see a progress bar, or write the number on a sticky note and update it every week. Visible progress keeps people going.",
+   "query": "Progress bar app",
+   "caption": "MAKE PROGRESS VISIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Step six. Reach one thousand dollars.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Reach $1,000",
+    "sub": "the starter fund"
+   },
+   "caption": "STEP 6",
+   "cuts": 1,
+   "chapter": "Step 6. Reach $1,000"
+  },
+  {
+   "text": "One thousand dollars is a classic starter emergency fund. It covers many of the surprises that would otherwise go on a credit card.",
+   "query": "One thousand dollars",
+   "caption": "$1,000 STARTER FUND",
+   "cuts": 3
+  },
+  {
+   "text": "To get from five hundred to one thousand faster, look for one recurring cost to cut temporarily, like a streaming service, a gym you don't use, or food delivery. Send that amount to the fund until you hit one thousand.",
+   "query": "Canceling subscription",
+   "caption": "CUT ONE THING TEMPORARILY",
+   "cuts": 3
+  },
+  {
+   "text": "Once the thousand dollars is in place, many people notice a real change. A flat tire or a vet bill no longer means panic. That first thousand dollars often does more for peace of mind than any later milestone.",
+   "query": "Calm person changing tire",
+   "caption": "PEACE OF MIND",
+   "cuts": 3
+  },
+  {
+   "text": "Step seven. Raise money in a weekend.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Raise money in a weekend",
+    "sub": "the jump start"
+   },
+   "caption": "STEP 7",
+   "cuts": 1,
+   "chapter": "Step 7. Raise money in a weekend"
+  },
+  {
+   "text": "Here's the jump start. Spend one weekend raising cash: sell unused items, pick up an extra shift, do a few hours of gig work, or offer a service like babysitting, yard work or tutoring. Many people raise a few hundred dollars in a single weekend.",
+   "query": "Garage sale weekend",
+   "caption": "ONE WEEKEND, A FEW HUNDRED",
+   "cuts": 3
+  },
+  {
+   "text": "Check your home for old phones, game consoles, furniture, baby gear, tools, bikes and clothes. And check for money you're owed: unclaimed property databases run by states, forgotten gift cards, or refunds you never requested.",
+   "query": "Unclaimed property website",
+   "caption": "MONEY YOU'RE OWED",
+   "cuts": 3
+  },
+  {
+   "text": "Sell things you don't use. Many homes have a few hundred dollars of unused electronics, furniture, sports gear or clothing. Online marketplaces and local groups make it easy. Every sale goes straight to the fund.",
+   "query": "Selling items online",
+   "caption": "SELL WHAT YOU DON'T USE",
+   "cuts": 3
+  },
+  {
+   "text": "Step eight. Capture windfalls.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Capture windfalls",
+    "sub": "refunds, bonuses, gifts"
+   },
+   "caption": "STEP 8",
+   "cuts": 1,
+   "chapter": "Step 8. Capture windfalls"
+  },
+  {
+   "text": "According to the IRS, the average tax refund in recent years has been around three thousand dollars. For many households, that single refund could build most of a starter emergency fund in one day.",
+   "query": "Tax refund",
+   "caption": "~$3,000 AVERAGE REFUND",
+   "cuts": 3
+  },
+  {
+   "text": "A common split is to send at least half of every windfall to the emergency fund until it's full, and enjoy the rest. That way you make real progress without feeling like every bit of good luck disappears.",
+   "query": "Split money half",
+   "caption": "HALF TO THE FUND",
+   "cuts": 3
+  },
+  {
+   "text": "Watch for these moments throughout the year: tax refunds, bonuses, cash gifts, rebates, and the extra paychecks in months with three paydays. Decide in advance that a set share of each one goes to the emergency fund until it's full.",
+   "query": "Tax refund check",
+   "caption": "DECIDE IN ADVANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Step nine. Build sinking funds alongside.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Build sinking funds alongside",
+    "sub": "for the expected"
+   },
+   "caption": "STEP 9",
+   "cuts": 1,
+   "chapter": "Step 9. Build sinking funds alongside"
+  },
+  {
+   "text": "Once you have a starter fund, add small sinking funds for predictable irregular costs: car maintenance, holidays, gifts, annual bills. Even ten or twenty dollars a month for each makes a difference.",
+   "query": "Labeled sinking funds",
+   "caption": "FOR THE EXPECTED",
+   "cuts": 3
+  },
+  {
+   "text": "Common sinking funds include car maintenance and registration, holidays and birthdays, school costs, medical copays, pet care, and home or renters insurance if it's paid yearly. Start with the two or three that most often surprise you.",
+   "query": "Sinking fund list",
+   "caption": "COMMON SINKING FUNDS",
+   "cuts": 3
+  },
+  {
+   "text": "This step is what keeps the emergency fund from being drained by non emergencies. Without sinking funds, a holiday or an annual bill looks like an emergency. With them, the emergency fund stays protected for the truly unexpected.",
+   "query": "Holiday gifts and savings",
+   "caption": "PROTECT THE FUND",
+   "cuts": 3
+  },
+  {
+   "text": "Step ten. Grow to one month, then three months.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Grow to one month, then three",
+    "sub": "the next stages"
+   },
+   "caption": "STEP 10",
+   "cuts": 1,
+   "chapter": "Step 10. Grow to one month, then three"
+  },
+  {
+   "text": "After the starter fund, aim for one full month of essentials, then three months. Raise your automatic transfer every time you can, especially after a raise or after paying off a debt.",
+   "query": "Stages chart",
+   "caption": "ONE MONTH, THEN THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Every time you pay off a debt, redirect that payment straight to the emergency fund until it reaches your target. You're already used to living without that money, so you won't feel the difference.",
+   "query": "Debt paid off stamp",
+   "caption": "REDIRECT OLD PAYMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "If you have high interest debt, a common approach is to build the fund to about one thousand dollars, then focus on paying down the debt, then come back and build the full fund. That way you're protected from new debt while you clear the old.",
+   "query": "Debt and savings balance",
+   "caption": "BALANCE IT WITH DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "Step eleven. Define what counts as an emergency.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Define what counts as an emergency",
+    "sub": "rules in advance"
+   },
+   "caption": "STEP 11",
+   "cuts": 1,
+   "chapter": "Step 11. Define what counts as an emergency"
+  },
+  {
+   "text": "A simple test: is it unexpected, is it necessary, and is it urgent? If all three are yes, it's probably an emergency. If not, it belongs in a sinking fund or your regular spending.",
+   "query": "Three question checklist",
+   "caption": "UNEXPECTED, NECESSARY, URGENT",
+   "cuts": 3
+  },
+  {
+   "text": "If you share finances with a partner, agree on these rules together. And consider a simple threshold: any withdrawal above a certain amount gets discussed first, unless it's a true urgent emergency.",
+   "query": "Couple agreeing",
+   "caption": "AGREE TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "Write down your own rules before you need them. For example: job loss, medical bills, urgent car or home repairs, emergency travel for family. Not: sales, vacations, or things you could have planned. Clear rules make hard moments easier.",
+   "query": "Written rules list",
+   "caption": "WRITE YOUR RULES",
+   "cuts": 3
+  },
+  {
+   "text": "Step twelve. Use it, then refill it.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Use it, then refill it",
+    "sub": "the cycle"
+   },
+   "caption": "STEP 12",
+   "cuts": 1,
+   "chapter": "Step 12. Use it, then refill it"
+  },
+  {
+   "text": "When a real emergency happens, use the fund without guilt. That's exactly what it's for. Then restart your automatic transfers, or raise them for a while, until the fund is back to full.",
+   "query": "Refill savings jar",
+   "caption": "USE IT, THEN REFILL",
+   "cuts": 3
+  },
+  {
+   "text": "Some people keep a simple log of every time they used the fund and why. Over the years, it becomes a powerful reminder of how many crises the fund turned into simple inconveniences.",
+   "query": "Notebook log",
+   "caption": "KEEP A LOG",
+   "cuts": 3
+  },
+  {
+   "text": "Once your fund is full, the money you were sending to it can go somewhere new: investing, a down payment, or paying off a loan faster. The emergency fund isn't the end of the plan. It's the foundation that makes the rest possible.",
+   "query": "Foundation and house",
+   "caption": "THEN BUILD ON IT",
+   "cuts": 3
+  },
+  {
+   "text": "Let's put it all together. Stage one: five hundred dollars. The quick win. Stage two: one thousand dollars. The starter fund. Stage three: one month of essential expenses. Stage four: three months. Stage five: six months, or more if your situation calls for it.",
+   "query": "Five stage staircase",
+   "caption": "THE FIVE STAGES",
+   "cuts": 3,
+   "chapter": "The five stages, at a glance",
+   "short_hook": "The 5 stages of an emergency fund"
+  },
+  {
+   "text": "Five hundred dollars, then one thousand, then one month of essentials, then three months, then six.",
+   "card": {
+    "type": "stat",
+    "label": "the five stages",
+    "big": "$500 \u2192 $1K \u2192 1 \u2192 3 \u2192 6",
+    "size": 100,
+    "sub": "months of essential expenses"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "How long does it take? With essentials of twenty five hundred a month and one hundred fifty dollars a week saved, plus a tax refund each year, many people could reach one thousand dollars in a few months, one month of essentials in under a year, and three months in about two years. Faster with side income or windfalls.",
+   "query": "Timeline calendar",
+   "caption": "A REALISTIC TIMELINE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's meet three people. Kayla is a single mom earning thirty eight thousand dollars. She starts with twenty dollars a week and puts most of her tax refund into savings. After one year, she has about thirty five hundred dollars. When her car's transmission fails, she pays for most of the repair in cash.",
+   "query": "Single mother with child",
+   "caption": "KAYLA: $20 A WEEK + REFUND",
+   "cuts": 3,
+   "chapter": "Three people, three starting points"
+  },
+  {
+   "text": "Devon is a delivery driver with irregular income. Some weeks are great, some are slow. He saves fifteen percent of every payout into a separate account. After eighteen months, he has two months of expenses saved, and slow weeks no longer mean panic.",
+   "query": "Delivery driver car",
+   "caption": "DEVON: 15% OF EVERY PAYOUT",
+   "cuts": 3
+  },
+  {
+   "text": "And Linda and Ray, a couple in their fifties, had always relied on credit cards for emergencies. After Ray's hours were cut, their card balances grew. They paused extra spending, sold a second car, and built three months of savings over two years. Now, when the furnace failed last winter, they paid in cash for the first time in their lives.",
+   "query": "Older couple at home",
+   "caption": "LINDA AND RAY: STARTING IN THEIR 50s",
+   "cuts": 3
+  },
+  {
+   "text": "Notice something about all three stories. None of them saved a large amount at the start. Kayla started with twenty dollars a week. Devon used a percentage. Linda and Ray started in their fifties after years of relying on credit. What they had in common was a decision to start, and a system that kept going even when motivation faded.",
+   "query": "Small seed growing plant",
+   "caption": "THEY ALL STARTED SMALL",
+   "cuts": 3
+  },
+  {
+   "text": "Three different lives. Three different incomes. The same principles. Start small, automate, use windfalls, separate the money, and keep going. These are illustrations, but they reflect what many real households do.",
+   "query": "Three households",
+   "caption": "THE SAME PRINCIPLES",
+   "cuts": 3
+  },
+  {
+   "text": "Many people starting from zero also have credit card debt, and they wonder whether saving even makes sense. Here's the problem with skipping the emergency fund entirely. While you're paying down a card, any surprise expense goes right back on it. You pay down two hundred dollars, then a car repair adds five hundred. It feels like running on a treadmill.",
+   "query": "Person on treadmill",
+   "caption": "THE DEBT TREADMILL",
+   "cuts": 3,
+   "chapter": "Starting from zero while in debt"
+  },
+  {
+   "text": "That's why a small starter fund comes first, even before aggressive debt payoff. With five hundred to one thousand dollars set aside, surprises stop undoing your progress. Then every extra dollar can go to the debt with confidence.",
+   "query": "Breaking free from treadmill",
+   "caption": "STARTER FUND FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Once high interest debt is gone, the payments you were making become your emergency fund engine. If you were paying four hundred dollars a month toward cards, send that same four hundred to savings. In about a year, you could have close to five thousand dollars. That's how the cycle reverses.",
+   "query": "Money flowing to savings",
+   "caption": "THE CYCLE REVERSES",
+   "cuts": 3
+  },
+  {
+   "text": "And during this phase, be careful with new credit. Store cards, buy now pay later offers and payday loans can look like easy solutions when money is tight. But they often make the next emergency worse. The emergency fund is the real solution.",
+   "query": "Buy now pay later warning",
+   "caption": "AVOID NEW DEBT TRAPS",
+   "cuts": 3
+  },
+  {
+   "text": "Where should the money live? The main options are high yield savings accounts, money market accounts at banks or credit unions, and money market funds at brokerages. All three can be good choices. The key features are safety, easy access, and a reasonable interest rate.",
+   "query": "Savings options comparison",
+   "caption": "THE MAIN OPTIONS",
+   "cuts": 3,
+   "chapter": "Where to keep your emergency fund"
+  },
+  {
+   "text": "High yield savings accounts and bank money market accounts are generally FDIC insured up to legal limits, and credit union accounts are NCUA insured. Money market funds at brokerages are not FDIC insured, though they invest in short term, high quality securities. Know which one you have.",
+   "query": "Insurance shield",
+   "caption": "KNOW WHAT'S INSURED",
+   "cuts": 3
+  },
+  {
+   "text": "Avoid keeping your emergency fund in stocks, crypto, or long term CDs with large early withdrawal penalties. You want the money to be there, at full value, the moment you need it. Earning a little less is the price of safety, and it's worth it.",
+   "query": "Warning stocks crypto",
+   "caption": "AVOID RISKY PLACES",
+   "cuts": 3
+  },
+  {
+   "text": "Once your fund is large, some people split it. One or two months in a high yield savings account for instant access, and the rest in a slightly higher yielding safe option. That's optional. For most people, one good high yield account is enough.",
+   "query": "Two savings tiers",
+   "caption": "SPLITTING IT IS OPTIONAL",
+   "cuts": 3
+  },
+  {
+   "text": "A practical tip. Make sure you can actually get the money quickly. Test a transfer from your emergency account to your checking account before you need it, and note how long it takes. Most online transfers arrive within one to three business days. If a real emergency needs cash the same day, a small amount in checking or a credit card you pay off immediately with the transferred funds can bridge the gap.",
+   "query": "Bank transfer timing",
+   "caption": "TEST THE TRANSFER",
+   "cuts": 3
+  },
+  {
+   "text": "Irregular income. Freelancers, gig workers and commission earners need a bigger cushion, often six months or more. A helpful approach is to save a fixed percentage of every payment, like ten or fifteen percent, rather than a fixed dollar amount. In good months, you save more automatically.",
+   "query": "Freelancer laptop",
+   "caption": "IRREGULAR INCOME",
+   "cuts": 3,
+   "chapter": "Special situations"
+  },
+  {
+   "text": "Couples. Decide whether the emergency fund will be joint or separate. Many couples keep one shared fund for household emergencies, and each person may also keep a small personal cushion. What matters is that both people know where it is and how it can be used.",
+   "query": "Couple reviewing savings",
+   "caption": "COUPLES",
+   "cuts": 3
+  },
+  {
+   "text": "Families with kids. Kids bring their own surprises: urgent care visits, broken glasses, last minute school costs. Families often aim for the higher end of the range, closer to six months, and add a kids sinking fund for the expected surprises.",
+   "query": "Family with children",
+   "caption": "FAMILIES",
+   "cuts": 3
+  },
+  {
+   "text": "Homeowners. A water heater, a roof leak or a broken furnace can cost thousands. Homeowners often keep a separate home repair sinking fund, with a common guideline of setting aside around one to two percent of the home's value each year.",
+   "query": "Water heater repair",
+   "caption": "HOMEOWNERS",
+   "cuts": 3
+  },
+  {
+   "text": "And people with health conditions. Medical costs can be unpredictable. If you have a high deductible health plan, a health savings account can help with medical costs, but your regular emergency fund should still cover your deductible and out of pocket maximum.",
+   "query": "Medical bills HSA",
+   "caption": "HEALTH COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one: waiting until you can save a lot. Starting small beats waiting. Twenty five dollars this week is better than five hundred someday.",
+   "query": "Small coin jar",
+   "caption": "MISTAKE 1: WAITING",
+   "cuts": 3,
+   "chapter": "Common emergency fund mistakes"
+  },
+  {
+   "text": "Mistake two: keeping it in checking. Money in your everyday account tends to vanish. Separate it.",
+   "query": "Checking account vanishing",
+   "caption": "MISTAKE 2: CHECKING",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three: using it for non emergencies. Sales, vacations and predictable bills aren't emergencies. Use sinking funds for those.",
+   "query": "Shopping sale sign",
+   "caption": "MISTAKE 3: NON EMERGENCIES",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake four: never refilling it. After using the fund, make refilling it the top priority until it's full again.",
+   "query": "Empty jar",
+   "caption": "MISTAKE 4: NOT REFILLING",
+   "cuts": 3
+  },
+  {
+   "text": "And mistake five: keeping too much forever. Once you have a full six months and a stable life, extra cash beyond that may be better invested for long term goals. An emergency fund should protect your future, not replace investing for it.",
+   "query": "Too much cash pile",
+   "caption": "MISTAKE 5: TOO MUCH CASH",
+   "cuts": 3
+  },
+  {
+   "text": "People who build a full emergency fund often describe the same change. Money stress drops. They sleep better. They feel more confident at work, because a layoff wouldn't be a disaster. And they make better decisions, because they're not choosing out of fear.",
+   "query": "Person sleeping peacefully",
+   "caption": "LESS STRESS",
+   "cuts": 3,
+   "chapter": "What changes when you have one"
+  },
+  {
+   "text": "It also changes your options. With three to six months saved, you can negotiate a raise more confidently, leave a bad job, take a short break between jobs, or say no to a predatory loan. An emergency fund isn't just protection. It's freedom.",
+   "query": "Person walking confidently",
+   "caption": "MORE OPTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Here's your first week. Day one: write down your current savings and your monthly essentials. Day two: open a separate high yield savings account. Day three: set up an automatic transfer for payday.",
+   "query": "Checklist days",
+   "caption": "DAYS 1 TO 3",
+   "cuts": 3,
+   "chapter": "Your first week"
+  },
+  {
+   "text": "Day four: list three things you could sell and post them. Day five: cancel one subscription and redirect it to savings. Day six: write down your emergency rules. Day seven: celebrate your first deposit, however small. You've started.",
+   "query": "Celebrating small win",
+   "caption": "DAYS 4 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "Objection one. I'm living paycheck to paycheck. I can't save anything. Start with the smallest possible amount, even five dollars a week, and focus on step seven, raising money in a weekend, and step eight, windfalls. A tax refund alone can transform your starting point.",
+   "query": "Tight budget calculator",
+   "caption": "PAYCHECK TO PAYCHECK",
+   "cuts": 3,
+   "chapter": "But Ryan, what about..."
+  },
+  {
+   "text": "Objection two. Inflation will eat my savings. Inflation does reduce buying power, which is why high yield accounts matter. But the purpose of an emergency fund isn't growth. It's protection. Avoiding one credit card emergency at over twenty percent interest is worth far more than a few percent of extra return.",
+   "query": "Inflation chart",
+   "caption": "INFLATION",
+   "cuts": 3
+  },
+  {
+   "text": "And objection three. I'd rather invest everything. Investing is important, but without an emergency fund, you might have to sell investments at a bad time or take on expensive debt. The emergency fund is what makes long term investing possible.",
+   "query": "Investing and safety net",
+   "caption": "I'D RATHER INVEST",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions people ask me most about emergency funds.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Should I invest my emergency fund to earn more? Generally, no. An emergency fund needs to be safe and available when you need it. Stocks can drop sharply, sometimes at the same time as layoffs. A high yield savings account or similar safe option is usually the right home.",
+   "query": "Stock chart versus savings",
+   "caption": "INVEST IT?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Should I build an emergency fund or pay off debt first? A common approach is a starter fund of about one thousand dollars, then focus on high interest debt, then build the full fund. And always get your employer's retirement match if you can.",
+   "query": "Debt versus savings",
+   "caption": "DEBT OR SAVINGS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Can a credit card be my emergency fund? It can be a backup, but it's an expensive one. If you have to use it, interest adds up fast, and your credit limit can be reduced when you need it most. Cash is safer.",
+   "query": "Credit card in wallet",
+   "caption": "CREDIT CARD AS BACKUP?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Is my Roth IRA an emergency fund? Contributions to a Roth IRA can generally be withdrawn without tax or penalty, but taking them out means losing years of tax free growth. Some people use it as a last resort backup. It's better to have a separate emergency fund.",
+   "query": "Roth IRA document",
+   "caption": "ROTH AS BACKUP?",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. What if I keep having to use it? That's a signal. If emergencies are frequent, the problem might be expenses that are actually predictable, like an unreliable car or irregular bills. Sinking funds and planning can help. Or your budget may need a bigger change to create more breathing room.",
+   "query": "Repeated car repairs",
+   "caption": "ALWAYS USING IT?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. How do I stay motivated when it's slow? Track milestones, not just the final goal. Every hundred dollars is progress. Some people keep a simple chart on the fridge and color in a box for every fifty dollars saved. Small visual wins keep you moving.",
+   "query": "Fridge savings chart",
+   "caption": "STAYING MOTIVATED",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. Should my kids or teenagers have an emergency fund? A small one, yes. A teen with a part time job can learn the habit by saving a portion of each paycheck. It's one of the best money lessons you can teach, because it builds a habit that lasts a lifetime.",
+   "query": "Teenager with savings jar",
+   "caption": "KIDS AND TEENS",
+   "cuts": 3
+  },
+  {
+   "text": "And question eight. Once I have six months, what's next? Keep the fund in place and adjust it as your expenses grow. Then redirect the money you were saving into investing, paying off lower interest debt, or other goals. The emergency fund is the foundation. Now you build the house.",
+   "query": "House built on foundation",
+   "caption": "WHAT'S NEXT",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. In recent Federal Reserve surveys, more than a third of adults couldn't cover a four hundred dollar emergency with cash. Not having savings turns emergencies into expensive debt. And our brains fight saving, so we use visibility, automation, stages, separation and sinking funds.",
+   "query": "Checklist clipboard",
+   "caption": "THE NUMBERS AND PSYCHOLOGY",
+   "cuts": 3,
+   "chapter": "Recap: the 12 steps",
+   "short_hook": "Build an emergency fund from zero: the 60-second version"
+  },
+  {
+   "text": "The twelve steps. Face the starting line. Calculate your essentials. Open a separate high yield account. Automate a small transfer. Hit five hundred. Reach one thousand. Raise money in a weekend. Capture windfalls. Build sinking funds. Grow to one month, then three. Define what counts as an emergency. And use it, then refill it.",
+   "query": "Staircase twelve steps",
+   "caption": "THE 12 STEPS",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought. Building an emergency fund from zero can feel slow and boring. But it's one of the most powerful things you'll ever do with money. It turns emergencies into inconveniences. It stops the cycle of debt. It gives you room to breathe and room to choose. And it starts with a single small transfer. Today is a great day to make it.",
+   "query": "Sunrise over town",
+   "caption": "IT STARTS TODAY",
+   "cuts": 3
+  },
+  {
+   "text": "And if you're already on your way, keep going. Every dollar you add is a dollar of protection for you and the people who depend on you. One day soon, a surprise bill will arrive, and you'll simply pay it. That's the moment you'll know it was worth it.",
+   "query": "Person paying bill calmly",
+   "caption": "THE MOMENT IT PAYS OFF",
+   "cuts": 3
+  },
+  {
+   "text": "Today, do steps three and four. Open the account, and set up an automatic transfer, even for twenty five dollars. That's the moment your emergency fund begins. And watch my video on thirty money rules to live by. Rule number one is all about this. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

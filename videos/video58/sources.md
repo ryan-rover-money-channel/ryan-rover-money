@@ -1,0 +1,7 @@
+- Federal Reserve, Economic Well-Being of U.S. Households (SHED), recent reports ($400 emergency question)
+- Federal Reserve, G.19 Consumer Credit (credit card interest rates)
+- Consumer Financial Protection Bureau, payday loan research (typical APR near 400%)
+- FDIC and NCUA, deposit insurance coverage
+- IRS, filing season statistics (average refund)
+- Richard H. Thaler and Shlomo Benartzi, Save More Tomorrow, Journal of Political Economy (2004)
+- Credit card payoff example: stated illustrative math at 22% APR
