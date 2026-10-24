@@ -1,0 +1,8 @@
+- FDIC, National Survey of Unbanked and Underbanked Households (2023): about 4.2% of households unbanked, about 5.6 million
+- Consumer Financial Protection Bureau, payday loan research (typical $15 per $100 for two weeks, nearly 400% APR); single-payment auto title loans (about 1 in 5 sequences end in repossession); overdraft research; medical debt on credit reports (about $88 billion); prepaid accounts rule
+- National Credit Union Administration, Payday Alternative Loans (28% APR cap)
+- IRS, Earned Income Tax Credit participation (about 4 in 5 eligible claim it); Saver's Credit; VITA free tax help
+- Mani, Mullainathan, Shafir and Zhao, Poverty Impedes Cognitive Function, Science (2013)
+- Terry Pratchett, Men at Arms (1993): the Sam Vimes boots theory
+- Bank On national account standards (Cities for Financial Empowerment Fund)
+- Loan and fee figures: stated illustrative math
