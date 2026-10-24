@@ -71,6 +71,9 @@ def main(video):
             m = pick(q, used)
             while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
                 q = " ".join(q.split()[:-1]); m = pick(q, used)
+            for fb in (["money coins", "dollar bills", "city skyline"] if m is None and last is None else []):
+                m = pick(fb, used)  # nothing to reuse yet (first photo scene): fall back to a generic money photo
+                if m: break
             if m is None:  # search exhausted: reuse the last photo rather than fail the whole video
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
                 f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
