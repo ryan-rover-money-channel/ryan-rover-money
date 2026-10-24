@@ -1,0 +1,4159 @@
+1
+00:00:00,000 --> 00:00:01,637
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,817 --> 00:00:04,449
+Every week there's a new headline about
+
+3
+00:00:04,449 --> 00:00:05,462
+AI taking jobs.
+
+4
+00:00:05,642 --> 00:00:06,909
+It writes emails,
+
+5
+00:00:06,909 --> 00:00:10,563
+designs logos, answers customer service calls and
+
+6
+00:00:10,563 --> 00:00:11,830
+even writes code.
+
+7
+00:00:12,010 --> 00:00:14,601
+If you're thinking about starting or buying
+
+8
+00:00:14,601 --> 00:00:16,770
+a business, that's a scary backdrop.
+
+9
+00:00:16,950 --> 00:00:19,727
+Why build something a machine might replace
+
+10
+00:00:19,727 --> 00:00:20,631
+in five years?
+
+11
+00:00:20,811 --> 00:00:23,873
+So today, we're going through fifteen businesses
+
+12
+00:00:23,873 --> 00:00:25,276
+that AI can't replace,
+
+13
+00:00:25,276 --> 00:00:26,680
+why they're protected,
+
+14
+00:00:26,680 --> 00:00:27,956
+how they make money,
+
+15
+00:00:27,956 --> 00:00:29,934
+and the twist most people miss:
+
+16
+00:00:29,934 --> 00:00:32,549
+how AI can actually make these businesses
+
+17
+00:00:32,549 --> 00:00:33,570
+more profitable.
+
+18
+00:00:33,920 --> 00:00:36,694
+Fifteen businesses AI can't replace.
+
+19
+00:00:36,874 --> 00:00:37,910
+Built on hands,
+
+20
+00:00:37,910 --> 00:00:40,601
+presence, trust and the physical world.
+
+21
+00:00:40,952 --> 00:00:42,907
+Let's start with what AI is good
+
+22
+00:00:42,907 --> 00:00:44,191
+at and what it isn't.
+
+23
+00:00:44,371 --> 00:00:47,030
+AI is very good at working with
+
+24
+00:00:47,030 --> 00:00:49,432
+information: words, numbers,
+
+25
+00:00:49,432 --> 00:00:51,662
+images, code and patterns.
+
+26
+00:00:51,842 --> 00:00:54,544
+It struggles with the messy physical world:
+
+27
+00:00:54,544 --> 00:00:55,989
+crawling under a house,
+
+28
+00:00:55,989 --> 00:00:57,434
+calming a scared child,
+
+29
+00:00:57,434 --> 00:00:59,696
+fixing a leaking pipe behind a wall,
+
+30
+00:00:59,696 --> 00:01:01,770
+or reading the mood of a grieving
+
+31
+00:01:01,770 --> 00:01:02,209
+family.
+
+32
+00:01:02,389 --> 00:01:03,826
+Robots are improving,
+
+33
+00:01:03,826 --> 00:01:06,974
+but robots that can handle unpredictable homes
+
+34
+00:01:06,974 --> 00:01:09,369
+and people at a reasonable cost are
+
+35
+00:01:09,369 --> 00:01:11,422
+still far away for most tasks.
+
+36
+00:01:11,772 --> 00:01:13,564
+So our test for this list is
+
+37
+00:01:13,564 --> 00:01:14,012
+simple.
+
+38
+00:01:14,192 --> 00:01:16,119
+A business makes it if the core
+
+39
+00:01:16,119 --> 00:01:19,103
+work needs human hands in unpredictable physical
+
+40
+00:01:19,103 --> 00:01:22,336
+spaces, human presence that customers actually want,
+
+41
+00:01:22,336 --> 00:01:24,760
+or human trust and judgment that people
+
+42
+00:01:24,760 --> 00:01:26,998
+aren't willing to hand to a machine.
+
+43
+00:01:27,178 --> 00:01:29,263
+The more of those three a business
+
+44
+00:01:29,263 --> 00:01:31,102
+has, the more protected it is.
+
+45
+00:01:31,453 --> 00:01:32,346
+A quick warning.
+
+46
+00:01:32,526 --> 00:01:35,499
+Nobody knows exactly how fast technology will
+
+47
+00:01:35,499 --> 00:01:38,141
+change, and some parts of every business
+
+48
+00:01:38,141 --> 00:01:39,330
+will be automated.
+
+49
+00:01:39,510 --> 00:01:42,214
+Any income numbers here are illustrations,
+
+50
+00:01:42,214 --> 00:01:43,051
+not promises.
+
+51
+00:01:43,231 --> 00:01:44,955
+The goal is to help you think
+
+52
+00:01:44,955 --> 00:01:47,987
+clearly about which businesses have durable demand,
+
+53
+00:01:47,987 --> 00:01:49,652
+so you can build or buy with
+
+54
+00:01:49,652 --> 00:01:50,603
+more confidence.
+
+55
+00:01:50,954 --> 00:01:52,715
+We'll go through all fifteen,
+
+56
+00:01:52,715 --> 00:01:54,901
+then look at them from three angles.
+
+57
+00:01:55,081 --> 00:01:57,669
+The numbers, meaning how AI can lower
+
+58
+00:01:57,669 --> 00:02:00,747
+costs and raise profits in these businesses.
+
+59
+00:02:00,927 --> 00:02:03,368
+The psychology, meaning why fear of AI
+
+60
+00:02:03,368 --> 00:02:04,653
+makes people freeze,
+
+61
+00:02:04,653 --> 00:02:06,581
+and why that's an opportunity.
+
+62
+00:02:06,761 --> 00:02:07,764
+And the playbook,
+
+63
+00:02:07,764 --> 00:02:09,711
+meaning how to choose one and use
+
+64
+00:02:09,711 --> 00:02:11,835
+AI as your assistant instead of your
+
+65
+00:02:11,835 --> 00:02:12,484
+competitor.
+
+66
+00:02:12,835 --> 00:02:14,379
+Let's start with the trades.
+
+67
+00:02:14,729 --> 00:02:17,738
+Employment projections come from the Bureau of
+
+68
+00:02:17,738 --> 00:02:20,812
+Labor Statistics Occupational Outlook Handbook.
+
+69
+00:02:20,992 --> 00:02:23,372
+Information about aging comes from the U.
+
+70
+00:02:23,552 --> 00:02:23,889
+S.
+
+71
+00:02:24,069 --> 00:02:25,149
+Census Bureau.
+
+72
+00:02:25,329 --> 00:02:27,581
+Small business data comes from the U.
+
+73
+00:02:27,761 --> 00:02:28,132
+S.
+
+74
+00:02:28,312 --> 00:02:30,472
+Small Business Administration.
+
+75
+00:02:30,652 --> 00:02:33,903
+Example numbers are simplified illustrations.
+
+76
+00:02:34,083 --> 00:02:35,872
+This video is education,
+
+77
+00:02:35,872 --> 00:02:38,854
+not financial, legal or business advice.
+
+78
+00:02:39,205 --> 00:02:40,052
+Number 1.
+
+79
+00:02:40,232 --> 00:02:42,647
+Electrical and plumbing contracting.
+
+80
+00:02:42,827 --> 00:02:44,704
+every building is different,
+
+81
+00:02:44,704 --> 00:02:46,113
+every job is a puzzle
+
+82
+00:02:46,463 --> 00:02:48,123
+Why AI can't replace it.
+
+83
+00:02:48,303 --> 00:02:49,696
+Every house is different.
+
+84
+00:02:49,876 --> 00:02:52,100
+The wiring in a 1960s home looks
+
+85
+00:02:52,100 --> 00:02:53,837
+nothing like a new build,
+
+86
+00:02:53,837 --> 00:02:56,269
+and the pipe behind a bathroom wall
+
+87
+00:02:56,269 --> 00:02:57,381
+could be copper,
+
+88
+00:02:57,381 --> 00:02:59,257
+plastic or something older.
+
+89
+00:02:59,437 --> 00:03:02,617
+A licensed electrician or plumber walks in,
+
+90
+00:03:02,617 --> 00:03:05,205
+diagnoses an unpredictable problem,
+
+91
+00:03:05,205 --> 00:03:07,423
+and fixes it with their hands,
+
+92
+00:03:07,423 --> 00:03:08,533
+often in tight,
+
+93
+00:03:08,533 --> 00:03:09,642
+awkward spaces.
+
+94
+00:03:09,822 --> 00:03:11,824
+Robots that can do that across millions
+
+95
+00:03:11,824 --> 00:03:13,723
+of different homes are nowhere close.
+
+96
+00:03:14,073 --> 00:03:15,048
+How it makes money.
+
+97
+00:03:15,228 --> 00:03:17,060
+Service calls, repairs,
+
+98
+00:03:17,060 --> 00:03:19,767
+installations and larger projects.
+
+99
+00:03:19,947 --> 00:03:23,573
+Many contractors build recurring revenue with maintenance
+
+100
+00:03:23,573 --> 00:03:26,689
+plans and partnerships with builders and property
+
+101
+00:03:26,689 --> 00:03:27,262
+managers.
+
+102
+00:03:27,442 --> 00:03:28,920
+Licensing takes years,
+
+103
+00:03:28,920 --> 00:03:30,600
+which limits competition.
+
+104
+00:03:30,780 --> 00:03:33,999
+And with many experienced tradespeople retiring,
+
+105
+00:03:33,999 --> 00:03:37,018
+skilled contractors may see strong demand for
+
+106
+00:03:37,018 --> 00:03:37,420
+years.
+
+107
+00:03:37,771 --> 00:03:39,361
+How AI actually helps it.
+
+108
+00:03:39,541 --> 00:03:41,986
+AI can answer the phone after hours,
+
+109
+00:03:41,986 --> 00:03:44,838
+book appointments, write estimates faster,
+
+110
+00:03:44,838 --> 00:03:47,214
+help diagnose problems from photos,
+
+111
+00:03:47,214 --> 00:03:49,862
+and remind customers about maintenance.
+
+112
+00:03:50,042 --> 00:03:52,523
+That means fewer missed calls and less
+
+113
+00:03:52,523 --> 00:03:55,135
+office work, so the contractor can spend
+
+114
+00:03:55,135 --> 00:03:56,637
+more time on paid jobs.
+
+115
+00:03:56,987 --> 00:03:58,113
+Getting started.
+
+116
+00:03:58,293 --> 00:04:01,118
+Most electricians and plumbers start with a
+
+117
+00:04:01,118 --> 00:04:04,074
+paid apprenticeship that lasts several years,
+
+118
+00:04:04,074 --> 00:04:07,030
+then earn a journeyman license and eventually
+
+119
+00:04:07,030 --> 00:04:09,067
+a master or contractor license.
+
+120
+00:04:09,247 --> 00:04:11,351
+Many work for others for years,
+
+121
+00:04:11,351 --> 00:04:13,590
+learning both the trade and how a
+
+122
+00:04:13,590 --> 00:04:15,626
+company prices and sells jobs,
+
+123
+00:04:15,626 --> 00:04:18,272
+before starting their own or buying one
+
+124
+00:04:18,272 --> 00:04:19,765
+from a retiring owner.
+
+125
+00:04:20,116 --> 00:04:20,963
+Number 2.
+
+126
+00:04:21,143 --> 00:04:22,269
+Home remodeling.
+
+127
+00:04:22,449 --> 00:04:25,944
+kitchens, bathrooms and basements built by hand
+
+128
+00:04:26,294 --> 00:04:27,977
+Why AI can't replace it.
+
+129
+00:04:28,157 --> 00:04:31,149
+Remodeling means tearing out old materials,
+
+130
+00:04:31,149 --> 00:04:33,584
+discovering surprises behind walls,
+
+131
+00:04:33,584 --> 00:04:36,575
+adjusting plans on the fly and coordinating
+
+132
+00:04:36,575 --> 00:04:37,410
+many trades.
+
+133
+00:04:37,590 --> 00:04:39,657
+It also means sitting at a kitchen
+
+134
+00:04:39,657 --> 00:04:41,967
+table with a nervous couple spending a
+
+135
+00:04:41,967 --> 00:04:43,608
+big chunk of their savings,
+
+136
+00:04:43,608 --> 00:04:45,067
+and earning their trust.
+
+137
+00:04:45,247 --> 00:04:47,438
+That mix of physical work and human
+
+138
+00:04:47,438 --> 00:04:49,879
+judgment is extremely hard to automate.
+
+139
+00:04:50,230 --> 00:04:51,228
+How it makes money.
+
+140
+00:04:51,408 --> 00:04:54,305
+Remodelers earn money on large projects like
+
+141
+00:04:54,305 --> 00:04:57,004
+kitchens, bathrooms, decks and additions.
+
+142
+00:04:57,184 --> 00:04:59,979
+Margins depend on accurate estimates,
+
+143
+00:04:59,979 --> 00:05:03,906
+good project management and reliable subcontractors.
+
+144
+00:05:04,086 --> 00:05:06,798
+A company with a strong reputation can
+
+145
+00:05:06,798 --> 00:05:09,438
+keep a long waiting list of projects.
+
+146
+00:05:09,789 --> 00:05:11,286
+How AI actually helps it.
+
+147
+00:05:11,466 --> 00:05:14,508
+AI can create design renderings so customers
+
+148
+00:05:14,508 --> 00:05:17,066
+can see their new kitchen before work
+
+149
+00:05:17,066 --> 00:05:19,209
+begins, produce material lists,
+
+150
+00:05:19,209 --> 00:05:22,113
+draft schedules and send progress updates.
+
+151
+00:05:22,293 --> 00:05:24,144
+Customers feel more informed,
+
+152
+00:05:24,144 --> 00:05:26,507
+and the remodeler spends less time on
+
+153
+00:05:26,507 --> 00:05:27,146
+paperwork.
+
+154
+00:05:27,496 --> 00:05:28,494
+Getting started.
+
+155
+00:05:28,674 --> 00:05:30,945
+Many remodelers come from a trade or
+
+156
+00:05:30,945 --> 00:05:32,459
+from project management.
+
+157
+00:05:32,639 --> 00:05:35,925
+Start with smaller jobs like bathrooms and
+
+158
+00:05:35,925 --> 00:05:38,898
+decks, build a portfolio of before and
+
+159
+00:05:38,898 --> 00:05:42,809
+after photos, and line up reliable subcontractors.
+
+160
+00:05:42,989 --> 00:05:46,192
+Licensing requirements vary by state and job
+
+161
+00:05:46,192 --> 00:05:48,376
+size, so check before you bid.
+
+162
+00:05:48,727 --> 00:05:49,597
+Number 3.
+
+163
+00:05:49,777 --> 00:05:51,960
+Auto body and collision repair.
+
+164
+00:05:52,140 --> 00:05:53,754
+every crash is unique
+
+165
+00:05:54,104 --> 00:05:55,868
+Why AI can't replace it.
+
+166
+00:05:56,048 --> 00:05:57,848
+No two accidents are the same.
+
+167
+00:05:58,028 --> 00:06:00,749
+A collision shop has to assess damage,
+
+168
+00:06:00,749 --> 00:06:04,115
+straighten frames, repair or replace panels and
+
+169
+00:06:04,115 --> 00:06:05,690
+match paint perfectly.
+
+170
+00:06:05,870 --> 00:06:07,854
+Cars are getting more complex,
+
+171
+00:06:07,854 --> 00:06:10,631
+with sensors and cameras that need careful
+
+172
+00:06:10,631 --> 00:06:12,349
+calibration after repairs,
+
+173
+00:06:12,349 --> 00:06:14,465
+which raises the skill required,
+
+174
+00:06:14,465 --> 00:06:15,391
+not lowers it.
+
+175
+00:06:15,741 --> 00:06:16,739
+How it makes money.
+
+176
+00:06:16,919 --> 00:06:19,370
+Collision shops earn much of their revenue
+
+177
+00:06:19,370 --> 00:06:20,828
+through insurance claims,
+
+178
+00:06:20,828 --> 00:06:23,045
+which creates steady demand as long as
+
+179
+00:06:23,045 --> 00:06:23,804
+people drive.
+
+180
+00:06:23,984 --> 00:06:27,193
+Shops that build relationships with insurers and
+
+181
+00:06:27,193 --> 00:06:30,804
+earn certifications from car manufacturers can attract
+
+182
+00:06:30,804 --> 00:06:31,472
+more work.
+
+183
+00:06:31,823 --> 00:06:33,378
+How AI actually helps it.
+
+184
+00:06:33,558 --> 00:06:36,536
+AI tools can estimate damage from photos,
+
+185
+00:06:36,536 --> 00:06:39,804
+speed up insurance paperwork and order parts.
+
+186
+00:06:39,984 --> 00:06:41,785
+That shortens repair times,
+
+187
+00:06:41,785 --> 00:06:44,519
+which keeps customers and insurers happy,
+
+188
+00:06:44,519 --> 00:06:46,786
+and lets the shop handle more cars
+
+189
+00:06:46,786 --> 00:06:48,053
+with the same team.
+
+190
+00:06:48,404 --> 00:06:49,390
+Getting started.
+
+191
+00:06:49,570 --> 00:06:53,977
+Technicians train through vocational programs and certifications,
+
+192
+00:06:53,977 --> 00:06:56,350
+and many owners worked in shops for
+
+193
+00:06:56,350 --> 00:06:56,757
+years.
+
+194
+00:06:56,937 --> 00:07:00,260
+Buying an existing shop with insurer relationships
+
+195
+00:07:00,260 --> 00:07:02,254
+is a common path to ownership,
+
+196
+00:07:02,254 --> 00:07:05,245
+because those relationships are hard to build
+
+197
+00:07:05,245 --> 00:07:06,109
+from scratch.
+
+198
+00:07:06,459 --> 00:07:07,353
+Number 4.
+
+199
+00:07:07,533 --> 00:07:09,413
+Home health and senior care.
+
+200
+00:07:09,593 --> 00:07:11,468
+older adults want people,
+
+201
+00:07:11,468 --> 00:07:12,368
+not machines
+
+202
+00:07:12,718 --> 00:07:14,447
+Why AI can't replace it.
+
+203
+00:07:14,627 --> 00:07:16,634
+Helping an older person bathe,
+
+204
+00:07:16,634 --> 00:07:19,644
+dress, take medication and move safely around
+
+205
+00:07:19,644 --> 00:07:21,852
+their home requires gentle hands,
+
+206
+00:07:21,852 --> 00:07:23,323
+patience and judgment.
+
+207
+00:07:23,503 --> 00:07:26,026
+And companionship is a big part of
+
+208
+00:07:26,026 --> 00:07:26,917
+the service.
+
+209
+00:07:27,097 --> 00:07:29,264
+Most families don't want a robot caring
+
+210
+00:07:29,264 --> 00:07:30,208
+for their mother.
+
+211
+00:07:30,388 --> 00:07:31,564
+They want a kind,
+
+212
+00:07:31,564 --> 00:07:35,022
+trustworthy person, and the Census Bureau projects
+
+213
+00:07:35,022 --> 00:07:37,927
+the older population will keep growing for
+
+214
+00:07:37,927 --> 00:07:38,480
+decades.
+
+215
+00:07:38,831 --> 00:07:39,852
+How it makes money.
+
+216
+00:07:40,032 --> 00:07:42,354
+Home care agencies charge by the hour
+
+217
+00:07:42,354 --> 00:07:44,990
+for caregivers who help with daily living.
+
+218
+00:07:45,170 --> 00:07:47,398
+Some services are paid privately,
+
+219
+00:07:47,398 --> 00:07:49,897
+others by long term care insurance or
+
+220
+00:07:49,897 --> 00:07:52,936
+government programs, depending on the type of
+
+221
+00:07:52,936 --> 00:07:53,274
+care.
+
+222
+00:07:53,454 --> 00:07:55,277
+Demand is strong in many areas,
+
+223
+00:07:55,277 --> 00:07:57,747
+and the biggest challenge is often finding
+
+224
+00:07:57,747 --> 00:07:58,806
+enough caregivers.
+
+225
+00:07:59,156 --> 00:08:00,653
+How AI actually helps it.
+
+226
+00:08:00,833 --> 00:08:03,605
+AI can help schedule caregivers efficiently,
+
+227
+00:08:03,605 --> 00:08:06,440
+track visits, handle billing and flag changes
+
+228
+00:08:06,440 --> 00:08:08,771
+in a client's routine that might need
+
+229
+00:08:08,771 --> 00:08:09,401
+attention.
+
+230
+00:08:09,581 --> 00:08:11,944
+That frees managers to focus on recruiting
+
+231
+00:08:11,944 --> 00:08:13,407
+and supporting caregivers,
+
+232
+00:08:13,407 --> 00:08:15,038
+which is the real bottleneck.
+
+233
+00:08:15,388 --> 00:08:16,409
+Getting started.
+
+234
+00:08:16,589 --> 00:08:19,398
+Non medical home care agencies can start
+
+235
+00:08:19,398 --> 00:08:21,856
+with modest capital in many states,
+
+236
+00:08:21,856 --> 00:08:23,822
+though licensing rules vary.
+
+237
+00:08:24,002 --> 00:08:26,816
+Some owners choose a franchise for training
+
+238
+00:08:26,816 --> 00:08:27,601
+and systems.
+
+239
+00:08:27,781 --> 00:08:30,246
+The key skill isn't caregiving itself,
+
+240
+00:08:30,246 --> 00:08:33,749
+but recruiting, training and keeping great caregivers.
+
+241
+00:08:34,099 --> 00:08:34,958
+Number 5.
+
+242
+00:08:35,138 --> 00:08:37,193
+Physical therapy and massage.
+
+243
+00:08:37,373 --> 00:08:39,045
+healing through human hands
+
+244
+00:08:39,395 --> 00:08:41,183
+Why AI can't replace it.
+
+245
+00:08:41,363 --> 00:08:44,710
+Physical therapists and massage therapists work with
+
+246
+00:08:44,710 --> 00:08:46,963
+their hands, feeling tight muscles,
+
+247
+00:08:46,963 --> 00:08:49,602
+adjusting movements and reacting to how a
+
+248
+00:08:49,602 --> 00:08:51,533
+patient responds in real time.
+
+249
+00:08:51,713 --> 00:08:54,886
+Patients recovering from surgery or injury also
+
+250
+00:08:54,886 --> 00:08:58,195
+need encouragement and accountability from a real
+
+251
+00:08:58,195 --> 00:08:58,667
+person.
+
+252
+00:08:59,018 --> 00:09:00,179
+How it makes money.
+
+253
+00:09:00,359 --> 00:09:03,761
+Physical therapy clinics bill insurance or patients
+
+254
+00:09:03,761 --> 00:09:07,564
+directly, while massage businesses often sell memberships
+
+255
+00:09:07,564 --> 00:09:09,031
+with monthly sessions.
+
+256
+00:09:09,211 --> 00:09:12,903
+Memberships create recurring revenue and loyal clients.
+
+257
+00:09:13,083 --> 00:09:14,463
+Both require licenses,
+
+258
+00:09:14,463 --> 00:09:16,659
+which protects those who have them.
+
+259
+00:09:17,009 --> 00:09:18,564
+How AI actually helps it.
+
+260
+00:09:18,744 --> 00:09:21,334
+AI can create home exercise programs,
+
+261
+00:09:21,334 --> 00:09:22,943
+track patient progress,
+
+262
+00:09:22,943 --> 00:09:26,372
+send reminders and handle scheduling and billing.
+
+263
+00:09:26,552 --> 00:09:29,366
+Patients stay on track between visits,
+
+264
+00:09:29,366 --> 00:09:32,624
+and therapists spend less time on paperwork.
+
+265
+00:09:32,974 --> 00:09:34,007
+Getting started.
+
+266
+00:09:34,187 --> 00:09:37,195
+Physical therapists need a doctoral degree and
+
+267
+00:09:37,195 --> 00:09:40,596
+a license, while massage therapists usually complete
+
+268
+00:09:40,596 --> 00:09:43,278
+a shorter training program and licensing.
+
+269
+00:09:43,458 --> 00:09:46,363
+Many massage therapists start by renting a
+
+270
+00:09:46,363 --> 00:09:48,368
+room, building a client list,
+
+271
+00:09:48,368 --> 00:09:51,619
+then opening their own studio with memberships.
+
+272
+00:09:51,970 --> 00:09:53,015
+Number 6.
+
+273
+00:09:53,195 --> 00:09:55,923
+Personal training and fitness studios.
+
+274
+00:09:56,103 --> 00:09:58,019
+people pay for accountability
+
+275
+00:09:58,369 --> 00:10:00,099
+Why AI can't replace it.
+
+276
+00:10:00,279 --> 00:10:02,971
+There are countless free workout videos and
+
+277
+00:10:02,971 --> 00:10:03,785
+fitness apps.
+
+278
+00:10:03,965 --> 00:10:06,403
+Yet people still pay personal trainers.
+
+279
+00:10:06,583 --> 00:10:06,815
+Why?
+
+280
+00:10:06,995 --> 00:10:09,178
+Because what they're buying isn't information.
+
+281
+00:10:09,358 --> 00:10:11,399
+It's accountability, motivation,
+
+282
+00:10:11,399 --> 00:10:13,759
+correct form and a person who notices
+
+283
+00:10:13,759 --> 00:10:15,290
+when they're struggling.
+
+284
+00:10:15,470 --> 00:10:18,389
+Group fitness studios also sell community,
+
+285
+00:10:18,389 --> 00:10:20,544
+which no app can fully replace.
+
+286
+00:10:20,894 --> 00:10:21,915
+How it makes money.
+
+287
+00:10:22,095 --> 00:10:24,978
+Trainers charge per session or by package,
+
+288
+00:10:24,978 --> 00:10:27,517
+and studios sell monthly memberships.
+
+289
+00:10:27,697 --> 00:10:29,954
+A studio with a loyal community can
+
+290
+00:10:29,954 --> 00:10:31,888
+have steady recurring revenue.
+
+291
+00:10:32,068 --> 00:10:35,685
+Specialized niches like strength training for older
+
+292
+00:10:35,685 --> 00:10:38,805
+adults or injury recovery can command higher
+
+293
+00:10:38,805 --> 00:10:39,301
+prices.
+
+294
+00:10:39,652 --> 00:10:41,265
+How AI actually helps it.
+
+295
+00:10:41,445 --> 00:10:44,222
+AI can build personalized workout plans,
+
+296
+00:10:44,222 --> 00:10:47,761
+track progress, send reminders and handle bookings.
+
+297
+00:10:47,941 --> 00:10:50,353
+A trainer using these tools can serve
+
+298
+00:10:50,353 --> 00:10:52,503
+more clients with better results,
+
+299
+00:10:52,503 --> 00:10:55,240
+while spending their time where it matters
+
+300
+00:10:55,240 --> 00:10:56,869
+most: coaching in person.
+
+301
+00:10:57,220 --> 00:10:58,206
+Getting started.
+
+302
+00:10:58,386 --> 00:11:00,496
+Get a respected certification,
+
+303
+00:11:00,496 --> 00:11:03,379
+start training clients at an existing gym
+
+304
+00:11:03,379 --> 00:11:04,645
+or in their homes,
+
+305
+00:11:04,645 --> 00:11:07,106
+and build a reputation for results.
+
+306
+00:11:07,286 --> 00:11:10,579
+Some trainers later open small studios focused
+
+307
+00:11:10,579 --> 00:11:11,366
+on a niche,
+
+308
+00:11:11,366 --> 00:11:14,159
+like older adults or strength training,
+
+309
+00:11:14,159 --> 00:11:15,877
+where loyalty runs deep.
+
+310
+00:11:16,227 --> 00:11:17,167
+Number 7.
+
+311
+00:11:17,347 --> 00:11:19,135
+Hair, nails and beauty.
+
+312
+00:11:19,315 --> 00:11:20,929
+you can't download a haircut
+
+313
+00:11:21,279 --> 00:11:22,974
+Why AI can't replace it.
+
+314
+00:11:23,154 --> 00:11:24,581
+Cutting hair, coloring,
+
+315
+00:11:24,581 --> 00:11:27,313
+doing nails and skincare all require skilled
+
+316
+00:11:27,313 --> 00:11:29,237
+hands working on a real person.
+
+317
+00:11:29,417 --> 00:11:31,165
+And the experience matters:
+
+318
+00:11:31,165 --> 00:11:34,336
+the conversation, the relationship with a stylist
+
+319
+00:11:34,336 --> 00:11:36,731
+you trust, the feeling of walking out
+
+320
+00:11:36,731 --> 00:11:37,637
+looking great.
+
+321
+00:11:37,817 --> 00:11:40,106
+Robots that can safely cut every type
+
+322
+00:11:40,106 --> 00:11:42,332
+of hair at a reasonable price aren't
+
+323
+00:11:42,332 --> 00:11:44,621
+anywhere close to replacing stylists.
+
+324
+00:11:44,971 --> 00:11:45,981
+How it makes money.
+
+325
+00:11:46,161 --> 00:11:48,618
+Salons earn money from services,
+
+326
+00:11:48,618 --> 00:11:52,227
+product sales and renting chairs to independent
+
+327
+00:11:52,227 --> 00:11:52,918
+stylists.
+
+328
+00:11:53,098 --> 00:11:55,876
+Clients who return every few weeks create
+
+329
+00:11:55,876 --> 00:11:57,231
+predictable revenue.
+
+330
+00:11:57,411 --> 00:12:00,065
+A strong team and loyal clients make
+
+331
+00:12:00,065 --> 00:12:02,055
+a salon a durable business.
+
+332
+00:12:02,405 --> 00:12:04,030
+How AI actually helps it.
+
+333
+00:12:04,210 --> 00:12:05,884
+AI can manage bookings,
+
+334
+00:12:05,884 --> 00:12:09,305
+send reminders, fill last minute cancellations,
+
+335
+00:12:09,305 --> 00:12:12,434
+suggest products and help with social media
+
+336
+00:12:12,434 --> 00:12:12,871
+posts.
+
+337
+00:12:13,051 --> 00:12:15,515
+Fewer empty chairs means more revenue from
+
+338
+00:12:15,515 --> 00:12:16,337
+the same team.
+
+339
+00:12:16,687 --> 00:12:17,732
+Getting started.
+
+340
+00:12:17,912 --> 00:12:22,233
+Stylists complete cosmetology training and state licensing,
+
+341
+00:12:22,233 --> 00:12:24,430
+then build a client list at an
+
+342
+00:12:24,430 --> 00:12:25,748
+established salon.
+
+343
+00:12:25,928 --> 00:12:28,607
+Many eventually open their own salon and
+
+344
+00:12:28,607 --> 00:12:30,616
+rent chairs to other stylists,
+
+345
+00:12:30,616 --> 00:12:34,032
+which creates income beyond their own appointments.
+
+346
+00:12:34,382 --> 00:12:35,450
+Quick pause.
+
+347
+00:12:35,630 --> 00:12:37,327
+If you're finding this useful,
+
+348
+00:12:37,327 --> 00:12:38,741
+subscribe to the channel.
+
+349
+00:12:38,921 --> 00:12:41,418
+Every week, Ryan breaks down how money
+
+350
+00:12:41,418 --> 00:12:43,718
+and business really work in a world
+
+351
+00:12:43,718 --> 00:12:45,098
+that's changing fast.
+
+352
+00:12:45,278 --> 00:12:46,636
+Now, number eight.
+
+353
+00:12:46,986 --> 00:12:47,810
+Number 8.
+
+354
+00:12:47,990 --> 00:12:49,186
+Tattoo studios.
+
+355
+00:12:49,366 --> 00:12:50,451
+art on skin,
+
+356
+00:12:50,451 --> 00:12:51,537
+done by hand
+
+357
+00:12:51,887 --> 00:12:53,559
+Why AI can't replace it.
+
+358
+00:12:53,739 --> 00:12:55,210
+AI can design a tattoo,
+
+359
+00:12:55,210 --> 00:12:56,937
+but it can't put it on your
+
+360
+00:12:56,937 --> 00:12:57,256
+skin.
+
+361
+00:12:57,436 --> 00:12:59,540
+Tattooing requires steady hands,
+
+362
+00:12:59,540 --> 00:13:02,432
+artistic skill, strict hygiene and the trust
+
+363
+00:13:02,432 --> 00:13:04,469
+of a client who's about to wear
+
+364
+00:13:04,469 --> 00:13:05,784
+the result for life.
+
+365
+00:13:05,964 --> 00:13:08,367
+Many clients also choose an artist for
+
+366
+00:13:08,367 --> 00:13:10,643
+their personal style and reputation.
+
+367
+00:13:10,993 --> 00:13:12,119
+How it makes money.
+
+368
+00:13:12,299 --> 00:13:14,715
+Studios earn from artist fees,
+
+369
+00:13:14,715 --> 00:13:18,340
+often by renting space to independent artists
+
+370
+00:13:18,340 --> 00:13:21,401
+or taking a percentage of each tattoo.
+
+371
+00:13:21,581 --> 00:13:24,158
+Top artists may book months in advance
+
+372
+00:13:24,158 --> 00:13:25,854
+and charge premium rates.
+
+373
+00:13:26,034 --> 00:13:29,470
+Licensing and health regulations apply in most
+
+374
+00:13:29,470 --> 00:13:29,993
+states.
+
+375
+00:13:30,343 --> 00:13:32,026
+How AI actually helps it.
+
+376
+00:13:32,206 --> 00:13:35,190
+AI can help artists brainstorm designs with
+
+377
+00:13:35,190 --> 00:13:37,827
+clients, manage bookings and deposits,
+
+378
+00:13:37,827 --> 00:13:40,950
+and create social media content showing their
+
+379
+00:13:40,950 --> 00:13:41,297
+work.
+
+380
+00:13:41,477 --> 00:13:43,845
+The design conversation gets faster,
+
+381
+00:13:43,845 --> 00:13:46,214
+but the needle stays in human hands.
+
+382
+00:13:46,564 --> 00:13:47,574
+Getting started.
+
+383
+00:13:47,754 --> 00:13:51,225
+Most tattoo artists learn through an apprenticeship
+
+384
+00:13:51,225 --> 00:13:53,131
+under an experienced artist,
+
+385
+00:13:53,131 --> 00:13:56,466
+along with bloodborne pathogen training and local
+
+386
+00:13:56,466 --> 00:13:57,146
+licensing.
+
+387
+00:13:57,326 --> 00:13:59,861
+A strong portfolio on social media is
+
+388
+00:13:59,861 --> 00:14:02,121
+often the main source of clients.
+
+389
+00:14:02,471 --> 00:14:03,272
+Number 9.
+
+390
+00:14:03,452 --> 00:14:05,135
+Wedding and event planning.
+
+391
+00:14:05,315 --> 00:14:06,650
+the day can't go wrong
+
+392
+00:14:07,001 --> 00:14:08,638
+Why AI can't replace it.
+
+393
+00:14:08,818 --> 00:14:11,180
+A wedding planner manages vendors,
+
+394
+00:14:11,180 --> 00:14:13,195
+solves last minute disasters,
+
+395
+00:14:13,195 --> 00:14:16,391
+calms stressed families and makes split second
+
+396
+00:14:16,391 --> 00:14:17,850
+decisions on the day.
+
+397
+00:14:18,030 --> 00:14:19,707
+AI can draft a timeline,
+
+398
+00:14:19,707 --> 00:14:21,943
+but when the florist is late and
+
+399
+00:14:21,943 --> 00:14:23,061
+the rain starts,
+
+400
+00:14:23,061 --> 00:14:25,577
+couples want a calm human in charge.
+
+401
+00:14:25,927 --> 00:14:26,890
+How it makes money.
+
+402
+00:14:27,070 --> 00:14:30,012
+Planners charge flat fees or a percentage
+
+403
+00:14:30,012 --> 00:14:31,447
+of the event budget.
+
+404
+00:14:31,627 --> 00:14:35,046
+Corporate events, conferences and parties add year
+
+405
+00:14:35,046 --> 00:14:35,935
+round demand.
+
+406
+00:14:36,115 --> 00:14:39,254
+Referrals from venues and past clients drive
+
+407
+00:14:39,254 --> 00:14:40,538
+most new business.
+
+408
+00:14:40,888 --> 00:14:42,618
+How AI actually helps it.
+
+409
+00:14:42,798 --> 00:14:44,374
+AI can create budgets,
+
+410
+00:14:44,374 --> 00:14:48,029
+timelines, vendor lists and guest communications in
+
+411
+00:14:48,029 --> 00:14:48,603
+minutes.
+
+412
+00:14:48,783 --> 00:14:51,730
+That lets one planner handle more events
+
+413
+00:14:51,730 --> 00:14:54,088
+and spend more time on the human
+
+414
+00:14:54,088 --> 00:14:57,920
+side: relationships, creativity and problem solving.
+
+415
+00:14:58,270 --> 00:14:59,129
+Getting started.
+
+416
+00:14:59,309 --> 00:15:01,840
+Many planners start by helping friends,
+
+417
+00:15:01,840 --> 00:15:03,138
+working for a venue,
+
+418
+00:15:03,138 --> 00:15:05,474
+or assisting an established planner.
+
+419
+00:15:05,654 --> 00:15:07,979
+Building relationships with venues,
+
+420
+00:15:07,979 --> 00:15:11,499
+caterers and photographers creates a referral network
+
+421
+00:15:11,499 --> 00:15:13,293
+that brings steady clients.
+
+422
+00:15:13,643 --> 00:15:14,467
+Number 10.
+
+423
+00:15:14,647 --> 00:15:16,551
+Food trucks and catering.
+
+424
+00:15:16,731 --> 00:15:18,589
+people want food made by people
+
+425
+00:15:18,939 --> 00:15:20,657
+Why AI can't replace it.
+
+426
+00:15:20,837 --> 00:15:23,706
+Cooking, serving and the experience of a
+
+427
+00:15:23,706 --> 00:15:26,432
+local food truck or caterer are deeply
+
+428
+00:15:26,432 --> 00:15:26,863
+human.
+
+429
+00:15:27,043 --> 00:15:28,806
+Automated kitchens exist,
+
+430
+00:15:28,806 --> 00:15:30,993
+but much of the appeal of local
+
+431
+00:15:30,993 --> 00:15:32,333
+food is the people,
+
+432
+00:15:32,333 --> 00:15:34,519
+the recipes and the atmosphere.
+
+433
+00:15:34,699 --> 00:15:36,890
+Catering also involves setup,
+
+434
+00:15:36,890 --> 00:15:39,610
+service and adjusting to each event.
+
+435
+00:15:39,961 --> 00:15:41,040
+How it makes money.
+
+436
+00:15:41,220 --> 00:15:43,738
+Food trucks earn from daily sales at
+
+437
+00:15:43,738 --> 00:15:45,556
+busy locations and events,
+
+438
+00:15:45,556 --> 00:15:47,934
+while caterers earn from weddings,
+
+439
+00:15:47,934 --> 00:15:50,032
+corporate lunches and parties.
+
+440
+00:15:50,212 --> 00:15:53,201
+Catering often has better margins than daily
+
+441
+00:15:53,201 --> 00:15:55,919
+truck sales, so many trucks add catering
+
+442
+00:15:55,919 --> 00:15:56,598
+over time.
+
+443
+00:15:56,948 --> 00:15:58,654
+How AI actually helps it.
+
+444
+00:15:58,834 --> 00:16:00,794
+AI can forecast demand,
+
+445
+00:16:00,794 --> 00:16:03,264
+plan menus, manage inventory,
+
+446
+00:16:03,264 --> 00:16:06,416
+price items and handle online orders.
+
+447
+00:16:06,596 --> 00:16:08,906
+Less waste and smarter pricing can make
+
+448
+00:16:08,906 --> 00:16:11,038
+a real difference in a business with
+
+449
+00:16:11,038 --> 00:16:11,809
+thin margins.
+
+450
+00:16:12,159 --> 00:16:13,053
+Getting started.
+
+451
+00:16:13,233 --> 00:16:15,650
+Start by testing recipes at markets and
+
+452
+00:16:15,650 --> 00:16:18,254
+events, learn your local health and permit
+
+453
+00:16:18,254 --> 00:16:20,548
+rules, and consider renting time in a
+
+454
+00:16:20,548 --> 00:16:23,090
+commercial kitchen before buying a truck.
+
+455
+00:16:23,270 --> 00:16:26,657
+Catering corporate lunches can provide steadier income
+
+456
+00:16:26,657 --> 00:16:27,786
+than street sales.
+
+457
+00:16:28,136 --> 00:16:29,006
+Number 11.
+
+458
+00:16:29,186 --> 00:16:30,150
+Tree service.
+
+459
+00:16:30,330 --> 00:16:33,209
+climbing, cutting and judgment at height
+
+460
+00:16:33,560 --> 00:16:35,150
+Why AI can't replace it.
+
+461
+00:16:35,330 --> 00:16:37,055
+Tree work means climbing,
+
+462
+00:16:37,055 --> 00:16:39,885
+cutting heavy limbs near houses and power
+
+463
+00:16:39,885 --> 00:16:42,783
+lines, and making judgment calls about how
+
+464
+00:16:42,783 --> 00:16:43,956
+a tree will fall.
+
+465
+00:16:44,136 --> 00:16:46,173
+Every tree and yard is different,
+
+466
+00:16:46,173 --> 00:16:47,840
+and mistakes can be deadly.
+
+467
+00:16:48,020 --> 00:16:50,064
+That's exactly the kind of work that
+
+468
+00:16:50,064 --> 00:16:51,143
+resists automation.
+
+469
+00:16:51,493 --> 00:16:52,468
+How it makes money.
+
+470
+00:16:52,648 --> 00:16:54,970
+Tree companies earn from removals,
+
+471
+00:16:54,970 --> 00:16:57,907
+trimming, storm cleanup and stump grinding.
+
+472
+00:16:58,087 --> 00:17:01,377
+Storm damage creates bursts of urgent demand,
+
+473
+00:17:01,377 --> 00:17:04,520
+and certified arborists can charge more for
+
+474
+00:17:04,520 --> 00:17:05,251
+expertise.
+
+475
+00:17:05,431 --> 00:17:08,342
+Equipment like bucket trucks and chippers is
+
+476
+00:17:08,342 --> 00:17:10,725
+expensive, which limits competition.
+
+477
+00:17:11,075 --> 00:17:12,677
+How AI actually helps it.
+
+478
+00:17:12,857 --> 00:17:15,602
+AI can help estimate jobs from photos,
+
+479
+00:17:15,602 --> 00:17:18,058
+plan routes and manage scheduling.
+
+480
+00:17:18,238 --> 00:17:20,944
+Some companies use drones to inspect tall
+
+481
+00:17:20,944 --> 00:17:21,802
+trees safely.
+
+482
+00:17:21,982 --> 00:17:23,420
+The cutting, though,
+
+483
+00:17:23,420 --> 00:17:24,641
+stays very human.
+
+484
+00:17:24,991 --> 00:17:25,989
+Getting started.
+
+485
+00:17:26,169 --> 00:17:28,031
+Work on a tree crew first,
+
+486
+00:17:28,031 --> 00:17:29,893
+learn climbing and safety,
+
+487
+00:17:29,893 --> 00:17:32,973
+and consider becoming a certified arborist.
+
+488
+00:17:33,153 --> 00:17:34,617
+Insurance is essential,
+
+489
+00:17:34,617 --> 00:17:36,910
+and many owners start with a smaller
+
+490
+00:17:36,910 --> 00:17:39,267
+truck and grow into bucket trucks and
+
+491
+00:17:39,267 --> 00:17:39,840
+chippers.
+
+492
+00:17:40,190 --> 00:17:41,084
+Number 12.
+
+493
+00:17:41,264 --> 00:17:42,042
+Childcare.
+
+494
+00:17:42,222 --> 00:17:44,393
+parents trust people with their kids
+
+495
+00:17:44,743 --> 00:17:46,391
+Why AI can't replace it.
+
+496
+00:17:46,571 --> 00:17:47,626
+Parents want warm,
+
+497
+00:17:47,626 --> 00:17:50,263
+trustworthy humans caring for their children.
+
+498
+00:17:50,443 --> 00:17:52,705
+Childcare involves comforting,
+
+499
+00:17:52,705 --> 00:17:55,872
+teaching, feeding and keeping kids safe in
+
+500
+00:17:55,872 --> 00:17:57,758
+unpredictable situations.
+
+501
+00:17:57,938 --> 00:18:00,373
+That's about as far from automation as
+
+502
+00:18:00,373 --> 00:18:01,014
+work gets.
+
+503
+00:18:01,364 --> 00:18:02,385
+How it makes money.
+
+504
+00:18:02,565 --> 00:18:06,136
+Childcare centers and home daycares charge weekly
+
+505
+00:18:06,136 --> 00:18:07,302
+or monthly fees.
+
+506
+00:18:07,482 --> 00:18:09,491
+Demand often exceeds supply,
+
+507
+00:18:09,491 --> 00:18:11,859
+with waiting lists in many areas.
+
+508
+00:18:12,039 --> 00:18:14,795
+Margins can be thin because staffing ratios
+
+509
+00:18:14,795 --> 00:18:16,076
+are required by law,
+
+510
+00:18:16,076 --> 00:18:18,896
+but full enrollment and good management make
+
+511
+00:18:18,896 --> 00:18:20,178
+the business stable.
+
+512
+00:18:20,528 --> 00:18:22,165
+How AI actually helps it.
+
+513
+00:18:22,345 --> 00:18:24,049
+AI can handle enrollment,
+
+514
+00:18:24,049 --> 00:18:27,116
+billing, parent updates and staff scheduling.
+
+515
+00:18:27,296 --> 00:18:30,217
+Parents get photos and updates through apps,
+
+516
+00:18:30,217 --> 00:18:31,478
+which builds trust,
+
+517
+00:18:31,478 --> 00:18:33,735
+and staff spend more time with the
+
+518
+00:18:33,735 --> 00:18:34,332
+children.
+
+519
+00:18:34,682 --> 00:18:35,645
+Getting started.
+
+520
+00:18:35,825 --> 00:18:38,379
+Many providers start with a licensed home
+
+521
+00:18:38,379 --> 00:18:40,684
+daycare, which has lower costs than a
+
+522
+00:18:40,684 --> 00:18:41,120
+center.
+
+523
+00:18:41,300 --> 00:18:44,378
+Contact your state licensing agency early,
+
+524
+00:18:44,378 --> 00:18:46,063
+because rules on space,
+
+525
+00:18:46,063 --> 00:18:48,335
+ratios and training are strict.
+
+526
+00:18:48,685 --> 00:18:49,776
+Number 13.
+
+527
+00:18:49,956 --> 00:18:51,465
+Veterinary and pet grooming.
+
+528
+00:18:51,645 --> 00:18:53,224
+pets need hands too
+
+529
+00:18:53,575 --> 00:18:55,200
+Why AI can't replace it.
+
+530
+00:18:55,380 --> 00:18:57,019
+Examining a scared dog,
+
+531
+00:18:57,019 --> 00:19:00,153
+performing surgery, or grooming a wiggly cat
+
+532
+00:19:00,153 --> 00:19:02,718
+requires skilled hands and patience.
+
+533
+00:19:02,898 --> 00:19:04,756
+Pet owners also want a person they
+
+534
+00:19:04,756 --> 00:19:06,450
+trust caring for their animals.
+
+535
+00:19:06,800 --> 00:19:07,787
+How it makes money.
+
+536
+00:19:07,967 --> 00:19:10,040
+Vet clinics earn from exams,
+
+537
+00:19:10,040 --> 00:19:12,559
+vaccines, surgery and medications,
+
+538
+00:19:12,559 --> 00:19:15,966
+while groomers earn from regular appointments.
+
+539
+00:19:16,146 --> 00:19:18,626
+Mobile grooming vans have become popular,
+
+540
+00:19:18,626 --> 00:19:21,045
+charging premium prices for convenience.
+
+541
+00:19:21,395 --> 00:19:23,078
+How AI actually helps it.
+
+542
+00:19:23,258 --> 00:19:26,026
+AI can help with appointment reminders,
+
+543
+00:19:26,026 --> 00:19:29,717
+record keeping and even assisting veterinarians with
+
+544
+00:19:29,717 --> 00:19:31,420
+diagnostics and imaging.
+
+545
+00:19:31,600 --> 00:19:33,957
+Better tools, same human care.
+
+546
+00:19:34,307 --> 00:19:35,282
+Getting started.
+
+547
+00:19:35,462 --> 00:19:37,929
+Veterinarians need a doctoral degree,
+
+548
+00:19:37,929 --> 00:19:40,328
+but grooming can start with a course
+
+549
+00:19:40,328 --> 00:19:41,662
+and some experience.
+
+550
+00:19:41,842 --> 00:19:44,786
+Mobile grooming vans let groomers start without
+
+551
+00:19:44,786 --> 00:19:47,229
+a storefront and charge premium prices.
+
+552
+00:19:47,579 --> 00:19:48,775
+Number 14.
+
+553
+00:19:48,955 --> 00:19:51,358
+Experiences and entertainment.
+
+554
+00:19:51,538 --> 00:19:53,546
+people pay to be there in person
+
+555
+00:19:53,897 --> 00:19:55,603
+Why AI can't replace it.
+
+556
+00:19:55,783 --> 00:19:58,146
+Escape rooms, axe throwing,
+
+557
+00:19:58,146 --> 00:20:00,334
+climbing gyms, mini golf,
+
+558
+00:20:00,334 --> 00:20:02,784
+guided tours and live music.
+
+559
+00:20:02,964 --> 00:20:05,193
+As more of life moves online,
+
+560
+00:20:05,193 --> 00:20:08,651
+many people value real world experiences with
+
+561
+00:20:08,651 --> 00:20:10,035
+friends even more.
+
+562
+00:20:10,215 --> 00:20:12,421
+You can't replace being somewhere together.
+
+563
+00:20:12,771 --> 00:20:13,792
+How it makes money.
+
+564
+00:20:13,972 --> 00:20:16,172
+These businesses earn from tickets,
+
+565
+00:20:16,172 --> 00:20:19,441
+group bookings, corporate team building and parties.
+
+566
+00:20:19,621 --> 00:20:22,055
+Repeat visits and private events are key
+
+567
+00:20:22,055 --> 00:20:23,150
+to steady revenue.
+
+568
+00:20:23,330 --> 00:20:25,873
+Location and reviews matter a lot.
+
+569
+00:20:26,223 --> 00:20:27,976
+How AI actually helps it.
+
+570
+00:20:28,156 --> 00:20:29,815
+AI can manage bookings,
+
+571
+00:20:29,815 --> 00:20:31,978
+dynamic pricing and marketing,
+
+572
+00:20:31,978 --> 00:20:34,286
+and help design new experiences.
+
+573
+00:20:34,466 --> 00:20:37,099
+The experience itself happens in the real
+
+574
+00:20:37,099 --> 00:20:37,485
+world.
+
+575
+00:20:37,835 --> 00:20:38,798
+Getting started.
+
+576
+00:20:38,978 --> 00:20:42,158
+Experience businesses need a good location,
+
+577
+00:20:42,158 --> 00:20:44,598
+a fun concept and strong reviews.
+
+578
+00:20:44,778 --> 00:20:47,185
+Visit successful ones in other cities,
+
+579
+00:20:47,185 --> 00:20:49,656
+study their pricing and group packages,
+
+580
+00:20:49,656 --> 00:20:51,811
+and start with a concept that fits
+
+581
+00:20:51,811 --> 00:20:52,951
+your local market.
+
+582
+00:20:53,301 --> 00:20:54,334
+Number 15.
+
+583
+00:20:54,514 --> 00:20:56,337
+Appliance and equipment repair.
+
+584
+00:20:56,517 --> 00:20:58,653
+fixing things beats replacing them
+
+585
+00:20:59,003 --> 00:21:00,617
+Why AI can't replace it.
+
+586
+00:21:00,797 --> 00:21:02,608
+Repairing a refrigerator,
+
+587
+00:21:02,608 --> 00:21:04,854
+a commercial oven or a piece of
+
+588
+00:21:04,854 --> 00:21:08,403
+farm equipment means diagnosing problems on site,
+
+589
+00:21:08,403 --> 00:21:11,664
+opening machines and replacing parts by hand.
+
+590
+00:21:11,844 --> 00:21:13,953
+As appliances get more expensive,
+
+591
+00:21:13,953 --> 00:21:17,212
+repair becomes more attractive than replacement for
+
+592
+00:21:17,212 --> 00:21:18,171
+many customers.
+
+593
+00:21:18,521 --> 00:21:19,508
+How it makes money.
+
+594
+00:21:19,688 --> 00:21:22,500
+Repair businesses earn from service calls,
+
+595
+00:21:22,500 --> 00:21:25,780
+parts and maintenance contracts with restaurants,
+
+596
+00:21:25,780 --> 00:21:29,128
+laundromats and other businesses that can't afford
+
+597
+00:21:29,128 --> 00:21:29,730
+downtime.
+
+598
+00:21:29,910 --> 00:21:33,344
+Commercial customers often pay premium rates for
+
+599
+00:21:33,344 --> 00:21:34,345
+fast response.
+
+600
+00:21:34,695 --> 00:21:36,448
+How AI actually helps it.
+
+601
+00:21:36,628 --> 00:21:39,942
+AI can help technicians diagnose problems faster,
+
+602
+00:21:39,942 --> 00:21:42,511
+look up repair manuals and order parts
+
+603
+00:21:42,511 --> 00:21:43,188
+instantly.
+
+604
+00:21:43,368 --> 00:21:45,491
+That means more repairs per day and
+
+605
+00:21:45,491 --> 00:21:46,584
+happier customers.
+
+606
+00:21:46,934 --> 00:21:47,967
+Getting started.
+
+607
+00:21:48,147 --> 00:21:51,176
+Technicians often train at trade schools or
+
+608
+00:21:51,176 --> 00:21:54,275
+with manufacturers, then build a client base
+
+609
+00:21:54,275 --> 00:21:56,530
+among homeowners and businesses.
+
+610
+00:21:56,710 --> 00:22:00,548
+Commercial maintenance contracts provide steady revenue and
+
+611
+00:22:00,548 --> 00:22:02,631
+make the business more valuable.
+
+612
+00:22:02,981 --> 00:22:05,150
+Even in AI proof businesses,
+
+613
+00:22:05,150 --> 00:22:06,777
+AI will change a lot.
+
+614
+00:22:06,957 --> 00:22:08,374
+Here's what to expect.
+
+615
+00:22:08,724 --> 00:22:10,245
+The front office will shrink.
+
+616
+00:22:10,425 --> 00:22:13,432
+Answering phones, booking appointments,
+
+617
+00:22:13,432 --> 00:22:17,595
+sending reminders, writing quotes and chasing invoices
+
+618
+00:22:17,595 --> 00:22:20,062
+are all tasks AI is already good
+
+619
+00:22:20,062 --> 00:22:20,293
+at.
+
+620
+00:22:20,473 --> 00:22:22,653
+Businesses that used to need a full
+
+621
+00:22:22,653 --> 00:22:24,958
+time office person may need much less
+
+622
+00:22:24,958 --> 00:22:26,952
+office time, which lowers costs.
+
+623
+00:22:27,302 --> 00:22:29,531
+Marketing will get cheaper and faster.
+
+624
+00:22:29,711 --> 00:22:31,098
+AI can write posts,
+
+625
+00:22:31,098 --> 00:22:34,165
+create images, respond to reviews and help
+
+626
+00:22:34,165 --> 00:22:34,750
+run ads.
+
+627
+00:22:34,930 --> 00:22:37,597
+That lowers the cost of reaching customers,
+
+628
+00:22:37,597 --> 00:22:40,575
+which helps small businesses compete with bigger
+
+629
+00:22:40,575 --> 00:22:40,886
+ones.
+
+630
+00:22:41,066 --> 00:22:43,707
+But it also means everyone can market,
+
+631
+00:22:43,707 --> 00:22:46,696
+so quality and reputation matter even more.
+
+632
+00:22:47,047 --> 00:22:49,787
+And customers will expect faster responses.
+
+633
+00:22:49,967 --> 00:22:52,567
+When AI makes instant replies possible,
+
+634
+00:22:52,567 --> 00:22:54,634
+customers start expecting them.
+
+635
+00:22:54,814 --> 00:22:57,020
+The business that answers in two minutes
+
+636
+00:22:57,020 --> 00:22:59,005
+beats the one that answers tomorrow.
+
+637
+00:22:59,185 --> 00:23:01,909
+Speed becomes a competitive advantage,
+
+638
+00:23:01,909 --> 00:23:04,561
+even in the most hands on industries.
+
+639
+00:23:04,911 --> 00:23:06,868
+To make the contrast clear,
+
+640
+00:23:06,868 --> 00:23:09,694
+here are businesses more exposed to AI.
+
+641
+00:23:09,874 --> 00:23:11,487
+Basic content writing,
+
+642
+00:23:11,487 --> 00:23:13,099
+simple graphic design,
+
+643
+00:23:13,099 --> 00:23:16,764
+transcription, translation for everyday documents,
+
+644
+00:23:16,764 --> 00:23:20,282
+basic bookkeeping data entry and simple customer
+
+645
+00:23:20,282 --> 00:23:21,821
+service call centers.
+
+646
+00:23:22,001 --> 00:23:25,456
+These involve information work that AI handles
+
+647
+00:23:25,456 --> 00:23:27,710
+well, so prices may fall as AI
+
+648
+00:23:27,710 --> 00:23:28,386
+improves.
+
+649
+00:23:28,736 --> 00:23:30,884
+That doesn't mean these fields disappear.
+
+650
+00:23:31,064 --> 00:23:33,878
+Experts who use AI to deliver better,
+
+651
+00:23:33,878 --> 00:23:37,073
+faster work for clients with complex needs
+
+652
+00:23:37,073 --> 00:23:38,366
+can still thrive.
+
+653
+00:23:38,546 --> 00:23:40,635
+But a business built only on doing
+
+654
+00:23:40,635 --> 00:23:43,706
+simple information tasks cheaply will face growing
+
+655
+00:23:43,706 --> 00:23:44,258
+pressure.
+
+656
+00:23:44,438 --> 00:23:46,464
+The lesson: move toward judgment,
+
+657
+00:23:46,464 --> 00:23:48,734
+relationships and the physical world.
+
+658
+00:23:49,084 --> 00:23:50,314
+Let's get practical.
+
+659
+00:23:50,494 --> 00:23:52,920
+Here's a simple AI toolkit almost any
+
+660
+00:23:52,920 --> 00:23:54,756
+hands on business could use,
+
+661
+00:23:54,756 --> 00:23:56,067
+starting this month.
+
+662
+00:23:56,417 --> 00:23:57,137
+Tool one.
+
+663
+00:23:57,317 --> 00:23:59,658
+An AI phone and text assistant that
+
+664
+00:23:59,658 --> 00:24:00,995
+answers after hours,
+
+665
+00:24:00,995 --> 00:24:03,938
+collects the customer's problem and address,
+
+666
+00:24:03,938 --> 00:24:06,547
+and books an appointment or a callback.
+
+667
+00:24:06,727 --> 00:24:08,363
+For many service businesses,
+
+668
+00:24:08,363 --> 00:24:10,466
+missed calls are the biggest leak of
+
+669
+00:24:10,466 --> 00:24:12,044
+revenue, and this plugs it.
+
+670
+00:24:12,224 --> 00:24:13,083
+Tool two.
+
+671
+00:24:13,263 --> 00:24:15,752
+An AI writing assistant for quotes,
+
+672
+00:24:15,752 --> 00:24:18,455
+follow up emails and replies to online
+
+673
+00:24:18,455 --> 00:24:21,158
+reviews, which saves hours every week.
+
+674
+00:24:21,508 --> 00:24:22,437
+Tool three.
+
+675
+00:24:22,617 --> 00:24:25,815
+Scheduling and route planning software that groups
+
+676
+00:24:25,815 --> 00:24:28,245
+jobs by location and assigns the right
+
+677
+00:24:28,245 --> 00:24:29,780
+worker to the right job.
+
+678
+00:24:29,960 --> 00:24:32,871
+Less driving means more paid work and
+
+679
+00:24:32,871 --> 00:24:34,209
+lower fuel costs.
+
+680
+00:24:34,389 --> 00:24:35,179
+Tool four.
+
+681
+00:24:35,359 --> 00:24:38,070
+Bookkeeping software with AI categorization,
+
+682
+00:24:38,070 --> 00:24:39,980
+so your numbers stay up to date
+
+683
+00:24:39,980 --> 00:24:42,568
+without a weekend of receipts every month.
+
+684
+00:24:42,919 --> 00:24:43,836
+Tool five.
+
+685
+00:24:44,016 --> 00:24:46,397
+An AI assistant for marketing:
+
+686
+00:24:46,397 --> 00:24:48,381
+social posts, simple ads,
+
+687
+00:24:48,381 --> 00:24:51,874
+before and after photo captions and seasonal
+
+688
+00:24:51,874 --> 00:24:52,747
+promotions.
+
+689
+00:24:52,927 --> 00:24:54,764
+Keep it honest and personal,
+
+690
+00:24:54,764 --> 00:24:57,060
+with real photos of your real work.
+
+691
+00:24:57,240 --> 00:24:59,209
+Customers can tell the difference,
+
+692
+00:24:59,209 --> 00:25:01,411
+and authenticity is part of what makes
+
+693
+00:25:01,411 --> 00:25:02,859
+a local business trusted.
+
+694
+00:25:03,209 --> 00:25:04,892
+You don't need all five at once.
+
+695
+00:25:05,072 --> 00:25:07,181
+Pick the one that fixes your biggest
+
+696
+00:25:07,181 --> 00:25:09,640
+headache, measure the results for a month,
+
+697
+00:25:09,640 --> 00:25:11,690
+then decide whether to add another.
+
+698
+00:25:11,870 --> 00:25:13,743
+The goal isn't to become a tech
+
+699
+00:25:13,743 --> 00:25:14,227
+company.
+
+700
+00:25:14,407 --> 00:25:16,192
+It's to spend more of your time
+
+701
+00:25:16,192 --> 00:25:18,495
+on the human work customers actually pay
+
+702
+00:25:18,495 --> 00:25:18,726
+for.
+
+703
+00:25:19,076 --> 00:25:20,935
+Let's look at three made up but
+
+704
+00:25:20,935 --> 00:25:21,955
+realistic owners.
+
+705
+00:25:22,135 --> 00:25:24,485
+First, a plumber running a three truck
+
+706
+00:25:24,485 --> 00:25:24,980
+company.
+
+707
+00:25:25,160 --> 00:25:27,363
+He sets up an AI answering service
+
+708
+00:25:27,363 --> 00:25:29,371
+that books jobs at night and on
+
+709
+00:25:29,371 --> 00:25:29,954
+weekends.
+
+710
+00:25:30,134 --> 00:25:32,326
+Calls that used to go to voicemail,
+
+711
+00:25:32,326 --> 00:25:33,891
+and then to a competitor,
+
+712
+00:25:33,891 --> 00:25:35,394
+now become appointments.
+
+713
+00:25:35,574 --> 00:25:38,056
+Without hiring another office person,
+
+714
+00:25:38,056 --> 00:25:40,137
+he adds dozens of jobs a month.
+
+715
+00:25:40,487 --> 00:25:42,873
+Second, a salon owner who uses AI
+
+716
+00:25:42,873 --> 00:25:46,054
+to fill last minute cancellations by texting
+
+717
+00:25:46,054 --> 00:25:48,512
+clients on a waitlist and to write
+
+718
+00:25:48,512 --> 00:25:50,680
+social media posts in minutes.
+
+719
+00:25:50,860 --> 00:25:52,921
+Her stylists' chairs are fuller,
+
+720
+00:25:52,921 --> 00:25:55,046
+and she saves hours every week on
+
+721
+00:25:55,046 --> 00:25:55,690
+marketing.
+
+722
+00:25:56,040 --> 00:25:58,450
+Third, a home care agency owner who
+
+723
+00:25:58,450 --> 00:26:01,410
+uses AI scheduling to match caregivers with
+
+724
+00:26:01,410 --> 00:26:03,958
+clients based on location and skills.
+
+725
+00:26:04,138 --> 00:26:05,615
+Caregivers drive less,
+
+726
+00:26:05,615 --> 00:26:07,830
+clients get more consistent care,
+
+727
+00:26:07,830 --> 00:26:10,516
+and the agency can grow without drowning
+
+728
+00:26:10,516 --> 00:26:11,859
+in scheduling chaos.
+
+729
+00:26:12,039 --> 00:26:13,309
+In all three cases,
+
+730
+00:26:13,309 --> 00:26:15,382
+AI didn't replace the business.
+
+731
+00:26:15,562 --> 00:26:16,990
+It made the business better.
+
+732
+00:26:17,340 --> 00:26:18,280
+Mistake one.
+
+733
+00:26:18,460 --> 00:26:20,225
+Ignoring AI completely.
+
+734
+00:26:20,405 --> 00:26:23,224
+Competitors who use it to answer calls
+
+735
+00:26:23,224 --> 00:26:26,414
+faster, quote jobs faster and market better
+
+736
+00:26:26,414 --> 00:26:27,824
+will win customers.
+
+737
+00:26:28,004 --> 00:26:29,165
+Mistake two.
+
+738
+00:26:29,345 --> 00:26:30,819
+Trusting AI blindly.
+
+739
+00:26:30,999 --> 00:26:32,791
+AI tools make mistakes,
+
+740
+00:26:32,791 --> 00:26:34,505
+sometimes confidently.
+
+741
+00:26:34,685 --> 00:26:36,245
+Always review estimates,
+
+742
+00:26:36,245 --> 00:26:39,364
+messages and advice before they reach customers.
+
+743
+00:26:39,714 --> 00:26:40,805
+Mistake three.
+
+744
+00:26:40,985 --> 00:26:43,557
+Replacing the human touch where customers want
+
+745
+00:26:43,557 --> 00:26:43,725
+it.
+
+746
+00:26:43,905 --> 00:26:45,987
+If a grieving family or a worried
+
+747
+00:26:45,987 --> 00:26:48,069
+parent calls, they want a person,
+
+748
+00:26:48,069 --> 00:26:48,700
+not a bot.
+
+749
+00:26:48,880 --> 00:26:50,188
+Use AI for paperwork,
+
+750
+00:26:50,188 --> 00:26:52,305
+not for moments that need empathy.
+
+751
+00:26:52,485 --> 00:26:53,692
+And mistake four.
+
+752
+00:26:53,872 --> 00:26:57,719
+Feeding sensitive customer information into tools without
+
+753
+00:26:57,719 --> 00:26:59,608
+understanding privacy rules.
+
+754
+00:26:59,788 --> 00:27:03,539
+Health, financial and children's information deserve extra
+
+755
+00:27:03,539 --> 00:27:03,863
+care.
+
+756
+00:27:04,213 --> 00:27:05,954
+Now, three angles.
+
+757
+00:27:06,134 --> 00:27:07,586
+First, the numbers.
+
+758
+00:27:07,766 --> 00:27:09,574
+How can AI make an AI proof
+
+759
+00:27:09,574 --> 00:27:11,249
+business more profitable?
+
+760
+00:27:11,599 --> 00:27:12,562
+An illustration.
+
+761
+00:27:12,742 --> 00:27:15,473
+A service business with one million dollars
+
+762
+00:27:15,473 --> 00:27:17,949
+in revenue and ten percent profit earns
+
+763
+00:27:17,949 --> 00:27:19,790
+one hundred thousand dollars.
+
+764
+00:27:19,970 --> 00:27:22,392
+Cut office costs by thirty thousand and
+
+765
+00:27:22,392 --> 00:27:24,876
+add twenty thousand of profit from calls
+
+766
+00:27:24,876 --> 00:27:25,931
+you used to miss,
+
+767
+00:27:25,931 --> 00:27:27,980
+and profit can rise to around one
+
+768
+00:27:27,980 --> 00:27:29,409
+hundred fifty thousand.
+
+769
+00:27:29,759 --> 00:27:31,651
+Here's a simple illustration.
+
+770
+00:27:31,831 --> 00:27:34,485
+A service company brings in one million
+
+771
+00:27:34,485 --> 00:27:36,935
+dollars a year and keeps ten percent
+
+772
+00:27:36,935 --> 00:27:39,656
+as profit, one hundred thousand dollars.
+
+773
+00:27:39,836 --> 00:27:42,699
+Say AI tools reduce office and scheduling
+
+774
+00:27:42,699 --> 00:27:45,003
+costs by thirty thousand dollars.
+
+775
+00:27:45,183 --> 00:27:47,118
+And say answering every call,
+
+776
+00:27:47,118 --> 00:27:48,052
+day and night,
+
+777
+00:27:48,052 --> 00:27:50,455
+brings in extra jobs worth enough to
+
+778
+00:27:50,455 --> 00:27:53,391
+add about twenty thousand dollars of profit.
+
+779
+00:27:53,571 --> 00:27:56,060
+Profit rises from one hundred thousand to
+
+780
+00:27:56,060 --> 00:27:58,610
+around one hundred fifty thousand dollars.
+
+781
+00:27:58,790 --> 00:28:00,990
+That's a fifty percent jump in profit
+
+782
+00:28:00,990 --> 00:28:02,714
+without a single extra truck.
+
+783
+00:28:03,064 --> 00:28:05,370
+Why does such a small change matter
+
+784
+00:28:05,370 --> 00:28:05,897
+so much?
+
+785
+00:28:06,077 --> 00:28:09,258
+Because service businesses often have thin margins.
+
+786
+00:28:09,438 --> 00:28:11,843
+When profit is ten percent of revenue,
+
+787
+00:28:11,843 --> 00:28:14,059
+every dollar saved or earned on top
+
+788
+00:28:14,059 --> 00:28:16,148
+goes straight to the bottom line.
+
+789
+00:28:16,328 --> 00:28:19,191
+A few percentage points of efficiency can
+
+790
+00:28:19,191 --> 00:28:21,216
+transform the owner's income.
+
+791
+00:28:21,566 --> 00:28:23,963
+And higher profit raises the value of
+
+792
+00:28:23,963 --> 00:28:24,805
+the business.
+
+793
+00:28:24,985 --> 00:28:27,192
+If a business sells for three times
+
+794
+00:28:27,192 --> 00:28:29,966
+its profit, raising profit by fifty thousand
+
+795
+00:28:29,966 --> 00:28:32,614
+dollars could add around one hundred fifty
+
+796
+00:28:32,614 --> 00:28:34,505
+thousand dollars to its value.
+
+797
+00:28:34,685 --> 00:28:36,384
+AI tools, used well,
+
+798
+00:28:36,384 --> 00:28:39,357
+can make an AI proof business worth
+
+799
+00:28:39,357 --> 00:28:39,782
+more.
+
+800
+00:28:40,132 --> 00:28:42,628
+Of course, these are illustrations.
+
+801
+00:28:42,808 --> 00:28:44,165
+AI tools cost money,
+
+802
+00:28:44,165 --> 00:28:45,522
+take time to set up,
+
+803
+00:28:45,522 --> 00:28:48,439
+and don't always deliver what they promise.
+
+804
+00:28:48,619 --> 00:28:50,904
+Start with one tool that solves one
+
+805
+00:28:50,904 --> 00:28:53,973
+clear problem, like missed calls or scheduling,
+
+806
+00:28:53,973 --> 00:28:56,781
+and measure the results before adding more.
+
+807
+00:28:57,131 --> 00:28:58,907
+There's also a labor angle.
+
+808
+00:28:59,087 --> 00:29:01,720
+Many of these industries struggle to find
+
+809
+00:29:01,720 --> 00:29:03,197
+enough skilled workers.
+
+810
+00:29:03,377 --> 00:29:04,950
+AI won't swing a hammer,
+
+811
+00:29:04,950 --> 00:29:07,048
+but it can make each worker more
+
+812
+00:29:07,048 --> 00:29:09,605
+productive by cutting the time spent on
+
+813
+00:29:09,605 --> 00:29:12,358
+driving, paperwork and back and forth with
+
+814
+00:29:12,358 --> 00:29:13,013
+customers.
+
+815
+00:29:13,193 --> 00:29:16,028
+If each technician completes one extra job
+
+816
+00:29:16,028 --> 00:29:18,525
+per week thanks to better scheduling,
+
+817
+00:29:18,525 --> 00:29:20,685
+that adds up to fifty extra jobs
+
+818
+00:29:20,685 --> 00:29:21,899
+a year per person,
+
+819
+00:29:21,899 --> 00:29:23,654
+without hiring anyone new.
+
+820
+00:29:24,004 --> 00:29:27,015
+Finally, compare the two kinds of businesses
+
+821
+00:29:27,015 --> 00:29:27,905
+side by side.
+
+822
+00:29:28,085 --> 00:29:31,013
+An information business exposed to AI may
+
+823
+00:29:31,013 --> 00:29:33,656
+see prices fall as competitors use AI
+
+824
+00:29:33,656 --> 00:29:35,585
+to work faster and cheaper.
+
+825
+00:29:35,765 --> 00:29:38,024
+A hands on business protected from AI
+
+826
+00:29:38,024 --> 00:29:39,916
+can use the same tools to lower
+
+827
+00:29:39,916 --> 00:29:42,297
+its costs while its prices hold steady,
+
+828
+00:29:42,297 --> 00:29:44,983
+because customers still need the human work.
+
+829
+00:29:45,163 --> 00:29:48,082
+Falling costs and steady prices is exactly
+
+830
+00:29:48,082 --> 00:29:50,446
+the combination that grows profit.
+
+831
+00:29:50,796 --> 00:29:51,643
+Second angle.
+
+832
+00:29:51,823 --> 00:29:52,926
+The psychology.
+
+833
+00:29:53,106 --> 00:29:55,266
+How does fear of AI affect people's
+
+834
+00:29:55,266 --> 00:29:56,253
+money decisions?
+
+835
+00:29:56,603 --> 00:29:58,669
+The first effect is paralysis.
+
+836
+00:29:58,849 --> 00:30:01,032
+Some people are so worried about AI
+
+837
+00:30:01,032 --> 00:30:03,028
+that they don't start or buy any
+
+838
+00:30:03,028 --> 00:30:05,397
+business, waiting to see what happens.
+
+839
+00:30:05,577 --> 00:30:07,162
+But waiting has a cost:
+
+840
+00:30:07,162 --> 00:30:09,711
+years of income and ownership missed.
+
+841
+00:30:09,891 --> 00:30:11,834
+The businesses on this list are among
+
+842
+00:30:11,834 --> 00:30:13,199
+the safest bets available.
+
+843
+00:30:13,550 --> 00:30:15,655
+The second effect is a herd moving
+
+844
+00:30:15,655 --> 00:30:16,522
+the wrong way.
+
+845
+00:30:16,702 --> 00:30:19,490
+Many young people are being pushed toward
+
+846
+00:30:19,490 --> 00:30:21,191
+office and computer jobs,
+
+847
+00:30:21,191 --> 00:30:23,095
+the exact kind of work AI is
+
+848
+00:30:23,095 --> 00:30:24,183
+getting good at,
+
+849
+00:30:24,183 --> 00:30:26,768
+while fewer enter the trades and hands
+
+850
+00:30:26,768 --> 00:30:27,720
+on businesses.
+
+851
+00:30:27,900 --> 00:30:30,185
+That imbalance may raise the value of
+
+852
+00:30:30,185 --> 00:30:31,174
+hands on skills.
+
+853
+00:30:31,524 --> 00:30:34,902
+The third effect is overconfidence in technology.
+
+854
+00:30:35,082 --> 00:30:37,529
+Some people assume robots will soon do
+
+855
+00:30:37,529 --> 00:30:40,748
+everything, so nothing physical is worth building.
+
+856
+00:30:40,928 --> 00:30:43,942
+But physical robots that can handle unpredictable
+
+857
+00:30:43,942 --> 00:30:46,955
+homes, people and situations are improving slowly
+
+858
+00:30:46,955 --> 00:30:48,370
+compared with software.
+
+859
+00:30:48,550 --> 00:30:51,557
+Be humble about predictions in both directions.
+
+860
+00:30:51,907 --> 00:30:53,904
+The fourth effect is status confusion.
+
+861
+00:30:54,084 --> 00:30:56,565
+For decades, office jobs were seen as
+
+862
+00:30:56,565 --> 00:30:58,375
+the safe, respectable path,
+
+863
+00:30:58,375 --> 00:31:00,320
+and hands on work was seen as
+
+864
+00:31:00,320 --> 00:31:01,259
+a backup plan.
+
+865
+00:31:01,439 --> 00:31:03,749
+AI is turning that upside down.
+
+866
+00:31:03,929 --> 00:31:06,431
+The skills that looked old fashioned,
+
+867
+00:31:06,431 --> 00:31:08,121
+fixing, building, caring,
+
+868
+00:31:08,121 --> 00:31:09,946
+may turn out to be the most
+
+869
+00:31:09,946 --> 00:31:10,825
+future proof.
+
+870
+00:31:11,005 --> 00:31:12,841
+People who let go of the old
+
+871
+00:31:12,841 --> 00:31:15,464
+status story early may benefit the most.
+
+872
+00:31:15,814 --> 00:31:18,647
+And the fifth effect is underestimating trust.
+
+873
+00:31:18,827 --> 00:31:21,701
+People assume customers will always choose the
+
+874
+00:31:21,701 --> 00:31:23,264
+cheapest, fastest option,
+
+875
+00:31:23,264 --> 00:31:24,701
+even if it's a machine.
+
+876
+00:31:24,881 --> 00:31:26,789
+But when the stakes are personal,
+
+877
+00:31:26,789 --> 00:31:27,656
+like your home,
+
+878
+00:31:27,656 --> 00:31:29,794
+your body, your kids or your parents,
+
+879
+00:31:29,794 --> 00:31:31,817
+most people still want a human they
+
+880
+00:31:31,817 --> 00:31:32,973
+can look in the eye.
+
+881
+00:31:33,153 --> 00:31:35,757
+Trust is a moat that technology doesn't
+
+882
+00:31:35,757 --> 00:31:36,625
+easily cross.
+
+883
+00:31:36,975 --> 00:31:37,718
+The takeaway.
+
+884
+00:31:37,898 --> 00:31:40,565
+Fear makes people freeze or follow the
+
+885
+00:31:40,565 --> 00:31:40,916
+herd.
+
+886
+00:31:41,096 --> 00:31:43,047
+Clear thinking shows that human,
+
+887
+00:31:43,047 --> 00:31:45,119
+hands on businesses may be some of
+
+888
+00:31:45,119 --> 00:31:47,679
+the best opportunities of the next decade.
+
+889
+00:31:48,029 --> 00:31:49,004
+Third angle.
+
+890
+00:31:49,184 --> 00:31:49,904
+The playbook.
+
+891
+00:31:50,084 --> 00:31:51,861
+How do you choose one of these
+
+892
+00:31:51,861 --> 00:31:53,579
+and use AI to your advantage?
+
+893
+00:31:53,929 --> 00:31:54,718
+Step one.
+
+894
+00:31:54,898 --> 00:31:57,108
+Match the business to your skills and
+
+895
+00:31:57,108 --> 00:31:57,824
+temperament.
+
+896
+00:31:58,004 --> 00:31:59,972
+Do you like working with your hands,
+
+897
+00:31:59,972 --> 00:32:01,229
+with people, with kids,
+
+898
+00:32:01,229 --> 00:32:01,940
+with animals?
+
+899
+00:32:02,120 --> 00:32:03,083
+Step two.
+
+900
+00:32:03,263 --> 00:32:04,728
+Check local demand:
+
+901
+00:32:04,728 --> 00:32:06,347
+search for providers,
+
+902
+00:32:06,347 --> 00:32:09,045
+read reviews and notice wait times.
+
+903
+00:32:09,225 --> 00:32:11,071
+Long waits mean opportunity.
+
+904
+00:32:11,421 --> 00:32:12,396
+Step three.
+
+905
+00:32:12,576 --> 00:32:14,875
+Get the training and licenses required.
+
+906
+00:32:15,055 --> 00:32:15,995
+Step four.
+
+907
+00:32:16,175 --> 00:32:19,186
+Start small, or buy an existing business
+
+908
+00:32:19,186 --> 00:32:20,842
+from a retiring owner.
+
+909
+00:32:21,022 --> 00:32:21,940
+Step five.
+
+910
+00:32:22,120 --> 00:32:24,079
+Add AI tools one at a time
+
+911
+00:32:24,079 --> 00:32:26,114
+for the most painful tasks:
+
+912
+00:32:26,114 --> 00:32:28,224
+answering calls, scheduling,
+
+913
+00:32:28,224 --> 00:32:30,862
+estimates, invoicing and marketing.
+
+914
+00:32:31,212 --> 00:32:32,384
+Step six.
+
+915
+00:32:32,564 --> 00:32:34,823
+Spend the time AI saves on what
+
+916
+00:32:34,823 --> 00:32:36,207
+only humans can do:
+
+917
+00:32:36,207 --> 00:32:40,141
+quality work, customer relationships and building your
+
+918
+00:32:40,141 --> 00:32:40,506
+team.
+
+919
+00:32:40,686 --> 00:32:42,416
+That's your competitive advantage.
+
+920
+00:32:42,596 --> 00:32:43,699
+And step seven.
+
+921
+00:32:43,879 --> 00:32:46,635
+Keep your financial foundation strong with an
+
+922
+00:32:46,635 --> 00:32:49,513
+emergency fund and retirement savings while you
+
+923
+00:32:49,513 --> 00:32:49,881
+build.
+
+924
+00:32:50,231 --> 00:32:50,997
+Question one.
+
+925
+00:32:51,177 --> 00:32:53,546
+Will robots eventually do these jobs?
+
+926
+00:32:53,726 --> 00:32:55,434
+Some tasks, maybe,
+
+927
+00:32:55,434 --> 00:32:56,953
+over many years.
+
+928
+00:32:57,133 --> 00:32:59,704
+But the combination of physical complexity,
+
+929
+00:32:59,704 --> 00:33:02,514
+human presence and trust makes these businesses
+
+930
+00:33:02,514 --> 00:33:04,726
+among the last to be fully automated.
+
+931
+00:33:04,906 --> 00:33:05,777
+Question two.
+
+932
+00:33:05,957 --> 00:33:08,209
+Which AI tools should I start with?
+
+933
+00:33:08,389 --> 00:33:11,430
+Usually scheduling, call answering and invoicing,
+
+934
+00:33:11,430 --> 00:33:14,037
+because they save time immediately and are
+
+935
+00:33:14,037 --> 00:33:15,030
+easy to measure.
+
+936
+00:33:15,380 --> 00:33:16,343
+Question three.
+
+937
+00:33:16,523 --> 00:33:17,759
+Is it too late to learn a
+
+938
+00:33:17,759 --> 00:33:18,056
+trade?
+
+939
+00:33:18,236 --> 00:33:20,504
+Many people switch into trades in their
+
+940
+00:33:20,504 --> 00:33:21,726
+thirties and forties,
+
+941
+00:33:21,726 --> 00:33:24,401
+and apprenticeships often pay while you learn.
+
+942
+00:33:24,581 --> 00:33:25,545
+Question four.
+
+943
+00:33:25,725 --> 00:33:27,211
+What if I'm not technical?
+
+944
+00:33:27,391 --> 00:33:29,765
+Many AI tools are built for small
+
+945
+00:33:29,765 --> 00:33:32,139
+businesses and are simple to use.
+
+946
+00:33:32,319 --> 00:33:33,216
+Start with one,
+
+947
+00:33:33,216 --> 00:33:35,430
+and ask other owners in your industry
+
+948
+00:33:35,430 --> 00:33:36,626
+what works for them.
+
+949
+00:33:36,976 --> 00:33:38,067
+Question five.
+
+950
+00:33:38,247 --> 00:33:40,737
+Should I buy an existing business or
+
+951
+00:33:40,737 --> 00:33:41,428
+start one?
+
+952
+00:33:41,608 --> 00:33:44,591
+Buying gives you customers and cash flow
+
+953
+00:33:44,591 --> 00:33:45,560
+from day one,
+
+954
+00:33:45,560 --> 00:33:47,424
+often with SBA financing,
+
+955
+00:33:47,424 --> 00:33:50,555
+while starting costs less but takes longer
+
+956
+00:33:50,555 --> 00:33:51,152
+to grow.
+
+957
+00:33:51,332 --> 00:33:53,783
+In trades with many retiring owners,
+
+958
+00:33:53,783 --> 00:33:55,825
+buying can be a strong option.
+
+959
+00:33:56,005 --> 00:33:57,108
+Question six.
+
+960
+00:33:57,288 --> 00:33:59,018
+Which of these needs the least money?
+
+961
+00:33:59,198 --> 00:34:01,256
+Personal training, grooming,
+
+962
+00:34:01,256 --> 00:34:04,345
+massage and event planning can often start
+
+963
+00:34:04,345 --> 00:34:05,815
+with modest capital.
+
+964
+00:34:06,165 --> 00:34:07,152
+Question seven.
+
+965
+00:34:07,332 --> 00:34:10,025
+Will AI make these businesses more competitive?
+
+966
+00:34:10,205 --> 00:34:11,386
+In some ways,
+
+967
+00:34:11,386 --> 00:34:11,749
+yes.
+
+968
+00:34:11,929 --> 00:34:14,972
+Marketing and scheduling tools are available to
+
+969
+00:34:14,972 --> 00:34:17,692
+everyone, so the basic advantages of being
+
+970
+00:34:17,692 --> 00:34:19,116
+organized will spread.
+
+971
+00:34:19,296 --> 00:34:21,261
+What stays rare is skill,
+
+972
+00:34:21,261 --> 00:34:23,383
+reliability and reputation.
+
+973
+00:34:23,563 --> 00:34:26,051
+The owners who win will combine modern
+
+974
+00:34:26,051 --> 00:34:28,212
+tools with old fashioned quality,
+
+975
+00:34:28,212 --> 00:34:29,456
+showing up on time,
+
+976
+00:34:29,456 --> 00:34:32,665
+doing excellent work and treating customers well.
+
+977
+00:34:33,015 --> 00:34:33,909
+Question eight.
+
+978
+00:34:34,089 --> 00:34:36,100
+How do I protect my business from
+
+979
+00:34:36,100 --> 00:34:37,990
+future changes I can't predict?
+
+980
+00:34:38,170 --> 00:34:40,846
+Keep learning, keep some cash in reserve,
+
+981
+00:34:40,846 --> 00:34:43,130
+stay close to your customers so you
+
+982
+00:34:43,130 --> 00:34:44,501
+notice changes early,
+
+983
+00:34:44,501 --> 00:34:46,590
+and don't take on more debt than
+
+984
+00:34:46,590 --> 00:34:48,874
+the business can comfortably carry.
+
+985
+00:34:49,054 --> 00:34:52,224
+Adaptable businesses survive almost anything.
+
+986
+00:34:52,574 --> 00:34:54,431
+Let's recap the fifteen.
+
+987
+00:34:54,611 --> 00:34:56,225
+Electrical and plumbing.
+
+988
+00:34:56,405 --> 00:34:57,473
+Home remodeling.
+
+989
+00:34:57,653 --> 00:34:58,513
+Auto body.
+
+990
+00:34:58,693 --> 00:35:00,573
+Home health and senior care.
+
+991
+00:35:00,753 --> 00:35:02,843
+Physical therapy and massage.
+
+992
+00:35:03,023 --> 00:35:03,987
+Personal training.
+
+993
+00:35:04,167 --> 00:35:05,328
+Hair and beauty.
+
+994
+00:35:05,508 --> 00:35:06,889
+Tattoo studios.
+
+995
+00:35:07,069 --> 00:35:08,196
+Event planning.
+
+996
+00:35:08,376 --> 00:35:10,105
+Food trucks and catering.
+
+997
+00:35:10,285 --> 00:35:11,342
+Tree service.
+
+998
+00:35:11,522 --> 00:35:12,369
+Childcare.
+
+999
+00:35:12,549 --> 00:35:13,792
+Vet and grooming.
+
+1000
+00:35:13,972 --> 00:35:15,272
+Experiences.
+
+1001
+00:35:15,452 --> 00:35:16,683
+And appliance repair.
+
+1002
+00:35:17,033 --> 00:35:17,741
+And the lesson.
+
+1003
+00:35:17,921 --> 00:35:20,060
+Hands, presence and trust are hard to
+
+1004
+00:35:20,060 --> 00:35:20,580
+automate.
+
+1005
+00:35:20,760 --> 00:35:23,142
+AI won't replace these businesses,
+
+1006
+00:35:23,142 --> 00:35:25,314
+but owners who use AI well will
+
+1007
+00:35:25,314 --> 00:35:26,855
+beat owners who don't.
+
+1008
+00:35:27,035 --> 00:35:28,304
+Build on what's human,
+
+1009
+00:35:28,304 --> 00:35:30,495
+and let the machines do the paperwork.
+
+1010
+00:35:30,845 --> 00:35:32,006
+Think about it this way.
+
+1011
+00:35:32,186 --> 00:35:33,618
+Twenty years from now,
+
+1012
+00:35:33,618 --> 00:35:36,025
+AI will probably be far more powerful
+
+1013
+00:35:36,025 --> 00:35:37,132
+than it is today.
+
+1014
+00:35:37,312 --> 00:35:39,150
+But a pipe will still burst at
+
+1015
+00:35:39,150 --> 00:35:41,294
+midnight, a child will still need a
+
+1016
+00:35:41,294 --> 00:35:43,744
+caring adult, an older parent will still
+
+1017
+00:35:43,744 --> 00:35:45,521
+need help getting out of bed,
+
+1018
+00:35:45,521 --> 00:35:47,726
+and a couple will still want someone
+
+1019
+00:35:47,726 --> 00:35:49,932
+calm in charge of their wedding day.
+
+1020
+00:35:50,112 --> 00:35:52,451
+The people who own those businesses,
+
+1021
+00:35:52,451 --> 00:35:54,335
+and use the best tools to run
+
+1022
+00:35:54,335 --> 00:35:56,284
+them, will be in a very strong
+
+1023
+00:35:56,284 --> 00:35:56,869
+position.
+
+1024
+00:35:57,219 --> 00:35:59,292
+Pick one business from this list that
+
+1025
+00:35:59,292 --> 00:35:59,796
+fits you.
+
+1026
+00:35:59,976 --> 00:36:01,758
+This week, talk to one owner in
+
+1027
+00:36:01,758 --> 00:36:03,655
+that field and ask two questions:
+
+1028
+00:36:03,655 --> 00:36:05,955
+what's the hardest part of the business,
+
+1029
+00:36:05,955 --> 00:36:07,909
+and what would you automate if you
+
+1030
+00:36:07,909 --> 00:36:08,254
+could?
+
+1031
+00:36:08,434 --> 00:36:10,517
+Their answers will show you both the
+
+1032
+00:36:10,517 --> 00:36:11,964
+opportunity and the edge.
+
+1033
+00:36:12,144 --> 00:36:14,230
+Most owners are happy to talk about
+
+1034
+00:36:14,230 --> 00:36:16,914
+their work, especially to someone curious and
+
+1035
+00:36:16,914 --> 00:36:19,656
+respectful, and one conversation can teach you
+
+1036
+00:36:19,656 --> 00:36:21,385
+more than a month of reading.
+
+1037
+00:36:21,565 --> 00:36:22,773
+I'm Ryan Rover.
+
+1038
+00:36:22,953 --> 00:36:24,673
+Stay human, use the tools,
+
+1039
+00:36:24,673 --> 00:36:26,526
+and I'll see you in the next
+
+1040
+00:36:26,526 --> 00:36:26,923
+video.
