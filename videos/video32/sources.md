@@ -1,0 +1,13 @@
+- Quote Investigator, on the compound interest quote attributed to Albert Einstein (no reliable source)
+- Historical accounts of Benjamin Franklin's 1790 bequests to Boston and Philadelphia
+- Morgan Housel, The Psychology of Money (2020): Warren Buffett's net worth after age 65
+- Stango and Zinman, Exponential Growth Bias and Household Finance (Journal of Finance, 2009)
+- Lusardi and Mitchell, financial literacy questions (the Big Three)
+- Federal Reserve, G.19 Consumer Credit (credit card rates above 20%)
+- S&P Dow Jones Indices, dividends' share of S&P 500 total return
+- Hershfield et al., Increasing Saving Behavior Through Age-Progressed Renderings of the Future Self (Journal of Marketing Research, 2011)
+- Barber and Odean, Trading Is Hazardous to Your Wealth (Journal of Finance, 2000)
+- S&P Dow Jones Indices, SPIVA U.S. Scorecard (active funds vs benchmarks)
+- Charlie Munger: the first rule of compounding is never to interrupt it unnecessarily
+- IRS, retirement plan and IRA catch-up contribution rules for age 50 and older
+- Growth examples: compounding at stated average yearly returns (illustrations, not promises)
