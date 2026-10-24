@@ -1,0 +1,4191 @@
+1
+00:00:00,000 --> 00:00:02,101
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,281 --> 00:00:04,265
+One of the biggest myths about starting
+
+3
+00:00:04,265 --> 00:00:05,741
+a business is that you need a
+
+4
+00:00:05,741 --> 00:00:06,402
+lot of money.
+
+5
+00:00:06,582 --> 00:00:08,009
+A loan, investors,
+
+6
+00:00:08,009 --> 00:00:10,704
+a storefront, expensive equipment.
+
+7
+00:00:10,884 --> 00:00:12,509
+For some businesses,
+
+8
+00:00:12,509 --> 00:00:12,916
+sure.
+
+9
+00:00:13,096 --> 00:00:15,174
+But for many of the most reliable
+
+10
+00:00:15,174 --> 00:00:16,937
+small businesses in America,
+
+11
+00:00:16,937 --> 00:00:19,015
+you can start with less than five
+
+12
+00:00:19,015 --> 00:00:20,085
+thousand dollars.
+
+13
+00:00:20,265 --> 00:00:21,705
+Sometimes much less.
+
+14
+00:00:21,885 --> 00:00:23,394
+Today, twenty of them.
+
+15
+00:00:23,743 --> 00:00:26,006
+Twenty businesses you can start with under
+
+16
+00:00:26,006 --> 00:00:27,192
+five thousand dollars.
+
+17
+00:00:27,372 --> 00:00:29,050
+Real services people pay for,
+
+18
+00:00:29,050 --> 00:00:31,134
+that you can test while keeping your
+
+19
+00:00:31,134 --> 00:00:31,365
+job.
+
+20
+00:00:31,716 --> 00:00:32,772
+Here's the idea.
+
+21
+00:00:32,952 --> 00:00:35,451
+Instead of betting your savings on one
+
+22
+00:00:35,451 --> 00:00:37,161
+big idea, you start small,
+
+23
+00:00:37,161 --> 00:00:39,068
+test whether people will pay,
+
+24
+00:00:39,068 --> 00:00:41,435
+and grow only when the customers are
+
+25
+00:00:41,435 --> 00:00:41,764
+real.
+
+26
+00:00:41,944 --> 00:00:44,092
+It's the opposite of the startup movie.
+
+27
+00:00:44,272 --> 00:00:46,710
+Less glamour, much less risk.
+
+28
+00:00:46,890 --> 00:00:49,402
+And many of the boring businesses that
+
+29
+00:00:49,402 --> 00:00:52,774
+quietly make millionaires started exactly this way:
+
+30
+00:00:52,774 --> 00:00:54,360
+one person, a few tools,
+
+31
+00:00:54,360 --> 00:00:55,748
+and a first customer.
+
+32
+00:00:56,099 --> 00:00:57,077
+For each business,
+
+33
+00:00:57,077 --> 00:00:58,815
+we'll look at how it makes money
+
+34
+00:00:58,815 --> 00:01:00,174
+and how to start cheaply.
+
+35
+00:01:00,354 --> 00:01:02,499
+Then we'll look at the whole thing
+
+36
+00:01:02,499 --> 00:01:03,635
+from three angles:
+
+37
+00:01:03,635 --> 00:01:05,528
+the numbers of starting small,
+
+38
+00:01:05,528 --> 00:01:07,989
+the psychology of your first customers,
+
+39
+00:01:07,989 --> 00:01:10,197
+and a simple ninety day playbook to
+
+40
+00:01:10,197 --> 00:01:11,522
+go from idea to paid.
+
+41
+00:01:11,702 --> 00:01:13,258
+Let's start with the sources.
+
+42
+00:01:13,609 --> 00:01:16,116
+Business application data comes from the U.
+
+43
+00:01:16,296 --> 00:01:16,645
+S.
+
+44
+00:01:16,825 --> 00:01:19,843
+Census Bureau's Business Formation Statistics.
+
+45
+00:01:20,023 --> 00:01:22,764
+Pet spending data comes from the American
+
+46
+00:01:22,764 --> 00:01:24,435
+Pet Products Association.
+
+47
+00:01:24,615 --> 00:01:27,784
+Self employment tax rules come from the
+
+48
+00:01:27,784 --> 00:01:28,110
+IRS.
+
+49
+00:01:28,290 --> 00:01:31,259
+Business survival data comes from the Bureau
+
+50
+00:01:31,259 --> 00:01:32,608
+of Labor Statistics.
+
+51
+00:01:32,788 --> 00:01:34,939
+Start up costs in this video are
+
+52
+00:01:34,939 --> 00:01:37,156
+rough estimates for a lean start,
+
+53
+00:01:37,156 --> 00:01:38,635
+and they vary by city,
+
+54
+00:01:38,635 --> 00:01:41,390
+licensing rules and the tools you already
+
+55
+00:01:41,390 --> 00:01:41,659
+own.
+
+56
+00:01:41,839 --> 00:01:43,197
+This is education,
+
+57
+00:01:43,197 --> 00:01:45,763
+not legal, tax or business advice.
+
+58
+00:01:46,113 --> 00:01:46,902
+Angle one.
+
+59
+00:01:47,082 --> 00:01:47,871
+The numbers.
+
+60
+00:01:48,051 --> 00:01:51,381
+Americans are starting businesses at a remarkable
+
+61
+00:01:51,381 --> 00:01:51,720
+pace.
+
+62
+00:01:52,071 --> 00:01:54,631
+The Census Bureau has recorded more than
+
+63
+00:01:54,631 --> 00:01:57,575
+five million new business applications in each
+
+64
+00:01:57,575 --> 00:01:59,239
+of the last several years,
+
+65
+00:01:59,239 --> 00:02:01,287
+a big jump from the years before
+
+66
+00:02:01,287 --> 00:02:02,183
+twenty twenty.
+
+67
+00:02:02,533 --> 00:02:04,879
+Not every application becomes a real,
+
+68
+00:02:04,879 --> 00:02:05,957
+lasting business.
+
+69
+00:02:06,137 --> 00:02:08,094
+But it shows something important:
+
+70
+00:02:08,094 --> 00:02:10,584
+starting a business has never been easier.
+
+71
+00:02:10,764 --> 00:02:12,319
+You can register online,
+
+72
+00:02:12,319 --> 00:02:14,456
+take card payments on your phone,
+
+73
+00:02:14,456 --> 00:02:17,241
+and find customers through local groups and
+
+74
+00:02:17,241 --> 00:02:18,148
+free listings.
+
+75
+00:02:18,328 --> 00:02:20,857
+The barriers that used to keep people
+
+76
+00:02:20,857 --> 00:02:23,660
+out, like storefronts and big ad budgets,
+
+77
+00:02:23,660 --> 00:02:26,258
+are much lower for service businesses.
+
+78
+00:02:26,608 --> 00:02:29,293
+Here's why starting under five thousand dollars
+
+79
+00:02:29,293 --> 00:02:30,207
+matters so much.
+
+80
+00:02:30,387 --> 00:02:33,719
+Remember, Bureau of Labor Statistics data shows
+
+81
+00:02:33,719 --> 00:02:36,343
+about half of new businesses are gone
+
+82
+00:02:36,343 --> 00:02:37,620
+within five years.
+
+83
+00:02:37,800 --> 00:02:40,442
+If you put fifty thousand dollars into
+
+84
+00:02:40,442 --> 00:02:41,971
+a business that fails,
+
+85
+00:02:41,971 --> 00:02:43,988
+you've lost years of savings.
+
+86
+00:02:44,168 --> 00:02:46,488
+If you put three thousand dollars into
+
+87
+00:02:46,488 --> 00:02:47,831
+a business that fails,
+
+88
+00:02:47,831 --> 00:02:49,601
+you've paid for an education.
+
+89
+00:02:49,781 --> 00:02:52,549
+Small starts make failure survivable,
+
+90
+00:02:52,549 --> 00:02:55,915
+and survivable failure is how most successful
+
+91
+00:02:55,915 --> 00:02:57,037
+owners learned.
+
+92
+00:02:57,388 --> 00:02:58,885
+And remember taxes.
+
+93
+00:02:59,065 --> 00:03:01,225
+Self employed people in the U.
+
+94
+00:03:01,405 --> 00:03:01,799
+S.
+
+95
+00:03:01,979 --> 00:03:05,252
+generally pay self employment tax of fifteen
+
+96
+00:03:05,252 --> 00:03:08,451
+point three percent for Social Security and
+
+97
+00:03:08,451 --> 00:03:10,757
+Medicare, on top of income tax.
+
+98
+00:03:10,937 --> 00:03:13,508
+Many new owners set aside twenty five
+
+99
+00:03:13,508 --> 00:03:16,149
+to thirty percent of profit for taxes.
+
+100
+00:03:16,500 --> 00:03:18,247
+That surprises a lot of people in
+
+101
+00:03:18,247 --> 00:03:19,147
+their first year.
+
+102
+00:03:19,327 --> 00:03:21,934
+They earn twenty thousand dollars on the
+
+103
+00:03:21,934 --> 00:03:22,912
+side, spend it,
+
+104
+00:03:22,912 --> 00:03:24,673
+and then get a big tax bill
+
+105
+00:03:24,673 --> 00:03:25,259
+in April.
+
+106
+00:03:25,439 --> 00:03:26,520
+The fix is simple:
+
+107
+00:03:26,520 --> 00:03:28,560
+open a separate account for taxes,
+
+108
+00:03:28,560 --> 00:03:30,541
+and move a share of every payment
+
+109
+00:03:30,541 --> 00:03:32,161
+into it the day it arrives.
+
+110
+00:03:32,341 --> 00:03:34,683
+Talk to a tax professional once,
+
+111
+00:03:34,683 --> 00:03:37,171
+early, so you know what to expect.
+
+112
+00:03:37,522 --> 00:03:38,491
+Before the list,
+
+113
+00:03:38,491 --> 00:03:40,552
+four questions to help you choose.
+
+114
+00:03:40,732 --> 00:03:43,321
+Question one: what do you already have?
+
+115
+00:03:43,501 --> 00:03:44,773
+A truck, a camera,
+
+116
+00:03:44,773 --> 00:03:46,045
+a pressure washer,
+
+117
+00:03:46,045 --> 00:03:47,599
+a skill from your job?
+
+118
+00:03:47,779 --> 00:03:49,583
+Starting with what you own is the
+
+119
+00:03:49,583 --> 00:03:50,786
+cheapest start of all.
+
+120
+00:03:50,966 --> 00:03:53,068
+Question two: how much time do you
+
+121
+00:03:53,068 --> 00:03:53,811
+really have?
+
+122
+00:03:53,991 --> 00:03:56,402
+Evenings, weekends, or a few full days
+
+123
+00:03:56,402 --> 00:03:56,847
+a week?
+
+124
+00:03:57,027 --> 00:03:59,589
+Some businesses need daytime hours,
+
+125
+00:03:59,589 --> 00:04:01,345
+others fit around a job.
+
+126
+00:04:01,696 --> 00:04:04,725
+Question three: do you prefer physical work
+
+127
+00:04:04,725 --> 00:04:05,782
+or screen work?
+
+128
+00:04:05,962 --> 00:04:08,801
+Lawn care, cleaning and junk hauling are
+
+129
+00:04:08,801 --> 00:04:10,362
+physical and outdoors.
+
+130
+00:04:10,542 --> 00:04:14,266
+Bookkeeping, social media and virtual assistance happen
+
+131
+00:04:14,266 --> 00:04:14,943
+at a desk.
+
+132
+00:04:15,123 --> 00:04:16,205
+Neither is better,
+
+133
+00:04:16,205 --> 00:04:18,309
+but choosing the wrong one for your
+
+134
+00:04:18,309 --> 00:04:20,292
+personality is a fast way to burn
+
+135
+00:04:20,292 --> 00:04:20,533
+out.
+
+136
+00:04:20,713 --> 00:04:21,963
+And question four:
+
+137
+00:04:21,963 --> 00:04:23,769
+do you want a side income,
+
+138
+00:04:23,769 --> 00:04:24,672
+or a company?
+
+139
+00:04:24,852 --> 00:04:26,894
+If you want to build something that
+
+140
+00:04:26,894 --> 00:04:27,944
+can grow past you,
+
+141
+00:04:27,944 --> 00:04:30,744
+favor services with recurring customers that can
+
+142
+00:04:30,744 --> 00:04:31,795
+be done by a team.
+
+143
+00:04:32,145 --> 00:04:33,856
+Keep your answers in mind as we
+
+144
+00:04:33,856 --> 00:04:35,070
+go through the twenty.
+
+145
+00:04:35,250 --> 00:04:35,912
+By the end,
+
+146
+00:04:35,912 --> 00:04:38,198
+you'll probably have two or three that
+
+147
+00:04:38,198 --> 00:04:40,243
+fit you much better than the rest.
+
+148
+00:04:40,423 --> 00:04:42,013
+That short list is where you start.
+
+149
+00:04:42,363 --> 00:04:42,966
+Okay.
+
+150
+00:04:43,146 --> 00:04:45,933
+Twenty businesses under five thousand dollars.
+
+151
+00:04:46,113 --> 00:04:48,253
+We'll start with services for homes,
+
+152
+00:04:48,253 --> 00:04:50,513
+because every neighborhood needs them.
+
+153
+00:04:50,863 --> 00:04:52,163
+Idea number one.
+
+154
+00:04:52,343 --> 00:04:53,666
+Residential cleaning.
+
+155
+00:04:54,017 --> 00:04:55,045
+People are busy,
+
+156
+00:04:55,045 --> 00:04:57,165
+and many will happily pay to come
+
+157
+00:04:57,165 --> 00:04:58,579
+home to a clean house.
+
+158
+00:04:58,759 --> 00:05:01,213
+Cleaning is one of the most recurring
+
+159
+00:05:01,213 --> 00:05:02,406
+services there is:
+
+160
+00:05:02,406 --> 00:05:03,997
+weekly, every two weeks,
+
+161
+00:05:03,997 --> 00:05:04,727
+or monthly.
+
+162
+00:05:04,907 --> 00:05:06,756
+Once you have a list of regular
+
+163
+00:05:06,756 --> 00:05:09,202
+clients, your income becomes predictable.
+
+164
+00:05:09,553 --> 00:05:11,934
+Lean start: cleaning supplies,
+
+165
+00:05:11,934 --> 00:05:14,872
+a vacuum, basic insurance and maybe a
+
+166
+00:05:14,872 --> 00:05:16,937
+simple website or listing.
+
+167
+00:05:17,117 --> 00:05:19,903
+Often well under one thousand dollars.
+
+168
+00:05:20,083 --> 00:05:22,207
+Start with friends and neighbors,
+
+169
+00:05:22,207 --> 00:05:24,459
+ask every happy client for a review
+
+170
+00:05:24,459 --> 00:05:25,425
+and a referral,
+
+171
+00:05:25,425 --> 00:05:28,256
+and offer a discount for recurring bookings.
+
+172
+00:05:28,607 --> 00:05:29,837
+Idea number two.
+
+173
+00:05:30,017 --> 00:05:31,109
+Pressure washing.
+
+174
+00:05:31,459 --> 00:05:34,058
+Driveways, decks, fences,
+
+175
+00:05:34,058 --> 00:05:36,137
+siding, storefronts.
+
+176
+00:05:36,317 --> 00:05:38,173
+The before and after photos do your
+
+177
+00:05:38,173 --> 00:05:39,127
+marketing for you.
+
+178
+00:05:39,307 --> 00:05:41,409
+Homeowners book it once or twice a
+
+179
+00:05:41,409 --> 00:05:44,501
+year, and businesses like restaurants and property
+
+180
+00:05:44,501 --> 00:05:46,541
+managers can book it on a regular
+
+181
+00:05:46,541 --> 00:05:47,097
+schedule.
+
+182
+00:05:47,448 --> 00:05:50,311
+Lean start: a good pressure washer,
+
+183
+00:05:50,311 --> 00:05:52,193
+surface cleaner, hoses,
+
+184
+00:05:52,193 --> 00:05:54,321
+safety gear and insurance.
+
+185
+00:05:54,501 --> 00:05:56,613
+A few thousand dollars can get you
+
+186
+00:05:56,613 --> 00:05:56,985
+going.
+
+187
+00:05:57,165 --> 00:05:59,098
+Learn proper techniques first,
+
+188
+00:05:59,098 --> 00:06:01,739
+because too much pressure can damage wood
+
+189
+00:06:01,739 --> 00:06:02,448
+and siding.
+
+190
+00:06:02,628 --> 00:06:04,668
+Post every before and after photo,
+
+191
+00:06:04,668 --> 00:06:06,529
+with the customer's permission.
+
+192
+00:06:06,879 --> 00:06:08,237
+Idea number three.
+
+193
+00:06:08,417 --> 00:06:09,218
+Lawn care.
+
+194
+00:06:09,568 --> 00:06:12,396
+Mowing, edging, leaf cleanup,
+
+195
+00:06:12,396 --> 00:06:12,981
+mulch.
+
+196
+00:06:13,161 --> 00:06:14,585
+In the growing season,
+
+197
+00:06:14,585 --> 00:06:16,656
+lawns need attention every week.
+
+198
+00:06:16,836 --> 00:06:19,435
+A route of houses close together means
+
+199
+00:06:19,435 --> 00:06:21,829
+less driving and more jobs per day,
+
+200
+00:06:21,829 --> 00:06:25,044
+which is how lawn businesses become profitable.
+
+201
+00:06:25,394 --> 00:06:27,564
+Lean start: a reliable mower,
+
+202
+00:06:27,564 --> 00:06:30,035
+trimmer, blower and a way to haul
+
+203
+00:06:30,035 --> 00:06:30,409
+them.
+
+204
+00:06:30,589 --> 00:06:32,334
+If you already have a truck,
+
+205
+00:06:32,334 --> 00:06:34,142
+you can start for a couple of
+
+206
+00:06:34,142 --> 00:06:37,009
+thousand dollars, or less with used equipment.
+
+207
+00:06:37,189 --> 00:06:39,624
+Focus on one neighborhood at a time,
+
+208
+00:06:39,624 --> 00:06:42,059
+and add snow removal or leaf cleanup
+
+209
+00:06:42,059 --> 00:06:44,155
+to stay busy in the off season.
+
+210
+00:06:44,506 --> 00:06:45,759
+Idea number four.
+
+211
+00:06:45,939 --> 00:06:47,298
+Handyman services.
+
+212
+00:06:47,648 --> 00:06:50,124
+Hanging shelves, fixing doors,
+
+213
+00:06:50,124 --> 00:06:53,343
+patching drywall, assembling furniture,
+
+214
+00:06:53,343 --> 00:06:54,416
+mounting TVs.
+
+215
+00:06:54,596 --> 00:06:57,724
+Larger contractors often don't want small jobs,
+
+216
+00:06:57,724 --> 00:06:59,587
+which leaves a big gap for a
+
+217
+00:06:59,587 --> 00:07:00,784
+reliable handyman.
+
+218
+00:07:00,964 --> 00:07:03,547
+Real estate agents and landlords often need
+
+219
+00:07:03,547 --> 00:07:05,469
+someone they can call regularly.
+
+220
+00:07:05,819 --> 00:07:09,135
+Lean start: tools you probably already have,
+
+221
+00:07:09,135 --> 00:07:10,265
+plus insurance.
+
+222
+00:07:10,445 --> 00:07:11,858
+Check your state's rules,
+
+223
+00:07:11,858 --> 00:07:13,893
+because some types of work require a
+
+224
+00:07:13,893 --> 00:07:16,041
+license above a certain dollar amount.
+
+225
+00:07:16,221 --> 00:07:18,043
+Be clear about what you do and
+
+226
+00:07:18,043 --> 00:07:20,350
+don't do, and never take on electrical
+
+227
+00:07:20,350 --> 00:07:22,839
+or plumbing work you're not licensed for.
+
+228
+00:07:23,189 --> 00:07:24,628
+Idea number five.
+
+229
+00:07:24,808 --> 00:07:26,515
+Window and gutter cleaning.
+
+230
+00:07:26,865 --> 00:07:29,374
+Gutters need cleaning once or twice a
+
+231
+00:07:29,374 --> 00:07:32,562
+year, and storefronts want clean windows weekly
+
+232
+00:07:32,562 --> 00:07:33,308
+or monthly.
+
+233
+00:07:33,488 --> 00:07:34,518
+It's simple work,
+
+234
+00:07:34,518 --> 00:07:37,122
+and happy customers rebook year after year.
+
+235
+00:07:37,472 --> 00:07:38,881
+Lean start: ladders,
+
+236
+00:07:38,881 --> 00:07:42,193
+safety equipment, cleaning tools and insurance,
+
+237
+00:07:42,193 --> 00:07:44,519
+often under two thousand dollars.
+
+238
+00:07:44,699 --> 00:07:46,097
+Safety is critical,
+
+239
+00:07:46,097 --> 00:07:48,746
+so get proper training and never cut
+
+240
+00:07:48,746 --> 00:07:50,144
+corners on ladders.
+
+241
+00:07:50,324 --> 00:07:51,619
+Offer an annual plan,
+
+242
+00:07:51,619 --> 00:07:53,901
+and book next year's visit before you
+
+243
+00:07:53,901 --> 00:07:54,271
+leave.
+
+244
+00:07:54,622 --> 00:07:56,235
+Idea number six.
+
+245
+00:07:56,415 --> 00:07:58,099
+Holiday light installation.
+
+246
+00:07:58,449 --> 00:08:01,591
+Many homeowners love holiday lights but hate
+
+247
+00:08:01,591 --> 00:08:03,661
+climbing ladders in the cold.
+
+248
+00:08:03,841 --> 00:08:05,778
+Installation services put them up,
+
+249
+00:08:05,778 --> 00:08:07,487
+take them down and store them.
+
+250
+00:08:07,667 --> 00:08:09,402
+It's seasonal, but it can be a
+
+251
+00:08:09,402 --> 00:08:11,369
+strong burst of income in the fall
+
+252
+00:08:11,369 --> 00:08:13,336
+and winter, and it pairs well with
+
+253
+00:08:13,336 --> 00:08:14,261
+gutter cleaning.
+
+254
+00:08:14,612 --> 00:08:16,118
+Lean start: ladders,
+
+255
+00:08:16,118 --> 00:08:17,548
+clips, safety gear,
+
+256
+00:08:17,548 --> 00:08:21,087
+insurance, and either customer lights or lights
+
+257
+00:08:21,087 --> 00:08:22,367
+you rent to them.
+
+258
+00:08:22,547 --> 00:08:25,333
+Market early, in September and October.
+
+259
+00:08:25,513 --> 00:08:27,907
+Offer removal and storage as part of
+
+260
+00:08:27,907 --> 00:08:31,164
+the package, so customers come back automatically
+
+261
+00:08:31,164 --> 00:08:31,829
+next year.
+
+262
+00:08:32,180 --> 00:08:33,457
+Idea number seven.
+
+263
+00:08:33,637 --> 00:08:35,285
+Junk hauling and moving help.
+
+264
+00:08:35,636 --> 00:08:38,236
+Moves, cleanouts, renovations.
+
+265
+00:08:38,416 --> 00:08:40,611
+People pay to have things lifted,
+
+266
+00:08:40,611 --> 00:08:42,073
+loaded and taken away.
+
+267
+00:08:42,253 --> 00:08:44,002
+If you have a truck or can
+
+268
+00:08:44,002 --> 00:08:46,490
+rent one, you can start offering junk
+
+269
+00:08:46,490 --> 00:08:48,709
+removal and moving labor quickly.
+
+270
+00:08:49,059 --> 00:08:51,541
+Lean start: if you own a pickup
+
+271
+00:08:51,541 --> 00:08:53,143
+or can rent a truck,
+
+272
+00:08:53,143 --> 00:08:55,145
+mainly insurance, straps,
+
+273
+00:08:55,145 --> 00:08:56,907
+dollies and dump fees.
+
+274
+00:08:57,087 --> 00:08:58,969
+Price carefully to cover fuel,
+
+275
+00:08:58,969 --> 00:09:00,663
+dump charges and your time.
+
+276
+00:09:00,843 --> 00:09:04,147
+Relationships with real estate agents and property
+
+277
+00:09:04,147 --> 00:09:06,195
+managers can bring steady work.
+
+278
+00:09:06,545 --> 00:09:09,679
+Now, services for people and their pets.
+
+279
+00:09:10,030 --> 00:09:11,283
+Idea number eight.
+
+280
+00:09:11,463 --> 00:09:13,414
+Pet sitting and dog walking.
+
+281
+00:09:13,764 --> 00:09:17,182
+The American Pet Products Association reported that
+
+282
+00:09:17,182 --> 00:09:20,332
+Americans spent about one hundred fifty billion
+
+283
+00:09:20,332 --> 00:09:22,879
+dollars on their pets in twenty twenty
+
+284
+00:09:22,879 --> 00:09:23,214
+four.
+
+285
+00:09:23,394 --> 00:09:25,326
+Busy owners need dogs walked,
+
+286
+00:09:25,326 --> 00:09:27,125
+pets fed while they travel,
+
+287
+00:09:27,125 --> 00:09:29,524
+and someone trustworthy to check in.
+
+288
+00:09:29,875 --> 00:09:32,900
+Lean start: almost nothing beyond insurance,
+
+289
+00:09:32,900 --> 00:09:34,894
+a basic pet first aid course,
+
+290
+00:09:34,894 --> 00:09:37,438
+and maybe a background check to build
+
+291
+00:09:37,438 --> 00:09:37,851
+trust.
+
+292
+00:09:38,031 --> 00:09:40,287
+Apps can help you find first clients,
+
+293
+00:09:40,287 --> 00:09:42,361
+then you can build your own direct
+
+294
+00:09:42,361 --> 00:09:43,093
+client list.
+
+295
+00:09:43,273 --> 00:09:45,802
+Reliability and great communication,
+
+296
+00:09:45,802 --> 00:09:47,910
+like photos after every visit,
+
+297
+00:09:47,910 --> 00:09:50,088
+are what build loyal customers.
+
+298
+00:09:50,438 --> 00:09:51,796
+Idea number nine.
+
+299
+00:09:51,976 --> 00:09:53,543
+Mobile car detailing.
+
+300
+00:09:53,894 --> 00:09:56,471
+Instead of customers driving to a car
+
+301
+00:09:56,471 --> 00:09:57,934
+wash, you go to them,
+
+302
+00:09:57,934 --> 00:09:59,257
+at home or at work,
+
+303
+00:09:59,257 --> 00:10:01,696
+and clean their car inside and out.
+
+304
+00:10:01,876 --> 00:10:04,100
+Busy people pay for convenience,
+
+305
+00:10:04,100 --> 00:10:06,742
+and a full interior detail can command
+
+306
+00:10:06,742 --> 00:10:07,715
+a solid price.
+
+307
+00:10:08,066 --> 00:10:09,650
+Lean start: a vacuum,
+
+308
+00:10:09,650 --> 00:10:11,839
+extractor, cleaning products,
+
+309
+00:10:11,839 --> 00:10:14,178
+towels and a water source plan,
+
+310
+00:10:14,178 --> 00:10:16,820
+often a couple of thousand dollars.
+
+311
+00:10:17,000 --> 00:10:19,565
+Check local rules on water runoff.
+
+312
+00:10:19,745 --> 00:10:23,349
+Offer monthly maintenance packages for regular customers,
+
+313
+00:10:23,349 --> 00:10:26,257
+and approach small businesses that own vehicle
+
+314
+00:10:26,257 --> 00:10:26,700
+fleets.
+
+315
+00:10:27,050 --> 00:10:28,211
+Idea number ten.
+
+316
+00:10:28,391 --> 00:10:28,959
+Tutoring.
+
+317
+00:10:29,310 --> 00:10:31,820
+Parents spend money on test prep,
+
+318
+00:10:31,820 --> 00:10:35,242
+math help, reading support and music lessons.
+
+319
+00:10:35,422 --> 00:10:37,280
+If you're strong in a subject,
+
+320
+00:10:37,280 --> 00:10:39,199
+tutoring can pay well per hour,
+
+321
+00:10:39,199 --> 00:10:41,862
+and online sessions mean you're not limited
+
+322
+00:10:41,862 --> 00:10:42,667
+to your town.
+
+323
+00:10:43,017 --> 00:10:45,670
+Lean start: almost free if you already
+
+324
+00:10:45,670 --> 00:10:47,556
+have a laptop and internet.
+
+325
+00:10:47,736 --> 00:10:48,883
+A simple website,
+
+326
+00:10:48,883 --> 00:10:51,177
+a few reviews from early students,
+
+327
+00:10:51,177 --> 00:10:54,280
+and relationships with local schools or parent
+
+328
+00:10:54,280 --> 00:10:56,304
+groups can fill your schedule.
+
+329
+00:10:56,484 --> 00:10:59,738
+Specializing, like SAT math or adult English
+
+330
+00:10:59,738 --> 00:11:02,475
+learners, often lets you charge more.
+
+331
+00:11:02,825 --> 00:11:04,113
+Idea number eleven.
+
+332
+00:11:04,293 --> 00:11:05,385
+Personal training.
+
+333
+00:11:05,735 --> 00:11:08,771
+People pay for accountability and expertise to
+
+334
+00:11:08,771 --> 00:11:09,299
+get fit.
+
+335
+00:11:09,479 --> 00:11:11,837
+Trainers work in clients' homes,
+
+336
+00:11:11,837 --> 00:11:13,090
+in parks, online,
+
+337
+00:11:13,090 --> 00:11:16,259
+or in gyms that allow independent trainers.
+
+338
+00:11:16,609 --> 00:11:19,542
+Lean start: a recognized certification,
+
+339
+00:11:19,542 --> 00:11:22,926
+insurance, and basic equipment like bands and
+
+340
+00:11:22,926 --> 00:11:23,528
+weights.
+
+341
+00:11:23,708 --> 00:11:26,065
+Often under two thousand dollars in total.
+
+342
+00:11:26,245 --> 00:11:28,459
+Start with small group sessions in a
+
+343
+00:11:28,459 --> 00:11:30,550
+park to lower the price per person
+
+344
+00:11:30,550 --> 00:11:32,456
+and raise your hourly earnings.
+
+345
+00:11:32,807 --> 00:11:33,828
+Quick pause.
+
+346
+00:11:34,008 --> 00:11:36,231
+If one of these businesses is speaking
+
+347
+00:11:36,231 --> 00:11:37,869
+to you, tell me which one in
+
+348
+00:11:37,869 --> 00:11:38,629
+the comments.
+
+349
+00:11:38,809 --> 00:11:41,693
+And subscribe, because this series keeps going
+
+350
+00:11:41,693 --> 00:11:43,386
+with how to buy a business,
+
+351
+00:11:43,386 --> 00:11:46,082
+the real numbers behind laundromats and car
+
+352
+00:11:46,082 --> 00:11:48,527
+washes, and side hustles that turn into
+
+353
+00:11:48,527 --> 00:11:49,467
+real companies.
+
+354
+00:11:49,647 --> 00:11:51,284
+Now, idea twelve.
+
+355
+00:11:51,464 --> 00:11:52,997
+The next few you can run from
+
+356
+00:11:52,997 --> 00:11:53,473
+a laptop.
+
+357
+00:11:53,823 --> 00:11:55,274
+Idea number twelve.
+
+358
+00:11:55,454 --> 00:11:56,313
+Bookkeeping.
+
+359
+00:11:56,663 --> 00:11:59,243
+Small businesses need their books kept,
+
+360
+00:11:59,243 --> 00:12:02,221
+receipts categorized and accounts reconciled,
+
+361
+00:12:02,221 --> 00:12:03,478
+every single month.
+
+362
+00:12:03,658 --> 00:12:06,669
+Monthly bookkeeping clients are recurring revenue,
+
+363
+00:12:06,669 --> 00:12:08,596
+and once you've set up a client,
+
+364
+00:12:08,596 --> 00:12:10,101
+the work becomes routine.
+
+365
+00:12:10,452 --> 00:12:14,627
+Lean start: accounting software training or certification,
+
+366
+00:12:14,627 --> 00:12:17,434
+which some providers offer at low cost,
+
+367
+00:12:17,434 --> 00:12:18,370
+and a laptop.
+
+368
+00:12:18,550 --> 00:12:20,641
+Start with a few small businesses you
+
+369
+00:12:20,641 --> 00:12:21,545
+know personally.
+
+370
+00:12:21,725 --> 00:12:24,132
+Be clear about where bookkeeping ends and
+
+371
+00:12:24,132 --> 00:12:25,188
+tax advice begins,
+
+372
+00:12:25,188 --> 00:12:27,478
+and partner with a tax professional for
+
+373
+00:12:27,478 --> 00:12:28,006
+the rest.
+
+374
+00:12:28,356 --> 00:12:29,888
+Idea number thirteen.
+
+375
+00:12:30,068 --> 00:12:32,889
+Social media management for local businesses.
+
+376
+00:12:33,240 --> 00:12:36,593
+Restaurants, salons, contractors and shops know they
+
+377
+00:12:36,593 --> 00:12:37,818
+should post online,
+
+378
+00:12:37,818 --> 00:12:39,172
+but they're too busy.
+
+379
+00:12:39,352 --> 00:12:41,597
+Managing their accounts for a monthly fee
+
+380
+00:12:41,597 --> 00:12:43,021
+creates recurring revenue.
+
+381
+00:12:43,371 --> 00:12:44,972
+Lean start: a phone,
+
+382
+00:12:44,972 --> 00:12:47,615
+a laptop and free or cheap design
+
+383
+00:12:47,615 --> 00:12:48,096
+tools.
+
+384
+00:12:48,276 --> 00:12:50,649
+Build a portfolio by helping one or
+
+385
+00:12:50,649 --> 00:12:52,615
+two businesses at a low rate,
+
+386
+00:12:52,615 --> 00:12:54,107
+and show real results,
+
+387
+00:12:54,107 --> 00:12:56,345
+like more bookings or more calls.
+
+388
+00:12:56,525 --> 00:12:58,073
+Focus on one industry,
+
+389
+00:12:58,073 --> 00:13:01,099
+like restaurants, so you become the expert.
+
+390
+00:13:01,449 --> 00:13:03,004
+Idea number fourteen.
+
+391
+00:13:03,184 --> 00:13:05,239
+Virtual assistant services.
+
+392
+00:13:05,590 --> 00:13:08,640
+Email, scheduling, customer service,
+
+393
+00:13:08,640 --> 00:13:10,419
+data entry, research.
+
+394
+00:13:10,599 --> 00:13:13,629
+Busy professionals and small business owners pay
+
+395
+00:13:13,629 --> 00:13:15,775
+for help with tasks that eat their
+
+396
+00:13:15,775 --> 00:13:16,091
+time.
+
+397
+00:13:16,271 --> 00:13:18,070
+You can do this from anywhere with
+
+398
+00:13:18,070 --> 00:13:18,546
+internet.
+
+399
+00:13:18,897 --> 00:13:20,441
+Lean start: a laptop,
+
+400
+00:13:20,441 --> 00:13:23,088
+internet and a professional profile.
+
+401
+00:13:23,268 --> 00:13:24,821
+Start with hourly work,
+
+402
+00:13:24,821 --> 00:13:27,724
+then move to monthly retainers once clients
+
+403
+00:13:27,724 --> 00:13:28,399
+trust you.
+
+404
+00:13:28,579 --> 00:13:32,363
+Specializing, like assisting real estate agents or
+
+405
+00:13:32,363 --> 00:13:34,860
+podcasters, can raise your rates.
+
+406
+00:13:35,211 --> 00:13:36,801
+Idea number fifteen.
+
+407
+00:13:36,981 --> 00:13:39,268
+Resume writing and career coaching.
+
+408
+00:13:39,619 --> 00:13:42,127
+People pay for help when they're changing
+
+409
+00:13:42,127 --> 00:13:45,003
+careers, applying for promotions or coming back
+
+410
+00:13:45,003 --> 00:13:45,737
+after a gap.
+
+411
+00:13:45,917 --> 00:13:48,608
+A strong resume and interview practice can
+
+412
+00:13:48,608 --> 00:13:50,146
+change someone's income,
+
+413
+00:13:50,146 --> 00:13:52,581
+which makes the service easy to value.
+
+414
+00:13:52,932 --> 00:13:55,648
+Lean start: a laptop and examples of
+
+415
+00:13:55,648 --> 00:13:56,403
+your work.
+
+416
+00:13:56,583 --> 00:13:58,977
+If you have experience in hiring or
+
+417
+00:13:58,977 --> 00:14:00,549
+in a specific industry,
+
+418
+00:14:00,549 --> 00:14:01,575
+lead with that.
+
+419
+00:14:01,755 --> 00:14:04,370
+Testimonials from clients who got hired are
+
+420
+00:14:04,370 --> 00:14:05,587
+your best marketing.
+
+421
+00:14:05,937 --> 00:14:07,701
+Idea number sixteen.
+
+422
+00:14:07,881 --> 00:14:08,857
+Photography.
+
+423
+00:14:09,207 --> 00:14:12,675
+Families, graduations, real estate listings,
+
+424
+00:14:12,675 --> 00:14:14,567
+small business products,
+
+425
+00:14:14,567 --> 00:14:15,592
+local events.
+
+426
+00:14:15,772 --> 00:14:17,843
+If you already own a decent camera
+
+427
+00:14:17,843 --> 00:14:19,245
+and know how to use it,
+
+428
+00:14:19,245 --> 00:14:21,194
+you can start booking paid work.
+
+429
+00:14:21,544 --> 00:14:23,730
+Lean start: if you own a camera
+
+430
+00:14:23,730 --> 00:14:27,116
+and lens, mainly editing software and insurance.
+
+431
+00:14:27,296 --> 00:14:30,492
+Real estate photography can be especially steady,
+
+432
+00:14:30,492 --> 00:14:33,426
+because agents need photos for every listing.
+
+433
+00:14:33,606 --> 00:14:35,992
+Build a portfolio with a few free
+
+434
+00:14:35,992 --> 00:14:37,511
+or discounted shoots,
+
+435
+00:14:37,511 --> 00:14:39,969
+then raise prices as demand grows.
+
+436
+00:14:40,319 --> 00:14:41,661
+And the last four:
+
+437
+00:14:41,661 --> 00:14:44,568
+buying, selling and specialty services.
+
+438
+00:14:44,918 --> 00:14:46,589
+Idea number seventeen.
+
+439
+00:14:46,769 --> 00:14:47,571
+Reselling.
+
+440
+00:14:47,921 --> 00:14:51,039
+Some people make real income buying underpriced
+
+441
+00:14:51,039 --> 00:14:52,565
+items at thrift stores,
+
+442
+00:14:52,565 --> 00:14:54,555
+garage sales and estate sales,
+
+443
+00:14:54,555 --> 00:14:56,280
+and reselling them online.
+
+444
+00:14:56,460 --> 00:14:59,460
+Furniture, tools, vintage clothing,
+
+445
+00:14:59,460 --> 00:15:00,488
+electronics.
+
+446
+00:15:00,668 --> 00:15:02,971
+The skill is knowing what sells and
+
+447
+00:15:02,971 --> 00:15:03,826
+for how much.
+
+448
+00:15:04,177 --> 00:15:06,769
+Lean start: a few hundred dollars of
+
+449
+00:15:06,769 --> 00:15:09,146
+inventory and a phone for photos.
+
+450
+00:15:09,326 --> 00:15:11,416
+Start with a category you know well.
+
+451
+00:15:11,596 --> 00:15:13,548
+Track every purchase and sale,
+
+452
+00:15:13,548 --> 00:15:16,217
+because profit is what's left after fees,
+
+453
+00:15:16,217 --> 00:15:17,714
+shipping and your time.
+
+454
+00:15:17,894 --> 00:15:20,773
+Reinvest profits into inventory to grow.
+
+455
+00:15:21,124 --> 00:15:22,726
+Idea number eighteen.
+
+456
+00:15:22,906 --> 00:15:24,020
+Furniture flipping.
+
+457
+00:15:24,371 --> 00:15:25,885
+Old solid wood dressers,
+
+458
+00:15:25,885 --> 00:15:28,409
+tables and chairs can be bought cheaply,
+
+459
+00:15:28,409 --> 00:15:30,617
+refinished, and sold for much more.
+
+460
+00:15:30,797 --> 00:15:32,001
+People love unique,
+
+461
+00:15:32,001 --> 00:15:34,347
+sturdy furniture, and a good flip can
+
+462
+00:15:34,347 --> 00:15:35,615
+sell quickly online.
+
+463
+00:15:35,965 --> 00:15:37,547
+Lean start: sanders,
+
+464
+00:15:37,547 --> 00:15:40,395
+paint, hardware and a place to work,
+
+465
+00:15:40,395 --> 00:15:41,503
+like a garage.
+
+466
+00:15:41,683 --> 00:15:43,129
+Start with one piece,
+
+467
+00:15:43,129 --> 00:15:45,059
+document the transformation,
+
+468
+00:15:45,059 --> 00:15:45,885
+and post it.
+
+469
+00:15:46,065 --> 00:15:48,507
+Many flippers find their before and after
+
+470
+00:15:48,507 --> 00:15:50,651
+posts become their best advertising.
+
+471
+00:15:51,002 --> 00:15:52,592
+Idea number nineteen.
+
+472
+00:15:52,772 --> 00:15:55,442
+Mobile notary and loan signing agent.
+
+473
+00:15:55,793 --> 00:15:59,699
+Mortgages, refinances, real estate deals and legal
+
+474
+00:15:59,699 --> 00:16:01,574
+documents need a notary.
+
+475
+00:16:01,754 --> 00:16:03,938
+Mobile notaries travel to clients,
+
+476
+00:16:03,938 --> 00:16:06,956
+and loan signing agents guide borrowers through
+
+477
+00:16:06,956 --> 00:16:10,102
+closing documents for title and escrow companies.
+
+478
+00:16:10,452 --> 00:16:13,525
+Lean start: your state's notary commission,
+
+479
+00:16:13,525 --> 00:16:16,455
+training, a bond and errors and omissions
+
+480
+00:16:16,455 --> 00:16:18,242
+insurance where required.
+
+481
+00:16:18,422 --> 00:16:20,523
+Costs are often a few hundred dollars.
+
+482
+00:16:20,703 --> 00:16:22,848
+Requirements vary a lot by state,
+
+483
+00:16:22,848 --> 00:16:25,057
+so check your state's rules first.
+
+484
+00:16:25,237 --> 00:16:28,081
+Building relationships with title companies is the
+
+485
+00:16:28,081 --> 00:16:29,161
+key to steady work.
+
+486
+00:16:29,512 --> 00:16:30,916
+Idea number twenty.
+
+487
+00:16:31,096 --> 00:16:33,535
+Errand and senior assistance services.
+
+488
+00:16:33,885 --> 00:16:36,817
+Groceries, prescriptions, dry cleaning,
+
+489
+00:16:36,817 --> 00:16:38,471
+rides to appointments.
+
+490
+00:16:38,651 --> 00:16:41,200
+Older adults and busy families often need
+
+491
+00:16:41,200 --> 00:16:42,319
+help with errands.
+
+492
+00:16:42,499 --> 00:16:45,371
+A trusted local errand service can build
+
+493
+00:16:45,371 --> 00:16:47,167
+loyal, recurring clients.
+
+494
+00:16:47,517 --> 00:16:49,457
+Lean start: a reliable car,
+
+495
+00:16:49,457 --> 00:16:51,972
+insurance that covers business use,
+
+496
+00:16:51,972 --> 00:16:54,703
+and a background check to build trust.
+
+497
+00:16:54,883 --> 00:16:58,027
+Partner with senior centers or local churches
+
+498
+00:16:58,027 --> 00:16:59,144
+to find clients.
+
+499
+00:16:59,324 --> 00:17:02,668
+Reliability and kindness are the whole business.
+
+500
+00:17:03,018 --> 00:17:05,502
+Let's see how this works in practice.
+
+501
+00:17:05,682 --> 00:17:06,995
+Three example people,
+
+502
+00:17:06,995 --> 00:17:08,370
+made up but realistic,
+
+503
+00:17:08,370 --> 00:17:11,057
+each starting with less than three thousand
+
+504
+00:17:11,057 --> 00:17:11,557
+dollars.
+
+505
+00:17:11,907 --> 00:17:13,485
+Brianna, twenty six,
+
+506
+00:17:13,485 --> 00:17:15,378
+works as a receptionist.
+
+507
+00:17:15,558 --> 00:17:18,462
+She starts cleaning houses on Saturdays with
+
+508
+00:17:18,462 --> 00:17:20,574
+six hundred dollars of supplies.
+
+509
+00:17:20,754 --> 00:17:23,094
+Her first three clients are her coworkers'
+
+510
+00:17:23,094 --> 00:17:23,540
+parents.
+
+511
+00:17:23,720 --> 00:17:26,070
+She asks every client for a review,
+
+512
+00:17:26,070 --> 00:17:28,421
+and within six months she has eight
+
+513
+00:17:28,421 --> 00:17:31,510
+recurring clients, about two Saturdays a week.
+
+514
+00:17:31,690 --> 00:17:34,512
+She sets aside thirty percent for taxes
+
+515
+00:17:34,512 --> 00:17:36,611
+and invests a big part of the
+
+516
+00:17:36,611 --> 00:17:36,973
+rest.
+
+517
+00:17:37,153 --> 00:17:37,996
+After a year,
+
+518
+00:17:37,996 --> 00:17:40,462
+she hires a helper and starts thinking
+
+519
+00:17:40,462 --> 00:17:41,890
+about leaving her job.
+
+520
+00:17:42,240 --> 00:17:43,375
+Tom, forty one,
+
+521
+00:17:43,375 --> 00:17:45,721
+is an accountant at a mid sized
+
+522
+00:17:45,721 --> 00:17:46,326
+company.
+
+523
+00:17:46,506 --> 00:17:49,600
+He starts bookkeeping for three small businesses
+
+524
+00:17:49,600 --> 00:17:50,632
+in the evenings,
+
+525
+00:17:50,632 --> 00:17:52,695
+using software he already knows.
+
+526
+00:17:52,875 --> 00:17:54,837
+Each client pays a monthly fee.
+
+527
+00:17:55,017 --> 00:17:56,101
+After two years,
+
+528
+00:17:56,101 --> 00:17:57,659
+he has a dozen clients,
+
+529
+00:17:57,659 --> 00:17:59,894
+and his side income rivals a good
+
+530
+00:17:59,894 --> 00:18:01,181
+part of his salary.
+
+531
+00:18:01,361 --> 00:18:03,010
+He's in no rush to quit.
+
+532
+00:18:03,190 --> 00:18:05,480
+The extra income goes straight into his
+
+533
+00:18:05,480 --> 00:18:08,240
+retirement accounts and his kids' college fund.
+
+534
+00:18:08,591 --> 00:18:09,935
+Rosa, fifty five,
+
+535
+00:18:09,935 --> 00:18:12,387
+recently retired from teaching.
+
+536
+00:18:12,567 --> 00:18:14,910
+She becomes a mobile notary and loan
+
+537
+00:18:14,910 --> 00:18:17,840
+signing agent, spending a few hundred dollars
+
+538
+00:18:17,840 --> 00:18:19,011
+on her commission,
+
+539
+00:18:19,011 --> 00:18:20,508
+training and insurance.
+
+540
+00:18:20,688 --> 00:18:23,766
+She builds relationships with two local title
+
+541
+00:18:23,766 --> 00:18:26,365
+companies and works three or four days
+
+542
+00:18:26,365 --> 00:18:28,212
+a week on her own schedule.
+
+543
+00:18:28,392 --> 00:18:30,893
+The extra income lets her delay Social
+
+544
+00:18:30,893 --> 00:18:34,185
+Security, which raises her future monthly benefit.
+
+545
+00:18:34,535 --> 00:18:35,927
+Three different people,
+
+546
+00:18:35,927 --> 00:18:37,379
+three different reasons.
+
+547
+00:18:37,559 --> 00:18:39,533
+Brianna wants to build a company.
+
+548
+00:18:39,713 --> 00:18:41,849
+Tom wants to accelerate his wealth.
+
+549
+00:18:42,029 --> 00:18:45,175
+Rosa wants flexible income in early retirement.
+
+550
+00:18:45,355 --> 00:18:47,120
+None of them risked their savings.
+
+551
+00:18:47,300 --> 00:18:49,484
+All of them started with what they
+
+552
+00:18:49,484 --> 00:18:50,768
+already had: skills,
+
+553
+00:18:50,768 --> 00:18:53,080
+relationships and a few hundred to a
+
+554
+00:18:53,080 --> 00:18:54,429
+few thousand dollars.
+
+555
+00:18:54,779 --> 00:18:56,604
+Notice also what they did with the
+
+556
+00:18:56,604 --> 00:18:56,927
+money.
+
+557
+00:18:57,107 --> 00:18:59,208
+Brianna invested a big share.
+
+558
+00:18:59,388 --> 00:19:02,070
+Tom sent it to retirement and college
+
+559
+00:19:02,070 --> 00:19:02,650
+savings.
+
+560
+00:19:02,830 --> 00:19:05,408
+Rosa used it to delay Social Security.
+
+561
+00:19:05,588 --> 00:19:08,336
+A side business is most powerful when
+
+562
+00:19:08,336 --> 00:19:09,895
+its income has a job.
+
+563
+00:19:10,075 --> 00:19:11,102
+Without a plan,
+
+564
+00:19:11,102 --> 00:19:14,114
+side income tends to disappear into everyday
+
+565
+00:19:14,114 --> 00:19:16,989
+spending, and a year later there's nothing
+
+566
+00:19:16,989 --> 00:19:19,317
+to show for all those extra hours.
+
+567
+00:19:19,497 --> 00:19:21,902
+Decide before the first payment arrives where
+
+568
+00:19:21,902 --> 00:19:22,863
+the money will go.
+
+569
+00:19:23,214 --> 00:19:24,648
+Before the psychology,
+
+570
+00:19:24,648 --> 00:19:27,126
+let's talk about the one decision that
+
+571
+00:19:27,126 --> 00:19:29,800
+makes or breaks small service businesses:
+
+572
+00:19:29,800 --> 00:19:30,191
+price.
+
+573
+00:19:30,542 --> 00:19:33,084
+Start with what competitors charge.
+
+574
+00:19:33,264 --> 00:19:36,173
+Call three local businesses offering the same
+
+575
+00:19:36,173 --> 00:19:37,983
+service and ask for a quote,
+
+576
+00:19:37,983 --> 00:19:40,439
+or look at their websites and reviews.
+
+577
+00:19:40,619 --> 00:19:42,012
+That gives you a range.
+
+578
+00:19:42,192 --> 00:19:43,026
+As a beginner,
+
+579
+00:19:43,026 --> 00:19:45,468
+you might start slightly below the middle
+
+580
+00:19:45,468 --> 00:19:46,302
+of that range,
+
+581
+00:19:46,302 --> 00:19:48,148
+but almost never at the bottom.
+
+582
+00:19:48,328 --> 00:19:51,010
+The cheapest price attracts the customers who
+
+583
+00:19:51,010 --> 00:19:52,798
+complain most and pay slowest.
+
+584
+00:19:53,148 --> 00:19:54,309
+Then do your own math.
+
+585
+00:19:54,489 --> 00:19:56,937
+Add up your real costs per job:
+
+586
+00:19:56,937 --> 00:20:00,885
+supplies, fuel, insurance spread across your jobs,
+
+587
+00:20:00,885 --> 00:20:04,043
+equipment wear, payment processing fees,
+
+588
+00:20:04,043 --> 00:20:04,833
+and taxes.
+
+589
+00:20:05,013 --> 00:20:07,040
+Then decide what you want to earn
+
+590
+00:20:07,040 --> 00:20:08,391
+per hour of your time,
+
+591
+00:20:08,391 --> 00:20:10,110
+including driving and admin.
+
+592
+00:20:10,290 --> 00:20:12,560
+If the market price doesn't cover that,
+
+593
+00:20:12,560 --> 00:20:14,946
+either the business doesn't work for you,
+
+594
+00:20:14,946 --> 00:20:17,100
+or you need to work more efficiently,
+
+595
+00:20:17,100 --> 00:20:18,963
+for example with tighter routes.
+
+596
+00:20:19,313 --> 00:20:21,320
+Next, think in packages,
+
+597
+00:20:21,320 --> 00:20:22,157
+not hours.
+
+598
+00:20:22,337 --> 00:20:25,250
+Customers understand a clear price for a
+
+599
+00:20:25,250 --> 00:20:27,653
+clear result: a full house clean,
+
+600
+00:20:27,653 --> 00:20:29,765
+a driveway and sidewalk wash,
+
+601
+00:20:29,765 --> 00:20:31,950
+a monthly bookkeeping package.
+
+602
+00:20:32,130 --> 00:20:34,998
+Packages also reward you for getting faster.
+
+603
+00:20:35,178 --> 00:20:36,581
+If you charge by the hour,
+
+604
+00:20:36,581 --> 00:20:38,631
+getting better at your job lowers your
+
+605
+00:20:38,631 --> 00:20:39,009
+income.
+
+606
+00:20:39,189 --> 00:20:40,931
+If you charge by the result,
+
+607
+00:20:40,931 --> 00:20:42,486
+getting better raises it.
+
+608
+00:20:42,837 --> 00:20:45,193
+And finally, raise prices regularly.
+
+609
+00:20:45,373 --> 00:20:48,238
+Many owners raise prices for new customers
+
+610
+00:20:48,238 --> 00:20:51,034
+first, then for existing customers once a
+
+611
+00:20:51,034 --> 00:20:52,943
+year, with plenty of notice.
+
+612
+00:20:53,123 --> 00:20:55,241
+If nobody ever pushes back on your
+
+613
+00:20:55,241 --> 00:20:57,047
+price, it's probably too low.
+
+614
+00:20:57,227 --> 00:20:59,907
+A few lost price sensitive customers are
+
+615
+00:20:59,907 --> 00:21:02,520
+often replaced by better ones who value
+
+616
+00:21:02,520 --> 00:21:03,056
+quality.
+
+617
+00:21:03,406 --> 00:21:05,469
+You don't need an advertising budget to
+
+618
+00:21:05,469 --> 00:21:07,109
+get your first fifty customers.
+
+619
+00:21:07,289 --> 00:21:09,632
+Here are eight free or nearly free
+
+620
+00:21:09,632 --> 00:21:12,595
+ways local service businesses find clients.
+
+621
+00:21:12,945 --> 00:21:13,154
+One.
+
+622
+00:21:13,334 --> 00:21:14,762
+Tell everyone you know.
+
+623
+00:21:14,942 --> 00:21:17,283
+Friends, family, coworkers,
+
+624
+00:21:17,283 --> 00:21:19,191
+your gym, your church.
+
+625
+00:21:19,371 --> 00:21:21,743
+Most first customers come from people who
+
+626
+00:21:21,743 --> 00:21:22,784
+already trust you.
+
+627
+00:21:22,964 --> 00:21:23,220
+Two.
+
+628
+00:21:23,400 --> 00:21:25,060
+Free business listings.
+
+629
+00:21:25,240 --> 00:21:27,415
+Set up a free business profile on
+
+630
+00:21:27,415 --> 00:21:29,985
+major map and search services so people
+
+631
+00:21:29,985 --> 00:21:31,962
+searching nearby can find you.
+
+632
+00:21:32,142 --> 00:21:32,595
+Three.
+
+633
+00:21:32,775 --> 00:21:34,708
+Local community groups online,
+
+634
+00:21:34,708 --> 00:21:37,930
+where neighbors ask for recommendations every day.
+
+635
+00:21:38,280 --> 00:21:38,686
+Four.
+
+636
+00:21:38,866 --> 00:21:40,458
+Before and after photos,
+
+637
+00:21:40,458 --> 00:21:42,779
+posted everywhere, with permission.
+
+638
+00:21:42,959 --> 00:21:44,843
+They show your work better than any
+
+639
+00:21:44,843 --> 00:21:45,490
+description.
+
+640
+00:21:45,670 --> 00:21:46,134
+Five.
+
+641
+00:21:46,314 --> 00:21:48,474
+Door hangers or flyers in the exact
+
+642
+00:21:48,474 --> 00:21:50,819
+neighborhood where you just did a job.
+
+643
+00:21:50,999 --> 00:21:52,316
+Neighbors see your work,
+
+644
+00:21:52,316 --> 00:21:53,359
+and they're nearby,
+
+645
+00:21:53,359 --> 00:21:54,841
+so your routes get tighter.
+
+646
+00:21:55,021 --> 00:21:55,590
+Six.
+
+647
+00:21:55,770 --> 00:21:56,688
+Partnerships.
+
+648
+00:21:56,868 --> 00:21:58,077
+Real estate agents,
+
+649
+00:21:58,077 --> 00:22:01,704
+property managers, contractors and other small businesses
+
+650
+00:22:01,704 --> 00:22:03,295
+can send you steady work,
+
+651
+00:22:03,295 --> 00:22:05,141
+and you can send work back to
+
+652
+00:22:05,141 --> 00:22:05,459
+them.
+
+653
+00:22:05,809 --> 00:22:06,087
+Seven.
+
+654
+00:22:06,267 --> 00:22:07,471
+Ask for reviews,
+
+655
+00:22:07,471 --> 00:22:08,299
+every time.
+
+656
+00:22:08,479 --> 00:22:10,174
+Make it easy with a direct link.
+
+657
+00:22:10,354 --> 00:22:12,859
+Reviews compound: each one makes the next
+
+658
+00:22:12,859 --> 00:22:14,998
+customer more likely to choose you.
+
+659
+00:22:15,178 --> 00:22:15,759
+And eight.
+
+660
+00:22:15,939 --> 00:22:17,162
+Ask for referrals,
+
+661
+00:22:17,162 --> 00:22:18,249
+and reward them.
+
+662
+00:22:18,429 --> 00:22:20,767
+A small discount for both the customer
+
+663
+00:22:20,767 --> 00:22:22,859
+and the friend they refer can turn
+
+664
+00:22:22,859 --> 00:22:25,198
+every happy client into a salesperson.
+
+665
+00:22:25,548 --> 00:22:26,906
+The pattern is simple.
+
+666
+00:22:27,086 --> 00:22:27,918
+Do great work,
+
+667
+00:22:27,918 --> 00:22:28,868
+make it visible,
+
+668
+00:22:28,868 --> 00:22:30,650
+and ask for the next customer.
+
+669
+00:22:30,830 --> 00:22:32,052
+It's not glamorous,
+
+670
+00:22:32,052 --> 00:22:34,752
+but it's how most local service businesses
+
+671
+00:22:34,752 --> 00:22:37,002
+grow, especially in the first year,
+
+672
+00:22:37,002 --> 00:22:39,188
+before they ever spend a dollar on
+
+673
+00:22:39,188 --> 00:22:39,445
+ads.
+
+674
+00:22:39,795 --> 00:22:41,848
+Most of these businesses go through the
+
+675
+00:22:41,848 --> 00:22:42,744
+same five stages.
+
+676
+00:22:42,924 --> 00:22:44,644
+Knowing them helps you see where you
+
+677
+00:22:44,644 --> 00:22:45,791
+are and what comes next.
+
+678
+00:22:46,142 --> 00:22:47,070
+Stage one.
+
+679
+00:22:47,250 --> 00:22:47,935
+The test.
+
+680
+00:22:48,115 --> 00:22:49,887
+You're doing the work yourself,
+
+681
+00:22:49,887 --> 00:22:50,973
+a few hours a week,
+
+682
+00:22:50,973 --> 00:22:53,259
+and finding out whether people will pay.
+
+683
+00:22:53,439 --> 00:22:54,808
+The goal is proof,
+
+684
+00:22:54,808 --> 00:22:55,644
+not profit.
+
+685
+00:22:55,824 --> 00:22:57,044
+Stage two.
+
+686
+00:22:57,224 --> 00:22:58,326
+The side income.
+
+687
+00:22:58,506 --> 00:23:00,012
+You have regular customers,
+
+688
+00:23:00,012 --> 00:23:01,963
+and the business pays a few hundred
+
+689
+00:23:01,963 --> 00:23:03,859
+to a few thousand dollars a month.
+
+690
+00:23:04,039 --> 00:23:05,810
+You're still working your job,
+
+691
+00:23:05,810 --> 00:23:08,112
+and the extra money goes toward savings
+
+692
+00:23:08,112 --> 00:23:08,938
+and investing.
+
+693
+00:23:09,288 --> 00:23:10,472
+Stage three.
+
+694
+00:23:10,652 --> 00:23:11,708
+The decision.
+
+695
+00:23:11,888 --> 00:23:13,758
+The business has grown to the point
+
+696
+00:23:13,758 --> 00:23:15,627
+where it competes with your job for
+
+697
+00:23:15,627 --> 00:23:15,894
+time.
+
+698
+00:23:16,074 --> 00:23:18,454
+This is where many owners either stay
+
+699
+00:23:18,454 --> 00:23:19,805
+part time on purpose,
+
+700
+00:23:19,805 --> 00:23:21,284
+or plan a careful leap,
+
+701
+00:23:21,284 --> 00:23:23,921
+with an emergency fund and several months
+
+702
+00:23:23,921 --> 00:23:25,594
+of steady business income.
+
+703
+00:23:25,774 --> 00:23:26,749
+Stage four.
+
+704
+00:23:26,929 --> 00:23:28,055
+The first hire.
+
+705
+00:23:28,235 --> 00:23:29,725
+You bring in a helper or an
+
+706
+00:23:29,725 --> 00:23:32,153
+employee, and your role starts shifting from
+
+707
+00:23:32,153 --> 00:23:33,808
+doing the work to managing it.
+
+708
+00:23:34,158 --> 00:23:35,307
+And stage five.
+
+709
+00:23:35,487 --> 00:23:36,137
+The asset.
+
+710
+00:23:36,317 --> 00:23:38,524
+The business runs on systems and a
+
+711
+00:23:38,524 --> 00:23:41,704
+team, with recurring customers and clean records.
+
+712
+00:23:41,884 --> 00:23:42,794
+At this point,
+
+713
+00:23:42,794 --> 00:23:44,160
+it's not just income.
+
+714
+00:23:44,340 --> 00:23:46,478
+It's something with real value that could
+
+715
+00:23:46,478 --> 00:23:47,312
+be sold one day.
+
+716
+00:23:47,492 --> 00:23:49,879
+Not every business needs to reach stage
+
+717
+00:23:49,879 --> 00:23:50,185
+five.
+
+718
+00:23:50,365 --> 00:23:52,636
+But knowing it exists changes how you
+
+719
+00:23:52,636 --> 00:23:53,802
+build from day one.
+
+720
+00:23:54,152 --> 00:23:55,057
+Angle two.
+
+721
+00:23:55,237 --> 00:23:56,259
+The psychology.
+
+722
+00:23:56,439 --> 00:23:58,580
+The hardest part of starting a small
+
+723
+00:23:58,580 --> 00:24:00,305
+business usually isn't money.
+
+724
+00:24:00,485 --> 00:24:01,507
+It's in your head.
+
+725
+00:24:01,857 --> 00:24:04,347
+The first obstacle is waiting until you
+
+726
+00:24:04,347 --> 00:24:05,049
+feel ready.
+
+727
+00:24:05,229 --> 00:24:07,100
+People spend months on logos,
+
+728
+00:24:07,100 --> 00:24:10,132
+websites and business plans before they've ever
+
+729
+00:24:10,132 --> 00:24:11,487
+talked to a customer.
+
+730
+00:24:11,667 --> 00:24:13,559
+But you learn more from your first
+
+731
+00:24:13,559 --> 00:24:15,729
+paying customer than from any amount of
+
+732
+00:24:15,729 --> 00:24:16,230
+planning.
+
+733
+00:24:16,410 --> 00:24:18,736
+Start with the smallest version of your
+
+734
+00:24:18,736 --> 00:24:20,764
+service, and improve it as you go.
+
+735
+00:24:21,114 --> 00:24:23,227
+The second is fear of asking.
+
+736
+00:24:23,407 --> 00:24:27,071
+Asking friends, neighbors or local businesses for
+
+737
+00:24:27,071 --> 00:24:28,492
+work feels awkward.
+
+738
+00:24:28,672 --> 00:24:30,611
+But most people are glad to help
+
+739
+00:24:30,611 --> 00:24:31,702
+someone they know,
+
+740
+00:24:31,702 --> 00:24:33,520
+and word of mouth is still the
+
+741
+00:24:33,520 --> 00:24:36,125
+most powerful marketing for local services.
+
+742
+00:24:36,305 --> 00:24:37,672
+Try a simple message:
+
+743
+00:24:37,672 --> 00:24:40,276
+I'm starting a pressure washing service.
+
+744
+00:24:40,456 --> 00:24:42,508
+If you know anyone who needs it,
+
+745
+00:24:42,508 --> 00:24:44,624
+I'd really appreciate a referral.
+
+746
+00:24:44,974 --> 00:24:46,564
+The third is underpricing.
+
+747
+00:24:46,744 --> 00:24:49,248
+New owners often charge too little because
+
+748
+00:24:49,248 --> 00:24:50,738
+they feel like beginners.
+
+749
+00:24:50,918 --> 00:24:53,571
+But low prices attract the most difficult
+
+750
+00:24:53,571 --> 00:24:56,029
+customers and leave no room for taxes,
+
+751
+00:24:56,029 --> 00:24:57,582
+insurance and equipment.
+
+752
+00:24:57,762 --> 00:24:59,598
+Price for the value you deliver,
+
+753
+00:24:59,598 --> 00:25:01,779
+and raise prices as your reviews grow.
+
+754
+00:25:02,129 --> 00:25:04,033
+And the fourth is quitting too early.
+
+755
+00:25:04,213 --> 00:25:06,326
+The first few months are often slow.
+
+756
+00:25:06,506 --> 00:25:08,611
+Many people give up right before word
+
+757
+00:25:08,611 --> 00:25:09,977
+of mouth starts to work.
+
+758
+00:25:10,157 --> 00:25:12,460
+Give a new service business at least
+
+759
+00:25:12,460 --> 00:25:15,467
+six months of consistent effort before deciding
+
+760
+00:25:15,467 --> 00:25:16,554
+whether it works.
+
+761
+00:25:16,734 --> 00:25:19,070
+Track what brings in customers,
+
+762
+00:25:19,070 --> 00:25:20,577
+and do more of that.
+
+763
+00:25:20,927 --> 00:25:23,592
+And the fifth obstacle is comparison with
+
+764
+00:25:23,592 --> 00:25:24,502
+people online.
+
+765
+00:25:24,682 --> 00:25:27,130
+Social media is full of young entrepreneurs
+
+766
+00:25:27,130 --> 00:25:29,521
+claiming they made ten thousand dollars in
+
+767
+00:25:29,521 --> 00:25:30,546
+their first month.
+
+768
+00:25:30,726 --> 00:25:31,921
+Some are real.
+
+769
+00:25:32,101 --> 00:25:34,110
+Many are selling courses.
+
+770
+00:25:34,290 --> 00:25:35,516
+Comparing your quiet,
+
+771
+00:25:35,516 --> 00:25:38,203
+steady progress to someone's highlight reel is
+
+772
+00:25:38,203 --> 00:25:39,663
+a fast way to feel like a
+
+773
+00:25:39,663 --> 00:25:42,057
+failure while you're actually doing fine.
+
+774
+00:25:42,237 --> 00:25:44,468
+The only comparison that matters is your
+
+775
+00:25:44,468 --> 00:25:47,034
+business this month versus your business three
+
+776
+00:25:47,034 --> 00:25:47,647
+months ago.
+
+777
+00:25:47,827 --> 00:25:49,249
+If that line is going up,
+
+778
+00:25:49,249 --> 00:25:50,103
+you're winning.
+
+779
+00:25:50,453 --> 00:25:53,392
+Underneath all of these obstacles is one
+
+780
+00:25:53,392 --> 00:25:56,037
+simple truth: action beats thinking.
+
+781
+00:25:56,217 --> 00:25:59,115
+The people who build successful small businesses
+
+782
+00:25:59,115 --> 00:26:01,409
+aren't always the smartest or the most
+
+783
+00:26:01,409 --> 00:26:01,952
+talented.
+
+784
+00:26:02,132 --> 00:26:04,488
+They're the ones who started before they
+
+785
+00:26:04,488 --> 00:26:06,609
+felt ready, asked for work even when
+
+786
+00:26:06,609 --> 00:26:07,492
+it was awkward,
+
+787
+00:26:07,492 --> 00:26:08,670
+charged fair prices,
+
+788
+00:26:08,670 --> 00:26:10,968
+and kept going through the slow months.
+
+789
+00:26:11,318 --> 00:26:12,258
+Angle three.
+
+790
+00:26:12,438 --> 00:26:13,251
+The playbook.
+
+791
+00:26:13,431 --> 00:26:15,461
+Here's a simple ninety day plan to
+
+792
+00:26:15,461 --> 00:26:17,432
+go from idea to paying customers,
+
+793
+00:26:17,432 --> 00:26:18,806
+while keeping your job.
+
+794
+00:26:19,156 --> 00:26:20,688
+Days one to fifteen.
+
+795
+00:26:20,868 --> 00:26:22,927
+Pick one business from this list that
+
+796
+00:26:22,927 --> 00:26:24,040
+matches your skills,
+
+797
+00:26:24,040 --> 00:26:25,709
+your schedule and your budget.
+
+798
+00:26:25,889 --> 00:26:29,158
+Check licensing and insurance requirements in your
+
+799
+00:26:29,158 --> 00:26:30,139
+city and state.
+
+800
+00:26:30,319 --> 00:26:32,037
+Set up a separate bank account.
+
+801
+00:26:32,217 --> 00:26:34,104
+And write down your price list,
+
+802
+00:26:34,104 --> 00:26:36,478
+based on what local competitors charge.
+
+803
+00:26:36,828 --> 00:26:38,418
+Days sixteen to thirty.
+
+804
+00:26:38,598 --> 00:26:40,479
+Get your first three customers.
+
+805
+00:26:40,659 --> 00:26:43,294
+Ask friends, family and neighbors.
+
+806
+00:26:43,474 --> 00:26:45,611
+Post in local community groups.
+
+807
+00:26:45,791 --> 00:26:48,370
+Offer a small launch discount in exchange
+
+808
+00:26:48,370 --> 00:26:49,692
+for an honest review.
+
+809
+00:26:49,872 --> 00:26:51,269
+Do outstanding work,
+
+810
+00:26:51,269 --> 00:26:53,296
+take before and after photos,
+
+811
+00:26:53,296 --> 00:26:55,812
+and ask each customer who else might
+
+812
+00:26:55,812 --> 00:26:57,070
+need your service.
+
+813
+00:26:57,420 --> 00:26:58,999
+Days thirty one to sixty.
+
+814
+00:26:59,179 --> 00:27:00,200
+Build systems.
+
+815
+00:27:00,380 --> 00:27:02,003
+A simple booking method,
+
+816
+00:27:02,003 --> 00:27:04,370
+a template for quotes and invoices,
+
+817
+00:27:04,370 --> 00:27:06,128
+a checklist for every job,
+
+818
+00:27:06,128 --> 00:27:08,089
+and a way to collect reviews.
+
+819
+00:27:08,269 --> 00:27:10,371
+Move a share of every payment into
+
+820
+00:27:10,371 --> 00:27:12,286
+your tax account automatically.
+
+821
+00:27:12,466 --> 00:27:14,719
+And track where each customer came from.
+
+822
+00:27:15,069 --> 00:27:17,019
+Days sixty one to ninety.
+
+823
+00:27:17,199 --> 00:27:18,430
+Grow what works.
+
+824
+00:27:18,610 --> 00:27:21,083
+If referrals bring the most customers,
+
+825
+00:27:21,083 --> 00:27:22,580
+ask for more referrals.
+
+826
+00:27:22,760 --> 00:27:24,991
+If one neighborhood books the most,
+
+827
+00:27:24,991 --> 00:27:25,756
+focus there.
+
+828
+00:27:25,936 --> 00:27:28,432
+Raise prices slightly for new customers.
+
+829
+00:27:28,612 --> 00:27:30,657
+And decide on your goal for the
+
+830
+00:27:30,657 --> 00:27:31,713
+next six months:
+
+831
+00:27:31,713 --> 00:27:34,088
+more income, more recurring clients,
+
+832
+00:27:34,088 --> 00:27:35,473
+or your first helper.
+
+833
+00:27:35,824 --> 00:27:37,257
+And one rule throughout:
+
+834
+00:27:37,257 --> 00:27:38,691
+protect your foundation.
+
+835
+00:27:38,871 --> 00:27:40,418
+Keep your emergency fund,
+
+836
+00:27:40,418 --> 00:27:42,397
+keep contributing to retirement,
+
+837
+00:27:42,397 --> 00:27:44,253
+and don't take on debt to grow
+
+838
+00:27:44,253 --> 00:27:46,789
+a business that hasn't proven itself yet.
+
+839
+00:27:46,969 --> 00:27:49,037
+The beauty of starting under five thousand
+
+840
+00:27:49,037 --> 00:27:50,662
+dollars is that you never have to
+
+841
+00:27:50,662 --> 00:27:52,287
+bet your family's security on it.
+
+842
+00:27:52,637 --> 00:27:55,678
+Starting cheap protects you from big losses.
+
+843
+00:27:55,858 --> 00:27:57,837
+But there are still mistakes that can
+
+844
+00:27:57,837 --> 00:27:59,655
+sink a small business in its first
+
+845
+00:27:59,655 --> 00:27:59,922
+year.
+
+846
+00:28:00,102 --> 00:28:02,169
+Here are six of the most common.
+
+847
+00:28:02,519 --> 00:28:03,331
+Mistake one.
+
+848
+00:28:03,511 --> 00:28:04,986
+Skipping insurance.
+
+849
+00:28:05,166 --> 00:28:06,673
+One damaged driveway,
+
+850
+00:28:06,673 --> 00:28:07,750
+one dropped TV,
+
+851
+00:28:07,750 --> 00:28:08,898
+one injured dog,
+
+852
+00:28:08,898 --> 00:28:11,266
+and a single claim could wipe out
+
+853
+00:28:11,266 --> 00:28:13,061
+a year of profit or more.
+
+854
+00:28:13,241 --> 00:28:16,714
+General liability insurance is often affordable for
+
+855
+00:28:16,714 --> 00:28:18,416
+small service businesses,
+
+856
+00:28:18,416 --> 00:28:20,323
+and some clients require it.
+
+857
+00:28:20,503 --> 00:28:21,548
+Mistake two.
+
+858
+00:28:21,728 --> 00:28:24,003
+Mixing business and personal money.
+
+859
+00:28:24,183 --> 00:28:26,547
+It makes taxes painful and hides whether
+
+860
+00:28:26,547 --> 00:28:28,142
+you're actually profitable.
+
+861
+00:28:28,492 --> 00:28:29,479
+Mistake three.
+
+862
+00:28:29,659 --> 00:28:31,899
+Buying too much equipment too early.
+
+863
+00:28:32,079 --> 00:28:33,823
+The top of the line mower,
+
+864
+00:28:33,823 --> 00:28:35,768
+the van with custom graphics,
+
+865
+00:28:35,768 --> 00:28:37,176
+the expensive camera.
+
+866
+00:28:37,356 --> 00:28:39,086
+Start with what you need to do
+
+867
+00:28:39,086 --> 00:28:41,508
+good work, and upgrade only when customers
+
+868
+00:28:41,508 --> 00:28:42,546
+are paying for it.
+
+869
+00:28:42,726 --> 00:28:43,724
+Mistake four.
+
+870
+00:28:43,904 --> 00:28:45,530
+Saying yes to every job.
+
+871
+00:28:45,710 --> 00:28:46,733
+Jobs far away,
+
+872
+00:28:46,733 --> 00:28:48,560
+jobs outside your skills,
+
+873
+00:28:48,560 --> 00:28:51,922
+or jobs from customers who haggle aggressively
+
+874
+00:28:51,922 --> 00:28:54,115
+often cost more than they pay.
+
+875
+00:28:54,465 --> 00:28:55,498
+Mistake five.
+
+876
+00:28:55,678 --> 00:28:58,232
+Forgetting about taxes until April.
+
+877
+00:28:58,412 --> 00:28:59,709
+We talked about this,
+
+878
+00:28:59,709 --> 00:29:01,129
+but it bears repeating.
+
+879
+00:29:01,309 --> 00:29:03,960
+Set aside a share of every payment,
+
+880
+00:29:03,960 --> 00:29:07,445
+and consider paying estimated taxes during the
+
+881
+00:29:07,445 --> 00:29:10,399
+year, as the IRS generally expects from
+
+882
+00:29:10,399 --> 00:29:11,990
+self employed people.
+
+883
+00:29:12,170 --> 00:29:13,528
+And mistake six.
+
+884
+00:29:13,708 --> 00:29:14,962
+Not tracking anything.
+
+885
+00:29:15,142 --> 00:29:16,960
+Without knowing your revenue,
+
+886
+00:29:16,960 --> 00:29:19,217
+costs and where customers come from,
+
+887
+00:29:19,217 --> 00:29:21,098
+you can't tell what's working.
+
+888
+00:29:21,448 --> 00:29:23,706
+Every one of these mistakes is cheap
+
+889
+00:29:23,706 --> 00:29:25,650
+to avoid and expensive to make.
+
+890
+00:29:25,830 --> 00:29:27,803
+Insurance, a separate account,
+
+891
+00:29:27,803 --> 00:29:30,828
+modest equipment, clear rules about which jobs
+
+892
+00:29:30,828 --> 00:29:32,406
+you take, a tax account,
+
+893
+00:29:32,406 --> 00:29:34,050
+and a simple spreadsheet.
+
+894
+00:29:34,230 --> 00:29:36,337
+That's the whole defensive playbook,
+
+895
+00:29:36,337 --> 00:29:38,210
+and it costs less than a weekend
+
+896
+00:29:38,210 --> 00:29:38,503
+away.
+
+897
+00:29:38,853 --> 00:29:41,321
+You don't need expensive software to run
+
+898
+00:29:41,321 --> 00:29:42,370
+a small business.
+
+899
+00:29:42,550 --> 00:29:45,348
+Here's a lean toolkit many owners use.
+
+900
+00:29:45,699 --> 00:29:48,546
+For money: a separate business checking account,
+
+901
+00:29:48,546 --> 00:29:50,741
+a separate savings account for taxes,
+
+902
+00:29:50,741 --> 00:29:52,461
+and a simple way to take card
+
+903
+00:29:52,461 --> 00:29:53,826
+payments on your phone.
+
+904
+00:29:54,006 --> 00:29:56,643
+For bookkeeping, a spreadsheet works at the
+
+905
+00:29:56,643 --> 00:29:59,402
+start, and low cost accounting software makes
+
+906
+00:29:59,402 --> 00:30:01,610
+sense once you have regular clients.
+
+907
+00:30:01,790 --> 00:30:04,470
+For scheduling, a shared calendar or a
+
+908
+00:30:04,470 --> 00:30:06,515
+basic booking tool is plenty.
+
+909
+00:30:06,866 --> 00:30:09,835
+For marketing: a free business profile on
+
+910
+00:30:09,835 --> 00:30:11,574
+map and search services,
+
+911
+00:30:11,574 --> 00:30:13,457
+a simple one page website,
+
+912
+00:30:13,457 --> 00:30:15,630
+and a phone full of before and
+
+913
+00:30:15,630 --> 00:30:16,572
+after photos.
+
+914
+00:30:16,752 --> 00:30:18,479
+For customer communication,
+
+915
+00:30:18,479 --> 00:30:19,822
+templates for quotes,
+
+916
+00:30:19,822 --> 00:30:22,573
+reminders and thank you messages save hours
+
+917
+00:30:22,573 --> 00:30:23,276
+every week.
+
+918
+00:30:23,456 --> 00:30:24,513
+And for learning,
+
+919
+00:30:24,513 --> 00:30:27,433
+free online courses and videos from experienced
+
+920
+00:30:27,433 --> 00:30:28,925
+owners in your industry.
+
+921
+00:30:29,275 --> 00:30:31,695
+The point is to keep fixed costs
+
+922
+00:30:31,695 --> 00:30:34,418
+close to zero until revenue is real.
+
+923
+00:30:34,598 --> 00:30:37,331
+Every subscription and every monthly fee raises
+
+924
+00:30:37,331 --> 00:30:39,308
+the amount you need to earn before
+
+925
+00:30:39,308 --> 00:30:41,343
+you make a single dollar of profit.
+
+926
+00:30:41,523 --> 00:30:44,182
+Lean businesses survive slow months.
+
+927
+00:30:44,362 --> 00:30:45,674
+Bloated ones don't.
+
+928
+00:30:46,024 --> 00:30:48,264
+Let me answer the questions people ask
+
+929
+00:30:48,264 --> 00:30:49,797
+most about starting small.
+
+930
+00:30:50,147 --> 00:30:50,959
+Question one.
+
+931
+00:30:51,139 --> 00:30:52,277
+Do I need an LLC?
+
+932
+00:30:52,457 --> 00:30:53,852
+Not always to start,
+
+933
+00:30:53,852 --> 00:30:56,504
+but many owners form one for liability
+
+934
+00:30:56,504 --> 00:30:59,713
+protection and simpler separation of finances.
+
+935
+00:30:59,893 --> 00:31:02,134
+Rules and fees vary by state.
+
+936
+00:31:02,314 --> 00:31:05,008
+Insurance is often just as important as
+
+937
+00:31:05,008 --> 00:31:06,389
+the legal structure.
+
+938
+00:31:06,569 --> 00:31:07,498
+Question two.
+
+939
+00:31:07,678 --> 00:31:09,861
+How do I find my first customers?
+
+940
+00:31:10,041 --> 00:31:11,170
+People you know,
+
+941
+00:31:11,170 --> 00:31:12,581
+local online groups,
+
+942
+00:31:12,581 --> 00:31:15,898
+neighborhood apps, and simple flyers still work
+
+943
+00:31:15,898 --> 00:31:17,239
+for local services.
+
+944
+00:31:17,589 --> 00:31:18,552
+Question three.
+
+945
+00:31:18,732 --> 00:31:20,872
+What if my employer has a policy
+
+946
+00:31:20,872 --> 00:31:22,343
+about side businesses?
+
+947
+00:31:22,523 --> 00:31:24,811
+Read your employment agreement,
+
+948
+00:31:24,811 --> 00:31:27,838
+especially if your business is related to
+
+949
+00:31:27,838 --> 00:31:28,502
+your job.
+
+950
+00:31:28,682 --> 00:31:31,600
+Keep your business completely separate from work
+
+951
+00:31:31,600 --> 00:31:33,059
+time and work equipment.
+
+952
+00:31:33,239 --> 00:31:34,261
+Question four.
+
+953
+00:31:34,441 --> 00:31:35,764
+When should I quit my job?
+
+954
+00:31:35,944 --> 00:31:38,348
+Many people wait until the business has
+
+955
+00:31:38,348 --> 00:31:40,691
+replaced a large share of their salary
+
+956
+00:31:40,691 --> 00:31:42,417
+for several months in a row,
+
+957
+00:31:42,417 --> 00:31:44,698
+and they have a solid emergency fund.
+
+958
+00:31:45,048 --> 00:31:46,000
+Question five.
+
+959
+00:31:46,180 --> 00:31:47,596
+Which one makes the most money?
+
+960
+00:31:47,776 --> 00:31:50,157
+The ones that can grow beyond your
+
+961
+00:31:50,157 --> 00:31:52,748
+own hours, through recurring clients,
+
+962
+00:31:52,748 --> 00:31:54,990
+routes and eventually employees,
+
+963
+00:31:54,990 --> 00:31:57,301
+tend to have the highest ceiling:
+
+964
+00:31:57,301 --> 00:31:58,701
+cleaning, lawn care,
+
+965
+00:31:58,701 --> 00:32:00,802
+pressure washing, bookkeeping.
+
+966
+00:32:00,982 --> 00:32:03,520
+Services where you sell only your time,
+
+967
+00:32:03,520 --> 00:32:05,863
+like tutoring or virtual assistance,
+
+968
+00:32:05,863 --> 00:32:08,011
+are easier to start but harder to
+
+969
+00:32:08,011 --> 00:32:08,401
+scale.
+
+970
+00:32:08,752 --> 00:32:09,843
+Question six.
+
+971
+00:32:10,023 --> 00:32:12,078
+Can I do this with no experience?
+
+972
+00:32:12,258 --> 00:32:13,403
+For many of these,
+
+973
+00:32:13,403 --> 00:32:15,311
+yes, with some learning first.
+
+974
+00:32:15,491 --> 00:32:16,907
+Cleaning, lawn care,
+
+975
+00:32:16,907 --> 00:32:19,738
+pet sitting and reselling have low skill
+
+976
+00:32:19,738 --> 00:32:23,560
+barriers, though quality and reliability still matter.
+
+977
+00:32:23,740 --> 00:32:25,518
+Others, like bookkeeping,
+
+978
+00:32:25,518 --> 00:32:27,723
+tutoring and personal training,
+
+979
+00:32:27,723 --> 00:32:30,497
+need real knowledge or a certification.
+
+980
+00:32:30,677 --> 00:32:33,508
+Be honest with customers about your experience,
+
+981
+00:32:33,508 --> 00:32:35,797
+and price accordingly while you learn.
+
+982
+00:32:36,148 --> 00:32:37,158
+Question seven.
+
+983
+00:32:37,338 --> 00:32:39,346
+How much can I realistically earn?
+
+984
+00:32:39,526 --> 00:32:41,592
+It varies enormously by city,
+
+985
+00:32:41,592 --> 00:32:42,945
+service and effort,
+
+986
+00:32:42,945 --> 00:32:45,651
+so be skeptical of anyone who promises
+
+987
+00:32:45,651 --> 00:32:46,933
+a specific number.
+
+988
+00:32:47,113 --> 00:32:49,469
+A realistic first goal for most people
+
+989
+00:32:49,469 --> 00:32:51,452
+is a few hundred dollars a month
+
+990
+00:32:51,452 --> 00:32:52,939
+in the first few months,
+
+991
+00:32:52,939 --> 00:32:55,356
+growing as reviews and referrals build.
+
+992
+00:32:55,536 --> 00:32:57,893
+The businesses that grow biggest are the
+
+993
+00:32:57,893 --> 00:33:00,072
+ones whose owners keep showing up for
+
+994
+00:33:00,072 --> 00:33:01,132
+years, not months.
+
+995
+00:33:01,483 --> 00:33:02,319
+Let's recap.
+
+996
+00:33:02,499 --> 00:33:04,773
+Home services: house cleaning,
+
+997
+00:33:04,773 --> 00:33:06,897
+pressure washing, lawn care,
+
+998
+00:33:06,897 --> 00:33:09,702
+handyman, window and gutter cleaning,
+
+999
+00:33:09,702 --> 00:33:12,204
+holiday lights, and junk hauling.
+
+1000
+00:33:12,384 --> 00:33:13,508
+People and pets:
+
+1001
+00:33:13,508 --> 00:33:15,896
+pet sitting, mobile car detailing,
+
+1002
+00:33:15,896 --> 00:33:18,073
+tutoring and personal training.
+
+1003
+00:33:18,424 --> 00:33:20,862
+Laptop businesses: bookkeeping,
+
+1004
+00:33:20,862 --> 00:33:22,750
+social media management,
+
+1005
+00:33:22,750 --> 00:33:26,841
+virtual assistance, resume services and photography.
+
+1006
+00:33:27,021 --> 00:33:30,173
+And buying, selling and specialty services:
+
+1007
+00:33:30,173 --> 00:33:32,373
+reselling, furniture flipping,
+
+1008
+00:33:32,373 --> 00:33:34,939
+mobile notary, and errand services.
+
+1009
+00:33:35,289 --> 00:33:36,554
+And the three angles.
+
+1010
+00:33:36,734 --> 00:33:40,356
+The numbers: over five million business applications
+
+1011
+00:33:40,356 --> 00:33:42,934
+a year, about half of businesses gone
+
+1012
+00:33:42,934 --> 00:33:43,909
+in five years,
+
+1013
+00:33:43,909 --> 00:33:46,835
+so start small to make failure survivable,
+
+1014
+00:33:46,835 --> 00:33:48,925
+and set aside money for taxes.
+
+1015
+00:33:49,105 --> 00:33:51,911
+The psychology: you'll never feel ready,
+
+1016
+00:33:51,911 --> 00:33:52,823
+ask for work,
+
+1017
+00:33:52,823 --> 00:33:55,699
+don't underprice, and give it six months.
+
+1018
+00:33:55,879 --> 00:33:56,971
+And the playbook:
+
+1019
+00:33:56,971 --> 00:33:59,669
+ninety days from idea to paying customers,
+
+1020
+00:33:59,669 --> 00:34:01,788
+while protecting your foundation.
+
+1021
+00:34:02,139 --> 00:34:03,567
+And here's the bigger picture.
+
+1022
+00:34:03,747 --> 00:34:06,022
+A small business you start for under
+
+1023
+00:34:06,022 --> 00:34:08,993
+five thousand dollars might stay small forever,
+
+1024
+00:34:08,993 --> 00:34:10,004
+and that's fine.
+
+1025
+00:34:10,184 --> 00:34:12,505
+Even a few hundred dollars a month,
+
+1026
+00:34:12,505 --> 00:34:14,294
+invested over twenty years,
+
+1027
+00:34:14,294 --> 00:34:16,349
+can grow into a meaningful sum.
+
+1028
+00:34:16,529 --> 00:34:18,376
+Or it might grow into something much
+
+1029
+00:34:18,376 --> 00:34:18,735
+bigger.
+
+1030
+00:34:18,915 --> 00:34:21,499
+Either way, you'll learn skills no job
+
+1031
+00:34:21,499 --> 00:34:23,266
+teaches: selling, pricing,
+
+1032
+00:34:23,266 --> 00:34:26,190
+managing money and solving problems on your
+
+1033
+00:34:26,190 --> 00:34:26,462
+own.
+
+1034
+00:34:26,642 --> 00:34:28,509
+Those skills stay with you,
+
+1035
+00:34:28,509 --> 00:34:29,962
+whatever you do next.
+
+1036
+00:34:30,312 --> 00:34:31,774
+So here's your homework.
+
+1037
+00:34:31,954 --> 00:34:32,906
+Pick one idea.
+
+1038
+00:34:33,086 --> 00:34:33,725
+Just one.
+
+1039
+00:34:33,905 --> 00:34:34,590
+And this week,
+
+1040
+00:34:34,590 --> 00:34:36,401
+tell three people you're offering it.
+
+1041
+00:34:36,581 --> 00:34:36,964
+That's it.
+
+1042
+00:34:37,144 --> 00:34:39,270
+Your first customer is closer than you
+
+1043
+00:34:39,270 --> 00:34:39,606
+think.
+
+1044
+00:34:39,786 --> 00:34:41,521
+If you want the full plan for
+
+1045
+00:34:41,521 --> 00:34:43,736
+building wealth, it's in my playbook,
+
+1046
+00:34:43,736 --> 00:34:45,173
+link in the description.
+
+1047
+00:34:45,353 --> 00:34:46,595
+I'm Ryan Rover.
+
+1048
+00:34:46,775 --> 00:34:47,878
+See you in the next one.
