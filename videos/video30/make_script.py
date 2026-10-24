@@ -243,7 +243,7 @@ including liability coverage. If you have significant assets or young children, 
 "Will and beneficiary forms", "THE BASICS FOR EVERYONE")
 
 ch("The Vanderbilt warning")
-short("The richest family in America lost almost everything. Here's how.")
+short("One of America's richest families lost almost everything. Here's how.")
 sc("""Here's what happens when new money never learns these lessons. Cornelius Vanderbilt built one of the largest
 fortunes in American history in the eighteen hundreds, through shipping and railroads. When he died in eighteen seventy
 seven, he was among the richest people in the country.""",
