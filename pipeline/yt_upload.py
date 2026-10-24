@@ -55,6 +55,8 @@ def upload(tok, path, title, desc, tags, at):
     r = requests.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
                       headers=h, json=body, timeout=60)
     if r.status_code == 403 and "quota" in r.text.lower(): return "QUOTA"
+    if r.status_code == 400 and "uploadlimitexceeded" in r.text.lower(): return "LIMIT"  # channel's daily upload cap
+    if not r.ok: print("upload init failed:", r.status_code, r.text[:500])
     r.raise_for_status()
     with open(path, "rb") as f:
         u = requests.put(r.headers["Location"], data=f, headers={"Authorization": f"Bearer {tok}", "Content-Type": "video/mp4"}, timeout=3600)
@@ -92,6 +94,7 @@ def main(mode):
         tags = json.load(open(f"agendamento/meta/video{v:02d}.json"))["tags"] + ([] if is_long else ["Shorts"])
         vid = upload(tok, f, title, desc, tags, at)
         if vid == "QUOTA": print("quota exhausted"); break
+        if vid == "LIMIT": print("channel daily upload limit reached (verify the channel to raise it); retry tomorrow"); break
         budget -= COST_UPLOAD; state[key] = {"id": vid, "publishAt": at.isoformat()}
         print("uploaded", key, vid, "publishes", at.isoformat())
         thumb = pathlib.Path(f"agendamento/thumbs/video{v:02d}.jpg")
