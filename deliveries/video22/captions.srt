@@ -1,0 +1,4195 @@
+1
+00:00:00,000 --> 00:00:02,031
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,211 --> 00:00:04,582
+Most people who stay broke aren't lazy,
+
+3
+00:00:04,582 --> 00:00:06,588
+and they aren't bad with money in
+
+4
+00:00:06,588 --> 00:00:07,621
+some obvious way.
+
+5
+00:00:07,801 --> 00:00:08,881
+They work hard.
+
+6
+00:00:09,061 --> 00:00:10,454
+They pay their bills.
+
+7
+00:00:10,634 --> 00:00:12,367
+And still, every month,
+
+8
+00:00:12,367 --> 00:00:14,326
+the money just disappears.
+
+9
+00:00:14,506 --> 00:00:16,777
+The reason is usually not one big
+
+10
+00:00:16,777 --> 00:00:17,328
+mistake.
+
+11
+00:00:17,508 --> 00:00:19,748
+It's a handful of small habits that
+
+12
+00:00:19,748 --> 00:00:21,669
+run quietly in the background,
+
+13
+00:00:21,669 --> 00:00:24,102
+like apps draining your phone battery.
+
+14
+00:00:24,282 --> 00:00:26,163
+Today, twenty five of them.
+
+15
+00:00:26,513 --> 00:00:27,882
+Here's why this matters.
+
+16
+00:00:28,062 --> 00:00:30,982
+In the Federal Reserve's survey of household
+
+17
+00:00:30,982 --> 00:00:33,237
+well being for twenty twenty four,
+
+18
+00:00:33,237 --> 00:00:35,891
+about sixty three percent of adults said
+
+19
+00:00:35,891 --> 00:00:38,412
+they would cover a four hundred dollar
+
+20
+00:00:38,412 --> 00:00:41,530
+emergency expense using cash or its equivalent.
+
+21
+00:00:41,710 --> 00:00:43,538
+That means more than a third would
+
+22
+00:00:43,538 --> 00:00:43,753
+not.
+
+23
+00:00:44,104 --> 00:00:45,067
+Think about that.
+
+24
+00:00:45,247 --> 00:00:47,557
+Tens of millions of working adults,
+
+25
+00:00:47,557 --> 00:00:49,010
+many with decent jobs,
+
+26
+00:00:49,010 --> 00:00:50,396
+would have to borrow,
+
+27
+00:00:50,396 --> 00:00:52,772
+sell something, or simply not pay if
+
+28
+00:00:52,772 --> 00:00:55,149
+a four hundred dollar bill showed up
+
+29
+00:00:55,149 --> 00:00:55,743
+tomorrow.
+
+30
+00:00:55,923 --> 00:00:58,337
+That's not usually a salary problem.
+
+31
+00:00:58,517 --> 00:01:00,664
+Plenty of people with good incomes are
+
+32
+00:01:00,664 --> 00:01:01,455
+in that group.
+
+33
+00:01:01,635 --> 00:01:02,944
+It's a habits problem,
+
+34
+00:01:02,944 --> 00:01:04,491
+and habits can be changed.
+
+35
+00:01:04,841 --> 00:01:07,086
+We'll look at these twenty five habits
+
+36
+00:01:07,086 --> 00:01:08,149
+from three angles.
+
+37
+00:01:08,329 --> 00:01:09,746
+First, the numbers.
+
+38
+00:01:09,926 --> 00:01:11,816
+Habits with a cost you can actually
+
+39
+00:01:11,816 --> 00:01:12,248
+measure.
+
+40
+00:01:12,428 --> 00:01:14,355
+Second, the psychology.
+
+41
+00:01:14,535 --> 00:01:16,990
+The mental shortcuts that keep you spending
+
+42
+00:01:16,990 --> 00:01:17,960
+without noticing.
+
+43
+00:01:18,140 --> 00:01:19,673
+And third, the playbook.
+
+44
+00:01:19,853 --> 00:01:22,301
+The missing systems that keep people stuck,
+
+45
+00:01:22,301 --> 00:01:24,009
+and what to replace them with.
+
+46
+00:01:24,189 --> 00:01:25,202
+Stay to the end,
+
+47
+00:01:25,202 --> 00:01:27,608
+because the last angle is where things
+
+48
+00:01:27,608 --> 00:01:28,937
+start to turn around.
+
+49
+00:01:29,288 --> 00:01:30,878
+Let's start with the numbers.
+
+50
+00:01:31,058 --> 00:01:33,844
+And habit number one is something almost
+
+51
+00:01:33,844 --> 00:01:36,074
+everyone does, every single day.
+
+52
+00:01:36,424 --> 00:01:38,792
+Our numbers come from named sources.
+
+53
+00:01:38,972 --> 00:01:41,968
+Household emergency data comes from the Federal
+
+54
+00:01:41,968 --> 00:01:45,729
+Reserve's Survey of Household Economics and Decisionmaking.
+
+55
+00:01:45,909 --> 00:01:48,365
+Credit card rates come from the Federal
+
+56
+00:01:48,365 --> 00:01:50,507
+Reserve's consumer credit reports.
+
+57
+00:01:50,687 --> 00:01:53,111
+Banking fee data comes from the Consumer
+
+58
+00:01:53,111 --> 00:01:54,808
+Financial Protection Bureau.
+
+59
+00:01:54,988 --> 00:01:57,699
+Growth examples use simple stated math,
+
+60
+00:01:57,699 --> 00:02:00,689
+like a seven percent average yearly return.
+
+61
+00:02:00,869 --> 00:02:02,427
+That's an illustration,
+
+62
+00:02:02,427 --> 00:02:03,376
+not a promise.
+
+63
+00:02:03,556 --> 00:02:04,885
+This is education,
+
+64
+00:02:04,885 --> 00:02:06,436
+not financial advice.
+
+65
+00:02:06,786 --> 00:02:07,598
+Angle one.
+
+66
+00:02:07,778 --> 00:02:08,463
+The numbers.
+
+67
+00:02:08,643 --> 00:02:10,590
+Nine habits where the cost is right
+
+68
+00:02:10,590 --> 00:02:11,981
+there in black and white,
+
+69
+00:02:11,981 --> 00:02:12,649
+if you look.
+
+70
+00:02:12,999 --> 00:02:14,009
+Habit number one.
+
+71
+00:02:14,189 --> 00:02:16,696
+Not knowing where your money actually goes.
+
+72
+00:02:17,047 --> 00:02:18,907
+Ask most people what they spend in
+
+73
+00:02:18,907 --> 00:02:19,782
+a month on food,
+
+74
+00:02:19,782 --> 00:02:21,423
+and they'll give you a number.
+
+75
+00:02:21,603 --> 00:02:23,576
+Ask them to check their statements,
+
+76
+00:02:23,576 --> 00:02:25,435
+and the real number is often much
+
+77
+00:02:25,435 --> 00:02:25,830
+higher.
+
+78
+00:02:26,010 --> 00:02:27,438
+It's not dishonesty.
+
+79
+00:02:27,618 --> 00:02:29,905
+Small purchases are easy to forget.
+
+80
+00:02:30,085 --> 00:02:31,199
+A coffee here,
+
+81
+00:02:31,199 --> 00:02:32,314
+a snack there,
+
+82
+00:02:32,314 --> 00:02:33,986
+a quick online order.
+
+83
+00:02:34,166 --> 00:02:35,838
+None of them feel like spending.
+
+84
+00:02:36,188 --> 00:02:38,080
+You can't fix what you can't see.
+
+85
+00:02:38,260 --> 00:02:40,902
+People who build wealth almost always know
+
+86
+00:02:40,902 --> 00:02:42,916
+their numbers, at least roughly.
+
+87
+00:02:43,096 --> 00:02:45,520
+Try this: for the next thirty days,
+
+88
+00:02:45,520 --> 00:02:47,459
+track every single purchase,
+
+89
+00:02:47,459 --> 00:02:49,191
+even the one dollar ones.
+
+90
+00:02:49,371 --> 00:02:51,114
+Use an app or a note on
+
+91
+00:02:51,114 --> 00:02:51,948
+your phone.
+
+92
+00:02:52,128 --> 00:02:52,978
+At the end,
+
+93
+00:02:52,978 --> 00:02:55,913
+sort them into five or six categories.
+
+94
+00:02:56,093 --> 00:02:57,998
+The biggest surprise on that list is
+
+95
+00:02:57,998 --> 00:02:58,845
+where you start.
+
+96
+00:02:59,195 --> 00:03:00,286
+Habit number two.
+
+97
+00:03:00,466 --> 00:03:02,440
+Carrying a balance on your credit card.
+
+98
+00:03:02,790 --> 00:03:04,812
+According to the Federal Reserve,
+
+99
+00:03:04,812 --> 00:03:07,264
+the average rate on credit card accounts
+
+100
+00:03:07,264 --> 00:03:09,654
+that pay interest has been above twenty
+
+101
+00:03:09,654 --> 00:03:11,125
+percent in recent years.
+
+102
+00:03:11,305 --> 00:03:13,258
+On a five thousand dollar balance,
+
+103
+00:03:13,258 --> 00:03:15,554
+that's roughly a thousand dollars a year
+
+104
+00:03:15,554 --> 00:03:16,588
+in interest alone.
+
+105
+00:03:16,768 --> 00:03:18,681
+And if you only make the minimum
+
+106
+00:03:18,681 --> 00:03:20,713
+payment, it can take many years to
+
+107
+00:03:20,713 --> 00:03:21,191
+pay off.
+
+108
+00:03:21,542 --> 00:03:24,018
+This habit keeps people broke because it
+
+109
+00:03:24,018 --> 00:03:25,814
+works in reverse compounding.
+
+110
+00:03:25,994 --> 00:03:28,334
+Instead of your money growing for you,
+
+111
+00:03:28,334 --> 00:03:30,058
+your debt grows against you.
+
+112
+00:03:30,238 --> 00:03:32,606
+Try this: list every card with its
+
+113
+00:03:32,606 --> 00:03:33,790
+balance and rate.
+
+114
+00:03:33,970 --> 00:03:35,802
+Pay the minimum on all of them,
+
+115
+00:03:35,802 --> 00:03:37,751
+and put every extra dollar on the
+
+116
+00:03:37,751 --> 00:03:39,288
+one with the highest rate.
+
+117
+00:03:39,468 --> 00:03:40,310
+When it's gone,
+
+118
+00:03:40,310 --> 00:03:42,219
+roll that payment to the next one.
+
+119
+00:03:42,399 --> 00:03:44,419
+It's called the avalanche method.
+
+120
+00:03:44,770 --> 00:03:45,954
+Habit number three.
+
+121
+00:03:46,134 --> 00:03:48,068
+Paying bank fees as if they were
+
+122
+00:03:48,068 --> 00:03:48,491
+normal.
+
+123
+00:03:48,841 --> 00:03:52,179
+The Consumer Financial Protection Bureau has reported
+
+124
+00:03:52,179 --> 00:03:54,825
+that banks collected billions of dollars a
+
+125
+00:03:54,825 --> 00:03:57,470
+year in overdraft and non sufficient funds
+
+126
+00:03:57,470 --> 00:03:59,423
+fees, and that a small share of
+
+127
+00:03:59,423 --> 00:04:01,124
+customers pay most of them.
+
+128
+00:04:01,304 --> 00:04:03,963
+An overdraft fee has often been around
+
+129
+00:04:03,963 --> 00:04:05,573
+thirty dollars or more,
+
+130
+00:04:05,573 --> 00:04:07,883
+sometimes on a purchase of just a
+
+131
+00:04:07,883 --> 00:04:08,723
+few dollars.
+
+132
+00:04:09,073 --> 00:04:11,835
+Many banks and credit unions now offer
+
+133
+00:04:11,835 --> 00:04:14,379
+accounts with no monthly fee and no
+
+134
+00:04:14,379 --> 00:04:15,470
+overdraft fees.
+
+135
+00:04:15,650 --> 00:04:17,507
+Switching takes an afternoon.
+
+136
+00:04:17,687 --> 00:04:19,667
+Try this: look at your last six
+
+137
+00:04:19,667 --> 00:04:22,029
+months of statements and add up every
+
+138
+00:04:22,029 --> 00:04:22,285
+fee.
+
+139
+00:04:22,465 --> 00:04:24,328
+Then call your bank and ask them
+
+140
+00:04:24,328 --> 00:04:26,017
+to waive the most recent one.
+
+141
+00:04:26,197 --> 00:04:27,730
+Many will, once.
+
+142
+00:04:27,910 --> 00:04:29,712
+And if your bank won't stop charging
+
+143
+00:04:29,712 --> 00:04:31,764
+you, consider moving to one that doesn't.
+
+144
+00:04:32,115 --> 00:04:33,125
+Habit number four.
+
+145
+00:04:33,305 --> 00:04:35,035
+Thinking in monthly payments.
+
+146
+00:04:35,385 --> 00:04:38,698
+Car dealers, phone carriers and even furniture
+
+147
+00:04:38,698 --> 00:04:41,004
+stores love to ask one question.
+
+148
+00:04:41,184 --> 00:04:43,239
+What monthly payment are you comfortable with?
+
+149
+00:04:43,419 --> 00:04:45,908
+Once you think in payments instead of
+
+150
+00:04:45,908 --> 00:04:49,003
+total price, almost anything feels affordable.
+
+151
+00:04:49,183 --> 00:04:51,997
+Edmunds has reported average new car payments
+
+152
+00:04:51,997 --> 00:04:54,498
+well above seven hundred dollars a month
+
+153
+00:04:54,498 --> 00:04:55,499
+in recent years.
+
+154
+00:04:55,849 --> 00:04:57,857
+The problem is that payments stack.
+
+155
+00:04:58,037 --> 00:04:59,436
+A car, a phone,
+
+156
+00:04:59,436 --> 00:05:01,115
+a couch, a laptop,
+
+157
+00:05:01,115 --> 00:05:03,540
+a buy now pay later order.
+
+158
+00:05:03,720 --> 00:05:05,531
+Each one feels small.
+
+159
+00:05:05,711 --> 00:05:07,584
+Together they can eat a huge share
+
+160
+00:05:07,584 --> 00:05:09,622
+of your income before you've bought a
+
+161
+00:05:09,622 --> 00:05:10,448
+single grocery.
+
+162
+00:05:10,628 --> 00:05:13,228
+Try this: add up every monthly payment
+
+163
+00:05:13,228 --> 00:05:15,760
+you have, excluding rent or mortgage.
+
+164
+00:05:15,940 --> 00:05:17,448
+Write the total on a sticky note
+
+165
+00:05:17,448 --> 00:05:19,098
+and put it somewhere you'll see it.
+
+166
+00:05:19,448 --> 00:05:20,690
+Habit number five.
+
+167
+00:05:20,870 --> 00:05:23,122
+Ignoring small recurring charges.
+
+168
+00:05:23,473 --> 00:05:26,630
+Streaming, music, cloud storage,
+
+169
+00:05:26,630 --> 00:05:29,295
+apps, delivery memberships,
+
+170
+00:05:29,295 --> 00:05:30,775
+gym, meal kits.
+
+171
+00:05:30,955 --> 00:05:32,627
+Each one is a few dollars a
+
+172
+00:05:32,627 --> 00:05:32,999
+month.
+
+173
+00:05:33,179 --> 00:05:36,522
+Surveys regularly find that people underestimate what
+
+174
+00:05:36,522 --> 00:05:38,289
+they spend on subscriptions,
+
+175
+00:05:38,289 --> 00:05:39,866
+sometimes by quite a lot.
+
+176
+00:05:40,046 --> 00:05:42,285
+Companies count on auto renewal and on
+
+177
+00:05:42,285 --> 00:05:43,169
+you forgetting.
+
+178
+00:05:43,519 --> 00:05:45,950
+Ten dollars a month doesn't sound like
+
+179
+00:05:45,950 --> 00:05:46,270
+much.
+
+180
+00:05:46,450 --> 00:05:48,795
+But ten subscriptions at ten dollars is
+
+181
+00:05:48,795 --> 00:05:50,479
+one hundred dollars a month,
+
+182
+00:05:50,479 --> 00:05:51,802
+twelve hundred a year.
+
+183
+00:05:51,982 --> 00:05:54,562
+Try this: search your statements for every
+
+184
+00:05:54,562 --> 00:05:55,790
+charge that repeats.
+
+185
+00:05:55,970 --> 00:05:56,901
+Next to each one,
+
+186
+00:05:56,901 --> 00:05:58,652
+write the last date you used it.
+
+187
+00:05:58,832 --> 00:06:00,701
+Cancel anything older than a month.
+
+188
+00:06:00,881 --> 00:06:02,077
+If you really miss it,
+
+189
+00:06:02,077 --> 00:06:03,598
+you can sign up again later.
+
+190
+00:06:03,949 --> 00:06:05,202
+Habit number six.
+
+191
+00:06:05,382 --> 00:06:07,356
+Eating out because there's no plan.
+
+192
+00:06:07,706 --> 00:06:09,668
+Food away from home is one of
+
+193
+00:06:09,668 --> 00:06:13,323
+the biggest budget categories for American households,
+
+194
+00:06:13,323 --> 00:06:16,232
+according to the Bureau of Labor Statistics
+
+195
+00:06:16,232 --> 00:06:17,992
+consumer expenditure data.
+
+196
+00:06:18,172 --> 00:06:20,006
+Much of it isn't special dinners.
+
+197
+00:06:20,186 --> 00:06:22,274
+It's the default choice at the end
+
+198
+00:06:22,274 --> 00:06:23,134
+of a long day,
+
+199
+00:06:23,134 --> 00:06:25,283
+when there's nothing ready at home.
+
+200
+00:06:25,634 --> 00:06:27,456
+The fix isn't to never eat out.
+
+201
+00:06:27,636 --> 00:06:29,210
+It's to make eating at home the
+
+202
+00:06:29,210 --> 00:06:29,819
+easy option.
+
+203
+00:06:29,999 --> 00:06:31,258
+Try this: on Sunday,
+
+204
+00:06:31,258 --> 00:06:33,588
+plan four simple dinners for the week
+
+205
+00:06:33,588 --> 00:06:35,478
+and buy only what you need for
+
+206
+00:06:35,478 --> 00:06:35,792
+them.
+
+207
+00:06:35,972 --> 00:06:38,712
+Cook double portions so you have lunches.
+
+208
+00:06:38,892 --> 00:06:41,383
+If you replace even three takeout meals
+
+209
+00:06:41,383 --> 00:06:43,490
+a week, the yearly savings can be
+
+210
+00:06:43,490 --> 00:06:45,853
+well over a thousand dollars for many
+
+211
+00:06:45,853 --> 00:06:46,427
+families.
+
+212
+00:06:46,778 --> 00:06:47,892
+Habit number seven.
+
+213
+00:06:48,072 --> 00:06:50,697
+Leaving savings in an account that pays
+
+214
+00:06:50,697 --> 00:06:51,706
+almost nothing.
+
+215
+00:06:52,056 --> 00:06:54,925
+Many traditional savings accounts pay a tiny
+
+216
+00:06:54,925 --> 00:06:57,925
+interest rate, while online high yield savings
+
+217
+00:06:57,925 --> 00:07:01,055
+accounts have offered rates several times higher
+
+218
+00:07:01,055 --> 00:07:02,098
+in recent years.
+
+219
+00:07:02,278 --> 00:07:04,527
+When inflation runs at a few percent
+
+220
+00:07:04,527 --> 00:07:06,776
+and your savings earn close to zero,
+
+221
+00:07:06,776 --> 00:07:09,212
+your money is losing buying power every
+
+222
+00:07:09,212 --> 00:07:11,649
+year, even though the balance looks the
+
+223
+00:07:11,649 --> 00:07:11,961
+same.
+
+224
+00:07:12,311 --> 00:07:14,813
+Your emergency fund should be safe and
+
+225
+00:07:14,813 --> 00:07:15,735
+easy to reach,
+
+226
+00:07:15,735 --> 00:07:18,303
+so a high yield savings account insured
+
+227
+00:07:18,303 --> 00:07:20,345
+by the FDIC is a common choice.
+
+228
+00:07:20,525 --> 00:07:22,458
+Try this: check the rate on your
+
+229
+00:07:22,458 --> 00:07:23,787
+savings account today.
+
+230
+00:07:23,967 --> 00:07:25,840
+Then compare it with a few FDIC
+
+231
+00:07:25,840 --> 00:07:27,531
+insured high yield accounts.
+
+232
+00:07:27,711 --> 00:07:28,983
+If the gap is big,
+
+233
+00:07:28,983 --> 00:07:32,093
+moving the money takes about fifteen minutes
+
+234
+00:07:32,093 --> 00:07:33,365
+and costs nothing.
+
+235
+00:07:33,716 --> 00:07:34,865
+Habit number eight.
+
+236
+00:07:35,045 --> 00:07:36,624
+Paying bills late.
+
+237
+00:07:36,974 --> 00:07:39,110
+Late payments cost twice.
+
+238
+00:07:39,290 --> 00:07:41,040
+First, the late fee itself,
+
+239
+00:07:41,040 --> 00:07:43,308
+which can be thirty dollars or more
+
+240
+00:07:43,308 --> 00:07:44,410
+on a credit card.
+
+241
+00:07:44,590 --> 00:07:47,057
+Second, if a payment is reported as
+
+242
+00:07:47,057 --> 00:07:48,819
+thirty days late or more,
+
+243
+00:07:48,819 --> 00:07:51,145
+it can hurt your credit score for
+
+244
+00:07:51,145 --> 00:07:51,567
+years.
+
+245
+00:07:51,747 --> 00:07:54,439
+A lower score means higher rates on
+
+246
+00:07:54,439 --> 00:07:58,284
+car loans, mortgages and sometimes even insurance.
+
+247
+00:07:58,634 --> 00:08:01,208
+Most late payments aren't because people can't
+
+248
+00:08:01,208 --> 00:08:01,432
+pay.
+
+249
+00:08:01,612 --> 00:08:02,587
+They just forget.
+
+250
+00:08:02,767 --> 00:08:04,843
+Try this: set every bill you can
+
+251
+00:08:04,843 --> 00:08:07,179
+to automatic payment of at least the
+
+252
+00:08:07,179 --> 00:08:09,710
+minimum, timed a few days after payday.
+
+253
+00:08:09,890 --> 00:08:12,170
+Then set a monthly reminder to review
+
+254
+00:08:12,170 --> 00:08:12,479
+them.
+
+255
+00:08:12,659 --> 00:08:14,424
+Automation removes the forgetting,
+
+256
+00:08:14,424 --> 00:08:16,293
+and the review keeps you in control.
+
+257
+00:08:16,643 --> 00:08:17,757
+Habit number nine.
+
+258
+00:08:17,937 --> 00:08:19,261
+Always buying new.
+
+259
+00:08:19,611 --> 00:08:22,031
+Cars, furniture, tools,
+
+260
+00:08:22,031 --> 00:08:24,978
+baby gear, sports equipment,
+
+261
+00:08:24,978 --> 00:08:26,031
+textbooks.
+
+262
+00:08:26,211 --> 00:08:28,072
+Many of these lose a big part
+
+263
+00:08:28,072 --> 00:08:30,382
+of their value right after the first
+
+264
+00:08:30,382 --> 00:08:30,959
+purchase.
+
+265
+00:08:31,139 --> 00:08:33,316
+Buying lightly used lets someone else pay
+
+266
+00:08:33,316 --> 00:08:34,379
+for that first drop.
+
+267
+00:08:34,559 --> 00:08:36,918
+For cars, the first few years usually
+
+268
+00:08:36,918 --> 00:08:38,959
+bring the biggest loss in value.
+
+269
+00:08:39,309 --> 00:08:40,783
+This doesn't mean buying junk.
+
+270
+00:08:40,963 --> 00:08:43,349
+It means checking the used market first,
+
+271
+00:08:43,349 --> 00:08:45,259
+especially for things that last.
+
+272
+00:08:45,439 --> 00:08:48,054
+Try this: next time you need something
+
+273
+00:08:48,054 --> 00:08:49,775
+over one hundred dollars,
+
+274
+00:08:49,775 --> 00:08:53,009
+spend ten minutes checking used options locally
+
+275
+00:08:53,009 --> 00:08:55,005
+or online before you buy new.
+
+276
+00:08:55,185 --> 00:08:56,157
+Over a lifetime,
+
+277
+00:08:56,157 --> 00:08:57,858
+that one habit can add up to
+
+278
+00:08:57,858 --> 00:08:59,620
+tens of thousands of dollars.
+
+279
+00:08:59,971 --> 00:09:01,235
+Before we move on,
+
+280
+00:09:01,235 --> 00:09:03,344
+let's do the math on why these
+
+281
+00:09:03,344 --> 00:09:05,311
+quiet habits matter so much.
+
+282
+00:09:05,491 --> 00:09:08,737
+Benjamin Franklin supposedly warned to beware of
+
+283
+00:09:08,737 --> 00:09:11,577
+little expenses, because a small leak will
+
+284
+00:09:11,577 --> 00:09:12,794
+sink a great ship.
+
+285
+00:09:12,974 --> 00:09:15,495
+Whether he said it exactly that way
+
+286
+00:09:15,495 --> 00:09:17,223
+or not, the math agrees.
+
+287
+00:09:17,403 --> 00:09:19,595
+A six dollar daily habit is over
+
+288
+00:09:19,595 --> 00:09:21,513
+two thousand dollars a year.
+
+289
+00:09:21,693 --> 00:09:24,132
+A forty dollar monthly fee is almost
+
+290
+00:09:24,132 --> 00:09:25,013
+five hundred.
+
+291
+00:09:25,193 --> 00:09:27,688
+A credit card balance at twenty percent
+
+292
+00:09:27,688 --> 00:09:30,183
+quietly takes a thousand dollars a year
+
+293
+00:09:30,183 --> 00:09:31,591
+on five thousand owed.
+
+294
+00:09:31,941 --> 00:09:33,972
+Now stack a few of those together.
+
+295
+00:09:34,152 --> 00:09:36,219
+A forgotten subscription or two,
+
+296
+00:09:36,219 --> 00:09:37,898
+a bank fee here and there,
+
+297
+00:09:37,898 --> 00:09:40,675
+some interest, takeout three extra nights a
+
+298
+00:09:40,675 --> 00:09:42,936
+week, and a car payment bigger than
+
+299
+00:09:42,936 --> 00:09:43,905
+it needs to be.
+
+300
+00:09:44,085 --> 00:09:46,196
+For many households that easily adds up
+
+301
+00:09:46,196 --> 00:09:48,090
+to several hundred dollars a month.
+
+302
+00:09:48,270 --> 00:09:50,392
+That's money that isn't going into an
+
+303
+00:09:50,392 --> 00:09:52,801
+emergency fund, isn't paying down debt and
+
+304
+00:09:52,801 --> 00:09:54,005
+isn't being invested.
+
+305
+00:09:54,185 --> 00:09:55,433
+Month after month,
+
+306
+00:09:55,433 --> 00:09:56,542
+year after year.
+
+307
+00:09:56,893 --> 00:09:58,936
+And here's the part most people miss.
+
+308
+00:09:59,116 --> 00:10:01,325
+Those leaks don't only cost what you
+
+309
+00:10:01,325 --> 00:10:01,693
+spend.
+
+310
+00:10:01,873 --> 00:10:03,710
+They cost what that money could have
+
+311
+00:10:03,710 --> 00:10:04,068
+become.
+
+312
+00:10:04,248 --> 00:10:06,245
+Every dollar that leaks out today is
+
+313
+00:10:06,245 --> 00:10:08,188
+a dollar that never gets the chance
+
+314
+00:10:08,188 --> 00:10:10,074
+to compound for the next twenty or
+
+315
+00:10:10,074 --> 00:10:10,796
+thirty years.
+
+316
+00:10:10,976 --> 00:10:13,236
+That's why fixing these habits in your
+
+317
+00:10:13,236 --> 00:10:15,377
+twenties or thirties is so powerful,
+
+318
+00:10:15,377 --> 00:10:17,161
+and why fixing them at any age
+
+319
+00:10:17,161 --> 00:10:18,232
+is still worth it.
+
+320
+00:10:18,582 --> 00:10:21,020
+Here's what fixing these first nine habits
+
+321
+00:10:21,020 --> 00:10:21,832
+can add up to.
+
+322
+00:10:22,012 --> 00:10:24,115
+Say they free up four hundred dollars
+
+323
+00:10:24,115 --> 00:10:25,763
+a month, and you invest it at
+
+324
+00:10:25,763 --> 00:10:27,922
+a seven percent average yearly return.
+
+325
+00:10:28,102 --> 00:10:29,454
+After twenty five years,
+
+326
+00:10:29,454 --> 00:10:32,214
+that's roughly three hundred twenty four thousand
+
+327
+00:10:32,214 --> 00:10:32,665
+dollars.
+
+328
+00:10:33,015 --> 00:10:34,071
+That's angle one.
+
+329
+00:10:34,251 --> 00:10:36,143
+Notice that none of these are dramatic.
+
+330
+00:10:36,323 --> 00:10:37,043
+They're quiet.
+
+331
+00:10:37,223 --> 00:10:39,267
+That's exactly why they're dangerous.
+
+332
+00:10:39,447 --> 00:10:40,612
+Now angle two,
+
+333
+00:10:40,612 --> 00:10:41,862
+the psychology.
+
+334
+00:10:42,042 --> 00:10:43,903
+These are the mental habits that make
+
+335
+00:10:43,903 --> 00:10:45,211
+the money habits possible.
+
+336
+00:10:45,561 --> 00:10:47,843
+Spending decisions happen fast,
+
+337
+00:10:47,843 --> 00:10:49,095
+often in seconds,
+
+338
+00:10:49,095 --> 00:10:51,598
+and usually without much thinking.
+
+339
+00:10:51,778 --> 00:10:55,407
+Behavioral economists, like Nobel Prize winners Daniel
+
+340
+00:10:55,407 --> 00:10:57,289
+Kahneman and Richard Thaler,
+
+341
+00:10:57,289 --> 00:11:00,650
+spent decades showing that humans aren't perfectly
+
+342
+00:11:00,650 --> 00:11:01,995
+rational with money.
+
+343
+00:11:02,175 --> 00:11:03,730
+We use shortcuts.
+
+344
+00:11:03,910 --> 00:11:06,429
+Those shortcuts are useful in daily life,
+
+345
+00:11:06,429 --> 00:11:08,395
+but some of them quietly keep us
+
+346
+00:11:08,395 --> 00:11:08,763
+broke.
+
+347
+00:11:09,114 --> 00:11:10,333
+Habit number ten.
+
+348
+00:11:10,513 --> 00:11:12,521
+Treating extra money as free money.
+
+349
+00:11:12,871 --> 00:11:13,948
+A tax refund,
+
+350
+00:11:13,948 --> 00:11:16,103
+a bonus, a birthday check,
+
+351
+00:11:16,103 --> 00:11:17,677
+a side gig payment.
+
+352
+00:11:17,857 --> 00:11:19,993
+Thaler called this mental accounting.
+
+353
+00:11:20,173 --> 00:11:22,841
+We put money into different mental buckets,
+
+354
+00:11:22,841 --> 00:11:25,384
+and money that feels unexpected goes into
+
+355
+00:11:25,384 --> 00:11:26,315
+the fun bucket.
+
+356
+00:11:26,495 --> 00:11:27,942
+But a dollar is a dollar,
+
+357
+00:11:27,942 --> 00:11:30,084
+whether it came from your paycheck or
+
+358
+00:11:30,084 --> 00:11:30,605
+a refund.
+
+359
+00:11:30,955 --> 00:11:33,545
+The IRS has reported average federal tax
+
+360
+00:11:33,545 --> 00:11:36,394
+refunds of roughly three thousand dollars in
+
+361
+00:11:36,394 --> 00:11:37,236
+recent years.
+
+362
+00:11:37,416 --> 00:11:38,560
+For many households,
+
+363
+00:11:38,560 --> 00:11:40,850
+that's the single biggest chunk of money
+
+364
+00:11:40,850 --> 00:11:41,880
+they get all year,
+
+365
+00:11:41,880 --> 00:11:43,998
+and it often disappears within weeks.
+
+366
+00:11:44,178 --> 00:11:47,156
+Try this: before your next windfall arrives,
+
+367
+00:11:47,156 --> 00:11:49,322
+decide in writing where it goes.
+
+368
+00:11:49,502 --> 00:11:52,408
+For example, half to savings or debt,
+
+369
+00:11:52,408 --> 00:11:53,507
+half to enjoy.
+
+370
+00:11:53,687 --> 00:11:55,475
+Decide before you see the money.
+
+371
+00:11:55,825 --> 00:11:57,183
+Habit number eleven.
+
+372
+00:11:57,363 --> 00:11:59,383
+Rewarding yourself for everything.
+
+373
+00:11:59,733 --> 00:12:01,428
+Hard day, buy something.
+
+374
+00:12:01,608 --> 00:12:03,279
+Good day, buy something.
+
+375
+00:12:03,459 --> 00:12:04,723
+Finished a project,
+
+376
+00:12:04,723 --> 00:12:05,654
+buy something.
+
+377
+00:12:05,834 --> 00:12:06,967
+Treats are fine,
+
+378
+00:12:06,967 --> 00:12:09,728
+but when every feeling becomes a reason
+
+379
+00:12:09,728 --> 00:12:12,561
+to spend, rewards stop being special and
+
+380
+00:12:12,561 --> 00:12:14,402
+start being a budget line.
+
+381
+00:12:14,582 --> 00:12:16,979
+Many people don't notice how often they
+
+382
+00:12:16,979 --> 00:12:18,761
+use the words I deserve this.
+
+383
+00:12:19,112 --> 00:12:21,004
+The trick is to find rewards that
+
+384
+00:12:21,004 --> 00:12:21,921
+don't cost much.
+
+385
+00:12:22,101 --> 00:12:23,884
+A walk, a long call with a
+
+386
+00:12:23,884 --> 00:12:26,558
+friend, a favorite meal cooked at home,
+
+387
+00:12:26,558 --> 00:12:27,929
+an hour with a book.
+
+388
+00:12:28,109 --> 00:12:31,047
+Save the bigger rewards for real milestones.
+
+389
+00:12:31,227 --> 00:12:32,812
+Try this: for one week,
+
+390
+00:12:32,812 --> 00:12:35,362
+notice every time you think I deserve
+
+391
+00:12:35,362 --> 00:12:36,672
+this before buying.
+
+392
+00:12:36,852 --> 00:12:37,688
+Just count them.
+
+393
+00:12:37,868 --> 00:12:40,178
+The number alone can change your behavior.
+
+394
+00:12:40,528 --> 00:12:41,816
+Habit number twelve.
+
+395
+00:12:41,996 --> 00:12:43,796
+Spending to keep up with friends.
+
+396
+00:12:44,146 --> 00:12:46,616
+Group dinners, weekend trips,
+
+397
+00:12:46,616 --> 00:12:48,916
+bachelor parties, concerts,
+
+398
+00:12:48,916 --> 00:12:50,194
+birthday gifts.
+
+399
+00:12:50,374 --> 00:12:52,092
+Saying no feels awkward,
+
+400
+00:12:52,092 --> 00:12:54,239
+so many people say yes and put
+
+401
+00:12:54,239 --> 00:12:55,169
+it on a card.
+
+402
+00:12:55,349 --> 00:12:58,398
+Surveys from places like Bankrate and Credit
+
+403
+00:12:58,398 --> 00:13:01,100
+Karma have found that many adults admit
+
+404
+00:13:01,100 --> 00:13:03,871
+to overspending to keep up with friends.
+
+405
+00:13:04,221 --> 00:13:06,067
+Real friends usually understand.
+
+406
+00:13:06,247 --> 00:13:08,744
+Most people are relieved when someone else
+
+407
+00:13:08,744 --> 00:13:10,171
+suggests a cheaper plan.
+
+408
+00:13:10,351 --> 00:13:12,419
+Try this: be the one who suggests
+
+409
+00:13:12,419 --> 00:13:13,797
+the potluck, the hike,
+
+410
+00:13:13,797 --> 00:13:15,239
+the game night at home.
+
+411
+00:13:15,419 --> 00:13:17,408
+And when you can't afford something,
+
+412
+00:13:17,408 --> 00:13:18,182
+say it simply.
+
+413
+00:13:18,362 --> 00:13:20,280
+That's not in my budget this month,
+
+414
+00:13:20,280 --> 00:13:22,089
+but let's do something next week.
+
+415
+00:13:22,269 --> 00:13:24,344
+You'll be surprised how many people feel
+
+416
+00:13:24,344 --> 00:13:24,811
+the same.
+
+417
+00:13:25,161 --> 00:13:26,600
+Habit number thirteen.
+
+418
+00:13:26,780 --> 00:13:29,149
+Always choosing today over tomorrow.
+
+419
+00:13:29,499 --> 00:13:31,925
+Economists call it present bias.
+
+420
+00:13:32,105 --> 00:13:34,078
+We value a reward today much more
+
+421
+00:13:34,078 --> 00:13:35,693
+than a bigger reward later.
+
+422
+00:13:35,873 --> 00:13:38,222
+That's why saving for retirement feels so
+
+423
+00:13:38,222 --> 00:13:38,508
+hard.
+
+424
+00:13:38,688 --> 00:13:40,209
+Retirement is far away,
+
+425
+00:13:40,209 --> 00:13:42,392
+and the new jacket is right here.
+
+426
+00:13:42,572 --> 00:13:44,996
+Your future self feels almost like a
+
+427
+00:13:44,996 --> 00:13:45,602
+stranger.
+
+428
+00:13:45,952 --> 00:13:48,604
+Researchers have found that helping people picture
+
+429
+00:13:48,604 --> 00:13:50,621
+their future selves can make them save
+
+430
+00:13:50,621 --> 00:13:50,886
+more.
+
+431
+00:13:51,066 --> 00:13:53,253
+Try this: write a short letter from
+
+432
+00:13:53,253 --> 00:13:54,752
+yourself at age seventy,
+
+433
+00:13:54,752 --> 00:13:57,126
+thanking you for what you start today.
+
+434
+00:13:57,306 --> 00:13:58,291
+It sounds silly,
+
+435
+00:13:58,291 --> 00:14:00,383
+but it makes the future feel real.
+
+436
+00:14:00,563 --> 00:14:03,328
+Then set up one small automatic transfer
+
+437
+00:14:03,328 --> 00:14:04,986
+to a retirement account.
+
+438
+00:14:05,337 --> 00:14:06,846
+Habit number fourteen.
+
+439
+00:14:07,026 --> 00:14:08,500
+Not looking at your accounts.
+
+440
+00:14:08,851 --> 00:14:11,503
+Researchers have documented what they call the
+
+441
+00:14:11,503 --> 00:14:12,368
+ostrich effect.
+
+442
+00:14:12,548 --> 00:14:15,068
+People check their accounts less often when
+
+443
+00:14:15,068 --> 00:14:16,298
+they expect bad news.
+
+444
+00:14:16,478 --> 00:14:18,162
+It feels better in the moment,
+
+445
+00:14:18,162 --> 00:14:19,845
+but problems grow in the dark.
+
+446
+00:14:20,025 --> 00:14:21,013
+Fees pile up,
+
+447
+00:14:21,013 --> 00:14:22,607
+fraud goes unnoticed,
+
+448
+00:14:22,607 --> 00:14:24,658
+and debt keeps compounding.
+
+449
+00:14:25,008 --> 00:14:27,666
+Avoiding money is usually about feelings,
+
+450
+00:14:27,666 --> 00:14:29,093
+like shame or anxiety,
+
+451
+00:14:29,093 --> 00:14:30,325
+not about laziness.
+
+452
+00:14:30,505 --> 00:14:32,523
+The fix is to make looking small
+
+453
+00:14:32,523 --> 00:14:33,280
+and regular.
+
+454
+00:14:33,460 --> 00:14:35,590
+Try this: set a ten minute money
+
+455
+00:14:35,590 --> 00:14:36,722
+date once a week.
+
+456
+00:14:36,902 --> 00:14:38,494
+Same day, same time,
+
+457
+00:14:38,494 --> 00:14:40,165
+with a coffee or tea.
+
+458
+00:14:40,345 --> 00:14:41,439
+Open every account,
+
+459
+00:14:41,439 --> 00:14:42,591
+look at the balance,
+
+460
+00:14:42,591 --> 00:14:44,147
+check for anything strange,
+
+461
+00:14:44,147 --> 00:14:44,896
+and close it.
+
+462
+00:14:45,076 --> 00:14:45,563
+That's it.
+
+463
+00:14:45,914 --> 00:14:46,935
+Quick break.
+
+464
+00:14:47,115 --> 00:14:48,927
+If these habits sound familiar,
+
+465
+00:14:48,927 --> 00:14:49,920
+you're not alone,
+
+466
+00:14:49,920 --> 00:14:51,966
+and that's exactly why I make these
+
+467
+00:14:51,966 --> 00:14:52,375
+videos.
+
+468
+00:14:52,555 --> 00:14:54,851
+If you want more breakdowns like this,
+
+469
+00:14:54,851 --> 00:14:56,665
+subscribe to Ryan Rover Money.
+
+470
+00:14:56,845 --> 00:14:58,620
+It's free and it really helps the
+
+471
+00:14:58,620 --> 00:14:59,050
+channel.
+
+472
+00:14:59,230 --> 00:15:01,372
+Okay, back to the psychology,
+
+473
+00:15:01,372 --> 00:15:02,702
+and habit fifteen.
+
+474
+00:15:03,052 --> 00:15:04,422
+Habit number fifteen.
+
+475
+00:15:04,602 --> 00:15:06,424
+Believing it's too late to start.
+
+476
+00:15:06,775 --> 00:15:08,554
+People in their thirties think they missed
+
+477
+00:15:08,554 --> 00:15:09,189
+their twenties.
+
+478
+00:15:09,369 --> 00:15:11,429
+People in their fifties think they missed
+
+479
+00:15:11,429 --> 00:15:11,982
+everything.
+
+480
+00:15:12,162 --> 00:15:13,810
+So they don't start at all.
+
+481
+00:15:13,990 --> 00:15:15,430
+But time works forward.
+
+482
+00:15:15,610 --> 00:15:17,461
+The best day to start was years
+
+483
+00:15:17,461 --> 00:15:17,700
+ago.
+
+484
+00:15:17,880 --> 00:15:19,610
+The second best day is today.
+
+485
+00:15:19,960 --> 00:15:21,248
+Here's encouraging math.
+
+486
+00:15:21,428 --> 00:15:23,588
+Someone who starts at forty five and
+
+487
+00:15:23,588 --> 00:15:25,927
+invests five hundred dollars a month at
+
+488
+00:15:25,927 --> 00:15:28,507
+a seven percent average yearly return could
+
+489
+00:15:28,507 --> 00:15:31,206
+have roughly four hundred thousand dollars by
+
+490
+00:15:31,206 --> 00:15:31,866
+sixty five.
+
+491
+00:15:32,046 --> 00:15:34,165
+Not the same as starting at twenty
+
+492
+00:15:34,165 --> 00:15:36,098
+five, but far better than zero.
+
+493
+00:15:36,278 --> 00:15:38,364
+Try this: replace the thought it's too
+
+494
+00:15:38,364 --> 00:15:40,176
+late with the question what can I
+
+495
+00:15:40,176 --> 00:15:41,548
+do in the next ten years?
+
+496
+00:15:41,899 --> 00:15:43,443
+Habit number sixteen.
+
+497
+00:15:43,623 --> 00:15:46,514
+Believing a bigger paycheck will fix everything.
+
+498
+00:15:46,864 --> 00:15:48,326
+More income helps,
+
+499
+00:15:48,326 --> 00:15:49,220
+absolutely.
+
+500
+00:15:49,400 --> 00:15:51,298
+But if the habits don't change,
+
+501
+00:15:51,298 --> 00:15:53,441
+spending tends to rise to match the
+
+502
+00:15:53,441 --> 00:15:54,114
+new income.
+
+503
+00:15:54,294 --> 00:15:57,139
+Economists call this lifestyle inflation.
+
+504
+00:15:57,319 --> 00:15:59,757
+Plenty of high earners live paycheck to
+
+505
+00:15:59,757 --> 00:16:02,571
+paycheck, and plenty of average earners build
+
+506
+00:16:02,571 --> 00:16:03,321
+real wealth.
+
+507
+00:16:03,671 --> 00:16:04,832
+The test is simple.
+
+508
+00:16:05,012 --> 00:16:07,047
+If you can't save anything at your
+
+509
+00:16:07,047 --> 00:16:09,680
+current income, a raise alone probably won't
+
+510
+00:16:09,680 --> 00:16:10,399
+change that.
+
+511
+00:16:10,579 --> 00:16:12,285
+The habit has to come first.
+
+512
+00:16:12,465 --> 00:16:15,640
+Try this: practice saving even five percent
+
+513
+00:16:15,640 --> 00:16:17,191
+of what you earn now.
+
+514
+00:16:17,371 --> 00:16:18,631
+When the raise comes,
+
+515
+00:16:18,631 --> 00:16:20,792
+keep your lifestyle the same for six
+
+516
+00:16:20,792 --> 00:16:22,653
+months and save the difference.
+
+517
+00:16:23,003 --> 00:16:24,605
+Habit number seventeen.
+
+518
+00:16:24,785 --> 00:16:26,747
+Believing wealth is for other people.
+
+519
+00:16:27,097 --> 00:16:29,512
+Some people grow up hearing that rich
+
+520
+00:16:29,512 --> 00:16:30,688
+people are greedy,
+
+521
+00:16:30,688 --> 00:16:32,581
+that money is the root of all
+
+522
+00:16:32,581 --> 00:16:34,801
+evil, or that people like us don't
+
+523
+00:16:34,801 --> 00:16:35,258
+invest.
+
+524
+00:16:35,438 --> 00:16:37,925
+Those beliefs can quietly stop you from
+
+525
+00:16:37,925 --> 00:16:39,837
+opening an investment account,
+
+526
+00:16:39,837 --> 00:16:41,049
+asking for a raise,
+
+527
+00:16:41,049 --> 00:16:42,834
+or learning how money works.
+
+528
+00:16:43,184 --> 00:16:46,359
+Stanley's research found that many American millionaires
+
+529
+00:16:46,359 --> 00:16:48,060
+were first generation wealthy.
+
+530
+00:16:48,240 --> 00:16:49,389
+They didn't inherit it.
+
+531
+00:16:49,569 --> 00:16:50,931
+They were teachers,
+
+532
+00:16:50,931 --> 00:16:53,296
+engineers, small business owners.
+
+533
+00:16:53,476 --> 00:16:55,879
+Try this: write down three beliefs about
+
+534
+00:16:55,879 --> 00:16:57,261
+money you grew up with.
+
+535
+00:16:57,441 --> 00:16:58,740
+Next to each one,
+
+536
+00:16:58,740 --> 00:17:00,803
+ask: is this actually true,
+
+537
+00:17:00,803 --> 00:17:02,561
+or is it just familiar?
+
+538
+00:17:02,911 --> 00:17:04,742
+Let's go one level deeper on the
+
+539
+00:17:04,742 --> 00:17:07,661
+psychology, because understanding this takes away a
+
+540
+00:17:07,661 --> 00:17:08,634
+lot of the guilt.
+
+541
+00:17:08,814 --> 00:17:11,062
+Spending gives your brain a reward right
+
+542
+00:17:11,062 --> 00:17:11,287
+now.
+
+543
+00:17:11,467 --> 00:17:13,986
+Saving gives you a reward years from
+
+544
+00:17:13,986 --> 00:17:16,085
+now, in a future you can't see
+
+545
+00:17:16,085 --> 00:17:16,645
+or feel.
+
+546
+00:17:16,825 --> 00:17:19,424
+Studies of decision making show that people
+
+547
+00:17:19,424 --> 00:17:21,842
+tend to discount future rewards steeply,
+
+548
+00:17:21,842 --> 00:17:23,655
+which is a fancy way of saying
+
+549
+00:17:23,655 --> 00:17:25,892
+a dollar today feels much bigger than
+
+550
+00:17:25,892 --> 00:17:26,798
+a dollar later.
+
+551
+00:17:27,149 --> 00:17:28,085
+On top of that,
+
+552
+00:17:28,085 --> 00:17:30,770
+modern shopping is designed to remove every
+
+553
+00:17:30,770 --> 00:17:31,769
+bit of friction.
+
+554
+00:17:31,949 --> 00:17:33,446
+One click checkout,
+
+555
+00:17:33,446 --> 00:17:35,338
+saved cards, tap to pay,
+
+556
+00:17:35,338 --> 00:17:36,756
+buy now pay later.
+
+557
+00:17:36,936 --> 00:17:39,620
+Researchers have found that people tend to
+
+558
+00:17:39,620 --> 00:17:42,304
+spend more when paying feels less painful,
+
+559
+00:17:42,304 --> 00:17:44,796
+for example with cards instead of cash.
+
+560
+00:17:44,976 --> 00:17:46,556
+When paying doesn't hurt,
+
+561
+00:17:46,556 --> 00:17:48,830
+spending grows without you noticing.
+
+562
+00:17:49,181 --> 00:17:51,665
+So the solution isn't to feel more
+
+563
+00:17:51,665 --> 00:17:52,176
+guilty.
+
+564
+00:17:52,356 --> 00:17:54,028
+It's to flip the friction.
+
+565
+00:17:54,208 --> 00:17:56,454
+Make spending a little harder and saving
+
+566
+00:17:56,454 --> 00:17:57,633
+completely automatic.
+
+567
+00:17:57,813 --> 00:18:00,564
+Delete saved cards from shopping sites.
+
+568
+00:18:00,744 --> 00:18:02,416
+Turn off one click buying.
+
+569
+00:18:02,596 --> 00:18:04,651
+Take shopping apps off your home screen.
+
+570
+00:18:04,831 --> 00:18:06,639
+And move savings automatically,
+
+571
+00:18:06,639 --> 00:18:09,088
+so the good choice happens without needing
+
+572
+00:18:09,088 --> 00:18:10,079
+willpower at all.
+
+573
+00:18:10,429 --> 00:18:11,357
+That's angle two.
+
+574
+00:18:11,537 --> 00:18:13,381
+Mental accounting, rewards,
+
+575
+00:18:13,381 --> 00:18:15,292
+peer pressure, present bias,
+
+576
+00:18:15,292 --> 00:18:18,364
+avoidance, and the stories we tell ourselves.
+
+577
+00:18:18,544 --> 00:18:19,693
+Now angle three.
+
+578
+00:18:19,873 --> 00:18:20,582
+The playbook.
+
+579
+00:18:20,762 --> 00:18:22,897
+These are the systems that are missing
+
+580
+00:18:22,897 --> 00:18:24,303
+in most broke households,
+
+581
+00:18:24,303 --> 00:18:26,157
+and the good news is they're easy
+
+582
+00:18:26,157 --> 00:18:26,776
+to install.
+
+583
+00:18:27,126 --> 00:18:28,844
+Willpower runs out.
+
+584
+00:18:29,024 --> 00:18:30,034
+Systems don't.
+
+585
+00:18:30,214 --> 00:18:32,130
+The people who stay on track with
+
+586
+00:18:32,130 --> 00:18:35,090
+money usually aren't more disciplined than everyone
+
+587
+00:18:35,090 --> 00:18:35,380
+else.
+
+588
+00:18:35,560 --> 00:18:37,592
+They've just built a few simple systems
+
+589
+00:18:37,592 --> 00:18:39,728
+so the right thing happens automatically.
+
+590
+00:18:39,908 --> 00:18:41,831
+The last eight habits on our list
+
+591
+00:18:41,831 --> 00:18:42,997
+are missing systems.
+
+592
+00:18:43,347 --> 00:18:44,809
+Habit number eighteen.
+
+593
+00:18:44,989 --> 00:18:47,126
+Living without an emergency fund.
+
+594
+00:18:47,476 --> 00:18:49,075
+Without a cash cushion,
+
+595
+00:18:49,075 --> 00:18:50,187
+every flat tire,
+
+596
+00:18:50,187 --> 00:18:52,760
+dentist visit or broken phone goes on
+
+597
+00:18:52,760 --> 00:18:53,733
+a credit card.
+
+598
+00:18:53,913 --> 00:18:56,412
+Then the interest makes the surprise even
+
+599
+00:18:56,412 --> 00:18:57,327
+more expensive.
+
+600
+00:18:57,507 --> 00:18:59,419
+It's one of the main ways people
+
+601
+00:18:59,419 --> 00:19:01,092
+get stuck in a cycle of debt
+
+602
+00:19:01,092 --> 00:19:02,406
+that never quite ends.
+
+603
+00:19:02,756 --> 00:19:05,300
+A common starting goal is one thousand
+
+604
+00:19:05,300 --> 00:19:07,711
+dollars, then one month of expenses,
+
+605
+00:19:07,711 --> 00:19:09,385
+then three to six months.
+
+606
+00:19:09,565 --> 00:19:12,312
+Try this: open a separate savings account
+
+607
+00:19:12,312 --> 00:19:13,719
+just for emergencies,
+
+608
+00:19:13,719 --> 00:19:15,730
+with a name like do not touch.
+
+609
+00:19:15,910 --> 00:19:18,380
+Set an automatic transfer of even twenty
+
+610
+00:19:18,380 --> 00:19:19,985
+five dollars every payday.
+
+611
+00:19:20,165 --> 00:19:23,543
+Small and automatic beats big and someday.
+
+612
+00:19:23,894 --> 00:19:25,310
+Habit number nineteen.
+
+613
+00:19:25,490 --> 00:19:27,497
+Saving whatever is left at the end
+
+614
+00:19:27,497 --> 00:19:28,265
+of the month.
+
+615
+00:19:28,615 --> 00:19:29,574
+For most people,
+
+616
+00:19:29,574 --> 00:19:31,614
+there's nothing left at the end of
+
+617
+00:19:31,614 --> 00:19:32,214
+the month.
+
+618
+00:19:32,394 --> 00:19:35,563
+Spending expands to fill whatever is available.
+
+619
+00:19:35,743 --> 00:19:38,448
+That's why saving last almost never works.
+
+620
+00:19:38,799 --> 00:19:41,039
+The fix is to pay yourself first.
+
+621
+00:19:41,219 --> 00:19:43,952
+On payday, before you spend anything,
+
+622
+00:19:43,952 --> 00:19:47,275
+a set amount moves automatically into savings
+
+623
+00:19:47,275 --> 00:19:48,383
+or investments.
+
+624
+00:19:48,563 --> 00:19:50,281
+You then live on what remains.
+
+625
+00:19:50,461 --> 00:19:52,786
+Try this: set up an automatic transfer
+
+626
+00:19:52,786 --> 00:19:54,315
+for the day after payday.
+
+627
+00:19:54,495 --> 00:19:56,622
+Start with five percent of your take
+
+628
+00:19:56,622 --> 00:19:57,154
+home pay.
+
+629
+00:19:57,334 --> 00:19:59,518
+Raise it by one percent every few
+
+630
+00:19:59,518 --> 00:19:59,981
+months.
+
+631
+00:20:00,161 --> 00:20:01,450
+You'll barely notice.
+
+632
+00:20:01,800 --> 00:20:03,065
+Habit number twenty.
+
+633
+00:20:03,245 --> 00:20:05,312
+Not taking the full employer match.
+
+634
+00:20:05,662 --> 00:20:08,012
+Many employers match part of what you
+
+635
+00:20:08,012 --> 00:20:09,600
+put into a four oh one k,
+
+636
+00:20:09,600 --> 00:20:12,141
+for example fifty cents for every dollar
+
+637
+00:20:12,141 --> 00:20:14,110
+up to a certain percent of your
+
+638
+00:20:14,110 --> 00:20:14,555
+salary.
+
+639
+00:20:14,735 --> 00:20:16,578
+If you don't contribute enough to get
+
+640
+00:20:16,578 --> 00:20:17,326
+the full match,
+
+641
+00:20:17,326 --> 00:20:19,020
+you're leaving part of your pay on
+
+642
+00:20:19,020 --> 00:20:19,518
+the table.
+
+643
+00:20:19,868 --> 00:20:21,504
+It's one of the few places in
+
+644
+00:20:21,504 --> 00:20:23,817
+personal finance where you get an instant
+
+645
+00:20:23,817 --> 00:20:25,510
+return just for participating.
+
+646
+00:20:25,690 --> 00:20:28,809
+Try this: log into your benefits portal
+
+647
+00:20:28,809 --> 00:20:30,488
+this week, or ask HR,
+
+648
+00:20:30,488 --> 00:20:33,287
+and find out exactly what the match
+
+649
+00:20:33,287 --> 00:20:33,527
+is.
+
+650
+00:20:33,707 --> 00:20:35,772
+Then make sure your contribution is at
+
+651
+00:20:35,772 --> 00:20:37,456
+least high enough to get all of
+
+652
+00:20:37,456 --> 00:20:37,619
+it.
+
+653
+00:20:37,970 --> 00:20:39,398
+Habit number twenty one.
+
+654
+00:20:39,578 --> 00:20:41,040
+Never investing at all.
+
+655
+00:20:41,391 --> 00:20:42,900
+Saving keeps money safe.
+
+656
+00:20:43,080 --> 00:20:44,647
+Investing helps it grow.
+
+657
+00:20:44,827 --> 00:20:46,008
+Over long periods,
+
+658
+00:20:46,008 --> 00:20:49,551
+broad stock market investments have historically grown
+
+659
+00:20:49,551 --> 00:20:52,372
+faster than savings accounts and inflation,
+
+660
+00:20:52,372 --> 00:20:54,669
+though with ups and downs along the
+
+661
+00:20:54,669 --> 00:20:56,112
+way and no guarantees.
+
+662
+00:20:56,292 --> 00:20:58,450
+People who never invest miss out on
+
+663
+00:20:58,450 --> 00:20:59,868
+compounding completely.
+
+664
+00:21:00,218 --> 00:21:01,576
+You don't need to pick stocks.
+
+665
+00:21:01,756 --> 00:21:03,328
+Many people use broad,
+
+666
+00:21:03,328 --> 00:21:06,258
+low cost index funds through a retirement
+
+667
+00:21:06,258 --> 00:21:06,829
+account.
+
+668
+00:21:07,009 --> 00:21:09,560
+Try this: once your emergency fund is
+
+669
+00:21:09,560 --> 00:21:12,249
+started and high interest debt is under
+
+670
+00:21:12,249 --> 00:21:15,213
+control, open a retirement account and make
+
+671
+00:21:15,213 --> 00:21:18,109
+one small automatic investment each month.
+
+672
+00:21:18,289 --> 00:21:20,685
+Learning by doing beats waiting until you
+
+673
+00:21:20,685 --> 00:21:21,621
+know everything.
+
+674
+00:21:21,971 --> 00:21:23,375
+Habit number twenty two.
+
+675
+00:21:23,555 --> 00:21:25,541
+Having no written money goals.
+
+676
+00:21:25,891 --> 00:21:26,825
+Without a goal,
+
+677
+00:21:26,825 --> 00:21:29,629
+every purchase competes only with the moment.
+
+678
+00:21:29,809 --> 00:21:30,527
+With a goal,
+
+679
+00:21:30,527 --> 00:21:33,461
+every purchase competes with something you really
+
+680
+00:21:33,461 --> 00:21:34,599
+want, like a house,
+
+681
+00:21:34,599 --> 00:21:35,676
+freedom from debt,
+
+682
+00:21:35,676 --> 00:21:37,054
+or an early retirement.
+
+683
+00:21:37,234 --> 00:21:38,882
+Goals give saving a reason.
+
+684
+00:21:39,233 --> 00:21:40,579
+Make goals specific.
+
+685
+00:21:40,759 --> 00:21:41,716
+Not save more,
+
+686
+00:21:41,716 --> 00:21:44,174
+but save six thousand dollars for an
+
+687
+00:21:44,174 --> 00:21:46,019
+emergency fund by December.
+
+688
+00:21:46,199 --> 00:21:49,090
+Try this: write down three money goals,
+
+689
+00:21:49,090 --> 00:21:50,425
+one for this year,
+
+690
+00:21:50,425 --> 00:21:51,833
+one for five years,
+
+691
+00:21:51,833 --> 00:21:53,687
+and one for twenty years.
+
+692
+00:21:53,867 --> 00:21:55,506
+Put a number and a date on
+
+693
+00:21:55,506 --> 00:21:56,073
+each one.
+
+694
+00:21:56,253 --> 00:21:58,192
+Keep the list where you'll see it.
+
+695
+00:21:58,542 --> 00:21:59,877
+Habit number twenty three.
+
+696
+00:22:00,057 --> 00:22:01,299
+Never negotiating.
+
+697
+00:22:01,648 --> 00:22:04,048
+Salary, rent, insurance,
+
+698
+00:22:04,048 --> 00:22:06,448
+phone plans, car prices,
+
+699
+00:22:06,448 --> 00:22:07,848
+medical bills.
+
+700
+00:22:08,028 --> 00:22:10,254
+Many of these are more flexible than
+
+701
+00:22:10,254 --> 00:22:11,058
+people think.
+
+702
+00:22:11,238 --> 00:22:13,314
+But most people accept the first number
+
+703
+00:22:13,314 --> 00:22:14,060
+they're given.
+
+704
+00:22:14,240 --> 00:22:15,192
+Over a career,
+
+705
+00:22:15,192 --> 00:22:17,778
+not negotiating salary can cost a lot,
+
+706
+00:22:17,778 --> 00:22:20,364
+because every future raise is built on
+
+707
+00:22:20,364 --> 00:22:22,065
+top of your starting pay.
+
+708
+00:22:22,414 --> 00:22:24,864
+Negotiating doesn't have to be aggressive.
+
+709
+00:22:25,044 --> 00:22:27,436
+It's research plus a polite question.
+
+710
+00:22:27,616 --> 00:22:29,045
+Try this: once a year,
+
+711
+00:22:29,045 --> 00:22:31,839
+call your insurance and phone providers and
+
+712
+00:22:31,839 --> 00:22:33,723
+ask if there's a better rate.
+
+713
+00:22:33,903 --> 00:22:35,561
+And before your next review,
+
+714
+00:22:35,561 --> 00:22:37,515
+look up salary data for your role
+
+715
+00:22:37,515 --> 00:22:39,054
+so you can ask for a raise
+
+716
+00:22:39,054 --> 00:22:40,416
+with numbers, not hope.
+
+717
+00:22:40,765 --> 00:22:42,240
+Habit number twenty four.
+
+718
+00:22:42,420 --> 00:22:44,220
+Skipping basic protection.
+
+719
+00:22:44,569 --> 00:22:47,851
+Health insurance, renters or homeowners insurance,
+
+720
+00:22:47,851 --> 00:22:49,229
+enough car insurance,
+
+721
+00:22:49,229 --> 00:22:51,723
+and life insurance if people depend on
+
+722
+00:22:51,723 --> 00:22:52,511
+your income.
+
+723
+00:22:52,691 --> 00:22:55,426
+One uninsured accident or illness can wipe
+
+724
+00:22:55,426 --> 00:22:56,859
+out years of progress.
+
+725
+00:22:57,039 --> 00:22:59,802
+Medical bills are a common reason families
+
+726
+00:22:59,802 --> 00:23:00,789
+fall into debt.
+
+727
+00:23:01,138 --> 00:23:03,487
+Insurance is boring until the day you
+
+728
+00:23:03,487 --> 00:23:03,995
+need it.
+
+729
+00:23:04,175 --> 00:23:06,303
+The goal isn't to insure everything,
+
+730
+00:23:06,303 --> 00:23:08,669
+but to protect against the disasters you
+
+731
+00:23:08,669 --> 00:23:09,852
+could never pay for.
+
+732
+00:23:10,032 --> 00:23:12,110
+Try this: make a one page list
+
+733
+00:23:12,110 --> 00:23:13,841
+of every policy you have,
+
+734
+00:23:13,841 --> 00:23:16,127
+what it covers and what it costs.
+
+735
+00:23:16,307 --> 00:23:17,210
+Look for gaps,
+
+736
+00:23:17,210 --> 00:23:19,337
+and look for overlap you can cut.
+
+737
+00:23:19,687 --> 00:23:21,290
+And habit number twenty five.
+
+738
+00:23:21,470 --> 00:23:22,921
+Trying to do it all alone.
+
+739
+00:23:23,270 --> 00:23:25,358
+Money is still a taboo topic in
+
+740
+00:23:25,358 --> 00:23:26,301
+many families.
+
+741
+00:23:26,481 --> 00:23:28,894
+People don't talk about salaries,
+
+742
+00:23:28,894 --> 00:23:30,138
+debt or mistakes.
+
+743
+00:23:30,318 --> 00:23:32,291
+So everyone struggles in private,
+
+744
+00:23:32,291 --> 00:23:35,101
+repeating the same mistakes their parents made.
+
+745
+00:23:35,281 --> 00:23:37,420
+Couples who never talk about money often
+
+746
+00:23:37,420 --> 00:23:38,543
+fight about it later.
+
+747
+00:23:38,893 --> 00:23:40,252
+Find your money team.
+
+748
+00:23:40,432 --> 00:23:42,117
+That could be your partner,
+
+749
+00:23:42,117 --> 00:23:44,301
+a friend working on the same goals,
+
+750
+00:23:44,301 --> 00:23:46,423
+a free nonprofit credit counselor,
+
+751
+00:23:46,423 --> 00:23:48,419
+or a fee only financial planner.
+
+752
+00:23:48,599 --> 00:23:51,563
+Try this: schedule one honest money conversation
+
+753
+00:23:51,563 --> 00:23:53,661
+this month with someone you trust.
+
+754
+00:23:53,841 --> 00:23:56,384
+Share one goal and one struggle.
+
+755
+00:23:56,564 --> 00:23:58,770
+Saying it out loud makes it real.
+
+756
+00:23:59,119 --> 00:24:01,014
+Let me show you how these habits
+
+757
+00:24:01,014 --> 00:24:03,382
+play out with two people earning exactly
+
+758
+00:24:03,382 --> 00:24:03,914
+the same.
+
+759
+00:24:04,264 --> 00:24:07,002
+Jordan and Taylor both earn sixty thousand
+
+760
+00:24:07,002 --> 00:24:07,980
+dollars a year.
+
+761
+00:24:08,160 --> 00:24:10,008
+Jordan has most of the habits on
+
+762
+00:24:10,008 --> 00:24:10,586
+this list.
+
+763
+00:24:10,766 --> 00:24:11,778
+A car payment,
+
+764
+00:24:11,778 --> 00:24:13,369
+a credit card balance,
+
+765
+00:24:13,369 --> 00:24:15,105
+a pile of subscriptions,
+
+766
+00:24:15,105 --> 00:24:16,551
+takeout most nights,
+
+767
+00:24:16,551 --> 00:24:18,359
+and no automatic savings.
+
+768
+00:24:18,539 --> 00:24:21,622
+Every month, Jordan's account hits nearly zero
+
+769
+00:24:21,622 --> 00:24:22,962
+right before payday.
+
+770
+00:24:23,142 --> 00:24:24,547
+Jordan isn't reckless.
+
+771
+00:24:24,727 --> 00:24:27,490
+Jordan is just running on default settings.
+
+772
+00:24:27,840 --> 00:24:29,199
+Taylor earns the same,
+
+773
+00:24:29,199 --> 00:24:31,114
+but set up a few systems early.
+
+774
+00:24:31,294 --> 00:24:34,030
+Automatic transfer to savings the day after
+
+775
+00:24:34,030 --> 00:24:34,476
+payday.
+
+776
+00:24:34,656 --> 00:24:36,142
+Full employer match.
+
+777
+00:24:36,322 --> 00:24:38,574
+A used car paid in cash.
+
+778
+00:24:38,754 --> 00:24:40,774
+Credit card paid in full.
+
+779
+00:24:40,954 --> 00:24:43,032
+Groceries planned on Sundays.
+
+780
+00:24:43,212 --> 00:24:45,604
+Taylor still eats out and travels,
+
+781
+00:24:45,604 --> 00:24:46,730
+just on purpose.
+
+782
+00:24:47,080 --> 00:24:48,149
+Ten years later,
+
+783
+00:24:48,149 --> 00:24:50,552
+Taylor has a full emergency fund and
+
+784
+00:24:50,552 --> 00:24:52,955
+retirement savings growing steadily.
+
+785
+00:24:53,135 --> 00:24:54,917
+Jordan has the same income,
+
+786
+00:24:54,917 --> 00:24:56,170
+the same job title,
+
+787
+00:24:56,170 --> 00:24:57,556
+and still no cushion,
+
+788
+00:24:57,556 --> 00:24:59,997
+plus a credit card balance that never
+
+789
+00:24:59,997 --> 00:25:01,053
+seems to shrink.
+
+790
+00:25:01,233 --> 00:25:02,382
+Same paycheck.
+
+791
+00:25:02,562 --> 00:25:04,327
+Completely different life.
+
+792
+00:25:04,507 --> 00:25:06,225
+The difference was never income.
+
+793
+00:25:06,405 --> 00:25:07,404
+It was habits.
+
+794
+00:25:07,753 --> 00:25:09,257
+Fifteen years later,
+
+795
+00:25:09,257 --> 00:25:10,911
+the gap is even wider.
+
+796
+00:25:11,091 --> 00:25:14,090
+Taylor's investments are now growing by thousands
+
+797
+00:25:14,090 --> 00:25:15,681
+of dollars in a good year,
+
+798
+00:25:15,681 --> 00:25:17,639
+sometimes more than Taylor adds.
+
+799
+00:25:17,819 --> 00:25:19,945
+Taylor could handle a job loss,
+
+800
+00:25:19,945 --> 00:25:21,384
+help a family member,
+
+801
+00:25:21,384 --> 00:25:23,578
+or change careers without panic.
+
+802
+00:25:23,758 --> 00:25:26,242
+Jordan, meanwhile, feels trapped.
+
+803
+00:25:26,422 --> 00:25:28,636
+Every raise has been swallowed by a
+
+804
+00:25:28,636 --> 00:25:29,395
+new payment.
+
+805
+00:25:29,575 --> 00:25:31,974
+Jordan works just as hard as Taylor,
+
+806
+00:25:31,974 --> 00:25:34,173
+maybe harder, and has far less to
+
+807
+00:25:34,173 --> 00:25:34,973
+show for it.
+
+808
+00:25:35,323 --> 00:25:37,329
+The good news is that Jordan can
+
+809
+00:25:37,329 --> 00:25:38,770
+still turn this around,
+
+810
+00:25:38,770 --> 00:25:39,584
+at any point.
+
+811
+00:25:39,764 --> 00:25:41,997
+Not by becoming a different person,
+
+812
+00:25:41,997 --> 00:25:44,293
+but by copying Taylor's few systems,
+
+813
+00:25:44,293 --> 00:25:45,186
+one at a time.
+
+814
+00:25:45,366 --> 00:25:46,190
+Autopay.
+
+815
+00:25:46,370 --> 00:25:47,694
+Pay yourself first.
+
+816
+00:25:47,874 --> 00:25:49,070
+Get the full match.
+
+817
+00:25:49,250 --> 00:25:50,411
+Pay off the card.
+
+818
+00:25:50,591 --> 00:25:51,438
+Plan dinners.
+
+819
+00:25:51,618 --> 00:25:52,826
+Each one is small.
+
+820
+00:25:53,006 --> 00:25:55,038
+Together, they rewrite the story.
+
+821
+00:25:55,387 --> 00:25:57,249
+Breaking a habit is much easier when
+
+822
+00:25:57,249 --> 00:25:58,801
+you replace it with something.
+
+823
+00:25:58,981 --> 00:26:01,024
+So here are the swaps that people
+
+824
+00:26:01,024 --> 00:26:02,882
+who build wealth tend to make.
+
+825
+00:26:03,231 --> 00:26:03,963
+Swap one.
+
+826
+00:26:04,143 --> 00:26:06,814
+Instead of checking social media when you're
+
+827
+00:26:06,814 --> 00:26:09,182
+bored, check your accounts once a week.
+
+828
+00:26:09,362 --> 00:26:10,176
+It sounds dull,
+
+829
+00:26:10,176 --> 00:26:12,022
+but people who look at their money
+
+830
+00:26:12,022 --> 00:26:14,412
+regularly tend to make better decisions with
+
+831
+00:26:14,412 --> 00:26:14,574
+it.
+
+832
+00:26:14,754 --> 00:26:16,080
+You catch fraud early,
+
+833
+00:26:16,080 --> 00:26:17,345
+you notice the leaks,
+
+834
+00:26:17,345 --> 00:26:18,912
+and you see your progress,
+
+835
+00:26:18,912 --> 00:26:20,478
+which keeps you motivated.
+
+836
+00:26:20,828 --> 00:26:21,757
+Swap two.
+
+837
+00:26:21,937 --> 00:26:24,594
+Instead of the monthly payment question,
+
+838
+00:26:24,594 --> 00:26:26,454
+ask the total cost question.
+
+839
+00:26:26,634 --> 00:26:28,669
+What will this cost me in total,
+
+840
+00:26:28,669 --> 00:26:30,577
+including interest, insurance,
+
+841
+00:26:30,577 --> 00:26:32,613
+maintenance and everything else?
+
+842
+00:26:32,793 --> 00:26:33,896
+Swap three.
+
+843
+00:26:34,076 --> 00:26:35,927
+Instead of buying on impulse,
+
+844
+00:26:35,927 --> 00:26:37,141
+use a waiting rule.
+
+845
+00:26:37,321 --> 00:26:39,700
+Twenty four hours for small things,
+
+846
+00:26:39,700 --> 00:26:41,535
+thirty days for big things.
+
+847
+00:26:41,715 --> 00:26:43,039
+Most wants fade.
+
+848
+00:26:43,219 --> 00:26:45,407
+The ones that remain are probably worth
+
+849
+00:26:45,407 --> 00:26:45,575
+it.
+
+850
+00:26:45,925 --> 00:26:46,831
+Swap four.
+
+851
+00:26:47,011 --> 00:26:49,043
+Instead of spending a windfall,
+
+852
+00:26:49,043 --> 00:26:50,355
+split it in advance.
+
+853
+00:26:50,535 --> 00:26:51,672
+Swap five.
+
+854
+00:26:51,852 --> 00:26:53,953
+Instead of saving what's left,
+
+855
+00:26:53,953 --> 00:26:56,264
+save first and spend what's left.
+
+856
+00:26:56,444 --> 00:26:57,501
+Swap six.
+
+857
+00:26:57,681 --> 00:26:59,519
+Instead of avoiding money talk,
+
+858
+00:26:59,519 --> 00:27:01,771
+have a regular money meeting with your
+
+859
+00:27:01,771 --> 00:27:03,254
+partner or with yourself.
+
+860
+00:27:03,434 --> 00:27:04,953
+Same day each month,
+
+861
+00:27:04,953 --> 00:27:06,092
+same questions.
+
+862
+00:27:06,272 --> 00:27:07,170
+What came in,
+
+863
+00:27:07,170 --> 00:27:08,136
+what went out,
+
+864
+00:27:08,136 --> 00:27:09,241
+are we on track,
+
+865
+00:27:09,241 --> 00:27:11,450
+and what's one thing to improve?
+
+866
+00:27:11,800 --> 00:27:12,892
+Swap seven.
+
+867
+00:27:13,072 --> 00:27:16,117
+Instead of comparing yourself with people online,
+
+868
+00:27:16,117 --> 00:27:18,354
+compare yourself with your own past.
+
+869
+00:27:18,534 --> 00:27:20,262
+Are you better off than you were
+
+870
+00:27:20,262 --> 00:27:20,856
+a year ago?
+
+871
+00:27:21,036 --> 00:27:22,491
+Do you have more saved,
+
+872
+00:27:22,491 --> 00:27:24,136
+less debt, a clearer plan?
+
+873
+00:27:24,316 --> 00:27:26,444
+That's the only comparison that matters,
+
+874
+00:27:26,444 --> 00:27:28,252
+and it's one you can actually win.
+
+875
+00:27:28,432 --> 00:27:29,303
+Swap eight.
+
+876
+00:27:29,483 --> 00:27:31,864
+Instead of waiting for the perfect moment,
+
+877
+00:27:31,864 --> 00:27:34,359
+start with the smallest possible step today.
+
+878
+00:27:34,708 --> 00:27:36,705
+Here's a simple four week reset.
+
+879
+00:27:36,885 --> 00:27:38,221
+Week one, look.
+
+880
+00:27:38,401 --> 00:27:39,764
+Track every purchase,
+
+881
+00:27:39,764 --> 00:27:42,492
+list every payment and every subscription,
+
+882
+00:27:42,492 --> 00:27:44,310
+and check your savings rate.
+
+883
+00:27:44,490 --> 00:27:46,197
+Week two, cut.
+
+884
+00:27:46,377 --> 00:27:47,977
+Cancel what you don't use,
+
+885
+00:27:47,977 --> 00:27:49,208
+call to remove fees,
+
+886
+00:27:49,208 --> 00:27:50,870
+and ask for one lower rate.
+
+887
+00:27:51,219 --> 00:27:52,822
+Week three, automate.
+
+888
+00:27:53,002 --> 00:27:54,559
+Set up autopay for bills,
+
+889
+00:27:54,559 --> 00:27:57,051
+an automatic transfer to savings the day
+
+890
+00:27:57,051 --> 00:27:59,668
+after payday, and make sure you're getting
+
+891
+00:27:59,668 --> 00:28:01,163
+the full employer match.
+
+892
+00:28:01,343 --> 00:28:02,795
+Week four, aim.
+
+893
+00:28:02,975 --> 00:28:05,281
+Write your three goals with numbers and
+
+894
+00:28:05,281 --> 00:28:07,469
+dates, and share them with one person
+
+895
+00:28:07,469 --> 00:28:08,060
+you trust.
+
+896
+00:28:08,240 --> 00:28:09,180
+Four weeks.
+
+897
+00:28:09,360 --> 00:28:11,055
+That's all it takes to start turning
+
+898
+00:28:11,055 --> 00:28:11,996
+these habits around.
+
+899
+00:28:12,345 --> 00:28:14,028
+Where you start depends a bit on
+
+900
+00:28:14,028 --> 00:28:15,027
+your stage of life.
+
+901
+00:28:15,207 --> 00:28:16,337
+In your twenties,
+
+902
+00:28:16,337 --> 00:28:19,062
+the most valuable habits are the systems.
+
+903
+00:28:19,242 --> 00:28:22,272
+Automatic saving, getting the full employer match,
+
+904
+00:28:22,272 --> 00:28:24,211
+and avoiding high interest debt.
+
+905
+00:28:24,391 --> 00:28:26,210
+Time is your biggest asset,
+
+906
+00:28:26,210 --> 00:28:28,904
+so even small amounts invested early can
+
+907
+00:28:28,904 --> 00:28:31,194
+grow a lot over the decades ahead.
+
+908
+00:28:31,544 --> 00:28:33,496
+In your thirties and forties,
+
+909
+00:28:33,496 --> 00:28:34,842
+life gets expensive.
+
+910
+00:28:35,022 --> 00:28:36,915
+Kids, housing, cars,
+
+911
+00:28:36,915 --> 00:28:39,283
+maybe caring for parents.
+
+912
+00:28:39,463 --> 00:28:42,400
+This is when lifestyle inflation and monthly
+
+913
+00:28:42,400 --> 00:28:44,269
+payments do the most damage.
+
+914
+00:28:44,449 --> 00:28:47,069
+Focus on keeping fixed costs under control
+
+915
+00:28:47,069 --> 00:28:49,564
+and raising your savings rate every time
+
+916
+00:28:49,564 --> 00:28:50,811
+your income goes up.
+
+917
+00:28:51,161 --> 00:28:52,839
+In your fifties and beyond,
+
+918
+00:28:52,839 --> 00:28:55,014
+the focus shifts to catching up and
+
+919
+00:28:55,014 --> 00:28:56,816
+protecting what you've built.
+
+920
+00:28:56,996 --> 00:29:00,262
+Many retirement accounts allow extra catch up
+
+921
+00:29:00,262 --> 00:29:02,149
+contributions after fifty,
+
+922
+00:29:02,149 --> 00:29:04,472
+so check the current IRS limits.
+
+923
+00:29:04,652 --> 00:29:07,151
+And the psychology habits matter more than
+
+924
+00:29:07,151 --> 00:29:10,066
+ever, especially avoiding panic and not believing
+
+925
+00:29:10,066 --> 00:29:10,899
+it's too late.
+
+926
+00:29:11,248 --> 00:29:12,073
+Question one.
+
+927
+00:29:12,253 --> 00:29:13,936
+Which habit should I fix first?
+
+928
+00:29:14,116 --> 00:29:15,974
+Start with the most expensive one.
+
+929
+00:29:16,154 --> 00:29:17,031
+For most people,
+
+930
+00:29:17,031 --> 00:29:19,114
+that's high interest credit card debt.
+
+931
+00:29:19,294 --> 00:29:22,017
+Second, start an emergency fund so new
+
+932
+00:29:22,017 --> 00:29:24,310
+surprises don't become new debt.
+
+933
+00:29:24,490 --> 00:29:27,125
+Everything else gets easier after those two.
+
+934
+00:29:27,475 --> 00:29:28,288
+Question two.
+
+935
+00:29:28,468 --> 00:29:30,504
+What if my income really is too
+
+936
+00:29:30,504 --> 00:29:30,767
+low?
+
+937
+00:29:30,947 --> 00:29:33,687
+Then the focus shifts toward income,
+
+938
+00:29:33,687 --> 00:29:35,819
+like skills, certifications,
+
+939
+00:29:35,819 --> 00:29:37,341
+a better paying job,
+
+940
+00:29:37,341 --> 00:29:38,635
+or a side income,
+
+941
+00:29:38,635 --> 00:29:41,756
+while keeping the basic systems in place.
+
+942
+00:29:41,936 --> 00:29:44,228
+Even saving a very small amount builds
+
+943
+00:29:44,228 --> 00:29:46,399
+the habit that will matter when your
+
+944
+00:29:46,399 --> 00:29:47,183
+income grows.
+
+945
+00:29:47,533 --> 00:29:48,578
+Question three.
+
+946
+00:29:48,758 --> 00:29:50,429
+How long does it take to change
+
+947
+00:29:50,429 --> 00:29:50,860
+a habit?
+
+948
+00:29:51,040 --> 00:29:54,125
+Research on habit formation suggests it varies
+
+949
+00:29:54,125 --> 00:29:56,205
+a lot from person to person and
+
+950
+00:29:56,205 --> 00:29:57,546
+from habit to habit,
+
+951
+00:29:57,546 --> 00:29:59,492
+often taking weeks to months.
+
+952
+00:29:59,672 --> 00:30:02,017
+That's why automation is so powerful.
+
+953
+00:30:02,197 --> 00:30:04,800
+An automatic transfer doesn't need to become
+
+954
+00:30:04,800 --> 00:30:05,274
+a habit.
+
+955
+00:30:05,454 --> 00:30:06,533
+It just happens.
+
+956
+00:30:06,883 --> 00:30:07,812
+Question four.
+
+957
+00:30:07,992 --> 00:30:09,409
+Should I use a budget app?
+
+958
+00:30:09,589 --> 00:30:10,616
+If it helps,
+
+959
+00:30:10,616 --> 00:30:10,959
+yes.
+
+960
+00:30:11,139 --> 00:30:12,957
+But the best budget is the one
+
+961
+00:30:12,957 --> 00:30:14,169
+you'll actually use.
+
+962
+00:30:14,349 --> 00:30:16,122
+For some people that's an app,
+
+963
+00:30:16,122 --> 00:30:17,600
+for others a spreadsheet,
+
+964
+00:30:17,600 --> 00:30:18,900
+for others a notebook.
+
+965
+00:30:19,080 --> 00:30:21,483
+What matters is looking at your numbers
+
+966
+00:30:21,483 --> 00:30:22,099
+regularly.
+
+967
+00:30:22,448 --> 00:30:23,470
+Question five.
+
+968
+00:30:23,650 --> 00:30:25,436
+Is it bad to buy coffee every
+
+969
+00:30:25,436 --> 00:30:25,682
+day?
+
+970
+00:30:25,862 --> 00:30:27,457
+Not if it's a choice you've made
+
+971
+00:30:27,457 --> 00:30:29,101
+on purpose and it fits your plan.
+
+972
+00:30:29,281 --> 00:30:30,721
+The coffee isn't the problem.
+
+973
+00:30:30,901 --> 00:30:32,517
+Not knowing what you spend is the
+
+974
+00:30:32,517 --> 00:30:32,909
+problem.
+
+975
+00:30:33,089 --> 00:30:34,529
+If your bills are paid,
+
+976
+00:30:34,529 --> 00:30:37,095
+your emergency fund is growing and you're
+
+977
+00:30:37,095 --> 00:30:38,848
+investing, enjoy the coffee.
+
+978
+00:30:39,028 --> 00:30:40,623
+If not, it might be one of
+
+979
+00:30:40,623 --> 00:30:42,708
+many small leaks worth looking at.
+
+980
+00:30:43,058 --> 00:30:44,196
+Question six.
+
+981
+00:30:44,376 --> 00:30:46,365
+What if my partner has these habits
+
+982
+00:30:46,365 --> 00:30:47,047
+and I don't?
+
+983
+00:30:47,227 --> 00:30:49,185
+Start with shared goals,
+
+984
+00:30:49,185 --> 00:30:50,001
+not blame.
+
+985
+00:30:50,181 --> 00:30:52,141
+Talk about what you both want,
+
+986
+00:30:52,141 --> 00:30:53,969
+then build systems together,
+
+987
+00:30:53,969 --> 00:30:56,255
+like a joint savings transfer and a
+
+988
+00:30:56,255 --> 00:30:58,541
+personal allowance for each of you.
+
+989
+00:30:58,721 --> 00:31:00,799
+Blame rarely changes behavior.
+
+990
+00:31:00,979 --> 00:31:02,651
+A shared plan often does.
+
+991
+00:31:03,000 --> 00:31:03,894
+Question seven.
+
+992
+00:31:04,074 --> 00:31:05,451
+Do I need to cut all fun
+
+993
+00:31:05,451 --> 00:31:05,967
+spending?
+
+994
+00:31:06,147 --> 00:31:06,333
+No.
+
+995
+00:31:06,513 --> 00:31:08,684
+Cutting everything usually backfires.
+
+996
+00:31:08,864 --> 00:31:09,690
+Plan for fun,
+
+997
+00:31:09,690 --> 00:31:11,153
+give it a fixed amount,
+
+998
+00:31:11,153 --> 00:31:12,869
+and spend it without guilt.
+
+999
+00:31:13,049 --> 00:31:14,769
+The goal is a life you enjoy
+
+1000
+00:31:14,769 --> 00:31:16,489
+that also moves you forward,
+
+1001
+00:31:16,489 --> 00:31:18,578
+not a life of constant denial that
+
+1002
+00:31:18,578 --> 00:31:19,806
+you eventually quit.
+
+1003
+00:31:20,156 --> 00:31:20,981
+Quick recap.
+
+1004
+00:31:21,161 --> 00:31:22,856
+Angle one, the numbers.
+
+1005
+00:31:23,036 --> 00:31:24,717
+Not tracking spending,
+
+1006
+00:31:24,717 --> 00:31:26,169
+carrying a balance,
+
+1007
+00:31:26,169 --> 00:31:27,468
+paying bank fees,
+
+1008
+00:31:27,468 --> 00:31:29,684
+thinking in monthly payments,
+
+1009
+00:31:29,684 --> 00:31:33,199
+ignoring subscriptions, eating out by default,
+
+1010
+00:31:33,199 --> 00:31:35,721
+leaving savings at zero interest,
+
+1011
+00:31:35,721 --> 00:31:38,396
+paying late, and always buying new.
+
+1012
+00:31:38,745 --> 00:31:40,754
+Angle two, the psychology.
+
+1013
+00:31:40,934 --> 00:31:43,342
+Treating windfalls as fun money,
+
+1014
+00:31:43,342 --> 00:31:46,503
+constant rewards, keeping up with friends,
+
+1015
+00:31:46,503 --> 00:31:48,158
+living only for today,
+
+1016
+00:31:48,158 --> 00:31:49,889
+avoiding your accounts,
+
+1017
+00:31:49,889 --> 00:31:51,695
+believing it's too late,
+
+1018
+00:31:51,695 --> 00:31:54,254
+believing more income will fix it,
+
+1019
+00:31:54,254 --> 00:31:57,339
+and believing wealth is for other people.
+
+1020
+00:31:57,688 --> 00:31:59,407
+Angle three, the playbook.
+
+1021
+00:31:59,587 --> 00:32:01,002
+No emergency fund,
+
+1022
+00:32:01,002 --> 00:32:02,888
+saving what's left over,
+
+1023
+00:32:02,888 --> 00:32:04,382
+skipping the match,
+
+1024
+00:32:04,382 --> 00:32:07,054
+never investing, no written goals,
+
+1025
+00:32:07,054 --> 00:32:10,120
+never negotiating, skipping protection,
+
+1026
+00:32:10,120 --> 00:32:11,928
+and doing it all alone.
+
+1027
+00:32:12,278 --> 00:32:13,985
+Here's what I want you to remember.
+
+1028
+00:32:14,165 --> 00:32:16,405
+Being broke is rarely about one big
+
+1029
+00:32:16,405 --> 00:32:16,917
+failure.
+
+1030
+00:32:17,097 --> 00:32:19,563
+It's usually a set of quiet habits,
+
+1031
+00:32:19,563 --> 00:32:22,171
+and quiet habits can be replaced with
+
+1032
+00:32:22,171 --> 00:32:23,157
+quiet systems.
+
+1033
+00:32:23,337 --> 00:32:25,141
+You don't need a bigger income to
+
+1034
+00:32:25,141 --> 00:32:26,836
+start, and you don't need to be
+
+1035
+00:32:26,836 --> 00:32:27,273
+perfect.
+
+1036
+00:32:27,453 --> 00:32:29,001
+You just need to be a little
+
+1037
+00:32:29,001 --> 00:32:30,272
+better than last month,
+
+1038
+00:32:30,272 --> 00:32:30,936
+every month.
+
+1039
+00:32:31,116 --> 00:32:32,753
+You don't need to fix all twenty
+
+1040
+00:32:32,753 --> 00:32:33,008
+five.
+
+1041
+00:32:33,188 --> 00:32:35,090
+Pick one from each angle and start
+
+1042
+00:32:35,090 --> 00:32:35,650
+this week.
+
+1043
+00:32:35,830 --> 00:32:37,486
+If you want the full step by
+
+1044
+00:32:37,486 --> 00:32:39,319
+step plan, it's in my playbook,
+
+1045
+00:32:39,319 --> 00:32:40,857
+linked in the description.
+
+1046
+00:32:41,037 --> 00:32:42,663
+And tell me in the comments which
+
+1047
+00:32:42,663 --> 00:32:44,044
+habit you're breaking first.
+
+1048
+00:32:44,224 --> 00:32:45,443
+I'm Ryan Rover.
+
+1049
+00:32:45,623 --> 00:32:46,970
+See you in the next one.
