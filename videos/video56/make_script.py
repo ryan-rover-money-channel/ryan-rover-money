@@ -338,6 +338,11 @@ sc("""None of these risks means early retirement is impossible. It means plan ca
 margins too thin. A plan that reaches FI two years later but with a stronger cushion is often the better plan.""",
    "Safety net", "BUILD IN MARGINS")
 
+sc("""Of course, real life won't follow a spreadsheet exactly. Raises will come at different times, markets will rise and fall, and
+expenses will surprise them. But the structure, a high savings rate, low fixed costs and steady investing, gives them a strong chance of
+reaching freedom years ahead of the traditional schedule.""",
+   "Spreadsheet and real life", "REAL LIFE VERSUS THE SPREADSHEET")
+
 # ---------------- Withdrawals ----------------
 ch("How the money actually comes out")
 sc("""Reaching your number is only half the plan. The other half is withdrawing it wisely. A common approach is to hold a cash buffer of
