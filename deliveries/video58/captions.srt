@@ -1,0 +1,4163 @@
+1
+00:00:00,000 --> 00:00:01,869
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,049 --> 00:00:04,295
+If a four hundred dollar emergency hit
+
+3
+00:00:04,295 --> 00:00:06,246
+you tomorrow, could you pay it in
+
+4
+00:00:06,246 --> 00:00:06,542
+cash?
+
+5
+00:00:06,722 --> 00:00:08,758
+According to the Federal Reserve,
+
+6
+00:00:08,758 --> 00:00:11,041
+millions of American adults couldn't.
+
+7
+00:00:11,221 --> 00:00:12,097
+If that's you,
+
+8
+00:00:12,097 --> 00:00:13,473
+this video is for you.
+
+9
+00:00:13,653 --> 00:00:16,023
+Today, I'll show you how to build
+
+10
+00:00:16,023 --> 00:00:18,823
+an emergency fund from absolutely zero,
+
+11
+00:00:18,823 --> 00:00:19,757
+step by step,
+
+12
+00:00:19,757 --> 00:00:21,408
+even on a tight budget.
+
+13
+00:00:21,759 --> 00:00:24,592
+An emergency fund is money set aside
+
+14
+00:00:24,592 --> 00:00:26,639
+only for real emergencies:
+
+15
+00:00:26,639 --> 00:00:27,505
+a job loss,
+
+16
+00:00:27,505 --> 00:00:28,685
+a medical bill,
+
+17
+00:00:28,685 --> 00:00:30,338
+an urgent car repair.
+
+18
+00:00:30,518 --> 00:00:31,563
+It's not exciting.
+
+19
+00:00:31,743 --> 00:00:33,125
+It doesn't grow fast.
+
+20
+00:00:33,305 --> 00:00:35,109
+But it might be the most important
+
+21
+00:00:35,109 --> 00:00:36,329
+money you'll ever save,
+
+22
+00:00:36,329 --> 00:00:38,239
+because it protects everything else.
+
+23
+00:00:38,589 --> 00:00:41,677
+Without one, every surprise becomes debt.
+
+24
+00:00:41,857 --> 00:00:44,006
+A car repair goes on a credit
+
+25
+00:00:44,006 --> 00:00:44,376
+card.
+
+26
+00:00:44,556 --> 00:00:47,203
+A medical bill becomes a payment plan.
+
+27
+00:00:47,383 --> 00:00:49,995
+A lost job means falling behind on
+
+28
+00:00:49,995 --> 00:00:50,379
+rent.
+
+29
+00:00:50,559 --> 00:00:52,228
+And once that cycle starts,
+
+30
+00:00:52,228 --> 00:00:53,775
+it's very hard to escape.
+
+31
+00:00:54,125 --> 00:00:56,563
+We'll look at this from three angles.
+
+32
+00:00:56,743 --> 00:00:58,064
+First, the numbers:
+
+33
+00:00:58,064 --> 00:01:00,777
+how many people have an emergency fund,
+
+34
+00:01:00,777 --> 00:01:02,028
+how much you need,
+
+35
+00:01:02,028 --> 00:01:04,115
+and what not having one costs.
+
+36
+00:01:04,295 --> 00:01:05,943
+Second, the psychology:
+
+37
+00:01:05,943 --> 00:01:08,666
+why saving for emergencies is so hard,
+
+38
+00:01:08,666 --> 00:01:10,530
+and how to make it easier.
+
+39
+00:01:10,710 --> 00:01:12,487
+And third, the playbook:
+
+40
+00:01:12,487 --> 00:01:14,858
+twelve steps from zero to a full
+
+41
+00:01:14,858 --> 00:01:15,969
+emergency fund.
+
+42
+00:01:16,319 --> 00:01:17,630
+Stay for step seven.
+
+43
+00:01:17,810 --> 00:01:19,423
+It's a way to raise your first
+
+44
+00:01:19,423 --> 00:01:21,572
+few hundred dollars in a single weekend.
+
+45
+00:01:21,752 --> 00:01:23,319
+Let's start with the numbers.
+
+46
+00:01:23,670 --> 00:01:26,775
+Emergency savings data comes from the Federal
+
+47
+00:01:26,775 --> 00:01:30,225
+Reserve's annual Survey of Household Economics and
+
+48
+00:01:30,225 --> 00:01:32,296
+Decisionmaking, known as SHED.
+
+49
+00:01:32,476 --> 00:01:35,242
+Credit card interest information comes from the
+
+50
+00:01:35,242 --> 00:01:37,538
+Federal Reserve's consumer credit data.
+
+51
+00:01:37,718 --> 00:01:41,288
+Deposit insurance information comes from the FDIC
+
+52
+00:01:41,288 --> 00:01:41,944
+and NCUA.
+
+53
+00:01:42,124 --> 00:01:44,632
+Behavioral research is named as we go.
+
+54
+00:01:44,812 --> 00:01:46,971
+Interest examples are stated math.
+
+55
+00:01:47,151 --> 00:01:48,544
+This is education,
+
+56
+00:01:48,544 --> 00:01:50,170
+not financial advice.
+
+57
+00:01:50,520 --> 00:01:51,251
+Angle one.
+
+58
+00:01:51,431 --> 00:01:52,116
+The numbers.
+
+59
+00:01:52,296 --> 00:01:54,099
+How many people are prepared,
+
+60
+00:01:54,099 --> 00:01:55,218
+how much you need,
+
+61
+00:01:55,218 --> 00:01:57,021
+and what it costs not to have
+
+62
+00:01:57,021 --> 00:01:57,207
+it.
+
+63
+00:01:57,557 --> 00:02:00,340
+Every year, the Federal Reserve asks American
+
+64
+00:02:00,340 --> 00:02:01,886
+adults a simple question:
+
+65
+00:02:01,886 --> 00:02:04,174
+if you faced an unexpected expense of
+
+66
+00:02:04,174 --> 00:02:05,473
+four hundred dollars,
+
+67
+00:02:05,473 --> 00:02:07,019
+how would you pay for it?
+
+68
+00:02:07,199 --> 00:02:08,211
+In recent surveys,
+
+69
+00:02:08,211 --> 00:02:10,517
+about sixty three percent said they would
+
+70
+00:02:10,517 --> 00:02:12,597
+cover it with cash or its equivalent.
+
+71
+00:02:12,777 --> 00:02:14,554
+That means more than a third would
+
+72
+00:02:14,554 --> 00:02:14,763
+not.
+
+73
+00:02:15,113 --> 00:02:17,255
+In recent Federal Reserve surveys,
+
+74
+00:02:17,255 --> 00:02:19,775
+about sixty three percent of adults said
+
+75
+00:02:19,775 --> 00:02:22,169
+they would cover a four hundred dollar
+
+76
+00:02:22,169 --> 00:02:24,563
+emergency with cash or its equivalent.
+
+77
+00:02:24,743 --> 00:02:26,473
+More than a third would not.
+
+78
+00:02:26,823 --> 00:02:29,330
+Those who couldn't said they'd use a
+
+79
+00:02:29,330 --> 00:02:31,420
+credit card and pay over time,
+
+80
+00:02:31,420 --> 00:02:33,510
+borrow from friends or family,
+
+81
+00:02:33,510 --> 00:02:34,834
+take a payday loan,
+
+82
+00:02:34,834 --> 00:02:37,759
+sell something, or simply wouldn't be able
+
+83
+00:02:37,759 --> 00:02:38,247
+to pay.
+
+84
+00:02:38,427 --> 00:02:40,891
+Each of those options costs money,
+
+85
+00:02:40,891 --> 00:02:42,630
+relationships or stress.
+
+86
+00:02:42,980 --> 00:02:44,559
+Now, how much do you need?
+
+87
+00:02:44,739 --> 00:02:47,334
+The most common guideline is three to
+
+88
+00:02:47,334 --> 00:02:49,650
+six months of essential expenses.
+
+89
+00:02:49,830 --> 00:02:52,389
+Essentials mean rent or mortgage,
+
+90
+00:02:52,389 --> 00:02:54,870
+utilities, groceries, insurance,
+
+91
+00:02:54,870 --> 00:02:58,049
+transportation and minimum debt payments.
+
+92
+00:02:58,229 --> 00:02:59,785
+Not your full lifestyle.
+
+93
+00:02:59,965 --> 00:03:01,637
+Just what you'd need to keep the
+
+94
+00:03:01,637 --> 00:03:02,160
+lights on.
+
+95
+00:03:02,510 --> 00:03:05,193
+If your essentials are twenty five hundred
+
+96
+00:03:05,193 --> 00:03:06,216
+dollars a month,
+
+97
+00:03:06,216 --> 00:03:09,027
+three months is seventy five hundred dollars
+
+98
+00:03:09,027 --> 00:03:11,264
+and six months is fifteen thousand.
+
+99
+00:03:11,444 --> 00:03:13,626
+That can sound overwhelming from zero.
+
+100
+00:03:13,806 --> 00:03:15,490
+But you don't build it all at
+
+101
+00:03:15,490 --> 00:03:15,780
+once.
+
+102
+00:03:15,960 --> 00:03:17,417
+You build it in stages,
+
+103
+00:03:17,417 --> 00:03:19,571
+and every stage protects you more.
+
+104
+00:03:19,921 --> 00:03:22,062
+Who needs closer to six months,
+
+105
+00:03:22,062 --> 00:03:22,614
+or more?
+
+106
+00:03:22,794 --> 00:03:24,769
+People with irregular income,
+
+107
+00:03:24,769 --> 00:03:26,471
+single income households,
+
+108
+00:03:26,471 --> 00:03:29,400
+people in industries with frequent layoffs,
+
+109
+00:03:29,400 --> 00:03:32,668
+homeowners, and people with health conditions or
+
+110
+00:03:32,668 --> 00:03:33,417
+dependents.
+
+111
+00:03:33,597 --> 00:03:35,385
+Who might be okay with three?
+
+112
+00:03:35,565 --> 00:03:38,475
+Dual income households with stable jobs and
+
+113
+00:03:38,475 --> 00:03:39,489
+few dependents.
+
+114
+00:03:39,840 --> 00:03:41,594
+Now, what does it cost not to
+
+115
+00:03:41,594 --> 00:03:42,986
+have an emergency fund?
+
+116
+00:03:43,166 --> 00:03:45,460
+Say a two thousand dollar car repair
+
+117
+00:03:45,460 --> 00:03:47,435
+goes on a credit card at twenty
+
+118
+00:03:47,435 --> 00:03:48,773
+two percent interest,
+
+119
+00:03:48,773 --> 00:03:50,876
+and you pay one hundred dollars a
+
+120
+00:03:50,876 --> 00:03:51,258
+month.
+
+121
+00:03:51,438 --> 00:03:53,582
+It would take about twenty six months
+
+122
+00:03:53,582 --> 00:03:54,219
+to pay off,
+
+123
+00:03:54,219 --> 00:03:56,537
+and you'd pay around twenty five hundred
+
+124
+00:03:56,537 --> 00:03:57,522
+dollars in total.
+
+125
+00:03:57,702 --> 00:04:00,283
+The emergency cost five hundred dollars more
+
+126
+00:04:00,283 --> 00:04:02,160
+because you didn't have savings.
+
+127
+00:04:02,510 --> 00:04:04,570
+A two thousand dollar emergency,
+
+128
+00:04:04,570 --> 00:04:06,695
+paid with a credit card at twenty
+
+129
+00:04:06,695 --> 00:04:09,528
+two percent interest with one hundred dollar
+
+130
+00:04:09,528 --> 00:04:12,297
+monthly payments, versus paid from savings.
+
+131
+00:04:12,647 --> 00:04:14,779
+And payday loans can be far more
+
+132
+00:04:14,779 --> 00:04:15,445
+expensive.
+
+133
+00:04:15,625 --> 00:04:18,944
+The Consumer Financial Protection Bureau has reported
+
+134
+00:04:18,944 --> 00:04:21,136
+that a typical two week payday loan
+
+135
+00:04:21,136 --> 00:04:23,077
+can carry fees that work out to
+
+136
+00:04:23,077 --> 00:04:25,582
+an annual percentage rate of almost four
+
+137
+00:04:25,582 --> 00:04:26,585
+hundred percent.
+
+138
+00:04:26,765 --> 00:04:29,260
+One emergency can turn into months of
+
+139
+00:04:29,260 --> 00:04:29,597
+fees.
+
+140
+00:04:29,948 --> 00:04:31,666
+Now the good news.
+
+141
+00:04:31,846 --> 00:04:34,944
+Small, regular savings add up faster than
+
+142
+00:04:34,944 --> 00:04:36,002
+people expect.
+
+143
+00:04:36,182 --> 00:04:38,417
+Twenty five dollars a week is thirteen
+
+144
+00:04:38,417 --> 00:04:39,770
+hundred dollars a year.
+
+145
+00:04:39,950 --> 00:04:42,262
+Fifty dollars a week is twenty six
+
+146
+00:04:42,262 --> 00:04:42,806
+hundred.
+
+147
+00:04:42,986 --> 00:04:45,052
+One hundred dollars a week is fifty
+
+148
+00:04:45,052 --> 00:04:45,761
+two hundred.
+
+149
+00:04:45,941 --> 00:04:48,205
+And in a high yield savings account,
+
+150
+00:04:48,205 --> 00:04:50,532
+that money can earn interest while it
+
+151
+00:04:50,532 --> 00:04:50,910
+waits.
+
+152
+00:04:51,260 --> 00:04:54,069
+What kinds of emergencies actually happen?
+
+153
+00:04:54,249 --> 00:04:55,648
+For most households,
+
+154
+00:04:55,648 --> 00:04:57,886
+the common ones are car repairs,
+
+155
+00:04:57,886 --> 00:04:59,634
+medical and dental bills,
+
+156
+00:04:59,634 --> 00:05:01,452
+home or appliance repairs,
+
+157
+00:05:01,452 --> 00:05:05,088
+pet emergencies, and income disruptions like reduced
+
+158
+00:05:05,088 --> 00:05:06,347
+hours or job loss.
+
+159
+00:05:06,527 --> 00:05:07,804
+Most of these aren't rare.
+
+160
+00:05:07,984 --> 00:05:09,168
+Over a few years,
+
+161
+00:05:09,168 --> 00:05:12,303
+almost every household faces several of them.
+
+162
+00:05:12,653 --> 00:05:14,534
+Job loss is the big one.
+
+163
+00:05:14,714 --> 00:05:17,611
+The Bureau of Labor Statistics reports that
+
+164
+00:05:17,611 --> 00:05:18,690
+in recent years,
+
+165
+00:05:18,690 --> 00:05:21,587
+the median length of unemployment has often
+
+166
+00:05:21,587 --> 00:05:23,744
+been around two to three months,
+
+167
+00:05:23,744 --> 00:05:26,103
+and many people take longer to find
+
+168
+00:05:26,103 --> 00:05:26,440
+work.
+
+169
+00:05:26,620 --> 00:05:28,979
+That's one reason three to six months
+
+170
+00:05:28,979 --> 00:05:31,531
+of essentials is the standard guideline.
+
+171
+00:05:31,711 --> 00:05:33,933
+It covers a typical job search with
+
+172
+00:05:33,933 --> 00:05:34,822
+room to spare.
+
+173
+00:05:35,172 --> 00:05:36,310
+And here's a bonus.
+
+174
+00:05:36,490 --> 00:05:38,540
+In a high yield savings account,
+
+175
+00:05:38,540 --> 00:05:41,295
+your emergency fund earns interest while it
+
+176
+00:05:41,295 --> 00:05:41,679
+waits.
+
+177
+00:05:41,859 --> 00:05:44,319
+Some high yield accounts have paid around
+
+178
+00:05:44,319 --> 00:05:46,058
+four percent a year recently,
+
+179
+00:05:46,058 --> 00:05:47,258
+though rates change.
+
+180
+00:05:47,438 --> 00:05:49,273
+On a ten thousand dollar fund,
+
+181
+00:05:49,273 --> 00:05:51,841
+four percent is about four hundred dollars
+
+182
+00:05:51,841 --> 00:05:53,798
+a year, money that works for you
+
+183
+00:05:53,798 --> 00:05:55,205
+instead of against you.
+
+184
+00:05:55,555 --> 00:05:58,144
+Saving one hundred fifty dollars a week,
+
+185
+00:05:58,144 --> 00:06:00,215
+about six hundred fifty a month,
+
+186
+00:06:00,215 --> 00:06:02,480
+for two years in an account earning
+
+187
+00:06:02,480 --> 00:06:03,775
+four percent a year.
+
+188
+00:06:04,125 --> 00:06:05,690
+So the math is clear:
+
+189
+00:06:05,690 --> 00:06:08,819
+an emergency fund saves money and protects
+
+190
+00:06:08,819 --> 00:06:09,117
+you.
+
+191
+00:06:09,297 --> 00:06:10,823
+Then why is it so hard to
+
+192
+00:06:10,823 --> 00:06:11,189
+build?
+
+193
+00:06:11,369 --> 00:06:12,182
+Angle two.
+
+194
+00:06:12,532 --> 00:06:13,553
+Angle two.
+
+195
+00:06:13,733 --> 00:06:14,894
+The psychology.
+
+196
+00:06:15,074 --> 00:06:17,545
+Five reasons emergency funds are hard to
+
+197
+00:06:17,545 --> 00:06:19,521
+build, and how to beat each one.
+
+198
+00:06:19,871 --> 00:06:20,660
+Reason one.
+
+199
+00:06:20,840 --> 00:06:22,988
+It feels like nothing is happening.
+
+200
+00:06:23,168 --> 00:06:24,968
+Investing has growth charts.
+
+201
+00:06:25,148 --> 00:06:27,365
+Paying off debt has shrinking balances.
+
+202
+00:06:27,545 --> 00:06:29,763
+An emergency fund just sits there.
+
+203
+00:06:29,943 --> 00:06:32,153
+Our brains like visible rewards,
+
+204
+00:06:32,153 --> 00:06:34,709
+and this money's reward is invisible:
+
+205
+00:06:34,709 --> 00:06:36,781
+the crisis that never happens.
+
+206
+00:06:37,131 --> 00:06:39,244
+The fix: make progress visible.
+
+207
+00:06:39,424 --> 00:06:40,509
+Name the account,
+
+208
+00:06:40,509 --> 00:06:41,212
+set a goal,
+
+209
+00:06:41,212 --> 00:06:43,127
+and watch a progress bar fill.
+
+210
+00:06:43,307 --> 00:06:46,316
+Celebrate milestones like five hundred,
+
+211
+00:06:46,316 --> 00:06:49,403
+one thousand, and one month of expenses.
+
+212
+00:06:49,583 --> 00:06:52,032
+Small celebrations keep you going.
+
+213
+00:06:52,382 --> 00:06:53,334
+Reason two.
+
+214
+00:06:53,514 --> 00:06:54,559
+Present bias.
+
+215
+00:06:54,739 --> 00:06:57,897
+Behavioral economists describe a tendency to value
+
+216
+00:06:57,897 --> 00:07:00,613
+rewards today much more than rewards later.
+
+217
+00:07:00,793 --> 00:07:03,371
+Spending fifty dollars now feels great.
+
+218
+00:07:03,551 --> 00:07:06,676
+Being protected from a future emergency feels
+
+219
+00:07:06,676 --> 00:07:07,301
+abstract.
+
+220
+00:07:07,481 --> 00:07:08,906
+So the present wins,
+
+221
+00:07:08,906 --> 00:07:10,047
+again and again.
+
+222
+00:07:10,397 --> 00:07:11,933
+The fix: automate it,
+
+223
+00:07:11,933 --> 00:07:14,054
+so the decision is made once.
+
+224
+00:07:14,234 --> 00:07:16,599
+When savings happen automatically on payday,
+
+225
+00:07:16,599 --> 00:07:18,642
+the present version of you doesn't get
+
+226
+00:07:18,642 --> 00:07:19,609
+a vote every week.
+
+227
+00:07:19,789 --> 00:07:23,129
+Researchers Richard Thaler and Shlomo Benartzi showed
+
+228
+00:07:23,129 --> 00:07:25,775
+with their Save More Tomorrow program that
+
+229
+00:07:25,775 --> 00:07:29,240
+automatic, pre committed savings can dramatically raise
+
+230
+00:07:29,240 --> 00:07:30,563
+how much people save.
+
+231
+00:07:30,914 --> 00:07:31,994
+Reason three.
+
+232
+00:07:32,174 --> 00:07:34,484
+It feels impossible from zero.
+
+233
+00:07:34,664 --> 00:07:37,372
+When the goal is fifteen thousand dollars
+
+234
+00:07:37,372 --> 00:07:38,561
+and you have zero,
+
+235
+00:07:38,561 --> 00:07:40,608
+the gap is so big that starting
+
+236
+00:07:40,608 --> 00:07:41,665
+feels pointless.
+
+237
+00:07:41,845 --> 00:07:43,342
+So people don't start.
+
+238
+00:07:43,693 --> 00:07:45,701
+The fix: break it into stages.
+
+239
+00:07:45,881 --> 00:07:48,644
+Your first goal isn't fifteen thousand.
+
+240
+00:07:48,824 --> 00:07:49,904
+It's five hundred.
+
+241
+00:07:50,084 --> 00:07:51,303
+Then one thousand.
+
+242
+00:07:51,483 --> 00:07:52,389
+Then one month.
+
+243
+00:07:52,569 --> 00:07:54,154
+Each stage is reachable,
+
+244
+00:07:54,154 --> 00:07:56,333
+and each one makes you safer than
+
+245
+00:07:56,333 --> 00:07:56,795
+before.
+
+246
+00:07:57,145 --> 00:07:58,201
+Reason four.
+
+247
+00:07:58,381 --> 00:08:00,390
+Easy access, easy spending.
+
+248
+00:08:00,570 --> 00:08:02,703
+If your emergency fund sits in your
+
+249
+00:08:02,703 --> 00:08:05,873
+checking account, it slowly disappears into everyday
+
+250
+00:08:05,873 --> 00:08:06,421
+spending.
+
+251
+00:08:06,601 --> 00:08:09,348
+Money that's always visible and one tap
+
+252
+00:08:09,348 --> 00:08:10,827
+away rarely survives.
+
+253
+00:08:11,177 --> 00:08:12,860
+The fix: separation.
+
+254
+00:08:13,040 --> 00:08:14,915
+Keep the fund in a separate high
+
+255
+00:08:14,915 --> 00:08:16,204
+yield savings account,
+
+256
+00:08:16,204 --> 00:08:18,021
+maybe even at a different bank.
+
+257
+00:08:18,201 --> 00:08:20,319
+Close enough to reach in a day
+
+258
+00:08:20,319 --> 00:08:20,813
+or two.
+
+259
+00:08:20,993 --> 00:08:22,624
+Far enough that you don't spend it
+
+260
+00:08:22,624 --> 00:08:23,199
+by accident.
+
+261
+00:08:23,549 --> 00:08:24,768
+And reason five.
+
+262
+00:08:24,948 --> 00:08:27,247
+Every month feels like an emergency.
+
+263
+00:08:27,427 --> 00:08:28,561
+When money is tight,
+
+264
+00:08:28,561 --> 00:08:30,376
+there's always something urgent.
+
+265
+00:08:30,556 --> 00:08:31,844
+Kids need shoes.
+
+266
+00:08:32,024 --> 00:08:34,068
+A bill is higher than expected.
+
+267
+00:08:34,248 --> 00:08:36,175
+It can feel like there's never extra.
+
+268
+00:08:36,525 --> 00:08:39,442
+The fix: separate expected costs from true
+
+269
+00:08:39,442 --> 00:08:40,275
+emergencies.
+
+270
+00:08:40,455 --> 00:08:44,048
+Shoes, birthdays and annual bills are expected,
+
+271
+00:08:44,048 --> 00:08:45,424
+even if irregular.
+
+272
+00:08:45,604 --> 00:08:48,147
+Plan for them with small sinking funds.
+
+273
+00:08:48,327 --> 00:08:50,528
+Then the emergency fund is only touched
+
+274
+00:08:50,528 --> 00:08:51,601
+for real surprises.
+
+275
+00:08:51,951 --> 00:08:54,274
+Here's a mindset shift that helps many
+
+276
+00:08:54,274 --> 00:08:54,702
+people.
+
+277
+00:08:54,882 --> 00:08:57,387
+Think of your emergency fund as insurance
+
+278
+00:08:57,387 --> 00:08:58,609
+you pay to yourself.
+
+279
+00:08:58,789 --> 00:09:01,197
+Instead of paying interest to a credit
+
+280
+00:09:01,197 --> 00:09:03,225
+card company after an emergency,
+
+281
+00:09:03,225 --> 00:09:05,507
+you pay into your own account before
+
+282
+00:09:05,507 --> 00:09:05,697
+it.
+
+283
+00:09:05,877 --> 00:09:07,478
+And unlike most insurance,
+
+284
+00:09:07,478 --> 00:09:08,772
+if you never need it,
+
+285
+00:09:08,772 --> 00:09:10,126
+you keep every dollar.
+
+286
+00:09:10,476 --> 00:09:12,159
+And think of it as buying calm.
+
+287
+00:09:12,339 --> 00:09:14,822
+Many people say the first thousand dollars
+
+288
+00:09:14,822 --> 00:09:16,949
+in savings did more for their stress
+
+289
+00:09:16,949 --> 00:09:18,191
+level than any raise.
+
+290
+00:09:18,371 --> 00:09:19,903
+You're not just saving money.
+
+291
+00:09:20,083 --> 00:09:22,277
+You're buying the ability to handle bad
+
+292
+00:09:22,277 --> 00:09:23,346
+news without panic.
+
+293
+00:09:23,696 --> 00:09:25,759
+The idea of saving for hard times
+
+294
+00:09:25,759 --> 00:09:26,447
+is ancient.
+
+295
+00:09:26,627 --> 00:09:28,853
+Many cultures have a version of the
+
+296
+00:09:28,853 --> 00:09:29,298
+advice.
+
+297
+00:09:29,478 --> 00:09:30,267
+In the Bible,
+
+298
+00:09:30,267 --> 00:09:32,937
+Joseph advises Pharaoh to store grain during
+
+299
+00:09:32,937 --> 00:09:35,182
+seven good years to prepare for seven
+
+300
+00:09:35,182 --> 00:09:36,153
+years of famine.
+
+301
+00:09:36,333 --> 00:09:38,483
+The phrase saving for a rainy day
+
+302
+00:09:38,483 --> 00:09:41,024
+has been used in English for centuries.
+
+303
+00:09:41,374 --> 00:09:44,243
+During the Great Depression in the 1930s,
+
+304
+00:09:44,243 --> 00:09:47,461
+many American families lost their savings when
+
+305
+00:09:47,461 --> 00:09:49,280
+thousands of banks failed.
+
+306
+00:09:49,460 --> 00:09:53,306
+That's one reason Congress created the Federal
+
+307
+00:09:53,306 --> 00:09:56,484
+Deposit Insurance Corporation in 1933,
+
+308
+00:09:56,484 --> 00:09:58,574
+to protect bank deposits.
+
+309
+00:09:58,754 --> 00:10:01,842
+Today, FDIC insurance covers deposits up to
+
+310
+00:10:01,842 --> 00:10:05,432
+legal limits, currently two hundred fifty thousand
+
+311
+00:10:05,432 --> 00:10:07,011
+dollars per depositor,
+
+312
+00:10:07,011 --> 00:10:08,232
+per insured bank,
+
+313
+00:10:08,232 --> 00:10:10,817
+for each account ownership category.
+
+314
+00:10:11,167 --> 00:10:12,452
+For many decades,
+
+315
+00:10:12,452 --> 00:10:16,156
+people kept emergency savings in passbook savings
+
+316
+00:10:16,156 --> 00:10:17,970
+accounts at local banks.
+
+317
+00:10:18,150 --> 00:10:19,426
+Then, in the 2000s,
+
+318
+00:10:19,426 --> 00:10:22,716
+online banks began offering higher interest rates
+
+319
+00:10:22,716 --> 00:10:25,267
+because they didn't have branch costs.
+
+320
+00:10:25,447 --> 00:10:27,905
+Today, anyone can open a high yield
+
+321
+00:10:27,905 --> 00:10:29,801
+savings account in minutes.
+
+322
+00:10:30,151 --> 00:10:31,045
+Quick pause.
+
+323
+00:10:31,225 --> 00:10:33,527
+If you're building your emergency fund,
+
+324
+00:10:33,527 --> 00:10:34,590
+or about to start,
+
+325
+00:10:34,590 --> 00:10:36,066
+subscribe to the channel.
+
+326
+00:10:36,246 --> 00:10:38,109
+It's free, and it helps me keep
+
+327
+00:10:38,109 --> 00:10:39,311
+making these videos.
+
+328
+00:10:39,491 --> 00:10:41,825
+Now, the twelve steps from zero.
+
+329
+00:10:42,175 --> 00:10:43,127
+Angle three.
+
+330
+00:10:43,307 --> 00:10:44,085
+The playbook.
+
+331
+00:10:44,265 --> 00:10:46,652
+Twelve steps from zero to a full
+
+332
+00:10:46,652 --> 00:10:47,771
+emergency fund.
+
+333
+00:10:48,121 --> 00:10:48,922
+Step one.
+
+334
+00:10:49,102 --> 00:10:50,483
+Face the starting line.
+
+335
+00:10:50,834 --> 00:10:52,738
+Write down how much cash you have
+
+336
+00:10:52,738 --> 00:10:53,892
+available right now,
+
+337
+00:10:53,892 --> 00:10:56,258
+outside of what's needed for this month's
+
+338
+00:10:56,258 --> 00:10:56,604
+bills.
+
+339
+00:10:56,784 --> 00:10:59,014
+For many people starting this journey,
+
+340
+00:10:59,014 --> 00:11:01,068
+the honest answer is close to zero.
+
+341
+00:11:01,418 --> 00:11:03,918
+Also list any debts and their minimum
+
+342
+00:11:03,918 --> 00:11:06,824
+payments, and any money that's coming soon,
+
+343
+00:11:06,824 --> 00:11:08,716
+like a tax refund or a final
+
+344
+00:11:08,716 --> 00:11:09,324
+paycheck.
+
+345
+00:11:09,504 --> 00:11:11,236
+This gives you a complete,
+
+346
+00:11:11,236 --> 00:11:12,302
+honest snapshot.
+
+347
+00:11:12,482 --> 00:11:14,710
+It only takes about twenty minutes,
+
+348
+00:11:14,710 --> 00:11:16,683
+and it turns a vague worry into
+
+349
+00:11:16,683 --> 00:11:17,765
+specific numbers.
+
+350
+00:11:18,115 --> 00:11:19,768
+If you're starting at zero,
+
+351
+00:11:19,768 --> 00:11:21,238
+be gentle with yourself.
+
+352
+00:11:21,418 --> 00:11:22,509
+Many people are.
+
+353
+00:11:22,689 --> 00:11:24,482
+The point of this step isn't to
+
+354
+00:11:24,482 --> 00:11:25,986
+feel bad about the number.
+
+355
+00:11:26,166 --> 00:11:28,729
+It's to know exactly where the starting
+
+356
+00:11:28,729 --> 00:11:30,832
+line is, so every dollar you add
+
+357
+00:11:30,832 --> 00:11:32,146
+feels like progress.
+
+358
+00:11:32,496 --> 00:11:33,425
+Step two.
+
+359
+00:11:33,605 --> 00:11:35,776
+Calculate your essential expenses.
+
+360
+00:11:36,126 --> 00:11:38,014
+Add up rent or mortgage,
+
+361
+00:11:38,014 --> 00:11:40,532
+utilities, groceries, insurance,
+
+362
+00:11:40,532 --> 00:11:44,624
+transportation, childcare and minimum debt payments.
+
+363
+00:11:44,804 --> 00:11:46,720
+That's your monthly essentials.
+
+364
+00:11:46,900 --> 00:11:49,199
+Multiply by three and by six.
+
+365
+00:11:49,379 --> 00:11:51,434
+Those are your long term targets.
+
+366
+00:11:51,784 --> 00:11:53,578
+If you're not sure what you spend,
+
+367
+00:11:53,578 --> 00:11:55,267
+look at the last three months of
+
+368
+00:11:55,267 --> 00:11:57,008
+bank statements and average them.
+
+369
+00:11:57,188 --> 00:12:00,107
+Don't include things you'd cut immediately in
+
+370
+00:12:00,107 --> 00:12:02,572
+a crisis, like dining out or streaming
+
+371
+00:12:02,572 --> 00:12:03,156
+services.
+
+372
+00:12:03,336 --> 00:12:05,809
+Those aren't essentials when times are hard.
+
+373
+00:12:06,159 --> 00:12:07,190
+For most people,
+
+374
+00:12:07,190 --> 00:12:10,414
+essential expenses are somewhere between sixty and
+
+375
+00:12:10,414 --> 00:12:13,380
+seventy five percent of their normal spending.
+
+376
+00:12:13,560 --> 00:12:15,637
+If you normally spend four thousand a
+
+377
+00:12:15,637 --> 00:12:18,162
+month, your essentials might be around twenty
+
+378
+00:12:18,162 --> 00:12:18,947
+eight hundred.
+
+379
+00:12:19,127 --> 00:12:21,581
+That's the number your emergency fund is
+
+380
+00:12:21,581 --> 00:12:22,378
+built around.
+
+381
+00:12:22,728 --> 00:12:23,668
+Step three.
+
+382
+00:12:23,848 --> 00:12:26,333
+Open a separate high yield savings account.
+
+383
+00:12:26,683 --> 00:12:29,319
+Online banks and many credit unions offer
+
+384
+00:12:29,319 --> 00:12:32,020
+high yield savings accounts that often pay
+
+385
+00:12:32,020 --> 00:12:34,400
+much more interest than a typical big
+
+386
+00:12:34,400 --> 00:12:35,750
+bank savings account.
+
+387
+00:12:35,930 --> 00:12:38,754
+Deposits are insured by the FDIC or
+
+388
+00:12:38,754 --> 00:12:40,690
+NCUA up to legal limits.
+
+389
+00:12:41,040 --> 00:12:43,137
+Give the account a clear name,
+
+390
+00:12:43,137 --> 00:12:44,536
+like Emergency Fund,
+
+391
+00:12:44,536 --> 00:12:46,074
+or something personal,
+
+392
+00:12:46,074 --> 00:12:47,402
+like Peace of Mind.
+
+393
+00:12:47,582 --> 00:12:49,678
+A named account with a purpose is
+
+394
+00:12:49,678 --> 00:12:52,029
+psychologically harder to spend from.
+
+395
+00:12:52,209 --> 00:12:53,390
+It's a small trick,
+
+396
+00:12:53,390 --> 00:12:55,193
+but it works for many people.
+
+397
+00:12:55,543 --> 00:12:58,271
+Look for an account with no monthly
+
+398
+00:12:58,271 --> 00:13:00,219
+fees, no minimum balance,
+
+399
+00:13:00,219 --> 00:13:02,323
+and FDIC or NCUA insurance.
+
+400
+00:13:02,503 --> 00:13:04,314
+Check the current interest rate,
+
+401
+00:13:04,314 --> 00:13:06,578
+but don't chase every small rate change.
+
+402
+00:13:06,758 --> 00:13:09,578
+The most important features are safety and
+
+403
+00:13:09,578 --> 00:13:11,727
+easy access within a day or two.
+
+404
+00:13:12,077 --> 00:13:13,064
+Step four.
+
+405
+00:13:13,244 --> 00:13:14,974
+Automate a small transfer.
+
+406
+00:13:15,324 --> 00:13:17,808
+Set up an automatic transfer from checking
+
+407
+00:13:17,808 --> 00:13:19,937
+to your emergency fund the day after
+
+408
+00:13:19,937 --> 00:13:20,351
+payday.
+
+409
+00:13:20,531 --> 00:13:22,566
+Choose an amount you won't notice too
+
+410
+00:13:22,566 --> 00:13:24,711
+much, even if it's twenty five dollars.
+
+411
+00:13:25,061 --> 00:13:27,543
+If your income arrives on different days,
+
+412
+00:13:27,543 --> 00:13:29,540
+set the transfer for the day each
+
+413
+00:13:29,540 --> 00:13:30,448
+paycheck lands.
+
+414
+00:13:30,628 --> 00:13:32,388
+And if your bank allows it,
+
+415
+00:13:32,388 --> 00:13:34,148
+set up automatic round ups,
+
+416
+00:13:34,148 --> 00:13:36,886
+which move spare change from each purchase
+
+417
+00:13:36,886 --> 00:13:37,733
+into savings.
+
+418
+00:13:37,913 --> 00:13:40,528
+Small amounts, many times a week,
+
+419
+00:13:40,528 --> 00:13:41,083
+add up.
+
+420
+00:13:41,433 --> 00:13:43,192
+If you can't name an amount yet,
+
+421
+00:13:43,192 --> 00:13:45,171
+start with ten dollars per paycheck.
+
+422
+00:13:45,351 --> 00:13:47,416
+The habit matters more than the amount
+
+423
+00:13:47,416 --> 00:13:47,905
+at first.
+
+424
+00:13:48,085 --> 00:13:49,716
+You can raise it every month as
+
+425
+00:13:49,716 --> 00:13:50,767
+you find more money.
+
+426
+00:13:51,117 --> 00:13:52,092
+Step five.
+
+427
+00:13:52,272 --> 00:13:53,925
+Hit your first quick win:
+
+428
+00:13:53,925 --> 00:13:55,314
+five hundred dollars.
+
+429
+00:13:55,664 --> 00:13:58,555
+Five hundred dollars can cover many common
+
+430
+00:13:58,555 --> 00:14:01,101
+emergencies, like a minor car repair,
+
+431
+00:14:01,101 --> 00:14:03,373
+a doctor visit or a broken phone.
+
+432
+00:14:03,553 --> 00:14:04,967
+It's the first milestone,
+
+433
+00:14:04,967 --> 00:14:07,117
+and it's reachable within a few months
+
+434
+00:14:07,117 --> 00:14:08,023
+for most people.
+
+435
+00:14:08,373 --> 00:14:10,073
+At twenty five dollars a week,
+
+436
+00:14:10,073 --> 00:14:12,680
+five hundred dollars takes about twenty weeks.
+
+437
+00:14:12,860 --> 00:14:14,720
+At fifty dollars a week,
+
+438
+00:14:14,720 --> 00:14:15,496
+about ten.
+
+439
+00:14:15,676 --> 00:14:18,388
+Add one weekend of selling unused things,
+
+440
+00:14:18,388 --> 00:14:20,240
+and it can happen in a month
+
+441
+00:14:20,240 --> 00:14:20,703
+or two.
+
+442
+00:14:21,053 --> 00:14:22,730
+A good trick is to round up
+
+443
+00:14:22,730 --> 00:14:23,352
+your goal.
+
+444
+00:14:23,532 --> 00:14:25,500
+If your quick win target is five
+
+445
+00:14:25,500 --> 00:14:27,838
+hundred dollars, set up the account so
+
+446
+00:14:27,838 --> 00:14:29,253
+you see a progress bar,
+
+447
+00:14:29,253 --> 00:14:31,160
+or write the number on a sticky
+
+448
+00:14:31,160 --> 00:14:33,005
+note and update it every week.
+
+449
+00:14:33,185 --> 00:14:35,322
+Visible progress keeps people going.
+
+450
+00:14:35,672 --> 00:14:36,821
+Step six.
+
+451
+00:14:37,001 --> 00:14:38,580
+Reach one thousand dollars.
+
+452
+00:14:38,930 --> 00:14:41,624
+One thousand dollars is a classic starter
+
+453
+00:14:41,624 --> 00:14:42,610
+emergency fund.
+
+454
+00:14:42,790 --> 00:14:44,926
+It covers many of the surprises that
+
+455
+00:14:44,926 --> 00:14:47,063
+would otherwise go on a credit card.
+
+456
+00:14:47,413 --> 00:14:49,584
+To get from five hundred to one
+
+457
+00:14:49,584 --> 00:14:52,665
+thousand faster, look for one recurring cost
+
+458
+00:14:52,665 --> 00:14:53,996
+to cut temporarily,
+
+459
+00:14:53,996 --> 00:14:55,747
+like a streaming service,
+
+460
+00:14:55,747 --> 00:14:57,147
+a gym you don't use,
+
+461
+00:14:57,147 --> 00:14:58,338
+or food delivery.
+
+462
+00:14:58,518 --> 00:15:00,606
+Send that amount to the fund until
+
+463
+00:15:00,606 --> 00:15:01,896
+you hit one thousand.
+
+464
+00:15:02,246 --> 00:15:04,812
+Once the thousand dollars is in place,
+
+465
+00:15:04,812 --> 00:15:07,041
+many people notice a real change.
+
+466
+00:15:07,221 --> 00:15:09,197
+A flat tire or a vet bill
+
+467
+00:15:09,197 --> 00:15:10,936
+no longer means panic.
+
+468
+00:15:11,116 --> 00:15:13,671
+That first thousand dollars often does more
+
+469
+00:15:13,671 --> 00:15:15,572
+for peace of mind than any later
+
+470
+00:15:15,572 --> 00:15:16,167
+milestone.
+
+471
+00:15:16,516 --> 00:15:17,375
+Step seven.
+
+472
+00:15:17,555 --> 00:15:19,158
+Raise money in a weekend.
+
+473
+00:15:19,507 --> 00:15:20,645
+Here's the jump start.
+
+474
+00:15:20,825 --> 00:15:23,328
+Spend one weekend raising cash:
+
+475
+00:15:23,328 --> 00:15:24,782
+sell unused items,
+
+476
+00:15:24,782 --> 00:15:26,639
+pick up an extra shift,
+
+477
+00:15:26,639 --> 00:15:28,819
+do a few hours of gig work,
+
+478
+00:15:28,819 --> 00:15:31,727
+or offer a service like babysitting,
+
+479
+00:15:31,727 --> 00:15:33,503
+yard work or tutoring.
+
+480
+00:15:33,683 --> 00:15:36,031
+Many people raise a few hundred dollars
+
+481
+00:15:36,031 --> 00:15:37,236
+in a single weekend.
+
+482
+00:15:37,585 --> 00:15:40,077
+Check your home for old phones,
+
+483
+00:15:40,077 --> 00:15:42,086
+game consoles, furniture,
+
+484
+00:15:42,086 --> 00:15:43,453
+baby gear, tools,
+
+485
+00:15:43,453 --> 00:15:44,900
+bikes and clothes.
+
+486
+00:15:45,080 --> 00:15:47,323
+And check for money you're owed:
+
+487
+00:15:47,323 --> 00:15:50,338
+unclaimed property databases run by states,
+
+488
+00:15:50,338 --> 00:15:51,811
+forgotten gift cards,
+
+489
+00:15:51,811 --> 00:15:53,984
+or refunds you never requested.
+
+490
+00:15:54,334 --> 00:15:55,948
+Sell things you don't use.
+
+491
+00:15:56,128 --> 00:15:58,637
+Many homes have a few hundred dollars
+
+492
+00:15:58,637 --> 00:16:00,129
+of unused electronics,
+
+493
+00:16:00,129 --> 00:16:02,502
+furniture, sports gear or clothing.
+
+494
+00:16:02,682 --> 00:16:05,445
+Online marketplaces and local groups make it
+
+495
+00:16:05,445 --> 00:16:05,759
+easy.
+
+496
+00:16:05,939 --> 00:16:08,028
+Every sale goes straight to the fund.
+
+497
+00:16:08,378 --> 00:16:09,156
+Step eight.
+
+498
+00:16:09,336 --> 00:16:10,718
+Capture windfalls.
+
+499
+00:16:11,067 --> 00:16:12,465
+According to the IRS,
+
+500
+00:16:12,465 --> 00:16:14,995
+the average tax refund in recent years
+
+501
+00:16:14,995 --> 00:16:17,592
+has been around three thousand dollars.
+
+502
+00:16:17,772 --> 00:16:19,007
+For many households,
+
+503
+00:16:19,007 --> 00:16:21,354
+that single refund could build most of
+
+504
+00:16:21,354 --> 00:16:23,577
+a starter emergency fund in one day.
+
+505
+00:16:23,927 --> 00:16:25,823
+A common split is to send at
+
+506
+00:16:25,823 --> 00:16:28,193
+least half of every windfall to the
+
+507
+00:16:28,193 --> 00:16:30,292
+emergency fund until it's full,
+
+508
+00:16:30,292 --> 00:16:31,578
+and enjoy the rest.
+
+509
+00:16:31,758 --> 00:16:33,932
+That way you make real progress without
+
+510
+00:16:33,932 --> 00:16:35,882
+feeling like every bit of good luck
+
+511
+00:16:35,882 --> 00:16:36,495
+disappears.
+
+512
+00:16:36,845 --> 00:16:40,018
+Watch for these moments throughout the year:
+
+513
+00:16:40,018 --> 00:16:41,533
+tax refunds, bonuses,
+
+514
+00:16:41,533 --> 00:16:42,975
+cash gifts, rebates,
+
+515
+00:16:42,975 --> 00:16:45,716
+and the extra paychecks in months with
+
+516
+00:16:45,716 --> 00:16:46,725
+three paydays.
+
+517
+00:16:46,905 --> 00:16:49,144
+Decide in advance that a set share
+
+518
+00:16:49,144 --> 00:16:51,316
+of each one goes to the emergency
+
+519
+00:16:51,316 --> 00:16:52,699
+fund until it's full.
+
+520
+00:16:53,048 --> 00:16:54,000
+Step nine.
+
+521
+00:16:54,180 --> 00:16:56,607
+Build sinking funds alongside.
+
+522
+00:16:56,956 --> 00:16:59,110
+Once you have a starter fund,
+
+523
+00:16:59,110 --> 00:17:02,749
+add small sinking funds for predictable irregular
+
+524
+00:17:02,749 --> 00:17:04,457
+costs: car maintenance,
+
+525
+00:17:04,457 --> 00:17:06,685
+holidays, gifts, annual bills.
+
+526
+00:17:06,865 --> 00:17:08,884
+Even ten or twenty dollars a month
+
+527
+00:17:08,884 --> 00:17:10,546
+for each makes a difference.
+
+528
+00:17:10,895 --> 00:17:14,435
+Common sinking funds include car maintenance and
+
+529
+00:17:14,435 --> 00:17:17,164
+registration, holidays and birthdays,
+
+530
+00:17:17,164 --> 00:17:19,303
+school costs, medical copays,
+
+531
+00:17:19,303 --> 00:17:22,179
+pet care, and home or renters insurance
+
+532
+00:17:22,179 --> 00:17:23,655
+if it's paid yearly.
+
+533
+00:17:23,835 --> 00:17:25,812
+Start with the two or three that
+
+534
+00:17:25,812 --> 00:17:27,294
+most often surprise you.
+
+535
+00:17:27,644 --> 00:17:30,098
+This step is what keeps the emergency
+
+536
+00:17:30,098 --> 00:17:32,950
+fund from being drained by non emergencies.
+
+537
+00:17:33,130 --> 00:17:34,746
+Without sinking funds,
+
+538
+00:17:34,746 --> 00:17:37,171
+a holiday or an annual bill looks
+
+539
+00:17:37,171 --> 00:17:38,494
+like an emergency.
+
+540
+00:17:38,674 --> 00:17:41,853
+With them, the emergency fund stays protected
+
+541
+00:17:41,853 --> 00:17:43,620
+for the truly unexpected.
+
+542
+00:17:43,969 --> 00:17:44,851
+Step ten.
+
+543
+00:17:45,031 --> 00:17:46,355
+Grow to one month,
+
+544
+00:17:46,355 --> 00:17:47,679
+then three months.
+
+545
+00:17:48,028 --> 00:17:49,706
+After the starter fund,
+
+546
+00:17:49,706 --> 00:17:52,404
+aim for one full month of essentials,
+
+547
+00:17:52,404 --> 00:17:53,717
+then three months.
+
+548
+00:17:53,897 --> 00:17:56,558
+Raise your automatic transfer every time you
+
+549
+00:17:56,558 --> 00:17:58,857
+can, especially after a raise or after
+
+550
+00:17:58,857 --> 00:17:59,946
+paying off a debt.
+
+551
+00:18:00,296 --> 00:18:02,038
+Every time you pay off a debt,
+
+552
+00:18:02,038 --> 00:18:04,766
+redirect that payment straight to the emergency
+
+553
+00:18:04,766 --> 00:18:06,740
+fund until it reaches your target.
+
+554
+00:18:06,920 --> 00:18:09,215
+You're already used to living without that
+
+555
+00:18:09,215 --> 00:18:11,401
+money, so you won't feel the difference.
+
+556
+00:18:11,751 --> 00:18:13,699
+If you have high interest debt,
+
+557
+00:18:13,699 --> 00:18:15,773
+a common approach is to build the
+
+558
+00:18:15,773 --> 00:18:17,973
+fund to about one thousand dollars,
+
+559
+00:18:17,973 --> 00:18:20,172
+then focus on paying down the debt,
+
+560
+00:18:20,172 --> 00:18:22,246
+then come back and build the full
+
+561
+00:18:22,246 --> 00:18:22,560
+fund.
+
+562
+00:18:22,740 --> 00:18:24,716
+That way you're protected from new debt
+
+563
+00:18:24,716 --> 00:18:25,933
+while you clear the old.
+
+564
+00:18:26,283 --> 00:18:27,270
+Step eleven.
+
+565
+00:18:27,450 --> 00:18:29,714
+Define what counts as an emergency.
+
+566
+00:18:30,064 --> 00:18:31,118
+A simple test:
+
+567
+00:18:31,118 --> 00:18:32,398
+is it unexpected,
+
+568
+00:18:32,398 --> 00:18:33,602
+is it necessary,
+
+569
+00:18:33,602 --> 00:18:34,882
+and is it urgent?
+
+570
+00:18:35,062 --> 00:18:36,703
+If all three are yes,
+
+571
+00:18:36,703 --> 00:18:38,812
+it's probably an emergency.
+
+572
+00:18:38,992 --> 00:18:41,087
+If not, it belongs in a sinking
+
+573
+00:18:41,087 --> 00:18:43,114
+fund or your regular spending.
+
+574
+00:18:43,464 --> 00:18:45,817
+If you share finances with a partner,
+
+575
+00:18:45,817 --> 00:18:47,725
+agree on these rules together.
+
+576
+00:18:47,905 --> 00:18:49,886
+And consider a simple threshold:
+
+577
+00:18:49,886 --> 00:18:52,487
+any withdrawal above a certain amount gets
+
+578
+00:18:52,487 --> 00:18:55,088
+discussed first, unless it's a true urgent
+
+579
+00:18:55,088 --> 00:18:55,707
+emergency.
+
+580
+00:18:56,057 --> 00:18:57,974
+Write down your own rules before you
+
+581
+00:18:57,974 --> 00:18:58,507
+need them.
+
+582
+00:18:58,687 --> 00:19:00,339
+For example: job loss,
+
+583
+00:19:00,339 --> 00:19:03,492
+medical bills, urgent car or home repairs,
+
+584
+00:19:03,492 --> 00:19:05,595
+emergency travel for family.
+
+585
+00:19:05,775 --> 00:19:07,344
+Not: sales, vacations,
+
+586
+00:19:07,344 --> 00:19:09,699
+or things you could have planned.
+
+587
+00:19:09,879 --> 00:19:12,271
+Clear rules make hard moments easier.
+
+588
+00:19:12,620 --> 00:19:13,630
+Step twelve.
+
+589
+00:19:13,810 --> 00:19:15,796
+Use it, then refill it.
+
+590
+00:19:16,145 --> 00:19:17,997
+When a real emergency happens,
+
+591
+00:19:17,997 --> 00:19:19,663
+use the fund without guilt.
+
+592
+00:19:19,843 --> 00:19:21,317
+That's exactly what it's for.
+
+593
+00:19:21,497 --> 00:19:23,922
+Then restart your automatic transfers,
+
+594
+00:19:23,922 --> 00:19:25,580
+or raise them for a while,
+
+595
+00:19:25,580 --> 00:19:27,558
+until the fund is back to full.
+
+596
+00:19:27,908 --> 00:19:29,997
+Some people keep a simple log of
+
+597
+00:19:29,997 --> 00:19:32,152
+every time they used the fund and
+
+598
+00:19:32,152 --> 00:19:32,413
+why.
+
+599
+00:19:32,593 --> 00:19:33,621
+Over the years,
+
+600
+00:19:33,621 --> 00:19:36,158
+it becomes a powerful reminder of how
+
+601
+00:19:36,158 --> 00:19:38,832
+many crises the fund turned into simple
+
+602
+00:19:38,832 --> 00:19:39,861
+inconveniences.
+
+603
+00:19:40,210 --> 00:19:41,816
+Once your fund is full,
+
+604
+00:19:41,816 --> 00:19:44,051
+the money you were sending to it
+
+605
+00:19:44,051 --> 00:19:45,518
+can go somewhere new:
+
+606
+00:19:45,518 --> 00:19:47,334
+investing, a down payment,
+
+607
+00:19:47,334 --> 00:19:49,289
+or paying off a loan faster.
+
+608
+00:19:49,469 --> 00:19:51,335
+The emergency fund isn't the end of
+
+609
+00:19:51,335 --> 00:19:51,814
+the plan.
+
+610
+00:19:51,994 --> 00:19:54,051
+It's the foundation that makes the rest
+
+611
+00:19:54,051 --> 00:19:54,525
+possible.
+
+612
+00:19:54,875 --> 00:19:56,129
+Let's put it all together.
+
+613
+00:19:56,309 --> 00:19:58,863
+Stage one: five hundred dollars.
+
+614
+00:19:59,043 --> 00:20:00,053
+The quick win.
+
+615
+00:20:00,233 --> 00:20:03,101
+Stage two: one thousand dollars.
+
+616
+00:20:03,281 --> 00:20:04,291
+The starter fund.
+
+617
+00:20:04,471 --> 00:20:08,128
+Stage three: one month of essential expenses.
+
+618
+00:20:08,308 --> 00:20:10,386
+Stage four: three months.
+
+619
+00:20:10,566 --> 00:20:12,212
+Stage five: six months,
+
+620
+00:20:12,212 --> 00:20:14,717
+or more if your situation calls for
+
+621
+00:20:14,717 --> 00:20:14,932
+it.
+
+622
+00:20:15,281 --> 00:20:16,898
+Five hundred dollars,
+
+623
+00:20:16,898 --> 00:20:18,284
+then one thousand,
+
+624
+00:20:18,284 --> 00:20:20,517
+then one month of essentials,
+
+625
+00:20:20,517 --> 00:20:21,902
+then three months,
+
+626
+00:20:21,902 --> 00:20:22,595
+then six.
+
+627
+00:20:22,945 --> 00:20:24,164
+How long does it take?
+
+628
+00:20:24,344 --> 00:20:26,874
+With essentials of twenty five hundred a
+
+629
+00:20:26,874 --> 00:20:29,215
+month and one hundred fifty dollars a
+
+630
+00:20:29,215 --> 00:20:31,366
+week saved, plus a tax refund each
+
+631
+00:20:31,366 --> 00:20:34,022
+year, many people could reach one thousand
+
+632
+00:20:34,022 --> 00:20:35,540
+dollars in a few months,
+
+633
+00:20:35,540 --> 00:20:37,691
+one month of essentials in under a
+
+634
+00:20:37,691 --> 00:20:39,905
+year, and three months in about two
+
+635
+00:20:39,905 --> 00:20:40,285
+years.
+
+636
+00:20:40,465 --> 00:20:43,530
+Faster with side income or windfalls.
+
+637
+00:20:43,879 --> 00:20:45,539
+Let's meet three people.
+
+638
+00:20:45,719 --> 00:20:48,057
+Kayla is a single mom earning thirty
+
+639
+00:20:48,057 --> 00:20:49,551
+eight thousand dollars.
+
+640
+00:20:49,731 --> 00:20:52,207
+She starts with twenty dollars a week
+
+641
+00:20:52,207 --> 00:20:54,282
+and puts most of her tax refund
+
+642
+00:20:54,282 --> 00:20:55,152
+into savings.
+
+643
+00:20:55,332 --> 00:20:56,267
+After one year,
+
+644
+00:20:56,267 --> 00:20:58,885
+she has about thirty five hundred dollars.
+
+645
+00:20:59,065 --> 00:21:01,342
+When her car's transmission fails,
+
+646
+00:21:01,342 --> 00:21:03,417
+she pays for most of the repair
+
+647
+00:21:03,417 --> 00:21:03,953
+in cash.
+
+648
+00:21:04,303 --> 00:21:06,951
+Devon is a delivery driver with irregular
+
+649
+00:21:06,951 --> 00:21:07,403
+income.
+
+650
+00:21:07,583 --> 00:21:08,872
+Some weeks are great,
+
+651
+00:21:08,872 --> 00:21:09,731
+some are slow.
+
+652
+00:21:09,911 --> 00:21:12,407
+He saves fifteen percent of every payout
+
+653
+00:21:12,407 --> 00:21:13,905
+into a separate account.
+
+654
+00:21:14,085 --> 00:21:15,568
+After eighteen months,
+
+655
+00:21:15,568 --> 00:21:17,996
+he has two months of expenses saved,
+
+656
+00:21:17,996 --> 00:21:20,424
+and slow weeks no longer mean panic.
+
+657
+00:21:20,774 --> 00:21:21,988
+And Linda and Ray,
+
+658
+00:21:21,988 --> 00:21:23,740
+a couple in their fifties,
+
+659
+00:21:23,740 --> 00:21:26,235
+had always relied on credit cards for
+
+660
+00:21:26,235 --> 00:21:27,043
+emergencies.
+
+661
+00:21:27,223 --> 00:21:28,917
+After Ray's hours were cut,
+
+662
+00:21:28,917 --> 00:21:30,486
+their card balances grew.
+
+663
+00:21:30,666 --> 00:21:32,570
+They paused extra spending,
+
+664
+00:21:32,570 --> 00:21:33,840
+sold a second car,
+
+665
+00:21:33,840 --> 00:21:36,520
+and built three months of savings over
+
+666
+00:21:36,520 --> 00:21:37,226
+two years.
+
+667
+00:21:37,406 --> 00:21:40,101
+Now, when the furnace failed last winter,
+
+668
+00:21:40,101 --> 00:21:42,139
+they paid in cash for the first
+
+669
+00:21:42,139 --> 00:21:43,454
+time in their lives.
+
+670
+00:21:43,804 --> 00:21:46,103
+Notice something about all three stories.
+
+671
+00:21:46,283 --> 00:21:48,282
+None of them saved a large amount
+
+672
+00:21:48,282 --> 00:21:49,069
+at the start.
+
+673
+00:21:49,249 --> 00:21:51,327
+Kayla started with twenty dollars a week.
+
+674
+00:21:51,507 --> 00:21:53,284
+Devon used a percentage.
+
+675
+00:21:53,464 --> 00:21:55,782
+Linda and Ray started in their fifties
+
+676
+00:21:55,782 --> 00:21:57,794
+after years of relying on credit.
+
+677
+00:21:57,974 --> 00:21:59,711
+What they had in common was a
+
+678
+00:21:59,711 --> 00:22:00,788
+decision to start,
+
+679
+00:22:00,788 --> 00:22:02,764
+and a system that kept going even
+
+680
+00:22:02,764 --> 00:22:04,081
+when motivation faded.
+
+681
+00:22:04,431 --> 00:22:05,789
+Three different lives.
+
+682
+00:22:05,969 --> 00:22:07,432
+Three different incomes.
+
+683
+00:22:07,612 --> 00:22:08,843
+The same principles.
+
+684
+00:22:09,023 --> 00:22:10,775
+Start small, automate,
+
+685
+00:22:10,775 --> 00:22:13,483
+use windfalls, separate the money,
+
+686
+00:22:13,483 --> 00:22:14,677
+and keep going.
+
+687
+00:22:14,857 --> 00:22:16,452
+These are illustrations,
+
+688
+00:22:16,452 --> 00:22:19,244
+but they reflect what many real households
+
+689
+00:22:19,244 --> 00:22:19,443
+do.
+
+690
+00:22:19,793 --> 00:22:22,347
+Many people starting from zero also have
+
+691
+00:22:22,347 --> 00:22:23,433
+credit card debt,
+
+692
+00:22:23,433 --> 00:22:26,051
+and they wonder whether saving even makes
+
+693
+00:22:26,051 --> 00:22:26,434
+sense.
+
+694
+00:22:26,614 --> 00:22:29,195
+Here's the problem with skipping the emergency
+
+695
+00:22:29,195 --> 00:22:29,981
+fund entirely.
+
+696
+00:22:30,161 --> 00:22:32,129
+While you're paying down a card,
+
+697
+00:22:32,129 --> 00:22:34,528
+any surprise expense goes right back on
+
+698
+00:22:34,528 --> 00:22:34,712
+it.
+
+699
+00:22:34,892 --> 00:22:36,797
+You pay down two hundred dollars,
+
+700
+00:22:36,797 --> 00:22:38,874
+then a car repair adds five hundred.
+
+701
+00:22:39,054 --> 00:22:40,981
+It feels like running on a treadmill.
+
+702
+00:22:41,331 --> 00:22:43,359
+That's why a small starter fund comes
+
+703
+00:22:43,359 --> 00:22:45,662
+first, even before aggressive debt payoff.
+
+704
+00:22:45,842 --> 00:22:48,543
+With five hundred to one thousand dollars
+
+705
+00:22:48,543 --> 00:22:51,705
+set aside, surprises stop undoing your progress.
+
+706
+00:22:51,885 --> 00:22:53,814
+Then every extra dollar can go to
+
+707
+00:22:53,814 --> 00:22:55,275
+the debt with confidence.
+
+708
+00:22:55,625 --> 00:22:57,542
+Once high interest debt is gone,
+
+709
+00:22:57,542 --> 00:22:59,938
+the payments you were making become your
+
+710
+00:22:59,938 --> 00:23:01,256
+emergency fund engine.
+
+711
+00:23:01,436 --> 00:23:03,695
+If you were paying four hundred dollars
+
+712
+00:23:03,695 --> 00:23:04,912
+a month toward cards,
+
+713
+00:23:04,912 --> 00:23:07,171
+send that same four hundred to savings.
+
+714
+00:23:07,351 --> 00:23:08,280
+In about a year,
+
+715
+00:23:08,280 --> 00:23:10,428
+you could have close to five thousand
+
+716
+00:23:10,428 --> 00:23:10,892
+dollars.
+
+717
+00:23:11,072 --> 00:23:12,965
+That's how the cycle reverses.
+
+718
+00:23:13,315 --> 00:23:14,691
+And during this phase,
+
+719
+00:23:14,691 --> 00:23:16,380
+be careful with new credit.
+
+720
+00:23:16,560 --> 00:23:19,209
+Store cards, buy now pay later offers
+
+721
+00:23:19,209 --> 00:23:21,715
+and payday loans can look like easy
+
+722
+00:23:21,715 --> 00:23:23,863
+solutions when money is tight.
+
+723
+00:23:24,043 --> 00:23:26,309
+But they often make the next emergency
+
+724
+00:23:26,309 --> 00:23:26,667
+worse.
+
+725
+00:23:26,847 --> 00:23:29,204
+The emergency fund is the real solution.
+
+726
+00:23:29,553 --> 00:23:30,900
+Where should the money live?
+
+727
+00:23:31,080 --> 00:23:33,620
+The main options are high yield savings
+
+728
+00:23:33,620 --> 00:23:36,420
+accounts, money market accounts at banks or
+
+729
+00:23:36,420 --> 00:23:39,025
+credit unions, and money market funds at
+
+730
+00:23:39,025 --> 00:23:39,741
+brokerages.
+
+731
+00:23:39,921 --> 00:23:41,639
+All three can be good choices.
+
+732
+00:23:41,819 --> 00:23:43,666
+The key features are safety,
+
+733
+00:23:43,666 --> 00:23:46,568
+easy access, and a reasonable interest rate.
+
+734
+00:23:46,917 --> 00:23:49,756
+High yield savings accounts and bank money
+
+735
+00:23:49,756 --> 00:23:52,798
+market accounts are generally FDIC insured up
+
+736
+00:23:52,798 --> 00:23:53,879
+to legal limits,
+
+737
+00:23:53,879 --> 00:23:56,786
+and credit union accounts are NCUA insured.
+
+738
+00:23:56,966 --> 00:23:59,652
+Money market funds at brokerages are not
+
+739
+00:23:59,652 --> 00:24:02,405
+FDIC insured, though they invest in short
+
+740
+00:24:02,405 --> 00:24:04,419
+term, high quality securities.
+
+741
+00:24:04,599 --> 00:24:06,062
+Know which one you have.
+
+742
+00:24:06,412 --> 00:24:09,752
+Avoid keeping your emergency fund in stocks,
+
+743
+00:24:09,752 --> 00:24:12,408
+crypto, or long term CDs with large
+
+744
+00:24:12,408 --> 00:24:14,458
+early withdrawal penalties.
+
+745
+00:24:14,638 --> 00:24:16,321
+You want the money to be there,
+
+746
+00:24:16,321 --> 00:24:17,081
+at full value,
+
+747
+00:24:17,081 --> 00:24:18,330
+the moment you need it.
+
+748
+00:24:18,510 --> 00:24:20,327
+Earning a little less is the price
+
+749
+00:24:20,327 --> 00:24:21,877
+of safety, and it's worth it.
+
+750
+00:24:22,226 --> 00:24:23,706
+Once your fund is large,
+
+751
+00:24:23,706 --> 00:24:25,001
+some people split it.
+
+752
+00:24:25,181 --> 00:24:26,887
+One or two months in a high
+
+753
+00:24:26,887 --> 00:24:29,478
+yield savings account for instant access,
+
+754
+00:24:29,478 --> 00:24:31,563
+and the rest in a slightly higher
+
+755
+00:24:31,563 --> 00:24:32,890
+yielding safe option.
+
+756
+00:24:33,070 --> 00:24:33,918
+That's optional.
+
+757
+00:24:34,098 --> 00:24:35,064
+For most people,
+
+758
+00:24:35,064 --> 00:24:37,360
+one good high yield account is enough.
+
+759
+00:24:37,710 --> 00:24:38,860
+A practical tip.
+
+760
+00:24:39,040 --> 00:24:40,602
+Make sure you can actually get the
+
+761
+00:24:40,602 --> 00:24:41,245
+money quickly.
+
+762
+00:24:41,425 --> 00:24:43,781
+Test a transfer from your emergency account
+
+763
+00:24:43,781 --> 00:24:45,973
+to your checking account before you need
+
+764
+00:24:45,973 --> 00:24:47,672
+it, and note how long it takes.
+
+765
+00:24:47,852 --> 00:24:50,644
+Most online transfers arrive within one to
+
+766
+00:24:50,644 --> 00:24:51,973
+three business days.
+
+767
+00:24:52,153 --> 00:24:54,483
+If a real emergency needs cash the
+
+768
+00:24:54,483 --> 00:24:56,951
+same day, a small amount in checking
+
+769
+00:24:56,951 --> 00:24:58,870
+or a credit card you pay off
+
+770
+00:24:58,870 --> 00:25:02,228
+immediately with the transferred funds can bridge
+
+771
+00:25:02,228 --> 00:25:02,776
+the gap.
+
+772
+00:25:03,126 --> 00:25:04,218
+Irregular income.
+
+773
+00:25:04,398 --> 00:25:08,148
+Freelancers, gig workers and commission earners need
+
+774
+00:25:08,148 --> 00:25:09,374
+a bigger cushion,
+
+775
+00:25:09,374 --> 00:25:11,178
+often six months or more.
+
+776
+00:25:11,358 --> 00:25:13,517
+A helpful approach is to save a
+
+777
+00:25:13,517 --> 00:25:15,886
+fixed percentage of every payment,
+
+778
+00:25:15,886 --> 00:25:17,836
+like ten or fifteen percent,
+
+779
+00:25:17,836 --> 00:25:20,205
+rather than a fixed dollar amount.
+
+780
+00:25:20,385 --> 00:25:21,259
+In good months,
+
+781
+00:25:21,259 --> 00:25:22,892
+you save more automatically.
+
+782
+00:25:23,242 --> 00:25:23,834
+Couples.
+
+783
+00:25:24,014 --> 00:25:26,822
+Decide whether the emergency fund will be
+
+784
+00:25:26,822 --> 00:25:28,055
+joint or separate.
+
+785
+00:25:28,235 --> 00:25:30,706
+Many couples keep one shared fund for
+
+786
+00:25:30,706 --> 00:25:33,846
+household emergencies, and each person may also
+
+787
+00:25:33,846 --> 00:25:35,851
+keep a small personal cushion.
+
+788
+00:25:36,031 --> 00:25:38,215
+What matters is that both people know
+
+789
+00:25:38,215 --> 00:25:39,750
+where it is and how it can
+
+790
+00:25:39,750 --> 00:25:40,222
+be used.
+
+791
+00:25:40,572 --> 00:25:42,198
+Families with kids.
+
+792
+00:25:42,378 --> 00:25:44,711
+Kids bring their own surprises:
+
+793
+00:25:44,711 --> 00:25:46,141
+urgent care visits,
+
+794
+00:25:46,141 --> 00:25:49,227
+broken glasses, last minute school costs.
+
+795
+00:25:49,407 --> 00:25:51,878
+Families often aim for the higher end
+
+796
+00:25:51,878 --> 00:25:52,747
+of the range,
+
+797
+00:25:52,747 --> 00:25:54,149
+closer to six months,
+
+798
+00:25:54,149 --> 00:25:56,219
+and add a kids sinking fund for
+
+799
+00:25:56,219 --> 00:25:57,755
+the expected surprises.
+
+800
+00:25:58,105 --> 00:25:58,930
+Homeowners.
+
+801
+00:25:59,110 --> 00:26:00,272
+A water heater,
+
+802
+00:26:00,272 --> 00:26:02,675
+a roof leak or a broken furnace
+
+803
+00:26:02,675 --> 00:26:04,148
+can cost thousands.
+
+804
+00:26:04,328 --> 00:26:06,976
+Homeowners often keep a separate home repair
+
+805
+00:26:06,976 --> 00:26:09,383
+sinking fund, with a common guideline of
+
+806
+00:26:09,383 --> 00:26:11,730
+setting aside around one to two percent
+
+807
+00:26:11,730 --> 00:26:13,535
+of the home's value each year.
+
+808
+00:26:13,885 --> 00:26:15,975
+And people with health conditions.
+
+809
+00:26:16,155 --> 00:26:18,558
+Medical costs can be unpredictable.
+
+810
+00:26:18,738 --> 00:26:20,873
+If you have a high deductible health
+
+811
+00:26:20,873 --> 00:26:23,186
+plan, a health savings account can help
+
+812
+00:26:23,186 --> 00:26:24,313
+with medical costs,
+
+813
+00:26:24,313 --> 00:26:26,922
+but your regular emergency fund should still
+
+814
+00:26:26,922 --> 00:26:29,235
+cover your deductible and out of pocket
+
+815
+00:26:29,235 --> 00:26:29,710
+maximum.
+
+816
+00:26:30,059 --> 00:26:32,766
+Mistake one: waiting until you can save
+
+817
+00:26:32,766 --> 00:26:33,182
+a lot.
+
+818
+00:26:33,362 --> 00:26:35,232
+Starting small beats waiting.
+
+819
+00:26:35,412 --> 00:26:37,634
+Twenty five dollars this week is better
+
+820
+00:26:37,634 --> 00:26:39,115
+than five hundred someday.
+
+821
+00:26:39,465 --> 00:26:42,077
+Mistake two: keeping it in checking.
+
+822
+00:26:42,257 --> 00:26:44,649
+Money in your everyday account tends to
+
+823
+00:26:44,649 --> 00:26:45,079
+vanish.
+
+824
+00:26:45,259 --> 00:26:46,071
+Separate it.
+
+825
+00:26:46,421 --> 00:26:49,579
+Mistake three: using it for non emergencies.
+
+826
+00:26:49,759 --> 00:26:54,032
+Sales, vacations and predictable bills aren't emergencies.
+
+827
+00:26:54,212 --> 00:26:55,965
+Use sinking funds for those.
+
+828
+00:26:56,314 --> 00:26:58,810
+Mistake four: never refilling it.
+
+829
+00:26:58,990 --> 00:27:00,273
+After using the fund,
+
+830
+00:27:00,273 --> 00:27:02,715
+make refilling it the top priority until
+
+831
+00:27:02,715 --> 00:27:03,692
+it's full again.
+
+832
+00:27:04,042 --> 00:27:05,179
+And mistake five:
+
+833
+00:27:05,179 --> 00:27:06,852
+keeping too much forever.
+
+834
+00:27:07,032 --> 00:27:09,097
+Once you have a full six months
+
+835
+00:27:09,097 --> 00:27:10,295
+and a stable life,
+
+836
+00:27:10,295 --> 00:27:12,693
+extra cash beyond that may be better
+
+837
+00:27:12,693 --> 00:27:14,625
+invested for long term goals.
+
+838
+00:27:14,805 --> 00:27:17,438
+An emergency fund should protect your future,
+
+839
+00:27:17,438 --> 00:27:19,135
+not replace investing for it.
+
+840
+00:27:19,485 --> 00:27:22,030
+People who build a full emergency fund
+
+841
+00:27:22,030 --> 00:27:24,106
+often describe the same change.
+
+842
+00:27:24,286 --> 00:27:25,784
+Money stress drops.
+
+843
+00:27:25,964 --> 00:27:27,032
+They sleep better.
+
+844
+00:27:27,212 --> 00:27:29,227
+They feel more confident at work,
+
+845
+00:27:29,227 --> 00:27:31,670
+because a layoff wouldn't be a disaster.
+
+846
+00:27:31,850 --> 00:27:33,350
+And they make better decisions,
+
+847
+00:27:33,350 --> 00:27:35,333
+because they're not choosing out of fear.
+
+848
+00:27:35,683 --> 00:27:37,587
+It also changes your options.
+
+849
+00:27:37,767 --> 00:27:40,007
+With three to six months saved,
+
+850
+00:27:40,007 --> 00:27:43,114
+you can negotiate a raise more confidently,
+
+851
+00:27:43,114 --> 00:27:44,270
+leave a bad job,
+
+852
+00:27:44,270 --> 00:27:46,583
+take a short break between jobs,
+
+853
+00:27:46,583 --> 00:27:48,750
+or say no to a predatory loan.
+
+854
+00:27:48,930 --> 00:27:51,461
+An emergency fund isn't just protection.
+
+855
+00:27:51,641 --> 00:27:52,466
+It's freedom.
+
+856
+00:27:52,815 --> 00:27:54,266
+Here's your first week.
+
+857
+00:27:54,446 --> 00:27:57,028
+Day one: write down your current savings
+
+858
+00:27:57,028 --> 00:27:58,835
+and your monthly essentials.
+
+859
+00:27:59,015 --> 00:28:01,238
+Day two: open a separate high yield
+
+860
+00:28:01,238 --> 00:28:02,254
+savings account.
+
+861
+00:28:02,434 --> 00:28:05,069
+Day three: set up an automatic transfer
+
+862
+00:28:05,069 --> 00:28:05,813
+for payday.
+
+863
+00:28:06,162 --> 00:28:08,533
+Day four: list three things you could
+
+864
+00:28:08,533 --> 00:28:09,750
+sell and post them.
+
+865
+00:28:09,930 --> 00:28:13,535
+Day five: cancel one subscription and redirect
+
+866
+00:28:13,535 --> 00:28:14,632
+it to savings.
+
+867
+00:28:14,812 --> 00:28:17,726
+Day six: write down your emergency rules.
+
+868
+00:28:17,906 --> 00:28:20,632
+Day seven: celebrate your first deposit,
+
+869
+00:28:20,632 --> 00:28:21,586
+however small.
+
+870
+00:28:21,766 --> 00:28:22,567
+You've started.
+
+871
+00:28:22,917 --> 00:28:24,020
+Objection one.
+
+872
+00:28:24,200 --> 00:28:25,826
+I'm living paycheck to paycheck.
+
+873
+00:28:26,006 --> 00:28:27,782
+I can't save anything.
+
+874
+00:28:27,962 --> 00:28:30,597
+Start with the smallest possible amount,
+
+875
+00:28:30,597 --> 00:28:32,244
+even five dollars a week,
+
+876
+00:28:32,244 --> 00:28:33,825
+and focus on step seven,
+
+877
+00:28:33,825 --> 00:28:35,603
+raising money in a weekend,
+
+878
+00:28:35,603 --> 00:28:36,591
+and step eight,
+
+879
+00:28:36,591 --> 00:28:37,250
+windfalls.
+
+880
+00:28:37,430 --> 00:28:39,883
+A tax refund alone can transform your
+
+881
+00:28:39,883 --> 00:28:40,878
+starting point.
+
+882
+00:28:41,228 --> 00:28:42,320
+Objection two.
+
+883
+00:28:42,500 --> 00:28:44,636
+Inflation will eat my savings.
+
+884
+00:28:44,816 --> 00:28:46,983
+Inflation does reduce buying power,
+
+885
+00:28:46,983 --> 00:28:49,460
+which is why high yield accounts matter.
+
+886
+00:28:49,640 --> 00:28:51,713
+But the purpose of an emergency fund
+
+887
+00:28:51,713 --> 00:28:52,461
+isn't growth.
+
+888
+00:28:52,641 --> 00:28:53,581
+It's protection.
+
+889
+00:28:53,761 --> 00:28:56,543
+Avoiding one credit card emergency at over
+
+890
+00:28:56,543 --> 00:28:59,257
+twenty percent interest is worth far more
+
+891
+00:28:59,257 --> 00:29:01,575
+than a few percent of extra return.
+
+892
+00:29:01,925 --> 00:29:03,295
+And objection three.
+
+893
+00:29:03,475 --> 00:29:05,298
+I'd rather invest everything.
+
+894
+00:29:05,478 --> 00:29:06,947
+Investing is important,
+
+895
+00:29:06,947 --> 00:29:08,862
+but without an emergency fund,
+
+896
+00:29:08,862 --> 00:29:11,225
+you might have to sell investments at
+
+897
+00:29:11,225 --> 00:29:13,204
+a bad time or take on expensive
+
+898
+00:29:13,204 --> 00:29:13,524
+debt.
+
+899
+00:29:13,704 --> 00:29:15,943
+The emergency fund is what makes long
+
+900
+00:29:15,943 --> 00:29:17,396
+term investing possible.
+
+901
+00:29:17,745 --> 00:29:20,100
+Let me answer the questions people ask
+
+902
+00:29:20,100 --> 00:29:21,960
+me most about emergency funds.
+
+903
+00:29:22,309 --> 00:29:23,157
+Question one.
+
+904
+00:29:23,337 --> 00:29:25,345
+Should I invest my emergency fund to
+
+905
+00:29:25,345 --> 00:29:25,903
+earn more?
+
+906
+00:29:26,083 --> 00:29:27,383
+Generally, no.
+
+907
+00:29:27,563 --> 00:29:29,555
+An emergency fund needs to be safe
+
+908
+00:29:29,555 --> 00:29:31,371
+and available when you need it.
+
+909
+00:29:31,551 --> 00:29:33,263
+Stocks can drop sharply,
+
+910
+00:29:33,263 --> 00:29:35,974
+sometimes at the same time as layoffs.
+
+911
+00:29:36,154 --> 00:29:38,848
+A high yield savings account or similar
+
+912
+00:29:38,848 --> 00:29:41,472
+safe option is usually the right home.
+
+913
+00:29:41,821 --> 00:29:42,762
+Question two.
+
+914
+00:29:42,942 --> 00:29:45,312
+Should I build an emergency fund or
+
+915
+00:29:45,312 --> 00:29:46,599
+pay off debt first?
+
+916
+00:29:46,779 --> 00:29:48,956
+A common approach is a starter fund
+
+917
+00:29:48,956 --> 00:29:50,822
+of about one thousand dollars,
+
+918
+00:29:50,822 --> 00:29:52,875
+then focus on high interest debt,
+
+919
+00:29:52,875 --> 00:29:54,430
+then build the full fund.
+
+920
+00:29:54,610 --> 00:29:57,159
+And always get your employer's retirement match
+
+921
+00:29:57,159 --> 00:29:57,756
+if you can.
+
+922
+00:29:58,106 --> 00:29:59,163
+Question three.
+
+923
+00:29:59,343 --> 00:30:01,178
+Can a credit card be my emergency
+
+924
+00:30:01,178 --> 00:30:01,456
+fund?
+
+925
+00:30:01,636 --> 00:30:02,807
+It can be a backup,
+
+926
+00:30:02,807 --> 00:30:04,411
+but it's an expensive one.
+
+927
+00:30:04,591 --> 00:30:05,843
+If you have to use it,
+
+928
+00:30:05,843 --> 00:30:07,095
+interest adds up fast,
+
+929
+00:30:07,095 --> 00:30:09,144
+and your credit limit can be reduced
+
+930
+00:30:09,144 --> 00:30:10,396
+when you need it most.
+
+931
+00:30:10,576 --> 00:30:11,748
+Cash is safer.
+
+932
+00:30:12,098 --> 00:30:13,074
+Question four.
+
+933
+00:30:13,254 --> 00:30:16,075
+Is my Roth IRA an emergency fund?
+
+934
+00:30:16,255 --> 00:30:19,114
+Contributions to a Roth IRA can generally
+
+935
+00:30:19,114 --> 00:30:21,625
+be withdrawn without tax or penalty,
+
+936
+00:30:21,625 --> 00:30:24,276
+but taking them out means losing years
+
+937
+00:30:24,276 --> 00:30:25,601
+of tax free growth.
+
+938
+00:30:25,781 --> 00:30:27,739
+Some people use it as a last
+
+939
+00:30:27,739 --> 00:30:28,718
+resort backup.
+
+940
+00:30:28,898 --> 00:30:31,313
+It's better to have a separate emergency
+
+941
+00:30:31,313 --> 00:30:31,615
+fund.
+
+942
+00:30:31,964 --> 00:30:33,148
+And question five.
+
+943
+00:30:33,328 --> 00:30:34,933
+What if I keep having to use
+
+944
+00:30:34,933 --> 00:30:35,105
+it?
+
+945
+00:30:35,285 --> 00:30:36,179
+That's a signal.
+
+946
+00:30:36,359 --> 00:30:38,433
+If emergencies are frequent,
+
+947
+00:30:38,433 --> 00:30:41,247
+the problem might be expenses that are
+
+948
+00:30:41,247 --> 00:30:44,729
+actually predictable, like an unreliable car or
+
+949
+00:30:44,729 --> 00:30:45,914
+irregular bills.
+
+950
+00:30:46,094 --> 00:30:48,311
+Sinking funds and planning can help.
+
+951
+00:30:48,491 --> 00:30:50,230
+Or your budget may need a bigger
+
+952
+00:30:50,230 --> 00:30:52,241
+change to create more breathing room.
+
+953
+00:30:52,591 --> 00:30:53,706
+Question six.
+
+954
+00:30:53,886 --> 00:30:55,832
+How do I stay motivated when it's
+
+955
+00:30:55,832 --> 00:30:56,127
+slow?
+
+956
+00:30:56,307 --> 00:30:59,116
+Track milestones, not just the final goal.
+
+957
+00:30:59,296 --> 00:31:01,340
+Every hundred dollars is progress.
+
+958
+00:31:01,520 --> 00:31:03,718
+Some people keep a simple chart on
+
+959
+00:31:03,718 --> 00:31:05,593
+the fridge and color in a box
+
+960
+00:31:05,593 --> 00:31:07,533
+for every fifty dollars saved.
+
+961
+00:31:07,713 --> 00:31:10,302
+Small visual wins keep you moving.
+
+962
+00:31:10,652 --> 00:31:11,755
+Question seven.
+
+963
+00:31:11,935 --> 00:31:14,105
+Should my kids or teenagers have an
+
+964
+00:31:14,105 --> 00:31:15,035
+emergency fund?
+
+965
+00:31:15,215 --> 00:31:16,391
+A small one,
+
+966
+00:31:16,391 --> 00:31:16,782
+yes.
+
+967
+00:31:16,962 --> 00:31:18,783
+A teen with a part time job
+
+968
+00:31:18,783 --> 00:31:20,873
+can learn the habit by saving a
+
+969
+00:31:20,873 --> 00:31:22,558
+portion of each paycheck.
+
+970
+00:31:22,738 --> 00:31:24,779
+It's one of the best money lessons
+
+971
+00:31:24,779 --> 00:31:25,619
+you can teach,
+
+972
+00:31:25,619 --> 00:31:27,779
+because it builds a habit that lasts
+
+973
+00:31:27,779 --> 00:31:28,439
+a lifetime.
+
+974
+00:31:28,789 --> 00:31:29,857
+And question eight.
+
+975
+00:31:30,037 --> 00:31:31,647
+Once I have six months,
+
+976
+00:31:31,647 --> 00:31:32,487
+what's next?
+
+977
+00:31:32,667 --> 00:31:34,563
+Keep the fund in place and adjust
+
+978
+00:31:34,563 --> 00:31:35,999
+it as your expenses grow.
+
+979
+00:31:36,179 --> 00:31:38,649
+Then redirect the money you were saving
+
+980
+00:31:38,649 --> 00:31:41,626
+into investing, paying off lower interest debt,
+
+981
+00:31:41,626 --> 00:31:42,576
+or other goals.
+
+982
+00:31:42,756 --> 00:31:44,846
+The emergency fund is the foundation.
+
+983
+00:31:45,026 --> 00:31:46,512
+Now you build the house.
+
+984
+00:31:46,862 --> 00:31:47,733
+Quick recap.
+
+985
+00:31:47,913 --> 00:31:50,039
+In recent Federal Reserve surveys,
+
+986
+00:31:50,039 --> 00:31:52,289
+more than a third of adults couldn't
+
+987
+00:31:52,289 --> 00:31:54,915
+cover a four hundred dollar emergency with
+
+988
+00:31:54,915 --> 00:31:55,227
+cash.
+
+989
+00:31:55,407 --> 00:31:58,971
+Not having savings turns emergencies into expensive
+
+990
+00:31:58,971 --> 00:31:59,320
+debt.
+
+991
+00:31:59,500 --> 00:32:01,769
+And our brains fight saving,
+
+992
+00:32:01,769 --> 00:32:03,470
+so we use visibility,
+
+993
+00:32:03,470 --> 00:32:07,441
+automation, stages, separation and sinking funds.
+
+994
+00:32:07,791 --> 00:32:09,196
+The twelve steps.
+
+995
+00:32:09,376 --> 00:32:10,653
+Face the starting line.
+
+996
+00:32:10,833 --> 00:32:12,192
+Calculate your essentials.
+
+997
+00:32:12,372 --> 00:32:14,229
+Open a separate high yield account.
+
+998
+00:32:14,409 --> 00:32:15,942
+Automate a small transfer.
+
+999
+00:32:16,122 --> 00:32:17,248
+Hit five hundred.
+
+1000
+00:32:17,428 --> 00:32:18,763
+Reach one thousand.
+
+1001
+00:32:18,943 --> 00:32:20,615
+Raise money in a weekend.
+
+1002
+00:32:20,795 --> 00:32:22,246
+Capture windfalls.
+
+1003
+00:32:22,426 --> 00:32:23,889
+Build sinking funds.
+
+1004
+00:32:24,069 --> 00:32:25,546
+Grow to one month,
+
+1005
+00:32:25,546 --> 00:32:26,449
+then three.
+
+1006
+00:32:26,629 --> 00:32:29,160
+Define what counts as an emergency.
+
+1007
+00:32:29,340 --> 00:32:30,278
+And use it,
+
+1008
+00:32:30,278 --> 00:32:31,557
+then refill it.
+
+1009
+00:32:31,907 --> 00:32:33,068
+One last thought.
+
+1010
+00:32:33,248 --> 00:32:36,012
+Building an emergency fund from zero can
+
+1011
+00:32:36,012 --> 00:32:37,463
+feel slow and boring.
+
+1012
+00:32:37,643 --> 00:32:39,187
+But it's one of the most powerful
+
+1013
+00:32:39,187 --> 00:32:40,731
+things you'll ever do with money.
+
+1014
+00:32:40,911 --> 00:32:43,686
+It turns emergencies into inconveniences.
+
+1015
+00:32:43,866 --> 00:32:45,619
+It stops the cycle of debt.
+
+1016
+00:32:45,799 --> 00:32:47,767
+It gives you room to breathe and
+
+1017
+00:32:47,767 --> 00:32:48,690
+room to choose.
+
+1018
+00:32:48,870 --> 00:32:50,849
+And it starts with a single small
+
+1019
+00:32:50,849 --> 00:32:51,389
+transfer.
+
+1020
+00:32:51,569 --> 00:32:53,226
+Today is a great day to make
+
+1021
+00:32:53,226 --> 00:32:53,403
+it.
+
+1022
+00:32:53,753 --> 00:32:55,578
+And if you're already on your way,
+
+1023
+00:32:55,578 --> 00:32:56,168
+keep going.
+
+1024
+00:32:56,348 --> 00:32:58,340
+Every dollar you add is a dollar
+
+1025
+00:32:58,340 --> 00:33:00,580
+of protection for you and the people
+
+1026
+00:33:00,580 --> 00:33:01,700
+who depend on you.
+
+1027
+00:33:01,880 --> 00:33:02,672
+One day soon,
+
+1028
+00:33:02,672 --> 00:33:04,376
+a surprise bill will arrive,
+
+1029
+00:33:04,376 --> 00:33:05,897
+and you'll simply pay it.
+
+1030
+00:33:06,077 --> 00:33:07,601
+That's the moment you'll know it was
+
+1031
+00:33:07,601 --> 00:33:07,981
+worth it.
+
+1032
+00:33:08,331 --> 00:33:10,827
+Today, do steps three and four.
+
+1033
+00:33:11,007 --> 00:33:12,087
+Open the account,
+
+1034
+00:33:12,087 --> 00:33:14,182
+and set up an automatic transfer,
+
+1035
+00:33:14,182 --> 00:33:16,023
+even for twenty five dollars.
+
+1036
+00:33:16,203 --> 00:33:18,676
+That's the moment your emergency fund begins.
+
+1037
+00:33:18,856 --> 00:33:21,100
+And watch my video on thirty money
+
+1038
+00:33:21,100 --> 00:33:22,223
+rules to live by.
+
+1039
+00:33:22,403 --> 00:33:25,073
+Rule number one is all about this.
+
+1040
+00:33:25,253 --> 00:33:26,507
+I'm Ryan Rover.
+
+1041
+00:33:26,687 --> 00:33:27,952
+See you in the next one.
