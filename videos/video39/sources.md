@@ -1,0 +1,8 @@
+- FDIC and NCUA: deposit insurance coverage limits
+- TreasuryDirect and U.S. Treasury: Treasury bills, state tax exemption
+- SEC investor bulletins: money market funds, bond funds, covered call and income products, annuities
+- IRS: REIT distribution requirements, taxation of REIT dividends
+- Realty Income: 'The Monthly Dividend Company' (company materials)
+- Social Security Administration: delayed retirement credits (about 8% per year to age 70)
+- Yaari (1965) and the 'annuity puzzle' literature
+- Yields and rates mentioned are illustrations; current rates vary
