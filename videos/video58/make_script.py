@@ -123,7 +123,7 @@ more than a third would not.""",
    "Survey results chart", "~63% COULD PAY $400 IN CASH")
 card("""In recent Federal Reserve surveys, about sixty three percent of adults said they would cover a four hundred dollar emergency with cash
 or its equivalent. More than a third would not.""",
-     {"type": "stat", "label": "adults who'd cover $400 with cash", "big": "~63%", "sub": "Federal Reserve SHED, recent years"})
+     {"type": "stat", "label": "adults who would cover $400 with cash", "big": "~63%", "sub": "Federal Reserve SHED, recent years"})
 sc("""Those who couldn't said they'd use a credit card and pay over time, borrow from friends or family, take a payday loan, sell something,
 or simply wouldn't be able to pay. Each of those options costs money, relationships or stress.""",
    "Borrowing money from friend", "THE ALTERNATIVES COST")
