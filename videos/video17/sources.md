@@ -1,0 +1,4 @@
+- U.S. Small Business Administration, Office of Advocacy, small business profiles (most small businesses have no employees)
+- IRS, self-employment tax (applies to net earnings of $400 or more)
+- Bureau of Labor Statistics, self-employment data
+- Crew math: simplified illustration (20 jobs at $100 profit vs 120 jobs at $40 profit)
