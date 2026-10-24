@@ -1,0 +1,4187 @@
+1
+00:00:00,000 --> 00:00:02,136
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,316 --> 00:00:03,901
+There are two kinds of rich in
+
+3
+00:00:03,901 --> 00:00:04,324
+America.
+
+4
+00:00:04,504 --> 00:00:05,613
+There's old money,
+
+5
+00:00:05,613 --> 00:00:08,510
+families who have been wealthy for generations,
+
+6
+00:00:08,510 --> 00:00:10,913
+quietly, often without anyone noticing.
+
+7
+00:00:11,093 --> 00:00:12,521
+And there's new money,
+
+8
+00:00:12,521 --> 00:00:15,183
+people who made their fortune themselves,
+
+9
+00:00:15,183 --> 00:00:17,455
+often fast, and often very visibly.
+
+10
+00:00:17,635 --> 00:00:18,912
+They both have money.
+
+11
+00:00:19,092 --> 00:00:20,838
+But they tend to think about it,
+
+12
+00:00:20,838 --> 00:00:23,075
+spend it and protect it very differently.
+
+13
+00:00:23,255 --> 00:00:26,250
+Today, twenty differences between old money and
+
+14
+00:00:26,250 --> 00:00:28,416
+new money, and the lessons you can
+
+15
+00:00:28,416 --> 00:00:29,436
+steal from both,
+
+16
+00:00:29,436 --> 00:00:31,858
+whatever your bank balance looks like.
+
+17
+00:00:32,207 --> 00:00:34,208
+Here's a number you'll hear a lot
+
+18
+00:00:34,208 --> 00:00:35,481
+in wealth management.
+
+19
+00:00:35,661 --> 00:00:37,795
+A widely cited study by the Williams
+
+20
+00:00:37,795 --> 00:00:40,224
+Group found that about seventy percent of
+
+21
+00:00:40,224 --> 00:00:42,653
+wealthy families lose their wealth by the
+
+22
+00:00:42,653 --> 00:00:45,379
+second generation, and about ninety percent by
+
+23
+00:00:45,379 --> 00:00:45,971
+the third.
+
+24
+00:00:46,321 --> 00:00:47,789
+That research is debated,
+
+25
+00:00:47,789 --> 00:00:50,431
+and different studies measure it differently.
+
+26
+00:00:50,611 --> 00:00:52,639
+But the pattern is so common it
+
+27
+00:00:52,639 --> 00:00:53,816
+has an old saying.
+
+28
+00:00:53,996 --> 00:00:57,142
+Shirtsleeves to shirtsleeves in three generations.
+
+29
+00:00:57,322 --> 00:00:59,823
+The first generation builds the fortune in
+
+30
+00:00:59,823 --> 00:01:00,538
+work shirts.
+
+31
+00:01:00,718 --> 00:01:02,042
+The second enjoys it.
+
+32
+00:01:02,222 --> 00:01:04,416
+The third is back in shirtsleeves.
+
+33
+00:01:04,596 --> 00:01:06,117
+Old money families are,
+
+34
+00:01:06,117 --> 00:01:08,630
+by definition, the ones who broke that
+
+35
+00:01:08,630 --> 00:01:09,159
+pattern.
+
+36
+00:01:09,339 --> 00:01:11,823
+That's why their habits are worth studying.
+
+37
+00:01:12,174 --> 00:01:14,587
+We'll compare old and new money from
+
+38
+00:01:14,587 --> 00:01:15,459
+three angles.
+
+39
+00:01:15,639 --> 00:01:17,102
+First, the numbers.
+
+40
+00:01:17,282 --> 00:01:19,006
+How each group earns,
+
+41
+00:01:19,006 --> 00:01:21,880
+invests, borrows and handles taxes.
+
+42
+00:01:22,060 --> 00:01:23,975
+Second, the psychology.
+
+43
+00:01:24,155 --> 00:01:26,162
+How they think about status,
+
+44
+00:01:26,162 --> 00:01:27,882
+risk, time and identity.
+
+45
+00:01:28,062 --> 00:01:29,664
+And third, the playbook.
+
+46
+00:01:29,844 --> 00:01:32,579
+The practical systems old money families use
+
+47
+00:01:32,579 --> 00:01:34,505
+to keep wealth for generations,
+
+48
+00:01:34,505 --> 00:01:36,929
+and the strengths new money brings that
+
+49
+00:01:36,929 --> 00:01:38,296
+old money often lacks.
+
+50
+00:01:38,476 --> 00:01:39,568
+I want to be clear.
+
+51
+00:01:39,748 --> 00:01:41,356
+These are broad patterns,
+
+52
+00:01:41,356 --> 00:01:42,000
+not rules.
+
+53
+00:01:42,180 --> 00:01:45,315
+Plenty of individuals break the stereotypes in
+
+54
+00:01:45,315 --> 00:01:46,406
+both directions.
+
+55
+00:01:46,756 --> 00:01:48,358
+Let's start with the numbers.
+
+56
+00:01:48,538 --> 00:01:50,218
+And the first difference is about where
+
+57
+00:01:50,218 --> 00:01:51,510
+the money actually comes from.
+
+58
+00:01:51,859 --> 00:01:52,881
+Our sources.
+
+59
+00:01:53,061 --> 00:01:55,800
+Family wealth transfer research comes from the
+
+60
+00:01:55,800 --> 00:01:58,599
+Williams Group, published in the book Preparing
+
+61
+00:01:58,599 --> 00:02:00,921
+Heirs by Roy Williams and Vic Preisser.
+
+62
+00:02:01,101 --> 00:02:04,872
+Billionaire data comes from UBS's Billionaire Ambitions
+
+63
+00:02:04,872 --> 00:02:05,420
+reports.
+
+64
+00:02:05,600 --> 00:02:09,243
+Millionaire profiles come from Ramsey Solutions' National
+
+65
+00:02:09,243 --> 00:02:12,566
+Study of Millionaires and Thomas Stanley's research.
+
+66
+00:02:12,746 --> 00:02:15,147
+The Vanderbilt story comes from the book
+
+67
+00:02:15,147 --> 00:02:17,007
+Fortune's Children by Arthur T.
+
+68
+00:02:17,187 --> 00:02:18,429
+Vanderbilt the second.
+
+69
+00:02:18,609 --> 00:02:20,653
+Tax rules come from the IRS.
+
+70
+00:02:20,833 --> 00:02:22,208
+This is education,
+
+71
+00:02:22,208 --> 00:02:23,813
+not financial advice,
+
+72
+00:02:23,813 --> 00:02:25,953
+and not tax or legal advice.
+
+73
+00:02:26,302 --> 00:02:27,080
+Angle one.
+
+74
+00:02:27,260 --> 00:02:28,027
+The numbers.
+
+75
+00:02:28,207 --> 00:02:31,543
+Seven financial differences between old money and
+
+76
+00:02:31,543 --> 00:02:32,224
+new money.
+
+77
+00:02:32,574 --> 00:02:33,885
+Difference number one.
+
+78
+00:02:34,065 --> 00:02:36,074
+Old money lives on assets.
+
+79
+00:02:36,254 --> 00:02:38,193
+New money often lives on income.
+
+80
+00:02:38,542 --> 00:02:41,077
+Many new money fortunes come from a
+
+81
+00:02:41,077 --> 00:02:43,539
+high income or a single big event,
+
+82
+00:02:43,539 --> 00:02:45,205
+like selling a company,
+
+83
+00:02:45,205 --> 00:02:47,884
+a big contract or a successful career
+
+84
+00:02:47,884 --> 00:02:49,839
+in sports or entertainment.
+
+85
+00:02:50,019 --> 00:02:51,655
+That money arrives as cash,
+
+86
+00:02:51,655 --> 00:02:53,049
+and it's easy to spend.
+
+87
+00:02:53,229 --> 00:02:54,485
+Old money families,
+
+88
+00:02:54,485 --> 00:02:57,195
+by contrast, typically live on what their
+
+89
+00:02:57,195 --> 00:02:58,187
+assets produce.
+
+90
+00:02:58,367 --> 00:03:02,105
+Rents, dividends, interest and business profits.
+
+91
+00:03:02,285 --> 00:03:04,455
+The core assets stay untouched,
+
+92
+00:03:04,455 --> 00:03:06,555
+and only part of the income is
+
+93
+00:03:06,555 --> 00:03:06,976
+spent.
+
+94
+00:03:07,325 --> 00:03:08,823
+That's a crucial difference.
+
+95
+00:03:09,003 --> 00:03:10,834
+If you spend from income,
+
+96
+00:03:10,834 --> 00:03:12,592
+a job loss or a bad year
+
+97
+00:03:12,592 --> 00:03:13,984
+can end everything.
+
+98
+00:03:14,164 --> 00:03:15,814
+If you spend only part of what
+
+99
+00:03:15,814 --> 00:03:16,914
+your assets produce,
+
+100
+00:03:16,914 --> 00:03:19,004
+the wealth can keep growing even while
+
+101
+00:03:19,004 --> 00:03:19,830
+you live on it.
+
+102
+00:03:20,010 --> 00:03:22,582
+Many old money families follow a version
+
+103
+00:03:22,582 --> 00:03:24,189
+of this rule for decades.
+
+104
+00:03:24,369 --> 00:03:25,997
+Spend some of the returns,
+
+105
+00:03:25,997 --> 00:03:27,248
+never the principal.
+
+106
+00:03:27,599 --> 00:03:28,910
+The lesson for anyone.
+
+107
+00:03:29,090 --> 00:03:32,256
+Start building assets that produce income,
+
+108
+00:03:32,256 --> 00:03:33,537
+like index funds,
+
+109
+00:03:33,537 --> 00:03:35,120
+a retirement account,
+
+110
+00:03:35,120 --> 00:03:37,984
+a rental property or a small business.
+
+111
+00:03:38,164 --> 00:03:39,862
+Over time, aim for a day when
+
+112
+00:03:39,862 --> 00:03:42,028
+part of your living costs are covered
+
+113
+00:03:42,028 --> 00:03:43,491
+by what your assets earn,
+
+114
+00:03:43,491 --> 00:03:45,014
+not just by what you earn.
+
+115
+00:03:45,363 --> 00:03:47,384
+Here's a simple way to picture it.
+
+116
+00:03:47,564 --> 00:03:49,927
+Imagine two people who each have two
+
+117
+00:03:49,927 --> 00:03:50,977
+million dollars.
+
+118
+00:03:51,157 --> 00:03:52,963
+One spends it like income,
+
+119
+00:03:52,963 --> 00:03:55,604
+buying a bigger house and better cars.
+
+120
+00:03:55,784 --> 00:03:58,011
+The other invests it and spends only
+
+121
+00:03:58,011 --> 00:03:59,867
+a small share of what it earns
+
+122
+00:03:59,867 --> 00:04:00,486
+each year.
+
+123
+00:04:00,666 --> 00:04:01,752
+Twenty years later,
+
+124
+00:04:01,752 --> 00:04:03,868
+the first person may have very little
+
+125
+00:04:03,868 --> 00:04:06,041
+left, while the second person may have
+
+126
+00:04:06,041 --> 00:04:07,643
+more than they started with,
+
+127
+00:04:07,643 --> 00:04:09,301
+and has been living on it the
+
+128
+00:04:09,301 --> 00:04:09,930
+whole time.
+
+129
+00:04:10,280 --> 00:04:11,534
+Difference number two.
+
+130
+00:04:11,714 --> 00:04:14,118
+Old money thinks in generations.
+
+131
+00:04:14,298 --> 00:04:16,271
+New money often thinks in years.
+
+132
+00:04:16,621 --> 00:04:18,610
+When you've just made your fortune,
+
+133
+00:04:18,610 --> 00:04:20,883
+the natural questions are about the next
+
+134
+00:04:20,883 --> 00:04:21,451
+few years.
+
+135
+00:04:21,631 --> 00:04:22,525
+What should I buy?
+
+136
+00:04:22,705 --> 00:04:23,971
+How do I enjoy this?
+
+137
+00:04:24,151 --> 00:04:27,371
+Old money families often frame decisions around
+
+138
+00:04:27,371 --> 00:04:29,015
+decades and generations.
+
+139
+00:04:29,195 --> 00:04:31,622
+Will this still matter for our grandchildren?
+
+140
+00:04:31,802 --> 00:04:33,909
+That longer view changes everything,
+
+141
+00:04:33,909 --> 00:04:35,781
+from how they invest to how they
+
+142
+00:04:35,781 --> 00:04:36,132
+spend.
+
+143
+00:04:36,482 --> 00:04:39,317
+A long time horizon makes compounding work
+
+144
+00:04:39,317 --> 00:04:40,465
+at full strength.
+
+145
+00:04:40,645 --> 00:04:42,937
+Money invested for fifty years,
+
+146
+00:04:42,937 --> 00:04:44,860
+or for multiple lifetimes,
+
+147
+00:04:44,860 --> 00:04:46,339
+can grow enormously,
+
+148
+00:04:46,339 --> 00:04:48,040
+even at modest returns.
+
+149
+00:04:48,220 --> 00:04:50,674
+It also makes families more patient with
+
+150
+00:04:50,674 --> 00:04:52,822
+market drops, because a bad year is
+
+151
+00:04:52,822 --> 00:04:54,601
+a tiny part of a hundred year
+
+152
+00:04:54,601 --> 00:04:54,908
+plan.
+
+153
+00:04:55,258 --> 00:04:56,697
+The lesson for anyone.
+
+154
+00:04:56,877 --> 00:04:58,514
+Stretch your time horizon.
+
+155
+00:04:58,694 --> 00:04:59,973
+When you invest,
+
+156
+00:04:59,973 --> 00:05:01,333
+think in decades,
+
+157
+00:05:01,333 --> 00:05:02,212
+not months.
+
+158
+00:05:02,392 --> 00:05:04,589
+Ask yourself what decision your seventy year
+
+159
+00:05:04,589 --> 00:05:06,038
+old self would thank you for.
+
+160
+00:05:06,388 --> 00:05:08,889
+Endowments at some of the oldest American
+
+161
+00:05:08,889 --> 00:05:11,452
+universities show what a very long horizon
+
+162
+00:05:11,452 --> 00:05:11,879
+can do.
+
+163
+00:05:12,059 --> 00:05:14,185
+Funds that spend only a small share
+
+164
+00:05:14,185 --> 00:05:16,189
+each year, and reinvest the rest,
+
+165
+00:05:16,189 --> 00:05:18,618
+have grown over generations into some of
+
+166
+00:05:18,618 --> 00:05:20,623
+the largest pools of money in the
+
+167
+00:05:20,623 --> 00:05:20,987
+world.
+
+168
+00:05:21,167 --> 00:05:23,408
+The principle works at any scale.
+
+169
+00:05:23,588 --> 00:05:26,040
+Patience plus a modest spending rate lets
+
+170
+00:05:26,040 --> 00:05:28,313
+money outlive the people who saved it.
+
+171
+00:05:28,663 --> 00:05:29,916
+Difference number three.
+
+172
+00:05:30,096 --> 00:05:31,861
+Old money spreads its bets.
+
+173
+00:05:32,041 --> 00:05:34,212
+New money is often concentrated.
+
+174
+00:05:34,563 --> 00:05:37,790
+New fortunes are frequently built by concentration.
+
+175
+00:05:37,970 --> 00:05:40,018
+A founder owns a huge stake in
+
+176
+00:05:40,018 --> 00:05:40,838
+one company.
+
+177
+00:05:41,018 --> 00:05:43,544
+An athlete has one skill that pays
+
+178
+00:05:43,544 --> 00:05:44,361
+enormously.
+
+179
+00:05:44,541 --> 00:05:47,421
+Concentration is how many fortunes are made.
+
+180
+00:05:47,601 --> 00:05:49,703
+But it's also how many are lost,
+
+181
+00:05:49,703 --> 00:05:52,396
+when a single company or career declines.
+
+182
+00:05:52,746 --> 00:05:55,904
+Old money families tend to diversify across
+
+183
+00:05:55,904 --> 00:05:56,786
+many assets.
+
+184
+00:05:56,966 --> 00:05:59,462
+Stocks, bonds, real estate,
+
+185
+00:05:59,462 --> 00:06:02,051
+private businesses and more.
+
+186
+00:06:02,231 --> 00:06:05,017
+They accept that diversification may mean they
+
+187
+00:06:05,017 --> 00:06:07,137
+won't get the very highest returns,
+
+188
+00:06:07,137 --> 00:06:09,681
+in exchange for protecting the wealth from
+
+189
+00:06:09,681 --> 00:06:10,892
+any single disaster.
+
+190
+00:06:11,072 --> 00:06:12,976
+Their goal is not to get rich.
+
+191
+00:06:13,156 --> 00:06:14,317
+It's to stay rich.
+
+192
+00:06:14,497 --> 00:06:17,297
+As one saying in wealth management puts
+
+193
+00:06:17,297 --> 00:06:19,595
+it, concentration builds wealth,
+
+194
+00:06:19,595 --> 00:06:21,893
+and diversification protects it.
+
+195
+00:06:22,243 --> 00:06:23,543
+The lesson for anyone.
+
+196
+00:06:23,723 --> 00:06:25,917
+Concentration can build wealth,
+
+197
+00:06:25,917 --> 00:06:28,252
+for example in your own career or
+
+198
+00:06:28,252 --> 00:06:28,889
+business.
+
+199
+00:06:29,069 --> 00:06:30,722
+But once you have savings,
+
+200
+00:06:30,722 --> 00:06:31,740
+spread them out.
+
+201
+00:06:31,920 --> 00:06:34,160
+Broad low cost index funds are a
+
+202
+00:06:34,160 --> 00:06:36,959
+simple way for ordinary investors to own
+
+203
+00:06:36,959 --> 00:06:39,129
+small pieces of many companies.
+
+204
+00:06:39,480 --> 00:06:41,839
+Think of a founder whose entire net
+
+205
+00:06:41,839 --> 00:06:43,996
+worth is in one company's stock.
+
+206
+00:06:44,176 --> 00:06:45,685
+If that company thrives,
+
+207
+00:06:45,685 --> 00:06:47,194
+they become even richer.
+
+208
+00:06:47,374 --> 00:06:48,368
+If it collapses,
+
+209
+00:06:48,368 --> 00:06:50,542
+as many once famous companies have,
+
+210
+00:06:50,542 --> 00:06:52,715
+their fortune can collapse with it.
+
+211
+00:06:52,895 --> 00:06:55,724
+Old money families have usually lived through
+
+212
+00:06:55,724 --> 00:06:57,988
+enough cycles to know that no single
+
+213
+00:06:57,988 --> 00:07:00,565
+company, industry or country stays on top
+
+214
+00:07:00,565 --> 00:07:01,068
+forever.
+
+215
+00:07:01,419 --> 00:07:02,696
+Difference number four.
+
+216
+00:07:02,876 --> 00:07:03,979
+How they use debt.
+
+217
+00:07:04,329 --> 00:07:06,546
+Some new money spends on visible things
+
+218
+00:07:06,546 --> 00:07:07,684
+with borrowed money.
+
+219
+00:07:07,864 --> 00:07:09,560
+Luxury cars on loans,
+
+220
+00:07:09,560 --> 00:07:11,901
+huge mortgages on show homes,
+
+221
+00:07:11,901 --> 00:07:13,274
+big credit lines.
+
+222
+00:07:13,454 --> 00:07:14,708
+When income drops,
+
+223
+00:07:14,708 --> 00:07:16,658
+that debt becomes dangerous.
+
+224
+00:07:16,838 --> 00:07:19,614
+Many famous athletes and entertainers who went
+
+225
+00:07:19,614 --> 00:07:21,727
+broke had large debts tied to their
+
+226
+00:07:21,727 --> 00:07:22,330
+lifestyle.
+
+227
+00:07:22,680 --> 00:07:23,992
+Old money families,
+
+228
+00:07:23,992 --> 00:07:25,166
+when they borrow,
+
+229
+00:07:25,166 --> 00:07:28,066
+tend to borrow against assets for specific
+
+230
+00:07:28,066 --> 00:07:30,068
+purposes, often at low rates,
+
+231
+00:07:30,068 --> 00:07:31,933
+and rarely for consumption.
+
+232
+00:07:32,113 --> 00:07:35,843
+Some wealthy families borrow against their investment
+
+233
+00:07:35,843 --> 00:07:37,954
+portfolios instead of selling,
+
+234
+00:07:37,954 --> 00:07:40,066
+which can have tax advantages.
+
+235
+00:07:40,246 --> 00:07:42,787
+But that strategy carries real risks and
+
+236
+00:07:42,787 --> 00:07:44,566
+only makes sense with large,
+
+237
+00:07:44,566 --> 00:07:47,107
+diversified assets and careful planning.
+
+238
+00:07:47,457 --> 00:07:48,815
+The lesson for anyone.
+
+239
+00:07:48,995 --> 00:07:51,793
+Avoid borrowing for things that lose value.
+
+240
+00:07:51,973 --> 00:07:53,115
+If you do borrow,
+
+241
+00:07:53,115 --> 00:07:55,400
+borrow for things that can grow or
+
+242
+00:07:55,400 --> 00:07:58,156
+produce income, keep the debt manageable,
+
+243
+00:07:58,156 --> 00:08:00,239
+and know exactly what it costs.
+
+244
+00:08:00,590 --> 00:08:02,784
+History is full of examples.
+
+245
+00:08:02,964 --> 00:08:05,727
+Many professional athletes earn more in a
+
+246
+00:08:05,727 --> 00:08:08,018
+few years than most people earn in
+
+247
+00:08:08,018 --> 00:08:10,511
+a lifetime, yet a widely cited Sports
+
+248
+00:08:10,511 --> 00:08:13,678
+Illustrated report in two thousand nine claimed
+
+249
+00:08:13,678 --> 00:08:15,834
+that a large share of former NFL
+
+250
+00:08:15,834 --> 00:08:18,866
+and NBA players faced financial stress within
+
+251
+00:08:18,866 --> 00:08:20,483
+a few years of retiring.
+
+252
+00:08:20,663 --> 00:08:22,310
+Whatever the exact share,
+
+253
+00:08:22,310 --> 00:08:23,891
+the pattern is familiar.
+
+254
+00:08:24,071 --> 00:08:26,179
+Big income, big lifestyle,
+
+255
+00:08:26,179 --> 00:08:29,179
+big debts, and then the income stops.
+
+256
+00:08:29,530 --> 00:08:30,830
+Difference number five.
+
+257
+00:08:31,010 --> 00:08:33,460
+Old money plans for taxes years ahead.
+
+258
+00:08:33,810 --> 00:08:35,915
+Many people with new money get a
+
+259
+00:08:35,915 --> 00:08:37,823
+painful surprise at tax time,
+
+260
+00:08:37,823 --> 00:08:40,915
+especially after selling a company or receiving
+
+261
+00:08:40,915 --> 00:08:41,902
+a large payout.
+
+262
+00:08:42,082 --> 00:08:45,038
+Old money families typically work with tax
+
+263
+00:08:45,038 --> 00:08:47,501
+professionals and plan years ahead,
+
+264
+00:08:47,501 --> 00:08:50,879
+using legal strategies like retirement accounts,
+
+265
+00:08:50,879 --> 00:08:54,187
+charitable giving, trusts and careful timing of
+
+266
+00:08:54,187 --> 00:08:54,609
+sales.
+
+267
+00:08:54,959 --> 00:08:57,319
+One well known rule is the step
+
+268
+00:08:57,319 --> 00:08:58,233
+up in basis.
+
+269
+00:08:58,413 --> 00:09:00,074
+Under current US tax law,
+
+270
+00:09:00,074 --> 00:09:03,330
+when someone inherits certain assets like stocks,
+
+271
+00:09:03,330 --> 00:09:05,722
+the cost basis is generally reset to
+
+272
+00:09:05,722 --> 00:09:07,782
+the value at the time of death.
+
+273
+00:09:07,962 --> 00:09:10,835
+That can greatly reduce capital gains taxes
+
+274
+00:09:10,835 --> 00:09:11,503
+for heirs.
+
+275
+00:09:11,683 --> 00:09:13,819
+Laws change, and details matter,
+
+276
+00:09:13,819 --> 00:09:16,756
+so families work with professionals on this.
+
+277
+00:09:17,107 --> 00:09:18,395
+The lesson for anyone.
+
+278
+00:09:18,575 --> 00:09:20,411
+You don't need a family office to
+
+279
+00:09:20,411 --> 00:09:21,246
+plan for taxes.
+
+280
+00:09:21,426 --> 00:09:24,131
+Use tax advantaged retirement accounts,
+
+281
+00:09:24,131 --> 00:09:27,391
+understand how long you hold investments before
+
+282
+00:09:27,391 --> 00:09:29,541
+selling, and keep good records.
+
+283
+00:09:29,721 --> 00:09:31,404
+A little planning can save a lot.
+
+284
+00:09:31,755 --> 00:09:33,229
+For regular families,
+
+285
+00:09:33,229 --> 00:09:35,686
+the same mindset shows up in simple
+
+286
+00:09:35,686 --> 00:09:36,248
+choices.
+
+287
+00:09:36,428 --> 00:09:38,697
+Contributing to a four oh one k
+
+288
+00:09:38,697 --> 00:09:41,185
+before taxes, using a Roth IRA for
+
+289
+00:09:41,185 --> 00:09:42,357
+tax free growth,
+
+290
+00:09:42,357 --> 00:09:45,211
+holding investments more than a year so
+
+291
+00:09:45,211 --> 00:09:47,920
+gains may qualify for lower long term
+
+292
+00:09:47,920 --> 00:09:49,384
+capital gains rates,
+
+293
+00:09:49,384 --> 00:09:51,799
+and keeping receipts and records.
+
+294
+00:09:51,979 --> 00:09:53,447
+None of it is glamorous,
+
+295
+00:09:53,447 --> 00:09:55,283
+but over a lifetime it can add
+
+296
+00:09:55,283 --> 00:09:57,057
+up to a large amount of money
+
+297
+00:09:57,057 --> 00:09:58,341
+kept instead of paid.
+
+298
+00:09:58,692 --> 00:10:00,154
+Difference number six.
+
+299
+00:10:00,334 --> 00:10:01,368
+How much they spend.
+
+300
+00:10:01,718 --> 00:10:03,609
+New money can spend at a pace
+
+301
+00:10:03,609 --> 00:10:05,827
+that outruns even a large fortune.
+
+302
+00:10:06,007 --> 00:10:07,583
+Big houses, staff,
+
+303
+00:10:07,583 --> 00:10:10,909
+cars, travel and gifts for friends and
+
+304
+00:10:10,909 --> 00:10:11,522
+family.
+
+305
+00:10:11,702 --> 00:10:13,565
+The fortune feels endless,
+
+306
+00:10:13,565 --> 00:10:14,640
+until it isn't.
+
+307
+00:10:14,820 --> 00:10:17,599
+Stories of lottery winners and athletes who
+
+308
+00:10:17,599 --> 00:10:20,184
+went broke are common because big sudden
+
+309
+00:10:20,184 --> 00:10:23,028
+wealth often comes with big sudden spending.
+
+310
+00:10:23,378 --> 00:10:25,822
+Many old money families follow a spending
+
+311
+00:10:25,822 --> 00:10:26,477
+discipline.
+
+312
+00:10:26,657 --> 00:10:28,780
+Some foundations and endowments,
+
+313
+00:10:28,780 --> 00:10:31,234
+for example, aim to spend around four
+
+314
+00:10:31,234 --> 00:10:33,622
+to five percent of their assets each
+
+315
+00:10:33,622 --> 00:10:35,878
+year, so the principal can keep up
+
+316
+00:10:35,878 --> 00:10:37,536
+with inflation over time.
+
+317
+00:10:37,716 --> 00:10:40,885
+Families that last often follow something similar.
+
+318
+00:10:41,236 --> 00:10:42,652
+The lesson for anyone.
+
+319
+00:10:42,832 --> 00:10:44,248
+Know your spending rate.
+
+320
+00:10:44,428 --> 00:10:45,895
+What share of your income do you
+
+321
+00:10:45,895 --> 00:10:46,170
+spend?
+
+322
+00:10:46,350 --> 00:10:48,279
+What share of your investments would you
+
+323
+00:10:48,279 --> 00:10:49,485
+need to withdraw to live?
+
+324
+00:10:49,665 --> 00:10:52,499
+Keeping that number sustainable is how wealth
+
+325
+00:10:52,499 --> 00:10:53,066
+survives.
+
+326
+00:10:53,417 --> 00:10:54,949
+Think about lottery winners.
+
+327
+00:10:55,129 --> 00:10:57,338
+Many receive a fortune overnight,
+
+328
+00:10:57,338 --> 00:10:59,949
+with no experience managing large sums,
+
+329
+00:10:59,949 --> 00:11:02,828
+and with friends and family suddenly asking
+
+330
+00:11:02,828 --> 00:11:03,430
+for help.
+
+331
+00:11:03,610 --> 00:11:06,765
+Researchers studying lottery winners in Florida found
+
+332
+00:11:06,765 --> 00:11:09,086
+that larger winners were less likely to
+
+333
+00:11:09,086 --> 00:11:11,348
+file for bankruptcy in the short term,
+
+334
+00:11:11,348 --> 00:11:13,729
+but that over time the protective effect
+
+335
+00:11:13,729 --> 00:11:14,860
+faded considerably.
+
+336
+00:11:15,040 --> 00:11:18,027
+Sudden money without a spending discipline is
+
+337
+00:11:18,027 --> 00:11:18,558
+fragile.
+
+338
+00:11:18,908 --> 00:11:20,138
+Difference number seven.
+
+339
+00:11:20,318 --> 00:11:21,328
+How they protect wealth.
+
+340
+00:11:21,679 --> 00:11:25,105
+Old money families often use legal structures,
+
+341
+00:11:25,105 --> 00:11:28,605
+like trusts, family partnerships and insurance,
+
+342
+00:11:28,605 --> 00:11:30,988
+to protect wealth from lawsuits,
+
+343
+00:11:30,988 --> 00:11:33,521
+divorce, poor decisions and taxes.
+
+344
+00:11:33,701 --> 00:11:36,759
+These structures can also control how heirs
+
+345
+00:11:36,759 --> 00:11:39,818
+receive money, for example in stages rather
+
+346
+00:11:39,818 --> 00:11:41,027
+than all at once.
+
+347
+00:11:41,377 --> 00:11:43,536
+New money is often more exposed.
+
+348
+00:11:43,716 --> 00:11:46,186
+Assets may sit in one person's name,
+
+349
+00:11:46,186 --> 00:11:48,244
+without a will or estate plan.
+
+350
+00:11:48,424 --> 00:11:50,881
+Surveys have found that many Americans,
+
+351
+00:11:50,881 --> 00:11:53,339
+including many with significant assets,
+
+352
+00:11:53,339 --> 00:11:54,473
+don't have a will.
+
+353
+00:11:54,653 --> 00:11:57,855
+That leaves families vulnerable to court processes
+
+354
+00:11:57,855 --> 00:11:58,751
+and conflicts.
+
+355
+00:11:59,101 --> 00:12:00,413
+The lesson for anyone.
+
+356
+00:12:00,593 --> 00:12:02,197
+At minimum, have a will,
+
+357
+00:12:02,197 --> 00:12:04,604
+name beneficiaries on every account,
+
+358
+00:12:04,604 --> 00:12:06,409
+and carry enough insurance,
+
+359
+00:12:06,409 --> 00:12:08,348
+including liability coverage.
+
+360
+00:12:08,528 --> 00:12:11,010
+If you have significant assets or young
+
+361
+00:12:11,010 --> 00:12:13,938
+children, talk to an estate planning attorney.
+
+362
+00:12:14,289 --> 00:12:17,296
+It's also about protecting heirs from themselves.
+
+363
+00:12:17,476 --> 00:12:19,841
+A twenty year old who suddenly inherits
+
+364
+00:12:19,841 --> 00:12:22,025
+millions with no guidance is at real
+
+365
+00:12:22,025 --> 00:12:22,329
+risk.
+
+366
+00:12:22,509 --> 00:12:24,996
+Structures that release money gradually,
+
+367
+00:12:24,996 --> 00:12:27,483
+or that require a trustee's approval for
+
+368
+00:12:27,483 --> 00:12:30,095
+big withdrawals, can give young heirs time
+
+369
+00:12:30,095 --> 00:12:32,333
+to grow up before they're handed the
+
+370
+00:12:32,333 --> 00:12:33,515
+keys to everything.
+
+371
+00:12:33,865 --> 00:12:36,407
+Here's what happens when new money never
+
+372
+00:12:36,407 --> 00:12:37,742
+learns these lessons.
+
+373
+00:12:37,922 --> 00:12:40,627
+Cornelius Vanderbilt built one of the largest
+
+374
+00:12:40,627 --> 00:12:43,272
+fortunes in American history in the eighteen
+
+375
+00:12:43,272 --> 00:12:45,736
+hundreds, through shipping and railroads.
+
+376
+00:12:45,916 --> 00:12:48,031
+When he died in eighteen seventy seven,
+
+377
+00:12:48,031 --> 00:12:49,874
+he was among the richest people in
+
+378
+00:12:49,874 --> 00:12:50,525
+the country.
+
+379
+00:12:50,875 --> 00:12:53,972
+His descendants built enormous mansions on Fifth
+
+380
+00:12:53,972 --> 00:12:55,391
+Avenue and in Newport,
+
+381
+00:12:55,391 --> 00:12:57,456
+and spent on a scale that's hard
+
+382
+00:12:57,456 --> 00:12:58,166
+to imagine.
+
+383
+00:12:58,346 --> 00:13:00,892
+According to the book Fortune's Children,
+
+384
+00:13:00,892 --> 00:13:03,065
+written by a Vanderbilt descendant,
+
+385
+00:13:03,065 --> 00:13:05,363
+the fortune was largely gone within a
+
+386
+00:13:05,363 --> 00:13:06,357
+few generations.
+
+387
+00:13:06,537 --> 00:13:08,965
+At a family reunion in nineteen seventy
+
+388
+00:13:08,965 --> 00:13:10,272
+three, the book says,
+
+389
+00:13:10,272 --> 00:13:12,701
+not one of the gathered descendants was
+
+390
+00:13:12,701 --> 00:13:13,572
+a millionaire.
+
+391
+00:13:13,923 --> 00:13:17,216
+Compare that with families like the Rockefellers,
+
+392
+00:13:17,216 --> 00:13:18,291
+who used trusts,
+
+393
+00:13:18,291 --> 00:13:22,189
+family offices, philanthropy and strong family governance.
+
+394
+00:13:22,369 --> 00:13:24,540
+Their wealth has lasted far longer.
+
+395
+00:13:24,720 --> 00:13:26,844
+The difference wasn't how much money they
+
+396
+00:13:26,844 --> 00:13:27,518
+started with.
+
+397
+00:13:27,698 --> 00:13:29,648
+It was the systems they built around
+
+398
+00:13:29,648 --> 00:13:29,811
+it.
+
+399
+00:13:30,161 --> 00:13:31,113
+That's angle one.
+
+400
+00:13:31,293 --> 00:13:32,708
+Assets versus income,
+
+401
+00:13:32,708 --> 00:13:34,394
+generations versus years,
+
+402
+00:13:34,394 --> 00:13:36,753
+diversification, how they use debt,
+
+403
+00:13:36,753 --> 00:13:39,652
+tax planning, spending rate and protection.
+
+404
+00:13:39,832 --> 00:13:41,028
+Now angle two.
+
+405
+00:13:41,208 --> 00:13:42,345
+The psychology.
+
+406
+00:13:42,525 --> 00:13:45,254
+Because the biggest differences between old and
+
+407
+00:13:45,254 --> 00:13:46,937
+new money are in their heads.
+
+408
+00:13:47,288 --> 00:13:49,082
+Money changes how people feel,
+
+409
+00:13:49,082 --> 00:13:50,936
+and how they want others to see
+
+410
+00:13:50,936 --> 00:13:51,235
+them.
+
+411
+00:13:51,415 --> 00:13:53,828
+New wealth often comes with something to
+
+412
+00:13:53,828 --> 00:13:54,190
+prove.
+
+413
+00:13:54,370 --> 00:13:56,769
+Old wealth often comes with something to
+
+414
+00:13:56,769 --> 00:13:57,249
+protect.
+
+415
+00:13:57,429 --> 00:13:59,895
+Those two mindsets lead to very different
+
+416
+00:13:59,895 --> 00:14:00,436
+behavior.
+
+417
+00:14:00,786 --> 00:14:01,970
+Difference number eight.
+
+418
+00:14:02,150 --> 00:14:04,019
+Old money tends to be quiet.
+
+419
+00:14:04,199 --> 00:14:05,708
+New money is often loud.
+
+420
+00:14:06,059 --> 00:14:08,758
+Big logos, flashy cars and social media
+
+421
+00:14:08,758 --> 00:14:11,597
+displays are more common with new wealth.
+
+422
+00:14:11,777 --> 00:14:14,586
+Old money families often prefer discretion.
+
+423
+00:14:14,766 --> 00:14:17,432
+Unbranded clothing, older cars,
+
+424
+00:14:17,432 --> 00:14:18,981
+understated homes.
+
+425
+00:14:19,161 --> 00:14:22,336
+This style is sometimes called quiet luxury
+
+426
+00:14:22,336 --> 00:14:23,665
+or stealth wealth.
+
+427
+00:14:24,016 --> 00:14:26,732
+There are practical reasons for being quiet.
+
+428
+00:14:26,912 --> 00:14:29,164
+Visible wealth attracts scammers,
+
+429
+00:14:29,164 --> 00:14:31,893
+lawsuits, and people who want something.
+
+430
+00:14:32,073 --> 00:14:34,047
+It can also create resentment.
+
+431
+00:14:34,227 --> 00:14:36,900
+Old money families often teach their children
+
+432
+00:14:36,900 --> 00:14:39,277
+not to discuss money outside the family.
+
+433
+00:14:39,627 --> 00:14:41,020
+The lesson for anyone.
+
+434
+00:14:41,200 --> 00:14:42,699
+You don't need to show what you
+
+435
+00:14:42,699 --> 00:14:42,941
+have.
+
+436
+00:14:43,121 --> 00:14:44,334
+Privacy protects you,
+
+437
+00:14:44,334 --> 00:14:46,298
+and it frees you from the pressure
+
+438
+00:14:46,298 --> 00:14:47,626
+to keep up appearances.
+
+439
+00:14:47,806 --> 00:14:49,594
+Let your accounts grow quietly.
+
+440
+00:14:49,944 --> 00:14:52,398
+There's a famous phrase sometimes used to
+
+441
+00:14:52,398 --> 00:14:53,775
+describe this attitude.
+
+442
+00:14:53,955 --> 00:14:56,277
+Money talks, wealth whispers.
+
+443
+00:14:56,457 --> 00:14:58,846
+Whether or not anyone can prove who
+
+444
+00:14:58,846 --> 00:14:59,802
+said it first,
+
+445
+00:14:59,802 --> 00:15:01,577
+it captures the idea well.
+
+446
+00:15:01,757 --> 00:15:03,768
+Those who have had wealth for a
+
+447
+00:15:03,768 --> 00:15:05,843
+long time often see no reason to
+
+448
+00:15:05,843 --> 00:15:06,621
+announce it.
+
+449
+00:15:06,801 --> 00:15:09,591
+For them, the real luxury is privacy,
+
+450
+00:15:09,591 --> 00:15:10,873
+time and freedom,
+
+451
+00:15:10,873 --> 00:15:13,210
+none of which come with a logo.
+
+452
+00:15:13,560 --> 00:15:14,953
+Difference number nine.
+
+453
+00:15:15,133 --> 00:15:16,735
+Old money buys quality.
+
+454
+00:15:16,915 --> 00:15:18,854
+New money often buys brands.
+
+455
+00:15:19,204 --> 00:15:21,974
+Old money families often value well made
+
+456
+00:15:21,974 --> 00:15:23,913
+items that last for decades,
+
+457
+00:15:23,913 --> 00:15:25,090
+even generations.
+
+458
+00:15:25,270 --> 00:15:28,367
+Furniture, watches, clothing and homes that are
+
+459
+00:15:28,367 --> 00:15:30,146
+maintained and passed down.
+
+460
+00:15:30,326 --> 00:15:32,350
+New money is more likely to chase
+
+461
+00:15:32,350 --> 00:15:34,680
+the newest and most recognized brands.
+
+462
+00:15:35,030 --> 00:15:37,672
+Buying quality to keep is often cheaper
+
+463
+00:15:37,672 --> 00:15:38,350
+over time.
+
+464
+00:15:38,530 --> 00:15:40,399
+A well made item used for thirty
+
+465
+00:15:40,399 --> 00:15:42,327
+years costs very little per year.
+
+466
+00:15:42,507 --> 00:15:45,409
+A trendy item replaced every season costs
+
+467
+00:15:45,409 --> 00:15:46,117
+a fortune.
+
+468
+00:15:46,468 --> 00:15:47,768
+The lesson for anyone.
+
+469
+00:15:47,948 --> 00:15:49,526
+For things you use daily,
+
+470
+00:15:49,526 --> 00:15:51,547
+buy quality and take care of it.
+
+471
+00:15:51,727 --> 00:15:52,888
+Skip trends.
+
+472
+00:15:53,068 --> 00:15:55,533
+Ask whether you'd still want this item
+
+473
+00:15:55,533 --> 00:15:56,377
+in ten years.
+
+474
+00:15:56,727 --> 00:15:58,542
+You can see this in the idea
+
+475
+00:15:58,542 --> 00:15:59,838
+of heirloom quality.
+
+476
+00:16:00,018 --> 00:16:01,372
+A good wool coat,
+
+477
+00:16:01,372 --> 00:16:02,886
+a solid wood table,
+
+478
+00:16:02,886 --> 00:16:05,196
+a leather bag that ages well.
+
+479
+00:16:05,376 --> 00:16:07,441
+These items are often bought once and
+
+480
+00:16:07,441 --> 00:16:09,115
+repaired rather than replaced.
+
+481
+00:16:09,295 --> 00:16:11,451
+Over decades, the cost per year can
+
+482
+00:16:11,451 --> 00:16:14,100
+be lower than buying cheaper versions again
+
+483
+00:16:14,100 --> 00:16:14,716
+and again.
+
+484
+00:16:14,896 --> 00:16:17,490
+It's frugality and elegance at the same
+
+485
+00:16:17,490 --> 00:16:17,822
+time.
+
+486
+00:16:18,172 --> 00:16:19,402
+Difference number ten.
+
+487
+00:16:19,582 --> 00:16:21,254
+Old money feels secure.
+
+488
+00:16:21,434 --> 00:16:23,341
+New money often feels the need to
+
+489
+00:16:23,341 --> 00:16:24,093
+prove itself.
+
+490
+00:16:24,443 --> 00:16:26,011
+When you grow up with wealth,
+
+491
+00:16:26,011 --> 00:16:27,525
+you don't need to show it to
+
+492
+00:16:27,525 --> 00:16:28,390
+feel successful.
+
+493
+00:16:28,570 --> 00:16:29,991
+When you've just made it,
+
+494
+00:16:29,991 --> 00:16:32,379
+especially after growing up without money,
+
+495
+00:16:32,379 --> 00:16:34,028
+there can be a strong urge to
+
+496
+00:16:34,028 --> 00:16:35,733
+show the world you've arrived.
+
+497
+00:16:36,084 --> 00:16:38,522
+That urge is human and understandable.
+
+498
+00:16:38,702 --> 00:16:39,921
+But it's expensive.
+
+499
+00:16:40,101 --> 00:16:42,617
+Buying things to prove something to others
+
+500
+00:16:42,617 --> 00:16:44,414
+is a race with no finish line,
+
+501
+00:16:44,414 --> 00:16:46,869
+because there's always someone with more.
+
+502
+00:16:47,220 --> 00:16:48,543
+The lesson for anyone.
+
+503
+00:16:48,723 --> 00:16:51,298
+Find your security in your balance sheet,
+
+504
+00:16:51,298 --> 00:16:53,496
+your skills and your relationships,
+
+505
+00:16:53,496 --> 00:16:55,318
+not in what other people see.
+
+506
+00:16:55,668 --> 00:16:58,766
+Psychologists have long observed that people often
+
+507
+00:16:58,766 --> 00:17:01,617
+use possessions to signal identity and status,
+
+508
+00:17:01,617 --> 00:17:04,468
+especially when they feel insecure about their
+
+509
+00:17:04,468 --> 00:17:05,025
+position.
+
+510
+00:17:05,205 --> 00:17:06,657
+That's not a moral failing.
+
+511
+00:17:06,837 --> 00:17:07,800
+It's very human.
+
+512
+00:17:07,980 --> 00:17:09,710
+But knowing it gives you a choice.
+
+513
+00:17:09,890 --> 00:17:11,643
+Next time you feel the urge to
+
+514
+00:17:11,643 --> 00:17:13,338
+buy something to show others,
+
+515
+00:17:13,338 --> 00:17:15,325
+ask whether you'd still want it if
+
+516
+00:17:15,325 --> 00:17:16,786
+nobody would ever see it.
+
+517
+00:17:17,137 --> 00:17:18,483
+Difference number eleven.
+
+518
+00:17:18,663 --> 00:17:19,929
+Old money is patient.
+
+519
+00:17:20,109 --> 00:17:21,781
+New money often moves fast.
+
+520
+00:17:22,131 --> 00:17:25,176
+Many new fortunes were built with speed,
+
+521
+00:17:25,176 --> 00:17:26,927
+fast growth, bold bets,
+
+522
+00:17:26,927 --> 00:17:28,145
+quick decisions.
+
+523
+00:17:28,325 --> 00:17:30,159
+That works well when you're building.
+
+524
+00:17:30,339 --> 00:17:32,683
+But when it comes to protecting wealth,
+
+525
+00:17:32,683 --> 00:17:34,066
+speed can be dangerous.
+
+526
+00:17:34,246 --> 00:17:37,313
+Quick investments in exciting opportunities are how
+
+527
+00:17:37,313 --> 00:17:38,576
+many fortunes shrink.
+
+528
+00:17:38,927 --> 00:17:40,877
+Old money tends to move slowly.
+
+529
+00:17:41,057 --> 00:17:42,325
+Long due diligence,
+
+530
+00:17:42,325 --> 00:17:43,726
+long holding periods,
+
+531
+00:17:43,726 --> 00:17:45,861
+and a willingness to miss out on
+
+532
+00:17:45,861 --> 00:17:46,595
+hot trends.
+
+533
+00:17:46,775 --> 00:17:48,100
+They often sound boring,
+
+534
+00:17:48,100 --> 00:17:49,260
+and that's the point.
+
+535
+00:17:49,610 --> 00:17:50,933
+The lesson for anyone.
+
+536
+00:17:51,113 --> 00:17:53,072
+When it comes to your savings,
+
+537
+00:17:53,072 --> 00:17:53,725
+slow down.
+
+538
+00:17:53,905 --> 00:17:55,763
+Be suspicious of urgency.
+
+539
+00:17:55,943 --> 00:17:58,740
+Good investments rarely require you to decide
+
+540
+00:17:58,740 --> 00:17:59,113
+today.
+
+541
+00:17:59,463 --> 00:18:01,878
+Old money investors often talk about having
+
+542
+00:18:01,878 --> 00:18:02,946
+time on their side.
+
+543
+00:18:03,126 --> 00:18:04,891
+They don't need to make a fortune
+
+544
+00:18:04,891 --> 00:18:07,085
+this year, because they already have one.
+
+545
+00:18:07,265 --> 00:18:09,127
+That frees them to wait for good
+
+546
+00:18:09,127 --> 00:18:11,222
+opportunities, and to say no to most
+
+547
+00:18:11,222 --> 00:18:11,688
+pitches.
+
+548
+00:18:11,868 --> 00:18:13,520
+For regular investors,
+
+549
+00:18:13,520 --> 00:18:15,247
+the same mindset helps.
+
+550
+00:18:15,427 --> 00:18:16,886
+You don't need to get rich this
+
+551
+00:18:16,886 --> 00:18:17,122
+year.
+
+552
+00:18:17,302 --> 00:18:18,970
+You need to stay invested for the
+
+553
+00:18:18,970 --> 00:18:19,577
+next thirty.
+
+554
+00:18:19,927 --> 00:18:20,937
+Quick pause.
+
+555
+00:18:21,117 --> 00:18:22,537
+If you're enjoying this,
+
+556
+00:18:22,537 --> 00:18:24,727
+please subscribe to Ryan Rover Money.
+
+557
+00:18:24,907 --> 00:18:26,831
+It's free and it helps us keep
+
+558
+00:18:26,831 --> 00:18:29,331
+making long, honest videos about money.
+
+559
+00:18:29,511 --> 00:18:31,229
+Okay, difference twelve.
+
+560
+00:18:31,579 --> 00:18:33,065
+Difference number twelve.
+
+561
+00:18:33,245 --> 00:18:35,822
+Old money invests in relationships.
+
+562
+00:18:36,172 --> 00:18:40,084
+Old money families often maintain long relationships
+
+563
+00:18:40,084 --> 00:18:41,815
+with advisors, lawyers,
+
+564
+00:18:41,815 --> 00:18:43,846
+bankers and other families,
+
+565
+00:18:43,846 --> 00:18:46,029
+sometimes across generations.
+
+566
+00:18:46,209 --> 00:18:48,796
+These networks provide trusted advice,
+
+567
+00:18:48,796 --> 00:18:50,771
+opportunities and protection.
+
+568
+00:18:51,122 --> 00:18:53,564
+New money may move from advisor to
+
+569
+00:18:53,564 --> 00:18:56,438
+advisor, or rely on whoever pitches them
+
+570
+00:18:56,438 --> 00:18:56,869
+first.
+
+571
+00:18:57,049 --> 00:18:58,839
+That can lead to bad advice and
+
+572
+00:18:58,839 --> 00:18:59,417
+high fees.
+
+573
+00:18:59,597 --> 00:19:01,218
+Trust takes time to build,
+
+574
+00:19:01,218 --> 00:19:02,964
+and it compounds like money.
+
+575
+00:19:03,314 --> 00:19:04,684
+The lesson for anyone.
+
+576
+00:19:04,864 --> 00:19:08,647
+Build long term relationships with trustworthy professionals
+
+577
+00:19:08,647 --> 00:19:09,403
+and mentors.
+
+578
+00:19:09,583 --> 00:19:10,846
+Look for fiduciaries,
+
+579
+00:19:10,846 --> 00:19:13,130
+people legally required to act in your
+
+580
+00:19:13,130 --> 00:19:13,972
+best interest.
+
+581
+00:19:14,322 --> 00:19:15,703
+For ordinary people,
+
+582
+00:19:15,703 --> 00:19:17,913
+this can be as simple as finding
+
+583
+00:19:17,913 --> 00:19:19,640
+one trusted tax preparer,
+
+584
+00:19:19,640 --> 00:19:21,367
+one good insurance agent,
+
+585
+00:19:21,367 --> 00:19:24,337
+and perhaps one fee only financial planner,
+
+586
+00:19:24,337 --> 00:19:26,617
+and sticking with them for years.
+
+587
+00:19:26,797 --> 00:19:28,869
+Over time, they learn your situation,
+
+588
+00:19:28,869 --> 00:19:30,829
+and you learn whether you can trust
+
+589
+00:19:30,829 --> 00:19:31,557
+their advice.
+
+590
+00:19:31,737 --> 00:19:34,123
+That kind of relationship is worth more
+
+591
+00:19:34,123 --> 00:19:35,347
+than any single tip.
+
+592
+00:19:35,698 --> 00:19:37,242
+Difference number thirteen.
+
+593
+00:19:37,422 --> 00:19:40,495
+Old money families often build identity around
+
+594
+00:19:40,495 --> 00:19:41,764
+values, not wealth.
+
+595
+00:19:42,114 --> 00:19:45,290
+Families that keep wealth for generations often
+
+596
+00:19:45,290 --> 00:19:46,912
+emphasize shared values,
+
+597
+00:19:46,912 --> 00:19:48,534
+like education, service,
+
+598
+00:19:48,534 --> 00:19:50,426
+work ethic and philanthropy.
+
+599
+00:19:50,606 --> 00:19:52,477
+Money is seen as a tool to
+
+600
+00:19:52,477 --> 00:19:53,988
+support those values,
+
+601
+00:19:53,988 --> 00:19:55,715
+not the identity itself.
+
+602
+00:19:56,065 --> 00:19:58,359
+When identity is tied only to money,
+
+603
+00:19:58,359 --> 00:20:01,227
+people can make reckless decisions to protect
+
+604
+00:20:01,227 --> 00:20:02,055
+their status.
+
+605
+00:20:02,235 --> 00:20:04,353
+When identity is tied to values,
+
+606
+00:20:04,353 --> 00:20:06,403
+money decisions become clearer.
+
+607
+00:20:06,754 --> 00:20:08,112
+The lesson for anyone.
+
+608
+00:20:08,292 --> 00:20:10,533
+Write down what your family stands for.
+
+609
+00:20:10,713 --> 00:20:13,442
+Let those values guide spending and saving
+
+610
+00:20:13,442 --> 00:20:14,091
+decisions.
+
+611
+00:20:14,442 --> 00:20:16,709
+This is also why old money families
+
+612
+00:20:16,709 --> 00:20:18,782
+often encourage meaningful work,
+
+613
+00:20:18,782 --> 00:20:20,919
+even for heirs who don't need the
+
+614
+00:20:20,919 --> 00:20:21,373
+income.
+
+615
+00:20:21,553 --> 00:20:22,984
+Work gives purpose,
+
+616
+00:20:22,984 --> 00:20:24,490
+identity and skills.
+
+617
+00:20:24,670 --> 00:20:26,687
+Heirs who find meaningful roles,
+
+618
+00:20:26,687 --> 00:20:28,011
+in a family business,
+
+619
+00:20:28,011 --> 00:20:29,586
+a career or philanthropy,
+
+620
+00:20:29,586 --> 00:20:31,918
+are often far more likely to preserve
+
+621
+00:20:31,918 --> 00:20:34,817
+wealth than those who drift without direction.
+
+622
+00:20:35,168 --> 00:20:36,735
+Difference number fourteen.
+
+623
+00:20:36,915 --> 00:20:38,924
+New money takes big risks.
+
+624
+00:20:39,104 --> 00:20:40,845
+Old money manages risk.
+
+625
+00:20:41,195 --> 00:20:43,027
+This is where new money has a
+
+626
+00:20:43,027 --> 00:20:43,911
+real strength.
+
+627
+00:20:44,091 --> 00:20:47,656
+Building a fortune usually requires taking risks.
+
+628
+00:20:47,836 --> 00:20:49,132
+Starting a company,
+
+629
+00:20:49,132 --> 00:20:51,725
+changing careers, betting on yourself.
+
+630
+00:20:51,905 --> 00:20:53,337
+Many old money heirs,
+
+631
+00:20:53,337 --> 00:20:55,043
+raised to protect wealth,
+
+632
+00:20:55,043 --> 00:20:57,907
+become too cautious to build anything new.
+
+633
+00:20:58,258 --> 00:21:00,429
+The best approach often combines both.
+
+634
+00:21:00,609 --> 00:21:02,787
+Take smart risks with your career and
+
+635
+00:21:02,787 --> 00:21:04,377
+a small part of your money,
+
+636
+00:21:04,377 --> 00:21:06,733
+while protecting the core of your wealth
+
+637
+00:21:06,733 --> 00:21:08,794
+with diversification and insurance.
+
+638
+00:21:09,144 --> 00:21:10,525
+The lesson for anyone.
+
+639
+00:21:10,705 --> 00:21:12,807
+Separate your money into two buckets.
+
+640
+00:21:12,987 --> 00:21:14,135
+A protected core,
+
+641
+00:21:14,135 --> 00:21:16,769
+and a small amount for calculated risks
+
+642
+00:21:16,769 --> 00:21:17,782
+you understand.
+
+643
+00:21:18,132 --> 00:21:20,439
+Many self made fortunes were built by
+
+644
+00:21:20,439 --> 00:21:22,870
+people who put almost everything on one
+
+645
+00:21:22,870 --> 00:21:23,182
+idea.
+
+646
+00:21:23,362 --> 00:21:25,209
+But once the fortune exists,
+
+647
+00:21:25,209 --> 00:21:28,311
+the smartest builders often change strategy and
+
+648
+00:21:28,311 --> 00:21:30,026
+start acting like keepers.
+
+649
+00:21:30,206 --> 00:21:33,143
+They sell part of their concentrated position,
+
+650
+00:21:33,143 --> 00:21:35,442
+diversify, and protect the downside.
+
+651
+00:21:35,622 --> 00:21:38,516
+Building and keeping really are two different
+
+652
+00:21:38,516 --> 00:21:38,966
+skills.
+
+653
+00:21:39,316 --> 00:21:40,326
+That's angle two.
+
+654
+00:21:40,506 --> 00:21:41,897
+Quiet versus loud,
+
+655
+00:21:41,897 --> 00:21:43,598
+quality versus brands,
+
+656
+00:21:43,598 --> 00:21:45,453
+security versus proving,
+
+657
+00:21:45,453 --> 00:21:47,153
+patience versus speed,
+
+658
+00:21:47,153 --> 00:21:49,318
+networks, identity and risk.
+
+659
+00:21:49,498 --> 00:21:50,705
+Now angle three.
+
+660
+00:21:50,885 --> 00:21:51,663
+The playbook.
+
+661
+00:21:51,843 --> 00:21:53,326
+How old money keeps it,
+
+662
+00:21:53,326 --> 00:21:55,326
+and what new money does better.
+
+663
+00:21:55,676 --> 00:21:58,648
+Keeping wealth for generations doesn't happen by
+
+664
+00:21:58,648 --> 00:21:59,205
+accident.
+
+665
+00:21:59,385 --> 00:22:00,813
+It takes systems.
+
+666
+00:22:00,993 --> 00:22:03,244
+The families that last often share a
+
+667
+00:22:03,244 --> 00:22:04,557
+handful of practices.
+
+668
+00:22:04,737 --> 00:22:07,100
+And some of them are surprisingly easy
+
+669
+00:22:07,100 --> 00:22:09,028
+to copy, even for a family with
+
+670
+00:22:09,028 --> 00:22:10,148
+no fortune at all.
+
+671
+00:22:10,498 --> 00:22:12,088
+Difference number fifteen.
+
+672
+00:22:12,268 --> 00:22:14,983
+Old money families hold family meetings about
+
+673
+00:22:14,983 --> 00:22:15,345
+money.
+
+674
+00:22:15,695 --> 00:22:18,939
+Many wealthy families hold regular meetings to
+
+675
+00:22:18,939 --> 00:22:20,913
+discuss investments, values,
+
+676
+00:22:20,913 --> 00:22:23,311
+philanthropy and responsibilities.
+
+677
+00:22:23,491 --> 00:22:26,068
+Some have written family constitutions.
+
+678
+00:22:26,248 --> 00:22:29,342
+The Williams Group research suggested that breakdowns
+
+679
+00:22:29,342 --> 00:22:32,086
+in trust and communication within families were
+
+680
+00:22:32,086 --> 00:22:34,538
+among the biggest reasons wealth was lost.
+
+681
+00:22:34,888 --> 00:22:37,215
+New money often keeps money secret,
+
+682
+00:22:37,215 --> 00:22:39,276
+even from spouses and children.
+
+683
+00:22:39,456 --> 00:22:41,585
+Then, when wealth is passed on,
+
+684
+00:22:41,585 --> 00:22:44,332
+heirs are unprepared and families fight.
+
+685
+00:22:44,683 --> 00:22:46,087
+The lesson for anyone.
+
+686
+00:22:46,267 --> 00:22:48,795
+Hold a simple family money meeting once
+
+687
+00:22:48,795 --> 00:22:49,832
+or twice a year.
+
+688
+00:22:50,012 --> 00:22:51,719
+Share goals and values,
+
+689
+00:22:51,719 --> 00:22:53,797
+and age appropriate details.
+
+690
+00:22:54,147 --> 00:22:56,314
+A family meeting doesn't need to be
+
+691
+00:22:56,314 --> 00:22:56,747
+formal.
+
+692
+00:22:56,927 --> 00:22:58,814
+It can be a dinner where you
+
+693
+00:22:58,814 --> 00:22:59,824
+share one goal,
+
+694
+00:22:59,824 --> 00:23:01,711
+one decision and one lesson.
+
+695
+00:23:01,891 --> 00:23:04,218
+Older kids can learn how the household
+
+696
+00:23:04,218 --> 00:23:05,014
+budget works.
+
+697
+00:23:05,194 --> 00:23:08,391
+Adult children can learn where important documents
+
+698
+00:23:08,391 --> 00:23:08,967
+are kept.
+
+699
+00:23:09,147 --> 00:23:12,860
+Those simple conversations prevent confusion and conflict
+
+700
+00:23:12,860 --> 00:23:15,530
+later, which is exactly where many family
+
+701
+00:23:15,530 --> 00:23:16,833
+fortunes break down.
+
+702
+00:23:17,183 --> 00:23:18,704
+Difference number sixteen.
+
+703
+00:23:18,884 --> 00:23:21,431
+Old money prepares heirs before giving them
+
+704
+00:23:21,431 --> 00:23:21,786
+money.
+
+705
+00:23:22,136 --> 00:23:25,193
+The same research found that unprepared heirs
+
+706
+00:23:25,193 --> 00:23:27,639
+were a major cause of lost fortunes.
+
+707
+00:23:27,819 --> 00:23:30,748
+Old money families often teach children about
+
+708
+00:23:30,748 --> 00:23:34,003
+money early, give them responsibilities gradually,
+
+709
+00:23:34,003 --> 00:23:36,933
+and sometimes release inheritances in stages.
+
+710
+00:23:37,283 --> 00:23:39,919
+Thomas Stanley also found that large ongoing
+
+711
+00:23:39,919 --> 00:23:42,317
+gifts to adult children were linked with
+
+712
+00:23:42,317 --> 00:23:45,193
+those children accumulating less wealth of their
+
+713
+00:23:45,193 --> 00:23:45,433
+own.
+
+714
+00:23:45,613 --> 00:23:47,854
+Preparation matters more than the amount.
+
+715
+00:23:48,204 --> 00:23:49,585
+The lesson for anyone.
+
+716
+00:23:49,765 --> 00:23:51,977
+Teach your kids about money early,
+
+717
+00:23:51,977 --> 00:23:52,888
+let them earn,
+
+718
+00:23:52,888 --> 00:23:54,774
+let them make small mistakes,
+
+719
+00:23:54,774 --> 00:23:57,962
+and give responsibility before giving large sums.
+
+720
+00:23:58,312 --> 00:24:01,053
+Some families use what are sometimes called
+
+721
+00:24:01,053 --> 00:24:04,113
+incentive trusts, which release money when heirs
+
+722
+00:24:04,113 --> 00:24:05,707
+reach certain milestones,
+
+723
+00:24:05,707 --> 00:24:08,449
+like finishing school or matching their own
+
+724
+00:24:08,449 --> 00:24:09,341
+earned income.
+
+725
+00:24:09,521 --> 00:24:11,445
+Whether or not you ever set up
+
+726
+00:24:11,445 --> 00:24:13,689
+a trust, the principle is valuable.
+
+727
+00:24:13,869 --> 00:24:16,276
+Money works best when it supports effort
+
+728
+00:24:16,276 --> 00:24:19,105
+and responsibility, rather than replacing them.
+
+729
+00:24:19,455 --> 00:24:21,022
+Difference number seventeen.
+
+730
+00:24:21,202 --> 00:24:23,164
+Old money gives as a family.
+
+731
+00:24:23,514 --> 00:24:26,344
+Many old money families run foundations or
+
+732
+00:24:26,344 --> 00:24:27,287
+give together.
+
+733
+00:24:27,467 --> 00:24:31,341
+Philanthropy can unite family members around shared
+
+734
+00:24:31,341 --> 00:24:35,520
+values, teach younger generations about responsibility,
+
+735
+00:24:35,520 --> 00:24:36,887
+and, under US law,
+
+736
+00:24:36,887 --> 00:24:38,787
+offer legal tax benefits.
+
+737
+00:24:39,137 --> 00:24:41,517
+New money is increasingly generous too.
+
+738
+00:24:41,697 --> 00:24:44,283
+Many self made billionaires have pledged to
+
+739
+00:24:44,283 --> 00:24:46,689
+give away large parts of their fortunes.
+
+740
+00:24:46,869 --> 00:24:48,971
+The habit of giving keeps money in
+
+741
+00:24:48,971 --> 00:24:49,713
+perspective.
+
+742
+00:24:50,064 --> 00:24:51,422
+The lesson for anyone.
+
+743
+00:24:51,602 --> 00:24:53,811
+Choose a cause as a family and
+
+744
+00:24:53,811 --> 00:24:56,316
+give together, even small amounts.
+
+745
+00:24:56,496 --> 00:24:58,841
+It builds values that outlast money.
+
+746
+00:24:59,191 --> 00:25:02,268
+Andrew Carnegie, one of the richest Americans
+
+747
+00:25:02,268 --> 00:25:03,020
+of his era,
+
+748
+00:25:03,020 --> 00:25:05,550
+famously argued that the man who dies
+
+749
+00:25:05,550 --> 00:25:06,917
+rich dies disgraced,
+
+750
+00:25:06,917 --> 00:25:09,174
+and gave away most of his fortune
+
+751
+00:25:09,174 --> 00:25:12,182
+to libraries, universities and other causes.
+
+752
+00:25:12,362 --> 00:25:14,432
+More recently, the Giving Pledge,
+
+753
+00:25:14,432 --> 00:25:16,816
+started by Warren Buffett and Bill and
+
+754
+00:25:16,816 --> 00:25:18,134
+Melinda French Gates,
+
+755
+00:25:18,134 --> 00:25:20,957
+invites billionaires to commit to giving away
+
+756
+00:25:20,957 --> 00:25:22,776
+the majority of their wealth.
+
+757
+00:25:23,127 --> 00:25:24,694
+Difference number eighteen.
+
+758
+00:25:24,874 --> 00:25:26,743
+Old money holds for decades.
+
+759
+00:25:27,093 --> 00:25:29,536
+Old money families often keep land,
+
+760
+00:25:29,536 --> 00:25:32,538
+businesses and investments for generations.
+
+761
+00:25:32,718 --> 00:25:35,144
+Long holding periods reduce taxes,
+
+762
+00:25:35,144 --> 00:25:37,927
+trading costs and the risk of emotional
+
+763
+00:25:37,927 --> 00:25:38,569
+mistakes.
+
+764
+00:25:38,749 --> 00:25:40,630
+They let compounding do its work.
+
+765
+00:25:40,980 --> 00:25:44,245
+New money investors may trade more frequently,
+
+766
+00:25:44,245 --> 00:25:45,310
+chasing trends.
+
+767
+00:25:45,490 --> 00:25:47,786
+Research on individual investors,
+
+768
+00:25:47,786 --> 00:25:50,570
+like studies by Brad Barber and Terrance
+
+769
+00:25:50,570 --> 00:25:53,701
+Odean, has found that frequent traders tended
+
+770
+00:25:53,701 --> 00:25:56,067
+to earn lower returns after costs.
+
+771
+00:25:56,417 --> 00:25:57,775
+The lesson for anyone.
+
+772
+00:25:57,955 --> 00:26:00,762
+Buy diversified investments and hold them for
+
+773
+00:26:00,762 --> 00:26:01,635
+the long term.
+
+774
+00:26:01,815 --> 00:26:03,373
+Check them occasionally,
+
+775
+00:26:03,373 --> 00:26:04,346
+not constantly.
+
+776
+00:26:04,697 --> 00:26:07,003
+The research by Barber and Odean looked
+
+777
+00:26:07,003 --> 00:26:09,547
+at tens of thousands of household brokerage
+
+778
+00:26:09,547 --> 00:26:11,558
+accounts in the nineteen nineties.
+
+779
+00:26:11,738 --> 00:26:14,210
+The households that traded the most earned
+
+780
+00:26:14,210 --> 00:26:16,624
+noticeably lower returns than the market,
+
+781
+00:26:16,624 --> 00:26:19,155
+largely because of trading costs and poorly
+
+782
+00:26:19,155 --> 00:26:20,097
+timed decisions.
+
+783
+00:26:20,277 --> 00:26:22,727
+Doing less was often the winning strategy.
+
+784
+00:26:23,077 --> 00:26:24,818
+Difference number nineteen.
+
+785
+00:26:24,998 --> 00:26:26,426
+What new money does better.
+
+786
+00:26:26,776 --> 00:26:28,981
+New money has real strengths.
+
+787
+00:26:29,161 --> 00:26:32,812
+Hunger, creativity, risk taking and a willingness
+
+788
+00:26:32,812 --> 00:26:34,525
+to work extremely hard.
+
+789
+00:26:34,705 --> 00:26:37,465
+Ramsey Solutions' study found that most American
+
+790
+00:26:37,465 --> 00:26:39,477
+millionaires were first generation.
+
+791
+00:26:39,657 --> 00:26:41,871
+And UBS has reported that self made
+
+792
+00:26:41,871 --> 00:26:44,464
+entrepreneurs create a large share of new
+
+793
+00:26:44,464 --> 00:26:46,298
+billionaire wealth each year.
+
+794
+00:26:46,648 --> 00:26:49,306
+Old money heirs sometimes lose that drive.
+
+795
+00:26:49,486 --> 00:26:51,232
+Without the need to build,
+
+796
+00:26:51,232 --> 00:26:51,971
+some drift.
+
+797
+00:26:52,151 --> 00:26:54,148
+That's one reason fortunes fade.
+
+798
+00:26:54,328 --> 00:26:56,794
+The families that last often find ways
+
+799
+00:26:56,794 --> 00:27:00,040
+to keep entrepreneurship alive in each generation.
+
+800
+00:27:00,390 --> 00:27:01,794
+The lesson for anyone.
+
+801
+00:27:01,974 --> 00:27:03,820
+Keep the hustle of new money.
+
+802
+00:27:04,000 --> 00:27:07,150
+Build skills, take smart risks and create
+
+803
+00:27:07,150 --> 00:27:07,611
+value.
+
+804
+00:27:07,791 --> 00:27:10,119
+Then add the protection habits of old
+
+805
+00:27:10,119 --> 00:27:10,496
+money.
+
+806
+00:27:10,847 --> 00:27:12,984
+Think of the immigrant shop owner,
+
+807
+00:27:12,984 --> 00:27:16,002
+the first generation college graduate who starts
+
+808
+00:27:16,002 --> 00:27:18,580
+a company, or the tradesperson who builds
+
+809
+00:27:18,580 --> 00:27:21,284
+a contracting business from a single truck.
+
+810
+00:27:21,464 --> 00:27:24,482
+Their drive, frugality and appetite for work
+
+811
+00:27:24,482 --> 00:27:27,156
+are exactly what old money families try
+
+812
+00:27:27,156 --> 00:27:29,557
+to keep alive in later generations,
+
+813
+00:27:29,557 --> 00:27:31,065
+often without success.
+
+814
+00:27:31,416 --> 00:27:32,960
+And difference number twenty.
+
+815
+00:27:33,140 --> 00:27:34,986
+The best approach combines both.
+
+816
+00:27:35,336 --> 00:27:36,415
+Build like new money.
+
+817
+00:27:36,595 --> 00:27:38,567
+Work hard, take smart risks,
+
+818
+00:27:38,567 --> 00:27:40,961
+grow your income and create value.
+
+819
+00:27:41,141 --> 00:27:42,232
+Keep like old money.
+
+820
+00:27:42,412 --> 00:27:44,045
+Spend below your means,
+
+821
+00:27:44,045 --> 00:27:45,892
+diversify, plan for taxes,
+
+822
+00:27:45,892 --> 00:27:47,525
+protect with structure,
+
+823
+00:27:47,525 --> 00:27:48,661
+think long term,
+
+824
+00:27:48,661 --> 00:27:50,934
+and prepare the next generation.
+
+825
+00:27:51,284 --> 00:27:54,380
+That combination is exactly what many self
+
+826
+00:27:54,380 --> 00:27:55,928
+made millionaires do.
+
+827
+00:27:56,108 --> 00:27:57,330
+They build with hunger,
+
+828
+00:27:57,330 --> 00:27:58,871
+then protect with discipline.
+
+829
+00:27:59,051 --> 00:28:01,235
+And some of them become the founders
+
+830
+00:28:01,235 --> 00:28:02,812
+of new old money families.
+
+831
+00:28:03,163 --> 00:28:04,556
+The lesson for anyone.
+
+832
+00:28:04,736 --> 00:28:07,000
+Ask yourself which side you're stronger on.
+
+833
+00:28:07,180 --> 00:28:08,689
+Building or keeping.
+
+834
+00:28:08,869 --> 00:28:10,576
+Then work on the other side.
+
+835
+00:28:10,926 --> 00:28:13,846
+Picture someone who builds a small business
+
+836
+00:28:13,846 --> 00:28:16,019
+with long hours and smart risks,
+
+837
+00:28:16,019 --> 00:28:18,532
+then pays themselves a modest salary,
+
+838
+00:28:18,532 --> 00:28:21,724
+invests the profits in diversified index funds,
+
+839
+00:28:21,724 --> 00:28:22,675
+writes a will,
+
+840
+00:28:22,675 --> 00:28:24,508
+teaches their kids to work,
+
+841
+00:28:24,508 --> 00:28:27,225
+and talks openly with their family about
+
+842
+00:28:27,225 --> 00:28:27,632
+money.
+
+843
+00:28:27,812 --> 00:28:30,359
+That person is building the first chapter
+
+844
+00:28:30,359 --> 00:28:31,725
+of an old money story.
+
+845
+00:28:32,075 --> 00:28:34,765
+Let's name the classic mistakes that sink
+
+846
+00:28:34,765 --> 00:28:37,061
+new fortunes, so you can avoid them
+
+847
+00:28:37,061 --> 00:28:37,914
+at any level.
+
+848
+00:28:38,094 --> 00:28:38,930
+Mistake one.
+
+849
+00:28:39,110 --> 00:28:41,026
+Upgrading everything at once.
+
+850
+00:28:41,206 --> 00:28:43,740
+A sudden jump in lifestyle locks in
+
+851
+00:28:43,740 --> 00:28:46,130
+high fixed costs that are hard to
+
+852
+00:28:46,130 --> 00:28:46,709
+reverse.
+
+853
+00:28:46,889 --> 00:28:48,062
+Mistake two.
+
+854
+00:28:48,242 --> 00:28:51,102
+Lending or giving money to everyone who
+
+855
+00:28:51,102 --> 00:28:52,642
+asks, without limits.
+
+856
+00:28:52,822 --> 00:28:54,953
+It can drain a fortune and damage
+
+857
+00:28:54,953 --> 00:28:56,955
+relationships at the same time.
+
+858
+00:28:57,305 --> 00:28:58,257
+Mistake three.
+
+859
+00:28:58,437 --> 00:29:01,677
+Investing in friends' businesses or exciting deals
+
+860
+00:29:01,677 --> 00:29:03,557
+without proper due diligence.
+
+861
+00:29:03,737 --> 00:29:04,816
+Mistake four.
+
+862
+00:29:04,996 --> 00:29:07,899
+Ignoring taxes until the bill arrives.
+
+863
+00:29:08,079 --> 00:29:09,367
+And mistake five.
+
+864
+00:29:09,547 --> 00:29:12,137
+Assuming the income will continue forever.
+
+865
+00:29:12,317 --> 00:29:14,613
+Careers end, markets change,
+
+866
+00:29:14,613 --> 00:29:16,171
+and companies fail.
+
+867
+00:29:16,351 --> 00:29:18,331
+Old money families plan as if the
+
+868
+00:29:18,331 --> 00:29:19,890
+good times might not last,
+
+869
+00:29:19,890 --> 00:29:22,110
+which is exactly why theirs often do.
+
+870
+00:29:22,460 --> 00:29:24,864
+The antidote to all five is a
+
+871
+00:29:24,864 --> 00:29:25,362
+pause.
+
+872
+00:29:25,542 --> 00:29:27,002
+When new money arrives,
+
+873
+00:29:27,002 --> 00:29:28,588
+whether it's a big raise,
+
+874
+00:29:28,588 --> 00:29:30,239
+a bonus or an inheritance,
+
+875
+00:29:30,239 --> 00:29:33,222
+many planners suggest parking it somewhere safe
+
+876
+00:29:33,222 --> 00:29:35,380
+for a few months before making big
+
+877
+00:29:35,380 --> 00:29:36,014
+decisions.
+
+878
+00:29:36,194 --> 00:29:39,075
+Time cools emotions and lets a clear
+
+879
+00:29:39,075 --> 00:29:39,875
+plan form.
+
+880
+00:29:40,055 --> 00:29:41,830
+The money will still be there in
+
+881
+00:29:41,830 --> 00:29:42,551
+three months.
+
+882
+00:29:42,731 --> 00:29:43,957
+A rushed decision,
+
+883
+00:29:43,957 --> 00:29:45,184
+on the other hand,
+
+884
+00:29:45,184 --> 00:29:46,887
+can be very hard to undo.
+
+885
+00:29:47,237 --> 00:29:48,548
+Why does this matter now?
+
+886
+00:29:48,728 --> 00:29:50,825
+Because America is in the middle of
+
+887
+00:29:50,825 --> 00:29:53,581
+what's often called the great wealth transfer.
+
+888
+00:29:53,761 --> 00:29:57,106
+Research firms like Cerulli Associates have estimated
+
+889
+00:29:57,106 --> 00:29:59,504
+that tens of trillions of dollars will
+
+890
+00:29:59,504 --> 00:30:01,902
+pass from older Americans to heirs and
+
+891
+00:30:01,902 --> 00:30:04,048
+charities over the coming decades.
+
+892
+00:30:04,228 --> 00:30:07,110
+UBS has also reported that inherited wealth
+
+893
+00:30:07,110 --> 00:30:09,254
+is creating a large share of new
+
+894
+00:30:09,254 --> 00:30:10,126
+billionaires.
+
+895
+00:30:10,476 --> 00:30:12,021
+If the old pattern holds,
+
+896
+00:30:12,021 --> 00:30:13,938
+much of that money will be gone
+
+897
+00:30:13,938 --> 00:30:15,607
+within a generation or two.
+
+898
+00:30:15,787 --> 00:30:17,503
+The families who keep it will be
+
+899
+00:30:17,503 --> 00:30:19,166
+the ones with old money habits.
+
+900
+00:30:19,346 --> 00:30:22,634
+Communication, preparation, diversification,
+
+901
+00:30:22,634 --> 00:30:25,847
+spending discipline and long term thinking.
+
+902
+00:30:26,198 --> 00:30:28,766
+And for families without big inheritances,
+
+903
+00:30:28,766 --> 00:30:31,213
+the same habits can start something new.
+
+904
+00:30:31,393 --> 00:30:34,025
+Every old money family began with someone
+
+905
+00:30:34,025 --> 00:30:35,886
+who built and then protected.
+
+906
+00:30:36,066 --> 00:30:37,274
+That person could be you.
+
+907
+00:30:37,624 --> 00:30:39,883
+So how would an ordinary family start
+
+908
+00:30:39,883 --> 00:30:41,044
+becoming old money,
+
+909
+00:30:41,044 --> 00:30:41,838
+from scratch?
+
+910
+00:30:42,018 --> 00:30:44,026
+Here's a simple thirty year outline.
+
+911
+00:30:44,377 --> 00:30:45,642
+Years one to ten.
+
+912
+00:30:45,822 --> 00:30:46,286
+Build.
+
+913
+00:30:46,466 --> 00:30:47,684
+Grow your income,
+
+914
+00:30:47,684 --> 00:30:48,686
+live below it,
+
+915
+00:30:48,686 --> 00:30:52,625
+and invest the difference automatically in diversified,
+
+916
+00:30:52,625 --> 00:30:53,699
+low cost funds.
+
+917
+00:30:53,879 --> 00:30:55,575
+Pay off high interest debt.
+
+918
+00:30:55,755 --> 00:30:57,333
+Build an emergency fund.
+
+919
+00:30:57,513 --> 00:30:59,859
+Write a will and name beneficiaries.
+
+920
+00:31:00,039 --> 00:31:01,602
+Teach your kids the basics,
+
+921
+00:31:01,602 --> 00:31:04,092
+like saving, earning and waiting for things
+
+922
+00:31:04,092 --> 00:31:04,671
+they want.
+
+923
+00:31:05,021 --> 00:31:06,321
+Years eleven to twenty.
+
+924
+00:31:06,501 --> 00:31:08,231
+Grow and protect.
+
+925
+00:31:08,411 --> 00:31:11,135
+Keep raising your savings rate with every
+
+926
+00:31:11,135 --> 00:31:11,534
+raise.
+
+927
+00:31:11,714 --> 00:31:13,718
+Add income producing assets,
+
+928
+00:31:13,718 --> 00:31:16,153
+maybe a rental property or a small
+
+929
+00:31:16,153 --> 00:31:18,587
+business, if they fit your skills.
+
+930
+00:31:18,767 --> 00:31:21,275
+Review insurance and estate plans.
+
+931
+00:31:21,455 --> 00:31:23,100
+Start family money meetings,
+
+932
+00:31:23,100 --> 00:31:25,627
+and give older kids real responsibility for
+
+933
+00:31:25,627 --> 00:31:27,213
+part of their own spending.
+
+934
+00:31:27,564 --> 00:31:28,910
+Years twenty one to thirty.
+
+935
+00:31:29,090 --> 00:31:30,634
+Keep and pass on.
+
+936
+00:31:30,814 --> 00:31:32,804
+Shift toward preserving wealth,
+
+937
+00:31:32,804 --> 00:31:36,333
+with careful diversification and a sustainable spending
+
+938
+00:31:36,333 --> 00:31:36,654
+rate.
+
+939
+00:31:36,834 --> 00:31:39,839
+Involve adult children in family decisions and
+
+940
+00:31:39,839 --> 00:31:40,689
+philanthropy.
+
+941
+00:31:40,869 --> 00:31:43,446
+Prepare them before passing anything on.
+
+942
+00:31:43,626 --> 00:31:45,858
+By then, you've done what every old
+
+943
+00:31:45,858 --> 00:31:47,260
+money family once did.
+
+944
+00:31:47,440 --> 00:31:48,555
+You built something,
+
+945
+00:31:48,555 --> 00:31:50,617
+and taught the next generation how to
+
+946
+00:31:50,617 --> 00:31:51,062
+keep it.
+
+947
+00:31:51,413 --> 00:31:52,611
+From old money,
+
+948
+00:31:52,611 --> 00:31:53,491
+copy these.
+
+949
+00:31:53,671 --> 00:31:55,087
+Live on less than you earn.
+
+950
+00:31:55,267 --> 00:31:57,427
+Build income producing assets.
+
+951
+00:31:57,607 --> 00:31:58,570
+Diversify.
+
+952
+00:31:58,750 --> 00:32:00,051
+Think in decades.
+
+953
+00:32:00,231 --> 00:32:02,483
+Have a will and name beneficiaries.
+
+954
+00:32:02,663 --> 00:32:04,161
+Teach your kids about money.
+
+955
+00:32:04,341 --> 00:32:05,815
+And keep your wealth quiet.
+
+956
+00:32:06,165 --> 00:32:07,283
+From new money,
+
+957
+00:32:07,283 --> 00:32:08,103
+copy these.
+
+958
+00:32:08,283 --> 00:32:09,340
+Grow your income.
+
+959
+00:32:09,520 --> 00:32:11,854
+Take calculated risks with your career.
+
+960
+00:32:12,034 --> 00:32:14,100
+Build skills that create value.
+
+961
+00:32:14,280 --> 00:32:15,871
+Be willing to start something.
+
+962
+00:32:16,051 --> 00:32:17,107
+And stay hungry.
+
+963
+00:32:17,287 --> 00:32:20,643
+Together, those habits are a powerful combination
+
+964
+00:32:20,643 --> 00:32:22,012
+at any income level.
+
+965
+00:32:22,363 --> 00:32:23,257
+Question one.
+
+966
+00:32:23,437 --> 00:32:25,491
+Is old money always better with money?
+
+967
+00:32:25,671 --> 00:32:25,904
+No.
+
+968
+00:32:26,084 --> 00:32:28,478
+Plenty of old money families lose their
+
+969
+00:32:28,478 --> 00:32:30,933
+wealth, and plenty of new money builders
+
+970
+00:32:30,933 --> 00:32:32,283
+manage it brilliantly.
+
+971
+00:32:32,463 --> 00:32:33,688
+These are patterns,
+
+972
+00:32:33,688 --> 00:32:34,333
+not rules.
+
+973
+00:32:34,513 --> 00:32:36,417
+The habits matter more than the label.
+
+974
+00:32:36,767 --> 00:32:37,695
+Question two.
+
+975
+00:32:37,875 --> 00:32:39,275
+Do I need to be rich to
+
+976
+00:32:39,275 --> 00:32:41,161
+use trusts and estate planning?
+
+977
+00:32:41,341 --> 00:32:42,572
+Not necessarily.
+
+978
+00:32:42,752 --> 00:32:45,845
+A basic will and beneficiary designations are
+
+979
+00:32:45,845 --> 00:32:47,906
+important for almost everyone.
+
+980
+00:32:48,086 --> 00:32:50,823
+Trusts can be useful for families with
+
+981
+00:32:50,823 --> 00:32:53,991
+young children, property in multiple states,
+
+982
+00:32:53,991 --> 00:32:55,575
+or complex situations.
+
+983
+00:32:55,755 --> 00:32:58,097
+An estate planning attorney can help you
+
+984
+00:32:58,097 --> 00:32:58,506
+decide.
+
+985
+00:32:58,857 --> 00:32:59,809
+Question three.
+
+986
+00:32:59,989 --> 00:33:02,579
+What's the single most important old money
+
+987
+00:33:02,579 --> 00:33:02,949
+habit?
+
+988
+00:33:03,129 --> 00:33:05,493
+Probably spending only part of what your
+
+989
+00:33:05,493 --> 00:33:07,680
+assets earn, and never the principal.
+
+990
+00:33:07,860 --> 00:33:08,971
+That one rule,
+
+991
+00:33:08,971 --> 00:33:10,716
+followed over decades,
+
+992
+00:33:10,716 --> 00:33:12,620
+is how fortunes survive.
+
+993
+00:33:12,971 --> 00:33:13,853
+Question four.
+
+994
+00:33:14,033 --> 00:33:16,209
+Is quiet luxury just another trend to
+
+995
+00:33:16,209 --> 00:33:16,738
+buy into?
+
+996
+00:33:16,918 --> 00:33:17,870
+It can be.
+
+997
+00:33:18,050 --> 00:33:21,162
+Some brands now sell expensive plain clothing
+
+998
+00:33:21,162 --> 00:33:22,822
+labeled as quiet luxury.
+
+999
+00:33:23,002 --> 00:33:24,105
+That misses the point.
+
+1000
+00:33:24,285 --> 00:33:26,009
+The old money idea isn't buying a
+
+1001
+00:33:26,009 --> 00:33:26,792
+different look.
+
+1002
+00:33:26,972 --> 00:33:29,328
+It's caring less about looks altogether,
+
+1003
+00:33:29,328 --> 00:33:31,802
+and putting the money into assets instead.
+
+1004
+00:33:32,153 --> 00:33:32,954
+Quick recap.
+
+1005
+00:33:33,134 --> 00:33:34,991
+Angle one, the numbers.
+
+1006
+00:33:35,171 --> 00:33:36,865
+Assets versus income,
+
+1007
+00:33:36,865 --> 00:33:38,882
+generations versus years,
+
+1008
+00:33:38,882 --> 00:33:41,464
+diversified versus concentrated,
+
+1009
+00:33:41,464 --> 00:33:42,674
+debt as a tool,
+
+1010
+00:33:42,674 --> 00:33:44,933
+tax planning, spending rate,
+
+1011
+00:33:44,933 --> 00:33:46,143
+and protection.
+
+1012
+00:33:46,493 --> 00:33:48,524
+Angle two, the psychology.
+
+1013
+00:33:48,704 --> 00:33:50,060
+Quiet versus loud,
+
+1014
+00:33:50,060 --> 00:33:51,716
+quality versus brands,
+
+1015
+00:33:51,716 --> 00:33:53,523
+security versus proving,
+
+1016
+00:33:53,523 --> 00:33:55,180
+patience versus speed,
+
+1017
+00:33:55,180 --> 00:33:57,589
+networks, identity beyond money,
+
+1018
+00:33:57,589 --> 00:33:58,944
+and risk appetite.
+
+1019
+00:33:59,295 --> 00:34:00,955
+Angle three, the playbook.
+
+1020
+00:34:01,135 --> 00:34:03,461
+Family meetings, preparing heirs,
+
+1021
+00:34:03,461 --> 00:34:05,716
+philanthropy, long term holding,
+
+1022
+00:34:05,716 --> 00:34:07,619
+what new money does better,
+
+1023
+00:34:07,619 --> 00:34:09,099
+and the best of both.
+
+1024
+00:34:09,450 --> 00:34:11,573
+Here's what I find most encouraging about
+
+1025
+00:34:11,573 --> 00:34:12,143
+this topic.
+
+1026
+00:34:12,323 --> 00:34:13,786
+Every old money family,
+
+1027
+00:34:13,786 --> 00:34:16,711
+without exception, started with one person who
+
+1028
+00:34:16,711 --> 00:34:19,382
+built something and decided to protect it.
+
+1029
+00:34:19,562 --> 00:34:21,096
+Their habits weren't secret,
+
+1030
+00:34:21,096 --> 00:34:22,685
+and they weren't complicated.
+
+1031
+00:34:22,865 --> 00:34:24,635
+Spend less than you earn,
+
+1032
+00:34:24,635 --> 00:34:26,616
+own assets, think long term,
+
+1033
+00:34:26,616 --> 00:34:28,740
+and teach the next generation.
+
+1034
+00:34:28,920 --> 00:34:31,007
+You don't need a famous last name
+
+1035
+00:34:31,007 --> 00:34:32,526
+to think like old money,
+
+1036
+00:34:32,526 --> 00:34:34,487
+or a startup exit to build like
+
+1037
+00:34:34,487 --> 00:34:35,119
+new money.
+
+1038
+00:34:35,299 --> 00:34:36,386
+Build like new,
+
+1039
+00:34:36,386 --> 00:34:37,401
+keep like old.
+
+1040
+00:34:37,581 --> 00:34:39,015
+If you want the full plan,
+
+1041
+00:34:39,015 --> 00:34:40,118
+it's in my playbook,
+
+1042
+00:34:40,118 --> 00:34:41,551
+linked in the description.
+
+1043
+00:34:41,731 --> 00:34:43,166
+Tell me in the comments,
+
+1044
+00:34:43,166 --> 00:34:44,839
+are you more of a builder or
+
+1045
+00:34:44,839 --> 00:34:45,377
+a keeper?
+
+1046
+00:34:45,557 --> 00:34:46,904
+I'm Ryan Rover.
+
+1047
+00:34:47,084 --> 00:34:48,198
+See you in the next one.
