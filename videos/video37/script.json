@@ -419,7 +419,7 @@
    "query": "Stock ticker versus quiet house",
    "caption": "HIDDEN VOLATILITY",
    "cuts": 3,
-   "short_hook": "Your house drops in value all the time. You just don't see it."
+   "short_hook": "Your house can lose value without you ever seeing it."
   },
   {
    "text": "During the housing crash around 2008, national home prices fell sharply, and in some areas far more. Many owners didn't feel it day to day, but it was real, and those who had to sell felt it painfully.",

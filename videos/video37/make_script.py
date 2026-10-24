@@ -188,7 +188,7 @@ Knowing which kind of person you are helps you choose.""", "Person renovating ki
 building.""", "Fund holdings list", "SEE WHAT YOU OWN"),
 ])
 
-body_hook = "Your house drops in value all the time. You just don't see it."
+body_hook = "Your house can lose value without you ever seeing it."
 item(9, "Invisible volatility", "what you don't see can't scare you",
 """Lesson number nine. Real estate's volatility is hidden.""", [
 ("""Stock prices update every second, so you see every drop. Home values aren't priced every day. You might only learn your home's
