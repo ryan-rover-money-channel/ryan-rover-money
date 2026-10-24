@@ -1,0 +1,11 @@
+- Investment Company Institute, Investment Company Fact Book: fund expense ratios
+- Federal Reserve, G.19 Consumer Credit (credit card interest rates)
+- S&P Dow Jones Indices, SPIVA and Persistence Scorecards
+- IRS, retirement accounts, contribution limits and capital gains tax rules
+- SEC and FINRA investor alerts (pump and dump, finfluencers, leveraged ETFs, margin)
+- Benartzi and Thaler, Myopic Loss Aversion and the Equity Premium Puzzle (Quarterly Journal of Economics, 1995)
+- Barber and Odean, Trading Is Hazardous to Your Wealth (Journal of Finance, 2000)
+- Thaler and Benartzi, Save More Tomorrow (Journal of Political Economy, 2004)
+- Hendrik Bessembinder, Do Stocks Outperform Treasury Bills? (Journal of Financial Economics, 2018)
+- Enron collapse (2001) and employee retirement losses, news and congressional record
+- Growth examples: monthly compounding at stated average yearly returns (illustrations, not promises)
