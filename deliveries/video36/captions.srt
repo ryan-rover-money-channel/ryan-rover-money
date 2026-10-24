@@ -1,0 +1,3999 @@
+1
+00:00:00,000 --> 00:00:01,857
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,037 --> 00:00:04,132
+Here's something that surprises a lot of
+
+3
+00:00:04,132 --> 00:00:04,498
+people.
+
+4
+00:00:04,678 --> 00:00:07,081
+Some of the richest people in America
+
+5
+00:00:07,081 --> 00:00:08,834
+can pay a lower tax rate on
+
+6
+00:00:08,834 --> 00:00:10,523
+their income than a nurse,
+
+7
+00:00:10,523 --> 00:00:12,341
+a teacher or an electrician.
+
+8
+00:00:12,521 --> 00:00:13,933
+And most of the time,
+
+9
+00:00:13,933 --> 00:00:15,412
+it's completely legal.
+
+10
+00:00:15,592 --> 00:00:17,821
+It's not about secret offshore tricks.
+
+11
+00:00:18,001 --> 00:00:19,747
+It's about how the tax code treats
+
+12
+00:00:19,747 --> 00:00:21,031
+different kinds of money.
+
+13
+00:00:21,211 --> 00:00:23,210
+Today I'll show you how it works,
+
+14
+00:00:23,210 --> 00:00:25,209
+and which of those same rules you
+
+15
+00:00:25,209 --> 00:00:26,238
+can use yourself.
+
+16
+00:00:26,588 --> 00:00:27,877
+Here's the key idea.
+
+17
+00:00:28,057 --> 00:00:29,185
+In the United States,
+
+18
+00:00:29,185 --> 00:00:31,548
+money earned from working is generally taxed
+
+19
+00:00:31,548 --> 00:00:33,589
+at higher rates than money earned from
+
+20
+00:00:33,589 --> 00:00:35,683
+owning investments held for more than a
+
+21
+00:00:35,683 --> 00:00:35,952
+year.
+
+22
+00:00:36,132 --> 00:00:38,524
+Top federal rates on wages reach thirty
+
+23
+00:00:38,524 --> 00:00:39,383
+seven percent.
+
+24
+00:00:39,563 --> 00:00:42,097
+Top rates on long term capital gains
+
+25
+00:00:42,097 --> 00:00:43,434
+are twenty percent,
+
+26
+00:00:43,434 --> 00:00:46,180
+plus a three point eight percent surtax
+
+27
+00:00:46,180 --> 00:00:47,376
+for high earners.
+
+28
+00:00:47,726 --> 00:00:49,898
+That single difference explains a lot.
+
+29
+00:00:50,078 --> 00:00:53,141
+Most people's income comes from a paycheck,
+
+30
+00:00:53,141 --> 00:00:55,349
+so most of their money is taxed
+
+31
+00:00:55,349 --> 00:00:57,130
+at ordinary income rates,
+
+32
+00:00:57,130 --> 00:00:58,483
+plus payroll taxes.
+
+33
+00:00:58,663 --> 00:01:00,912
+The very wealthy usually get most of
+
+34
+00:01:00,912 --> 00:01:03,972
+their income from investments and businesses they
+
+35
+00:01:03,972 --> 00:01:06,158
+own, which are often taxed at lower
+
+36
+00:01:06,158 --> 00:01:08,468
+rates, and sometimes not taxed at all
+
+37
+00:01:08,468 --> 00:01:09,530
+until much later.
+
+38
+00:01:09,710 --> 00:01:11,639
+Same country, same tax code,
+
+39
+00:01:11,639 --> 00:01:14,739
+very different results depending on what kind
+
+40
+00:01:14,739 --> 00:01:15,980
+of money you have.
+
+41
+00:01:16,329 --> 00:01:18,721
+We'll explore this from three angles.
+
+42
+00:01:18,901 --> 00:01:20,352
+First, the numbers.
+
+43
+00:01:20,532 --> 00:01:23,055
+The specific rules that let wealthy people
+
+44
+00:01:23,055 --> 00:01:24,015
+pay lower rates.
+
+45
+00:01:24,195 --> 00:01:26,239
+Second, the psychology.
+
+46
+00:01:26,419 --> 00:01:28,803
+How the wealthy think about taxes differently
+
+47
+00:01:28,803 --> 00:01:29,704
+from most people.
+
+48
+00:01:29,884 --> 00:01:31,463
+And third, the playbook.
+
+49
+00:01:31,643 --> 00:01:34,521
+The legal tax advantages ordinary people can
+
+50
+00:01:34,521 --> 00:01:36,090
+use, starting this year.
+
+51
+00:01:36,270 --> 00:01:37,617
+Important reminder.
+
+52
+00:01:37,797 --> 00:01:39,762
+This is general education,
+
+53
+00:01:39,762 --> 00:01:40,897
+not tax advice.
+
+54
+00:01:41,077 --> 00:01:42,690
+Tax laws change often,
+
+55
+00:01:42,690 --> 00:01:44,817
+and your situation is unique,
+
+56
+00:01:44,817 --> 00:01:47,898
+so check with a qualified tax professional
+
+57
+00:01:47,898 --> 00:01:48,925
+before acting.
+
+58
+00:01:49,274 --> 00:01:50,819
+Let's start with the numbers.
+
+59
+00:01:50,999 --> 00:01:52,806
+And the first lesson is about the
+
+60
+00:01:52,806 --> 00:01:53,901
+two kinds of income.
+
+61
+00:01:54,251 --> 00:01:55,029
+Our numbers.
+
+62
+00:01:55,209 --> 00:01:57,761
+Tax rates and account rules come from
+
+63
+00:01:57,761 --> 00:02:01,003
+the IRS and the Social Security Administration.
+
+64
+00:02:01,183 --> 00:02:03,422
+Research on the taxes paid by the
+
+65
+00:02:03,422 --> 00:02:07,153
+wealthiest Americans comes from reporting by ProPublica
+
+66
+00:02:07,153 --> 00:02:09,596
+and from analysis by the White House
+
+67
+00:02:09,596 --> 00:02:12,513
+Council of Economic Advisers and the Office
+
+68
+00:02:12,513 --> 00:02:14,209
+of Management and Budget.
+
+69
+00:02:14,389 --> 00:02:17,665
+Warren Buffett's figures come from his 2011
+
+70
+00:02:17,665 --> 00:02:19,265
+New York Times op ed.
+
+71
+00:02:19,445 --> 00:02:22,235
+Rules and thresholds change every year,
+
+72
+00:02:22,235 --> 00:02:24,739
+so always check the latest numbers.
+
+73
+00:02:25,089 --> 00:02:25,786
+Angle one.
+
+74
+00:02:25,966 --> 00:02:26,663
+The numbers.
+
+75
+00:02:26,843 --> 00:02:29,044
+Seven rules in the tax code that
+
+76
+00:02:29,044 --> 00:02:31,795
+work very differently for people who own
+
+77
+00:02:31,795 --> 00:02:32,276
+assets.
+
+78
+00:02:32,626 --> 00:02:33,683
+Lesson number one.
+
+79
+00:02:33,863 --> 00:02:35,808
+The tax code treats two kinds of
+
+80
+00:02:35,808 --> 00:02:36,963
+income differently.
+
+81
+00:02:37,312 --> 00:02:39,795
+Ordinary income includes wages,
+
+82
+00:02:39,795 --> 00:02:43,798
+salaries, tips, interest and short term investment
+
+83
+00:02:43,798 --> 00:02:44,278
+gains.
+
+84
+00:02:44,458 --> 00:02:46,466
+It's taxed on a progressive scale,
+
+85
+00:02:46,466 --> 00:02:49,006
+with federal rates ranging from ten percent
+
+86
+00:02:49,006 --> 00:02:51,014
+up to thirty seven percent for the
+
+87
+00:02:51,014 --> 00:02:51,959
+highest earners.
+
+88
+00:02:52,139 --> 00:02:53,190
+The more you earn,
+
+89
+00:02:53,190 --> 00:02:55,410
+the higher the rate on each additional
+
+90
+00:02:55,410 --> 00:02:55,819
+dollar.
+
+91
+00:02:56,168 --> 00:02:57,784
+Long term capital gains,
+
+92
+00:02:57,784 --> 00:03:00,745
+meaning profits on investments held for more
+
+93
+00:03:00,745 --> 00:03:01,553
+than a year,
+
+94
+00:03:01,553 --> 00:03:04,111
+and qualified dividends are taxed on a
+
+95
+00:03:04,111 --> 00:03:05,793
+separate, lower schedule.
+
+96
+00:03:05,973 --> 00:03:07,605
+Federal rates are zero,
+
+97
+00:03:07,605 --> 00:03:09,449
+fifteen or twenty percent,
+
+98
+00:03:09,449 --> 00:03:11,790
+depending on your taxable income.
+
+99
+00:03:11,970 --> 00:03:14,283
+High earners may also owe a three
+
+100
+00:03:14,283 --> 00:03:17,508
+point eight percent net investment income tax.
+
+101
+00:03:17,857 --> 00:03:20,186
+So imagine two people who each have
+
+102
+00:03:20,186 --> 00:03:22,447
+one million dollars of income in a
+
+103
+00:03:22,447 --> 00:03:22,780
+year.
+
+104
+00:03:22,960 --> 00:03:24,794
+One earns it as salary.
+
+105
+00:03:24,974 --> 00:03:26,858
+The other earns it as long term
+
+106
+00:03:26,858 --> 00:03:28,864
+capital gains from selling stock.
+
+107
+00:03:29,044 --> 00:03:31,586
+The salary earner faces the top ordinary
+
+108
+00:03:31,586 --> 00:03:32,794
+rate on much of it.
+
+109
+00:03:32,974 --> 00:03:35,356
+The investor faces a top rate of
+
+110
+00:03:35,356 --> 00:03:37,664
+twenty percent plus the surtax.
+
+111
+00:03:37,844 --> 00:03:40,493
+The investor's tax bill can be dramatically
+
+112
+00:03:40,493 --> 00:03:40,863
+lower.
+
+113
+00:03:41,212 --> 00:03:43,968
+Lawmakers have argued for decades about whether
+
+114
+00:03:43,968 --> 00:03:44,730
+this is fair.
+
+115
+00:03:44,910 --> 00:03:48,175
+Supporters say lower rates encourage investment and
+
+116
+00:03:48,175 --> 00:03:50,799
+avoid taxing money that was already taxed
+
+117
+00:03:50,799 --> 00:03:52,271
+at the corporate level.
+
+118
+00:03:52,451 --> 00:03:54,982
+Critics say it mostly benefits the wealthy.
+
+119
+00:03:55,162 --> 00:03:56,452
+Either way, it's the law,
+
+120
+00:03:56,452 --> 00:03:58,618
+and understanding it helps you make better
+
+121
+00:03:58,618 --> 00:04:00,166
+decisions with your own money.
+
+122
+00:04:00,515 --> 00:04:01,735
+Lesson number two.
+
+123
+00:04:01,915 --> 00:04:03,911
+Growth isn't taxed until you sell.
+
+124
+00:04:04,261 --> 00:04:04,772
+In the U.
+
+125
+00:04:04,952 --> 00:04:05,359
+S.
+
+126
+00:04:05,539 --> 00:04:07,882
+tax system, you generally owe tax on
+
+127
+00:04:07,882 --> 00:04:10,355
+an investment gain only when you sell,
+
+128
+00:04:10,355 --> 00:04:12,632
+which is called realizing the gain.
+
+129
+00:04:12,812 --> 00:04:14,229
+If you buy a stock for ten
+
+130
+00:04:14,229 --> 00:04:16,190
+thousand dollars and it grows to one
+
+131
+00:04:16,190 --> 00:04:18,423
+hundred thousand, you owe nothing on that
+
+132
+00:04:18,423 --> 00:04:20,765
+ninety thousand dollar gain until you sell.
+
+133
+00:04:20,945 --> 00:04:22,358
+On paper you're richer,
+
+134
+00:04:22,358 --> 00:04:23,647
+but for tax purposes,
+
+135
+00:04:23,647 --> 00:04:25,183
+nothing has happened yet.
+
+136
+00:04:25,532 --> 00:04:26,807
+For the very wealthy,
+
+137
+00:04:26,807 --> 00:04:28,809
+most of their fortune is often in
+
+138
+00:04:28,809 --> 00:04:31,175
+stock of companies they founded or own.
+
+139
+00:04:31,355 --> 00:04:33,361
+That stock can grow by billions of
+
+140
+00:04:33,361 --> 00:04:34,777
+dollars without any tax,
+
+141
+00:04:34,777 --> 00:04:36,370
+as long as they don't sell.
+
+142
+00:04:36,550 --> 00:04:40,087
+In 2021, ProPublica analyzed IRS data and
+
+143
+00:04:40,087 --> 00:04:44,142
+reported that the twenty five richest Americans
+
+144
+00:04:44,142 --> 00:04:47,592
+paid federal income taxes equal to about
+
+145
+00:04:47,592 --> 00:04:51,043
+three point four percent of their wealth
+
+146
+00:04:51,043 --> 00:04:53,199
+growth from 2014 to 2018.
+
+147
+00:04:53,549 --> 00:04:55,413
+That figure is controversial,
+
+148
+00:04:55,413 --> 00:04:58,176
+because it compares taxes to wealth growth,
+
+149
+00:04:58,176 --> 00:04:59,590
+not to taxable income,
+
+150
+00:04:59,590 --> 00:05:02,418
+and wealth growth isn't income under current
+
+151
+00:05:02,418 --> 00:05:02,675
+law.
+
+152
+00:05:02,855 --> 00:05:04,603
+But it shows how much of the
+
+153
+00:05:04,603 --> 00:05:07,287
+richest people's gains can stay untaxed for
+
+154
+00:05:07,287 --> 00:05:07,661
+years.
+
+155
+00:05:07,841 --> 00:05:10,910
+A separate 2021 White House analysis estimated
+
+156
+00:05:10,910 --> 00:05:13,845
+the wealthiest four hundred families paid an
+
+157
+00:05:13,845 --> 00:05:16,847
+average federal individual income tax rate of
+
+158
+00:05:16,847 --> 00:05:19,916
+about eight percent when unrealized gains were
+
+159
+00:05:19,916 --> 00:05:20,450
+counted.
+
+160
+00:05:20,800 --> 00:05:23,690
+The lesson for regular investors is simple.
+
+161
+00:05:23,870 --> 00:05:26,314
+Holding investments for the long term,
+
+162
+00:05:26,314 --> 00:05:28,243
+instead of constantly selling,
+
+163
+00:05:28,243 --> 00:05:30,879
+lets your money grow without being slowed
+
+164
+00:05:30,879 --> 00:05:32,230
+down by yearly taxes.
+
+165
+00:05:32,410 --> 00:05:34,409
+It's the same rule the wealthy use,
+
+166
+00:05:34,409 --> 00:05:36,408
+and it's available to anyone with a
+
+167
+00:05:36,408 --> 00:05:37,437
+brokerage account.
+
+168
+00:05:37,786 --> 00:05:39,017
+Lesson number three.
+
+169
+00:05:39,197 --> 00:05:40,811
+Borrowing instead of selling.
+
+170
+00:05:41,160 --> 00:05:43,342
+If the wealthy don't sell their assets,
+
+171
+00:05:43,342 --> 00:05:45,131
+how do they pay for their lives?
+
+172
+00:05:45,311 --> 00:05:47,169
+One strategy is borrowing.
+
+173
+00:05:47,349 --> 00:05:49,659
+Banks are often willing to lend large
+
+174
+00:05:49,659 --> 00:05:51,345
+amounts to wealthy clients,
+
+175
+00:05:51,345 --> 00:05:53,593
+using their stock or other assets as
+
+176
+00:05:53,593 --> 00:05:54,280
+collateral.
+
+177
+00:05:54,460 --> 00:05:55,331
+And under U.
+
+178
+00:05:55,511 --> 00:05:55,905
+S.
+
+179
+00:05:56,085 --> 00:05:59,245
+tax law, borrowed money isn't income,
+
+180
+00:05:59,245 --> 00:06:01,124
+so a loan isn't taxed.
+
+181
+00:06:01,474 --> 00:06:03,781
+This is sometimes called buy,
+
+182
+00:06:03,781 --> 00:06:04,736
+borrow, die.
+
+183
+00:06:04,916 --> 00:06:06,472
+Buy assets that grow.
+
+184
+00:06:06,652 --> 00:06:09,178
+Borrow against them to fund your lifestyle,
+
+185
+00:06:09,178 --> 00:06:11,470
+often at relatively low interest rates.
+
+186
+00:06:11,650 --> 00:06:14,327
+Never sell, so you never realize the
+
+187
+00:06:14,327 --> 00:06:14,773
+gains.
+
+188
+00:06:14,953 --> 00:06:16,516
+The assets keep growing,
+
+189
+00:06:16,516 --> 00:06:18,535
+and the loans are repaid later,
+
+190
+00:06:18,535 --> 00:06:19,968
+often from the estate.
+
+191
+00:06:20,319 --> 00:06:22,182
+This doesn't work for everyone,
+
+192
+00:06:22,182 --> 00:06:23,685
+and it carries real risk.
+
+193
+00:06:23,865 --> 00:06:25,942
+If asset values fall sharply,
+
+194
+00:06:25,942 --> 00:06:29,020
+lenders can demand more collateral or force
+
+195
+00:06:29,020 --> 00:06:29,450
+sales.
+
+196
+00:06:29,630 --> 00:06:31,139
+And interest rates matter.
+
+197
+00:06:31,319 --> 00:06:33,150
+When borrowing costs rise,
+
+198
+00:06:33,150 --> 00:06:35,684
+the strategy becomes more expensive.
+
+199
+00:06:35,864 --> 00:06:38,156
+It works best for people with enormous
+
+200
+00:06:38,156 --> 00:06:40,207
+assets relative to their spending.
+
+201
+00:06:40,557 --> 00:06:41,733
+For ordinary people,
+
+202
+00:06:41,733 --> 00:06:44,146
+the takeaway isn't to borrow against your
+
+203
+00:06:44,146 --> 00:06:44,852
+investments.
+
+204
+00:06:45,032 --> 00:06:47,313
+It's to understand why the wealthy rarely
+
+205
+00:06:47,313 --> 00:06:47,981
+sell assets.
+
+206
+00:06:48,161 --> 00:06:50,580
+They know every sale can trigger taxes,
+
+207
+00:06:50,580 --> 00:06:52,689
+so they treat their best assets as
+
+208
+00:06:52,689 --> 00:06:53,619
+things to keep,
+
+209
+00:06:53,619 --> 00:06:55,046
+not things to cash out.
+
+210
+00:06:55,396 --> 00:06:56,568
+Lesson number four.
+
+211
+00:06:56,748 --> 00:06:58,257
+The step up in basis.
+
+212
+00:06:58,608 --> 00:07:00,639
+Here's the final piece of buy,
+
+213
+00:07:00,639 --> 00:07:01,452
+borrow, die.
+
+214
+00:07:01,632 --> 00:07:02,806
+When someone dies,
+
+215
+00:07:02,806 --> 00:07:06,131
+their heirs generally receive inherited assets with
+
+216
+00:07:06,131 --> 00:07:08,022
+a new cost basis equal to the
+
+217
+00:07:08,022 --> 00:07:09,782
+value on the date of death.
+
+218
+00:07:09,962 --> 00:07:12,133
+That's called a step up in basis.
+
+219
+00:07:12,313 --> 00:07:14,400
+All of the gains built up during
+
+220
+00:07:14,400 --> 00:07:17,792
+the original owner's lifetime can effectively escape
+
+221
+00:07:17,792 --> 00:07:18,966
+capital gains tax.
+
+222
+00:07:19,316 --> 00:07:20,349
+Here's an example.
+
+223
+00:07:20,529 --> 00:07:23,191
+Someone buys stock for one hundred thousand
+
+224
+00:07:23,191 --> 00:07:23,687
+dollars.
+
+225
+00:07:23,867 --> 00:07:26,795
+Decades later, it's worth five million when
+
+226
+00:07:26,795 --> 00:07:27,408
+they die.
+
+227
+00:07:27,588 --> 00:07:29,659
+Their heirs inherit it with a basis
+
+228
+00:07:29,659 --> 00:07:30,606
+of five million.
+
+229
+00:07:30,786 --> 00:07:32,244
+If they sell right away,
+
+230
+00:07:32,244 --> 00:07:34,249
+they may owe little or no capital
+
+231
+00:07:34,249 --> 00:07:36,497
+gains tax, even though the stock grew
+
+232
+00:07:36,497 --> 00:07:38,623
+by four point nine million dollars.
+
+233
+00:07:38,973 --> 00:07:41,693
+Large estates may owe federal estate tax,
+
+234
+00:07:41,693 --> 00:07:44,149
+but only above a very high exemption,
+
+235
+00:07:44,149 --> 00:07:47,068
+which was more than thirteen million dollars
+
+236
+00:07:47,068 --> 00:07:48,860
+per person in recent years,
+
+237
+00:07:48,860 --> 00:07:51,050
+and the amount is set by Congress
+
+238
+00:07:51,050 --> 00:07:52,510
+and changes over time.
+
+239
+00:07:52,690 --> 00:07:55,307
+Most families never pay federal estate tax
+
+240
+00:07:55,307 --> 00:07:55,743
+at all.
+
+241
+00:07:56,094 --> 00:07:58,589
+The step up applies to regular families
+
+242
+00:07:58,589 --> 00:07:58,845
+too.
+
+243
+00:07:59,025 --> 00:08:01,646
+A home or stock portfolio passed to
+
+244
+00:08:01,646 --> 00:08:04,342
+children can also receive a step up.
+
+245
+00:08:04,522 --> 00:08:06,579
+That's why estate planning isn't just for
+
+246
+00:08:06,579 --> 00:08:07,030
+the rich.
+
+247
+00:08:07,210 --> 00:08:10,066
+A simple conversation with an estate attorney
+
+248
+00:08:10,066 --> 00:08:11,970
+can save heirs a lot of money.
+
+249
+00:08:12,320 --> 00:08:13,737
+Lesson number five.
+
+250
+00:08:13,917 --> 00:08:16,297
+Payroll taxes hit workers harder.
+
+251
+00:08:16,646 --> 00:08:19,696
+Most workers pay payroll taxes on top
+
+252
+00:08:19,696 --> 00:08:20,849
+of income tax.
+
+253
+00:08:21,029 --> 00:08:23,851
+The Social Security tax is six point
+
+254
+00:08:23,851 --> 00:08:25,496
+two percent of wages,
+
+255
+00:08:25,496 --> 00:08:28,161
+and Medicare tax is one point four
+
+256
+00:08:28,161 --> 00:08:29,180
+five percent.
+
+257
+00:08:29,360 --> 00:08:31,600
+Your employer pays a matching amount.
+
+258
+00:08:31,780 --> 00:08:33,209
+If you're self employed,
+
+259
+00:08:33,209 --> 00:08:35,530
+you generally pay both halves yourself.
+
+260
+00:08:35,880 --> 00:08:38,838
+But the Social Security portion only applies
+
+261
+00:08:38,838 --> 00:08:40,585
+up to a yearly wage limit,
+
+262
+00:08:40,585 --> 00:08:43,206
+which was about one hundred seventy six
+
+263
+00:08:43,206 --> 00:08:46,029
+thousand dollars in 2025 and usually rises
+
+264
+00:08:46,029 --> 00:08:46,701
+each year.
+
+265
+00:08:46,881 --> 00:08:49,558
+Wages above that limit aren't subject to
+
+266
+00:08:49,558 --> 00:08:52,302
+the six point two percent Social Security
+
+267
+00:08:52,302 --> 00:08:52,570
+tax.
+
+268
+00:08:52,750 --> 00:08:55,338
+So a person earning ten million dollars
+
+269
+00:08:55,338 --> 00:08:57,395
+in salary pays that tax only on
+
+270
+00:08:57,395 --> 00:08:58,590
+the first portion.
+
+271
+00:08:58,940 --> 00:09:02,737
+Investment income, like capital gains and dividends,
+
+272
+00:09:02,737 --> 00:09:05,512
+isn't subject to payroll taxes at all,
+
+273
+00:09:05,512 --> 00:09:08,578
+although high earners may owe the separate
+
+274
+00:09:08,578 --> 00:09:12,010
+three point eight percent net investment income
+
+275
+00:09:12,010 --> 00:09:12,303
+tax.
+
+276
+00:09:12,483 --> 00:09:15,140
+For someone whose income is mostly from
+
+277
+00:09:15,140 --> 00:09:18,206
+investments, payroll taxes are a small factor
+
+278
+00:09:18,206 --> 00:09:19,228
+or none at all.
+
+279
+00:09:19,578 --> 00:09:21,860
+That means a middle income worker can
+
+280
+00:09:21,860 --> 00:09:23,587
+pay a combined federal rate,
+
+281
+00:09:23,587 --> 00:09:24,821
+income plus payroll,
+
+282
+00:09:24,821 --> 00:09:27,288
+that's higher than someone who earns far
+
+283
+00:09:27,288 --> 00:09:28,645
+more from investments.
+
+284
+00:09:28,825 --> 00:09:30,665
+It's one of the main reasons people
+
+285
+00:09:30,665 --> 00:09:32,347
+say the rich can pay lower rates
+
+286
+00:09:32,347 --> 00:09:33,504
+than the middle class.
+
+287
+00:09:33,854 --> 00:09:35,258
+Lesson number six.
+
+288
+00:09:35,438 --> 00:09:38,167
+Business owners are taxed on profit.
+
+289
+00:09:38,517 --> 00:09:41,252
+An employee is generally taxed on their
+
+290
+00:09:41,252 --> 00:09:43,637
+gross wages, before most expenses.
+
+291
+00:09:43,817 --> 00:09:46,436
+A business owner is taxed on profit,
+
+292
+00:09:46,436 --> 00:09:48,983
+after legitimate business expenses.
+
+293
+00:09:49,163 --> 00:09:50,891
+Equipment, office costs,
+
+294
+00:09:50,891 --> 00:09:52,762
+business travel, software,
+
+295
+00:09:52,762 --> 00:09:56,073
+and employees' salaries can all reduce taxable
+
+296
+00:09:56,073 --> 00:09:59,384
+profit when they're ordinary and necessary for
+
+297
+00:09:59,384 --> 00:10:00,320
+the business.
+
+298
+00:10:00,671 --> 00:10:03,928
+Real estate investors have another powerful tool,
+
+299
+00:10:03,928 --> 00:10:04,792
+depreciation.
+
+300
+00:10:04,972 --> 00:10:07,355
+The tax code allows owners to deduct
+
+301
+00:10:07,355 --> 00:10:09,804
+part of a rental building's cost each
+
+302
+00:10:09,804 --> 00:10:12,319
+year, even if the property is actually
+
+303
+00:10:12,319 --> 00:10:13,378
+rising in value.
+
+304
+00:10:13,558 --> 00:10:16,958
+Depreciation can reduce or even eliminate taxable
+
+305
+00:10:16,958 --> 00:10:18,555
+rental income on paper,
+
+306
+00:10:18,555 --> 00:10:21,122
+although some of it may be recaptured
+
+307
+00:10:21,122 --> 00:10:22,927
+when the property is sold.
+
+308
+00:10:23,277 --> 00:10:25,955
+Some business owners also qualify for a
+
+309
+00:10:25,955 --> 00:10:28,633
+deduction on qualified business income,
+
+310
+00:10:28,633 --> 00:10:31,242
+which can reduce taxes on certain pass
+
+311
+00:10:31,242 --> 00:10:32,959
+through business profits.
+
+312
+00:10:33,139 --> 00:10:34,600
+These rules are complex,
+
+313
+00:10:34,600 --> 00:10:36,244
+with limits and conditions,
+
+314
+00:10:36,244 --> 00:10:38,557
+which is why business owners often pay
+
+315
+00:10:38,557 --> 00:10:40,140
+for professional tax help.
+
+316
+00:10:40,490 --> 00:10:42,208
+The key word is legitimate.
+
+317
+00:10:42,388 --> 00:10:46,376
+Deducting personal expenses as business expenses is
+
+318
+00:10:46,376 --> 00:10:48,878
+illegal, and the IRS does audit.
+
+319
+00:10:49,058 --> 00:10:51,479
+But a real side business with real
+
+320
+00:10:51,479 --> 00:10:54,541
+expenses can give ordinary people access to
+
+321
+00:10:54,541 --> 00:10:56,535
+some of the same advantages.
+
+322
+00:10:56,885 --> 00:10:58,231
+Lesson number seven.
+
+323
+00:10:58,411 --> 00:10:59,421
+Carried interest.
+
+324
+00:10:59,772 --> 00:11:02,419
+Private equity and hedge fund managers often
+
+325
+00:11:02,419 --> 00:11:05,306
+get paid partly through something called carried
+
+326
+00:11:05,306 --> 00:11:07,713
+interest, a share of the fund's profits.
+
+327
+00:11:07,893 --> 00:11:09,102
+Under current law,
+
+328
+00:11:09,102 --> 00:11:12,261
+if certain holding period requirements are met,
+
+329
+00:11:12,261 --> 00:11:14,345
+that share can be taxed as long
+
+330
+00:11:14,345 --> 00:11:17,436
+term capital gains instead of ordinary income.
+
+331
+00:11:17,787 --> 00:11:20,459
+Critics argue that carried interest is really
+
+332
+00:11:20,459 --> 00:11:21,469
+payment for work,
+
+333
+00:11:21,469 --> 00:11:23,429
+so it should be taxed like wages.
+
+334
+00:11:23,609 --> 00:11:26,109
+Supporters argue it's a return on risk
+
+335
+00:11:26,109 --> 00:11:29,135
+and investment, similar to an ownership stake.
+
+336
+00:11:29,315 --> 00:11:32,704
+Lawmakers have proposed changing it many times,
+
+337
+00:11:32,704 --> 00:11:35,517
+and in 2017 the required holding period
+
+338
+00:11:35,517 --> 00:11:38,113
+was extended to three years for many
+
+339
+00:11:38,113 --> 00:11:38,545
+cases.
+
+340
+00:11:38,896 --> 00:11:41,998
+Carried interest affects relatively few people,
+
+341
+00:11:41,998 --> 00:11:43,912
+but it's a clear example of a
+
+342
+00:11:43,912 --> 00:11:44,968
+broader pattern.
+
+343
+00:11:45,148 --> 00:11:47,033
+When income can be labeled as a
+
+344
+00:11:47,033 --> 00:11:49,466
+return on investment instead of a return
+
+345
+00:11:49,466 --> 00:11:51,352
+on labor, it's often taxed at a
+
+346
+00:11:51,352 --> 00:11:52,021
+lower rate.
+
+347
+00:11:52,371 --> 00:11:53,587
+For ordinary people,
+
+348
+00:11:53,587 --> 00:11:56,446
+the lesson isn't about carried interest itself.
+
+349
+00:11:56,626 --> 00:11:58,390
+It's that owning assets,
+
+350
+00:11:58,390 --> 00:12:00,449
+through retirement accounts,
+
+351
+00:12:00,449 --> 00:12:03,317
+index funds, real estate or a business,
+
+352
+00:12:03,317 --> 00:12:06,405
+shifts more of your income into categories
+
+353
+00:12:06,405 --> 00:12:08,979
+the tax code treats more favorably.
+
+354
+00:12:09,329 --> 00:12:10,315
+That's angle one.
+
+355
+00:12:10,495 --> 00:12:12,081
+Two kinds of income,
+
+356
+00:12:12,081 --> 00:12:14,141
+untaxed growth, borrowing,
+
+357
+00:12:14,141 --> 00:12:15,806
+the step up in basis,
+
+358
+00:12:15,806 --> 00:12:17,312
+payroll tax limits,
+
+359
+00:12:17,312 --> 00:12:20,561
+business deductions and carried interest.
+
+360
+00:12:20,741 --> 00:12:21,937
+Now angle two.
+
+361
+00:12:22,117 --> 00:12:23,255
+The psychology.
+
+362
+00:12:23,605 --> 00:12:25,658
+The wealthy don't just have different rules
+
+363
+00:12:25,658 --> 00:12:26,136
+available.
+
+364
+00:12:26,316 --> 00:12:28,080
+They think about taxes differently.
+
+365
+00:12:28,260 --> 00:12:30,613
+Most people deal with taxes once a
+
+366
+00:12:30,613 --> 00:12:31,651
+year, in April,
+
+367
+00:12:31,651 --> 00:12:33,589
+and try to get it over with.
+
+368
+00:12:33,769 --> 00:12:36,193
+Wealthy people treat taxes as a year
+
+369
+00:12:36,193 --> 00:12:38,820
+round part of every financial decision.
+
+370
+00:12:39,000 --> 00:12:41,229
+Here are seven ways their thinking differs.
+
+371
+00:12:41,579 --> 00:12:42,681
+Lesson number eight.
+
+372
+00:12:42,861 --> 00:12:45,033
+They think in after tax returns.
+
+373
+00:12:45,383 --> 00:12:47,197
+Most people focus on how much they
+
+374
+00:12:47,197 --> 00:12:49,225
+earn or what their investments return.
+
+375
+00:12:49,405 --> 00:12:51,344
+Wealthy people focus on what they keep.
+
+376
+00:12:51,524 --> 00:12:53,930
+A ten percent return taxed at thirty
+
+377
+00:12:53,930 --> 00:12:56,737
+seven percent leaves about six point three
+
+378
+00:12:56,737 --> 00:12:57,271
+percent.
+
+379
+00:12:57,451 --> 00:13:00,022
+A ten percent return taxed at fifteen
+
+380
+00:13:00,022 --> 00:13:02,246
+percent leaves eight and a half.
+
+381
+00:13:02,426 --> 00:13:04,341
+The after tax number is the one
+
+382
+00:13:04,341 --> 00:13:05,514
+that builds wealth.
+
+383
+00:13:05,865 --> 00:13:07,490
+This changes decisions.
+
+384
+00:13:07,670 --> 00:13:09,392
+Where to hold investments,
+
+385
+00:13:09,392 --> 00:13:10,253
+when to sell,
+
+386
+00:13:10,253 --> 00:13:11,312
+how to get paid,
+
+387
+00:13:11,312 --> 00:13:13,498
+whether to take a raise as salary
+
+388
+00:13:13,498 --> 00:13:14,160
+or equity.
+
+389
+00:13:14,340 --> 00:13:17,465
+Every choice gets evaluated through the question,
+
+390
+00:13:17,465 --> 00:13:19,251
+what's the after tax result?
+
+391
+00:13:19,601 --> 00:13:22,166
+Regular people can adopt this same habit.
+
+392
+00:13:22,346 --> 00:13:25,294
+When comparing two investments or two jobs,
+
+393
+00:13:25,294 --> 00:13:28,172
+ask what you'll actually keep after taxes,
+
+394
+00:13:28,172 --> 00:13:30,160
+not just the headline number.
+
+395
+00:13:30,510 --> 00:13:31,276
+Try this.
+
+396
+00:13:31,456 --> 00:13:33,948
+Look at last year's tax return and
+
+397
+00:13:33,948 --> 00:13:36,440
+calculate your effective tax rate,
+
+398
+00:13:36,440 --> 00:13:38,933
+total tax divided by total income.
+
+399
+00:13:39,113 --> 00:13:41,153
+Knowing that number makes the cost of
+
+400
+00:13:41,153 --> 00:13:41,760
+taxes real.
+
+401
+00:13:42,110 --> 00:13:43,387
+Lesson number nine.
+
+402
+00:13:43,567 --> 00:13:44,753
+They plan all year,
+
+403
+00:13:44,753 --> 00:13:45,877
+not just in April.
+
+404
+00:13:46,227 --> 00:13:48,240
+By the time most people file their
+
+405
+00:13:48,240 --> 00:13:50,135
+taxes, the year is over and most
+
+406
+00:13:50,135 --> 00:13:51,497
+opportunities are gone.
+
+407
+00:13:51,677 --> 00:13:54,680
+Retirement contributions, the timing of sales,
+
+408
+00:13:54,680 --> 00:13:57,095
+charitable gifts, business purchases,
+
+409
+00:13:57,095 --> 00:13:59,379
+all of these usually need to happen
+
+410
+00:13:59,379 --> 00:14:01,337
+before the year ends to count.
+
+411
+00:14:01,687 --> 00:14:04,605
+Wealthy families often meet with tax advisors
+
+412
+00:14:04,605 --> 00:14:06,680
+in the fall to plan moves before
+
+413
+00:14:06,680 --> 00:14:08,107
+December thirty first.
+
+414
+00:14:08,287 --> 00:14:10,366
+Should they sell some investments at a
+
+415
+00:14:10,366 --> 00:14:11,514
+loss to offset gains?
+
+416
+00:14:11,694 --> 00:14:13,932
+Should they make a charitable gift this
+
+417
+00:14:13,932 --> 00:14:14,678
+year or next?
+
+418
+00:14:14,858 --> 00:14:17,162
+Should they convert some retirement money to
+
+419
+00:14:17,162 --> 00:14:17,528
+a Roth?
+
+420
+00:14:17,879 --> 00:14:19,841
+You don't need a team of advisors
+
+421
+00:14:19,841 --> 00:14:21,269
+to do a simpler version.
+
+422
+00:14:21,449 --> 00:14:23,912
+A short review in October or November
+
+423
+00:14:23,912 --> 00:14:26,441
+can reveal moves that save real money.
+
+424
+00:14:26,791 --> 00:14:27,592
+Try this.
+
+425
+00:14:27,772 --> 00:14:29,926
+Put a tax planning reminder in your
+
+426
+00:14:29,926 --> 00:14:31,649
+calendar for early November.
+
+427
+00:14:31,829 --> 00:14:34,162
+Check your retirement contributions,
+
+428
+00:14:34,162 --> 00:14:36,299
+your investment gains and losses,
+
+429
+00:14:36,299 --> 00:14:38,308
+and any big expenses coming up.
+
+430
+00:14:38,658 --> 00:14:39,888
+Lesson number ten.
+
+431
+00:14:40,068 --> 00:14:42,065
+They see good tax advice as an
+
+432
+00:14:42,065 --> 00:14:42,797
+investment.
+
+433
+00:14:43,147 --> 00:14:45,237
+Many people try to save money by
+
+434
+00:14:45,237 --> 00:14:47,523
+doing complicated taxes themselves.
+
+435
+00:14:47,703 --> 00:14:50,166
+Wealthy people usually see a good tax
+
+436
+00:14:50,166 --> 00:14:52,162
+professional as an investment.
+
+437
+00:14:52,342 --> 00:14:55,022
+If a five hundred dollar consultation saves
+
+438
+00:14:55,022 --> 00:14:56,892
+two thousand dollars in taxes,
+
+439
+00:14:56,892 --> 00:14:58,263
+that's a great return.
+
+440
+00:14:58,613 --> 00:15:00,344
+For simple situations,
+
+441
+00:15:00,344 --> 00:15:01,839
+a regular paycheck,
+
+442
+00:15:01,839 --> 00:15:05,852
+standard deduction, basic retirement contributions,
+
+443
+00:15:05,852 --> 00:15:09,157
+tax software or free filing programs often
+
+444
+00:15:09,157 --> 00:15:09,944
+work fine.
+
+445
+00:15:10,124 --> 00:15:11,556
+But business income,
+
+446
+00:15:11,556 --> 00:15:14,133
+rental property, stock compensation,
+
+447
+00:15:14,133 --> 00:15:16,639
+big life changes or selling a large
+
+448
+00:15:16,639 --> 00:15:19,574
+investment can justify professional help.
+
+449
+00:15:19,925 --> 00:15:22,833
+Look for credentials like CPA or enrolled
+
+450
+00:15:22,833 --> 00:15:25,033
+agent, and ask how they charge.
+
+451
+00:15:25,213 --> 00:15:27,540
+A good tax professional should save you
+
+452
+00:15:27,540 --> 00:15:29,748
+more than they cost and explain their
+
+453
+00:15:29,748 --> 00:15:31,180
+recommendations clearly.
+
+454
+00:15:31,531 --> 00:15:32,262
+Try this.
+
+455
+00:15:32,442 --> 00:15:35,249
+If your taxes got more complicated this
+
+456
+00:15:35,249 --> 00:15:38,200
+year, book a one time consultation before
+
+457
+00:15:38,200 --> 00:15:39,640
+year end, not after.
+
+458
+00:15:39,991 --> 00:15:41,384
+Lesson number eleven.
+
+459
+00:15:41,564 --> 00:15:42,764
+They focus on owning,
+
+460
+00:15:42,764 --> 00:15:43,735
+not just earning.
+
+461
+00:15:44,085 --> 00:15:45,114
+For most people,
+
+462
+00:15:45,114 --> 00:15:47,558
+wealth building starts and ends with a
+
+463
+00:15:47,558 --> 00:15:48,136
+paycheck.
+
+464
+00:15:48,316 --> 00:15:50,394
+But wages are the most heavily taxed
+
+465
+00:15:50,394 --> 00:15:52,183
+kind of income for most people.
+
+466
+00:15:52,363 --> 00:15:55,046
+Wealthy people focus on owning things that
+
+467
+00:15:55,046 --> 00:15:56,196
+grow, like stocks,
+
+468
+00:15:56,196 --> 00:15:57,922
+businesses and real estate,
+
+469
+00:15:57,922 --> 00:16:00,286
+whose gains are often taxed later and
+
+470
+00:16:00,286 --> 00:16:01,244
+at lower rates.
+
+471
+00:16:01,595 --> 00:16:03,824
+That doesn't mean your paycheck isn't important.
+
+472
+00:16:04,004 --> 00:16:04,923
+For most people,
+
+473
+00:16:04,923 --> 00:16:07,568
+it's the engine that makes investing possible.
+
+474
+00:16:07,748 --> 00:16:09,398
+The goal is to turn part of
+
+475
+00:16:09,398 --> 00:16:10,987
+each paycheck into assets,
+
+476
+00:16:10,987 --> 00:16:12,943
+so over time more of your wealth
+
+477
+00:16:12,943 --> 00:16:14,226
+comes from ownership.
+
+478
+00:16:14,577 --> 00:16:17,730
+Over decades, someone who consistently invests can
+
+479
+00:16:17,730 --> 00:16:19,621
+end up with a large portion of
+
+480
+00:16:19,621 --> 00:16:22,018
+their net worth in assets whose growth
+
+481
+00:16:22,018 --> 00:16:23,342
+has never been taxed.
+
+482
+00:16:23,522 --> 00:16:26,256
+That's the same structure the wealthy use,
+
+483
+00:16:26,256 --> 00:16:27,818
+just at a smaller scale.
+
+484
+00:16:28,168 --> 00:16:28,945
+Try this.
+
+485
+00:16:29,125 --> 00:16:31,090
+Look at your net worth and ask
+
+486
+00:16:31,090 --> 00:16:33,841
+what percentage comes from assets that can
+
+487
+00:16:33,841 --> 00:16:36,265
+grow, rather than cash or things that
+
+488
+00:16:36,265 --> 00:16:36,985
+lose value.
+
+489
+00:16:37,165 --> 00:16:39,952
+Aim to increase that percentage every year.
+
+490
+00:16:40,302 --> 00:16:41,172
+Quick pause.
+
+491
+00:16:41,352 --> 00:16:44,093
+If you're learning something about taxes that
+
+492
+00:16:44,093 --> 00:16:45,798
+nobody taught you in school,
+
+493
+00:16:45,798 --> 00:16:48,051
+please subscribe to Ryan Rover Money.
+
+494
+00:16:48,231 --> 00:16:50,064
+It's free, and it helps us keep
+
+495
+00:16:50,064 --> 00:16:50,832
+making these.
+
+496
+00:16:51,012 --> 00:16:52,556
+Now, lesson twelve.
+
+497
+00:16:52,906 --> 00:16:54,264
+Lesson number twelve.
+
+498
+00:16:54,444 --> 00:16:55,779
+They're patient sellers.
+
+499
+00:16:56,129 --> 00:16:58,816
+Sell an investment after eleven months and
+
+500
+00:16:58,816 --> 00:17:01,312
+the gain is generally taxed as ordinary
+
+501
+00:17:01,312 --> 00:17:01,759
+income.
+
+502
+00:17:01,939 --> 00:17:03,523
+Wait just over a year,
+
+503
+00:17:03,523 --> 00:17:05,898
+and it may qualify for lower long
+
+504
+00:17:05,898 --> 00:17:07,698
+term capital gains rates.
+
+505
+00:17:07,878 --> 00:17:09,780
+A few weeks of patience can make
+
+506
+00:17:09,780 --> 00:17:11,860
+a real difference in what you keep.
+
+507
+00:17:12,211 --> 00:17:16,599
+Wealthy investors also avoid unnecessary selling altogether.
+
+508
+00:17:16,779 --> 00:17:18,901
+Every sale can create a tax bill
+
+509
+00:17:18,901 --> 00:17:21,620
+that shrinks the amount left to compound.
+
+510
+00:17:21,800 --> 00:17:24,209
+Holding great assets for decades lets the
+
+511
+00:17:24,209 --> 00:17:25,678
+full amount keep growing.
+
+512
+00:17:26,029 --> 00:17:28,118
+Frequent traders face the opposite.
+
+513
+00:17:28,298 --> 00:17:30,768
+Short term gains taxed at higher rates,
+
+514
+00:17:30,768 --> 00:17:31,971
+plus trading costs,
+
+515
+00:17:31,971 --> 00:17:33,998
+can seriously drag down returns,
+
+516
+00:17:33,998 --> 00:17:35,961
+even when their picks are good.
+
+517
+00:17:36,311 --> 00:17:37,193
+Try this.
+
+518
+00:17:37,373 --> 00:17:40,138
+Before selling any investment in a taxable
+
+519
+00:17:40,138 --> 00:17:42,639
+account, check how long you've held it
+
+520
+00:17:42,639 --> 00:17:44,351
+and what the tax would be.
+
+521
+00:17:44,531 --> 00:17:46,695
+Sometimes waiting a bit longer is the
+
+522
+00:17:46,695 --> 00:17:47,514
+smartest move.
+
+523
+00:17:47,865 --> 00:17:49,385
+Lesson number thirteen.
+
+524
+00:17:49,565 --> 00:17:50,808
+They give strategically.
+
+525
+00:17:51,158 --> 00:17:54,870
+Many wealthy people donate appreciated stock instead
+
+526
+00:17:54,870 --> 00:17:55,442
+of cash.
+
+527
+00:17:55,622 --> 00:17:57,844
+If you've held a stock for more
+
+528
+00:17:57,844 --> 00:17:59,922
+than a year and it has grown,
+
+529
+00:17:59,922 --> 00:18:03,004
+donating it directly to a qualified charity
+
+530
+00:18:03,004 --> 00:18:05,513
+can let you avoid capital gains tax
+
+531
+00:18:05,513 --> 00:18:06,516
+on the growth,
+
+532
+00:18:06,516 --> 00:18:07,950
+and, if you itemize,
+
+533
+00:18:07,950 --> 00:18:10,028
+deduct its fair market value,
+
+534
+00:18:10,028 --> 00:18:11,318
+within IRS limits.
+
+535
+00:18:11,669 --> 00:18:13,763
+Some also use donor advised funds,
+
+536
+00:18:13,763 --> 00:18:16,103
+which let them make a large charitable
+
+537
+00:18:16,103 --> 00:18:17,643
+contribution in one year,
+
+538
+00:18:17,643 --> 00:18:19,861
+take the deduction that year if they
+
+539
+00:18:19,861 --> 00:18:22,756
+itemize, and then recommend grants to charities
+
+540
+00:18:22,756 --> 00:18:23,371
+over time.
+
+541
+00:18:23,722 --> 00:18:25,930
+People seventy and a half or older
+
+542
+00:18:25,930 --> 00:18:28,204
+can often give directly from an IRA
+
+543
+00:18:28,204 --> 00:18:31,777
+to charity through a qualified charitable distribution,
+
+544
+00:18:31,777 --> 00:18:35,220
+which can count toward required minimum distributions
+
+545
+00:18:35,220 --> 00:18:37,363
+without adding to taxable income.
+
+546
+00:18:37,543 --> 00:18:39,625
+The rules have specific limits,
+
+547
+00:18:39,625 --> 00:18:41,909
+so check the current IRS guidance.
+
+548
+00:18:42,259 --> 00:18:42,932
+Try this.
+
+549
+00:18:43,112 --> 00:18:45,013
+If you already give to charity,
+
+550
+00:18:45,013 --> 00:18:48,262
+ask whether giving appreciated investments instead of
+
+551
+00:18:48,262 --> 00:18:50,531
+cash would make your gift go further.
+
+552
+00:18:50,881 --> 00:18:52,355
+Lesson number fourteen.
+
+553
+00:18:52,535 --> 00:18:54,536
+They see taxes as one of their
+
+554
+00:18:54,536 --> 00:18:55,670
+biggest expenses.
+
+555
+00:18:56,020 --> 00:18:57,398
+For many households,
+
+556
+00:18:57,398 --> 00:18:58,915
+taxes, federal, state,
+
+557
+00:18:58,915 --> 00:19:01,327
+local, payroll, property and sales,
+
+558
+00:19:01,327 --> 00:19:03,257
+add up to one of the largest
+
+559
+00:19:03,257 --> 00:19:04,912
+expenses in their lives,
+
+560
+00:19:04,912 --> 00:19:06,979
+sometimes larger than housing.
+
+561
+00:19:07,159 --> 00:19:09,406
+Yet most people spend far more time
+
+562
+00:19:09,406 --> 00:19:12,999
+comparing grocery prices than understanding their taxes.
+
+563
+00:19:13,350 --> 00:19:16,018
+Wealthy people manage taxes the way they
+
+564
+00:19:16,018 --> 00:19:17,552
+manage any big expense.
+
+565
+00:19:17,732 --> 00:19:19,617
+They look for legal ways to reduce
+
+566
+00:19:19,617 --> 00:19:21,169
+it, plan ahead and track it.
+
+567
+00:19:21,349 --> 00:19:23,328
+Saving a few percent on a huge
+
+568
+00:19:23,328 --> 00:19:26,034
+expense can matter more than cutting many
+
+569
+00:19:26,034 --> 00:19:26,759
+small ones.
+
+570
+00:19:27,110 --> 00:19:29,292
+This isn't about avoiding your fair share.
+
+571
+00:19:29,472 --> 00:19:32,060
+It's about using the rules Congress wrote,
+
+572
+00:19:32,060 --> 00:19:34,648
+many of which were created specifically to
+
+573
+00:19:34,648 --> 00:19:36,619
+encourage saving for retirement,
+
+574
+00:19:36,619 --> 00:19:38,714
+health care, education and giving.
+
+575
+00:19:39,064 --> 00:19:39,911
+Try this.
+
+576
+00:19:40,091 --> 00:19:42,313
+Add up every tax you paid last
+
+577
+00:19:42,313 --> 00:19:44,091
+year, including payroll,
+
+578
+00:19:44,091 --> 00:19:45,943
+property and state taxes.
+
+579
+00:19:46,123 --> 00:19:48,055
+Seeing the full number is often a
+
+580
+00:19:48,055 --> 00:19:48,816
+wake up call.
+
+581
+00:19:49,166 --> 00:19:50,176
+That's angle two.
+
+582
+00:19:50,356 --> 00:19:51,819
+After tax thinking,
+
+583
+00:19:51,819 --> 00:19:53,359
+year round planning,
+
+584
+00:19:53,359 --> 00:19:55,130
+paying for good advice,
+
+585
+00:19:55,130 --> 00:19:57,517
+owning instead of just earning,
+
+586
+00:19:57,517 --> 00:20:01,213
+patience, strategic giving and treating taxes as
+
+587
+00:20:01,213 --> 00:20:02,291
+a big expense.
+
+588
+00:20:02,471 --> 00:20:03,690
+Now angle three.
+
+589
+00:20:03,870 --> 00:20:04,648
+The playbook.
+
+590
+00:20:04,998 --> 00:20:07,155
+You don't need to be a billionaire
+
+591
+00:20:07,155 --> 00:20:08,550
+to use tax advantages.
+
+592
+00:20:08,730 --> 00:20:10,912
+Many of the most powerful ones were
+
+593
+00:20:10,912 --> 00:20:12,782
+designed for ordinary workers.
+
+594
+00:20:12,962 --> 00:20:14,755
+Here are six legal moves that can
+
+595
+00:20:14,755 --> 00:20:16,711
+lower your taxes and help your money
+
+596
+00:20:16,711 --> 00:20:17,362
+grow faster.
+
+597
+00:20:17,542 --> 00:20:20,798
+Remember, rules and limits change every year,
+
+598
+00:20:20,798 --> 00:20:23,475
+so check the current numbers with the
+
+599
+00:20:23,475 --> 00:20:25,356
+IRS or a tax professional.
+
+600
+00:20:25,706 --> 00:20:27,064
+Move number fifteen.
+
+601
+00:20:27,244 --> 00:20:29,520
+Use pre tax retirement accounts.
+
+602
+00:20:29,870 --> 00:20:32,795
+Contributions to a traditional four oh one
+
+603
+00:20:32,795 --> 00:20:35,164
+k, and in many cases a traditional
+
+604
+00:20:35,164 --> 00:20:37,950
+IRA, can reduce your taxable income this
+
+605
+00:20:37,950 --> 00:20:38,299
+year.
+
+606
+00:20:38,479 --> 00:20:40,453
+If you're in the twenty two percent
+
+607
+00:20:40,453 --> 00:20:43,103
+federal bracket, every one thousand dollars you
+
+608
+00:20:43,103 --> 00:20:45,585
+contribute could cut your federal income tax
+
+609
+00:20:45,585 --> 00:20:47,616
+by about two hundred twenty dollars.
+
+610
+00:20:47,966 --> 00:20:50,009
+The money then grows tax deferred.
+
+611
+00:20:50,189 --> 00:20:52,544
+You don't pay tax on dividends or
+
+612
+00:20:52,544 --> 00:20:53,686
+gains each year,
+
+613
+00:20:53,686 --> 00:20:56,470
+so more stays invested and compounding.
+
+614
+00:20:56,650 --> 00:20:59,075
+You'll pay ordinary income tax when you
+
+615
+00:20:59,075 --> 00:21:00,692
+withdraw it in retirement,
+
+616
+00:21:00,692 --> 00:21:02,993
+ideally when your income and tax rate
+
+617
+00:21:02,993 --> 00:21:03,802
+may be lower.
+
+618
+00:21:04,152 --> 00:21:05,667
+Add the employer match,
+
+619
+00:21:05,667 --> 00:21:07,315
+and a pre tax four oh one
+
+620
+00:21:07,315 --> 00:21:09,556
+k becomes one of the most powerful
+
+621
+00:21:09,556 --> 00:21:12,917
+wealth building tools available to regular workers.
+
+622
+00:21:13,267 --> 00:21:14,091
+Try this.
+
+623
+00:21:14,271 --> 00:21:17,335
+Increase your four oh one k contribution
+
+624
+00:21:17,335 --> 00:21:19,019
+by one or two percent.
+
+625
+00:21:19,199 --> 00:21:21,242
+Because it comes out before taxes,
+
+626
+00:21:21,242 --> 00:21:23,165
+your take home pay falls by less
+
+627
+00:21:23,165 --> 00:21:25,028
+than the amount you contribute.
+
+628
+00:21:25,378 --> 00:21:26,782
+Move number sixteen.
+
+629
+00:21:26,962 --> 00:21:29,366
+Use Roth accounts for tax free growth.
+
+630
+00:21:29,716 --> 00:21:31,956
+With a Roth IRA or Roth four
+
+631
+00:21:31,956 --> 00:21:32,677
+oh one k,
+
+632
+00:21:32,677 --> 00:21:36,198
+you contribute money you've already paid tax
+
+633
+00:21:36,198 --> 00:21:36,438
+on.
+
+634
+00:21:36,618 --> 00:21:39,452
+But qualified withdrawals in retirement,
+
+635
+00:21:39,452 --> 00:21:41,223
+including all the growth,
+
+636
+00:21:41,223 --> 00:21:42,144
+are tax free.
+
+637
+00:21:42,324 --> 00:21:43,592
+For a young investor,
+
+638
+00:21:43,592 --> 00:21:45,947
+decades of growth could never be taxed.
+
+639
+00:21:46,297 --> 00:21:49,502
+Roth accounts are especially attractive when your
+
+640
+00:21:49,502 --> 00:21:51,596
+tax rate today is lower than you
+
+641
+00:21:51,596 --> 00:21:53,035
+expect it to be later,
+
+642
+00:21:53,035 --> 00:21:55,260
+which is common early in a career.
+
+643
+00:21:55,440 --> 00:21:57,967
+Many people use a mix of traditional
+
+644
+00:21:57,967 --> 00:22:00,774
+and Roth accounts to keep flexibility in
+
+645
+00:22:00,774 --> 00:22:01,546
+retirement.
+
+646
+00:22:01,897 --> 00:22:04,668
+Roth IRAs have income limits for direct
+
+647
+00:22:04,668 --> 00:22:07,865
+contributions and yearly contribution limits,
+
+648
+00:22:07,865 --> 00:22:10,209
+so check the current IRS numbers.
+
+649
+00:22:10,389 --> 00:22:12,296
+Roth four oh one k accounts,
+
+650
+00:22:12,296 --> 00:22:14,066
+offered by many employers,
+
+651
+00:22:14,066 --> 00:22:16,380
+don't have the same income limits.
+
+652
+00:22:16,730 --> 00:22:17,578
+Try this.
+
+653
+00:22:17,758 --> 00:22:20,429
+If you're eligible and don't have one,
+
+654
+00:22:20,429 --> 00:22:22,257
+open a Roth IRA and set up
+
+655
+00:22:22,257 --> 00:22:25,350
+even a small automatic monthly contribution.
+
+656
+00:22:25,700 --> 00:22:27,151
+Move number seventeen.
+
+657
+00:22:27,331 --> 00:22:29,571
+Use a health savings account if you
+
+658
+00:22:29,571 --> 00:22:29,827
+can.
+
+659
+00:22:30,177 --> 00:22:32,701
+If you have a qualifying high deductible
+
+660
+00:22:32,701 --> 00:22:34,658
+health plan, you may be able to
+
+661
+00:22:34,658 --> 00:22:37,119
+contribute to a health savings account,
+
+662
+00:22:37,119 --> 00:22:37,561
+or HSA.
+
+663
+00:22:37,741 --> 00:22:40,774
+HSAs offer what's often called a triple
+
+664
+00:22:40,774 --> 00:22:41,863
+tax advantage.
+
+665
+00:22:42,043 --> 00:22:44,785
+Contributions can be tax deductible,
+
+666
+00:22:44,785 --> 00:22:46,232
+growth is tax free,
+
+667
+00:22:46,232 --> 00:22:50,041
+and withdrawals for qualified medical expenses are
+
+668
+00:22:50,041 --> 00:22:50,727
+tax free.
+
+669
+00:22:51,077 --> 00:22:53,262
+Many people use their HSA like a
+
+670
+00:22:53,262 --> 00:22:55,651
+checking account for medical bills.
+
+671
+00:22:55,831 --> 00:22:58,637
+But some HSA providers let you invest
+
+672
+00:22:58,637 --> 00:22:59,547
+the balance.
+
+673
+00:22:59,727 --> 00:23:01,816
+If you can afford to pay current
+
+674
+00:23:01,816 --> 00:23:04,100
+medical costs out of pocket and let
+
+675
+00:23:04,100 --> 00:23:04,949
+the HSA grow,
+
+676
+00:23:04,949 --> 00:23:07,169
+it can become a powerful long term
+
+677
+00:23:07,169 --> 00:23:07,691
+account.
+
+678
+00:23:08,041 --> 00:23:09,686
+After age sixty five,
+
+679
+00:23:09,686 --> 00:23:12,819
+you can generally withdraw HSA money for
+
+680
+00:23:12,819 --> 00:23:14,777
+non medical expenses too,
+
+681
+00:23:14,777 --> 00:23:16,892
+paying ordinary income tax,
+
+682
+00:23:16,892 --> 00:23:19,163
+similar to a traditional IRA.
+
+683
+00:23:19,343 --> 00:23:22,587
+Medical withdrawals remain tax free at any
+
+684
+00:23:22,587 --> 00:23:22,896
+age.
+
+685
+00:23:23,076 --> 00:23:26,679
+Keep receipts, because qualified expenses can often
+
+686
+00:23:26,679 --> 00:23:28,092
+be reimbursed later.
+
+687
+00:23:28,441 --> 00:23:29,231
+Try this.
+
+688
+00:23:29,411 --> 00:23:31,828
+Check whether your health plan is HSA
+
+689
+00:23:31,828 --> 00:23:33,919
+eligible during open enrollment,
+
+690
+00:23:33,919 --> 00:23:35,422
+and if you have an HSA,
+
+691
+00:23:35,422 --> 00:23:37,905
+see whether you can invest the balance
+
+692
+00:23:37,905 --> 00:23:39,082
+in low cost funds.
+
+693
+00:23:39,432 --> 00:23:40,895
+Move number eighteen.
+
+694
+00:23:41,075 --> 00:23:43,682
+Hold investments long term and know about
+
+695
+00:23:43,682 --> 00:23:45,080
+the zero percent rate.
+
+696
+00:23:45,430 --> 00:23:48,492
+Long term capital gains and qualified dividends
+
+697
+00:23:48,492 --> 00:23:50,576
+can be taxed at zero percent for
+
+698
+00:23:50,576 --> 00:23:53,963
+people with taxable income below certain thresholds.
+
+699
+00:23:54,143 --> 00:23:56,590
+Those thresholds are adjusted each year,
+
+700
+00:23:56,590 --> 00:23:58,792
+and for many lower and middle income
+
+701
+00:23:58,792 --> 00:24:01,178
+households, especially married couples,
+
+702
+00:24:01,178 --> 00:24:03,257
+they're higher than people expect.
+
+703
+00:24:03,607 --> 00:24:06,487
+That means some retirees and modest earners
+
+704
+00:24:06,487 --> 00:24:09,098
+can sell investments with gains and owe
+
+705
+00:24:09,098 --> 00:24:11,107
+no federal tax on those gains,
+
+706
+00:24:11,107 --> 00:24:13,585
+as long as their taxable income stays
+
+707
+00:24:13,585 --> 00:24:14,857
+within the bracket.
+
+708
+00:24:15,037 --> 00:24:17,387
+Some people use low income years to
+
+709
+00:24:17,387 --> 00:24:19,066
+realize gains on purpose.
+
+710
+00:24:19,416 --> 00:24:20,384
+And for everyone,
+
+711
+00:24:20,384 --> 00:24:22,662
+holding investments for more than a year
+
+712
+00:24:22,662 --> 00:24:25,396
+before selling generally qualifies gains for the
+
+713
+00:24:25,396 --> 00:24:27,731
+lower long term rates instead of ordinary
+
+714
+00:24:27,731 --> 00:24:28,472
+income rates.
+
+715
+00:24:28,822 --> 00:24:29,658
+Try this.
+
+716
+00:24:29,838 --> 00:24:32,488
+Look up the current long term capital
+
+717
+00:24:32,488 --> 00:24:35,137
+gains brackets on the IRS website and
+
+718
+00:24:35,137 --> 00:24:37,858
+see which rate applies to your taxable
+
+719
+00:24:37,858 --> 00:24:38,360
+income.
+
+720
+00:24:38,710 --> 00:24:39,964
+Move number nineteen.
+
+721
+00:24:40,144 --> 00:24:43,464
+Use tax loss harvesting in taxable accounts.
+
+722
+00:24:43,814 --> 00:24:46,151
+If an investment in a regular taxable
+
+723
+00:24:46,151 --> 00:24:48,614
+account has fallen below what you paid,
+
+724
+00:24:48,614 --> 00:24:50,383
+you can sell it to realize a
+
+725
+00:24:50,383 --> 00:24:50,699
+loss.
+
+726
+00:24:50,879 --> 00:24:53,041
+That loss can offset capital gains,
+
+727
+00:24:53,041 --> 00:24:54,709
+and if losses exceed gains,
+
+728
+00:24:54,709 --> 00:24:56,871
+up to three thousand dollars a year
+
+729
+00:24:56,871 --> 00:24:59,157
+can generally offset ordinary income.
+
+730
+00:24:59,337 --> 00:25:01,681
+Extra losses can be carried forward to
+
+731
+00:25:01,681 --> 00:25:02,483
+future years.
+
+732
+00:25:02,833 --> 00:25:05,172
+Many investors then buy a similar,
+
+733
+00:25:05,172 --> 00:25:07,374
+but not substantially identical,
+
+734
+00:25:07,374 --> 00:25:10,263
+investment to stay invested in the market.
+
+735
+00:25:10,443 --> 00:25:12,720
+That way they keep their market exposure
+
+736
+00:25:12,720 --> 00:25:14,542
+while capturing the tax benefit.
+
+737
+00:25:14,892 --> 00:25:17,214
+Watch out for the wash sale rule.
+
+738
+00:25:17,394 --> 00:25:18,887
+If you buy the same or a
+
+739
+00:25:18,887 --> 00:25:22,619
+substantially identical investment within thirty days before
+
+740
+00:25:22,619 --> 00:25:23,739
+or after the sale,
+
+741
+00:25:23,739 --> 00:25:25,916
+the loss can be disallowed for now.
+
+742
+00:25:26,096 --> 00:25:27,803
+Many brokerages track this,
+
+743
+00:25:27,803 --> 00:25:29,637
+but it's your responsibility.
+
+744
+00:25:29,987 --> 00:25:30,823
+Try this.
+
+745
+00:25:31,003 --> 00:25:32,423
+Near the end of the year,
+
+746
+00:25:32,423 --> 00:25:35,149
+review your taxable account for investments with
+
+747
+00:25:35,149 --> 00:25:37,989
+losses, and consider whether harvesting them makes
+
+748
+00:25:37,989 --> 00:25:39,409
+sense for your situation.
+
+749
+00:25:39,758 --> 00:25:40,803
+Move number twenty.
+
+750
+00:25:40,983 --> 00:25:42,922
+Build income from ownership.
+
+751
+00:25:43,272 --> 00:25:45,650
+A real side business can open up
+
+752
+00:25:45,650 --> 00:25:48,474
+legitimate deductions, like equipment,
+
+753
+00:25:48,474 --> 00:25:51,150
+software, a portion of a home office
+
+754
+00:25:51,150 --> 00:25:52,265
+if you qualify,
+
+755
+00:25:52,265 --> 00:25:53,826
+and business mileage.
+
+756
+00:25:54,006 --> 00:25:57,537
+Self employed people can also open retirement
+
+757
+00:25:57,537 --> 00:25:59,735
+accounts like a SEP IRA or a
+
+758
+00:25:59,735 --> 00:26:01,226
+solo four oh one k,
+
+759
+00:26:01,226 --> 00:26:04,129
+which can allow larger contributions.
+
+760
+00:26:04,479 --> 00:26:06,885
+Rental real estate is another path,
+
+761
+00:26:06,885 --> 00:26:09,704
+with depreciation and expense deductions.
+
+762
+00:26:09,884 --> 00:26:11,710
+But it comes with real work,
+
+763
+00:26:11,710 --> 00:26:12,689
+risk and rules,
+
+764
+00:26:12,689 --> 00:26:15,755
+including limits on deducting rental losses for
+
+765
+00:26:15,755 --> 00:26:16,733
+many taxpayers.
+
+766
+00:26:17,083 --> 00:26:19,159
+The goal isn't to start a business
+
+767
+00:26:19,159 --> 00:26:20,380
+just for tax breaks.
+
+768
+00:26:20,560 --> 00:26:22,915
+It's to build something that earns money,
+
+769
+00:26:22,915 --> 00:26:25,040
+and then make sure you're using every
+
+770
+00:26:25,040 --> 00:26:28,084
+legitimate deduction and account available to owners.
+
+771
+00:26:28,433 --> 00:26:29,211
+Try this.
+
+772
+00:26:29,391 --> 00:26:30,973
+If you have side income,
+
+773
+00:26:30,973 --> 00:26:33,873
+track every legitimate business expense in a
+
+774
+00:26:33,873 --> 00:26:36,443
+simple spreadsheet or app from day one,
+
+775
+00:26:36,443 --> 00:26:39,013
+and keep business and personal money in
+
+776
+00:26:39,013 --> 00:26:40,200
+separate accounts.
+
+777
+00:26:40,550 --> 00:26:43,449
+In 2011, Warren Buffett wrote an opinion
+
+778
+00:26:43,449 --> 00:26:45,913
+piece in The New York Times called
+
+779
+00:26:45,913 --> 00:26:48,015
+Stop Coddling the Super Rich.
+
+780
+00:26:48,195 --> 00:26:49,720
+He said that in 2010,
+
+781
+00:26:49,720 --> 00:26:52,552
+the federal income and payroll taxes he
+
+782
+00:26:52,552 --> 00:26:55,747
+paid were about seventeen point four percent
+
+783
+00:26:55,747 --> 00:26:57,344
+of his taxable income.
+
+784
+00:26:57,524 --> 00:26:59,526
+That was a lower percentage than any
+
+785
+00:26:59,526 --> 00:27:01,361
+of the other twenty people in his
+
+786
+00:27:01,361 --> 00:27:01,750
+office.
+
+787
+00:27:02,100 --> 00:27:03,472
+According to Buffett,
+
+788
+00:27:03,472 --> 00:27:05,758
+the tax burdens of his office staff
+
+789
+00:27:05,758 --> 00:27:08,176
+ranged from thirty three to forty one
+
+790
+00:27:08,176 --> 00:27:10,854
+percent, and averaged thirty six percent.
+
+791
+00:27:11,034 --> 00:27:13,170
+The difference wasn't illegal tricks.
+
+792
+00:27:13,350 --> 00:27:15,990
+Most of his income came from investments
+
+793
+00:27:15,990 --> 00:27:17,375
+taxed at lower rates,
+
+794
+00:27:17,375 --> 00:27:20,081
+while his staff mostly earned wages taxed
+
+795
+00:27:20,081 --> 00:27:22,522
+at ordinary rates plus payroll taxes.
+
+796
+00:27:22,872 --> 00:27:25,275
+Buffett argued that the rules should change.
+
+797
+00:27:25,455 --> 00:27:27,269
+Whether you agree or not,
+
+798
+00:27:27,269 --> 00:27:29,882
+his example shows the core lesson of
+
+799
+00:27:29,882 --> 00:27:30,680
+this video.
+
+800
+00:27:30,860 --> 00:27:33,452
+The tax code rewards owning assets more
+
+801
+00:27:33,452 --> 00:27:34,714
+than earning wages.
+
+802
+00:27:34,894 --> 00:27:36,440
+You can't change the code,
+
+803
+00:27:36,440 --> 00:27:38,165
+but you can change the mix of
+
+804
+00:27:38,165 --> 00:27:40,781
+your income over time by building ownership.
+
+805
+00:27:41,130 --> 00:27:43,288
+Let's make this concrete with a simple
+
+806
+00:27:43,288 --> 00:27:43,742
+example.
+
+807
+00:27:43,922 --> 00:27:46,998
+Meet Sam, who earns seventy thousand dollars
+
+808
+00:27:46,998 --> 00:27:49,095
+a year in salary and has never
+
+809
+00:27:49,095 --> 00:27:50,842
+thought much about taxes.
+
+810
+00:27:51,022 --> 00:27:53,115
+Here are three legal changes Sam could
+
+811
+00:27:53,115 --> 00:27:53,390
+make.
+
+812
+00:27:53,570 --> 00:27:56,349
+The exact savings depend on Sam's full
+
+813
+00:27:56,349 --> 00:27:59,933
+situation, so treat these as rough illustrations.
+
+814
+00:28:00,282 --> 00:28:01,106
+Change one.
+
+815
+00:28:01,286 --> 00:28:03,380
+Sam raises their four oh one k
+
+816
+00:28:03,380 --> 00:28:06,591
+contribution from three percent to ten percent
+
+817
+00:28:06,591 --> 00:28:07,289
+of salary.
+
+818
+00:28:07,469 --> 00:28:09,888
+That's an extra four thousand nine hundred
+
+819
+00:28:09,888 --> 00:28:12,020
+dollars a year going in before taxes.
+
+820
+00:28:12,200 --> 00:28:14,955
+In the twenty two percent federal bracket,
+
+821
+00:28:14,955 --> 00:28:17,645
+that could lower Sam's federal income tax
+
+822
+00:28:17,645 --> 00:28:20,204
+by roughly one thousand dollars a year,
+
+823
+00:28:20,204 --> 00:28:22,959
+while capturing more of the employer match
+
+824
+00:28:22,959 --> 00:28:24,599
+and growing tax deferred.
+
+825
+00:28:24,949 --> 00:28:25,820
+Change two.
+
+826
+00:28:26,000 --> 00:28:28,405
+Sam switches to an HSA eligible health
+
+827
+00:28:28,405 --> 00:28:29,924
+plan at open enrollment,
+
+828
+00:28:29,924 --> 00:28:32,329
+after checking that it makes sense for
+
+829
+00:28:32,329 --> 00:28:33,531
+their health needs,
+
+830
+00:28:33,531 --> 00:28:36,063
+and contributes a few thousand dollars a
+
+831
+00:28:36,063 --> 00:28:36,379
+year.
+
+832
+00:28:36,559 --> 00:28:40,042
+Those contributions can also reduce taxable income,
+
+833
+00:28:40,042 --> 00:28:42,159
+and if Sam invests the balance,
+
+834
+00:28:42,159 --> 00:28:44,276
+it can grow tax free for future
+
+835
+00:28:44,276 --> 00:28:45,232
+medical costs.
+
+836
+00:28:45,582 --> 00:28:46,557
+Change three.
+
+837
+00:28:46,737 --> 00:28:49,450
+Sam opens a Roth IRA and invests
+
+838
+00:28:49,450 --> 00:28:52,163
+a few hundred dollars a month in
+
+839
+00:28:52,163 --> 00:28:54,028
+a low cost index fund.
+
+840
+00:28:54,208 --> 00:28:55,463
+No tax break today,
+
+841
+00:28:55,463 --> 00:28:57,840
+but decades of growth that may never
+
+842
+00:28:57,840 --> 00:28:58,434
+be taxed.
+
+843
+00:28:58,614 --> 00:29:00,575
+Now Sam has pre tax money,
+
+844
+00:29:00,575 --> 00:29:02,988
+tax free money and health money,
+
+845
+00:29:02,988 --> 00:29:06,156
+which gives flexibility to manage taxes in
+
+846
+00:29:06,156 --> 00:29:06,985
+retirement.
+
+847
+00:29:07,335 --> 00:29:10,092
+None of these changes required a higher
+
+848
+00:29:10,092 --> 00:29:12,283
+income, a business or a team of
+
+849
+00:29:12,283 --> 00:29:12,920
+advisors.
+
+850
+00:29:13,100 --> 00:29:14,561
+Just a few forms and a little
+
+851
+00:29:14,561 --> 00:29:15,015
+planning.
+
+852
+00:29:15,195 --> 00:29:17,818
+That's how ordinary workers start using the
+
+853
+00:29:17,818 --> 00:29:19,770
+same basic idea the wealthy use.
+
+854
+00:29:19,950 --> 00:29:21,685
+Keep more, invest more,
+
+855
+00:29:21,685 --> 00:29:24,176
+and let ownership grow over time.
+
+856
+00:29:24,525 --> 00:29:26,649
+In your twenties and early career,
+
+857
+00:29:26,649 --> 00:29:28,711
+your tax rate is often lower than
+
+858
+00:29:28,711 --> 00:29:29,773
+it will be later.
+
+859
+00:29:29,953 --> 00:29:33,593
+That can make Roth contributions especially attractive,
+
+860
+00:29:33,593 --> 00:29:35,446
+because you pay tax now at a
+
+861
+00:29:35,446 --> 00:29:37,828
+low rate and can withdraw growth tax
+
+862
+00:29:37,828 --> 00:29:38,556
+free later.
+
+863
+00:29:38,736 --> 00:29:41,232
+Always grab the employer match first.
+
+864
+00:29:41,582 --> 00:29:43,465
+In your peak earning years,
+
+865
+00:29:43,465 --> 00:29:46,883
+pre tax contributions often become more valuable,
+
+866
+00:29:46,883 --> 00:29:49,743
+because each dollar saved avoids a higher
+
+867
+00:29:49,743 --> 00:29:50,371
+tax rate.
+
+868
+00:29:50,551 --> 00:29:52,031
+This is also when HSAs,
+
+869
+00:29:52,031 --> 00:29:54,991
+catch up contributions after fifty and careful
+
+870
+00:29:54,991 --> 00:29:57,436
+year end planning can make the biggest
+
+871
+00:29:57,436 --> 00:29:58,144
+difference.
+
+872
+00:29:58,494 --> 00:30:00,002
+Near and in retirement,
+
+873
+00:30:00,002 --> 00:30:02,035
+planning shifts to withdrawals.
+
+874
+00:30:02,215 --> 00:30:04,409
+Which accounts to draw from first,
+
+875
+00:30:04,409 --> 00:30:06,796
+whether to convert some money to Roth
+
+876
+00:30:06,796 --> 00:30:08,086
+in low income years,
+
+877
+00:30:08,086 --> 00:30:11,248
+and how to manage required minimum distributions.
+
+878
+00:30:11,428 --> 00:30:14,604
+A tax professional can be especially valuable
+
+879
+00:30:14,604 --> 00:30:14,957
+here.
+
+880
+00:30:15,307 --> 00:30:16,294
+Question one.
+
+881
+00:30:16,474 --> 00:30:18,007
+Is this tax evasion?
+
+882
+00:30:18,187 --> 00:30:18,419
+No.
+
+883
+00:30:18,599 --> 00:30:21,411
+Tax avoidance means using legal rules to
+
+884
+00:30:21,411 --> 00:30:22,326
+reduce taxes.
+
+885
+00:30:22,506 --> 00:30:25,596
+Tax evasion means illegally hiding income or
+
+886
+00:30:25,596 --> 00:30:26,790
+lying to the IRS.
+
+887
+00:30:26,970 --> 00:30:29,324
+Everything in this video is about legal
+
+888
+00:30:29,324 --> 00:30:29,988
+strategies.
+
+889
+00:30:30,168 --> 00:30:32,751
+Evasion can lead to penalties and even
+
+890
+00:30:32,751 --> 00:30:33,907
+criminal charges.
+
+891
+00:30:34,256 --> 00:30:35,104
+Question two.
+
+892
+00:30:35,284 --> 00:30:36,607
+Do I need to be rich to
+
+893
+00:30:36,607 --> 00:30:37,815
+use these strategies?
+
+894
+00:30:37,995 --> 00:30:38,180
+No.
+
+895
+00:30:38,360 --> 00:30:40,645
+Retirement accounts, Roth IRAs,
+
+896
+00:30:40,645 --> 00:30:43,298
+HSAs, long term holding and the zero
+
+897
+00:30:43,298 --> 00:30:46,467
+percent capital gains rate are available to
+
+898
+00:30:46,467 --> 00:30:48,531
+millions of ordinary people.
+
+899
+00:30:48,711 --> 00:30:51,707
+Many are most valuable for middle income
+
+900
+00:30:51,707 --> 00:30:52,530
+households.
+
+901
+00:30:52,880 --> 00:30:53,855
+Question three.
+
+902
+00:30:54,035 --> 00:30:56,195
+Should I choose traditional or Roth?
+
+903
+00:30:56,375 --> 00:30:58,485
+It depends on whether you expect your
+
+904
+00:30:58,485 --> 00:31:00,081
+tax rate to be higher now or
+
+905
+00:31:00,081 --> 00:31:00,880
+in retirement.
+
+906
+00:31:01,060 --> 00:31:04,152
+Many people split contributions between both for
+
+907
+00:31:04,152 --> 00:31:04,926
+flexibility.
+
+908
+00:31:05,106 --> 00:31:07,718
+A tax professional can help you decide.
+
+909
+00:31:08,068 --> 00:31:09,020
+Question four.
+
+910
+00:31:09,200 --> 00:31:10,977
+What about state taxes?
+
+911
+00:31:11,157 --> 00:31:12,526
+States vary widely.
+
+912
+00:31:12,706 --> 00:31:14,412
+Some have no income tax,
+
+913
+00:31:14,412 --> 00:31:17,397
+some tax capital gains like regular income
+
+914
+00:31:17,397 --> 00:31:20,382
+and some have special rules for retirement
+
+915
+00:31:20,382 --> 00:31:20,880
+income.
+
+916
+00:31:21,060 --> 00:31:22,501
+Check your state's rules,
+
+917
+00:31:22,501 --> 00:31:24,404
+because they can change the math.
+
+918
+00:31:24,753 --> 00:31:25,705
+Question five.
+
+919
+00:31:25,885 --> 00:31:27,325
+Will these rules change?
+
+920
+00:31:27,505 --> 00:31:28,619
+Very possibly.
+
+921
+00:31:28,799 --> 00:31:30,576
+Tax laws change regularly,
+
+922
+00:31:30,576 --> 00:31:33,513
+and many proposals have targeted rules like
+
+923
+00:31:33,513 --> 00:31:34,948
+the step up in basis,
+
+924
+00:31:34,948 --> 00:31:38,158
+carried interest and the taxation of unrealized
+
+925
+00:31:38,158 --> 00:31:40,003
+gains for the very wealthy.
+
+926
+00:31:40,183 --> 00:31:42,258
+That's why it's smart to focus on
+
+927
+00:31:42,258 --> 00:31:45,087
+durable habits, like saving in tax advantaged
+
+928
+00:31:45,087 --> 00:31:47,916
+accounts and holding investments for the long
+
+929
+00:31:47,916 --> 00:31:50,117
+term, and to review your plan every
+
+930
+00:31:50,117 --> 00:31:51,688
+year as the rules evolve.
+
+931
+00:31:52,038 --> 00:31:52,932
+Mistake one.
+
+932
+00:31:53,112 --> 00:31:55,039
+Skipping retirement accounts.
+
+933
+00:31:55,219 --> 00:31:57,081
+Not using a four oh one k,
+
+934
+00:31:57,081 --> 00:31:59,730
+IRA or HSA when you're eligible means
+
+935
+00:31:59,730 --> 00:32:02,092
+paying more tax than you need to,
+
+936
+00:32:02,092 --> 00:32:03,238
+year after year,
+
+937
+00:32:03,238 --> 00:32:06,388
+and losing decades of tax advantaged growth.
+
+938
+00:32:06,738 --> 00:32:07,911
+Mistake two.
+
+939
+00:32:08,091 --> 00:32:09,565
+Selling too soon.
+
+940
+00:32:09,745 --> 00:32:12,217
+Selling investments held one year or less
+
+941
+00:32:12,217 --> 00:32:14,628
+can mean paying ordinary income rates on
+
+942
+00:32:14,628 --> 00:32:17,100
+gains that might have qualified for lower
+
+943
+00:32:17,100 --> 00:32:19,451
+long term rates with a little patience.
+
+944
+00:32:19,801 --> 00:32:20,892
+Mistake three.
+
+945
+00:32:21,072 --> 00:32:23,511
+Cashing out a retirement account early.
+
+946
+00:32:23,691 --> 00:32:26,491
+Withdrawals before age fifty nine and a
+
+947
+00:32:26,491 --> 00:32:28,932
+half can trigger income tax plus a
+
+948
+00:32:28,932 --> 00:32:31,373
+ten percent penalty in many cases,
+
+949
+00:32:31,373 --> 00:32:33,814
+and the money loses all its future
+
+950
+00:32:33,814 --> 00:32:35,393
+tax advantaged growth.
+
+951
+00:32:35,743 --> 00:32:36,869
+Mistake four.
+
+952
+00:32:37,049 --> 00:32:39,702
+Ignoring the tax on frequent trading in
+
+953
+00:32:39,702 --> 00:32:40,927
+a taxable account.
+
+954
+00:32:41,107 --> 00:32:43,390
+Every short term gain is taxed like
+
+955
+00:32:43,390 --> 00:32:45,478
+a paycheck, and every trade is a
+
+956
+00:32:45,478 --> 00:32:46,587
+new tax decision.
+
+957
+00:32:46,767 --> 00:32:49,115
+Many people who think they're beating the
+
+958
+00:32:49,115 --> 00:32:51,693
+market discover they're behind once taxes and
+
+959
+00:32:51,693 --> 00:32:52,781
+costs are included.
+
+960
+00:32:52,961 --> 00:32:55,734
+Buying and holding broad funds keeps taxes
+
+961
+00:32:55,734 --> 00:32:57,384
+low and decisions simple.
+
+962
+00:32:57,734 --> 00:32:58,686
+Mistake five.
+
+963
+00:32:58,866 --> 00:33:01,989
+Never checking beneficiaries and estate basics.
+
+964
+00:33:02,169 --> 00:33:05,527
+Without updated beneficiaries and a simple will,
+
+965
+00:33:05,527 --> 00:33:07,277
+families can face delays,
+
+966
+00:33:07,277 --> 00:33:10,215
+legal costs and taxes that were avoidable.
+
+967
+00:33:10,395 --> 00:33:12,362
+A few hours of planning can protect
+
+968
+00:33:12,362 --> 00:33:13,991
+the step up in basis and make
+
+969
+00:33:13,991 --> 00:33:16,014
+sure your money goes where you want.
+
+970
+00:33:16,364 --> 00:33:17,188
+Quick recap.
+
+971
+00:33:17,368 --> 00:33:19,226
+Angle one, the numbers.
+
+972
+00:33:19,406 --> 00:33:20,953
+Two kinds of income,
+
+973
+00:33:20,953 --> 00:33:22,964
+untaxed growth, borrowing,
+
+974
+00:33:22,964 --> 00:33:24,588
+the step up in basis,
+
+975
+00:33:24,588 --> 00:33:26,057
+payroll tax limits,
+
+976
+00:33:26,057 --> 00:33:29,228
+business deductions and carried interest.
+
+977
+00:33:29,578 --> 00:33:31,761
+Angle two, the psychology.
+
+978
+00:33:31,941 --> 00:33:33,542
+After tax thinking,
+
+979
+00:33:33,542 --> 00:33:35,227
+year round planning,
+
+980
+00:33:35,227 --> 00:33:37,165
+good advice, ownership,
+
+981
+00:33:37,165 --> 00:33:41,210
+patience, strategic giving and treating taxes as
+
+982
+00:33:41,210 --> 00:33:42,390
+a big expense.
+
+983
+00:33:42,740 --> 00:33:44,517
+Angle three, the playbook.
+
+984
+00:33:44,697 --> 00:33:46,084
+Pre tax accounts,
+
+985
+00:33:46,084 --> 00:33:47,961
+Roth accounts, the HSA,
+
+986
+00:33:47,961 --> 00:33:49,431
+long term holding,
+
+987
+00:33:49,431 --> 00:33:52,777
+tax loss harvesting and ownership income.
+
+988
+00:33:53,127 --> 00:33:55,125
+The rich pay less tax mainly because
+
+989
+00:33:55,125 --> 00:33:56,900
+of what kind of money they have.
+
+990
+00:33:57,080 --> 00:33:59,179
+You can start shifting your own money
+
+991
+00:33:59,179 --> 00:34:00,199
+in that direction,
+
+992
+00:34:00,199 --> 00:34:01,504
+one paycheck at a time.
+
+993
+00:34:01,684 --> 00:34:03,330
+If you want my full step by
+
+994
+00:34:03,330 --> 00:34:05,219
+step plan, it's in my playbook,
+
+995
+00:34:05,219 --> 00:34:06,804
+linked in the description.
+
+996
+00:34:06,984 --> 00:34:08,346
+Tell me in the comments,
+
+997
+00:34:08,346 --> 00:34:10,276
+which tax account are you going to
+
+998
+00:34:10,276 --> 00:34:11,071
+use this year?
+
+999
+00:34:11,251 --> 00:34:12,528
+I'm Ryan Rover.
+
+1000
+00:34:12,708 --> 00:34:13,869
+See you in the next one.
