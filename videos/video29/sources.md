@@ -1,0 +1,9 @@
+- AAA, Your Driving Costs (over $12,000 a year for a new vehicle); Kelley Blue Book average transaction price above $50,000
+- US Bureau of Labor Statistics, Consumer Expenditure Survey (housing, food away from home)
+- Federal Reserve, G.19 Consumer Credit (credit card rates above 20%)
+- Thomas J. Stanley, The Millionaire Next Door (1996)
+- IRS standard mileage rate (around 70 cents a mile in recent years)
+- USDA, food loss and waste (30-40% of the US food supply); CDC, chronic disease prevention
+- Madrian and Shea (2001), automatic enrollment; Ramit Sethi, conscious spending
+- Dunn and Norton, Happy Money (2013); Whillans et al., Buying Time Promotes Happiness (PNAS, 2017)
+- Growth example: monthly compounding at 7% average yearly return (illustration, not a promise)
