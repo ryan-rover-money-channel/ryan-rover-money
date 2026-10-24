@@ -19,7 +19,7 @@ pr("""Hi, I'm Ryan Rover. What if the best investing strategy for most people wa
 picking. No watching the news. No guessing what the market will do next. Just buying the whole market, cheaply, and holding
 it for decades. That's what an index fund does. And today I'm going to show you why boring investing beats most of the
 experts, from three different angles.""")
-short("Warren Buffett bet a million dollars on the most boring investment there is.")
+short("Most professional fund managers lose to this boring investment.")
 card("""Here's the headline. In recent SPIVA reports from S and P Dow Jones Indices, roughly nine out of ten actively
 managed large company U.S. stock funds trailed the S and P five hundred over fifteen years. The professionals, with all
 their research, mostly lost to a simple index.""",
