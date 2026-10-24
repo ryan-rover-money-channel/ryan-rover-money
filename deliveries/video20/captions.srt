@@ -1,0 +1,4099 @@
+1
+00:00:00,000 --> 00:00:01,857
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,037 --> 00:00:04,452
+For decades, the advice was simple.
+
+3
+00:00:04,632 --> 00:00:05,481
+Go to college,
+
+4
+00:00:05,481 --> 00:00:06,573
+get an office job,
+
+5
+00:00:06,573 --> 00:00:08,756
+and you'll do better than the people
+
+6
+00:00:08,756 --> 00:00:10,332
+who work with their hands.
+
+7
+00:00:10,512 --> 00:00:11,468
+For many people,
+
+8
+00:00:11,468 --> 00:00:12,602
+that advice worked.
+
+9
+00:00:12,782 --> 00:00:15,058
+But something quiet has been happening.
+
+10
+00:00:15,238 --> 00:00:18,073
+Many plumbers and electricians now earn more
+
+11
+00:00:18,073 --> 00:00:19,555
+than the median worker,
+
+12
+00:00:19,555 --> 00:00:21,359
+start earning years earlier,
+
+13
+00:00:21,359 --> 00:00:23,420
+carry little or no student debt,
+
+14
+00:00:23,420 --> 00:00:25,675
+and often end up owning businesses.
+
+15
+00:00:25,855 --> 00:00:28,290
+Today, we're going to look at twelve
+
+16
+00:00:28,290 --> 00:00:31,536
+quiet advantages that help tradespeople out earn
+
+17
+00:00:31,536 --> 00:00:33,971
+many office workers over a lifetime,
+
+18
+00:00:33,971 --> 00:00:35,933
+and the honest downsides too.
+
+19
+00:00:36,282 --> 00:00:39,382
+Plumbers and electricians versus office workers.
+
+20
+00:00:39,562 --> 00:00:41,264
+Twelve quiet advantages,
+
+21
+00:00:41,264 --> 00:00:42,894
+and the real tradeoffs.
+
+22
+00:00:43,244 --> 00:00:44,765
+Let's be fair from the start.
+
+23
+00:00:44,945 --> 00:00:47,544
+This isn't a video saying college is
+
+24
+00:00:47,544 --> 00:00:49,926
+bad or office jobs are a mistake.
+
+25
+00:00:50,106 --> 00:00:52,419
+Many office careers pay very well,
+
+26
+00:00:52,419 --> 00:00:54,597
+and many people are happier at a
+
+27
+00:00:54,597 --> 00:00:56,434
+desk than in a crawl space.
+
+28
+00:00:56,614 --> 00:00:58,549
+The point is that the old story,
+
+29
+00:00:58,549 --> 00:01:01,209
+where hands on work automatically means less
+
+30
+00:01:01,209 --> 00:01:03,023
+money, is no longer true for a
+
+31
+00:01:03,023 --> 00:01:03,870
+lot of people.
+
+32
+00:01:04,050 --> 00:01:04,839
+And for some,
+
+33
+00:01:04,839 --> 00:01:06,844
+the trades may be the faster path
+
+34
+00:01:06,844 --> 00:01:07,451
+to wealth.
+
+35
+00:01:07,801 --> 00:01:10,656
+We'll use government data where we can,
+
+36
+00:01:10,656 --> 00:01:13,804
+mainly from the Bureau of Labor Statistics.
+
+37
+00:01:13,984 --> 00:01:15,548
+Where we use examples,
+
+38
+00:01:15,548 --> 00:01:19,387
+they're simplified illustrations to explain the ideas,
+
+39
+00:01:19,387 --> 00:01:20,311
+not promises.
+
+40
+00:01:20,491 --> 00:01:22,807
+Pay varies enormously by state,
+
+41
+00:01:22,807 --> 00:01:26,469
+city, specialty, union membership and experience,
+
+42
+00:01:26,469 --> 00:01:29,158
+and your results will depend on your
+
+43
+00:01:29,158 --> 00:01:29,756
+choices.
+
+44
+00:01:30,105 --> 00:01:32,437
+We'll go through the twelve advantages,
+
+45
+00:01:32,437 --> 00:01:34,530
+then look at the whole picture from
+
+46
+00:01:34,530 --> 00:01:35,307
+three angles.
+
+47
+00:01:35,487 --> 00:01:38,276
+The numbers, meaning a lifetime comparison of
+
+48
+00:01:38,276 --> 00:01:38,958
+two people.
+
+49
+00:01:39,138 --> 00:01:41,859
+The psychology, meaning why so many people
+
+50
+00:01:41,859 --> 00:01:43,155
+overlook the trades.
+
+51
+00:01:43,335 --> 00:01:44,560
+And the playbook,
+
+52
+00:01:44,560 --> 00:01:47,585
+meaning how someone actually gets started,
+
+53
+00:01:47,585 --> 00:01:49,314
+at eighteen or at forty.
+
+54
+00:01:49,664 --> 00:01:51,789
+Let's start with the paycheck itself,
+
+55
+00:01:51,789 --> 00:01:54,659
+because that's where most people's assumptions are
+
+56
+00:01:54,659 --> 00:01:55,922
+furthest from reality.
+
+57
+00:01:56,272 --> 00:01:58,606
+Pay data comes from the Bureau of
+
+58
+00:01:58,606 --> 00:02:02,425
+Labor Statistics Occupational Outlook Handbook and its
+
+59
+00:02:02,425 --> 00:02:05,537
+occupational employment and wage statistics.
+
+60
+00:02:05,717 --> 00:02:06,649
+For May 2023,
+
+61
+00:02:06,649 --> 00:02:09,516
+the Bureau reported median annual pay of
+
+62
+00:02:09,516 --> 00:02:12,742
+about sixty one thousand five hundred dollars
+
+63
+00:02:12,742 --> 00:02:15,250
+for both plumbers and electricians,
+
+64
+00:02:15,250 --> 00:02:17,902
+compared with a median of about forty
+
+65
+00:02:17,902 --> 00:02:20,984
+eight thousand dollars for all occupations.
+
+66
+00:02:21,164 --> 00:02:23,874
+Student debt information comes from the Federal
+
+67
+00:02:23,874 --> 00:02:26,180
+Reserve and the Department of Education.
+
+68
+00:02:26,360 --> 00:02:28,305
+This video is education,
+
+69
+00:02:28,305 --> 00:02:30,818
+not financial or career advice.
+
+70
+00:02:31,168 --> 00:02:32,271
+Advantage 1.
+
+71
+00:02:32,451 --> 00:02:33,926
+Pay above the median.
+
+72
+00:02:34,106 --> 00:02:36,259
+the middle plumber out earns the middle
+
+73
+00:02:36,259 --> 00:02:36,590
+worker
+
+74
+00:02:36,940 --> 00:02:38,218
+Advantage one.
+
+75
+00:02:38,398 --> 00:02:40,592
+Higher pay than many people expect.
+
+76
+00:02:40,772 --> 00:02:43,756
+According to the Bureau of Labor Statistics,
+
+77
+00:02:43,756 --> 00:02:46,808
+the median plumber and the median electrician
+
+78
+00:02:46,808 --> 00:02:49,589
+each earned about sixty one thousand five
+
+79
+00:02:49,589 --> 00:02:51,488
+hundred dollars in May 2023.
+
+80
+00:02:51,668 --> 00:02:54,310
+The median for all occupations was about
+
+81
+00:02:54,310 --> 00:02:55,697
+forty eight thousand.
+
+82
+00:02:55,877 --> 00:02:58,626
+So the typical plumber or electrician earned
+
+83
+00:02:58,626 --> 00:03:01,250
+roughly twenty eight percent more than the
+
+84
+00:03:01,250 --> 00:03:02,750
+typical American worker.
+
+85
+00:03:03,099 --> 00:03:04,156
+And that's just the middle.
+
+86
+00:03:04,336 --> 00:03:07,313
+Experienced tradespeople in high cost cities,
+
+87
+00:03:07,313 --> 00:03:08,768
+in specialized fields,
+
+88
+00:03:08,768 --> 00:03:11,018
+or in strong unions often earn far
+
+89
+00:03:11,018 --> 00:03:13,201
+more, with the top ten percent of
+
+90
+00:03:13,201 --> 00:03:16,773
+electricians earning over one hundred thousand dollars
+
+91
+00:03:16,773 --> 00:03:19,023
+a year according to the same data.
+
+92
+00:03:19,203 --> 00:03:21,318
+Overtime can push pay even higher,
+
+93
+00:03:21,318 --> 00:03:22,500
+which we'll get to.
+
+94
+00:03:22,850 --> 00:03:25,437
+Compare that to many entry level office
+
+95
+00:03:25,437 --> 00:03:27,892
+jobs, like administrative assistants,
+
+96
+00:03:27,892 --> 00:03:31,806
+customer service representatives or junior marketing roles,
+
+97
+00:03:31,806 --> 00:03:34,194
+which often pay less than the median
+
+98
+00:03:34,194 --> 00:03:34,924
+trade wage.
+
+99
+00:03:35,104 --> 00:03:37,813
+Some office careers pay much more,
+
+100
+00:03:37,813 --> 00:03:40,920
+of course, like engineering or finance.
+
+101
+00:03:41,100 --> 00:03:43,238
+But the idea that hands on work
+
+102
+00:03:43,238 --> 00:03:46,134
+always pays less simply isn't supported by
+
+103
+00:03:46,134 --> 00:03:46,755
+the data.
+
+104
+00:03:47,105 --> 00:03:47,975
+In real life.
+
+105
+00:03:48,155 --> 00:03:50,618
+Picture a journeyman electrician in a mid
+
+106
+00:03:50,618 --> 00:03:53,321
+sized city earning around thirty five dollars
+
+107
+00:03:53,321 --> 00:03:55,844
+an hour, which is roughly seventy thousand
+
+108
+00:03:55,844 --> 00:03:57,887
+dollars a year at full time hours,
+
+109
+00:03:57,887 --> 00:03:58,848
+before overtime.
+
+110
+00:03:59,028 --> 00:04:01,130
+Across town, a friend with a business
+
+111
+00:04:01,130 --> 00:04:03,801
+degree works as a marketing coordinator earning
+
+112
+00:04:03,801 --> 00:04:04,938
+fifty five thousand.
+
+113
+00:04:05,118 --> 00:04:06,350
+Both are doing fine,
+
+114
+00:04:06,350 --> 00:04:08,137
+but the electrician is ahead,
+
+115
+00:04:08,137 --> 00:04:10,539
+and started earning four years earlier.
+
+116
+00:04:10,890 --> 00:04:12,201
+Advantage 2.
+
+117
+00:04:12,381 --> 00:04:13,229
+Paid to learn.
+
+118
+00:04:13,409 --> 00:04:15,336
+apprentices earn while they train
+
+119
+00:04:15,687 --> 00:04:16,998
+Advantage two.
+
+120
+00:04:17,178 --> 00:04:18,525
+You get paid to learn.
+
+121
+00:04:18,705 --> 00:04:22,643
+Most plumbers and electricians train through apprenticeships,
+
+122
+00:04:22,643 --> 00:04:25,161
+which typically last four to five years
+
+123
+00:04:25,161 --> 00:04:28,259
+and combine classroom instruction with paid work
+
+124
+00:04:28,259 --> 00:04:29,421
+on real job sites.
+
+125
+00:04:29,601 --> 00:04:31,457
+Instead of paying tuition,
+
+126
+00:04:31,457 --> 00:04:34,455
+apprentices earn a wage that usually rises
+
+127
+00:04:34,455 --> 00:04:35,882
+as they gain skills.
+
+128
+00:04:36,233 --> 00:04:38,892
+Many apprentices start at a percentage of
+
+129
+00:04:38,892 --> 00:04:40,189
+a journeyman's wage,
+
+130
+00:04:40,189 --> 00:04:43,173
+often somewhere around forty to fifty percent,
+
+131
+00:04:43,173 --> 00:04:45,184
+and get raises every year or so
+
+132
+00:04:45,184 --> 00:04:46,287
+as they progress.
+
+133
+00:04:46,467 --> 00:04:48,432
+By the end of the apprenticeship,
+
+134
+00:04:48,432 --> 00:04:50,099
+they're earning a full wage,
+
+135
+00:04:50,099 --> 00:04:52,540
+with years of experience already on their
+
+136
+00:04:52,540 --> 00:04:52,957
+resume.
+
+137
+00:04:53,307 --> 00:04:55,834
+Compare that with a typical four year
+
+138
+00:04:55,834 --> 00:04:58,567
+college student, who often pays tuition,
+
+139
+00:04:58,567 --> 00:05:00,822
+may work part time for low wages,
+
+140
+00:05:00,822 --> 00:05:03,282
+and graduates with no guarantee of a
+
+141
+00:05:03,282 --> 00:05:04,580
+job in their field.
+
+142
+00:05:04,760 --> 00:05:07,691
+The apprentice finishes training with income,
+
+143
+00:05:07,691 --> 00:05:10,100
+experience and usually far less debt.
+
+144
+00:05:10,451 --> 00:05:11,298
+In real life.
+
+145
+00:05:11,478 --> 00:05:14,083
+A nineteen year old plumbing apprentice might
+
+146
+00:05:14,083 --> 00:05:16,457
+earn around eighteen to twenty dollars an
+
+147
+00:05:16,457 --> 00:05:17,789
+hour in the first year,
+
+148
+00:05:17,789 --> 00:05:19,063
+depending on the area,
+
+149
+00:05:19,063 --> 00:05:20,336
+with raises each year.
+
+150
+00:05:20,516 --> 00:05:21,766
+By the fourth year,
+
+151
+00:05:21,766 --> 00:05:23,543
+the wage may be in the high
+
+152
+00:05:23,543 --> 00:05:24,661
+twenties or more.
+
+153
+00:05:24,841 --> 00:05:28,436
+Meanwhile, the apprentice's classroom hours are often
+
+154
+00:05:28,436 --> 00:05:29,996
+covered by the program.
+
+155
+00:05:30,346 --> 00:05:31,704
+Advantage 3.
+
+156
+00:05:31,884 --> 00:05:33,625
+Little or no student debt.
+
+157
+00:05:33,805 --> 00:05:36,534
+starting at zero instead of below zero
+
+158
+00:05:36,884 --> 00:05:38,103
+Advantage three.
+
+159
+00:05:38,283 --> 00:05:40,036
+Little or no student debt.
+
+160
+00:05:40,216 --> 00:05:42,927
+Millions of Americans carry student loans,
+
+161
+00:05:42,927 --> 00:05:45,832
+and many college graduates leave school owing
+
+162
+00:05:45,832 --> 00:05:47,704
+tens of thousands of dollars.
+
+163
+00:05:47,884 --> 00:05:50,401
+Those loan payments can last ten years
+
+164
+00:05:50,401 --> 00:05:52,719
+or more, eating into the money they
+
+165
+00:05:52,719 --> 00:05:54,177
+could save and invest.
+
+166
+00:05:54,527 --> 00:05:57,876
+Apprentices often pay little for their training,
+
+167
+00:05:57,876 --> 00:06:00,876
+since many programs are sponsored by unions
+
+168
+00:06:00,876 --> 00:06:01,783
+or employers.
+
+169
+00:06:01,963 --> 00:06:04,360
+Some trade school courses cost money,
+
+170
+00:06:04,360 --> 00:06:06,433
+but usually far less than a four
+
+171
+00:06:06,433 --> 00:06:07,210
+year degree.
+
+172
+00:06:07,390 --> 00:06:10,442
+That means the tradesperson often starts their
+
+173
+00:06:10,442 --> 00:06:11,437
+career at zero,
+
+174
+00:06:11,437 --> 00:06:13,892
+while the graduate starts below zero.
+
+175
+00:06:14,242 --> 00:06:16,482
+That difference matters more than it seems.
+
+176
+00:06:16,662 --> 00:06:19,177
+A three hundred dollar monthly loan payment
+
+177
+00:06:19,177 --> 00:06:21,283
+for ten years is thirty six thousand
+
+178
+00:06:21,283 --> 00:06:23,915
+dollars that could have gone into investments
+
+179
+00:06:23,915 --> 00:06:24,383
+instead.
+
+180
+00:06:24,563 --> 00:06:27,344
+Invested at an illustrative seven percent a
+
+181
+00:06:27,344 --> 00:06:29,673
+year, that money could grow into far
+
+182
+00:06:29,673 --> 00:06:30,902
+more over a career.
+
+183
+00:06:31,252 --> 00:06:32,041
+In real life.
+
+184
+00:06:32,221 --> 00:06:34,408
+Two twenty three year olds go apartment
+
+185
+00:06:34,408 --> 00:06:34,857
+hunting.
+
+186
+00:06:35,037 --> 00:06:37,719
+One is a new journeyman electrician with
+
+187
+00:06:37,719 --> 00:06:38,322
+no loans.
+
+188
+00:06:38,502 --> 00:06:40,416
+The other is a recent graduate with
+
+189
+00:06:40,416 --> 00:06:42,767
+a three hundred dollar monthly student loan
+
+190
+00:06:42,767 --> 00:06:43,204
+payment.
+
+191
+00:06:43,384 --> 00:06:44,832
+Same rent, same car,
+
+192
+00:06:44,832 --> 00:06:47,656
+but one has three hundred extra dollars
+
+193
+00:06:47,656 --> 00:06:49,104
+every month to save,
+
+194
+00:06:49,104 --> 00:06:51,058
+invest or use as a cushion.
+
+195
+00:06:51,409 --> 00:06:52,570
+Advantage 4.
+
+196
+00:06:52,750 --> 00:06:54,166
+A four year head start.
+
+197
+00:06:54,346 --> 00:06:56,587
+earning while others are still in school
+
+198
+00:06:56,937 --> 00:06:58,132
+Advantage four.
+
+199
+00:06:58,312 --> 00:06:59,183
+A head start.
+
+200
+00:06:59,363 --> 00:07:02,108
+An eighteen year old apprentice starts earning
+
+201
+00:07:02,108 --> 00:07:02,765
+right away.
+
+202
+00:07:02,945 --> 00:07:05,754
+An eighteen year old college student usually
+
+203
+00:07:05,754 --> 00:07:08,181
+starts their career around twenty two.
+
+204
+00:07:08,361 --> 00:07:10,253
+That's four years of earnings,
+
+205
+00:07:10,253 --> 00:07:13,344
+raises and experience for the tradesperson before
+
+206
+00:07:13,344 --> 00:07:14,921
+the graduate even begins.
+
+207
+00:07:15,271 --> 00:07:17,660
+Four years of earning means four years
+
+208
+00:07:17,660 --> 00:07:19,798
+of potential saving and investing.
+
+209
+00:07:19,978 --> 00:07:23,043
+Money invested at nineteen has decades longer
+
+210
+00:07:23,043 --> 00:07:25,836
+to compound than money invested at twenty
+
+211
+00:07:25,836 --> 00:07:26,109
+six.
+
+212
+00:07:26,289 --> 00:07:28,794
+Time is the most powerful ingredient in
+
+213
+00:07:28,794 --> 00:07:31,813
+compound growth, and the tradesperson gets more
+
+214
+00:07:31,813 --> 00:07:32,198
+of it.
+
+215
+00:07:32,548 --> 00:07:35,473
+It also means four years of experience.
+
+216
+00:07:35,653 --> 00:07:36,438
+By twenty two,
+
+217
+00:07:36,438 --> 00:07:38,569
+an apprentice may be close to becoming
+
+218
+00:07:38,569 --> 00:07:39,803
+a licensed journeyman,
+
+219
+00:07:39,803 --> 00:07:41,877
+while the graduate is starting at the
+
+220
+00:07:41,877 --> 00:07:43,560
+bottom of a new career ladder.
+
+221
+00:07:43,740 --> 00:07:46,757
+Experience is what raises pay in both
+
+222
+00:07:46,757 --> 00:07:47,246
+paths.
+
+223
+00:07:47,596 --> 00:07:48,455
+In real life.
+
+224
+00:07:48,635 --> 00:07:51,141
+Picture the day a college senior walks
+
+225
+00:07:51,141 --> 00:07:53,186
+across the stage at graduation.
+
+226
+00:07:53,366 --> 00:07:56,374
+A friend who started an apprenticeship right
+
+227
+00:07:56,374 --> 00:07:58,904
+after high school is in the audience,
+
+228
+00:07:58,904 --> 00:08:00,886
+already earning a solid wage,
+
+229
+00:08:00,886 --> 00:08:02,596
+with a car paid off and a
+
+230
+00:08:02,596 --> 00:08:04,442
+growing retirement account.
+
+231
+00:08:04,622 --> 00:08:07,582
+Same age, very different starting lines.
+
+232
+00:08:07,933 --> 00:08:09,140
+Advantage 5.
+
+233
+00:08:09,320 --> 00:08:11,514
+Overtime and emergency pay.
+
+234
+00:08:11,694 --> 00:08:13,328
+when the lights go out,
+
+235
+00:08:13,328 --> 00:08:14,109
+rates go up
+
+236
+00:08:14,460 --> 00:08:15,690
+Advantage five.
+
+237
+00:08:15,870 --> 00:08:18,018
+Overtime and emergency pay.
+
+238
+00:08:18,198 --> 00:08:19,729
+Pipes burst at night,
+
+239
+00:08:19,729 --> 00:08:21,624
+power fails during storms,
+
+240
+00:08:21,624 --> 00:08:24,758
+and construction projects run on deadlines.
+
+241
+00:08:24,938 --> 00:08:27,574
+Many tradespeople earn time and a half
+
+242
+00:08:27,574 --> 00:08:29,030
+or more for overtime,
+
+243
+00:08:29,030 --> 00:08:30,418
+nights and weekends.
+
+244
+00:08:30,598 --> 00:08:33,677
+Office workers on salary often work extra
+
+245
+00:08:33,677 --> 00:08:35,404
+hours for no extra pay.
+
+246
+00:08:35,754 --> 00:08:37,507
+Here's a simple illustration.
+
+247
+00:08:37,687 --> 00:08:40,626
+An electrician earning forty dollars an hour
+
+248
+00:08:40,626 --> 00:08:42,764
+works five extra hours a week at
+
+249
+00:08:42,764 --> 00:08:43,833
+time and a half,
+
+250
+00:08:43,833 --> 00:08:45,303
+sixty dollars an hour.
+
+251
+00:08:45,483 --> 00:08:47,661
+That's three hundred dollars a week,
+
+252
+00:08:47,661 --> 00:08:50,142
+or about fifteen thousand dollars a year,
+
+253
+00:08:50,142 --> 00:08:51,474
+on top of regular pay.
+
+254
+00:08:51,654 --> 00:08:54,900
+Some tradespeople work far more overtime during
+
+255
+00:08:54,900 --> 00:08:55,798
+busy seasons.
+
+256
+00:08:56,149 --> 00:08:57,728
+Overtime isn't free,
+
+257
+00:08:57,728 --> 00:08:58,517
+of course.
+
+258
+00:08:58,697 --> 00:09:00,588
+It costs time with family and can
+
+259
+00:09:00,588 --> 00:09:01,332
+wear you out.
+
+260
+00:09:01,512 --> 00:09:03,815
+But it gives tradespeople a lever many
+
+261
+00:09:03,815 --> 00:09:05,936
+salaried office workers don't have:
+
+262
+00:09:05,936 --> 00:09:07,633
+when they want to earn more,
+
+263
+00:09:07,633 --> 00:09:09,693
+they can often choose to work more
+
+264
+00:09:09,693 --> 00:09:10,905
+and get paid for it.
+
+265
+00:09:11,255 --> 00:09:12,137
+In real life.
+
+266
+00:09:12,317 --> 00:09:13,555
+After a big storm,
+
+267
+00:09:13,555 --> 00:09:16,858
+an electrician works long shifts restoring power
+
+268
+00:09:16,858 --> 00:09:18,853
+and repairing damaged panels.
+
+269
+00:09:19,033 --> 00:09:20,697
+In two weeks of storm work at
+
+270
+00:09:20,697 --> 00:09:23,106
+overtime rates, they might earn what would
+
+271
+00:09:23,106 --> 00:09:24,827
+normally take a month or more.
+
+272
+00:09:25,007 --> 00:09:27,713
+It's exhausting, but it's also how many
+
+273
+00:09:27,713 --> 00:09:30,698
+tradespeople build their savings or pay off
+
+274
+00:09:30,698 --> 00:09:31,253
+a truck.
+
+275
+00:09:31,603 --> 00:09:32,973
+Advantage 6.
+
+276
+00:09:33,153 --> 00:09:34,023
+Side work.
+
+277
+00:09:34,203 --> 00:09:36,026
+skills you can sell on weekends
+
+278
+00:09:36,376 --> 00:09:37,862
+Advantage six.
+
+279
+00:09:38,042 --> 00:09:38,843
+Side work.
+
+280
+00:09:39,023 --> 00:09:41,872
+A licensed electrician or plumber has skills
+
+281
+00:09:41,872 --> 00:09:45,044
+that neighbors, friends and small businesses need
+
+282
+00:09:45,044 --> 00:09:45,757
+constantly.
+
+283
+00:09:45,937 --> 00:09:48,977
+Many tradespeople earn extra income doing side
+
+284
+00:09:48,977 --> 00:09:51,819
+jobs, where permitted by their employer and
+
+285
+00:09:51,819 --> 00:09:53,471
+local rules, on weekends.
+
+286
+00:09:53,822 --> 00:09:55,639
+Side work can be a path to
+
+287
+00:09:55,639 --> 00:09:57,038
+starting a business.
+
+288
+00:09:57,218 --> 00:09:59,614
+Many owners began by building a list
+
+289
+00:09:59,614 --> 00:10:01,678
+of loyal customers on the side,
+
+290
+00:10:01,678 --> 00:10:03,875
+then left their job once the side
+
+291
+00:10:03,875 --> 00:10:05,472
+work could support them.
+
+292
+00:10:05,652 --> 00:10:07,358
+It's a way to test the business
+
+293
+00:10:07,358 --> 00:10:08,624
+before taking the leap.
+
+294
+00:10:08,975 --> 00:10:10,275
+Important caution.
+
+295
+00:10:10,455 --> 00:10:14,813
+Licensing, permits, insurance and employer agreements apply
+
+296
+00:10:14,813 --> 00:10:15,773
+to side work,
+
+297
+00:10:15,773 --> 00:10:18,950
+and unlicensed or unpermitted work can lead
+
+298
+00:10:18,950 --> 00:10:20,648
+to fines and liability.
+
+299
+00:10:20,828 --> 00:10:22,336
+Done properly, though,
+
+300
+00:10:22,336 --> 00:10:24,393
+side work turns a skill into a
+
+301
+00:10:24,393 --> 00:10:25,832
+second income stream.
+
+302
+00:10:26,183 --> 00:10:27,135
+In real life.
+
+303
+00:10:27,315 --> 00:10:29,675
+A plumber helps a neighbor replace a
+
+304
+00:10:29,675 --> 00:10:31,446
+water heater on a Saturday,
+
+305
+00:10:31,446 --> 00:10:34,069
+properly permitted, and does such a good
+
+306
+00:10:34,069 --> 00:10:36,823
+job that the neighbor tells three friends.
+
+307
+00:10:37,003 --> 00:10:37,824
+A year later,
+
+308
+00:10:37,824 --> 00:10:39,972
+the plumber has a steady stream of
+
+309
+00:10:39,972 --> 00:10:43,320
+weekend customers and starts thinking seriously about
+
+310
+00:10:43,320 --> 00:10:44,457
+running a company.
+
+311
+00:10:44,807 --> 00:10:45,851
+Quick pause.
+
+312
+00:10:46,031 --> 00:10:48,036
+If this is changing how you think
+
+313
+00:10:48,036 --> 00:10:49,494
+about careers and money,
+
+314
+00:10:49,494 --> 00:10:51,012
+subscribe to the channel.
+
+315
+00:10:51,192 --> 00:10:53,814
+Every week, Ryan breaks down how real
+
+316
+00:10:53,814 --> 00:10:55,231
+people build wealth,
+
+317
+00:10:55,231 --> 00:10:57,357
+with real numbers and no hype.
+
+318
+00:10:57,537 --> 00:10:59,371
+Now, advantage seven.
+
+319
+00:10:59,722 --> 00:11:01,045
+Advantage 7.
+
+320
+00:11:01,225 --> 00:11:03,106
+A clear path to ownership.
+
+321
+00:11:03,286 --> 00:11:04,679
+from apprentice to boss
+
+322
+00:11:05,029 --> 00:11:06,364
+Advantage seven.
+
+323
+00:11:06,544 --> 00:11:09,086
+A clear path to owning a business.
+
+324
+00:11:09,266 --> 00:11:10,470
+In many office careers,
+
+325
+00:11:10,470 --> 00:11:12,668
+owning the company isn't really an option.
+
+326
+00:11:12,848 --> 00:11:13,823
+In the trades,
+
+327
+00:11:13,823 --> 00:11:14,659
+it's common.
+
+328
+00:11:14,839 --> 00:11:18,291
+A master plumber or licensed electrical contractor
+
+329
+00:11:18,291 --> 00:11:20,569
+can start a company with a truck,
+
+330
+00:11:20,569 --> 00:11:22,571
+tools, insurance and a phone.
+
+331
+00:11:22,922 --> 00:11:25,256
+Business owners in the trades can earn
+
+332
+00:11:25,256 --> 00:11:26,731
+far more than employees,
+
+333
+00:11:26,731 --> 00:11:29,127
+because they keep the profit from their
+
+334
+00:11:29,127 --> 00:11:29,864
+crews' work.
+
+335
+00:11:30,044 --> 00:11:32,434
+A contractor with several crews might earn
+
+336
+00:11:32,434 --> 00:11:33,685
+well into six figures,
+
+337
+00:11:33,685 --> 00:11:35,733
+depending on the market and how well
+
+338
+00:11:35,733 --> 00:11:36,871
+the business is run.
+
+339
+00:11:37,221 --> 00:11:39,798
+Ownership also creates an asset.
+
+340
+00:11:39,978 --> 00:11:42,795
+A plumbing or electrical company with steady
+
+341
+00:11:42,795 --> 00:11:46,572
+customers, maintenance agreements and trained employees can
+
+342
+00:11:46,572 --> 00:11:48,557
+be sold when the owner retires,
+
+343
+00:11:48,557 --> 00:11:50,733
+often for a multiple of its yearly
+
+344
+00:11:50,733 --> 00:11:51,182
+profit.
+
+345
+00:11:51,362 --> 00:11:53,169
+That sale can be the biggest payday
+
+346
+00:11:53,169 --> 00:11:53,788
+of a career.
+
+347
+00:11:54,138 --> 00:11:54,939
+In real life.
+
+348
+00:11:55,119 --> 00:11:57,417
+A master plumber starts a company at
+
+349
+00:11:57,417 --> 00:11:58,822
+thirty with one truck.
+
+350
+00:11:59,002 --> 00:12:01,239
+By forty, she runs five trucks with
+
+351
+00:12:01,239 --> 00:12:04,627
+technicians, a dispatcher and hundreds of maintenance
+
+352
+00:12:04,627 --> 00:12:05,330
+agreements.
+
+353
+00:12:05,510 --> 00:12:07,108
+She works on the business,
+
+354
+00:12:07,108 --> 00:12:08,092
+not under sinks,
+
+355
+00:12:08,092 --> 00:12:09,998
+and earns far more than she did
+
+356
+00:12:09,998 --> 00:12:10,920
+as an employee.
+
+357
+00:12:11,100 --> 00:12:13,195
+At sixty, she sells the company to
+
+358
+00:12:13,195 --> 00:12:15,474
+a younger plumber who once worked for
+
+359
+00:12:15,474 --> 00:12:15,721
+her.
+
+360
+00:12:16,071 --> 00:12:17,290
+Advantage 8.
+
+361
+00:12:17,470 --> 00:12:19,594
+Hard to outsource or automate.
+
+362
+00:12:19,774 --> 00:12:21,945
+you can't fix a pipe from overseas
+
+363
+00:12:22,296 --> 00:12:23,538
+Advantage eight.
+
+364
+00:12:23,718 --> 00:12:27,282
+Job security against outsourcing and automation.
+
+365
+00:12:27,462 --> 00:12:30,234
+Many office tasks can be done remotely,
+
+366
+00:12:30,234 --> 00:12:32,366
+outsourced to other countries,
+
+367
+00:12:32,366 --> 00:12:34,498
+or increasingly handled by AI.
+
+368
+00:12:34,678 --> 00:12:36,478
+You can't fix a leak in Ohio
+
+369
+00:12:36,478 --> 00:12:39,115
+from overseas, and robots that can rewire
+
+370
+00:12:39,115 --> 00:12:41,365
+an old house aren't anywhere close.
+
+371
+00:12:41,715 --> 00:12:43,711
+That doesn't mean the trades are immune
+
+372
+00:12:43,711 --> 00:12:44,222
+to change.
+
+373
+00:12:44,402 --> 00:12:47,932
+Tools, codes and technology keep evolving.
+
+374
+00:12:48,112 --> 00:12:49,674
+But the core of the work,
+
+375
+00:12:49,674 --> 00:12:52,985
+solving physical problems in unpredictable buildings,
+
+376
+00:12:52,985 --> 00:12:55,484
+is among the hardest things to automate.
+
+377
+00:12:55,834 --> 00:12:58,820
+Meanwhile, the shift to electric vehicles,
+
+378
+00:12:58,820 --> 00:13:01,877
+heat pumps, solar panels and home batteries
+
+379
+00:13:01,877 --> 00:13:03,797
+means more electrical work,
+
+380
+00:13:03,797 --> 00:13:04,437
+not less.
+
+381
+00:13:04,617 --> 00:13:06,480
+The trades may be one of the
+
+382
+00:13:06,480 --> 00:13:09,342
+safest places to be as technology advances.
+
+383
+00:13:09,692 --> 00:13:10,481
+In real life.
+
+384
+00:13:10,661 --> 00:13:13,827
+During years when many companies cut office
+
+385
+00:13:13,827 --> 00:13:15,962
+staff or moved jobs offshore,
+
+386
+00:13:15,962 --> 00:13:18,759
+local electricians kept getting calls,
+
+387
+00:13:18,759 --> 00:13:22,220
+because houses still needed rewiring and panels
+
+388
+00:13:22,220 --> 00:13:23,177
+still failed.
+
+389
+00:13:23,357 --> 00:13:25,240
+The work followed the buildings,
+
+390
+00:13:25,240 --> 00:13:27,652
+and the buildings stayed where they were.
+
+391
+00:13:28,003 --> 00:13:29,152
+Advantage 9.
+
+392
+00:13:29,332 --> 00:13:31,608
+A retirement wave creating demand.
+
+393
+00:13:31,788 --> 00:13:34,063
+experienced workers are leaving
+
+394
+00:13:34,413 --> 00:13:35,620
+Advantage nine.
+
+395
+00:13:35,800 --> 00:13:37,495
+Demand from retirements.
+
+396
+00:13:37,675 --> 00:13:40,924
+Many experienced plumbers and electricians are nearing
+
+397
+00:13:40,924 --> 00:13:43,632
+retirement, and the trades have struggled for
+
+398
+00:13:43,632 --> 00:13:45,918
+years to attract enough young workers.
+
+399
+00:13:46,098 --> 00:13:49,229
+The Bureau of Labor Statistics projects tens
+
+400
+00:13:49,229 --> 00:13:52,145
+of thousands of openings for these trades
+
+401
+00:13:52,145 --> 00:13:54,920
+each year, many from workers who retire
+
+402
+00:13:54,920 --> 00:13:55,560
+or leave.
+
+403
+00:13:55,911 --> 00:13:58,023
+When fewer people enter a field and
+
+404
+00:13:58,023 --> 00:14:00,678
+many leave, the remaining workers often gain
+
+405
+00:14:00,678 --> 00:14:01,704
+bargaining power.
+
+406
+00:14:01,884 --> 00:14:04,008
+That can show up as higher wages,
+
+407
+00:14:04,008 --> 00:14:06,969
+better benefits and more opportunities to move
+
+408
+00:14:06,969 --> 00:14:07,677
+up quickly.
+
+409
+00:14:08,028 --> 00:14:09,819
+For people who want to own a
+
+410
+00:14:09,819 --> 00:14:12,699
+business, retirements also create a chance to
+
+411
+00:14:12,699 --> 00:14:15,450
+buy existing companies from owners who have
+
+412
+00:14:15,450 --> 00:14:16,282
+no successor.
+
+413
+00:14:16,462 --> 00:14:18,909
+A young electrician who earns an owner's
+
+414
+00:14:18,909 --> 00:14:21,234
+trust might buy the company over time.
+
+415
+00:14:21,584 --> 00:14:22,501
+In real life.
+
+416
+00:14:22,681 --> 00:14:23,654
+In many areas,
+
+417
+00:14:23,654 --> 00:14:26,297
+homeowners wait days or even weeks for
+
+418
+00:14:26,297 --> 00:14:29,148
+a plumber or electrician to be available.
+
+419
+00:14:29,328 --> 00:14:31,236
+That backlog is a signal:
+
+420
+00:14:31,236 --> 00:14:32,915
+demand exceeds supply.
+
+421
+00:14:33,095 --> 00:14:34,528
+For a skilled worker,
+
+422
+00:14:34,528 --> 00:14:37,258
+a backlog means pricing power and steady
+
+423
+00:14:37,258 --> 00:14:37,600
+work.
+
+424
+00:14:37,950 --> 00:14:39,250
+Advantage 10.
+
+425
+00:14:39,430 --> 00:14:41,566
+Union benefits and pensions.
+
+426
+00:14:41,746 --> 00:14:44,045
+some trades still offer pensions
+
+427
+00:14:44,395 --> 00:14:45,683
+Advantage ten.
+
+428
+00:14:45,863 --> 00:14:47,187
+Union benefits.
+
+429
+00:14:47,367 --> 00:14:51,053
+Many electricians and plumbers belong to unions,
+
+430
+00:14:51,053 --> 00:14:52,742
+which negotiate wages,
+
+431
+00:14:52,742 --> 00:14:54,355
+health insurance and,
+
+432
+00:14:54,355 --> 00:14:55,430
+in many cases,
+
+433
+00:14:55,430 --> 00:14:56,121
+pensions.
+
+434
+00:14:56,301 --> 00:14:58,839
+Pensions have become rare in office jobs,
+
+435
+00:14:58,839 --> 00:15:01,131
+where most workers rely only on their
+
+436
+00:15:01,131 --> 00:15:02,617
+own retirement accounts.
+
+437
+00:15:02,967 --> 00:15:05,117
+A pension that pays a monthly income
+
+438
+00:15:05,117 --> 00:15:07,089
+for life can be worth hundreds of
+
+439
+00:15:07,089 --> 00:15:09,538
+thousands of dollars in retirement value.
+
+440
+00:15:09,718 --> 00:15:12,370
+Combined with personal retirement savings,
+
+441
+00:15:12,370 --> 00:15:14,896
+it can provide a very strong foundation.
+
+442
+00:15:15,246 --> 00:15:17,818
+Not every tradesperson is in a union,
+
+443
+00:15:17,818 --> 00:15:20,530
+and union benefits vary widely by local
+
+444
+00:15:20,530 --> 00:15:21,294
+and region.
+
+445
+00:15:21,474 --> 00:15:22,752
+But for those who are,
+
+446
+00:15:22,752 --> 00:15:24,725
+the benefits can be a major hidden
+
+447
+00:15:24,725 --> 00:15:26,583
+advantage over many office jobs.
+
+448
+00:15:26,933 --> 00:15:27,687
+In real life.
+
+449
+00:15:27,867 --> 00:15:30,602
+A union electrician who works thirty years
+
+450
+00:15:30,602 --> 00:15:32,945
+might retire with a pension paying a
+
+451
+00:15:32,945 --> 00:15:35,679
+monthly income, plus savings in an annuity
+
+452
+00:15:35,679 --> 00:15:37,112
+or retirement account,
+
+453
+00:15:37,112 --> 00:15:38,479
+plus Social Security.
+
+454
+00:15:38,659 --> 00:15:39,984
+Three income streams,
+
+455
+00:15:39,984 --> 00:15:42,383
+two of which many office workers don't
+
+456
+00:15:42,383 --> 00:15:42,699
+have.
+
+457
+00:15:43,049 --> 00:15:44,477
+Advantage 11.
+
+458
+00:15:44,657 --> 00:15:46,294
+Lower cost of working.
+
+459
+00:15:46,474 --> 00:15:47,935
+no commute wardrobe,
+
+460
+00:15:47,935 --> 00:15:49,469
+often a company truck
+
+461
+00:15:49,819 --> 00:15:51,073
+Advantage eleven.
+
+462
+00:15:51,253 --> 00:15:53,122
+Lower costs of working,
+
+463
+00:15:53,122 --> 00:15:54,260
+in some cases.
+
+464
+00:15:54,440 --> 00:15:57,103
+Many tradespeople drive company trucks,
+
+465
+00:15:57,103 --> 00:16:00,177
+wear work clothes instead of expensive office
+
+466
+00:16:00,177 --> 00:16:03,250
+wardrobes, and don't pay for downtown parking
+
+467
+00:16:03,250 --> 00:16:04,343
+or train passes.
+
+468
+00:16:04,523 --> 00:16:06,822
+Small costs, but they add up over
+
+469
+00:16:06,822 --> 00:16:07,449
+a career.
+
+470
+00:16:07,799 --> 00:16:10,615
+Some tradespeople also live in areas with
+
+471
+00:16:10,615 --> 00:16:11,988
+lower housing costs,
+
+472
+00:16:11,988 --> 00:16:14,255
+since the work exists everywhere,
+
+473
+00:16:14,255 --> 00:16:16,865
+not only in expensive big cities where
+
+474
+00:16:16,865 --> 00:16:20,024
+many high paying office jobs are concentrated.
+
+475
+00:16:20,204 --> 00:16:22,533
+Lower living costs can mean a higher
+
+476
+00:16:22,533 --> 00:16:24,604
+savings rate on the same income.
+
+477
+00:16:24,954 --> 00:16:27,845
+Of course, tradespeople often buy their own
+
+478
+00:16:27,845 --> 00:16:30,132
+tools, and those can be expensive.
+
+479
+00:16:30,312 --> 00:16:32,334
+But overall, the cost of going to
+
+480
+00:16:32,334 --> 00:16:34,235
+work can be lower than for many
+
+481
+00:16:34,235 --> 00:16:36,012
+office workers in big cities.
+
+482
+00:16:36,362 --> 00:16:37,070
+In real life.
+
+483
+00:16:37,250 --> 00:16:40,069
+Compare a downtown office worker who spends
+
+484
+00:16:40,069 --> 00:16:42,167
+a few hundred dollars a month on
+
+485
+00:16:42,167 --> 00:16:45,248
+parking, transit, lunches out and work clothes,
+
+486
+00:16:45,248 --> 00:16:47,870
+with a tradesperson who drives a company
+
+487
+00:16:47,870 --> 00:16:49,313
+truck and packs lunch.
+
+488
+00:16:49,493 --> 00:16:50,547
+Over thirty years,
+
+489
+00:16:50,547 --> 00:16:52,716
+that difference alone could add up to
+
+490
+00:16:52,716 --> 00:16:54,415
+tens of thousands of dollars.
+
+491
+00:16:54,766 --> 00:16:56,101
+Advantage 12.
+
+492
+00:16:56,281 --> 00:16:58,359
+Skills that save money at home.
+
+493
+00:16:58,539 --> 00:16:59,746
+you never pay a plumber
+
+494
+00:17:00,097 --> 00:17:01,467
+Advantage twelve.
+
+495
+00:17:01,647 --> 00:17:03,732
+Skills that save money in your own
+
+496
+00:17:03,732 --> 00:17:04,038
+life.
+
+497
+00:17:04,218 --> 00:17:06,076
+A plumber never pays a plumber.
+
+498
+00:17:06,256 --> 00:17:08,729
+An electrician wires their own garage.
+
+499
+00:17:08,909 --> 00:17:09,963
+Over a lifetime,
+
+500
+00:17:09,963 --> 00:17:12,071
+the money saved on home repairs,
+
+501
+00:17:12,071 --> 00:17:15,167
+renovations and maintenance can be significant.
+
+502
+00:17:15,517 --> 00:17:18,411
+Those skills also make real estate investing
+
+503
+00:17:18,411 --> 00:17:18,872
+easier.
+
+504
+00:17:19,052 --> 00:17:21,834
+Many tradespeople buy fixer upper homes or
+
+505
+00:17:21,834 --> 00:17:24,350
+rental properties, do much of the work
+
+506
+00:17:24,350 --> 00:17:27,662
+themselves, and build equity faster than investors
+
+507
+00:17:27,662 --> 00:17:29,582
+who must hire everything out.
+
+508
+00:17:29,932 --> 00:17:32,500
+It's a quiet advantage that doesn't show
+
+509
+00:17:32,500 --> 00:17:33,655
+up in salary data,
+
+510
+00:17:33,655 --> 00:17:35,260
+but it can add up to tens
+
+511
+00:17:35,260 --> 00:17:37,699
+of thousands of dollars over a career,
+
+512
+00:17:37,699 --> 00:17:39,561
+and even more if it opens the
+
+513
+00:17:39,561 --> 00:17:40,845
+door to real estate.
+
+514
+00:17:41,195 --> 00:17:42,170
+In real life.
+
+515
+00:17:42,350 --> 00:17:44,522
+An electrician buys a dated house,
+
+516
+00:17:44,522 --> 00:17:46,950
+rewires it, updates the kitchen with a
+
+517
+00:17:46,950 --> 00:17:49,889
+plumber friend in exchange for electrical work
+
+518
+00:17:49,889 --> 00:17:50,719
+on his house,
+
+519
+00:17:50,719 --> 00:17:52,508
+and sells or rents it a year
+
+520
+00:17:52,508 --> 00:17:52,892
+later.
+
+521
+00:17:53,072 --> 00:17:55,520
+Their skills turn a fixer upper into
+
+522
+00:17:55,520 --> 00:17:58,173
+real equity, with labor costs far below
+
+523
+00:17:58,173 --> 00:18:00,282
+what a typical buyer would pay.
+
+524
+00:18:00,632 --> 00:18:01,873
+Now, to be fair,
+
+525
+00:18:01,873 --> 00:18:04,277
+the trades have real downsides.
+
+526
+00:18:04,457 --> 00:18:07,161
+Any honest comparison has to include them,
+
+527
+00:18:07,161 --> 00:18:09,542
+so let's go through the biggest ones.
+
+528
+00:18:09,893 --> 00:18:10,752
+Downside one.
+
+529
+00:18:10,932 --> 00:18:12,511
+It's physically demanding.
+
+530
+00:18:12,691 --> 00:18:14,195
+Crawl spaces, attics,
+
+531
+00:18:14,195 --> 00:18:17,203
+ladders, heat, cold and heavy lifting take
+
+532
+00:18:17,203 --> 00:18:19,494
+a toll on the body over decades.
+
+533
+00:18:19,674 --> 00:18:22,959
+Injuries happen, and many tradespeople plan for
+
+534
+00:18:22,959 --> 00:18:25,965
+less physical roles later in their careers,
+
+535
+00:18:25,965 --> 00:18:27,922
+like estimating, inspection,
+
+536
+00:18:27,922 --> 00:18:30,088
+teaching or running a business.
+
+537
+00:18:30,439 --> 00:18:31,588
+Downside two.
+
+538
+00:18:31,768 --> 00:18:33,208
+Work can be cyclical.
+
+539
+00:18:33,388 --> 00:18:35,689
+Construction slows during recessions,
+
+540
+00:18:35,689 --> 00:18:37,927
+and some areas have seasonal swings.
+
+541
+00:18:38,107 --> 00:18:40,182
+Service and repair work tends to be
+
+542
+00:18:40,182 --> 00:18:42,020
+steadier than new construction.
+
+543
+00:18:42,200 --> 00:18:43,349
+Downside three.
+
+544
+00:18:43,529 --> 00:18:46,965
+Early mornings, emergencies and travel can disrupt
+
+545
+00:18:46,965 --> 00:18:47,790
+family life.
+
+546
+00:18:48,140 --> 00:18:49,150
+Downside four.
+
+547
+00:18:49,330 --> 00:18:50,711
+Pay varies a lot.
+
+548
+00:18:50,891 --> 00:18:52,397
+A plumber in a rural,
+
+549
+00:18:52,397 --> 00:18:54,693
+low cost area may earn much less
+
+550
+00:18:54,693 --> 00:18:56,342
+than one in a big city,
+
+551
+00:18:56,342 --> 00:18:58,565
+though living costs differ too.
+
+552
+00:18:58,745 --> 00:19:00,220
+And downside five.
+
+553
+00:19:00,400 --> 00:19:02,455
+Not everyone enjoys this kind of work.
+
+554
+00:19:02,635 --> 00:19:04,341
+The money only matters if you can
+
+555
+00:19:04,341 --> 00:19:06,201
+do the job for years without burning
+
+556
+00:19:06,201 --> 00:19:06,408
+out.
+
+557
+00:19:06,758 --> 00:19:07,915
+Within the trades,
+
+558
+00:19:07,915 --> 00:19:10,101
+some specialties tend to pay more.
+
+559
+00:19:10,281 --> 00:19:11,814
+Here are a few worth knowing.
+
+560
+00:19:12,164 --> 00:19:15,531
+For electricians, industrial and commercial work,
+
+561
+00:19:15,531 --> 00:19:17,181
+controls and automation,
+
+562
+00:19:17,181 --> 00:19:20,411
+and specialties tied to growing industries like
+
+563
+00:19:20,411 --> 00:19:21,992
+solar, battery storage,
+
+564
+00:19:21,992 --> 00:19:24,466
+EV charging and data centers can pay
+
+565
+00:19:24,466 --> 00:19:26,734
+more than basic residential work.
+
+566
+00:19:26,914 --> 00:19:28,932
+Linemen, who work on power lines,
+
+567
+00:19:28,932 --> 00:19:30,949
+are often among the highest paid,
+
+568
+00:19:30,949 --> 00:19:33,578
+though the work is dangerous and demanding.
+
+569
+00:19:33,929 --> 00:19:37,311
+For plumbers, specialties like medical gas systems
+
+570
+00:19:37,311 --> 00:19:40,829
+in hospitals, commercial and industrial pipefitting,
+
+571
+00:19:40,829 --> 00:19:44,076
+steamfitting and backflow testing can raise pay.
+
+572
+00:19:44,256 --> 00:19:47,385
+Service plumbers who handle emergencies and work
+
+573
+00:19:47,385 --> 00:19:49,994
+on commission in some companies can also
+
+574
+00:19:49,994 --> 00:19:51,558
+earn well above average.
+
+575
+00:19:51,909 --> 00:19:56,050
+Specialties usually require extra training and certifications,
+
+576
+00:19:56,050 --> 00:19:58,455
+but they often come with higher pay,
+
+577
+00:19:58,455 --> 00:20:01,127
+more stable demand and less competition.
+
+578
+00:20:01,307 --> 00:20:04,344
+A tradesperson who adds one valuable certification
+
+579
+00:20:04,344 --> 00:20:06,956
+every few years keeps raising their earning
+
+580
+00:20:06,956 --> 00:20:07,321
+power.
+
+581
+00:20:07,671 --> 00:20:10,429
+Let's imagine three electricians who finished their
+
+582
+00:20:10,429 --> 00:20:11,781
+apprenticeships together.
+
+583
+00:20:11,961 --> 00:20:14,341
+The first stays a union journeyman for
+
+584
+00:20:14,341 --> 00:20:15,407
+his whole career,
+
+585
+00:20:15,407 --> 00:20:18,163
+works steady hours with occasional overtime,
+
+586
+00:20:18,163 --> 00:20:20,858
+invests in his retirement plan and pension,
+
+587
+00:20:20,858 --> 00:20:23,176
+and retires comfortably at sixty two.
+
+588
+00:20:23,356 --> 00:20:25,515
+No drama, just consistency.
+
+589
+00:20:25,866 --> 00:20:28,898
+The second moves into industrial controls,
+
+590
+00:20:28,898 --> 00:20:30,992
+earns several certifications,
+
+591
+00:20:30,992 --> 00:20:32,797
+and becomes a supervisor.
+
+592
+00:20:32,977 --> 00:20:35,537
+Her pay climbs well above the median,
+
+593
+00:20:35,537 --> 00:20:38,306
+and she manages crews on large projects.
+
+594
+00:20:38,486 --> 00:20:40,026
+She doesn't own a company,
+
+595
+00:20:40,026 --> 00:20:42,099
+but her specialty makes her hard to
+
+596
+00:20:42,099 --> 00:20:42,572
+replace.
+
+597
+00:20:42,923 --> 00:20:45,920
+The third starts a small residential electrical
+
+598
+00:20:45,920 --> 00:20:47,323
+company at thirty two.
+
+599
+00:20:47,503 --> 00:20:49,402
+The first years are stressful,
+
+600
+00:20:49,402 --> 00:20:51,555
+with long hours and uneven income.
+
+601
+00:20:51,735 --> 00:20:52,911
+But by forty five,
+
+602
+00:20:52,911 --> 00:20:54,413
+he has eight employees,
+
+603
+00:20:54,413 --> 00:20:56,635
+a steady stream of customers and a
+
+604
+00:20:56,635 --> 00:20:58,921
+business worth a meaningful amount.
+
+605
+00:20:59,101 --> 00:21:00,374
+He took the most risk,
+
+606
+00:21:00,374 --> 00:21:02,689
+and he has the highest potential reward.
+
+607
+00:21:03,039 --> 00:21:04,691
+Three different paths,
+
+608
+00:21:04,691 --> 00:21:05,442
+all solid.
+
+609
+00:21:05,622 --> 00:21:07,734
+That's one of the best things about
+
+610
+00:21:07,734 --> 00:21:09,966
+the trades: you can choose stability,
+
+611
+00:21:09,966 --> 00:21:11,655
+specialization or ownership,
+
+612
+00:21:11,655 --> 00:21:13,706
+and each can lead to a comfortable
+
+613
+00:21:13,706 --> 00:21:16,059
+financial life if you manage your money
+
+614
+00:21:16,059 --> 00:21:16,361
+well.
+
+615
+00:21:16,711 --> 00:21:19,787
+Earning well doesn't automatically mean building wealth.
+
+616
+00:21:19,967 --> 00:21:22,327
+Here are common money mistakes in the
+
+617
+00:21:22,327 --> 00:21:24,240
+trades, and how to avoid them.
+
+618
+00:21:24,590 --> 00:21:25,553
+Mistake one.
+
+619
+00:21:25,733 --> 00:21:27,080
+The big truck payment.
+
+620
+00:21:27,260 --> 00:21:30,047
+It's common to see young tradespeople with
+
+621
+00:21:30,047 --> 00:21:33,100
+expensive new trucks and big monthly payments.
+
+622
+00:21:33,280 --> 00:21:35,136
+A truck you need for work is
+
+623
+00:21:35,136 --> 00:21:35,799
+one thing.
+
+624
+00:21:35,979 --> 00:21:38,410
+A luxury truck financed for seven years
+
+625
+00:21:38,410 --> 00:21:40,654
+can drain money that could have been
+
+626
+00:21:40,654 --> 00:21:41,215
+invested.
+
+627
+00:21:41,566 --> 00:21:42,622
+Mistake two.
+
+628
+00:21:42,802 --> 00:21:45,217
+Spending overtime as if it's permanent.
+
+629
+00:21:45,397 --> 00:21:48,300
+Overtime comes and goes with busy seasons
+
+630
+00:21:48,300 --> 00:21:49,716
+and economic cycles.
+
+631
+00:21:49,896 --> 00:21:53,512
+Smart tradespeople build their lifestyle on base
+
+632
+00:21:53,512 --> 00:21:56,223
+pay and save or invest the overtime.
+
+633
+00:21:56,403 --> 00:21:57,413
+Mistake three.
+
+634
+00:21:57,593 --> 00:21:58,963
+Not planning for the body.
+
+635
+00:21:59,143 --> 00:22:01,310
+Physical work gets harder with age,
+
+636
+00:22:01,310 --> 00:22:03,847
+so save aggressively in your twenties and
+
+637
+00:22:03,847 --> 00:22:06,137
+thirties and plan for a less physical
+
+638
+00:22:06,137 --> 00:22:06,818
+role later.
+
+639
+00:22:07,168 --> 00:22:08,085
+Mistake four.
+
+640
+00:22:08,265 --> 00:22:10,273
+Ignoring retirement accounts.
+
+641
+00:22:10,453 --> 00:22:12,862
+If your employer or union offers a
+
+642
+00:22:12,862 --> 00:22:15,979
+retirement plan with matching contributions,
+
+643
+00:22:15,979 --> 00:22:17,396
+take full advantage.
+
+644
+00:22:17,576 --> 00:22:19,311
+And if you're self employed,
+
+645
+00:22:19,311 --> 00:22:22,471
+look into retirement accounts designed for business
+
+646
+00:22:22,471 --> 00:22:22,905
+owners.
+
+647
+00:22:23,085 --> 00:22:24,072
+Mistake five.
+
+648
+00:22:24,252 --> 00:22:25,503
+No emergency fund,
+
+649
+00:22:25,503 --> 00:22:28,006
+which matters even more in work that
+
+650
+00:22:28,006 --> 00:22:29,952
+can be seasonal or cyclical.
+
+651
+00:22:30,303 --> 00:22:32,236
+If you're starting an apprenticeship,
+
+652
+00:22:32,236 --> 00:22:33,646
+here's a simple money plan.
+
+653
+00:22:33,826 --> 00:22:36,528
+First, build a starter emergency fund of
+
+654
+00:22:36,528 --> 00:22:37,946
+one thousand dollars,
+
+655
+00:22:37,946 --> 00:22:40,377
+then work toward three to six months
+
+656
+00:22:40,377 --> 00:22:41,187
+of expenses.
+
+657
+00:22:41,367 --> 00:22:44,845
+Second, contribute enough to any retirement plan
+
+658
+00:22:44,845 --> 00:22:47,237
+to get the full employer or union
+
+659
+00:22:47,237 --> 00:22:47,671
+match.
+
+660
+00:22:48,022 --> 00:22:50,293
+Third, avoid big debt early,
+
+661
+00:22:50,293 --> 00:22:53,294
+especially a car or truck payment you
+
+662
+00:22:53,294 --> 00:22:54,187
+don't need.
+
+663
+00:22:54,367 --> 00:22:56,665
+Buy reliable and used if you can.
+
+664
+00:22:56,845 --> 00:22:59,134
+Fourth, every time you get a raise,
+
+665
+00:22:59,134 --> 00:23:00,770
+save at least half of it.
+
+666
+00:23:00,950 --> 00:23:02,805
+Your lifestyle grows a little,
+
+667
+00:23:02,805 --> 00:23:04,537
+and your savings grow a lot.
+
+668
+00:23:04,887 --> 00:23:08,003
+Fifth, invest consistently in low cost index
+
+669
+00:23:08,003 --> 00:23:10,483
+funds through a retirement account.
+
+670
+00:23:10,663 --> 00:23:13,702
+Starting at nineteen or twenty gives compounding
+
+671
+00:23:13,702 --> 00:23:14,715
+decades to work.
+
+672
+00:23:14,895 --> 00:23:17,279
+Follow this plan through a four year
+
+673
+00:23:17,279 --> 00:23:20,127
+apprenticeship, and you could finish with a
+
+674
+00:23:20,127 --> 00:23:21,518
+solid emergency fund,
+
+675
+00:23:21,518 --> 00:23:24,233
+a growing retirement account and no debt,
+
+676
+00:23:24,233 --> 00:23:26,750
+before many of your friends even start
+
+677
+00:23:26,750 --> 00:23:27,677
+their careers.
+
+678
+00:23:28,027 --> 00:23:29,671
+Here's what that could look like in
+
+679
+00:23:29,671 --> 00:23:30,047
+numbers.
+
+680
+00:23:30,227 --> 00:23:33,098
+Say an apprentice invests three hundred dollars
+
+681
+00:23:33,098 --> 00:23:35,236
+a month from age nineteen to twenty
+
+682
+00:23:35,236 --> 00:23:38,168
+three, about fourteen thousand dollars in total.
+
+683
+00:23:38,348 --> 00:23:40,124
+Then they never add another dollar.
+
+684
+00:23:40,304 --> 00:23:42,884
+At an illustrative seven percent a year,
+
+685
+00:23:42,884 --> 00:23:45,077
+that money could grow to more than
+
+686
+00:23:45,077 --> 00:23:47,721
+two hundred thousand dollars by age sixty
+
+687
+00:23:47,721 --> 00:23:47,979
+two.
+
+688
+00:23:48,159 --> 00:23:51,084
+Four years of discipline during an apprenticeship
+
+689
+00:23:51,084 --> 00:23:52,935
+can quietly fund a big piece of
+
+690
+00:23:52,935 --> 00:23:53,592
+retirement.
+
+691
+00:23:53,942 --> 00:23:56,053
+And if they keep investing a modest
+
+692
+00:23:56,053 --> 00:23:57,863
+amount for their whole career,
+
+693
+00:23:57,863 --> 00:23:59,673
+the total could be far larger,
+
+694
+00:23:59,673 --> 00:24:01,965
+especially with an employer match or a
+
+695
+00:24:01,965 --> 00:24:02,870
+pension on top.
+
+696
+00:24:03,050 --> 00:24:05,556
+The trades provide the income and the
+
+697
+00:24:05,556 --> 00:24:06,301
+head start.
+
+698
+00:24:06,481 --> 00:24:08,787
+The money habits turn that head start
+
+699
+00:24:08,787 --> 00:24:09,847
+into real wealth.
+
+700
+00:24:10,198 --> 00:24:11,823
+Now, three angles.
+
+701
+00:24:12,003 --> 00:24:13,361
+First, the numbers.
+
+702
+00:24:13,541 --> 00:24:16,279
+Let's compare two people over a lifetime,
+
+703
+00:24:16,279 --> 00:24:18,348
+using simplified illustrations.
+
+704
+00:24:18,698 --> 00:24:20,544
+Two eighteen year olds.
+
+705
+00:24:20,724 --> 00:24:23,185
+One apprentice, one college student.
+
+706
+00:24:23,365 --> 00:24:24,241
+By twenty two,
+
+707
+00:24:24,241 --> 00:24:26,805
+the apprentice has earned and saved while
+
+708
+00:24:26,805 --> 00:24:28,369
+the student has borrowed.
+
+709
+00:24:28,719 --> 00:24:30,843
+Meet two eighteen year olds.
+
+710
+00:24:31,023 --> 00:24:33,698
+Alex becomes an electrical apprentice,
+
+711
+00:24:33,698 --> 00:24:36,302
+earning a modest wage that rises each
+
+712
+00:24:36,302 --> 00:24:36,654
+year.
+
+713
+00:24:36,834 --> 00:24:39,087
+Sam goes to college and graduates at
+
+714
+00:24:39,087 --> 00:24:41,716
+twenty two with thirty thousand dollars in
+
+715
+00:24:41,716 --> 00:24:42,593
+student loans.
+
+716
+00:24:42,773 --> 00:24:43,868
+Over four years,
+
+717
+00:24:43,868 --> 00:24:46,675
+Alex earns well over one hundred thousand
+
+718
+00:24:46,675 --> 00:24:48,113
+dollars in total and,
+
+719
+00:24:48,113 --> 00:24:50,851
+living with family and saving carefully,
+
+720
+00:24:50,851 --> 00:24:53,384
+invests twenty five thousand dollars.
+
+721
+00:24:53,734 --> 00:24:54,614
+At twenty two,
+
+722
+00:24:54,614 --> 00:24:57,318
+Alex has about twenty five thousand dollars
+
+723
+00:24:57,318 --> 00:24:59,771
+invested and a nearly finished license.
+
+724
+00:24:59,951 --> 00:25:01,113
+Sam has a degree,
+
+725
+00:25:01,113 --> 00:25:03,642
+a new job and thirty thousand dollars
+
+726
+00:25:03,642 --> 00:25:04,189
+of debt.
+
+727
+00:25:04,369 --> 00:25:06,774
+That's a fifty five thousand dollar gap
+
+728
+00:25:06,774 --> 00:25:09,057
+in net worth before Sam's career even
+
+729
+00:25:09,057 --> 00:25:09,489
+begins.
+
+730
+00:25:09,839 --> 00:25:11,499
+Now let compounding work.
+
+731
+00:25:11,679 --> 00:25:14,445
+If Alex's twenty five thousand dollars grows
+
+732
+00:25:14,445 --> 00:25:16,897
+at an illustrative seven percent a year
+
+733
+00:25:16,897 --> 00:25:18,155
+until age sixty two,
+
+734
+00:25:18,155 --> 00:25:20,921
+it could become around three hundred seventy
+
+735
+00:25:20,921 --> 00:25:23,939
+thousand dollars, without adding another dollar.
+
+736
+00:25:24,119 --> 00:25:27,045
+Meanwhile, Sam spends years paying off the
+
+737
+00:25:27,045 --> 00:25:29,274
+loan before investing seriously.
+
+738
+00:25:29,624 --> 00:25:32,829
+Of course, Sam's career might eventually pay
+
+739
+00:25:32,829 --> 00:25:35,742
+more, especially in a high paying field.
+
+740
+00:25:35,922 --> 00:25:38,716
+Many college graduates do catch up and
+
+741
+00:25:38,716 --> 00:25:40,775
+pass tradespeople over time.
+
+742
+00:25:40,955 --> 00:25:43,147
+The point isn't that one path always
+
+743
+00:25:43,147 --> 00:25:43,451
+wins.
+
+744
+00:25:43,631 --> 00:25:45,674
+It's that the trades offer a head
+
+745
+00:25:45,674 --> 00:25:47,840
+start that's easy to underestimate,
+
+746
+00:25:47,840 --> 00:25:49,944
+and if Alex later owns a business,
+
+747
+00:25:49,944 --> 00:25:51,863
+the gap could grow much larger.
+
+748
+00:25:52,213 --> 00:25:54,999
+Now add ownership to Alex's story.
+
+749
+00:25:55,179 --> 00:25:56,416
+Say at thirty five,
+
+750
+00:25:56,416 --> 00:25:59,604
+Alex starts an electrical contracting company and
+
+751
+00:25:59,604 --> 00:26:00,711
+grows it to earn,
+
+752
+00:26:00,711 --> 00:26:02,012
+in our illustration,
+
+753
+00:26:02,012 --> 00:26:04,811
+around one hundred fifty thousand dollars a
+
+754
+00:26:04,811 --> 00:26:07,219
+year in owner earnings by forty five.
+
+755
+00:26:07,399 --> 00:26:08,752
+Twenty years later,
+
+756
+00:26:08,752 --> 00:26:11,030
+Alex sells the company for a few
+
+757
+00:26:11,030 --> 00:26:12,739
+times its yearly profit.
+
+758
+00:26:12,919 --> 00:26:15,092
+That sale alone could be worth more
+
+759
+00:26:15,092 --> 00:26:17,202
+than many office workers save in a
+
+760
+00:26:17,202 --> 00:26:17,761
+lifetime.
+
+761
+00:26:18,111 --> 00:26:19,202
+And what about Sam?
+
+762
+00:26:19,382 --> 00:26:21,240
+If Sam becomes an engineer,
+
+763
+00:26:21,240 --> 00:26:24,337
+a nurse practitioner or a successful manager,
+
+764
+00:26:24,337 --> 00:26:26,470
+Sam may earn more than Alex for
+
+765
+00:26:26,470 --> 00:26:27,915
+much of their career.
+
+766
+00:26:28,095 --> 00:26:30,545
+Many college paths pay off very well.
+
+767
+00:26:30,725 --> 00:26:32,800
+The real lesson is that both paths
+
+768
+00:26:32,800 --> 00:26:33,837
+can build wealth,
+
+769
+00:26:33,837 --> 00:26:36,217
+and the trades deserve to be considered
+
+770
+00:26:36,217 --> 00:26:38,597
+seriously, not dismissed as a fallback.
+
+771
+00:26:38,947 --> 00:26:41,633
+The biggest variable in both stories isn't
+
+772
+00:26:41,633 --> 00:26:42,337
+the career.
+
+773
+00:26:42,517 --> 00:26:44,301
+It's what each person does with the
+
+774
+00:26:44,301 --> 00:26:44,607
+money.
+
+775
+00:26:44,787 --> 00:26:47,075
+A plumber who spends everything ends up
+
+776
+00:26:47,075 --> 00:26:49,129
+with nothing, and so does a lawyer.
+
+777
+00:26:49,309 --> 00:26:52,205
+A tradesperson who invests early and avoids
+
+778
+00:26:52,205 --> 00:26:54,563
+debt can end up wealthier than many
+
+779
+00:26:54,563 --> 00:26:56,112
+high earners who don't.
+
+780
+00:26:56,462 --> 00:26:58,422
+Even if you love your office job,
+
+781
+00:26:58,422 --> 00:27:01,094
+the trades teach some valuable money lessons.
+
+782
+00:27:01,274 --> 00:27:02,133
+Lesson one.
+
+783
+00:27:02,313 --> 00:27:04,843
+Avoid debt for credentials when there's a
+
+784
+00:27:04,843 --> 00:27:06,818
+cheaper path to the same skills.
+
+785
+00:27:06,998 --> 00:27:11,156
+Certifications, employer paid training and community colleges
+
+786
+00:27:11,156 --> 00:27:14,224
+can sometimes deliver similar results for far
+
+787
+00:27:14,224 --> 00:27:14,974
+less money.
+
+788
+00:27:15,324 --> 00:27:16,311
+Lesson two.
+
+789
+00:27:16,491 --> 00:27:18,754
+Build skills that are hard to replace.
+
+790
+00:27:18,934 --> 00:27:21,481
+The trades are protected because the work
+
+791
+00:27:21,481 --> 00:27:22,847
+is physical and local.
+
+792
+00:27:23,027 --> 00:27:24,192
+In office jobs,
+
+793
+00:27:24,192 --> 00:27:26,290
+the equivalent is judgment,
+
+794
+00:27:26,290 --> 00:27:30,251
+relationships and expertise that AI and outsourcing
+
+795
+00:27:30,251 --> 00:27:31,572
+struggle to copy.
+
+796
+00:27:31,752 --> 00:27:32,797
+Lesson three.
+
+797
+00:27:32,977 --> 00:27:34,765
+Look for a path to ownership.
+
+798
+00:27:34,945 --> 00:27:38,294
+Many office workers can eventually start consulting
+
+799
+00:27:38,294 --> 00:27:41,052
+practices or buy small businesses in their
+
+800
+00:27:41,052 --> 00:27:41,446
+field.
+
+801
+00:27:41,797 --> 00:27:42,888
+And lesson four.
+
+802
+00:27:43,068 --> 00:27:44,833
+Get paid for extra effort.
+
+803
+00:27:45,013 --> 00:27:46,963
+Tradespeople earn overtime.
+
+804
+00:27:47,143 --> 00:27:49,637
+Office workers can look for bonuses,
+
+805
+00:27:49,637 --> 00:27:53,031
+commissions, side consulting or roles where extra
+
+806
+00:27:53,031 --> 00:27:55,317
+results translate into extra pay.
+
+807
+00:27:55,497 --> 00:27:57,786
+Effort that isn't rewarded is a donation
+
+808
+00:27:57,786 --> 00:27:58,759
+to your employer.
+
+809
+00:27:59,109 --> 00:28:00,154
+Second angle.
+
+810
+00:28:00,334 --> 00:28:01,437
+The psychology.
+
+811
+00:28:01,617 --> 00:28:03,764
+Why do so many people overlook the
+
+812
+00:28:03,764 --> 00:28:04,206
+trades?
+
+813
+00:28:04,556 --> 00:28:06,518
+The first reason is status.
+
+814
+00:28:06,698 --> 00:28:09,778
+For decades, schools and parents pushed college
+
+815
+00:28:09,778 --> 00:28:12,335
+as the respectable path and treated the
+
+816
+00:28:12,335 --> 00:28:13,908
+trades as a backup plan.
+
+817
+00:28:14,088 --> 00:28:15,651
+That stigma is fading,
+
+818
+00:28:15,651 --> 00:28:16,433
+but slowly.
+
+819
+00:28:16,613 --> 00:28:19,190
+Many people still feel a blue collar
+
+820
+00:28:19,190 --> 00:28:20,551
+job is a step down,
+
+821
+00:28:20,551 --> 00:28:22,197
+even when it pays more.
+
+822
+00:28:22,547 --> 00:28:24,578
+The second reason is invisibility.
+
+823
+00:28:24,758 --> 00:28:26,788
+Office success is visible:
+
+824
+00:28:26,788 --> 00:28:29,286
+titles, offices, LinkedIn posts.
+
+825
+00:28:29,466 --> 00:28:31,655
+A plumber with a growing business and
+
+826
+00:28:31,655 --> 00:28:33,843
+a paid off house doesn't announce it.
+
+827
+00:28:34,023 --> 00:28:36,122
+The wealth in the trades is quiet,
+
+828
+00:28:36,122 --> 00:28:37,541
+so people don't see it.
+
+829
+00:28:37,891 --> 00:28:40,352
+The third reason is outdated information.
+
+830
+00:28:40,532 --> 00:28:42,564
+Many parents' views of the trades are
+
+831
+00:28:42,564 --> 00:28:44,596
+based on how things were decades ago.
+
+832
+00:28:44,776 --> 00:28:47,413
+Today's trades involve technology,
+
+833
+00:28:47,413 --> 00:28:48,965
+problem solving and,
+
+834
+00:28:48,965 --> 00:28:50,051
+in many cases,
+
+835
+00:28:50,051 --> 00:28:53,077
+strong pay and ownership opportunities.
+
+836
+00:28:53,427 --> 00:28:55,572
+The fourth reason is the comfort of
+
+837
+00:28:55,572 --> 00:28:56,492
+a clear script.
+
+838
+00:28:56,672 --> 00:28:58,878
+College is a familiar path:
+
+839
+00:28:58,878 --> 00:29:00,840
+apply, attend, graduate.
+
+840
+00:29:01,020 --> 00:29:03,200
+The trades can feel less clear,
+
+841
+00:29:03,200 --> 00:29:05,522
+with apprenticeship applications,
+
+842
+00:29:05,522 --> 00:29:08,476
+union locals and licensing steps that many
+
+843
+00:29:08,476 --> 00:29:10,586
+families have never navigated.
+
+844
+00:29:10,766 --> 00:29:12,337
+Unfamiliar feels risky,
+
+845
+00:29:12,337 --> 00:29:13,634
+even when it isn't.
+
+846
+00:29:13,984 --> 00:29:16,563
+And the fifth reason is underestimating the
+
+847
+00:29:16,563 --> 00:29:17,223
+brain work.
+
+848
+00:29:17,403 --> 00:29:19,980
+People picture the trades as purely physical.
+
+849
+00:29:20,160 --> 00:29:23,427
+In reality, diagnosing an electrical fault or
+
+850
+00:29:23,427 --> 00:29:26,983
+designing a plumbing system requires knowledge of
+
+851
+00:29:26,983 --> 00:29:29,959
+codes, math, physics and problem solving.
+
+852
+00:29:30,139 --> 00:29:32,733
+Many tradespeople are some of the sharpest
+
+853
+00:29:32,733 --> 00:29:34,772
+problem solvers you'll ever meet.
+
+854
+00:29:35,122 --> 00:29:35,911
+The takeaway.
+
+855
+00:29:36,091 --> 00:29:37,902
+The trades aren't a backup plan.
+
+856
+00:29:38,082 --> 00:29:39,098
+For many people,
+
+857
+00:29:39,098 --> 00:29:41,446
+they're a front door to solid income,
+
+858
+00:29:41,446 --> 00:29:43,667
+little debt and business ownership.
+
+859
+00:29:44,017 --> 00:29:44,864
+Third angle.
+
+860
+00:29:45,044 --> 00:29:45,776
+The playbook.
+
+861
+00:29:45,956 --> 00:29:48,115
+How does someone actually get started?
+
+862
+00:29:48,465 --> 00:29:49,219
+Step one.
+
+863
+00:29:49,399 --> 00:29:50,142
+Explore.
+
+864
+00:29:50,322 --> 00:29:52,440
+Talk to plumbers and electricians,
+
+865
+00:29:52,440 --> 00:29:54,184
+visit a job site if you can,
+
+866
+00:29:54,184 --> 00:29:56,301
+and try some basic projects to see
+
+867
+00:29:56,301 --> 00:29:57,672
+if you enjoy the work.
+
+868
+00:29:57,852 --> 00:29:58,850
+Step two.
+
+869
+00:29:59,030 --> 00:30:02,107
+Look for apprenticeships through union locals,
+
+870
+00:30:02,107 --> 00:30:04,649
+contractor associations and employers.
+
+871
+00:30:04,829 --> 00:30:08,174
+Many list openings online and accept applications
+
+872
+00:30:08,174 --> 00:30:09,949
+at specific times of year.
+
+873
+00:30:10,299 --> 00:30:11,297
+Step three.
+
+874
+00:30:11,477 --> 00:30:14,749
+Consider a pre apprenticeship or trade school
+
+875
+00:30:14,749 --> 00:30:17,584
+program if you need basic skills first.
+
+876
+00:30:17,764 --> 00:30:18,855
+Step four.
+
+877
+00:30:19,035 --> 00:30:22,134
+Complete the apprenticeship and earn your journeyman
+
+878
+00:30:22,134 --> 00:30:22,611
+license.
+
+879
+00:30:22,791 --> 00:30:23,697
+Step five.
+
+880
+00:30:23,877 --> 00:30:26,738
+Keep learning: specialties like solar,
+
+881
+00:30:26,738 --> 00:30:29,749
+EV chargers, controls or medical gas can
+
+882
+00:30:29,749 --> 00:30:31,029
+raise your value.
+
+883
+00:30:31,379 --> 00:30:32,447
+Step six.
+
+884
+00:30:32,627 --> 00:30:34,252
+Manage your money from day one.
+
+885
+00:30:34,432 --> 00:30:37,120
+Save and invest part of every paycheck,
+
+886
+00:30:37,120 --> 00:30:40,841
+especially during the apprenticeship when habits form.
+
+887
+00:30:41,021 --> 00:30:42,043
+Step seven.
+
+888
+00:30:42,223 --> 00:30:43,839
+If you want ownership,
+
+889
+00:30:43,839 --> 00:30:45,603
+learn the business side:
+
+890
+00:30:45,603 --> 00:30:49,351
+estimating, sales, bookkeeping and managing people.
+
+891
+00:30:49,531 --> 00:30:51,883
+Many owners start with side work or
+
+892
+00:30:51,883 --> 00:30:54,303
+buy a company from a retiring owner.
+
+893
+00:30:54,653 --> 00:30:55,802
+And if you're older,
+
+894
+00:30:55,802 --> 00:30:56,835
+it's not too late.
+
+895
+00:30:57,015 --> 00:30:59,266
+Many people switch into the trades in
+
+896
+00:30:59,266 --> 00:31:00,847
+their thirties or forties.
+
+897
+00:31:01,027 --> 00:31:03,540
+Maturity and reliability are valued,
+
+898
+00:31:03,540 --> 00:31:06,332
+and apprenticeships pay while you learn.
+
+899
+00:31:06,512 --> 00:31:08,420
+The physical demands are real,
+
+900
+00:31:08,420 --> 00:31:09,947
+so consider your health,
+
+901
+00:31:09,947 --> 00:31:12,236
+but don't assume the door is closed.
+
+902
+00:31:12,586 --> 00:31:14,594
+How do you choose between plumbing and
+
+903
+00:31:14,594 --> 00:31:15,175
+electrical?
+
+904
+00:31:15,355 --> 00:31:18,766
+Electrical work tends to involve more problem
+
+905
+00:31:18,766 --> 00:31:20,434
+solving with circuits,
+
+906
+00:31:20,434 --> 00:31:22,026
+codes and technology,
+
+907
+00:31:22,026 --> 00:31:23,087
+and less mess.
+
+908
+00:31:23,267 --> 00:31:24,936
+Plumbing involves water,
+
+909
+00:31:24,936 --> 00:31:25,979
+drains and gas,
+
+910
+00:31:25,979 --> 00:31:27,022
+can be messier,
+
+911
+00:31:27,022 --> 00:31:29,596
+and often has a big emergency service
+
+912
+00:31:29,596 --> 00:31:30,291
+component.
+
+913
+00:31:30,471 --> 00:31:32,898
+Both pay similarly at the median.
+
+914
+00:31:33,078 --> 00:31:34,838
+Try a day shadowing each,
+
+915
+00:31:34,838 --> 00:31:37,232
+and choose the one you can imagine
+
+916
+00:31:37,232 --> 00:31:38,499
+doing for decades.
+
+917
+00:31:38,850 --> 00:31:42,052
+And don't forget related trades with similar
+
+918
+00:31:42,052 --> 00:31:44,163
+advantages: HVAC technicians,
+
+919
+00:31:44,163 --> 00:31:46,274
+elevator installers, welders,
+
+920
+00:31:46,274 --> 00:31:48,312
+pipefitters and lineworkers.
+
+921
+00:31:48,492 --> 00:31:49,413
+Some of these,
+
+922
+00:31:49,413 --> 00:31:51,190
+like elevator installation,
+
+923
+00:31:51,190 --> 00:31:53,823
+have even higher median pay according to
+
+924
+00:31:53,823 --> 00:31:55,863
+the Bureau of Labor Statistics,
+
+925
+00:31:55,863 --> 00:31:58,233
+though openings can be more limited.
+
+926
+00:31:58,583 --> 00:31:59,477
+Question one.
+
+927
+00:31:59,657 --> 00:32:02,246
+Do plumbers or electricians earn more?
+
+928
+00:32:02,426 --> 00:32:05,083
+Median pay is very similar nationally,
+
+929
+00:32:05,083 --> 00:32:06,761
+but it varies by region,
+
+930
+00:32:06,761 --> 00:32:08,649
+specialty and union status.
+
+931
+00:32:08,829 --> 00:32:09,723
+Question two.
+
+932
+00:32:09,903 --> 00:32:11,396
+How long does it take to get
+
+933
+00:32:11,396 --> 00:32:11,876
+licensed?
+
+934
+00:32:12,056 --> 00:32:14,938
+Typically four to five years of apprenticeship,
+
+935
+00:32:14,938 --> 00:32:16,287
+then a licensing exam,
+
+936
+00:32:16,287 --> 00:32:18,372
+though requirements vary by state.
+
+937
+00:32:18,722 --> 00:32:19,709
+Question three.
+
+938
+00:32:19,889 --> 00:32:21,328
+Is college a waste of money?
+
+939
+00:32:21,508 --> 00:32:21,717
+No.
+
+940
+00:32:21,897 --> 00:32:24,556
+Many careers require it and pay well.
+
+941
+00:32:24,736 --> 00:32:27,446
+The point is to compare paths honestly,
+
+942
+00:32:27,446 --> 00:32:29,531
+including cost, debt and time.
+
+943
+00:32:29,711 --> 00:32:30,651
+Question four.
+
+944
+00:32:30,831 --> 00:32:32,689
+Can women succeed in the trades?
+
+945
+00:32:32,869 --> 00:32:33,832
+Absolutely.
+
+946
+00:32:34,012 --> 00:32:35,967
+Women are a growing part of the
+
+947
+00:32:35,967 --> 00:32:38,993
+trades, and many programs actively recruit them.
+
+948
+00:32:39,343 --> 00:32:40,341
+Question five.
+
+949
+00:32:40,521 --> 00:32:42,706
+What about the physical toll as I
+
+950
+00:32:42,706 --> 00:32:42,971
+age?
+
+951
+00:32:43,151 --> 00:32:45,850
+Many tradespeople move into estimating,
+
+952
+00:32:45,850 --> 00:32:47,996
+project management, inspection,
+
+953
+00:32:47,996 --> 00:32:51,248
+teaching or business ownership in their forties
+
+954
+00:32:51,248 --> 00:32:52,079
+and fifties.
+
+955
+00:32:52,259 --> 00:32:53,754
+Planning for that shift,
+
+956
+00:32:53,754 --> 00:32:55,623
+and saving aggressively early,
+
+957
+00:32:55,623 --> 00:32:57,367
+makes the transition easier.
+
+958
+00:32:57,547 --> 00:32:58,685
+Question six.
+
+959
+00:32:58,865 --> 00:33:00,057
+Do I need to be good at
+
+960
+00:33:00,057 --> 00:33:00,316
+math?
+
+961
+00:33:00,496 --> 00:33:01,560
+Basic math helps,
+
+962
+00:33:01,560 --> 00:33:03,311
+especially for electricians,
+
+963
+00:33:03,311 --> 00:33:05,814
+but apprenticeships teach what you need.
+
+964
+00:33:06,164 --> 00:33:07,151
+Question seven.
+
+965
+00:33:07,331 --> 00:33:09,199
+Can I start a trade business without
+
+966
+00:33:09,199 --> 00:33:09,978
+being a master?
+
+967
+00:33:10,158 --> 00:33:12,965
+Most states require a master or contractor
+
+968
+00:33:12,965 --> 00:33:15,573
+license to run a plumbing or electrical
+
+969
+00:33:15,573 --> 00:33:18,180
+company, or to employ someone who holds
+
+970
+00:33:18,180 --> 00:33:18,447
+one.
+
+971
+00:33:18,627 --> 00:33:20,701
+Check your state's rules early,
+
+972
+00:33:20,701 --> 00:33:24,780
+because licensing determines when ownership becomes possible.
+
+973
+00:33:25,131 --> 00:33:27,337
+Let's recap the twelve advantages.
+
+974
+00:33:27,517 --> 00:33:28,875
+Pay above the median.
+
+975
+00:33:29,055 --> 00:33:29,926
+Paid to learn.
+
+976
+00:33:30,106 --> 00:33:31,952
+Little or no student debt.
+
+977
+00:33:32,132 --> 00:33:33,502
+A four year head start.
+
+978
+00:33:33,682 --> 00:33:35,899
+Overtime and emergency pay.
+
+979
+00:33:36,079 --> 00:33:36,915
+Side work.
+
+980
+00:33:37,095 --> 00:33:38,871
+A clear path to ownership.
+
+981
+00:33:39,051 --> 00:33:41,350
+Hard to automate or outsource.
+
+982
+00:33:41,530 --> 00:33:43,202
+Demand from retirements.
+
+983
+00:33:43,382 --> 00:33:44,706
+Union benefits.
+
+984
+00:33:44,886 --> 00:33:46,534
+Lower costs of working.
+
+985
+00:33:46,714 --> 00:33:49,106
+And skills that save money at home.
+
+986
+00:33:49,456 --> 00:33:51,255
+And the honest tradeoffs:
+
+987
+00:33:51,255 --> 00:33:53,053
+physical demands, cycles,
+
+988
+00:33:53,053 --> 00:33:55,284
+schedules and variation in pay.
+
+989
+00:33:55,464 --> 00:33:57,276
+The trades aren't for everyone,
+
+990
+00:33:57,276 --> 00:33:58,737
+but for the right person,
+
+991
+00:33:58,737 --> 00:34:00,314
+they can be one of the most
+
+992
+00:34:00,314 --> 00:34:02,418
+reliable paths to wealth in America.
+
+993
+00:34:02,769 --> 00:34:04,697
+So next time you see a plumber's
+
+994
+00:34:04,697 --> 00:34:06,926
+van or an electrician's truck in your
+
+995
+00:34:06,926 --> 00:34:09,758
+neighborhood, remember what might be behind it.
+
+996
+00:34:09,938 --> 00:34:12,340
+Maybe a person who started earning at
+
+997
+00:34:12,340 --> 00:34:14,547
+eighteen, never had student loans,
+
+998
+00:34:14,547 --> 00:34:17,208
+invested early, and is quietly building a
+
+999
+00:34:17,208 --> 00:34:19,480
+business and a net worth that would
+
+1000
+00:34:19,480 --> 00:34:21,687
+surprise most people driving past.
+
+1001
+00:34:21,867 --> 00:34:23,850
+Quiet wealth is still wealth,
+
+1002
+00:34:23,850 --> 00:34:25,013
+and in many ways,
+
+1003
+00:34:25,013 --> 00:34:26,860
+it's the most durable kind.
+
+1004
+00:34:27,210 --> 00:34:28,781
+If you or someone you know is
+
+1005
+00:34:28,781 --> 00:34:29,648
+choosing a path,
+
+1006
+00:34:29,648 --> 00:34:31,111
+share this video with them.
+
+1007
+00:34:31,291 --> 00:34:32,212
+And this week,
+
+1008
+00:34:32,212 --> 00:34:35,172
+look up the apprenticeship programs near you,
+
+1009
+00:34:35,172 --> 00:34:37,014
+just to see what's possible.
+
+1010
+00:34:37,194 --> 00:34:39,921
+Many programs hold information sessions,
+
+1011
+00:34:39,921 --> 00:34:42,716
+and some accept applications only once or
+
+1012
+00:34:42,716 --> 00:34:43,602
+twice a year,
+
+1013
+00:34:43,602 --> 00:34:45,988
+so knowing the dates early can save
+
+1014
+00:34:45,988 --> 00:34:46,738
+you months.
+
+1015
+00:34:46,918 --> 00:34:48,871
+And if you're already in the trades,
+
+1016
+00:34:48,871 --> 00:34:50,606
+tell me in the comments what you
+
+1017
+00:34:50,606 --> 00:34:52,613
+wish someone had told you about money
+
+1018
+00:34:52,613 --> 00:34:53,536
+when you started.
+
+1019
+00:34:53,716 --> 00:34:55,862
+Your answer could help someone who's just
+
+1020
+00:34:55,862 --> 00:34:56,386
+beginning.
+
+1021
+00:34:56,566 --> 00:34:57,889
+I'm Ryan Rover.
+
+1022
+00:34:58,069 --> 00:34:59,253
+Respect the trades,
+
+1023
+00:34:59,253 --> 00:35:00,374
+build your wealth,
+
+1024
+00:35:00,374 --> 00:35:02,119
+and I'll see you in the next
+
+1025
+00:35:02,119 --> 00:35:02,493
+video.
