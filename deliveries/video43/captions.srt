@@ -1,0 +1,4091 @@
+1
+00:00:00,000 --> 00:00:01,776
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,956 --> 00:00:04,313
+Here's a question most people never ask.
+
+3
+00:00:04,493 --> 00:00:06,991
+Your credit card gives you rewards,
+
+4
+00:00:06,991 --> 00:00:07,776
+a free app,
+
+5
+00:00:07,776 --> 00:00:11,273
+fraud protection, sometimes even airport lounges.
+
+6
+00:00:11,453 --> 00:00:13,241
+So who's paying for all of that?
+
+7
+00:00:13,421 --> 00:00:15,766
+Because the card company isn't a charity.
+
+8
+00:00:15,946 --> 00:00:17,677
+Today, we follow the money,
+
+9
+00:00:17,677 --> 00:00:19,856
+and we find out exactly how credit
+
+10
+00:00:19,856 --> 00:00:22,099
+card companies make money from you.
+
+11
+00:00:22,450 --> 00:00:23,781
+In twenty twenty two,
+
+12
+00:00:23,781 --> 00:00:27,204
+according to the Consumer Financial Protection Bureau,
+
+13
+00:00:27,204 --> 00:00:30,310
+credit card companies charged Americans more than
+
+14
+00:00:30,310 --> 00:00:32,845
+one hundred billion dollars in interest,
+
+15
+00:00:32,845 --> 00:00:35,507
+plus around twenty five billion dollars in
+
+16
+00:00:35,507 --> 00:00:35,824
+fees.
+
+17
+00:00:36,175 --> 00:00:37,301
+That's not a typo.
+
+18
+00:00:37,481 --> 00:00:39,979
+More than one hundred billion dollars in
+
+19
+00:00:39,979 --> 00:00:40,854
+a single year,
+
+20
+00:00:40,854 --> 00:00:41,916
+just in interest.
+
+21
+00:00:42,096 --> 00:00:43,815
+And that's before we count the money
+
+22
+00:00:43,815 --> 00:00:45,486
+merchants pay every time you swipe.
+
+23
+00:00:45,666 --> 00:00:47,606
+Credit cards are one of the most
+
+24
+00:00:47,606 --> 00:00:49,485
+profitable products in banking.
+
+25
+00:00:49,665 --> 00:00:52,006
+Once you understand how that profit is
+
+26
+00:00:52,006 --> 00:00:54,039
+made, you can use cards for their
+
+27
+00:00:54,039 --> 00:00:56,318
+benefits while paying almost nothing.
+
+28
+00:00:56,668 --> 00:00:58,827
+We'll look at it from three angles.
+
+29
+00:00:59,007 --> 00:01:00,287
+First, the numbers:
+
+30
+00:01:00,287 --> 00:01:02,914
+the eight main ways card companies earn
+
+31
+00:01:02,914 --> 00:01:05,204
+money, and how much each one costs
+
+32
+00:01:05,204 --> 00:01:05,474
+you.
+
+33
+00:01:05,654 --> 00:01:07,283
+Second, the psychology:
+
+34
+00:01:07,283 --> 00:01:09,903
+the design tricks that make you spend
+
+35
+00:01:09,903 --> 00:01:11,319
+more and pay longer.
+
+36
+00:01:11,499 --> 00:01:13,039
+And third, the playbook:
+
+37
+00:01:13,039 --> 00:01:14,772
+how to flip the deal so the
+
+38
+00:01:14,772 --> 00:01:15,991
+card works for you,
+
+39
+00:01:15,991 --> 00:01:17,595
+not the other way around.
+
+40
+00:01:17,945 --> 00:01:18,609
+By the end,
+
+41
+00:01:18,609 --> 00:01:20,661
+you'll know whether your card is a
+
+42
+00:01:20,661 --> 00:01:21,567
+tool or a trap.
+
+43
+00:01:21,747 --> 00:01:23,082
+Let's start with the money.
+
+44
+00:01:23,432 --> 00:01:25,835
+Every number in this video comes from
+
+45
+00:01:25,835 --> 00:01:26,810
+a named source.
+
+46
+00:01:26,990 --> 00:01:29,217
+Interest and fee totals come from the
+
+47
+00:01:29,217 --> 00:01:32,406
+Consumer Financial Protection Bureau's reports on the
+
+48
+00:01:32,406 --> 00:01:33,550
+credit card market.
+
+49
+00:01:33,730 --> 00:01:36,412
+Interest rates come from the Federal Reserve.
+
+50
+00:01:36,592 --> 00:01:39,005
+Research on card payments comes from the
+
+51
+00:01:39,005 --> 00:01:40,876
+Federal Reserve Bank of Boston.
+
+52
+00:01:41,056 --> 00:01:42,807
+Where I show an example,
+
+53
+00:01:42,807 --> 00:01:44,632
+it's stated, simple math.
+
+54
+00:01:44,812 --> 00:01:45,934
+Card terms vary,
+
+55
+00:01:45,934 --> 00:01:48,318
+so always read your own agreement.
+
+56
+00:01:48,498 --> 00:01:49,821
+This is education,
+
+57
+00:01:49,821 --> 00:01:51,365
+not financial advice.
+
+58
+00:01:51,716 --> 00:01:52,979
+Before the numbers,
+
+59
+00:01:52,979 --> 00:01:53,910
+a quick story.
+
+60
+00:01:54,090 --> 00:01:56,541
+Because to understand why cards work the
+
+61
+00:01:56,541 --> 00:01:57,277
+way they do,
+
+62
+00:01:57,277 --> 00:01:59,361
+it helps to know how they started.
+
+63
+00:01:59,711 --> 00:02:00,894
+In nineteen fifty,
+
+64
+00:02:00,894 --> 00:02:03,457
+a company called Diners Club launched a
+
+65
+00:02:03,457 --> 00:02:05,429
+card that let members pay at a
+
+66
+00:02:05,429 --> 00:02:07,796
+group of restaurants in New York and
+
+67
+00:02:07,796 --> 00:02:08,848
+settle up later.
+
+68
+00:02:09,028 --> 00:02:10,200
+It was a charge card.
+
+69
+00:02:10,380 --> 00:02:12,331
+You paid the full bill each month.
+
+70
+00:02:12,511 --> 00:02:14,719
+The business made money mainly from the
+
+71
+00:02:14,719 --> 00:02:16,871
+restaurants, which paid a fee on every
+
+72
+00:02:16,871 --> 00:02:17,155
+meal.
+
+73
+00:02:17,335 --> 00:02:19,367
+That idea, that the merchant pays to
+
+74
+00:02:19,367 --> 00:02:20,270
+accept the card,
+
+75
+00:02:20,270 --> 00:02:21,907
+is still at the center of the
+
+76
+00:02:21,907 --> 00:02:22,640
+system today.
+
+77
+00:02:22,991 --> 00:02:24,820
+In the late nineteen fifties,
+
+78
+00:02:24,820 --> 00:02:27,217
+Bank of America took the idea further.
+
+79
+00:02:27,397 --> 00:02:29,007
+In Fresno, California,
+
+80
+00:02:29,007 --> 00:02:32,082
+it mailed tens of thousands of unsolicited
+
+81
+00:02:32,082 --> 00:02:33,986
+credit cards to residents,
+
+82
+00:02:33,986 --> 00:02:36,841
+a famous experiment known as the Fresno
+
+83
+00:02:36,841 --> 00:02:37,207
+drop.
+
+84
+00:02:37,387 --> 00:02:40,040
+These cards let people carry a balance
+
+85
+00:02:40,040 --> 00:02:41,297
+and pay over time,
+
+86
+00:02:41,297 --> 00:02:42,275
+with interest.
+
+87
+00:02:42,455 --> 00:02:45,469
+Losses from fraud and unpaid balances were
+
+88
+00:02:45,469 --> 00:02:46,545
+large at first,
+
+89
+00:02:46,545 --> 00:02:49,846
+but the model eventually became BankAmericard,
+
+90
+00:02:49,846 --> 00:02:51,569
+which later became Visa.
+
+91
+00:02:51,919 --> 00:02:53,451
+Then came a turning point.
+
+92
+00:02:53,631 --> 00:02:55,228
+In nineteen seventy eight,
+
+93
+00:02:55,228 --> 00:02:57,501
+a Supreme Court decision known as the
+
+94
+00:02:57,501 --> 00:03:00,388
+Marquette case allowed national banks to charge
+
+95
+00:03:00,388 --> 00:03:02,783
+the interest rate allowed in their home
+
+96
+00:03:02,783 --> 00:03:04,626
+state to customers nationwide.
+
+97
+00:03:04,806 --> 00:03:07,339
+Some states soon loosened their interest rate
+
+98
+00:03:07,339 --> 00:03:09,252
+limits to attract card businesses.
+
+99
+00:03:09,432 --> 00:03:11,130
+That's a big part of why so
+
+100
+00:03:11,130 --> 00:03:13,582
+many card companies are based in states
+
+101
+00:03:13,582 --> 00:03:15,531
+like South Dakota and Delaware,
+
+102
+00:03:15,531 --> 00:03:17,291
+and why card rates can be so
+
+103
+00:03:17,291 --> 00:03:17,606
+high.
+
+104
+00:03:17,956 --> 00:03:20,069
+Fast forward to two thousand nine.
+
+105
+00:03:20,249 --> 00:03:22,119
+After the financial crisis,
+
+106
+00:03:22,119 --> 00:03:24,614
+Congress passed the Credit CARD Act.
+
+107
+00:03:24,794 --> 00:03:27,742
+It limited surprise rate increases on existing
+
+108
+00:03:27,742 --> 00:03:30,177
+balances, required clearer statements,
+
+109
+00:03:30,177 --> 00:03:32,613
+including the minimum payment warning,
+
+110
+00:03:32,613 --> 00:03:34,407
+and restricted certain fees.
+
+111
+00:03:34,587 --> 00:03:35,818
+It made cards fairer.
+
+112
+00:03:35,998 --> 00:03:37,878
+But it didn't change the core business.
+
+113
+00:03:38,058 --> 00:03:40,457
+Interest from people who carry balances,
+
+114
+00:03:40,457 --> 00:03:42,795
+and fees from merchants on every swipe.
+
+115
+00:03:43,146 --> 00:03:43,935
+Angle one.
+
+116
+00:03:44,115 --> 00:03:46,228
+The eight main ways card companies make
+
+117
+00:03:46,228 --> 00:03:46,553
+money.
+
+118
+00:03:46,733 --> 00:03:47,569
+Some you know.
+
+119
+00:03:47,749 --> 00:03:49,200
+A few you probably don't.
+
+120
+00:03:49,551 --> 00:03:50,572
+Way number one.
+
+121
+00:03:50,752 --> 00:03:51,356
+Interest.
+
+122
+00:03:51,536 --> 00:03:53,463
+By far the biggest money maker.
+
+123
+00:03:53,814 --> 00:03:55,917
+When you don't pay your full statement
+
+124
+00:03:55,917 --> 00:03:57,245
+balance by the due date,
+
+125
+00:03:57,245 --> 00:03:59,514
+the card charges interest on what's left.
+
+126
+00:03:59,694 --> 00:04:01,754
+According to the Federal Reserve,
+
+127
+00:04:01,754 --> 00:04:04,126
+the average rate on card accounts that
+
+128
+00:04:04,126 --> 00:04:06,810
+were charged interest has been above twenty
+
+129
+00:04:06,810 --> 00:04:08,309
+percent in recent years.
+
+130
+00:04:08,489 --> 00:04:11,148
+That's higher than almost any other common
+
+131
+00:04:11,148 --> 00:04:12,540
+type of consumer loan.
+
+132
+00:04:12,891 --> 00:04:14,168
+Here's what that means.
+
+133
+00:04:14,348 --> 00:04:16,956
+Carry a three thousand dollar balance all
+
+134
+00:04:16,956 --> 00:04:18,674
+year at twenty two percent,
+
+135
+00:04:18,674 --> 00:04:21,028
+and you pay roughly six hundred sixty
+
+136
+00:04:21,028 --> 00:04:22,300
+dollars in interest.
+
+137
+00:04:22,480 --> 00:04:24,802
+That's six hundred sixty dollars that buys
+
+138
+00:04:24,802 --> 00:04:25,244
+nothing.
+
+139
+00:04:25,424 --> 00:04:26,861
+Inside the industry,
+
+140
+00:04:26,861 --> 00:04:29,449
+people who carry a balance are often
+
+141
+00:04:29,449 --> 00:04:30,671
+called revolvers.
+
+142
+00:04:30,851 --> 00:04:33,506
+They're the most profitable customers a card
+
+143
+00:04:33,506 --> 00:04:34,230
+company has.
+
+144
+00:04:34,580 --> 00:04:36,785
+There's a quiet detail most people miss.
+
+145
+00:04:36,965 --> 00:04:39,357
+Card interest usually compounds daily.
+
+146
+00:04:39,537 --> 00:04:41,405
+The card takes your yearly rate,
+
+147
+00:04:41,405 --> 00:04:43,681
+divides it by three hundred sixty five,
+
+148
+00:04:43,681 --> 00:04:45,724
+and applies it to your balance each
+
+149
+00:04:45,724 --> 00:04:45,957
+day.
+
+150
+00:04:46,137 --> 00:04:48,174
+Interest gets added to the balance,
+
+151
+00:04:48,174 --> 00:04:50,617
+and tomorrow's interest is charged on that
+
+152
+00:04:50,617 --> 00:04:51,432
+bigger number.
+
+153
+00:04:51,612 --> 00:04:54,448
+It's the same compounding that grows investments,
+
+154
+00:04:54,448 --> 00:04:55,838
+but working against you.
+
+155
+00:04:56,018 --> 00:04:57,954
+Try this: find the APR on your
+
+156
+00:04:57,954 --> 00:04:59,245
+statement right now.
+
+157
+00:04:59,425 --> 00:05:00,448
+If you don't know it,
+
+158
+00:05:00,448 --> 00:05:01,666
+that's the first problem.
+
+159
+00:05:02,016 --> 00:05:03,002
+Way number two.
+
+160
+00:05:03,182 --> 00:05:06,654
+Swipe fees, also called interchange fees.
+
+161
+00:05:07,003 --> 00:05:09,143
+Every time you pay with a card,
+
+162
+00:05:09,143 --> 00:05:10,592
+the store pays a fee,
+
+163
+00:05:10,592 --> 00:05:13,422
+often somewhere around two percent of the
+
+164
+00:05:13,422 --> 00:05:16,942
+purchase, sometimes more for premium rewards cards.
+
+165
+00:05:17,122 --> 00:05:19,151
+Part goes to the bank that issued
+
+166
+00:05:19,151 --> 00:05:21,241
+your card, part to the network and
+
+167
+00:05:21,241 --> 00:05:22,102
+the processor.
+
+168
+00:05:22,282 --> 00:05:23,896
+Across the whole country,
+
+169
+00:05:23,896 --> 00:05:26,672
+merchants pay well over one hundred billion
+
+170
+00:05:26,672 --> 00:05:29,190
+dollars a year in card processing fees.
+
+171
+00:05:29,540 --> 00:05:30,812
+You might think,
+
+172
+00:05:30,812 --> 00:05:32,560
+great, the store pays,
+
+173
+00:05:32,560 --> 00:05:33,116
+not me.
+
+174
+00:05:33,296 --> 00:05:35,747
+But stores build those costs into their
+
+175
+00:05:35,747 --> 00:05:36,187
+prices.
+
+176
+00:05:36,367 --> 00:05:38,747
+That means everyone pays a little more,
+
+177
+00:05:38,747 --> 00:05:41,005
+including people who pay with cash or
+
+178
+00:05:41,005 --> 00:05:41,371
+debit.
+
+179
+00:05:41,551 --> 00:05:44,254
+Researchers at the Federal Reserve Bank of
+
+180
+00:05:44,254 --> 00:05:46,506
+Boston studied this and found that,
+
+181
+00:05:46,506 --> 00:05:49,144
+on average, cash users end up subsidizing
+
+182
+00:05:49,144 --> 00:05:52,232
+card users, especially those with rewards cards.
+
+183
+00:05:52,582 --> 00:05:54,220
+This is how rewards are funded.
+
+184
+00:05:54,400 --> 00:05:56,389
+That two percent cash back isn't free
+
+185
+00:05:56,389 --> 00:05:57,465
+money from the bank.
+
+186
+00:05:57,645 --> 00:06:00,063
+It's largely recycled from swipe fees,
+
+187
+00:06:00,063 --> 00:06:02,799
+which come from higher prices for everyone.
+
+188
+00:06:02,979 --> 00:06:04,082
+If you pay in full,
+
+189
+00:06:04,082 --> 00:06:05,417
+you can come out ahead.
+
+190
+00:06:05,597 --> 00:06:07,175
+If you carry a balance,
+
+191
+00:06:07,175 --> 00:06:09,437
+the interest you pay can wipe out
+
+192
+00:06:09,437 --> 00:06:11,426
+every reward many times over.
+
+193
+00:06:11,606 --> 00:06:14,419
+Try this: compare your rewards earned this
+
+194
+00:06:14,419 --> 00:06:16,563
+year with the interest you paid.
+
+195
+00:06:16,743 --> 00:06:18,369
+Be honest about which is bigger.
+
+196
+00:06:18,719 --> 00:06:19,938
+Way number three.
+
+197
+00:06:20,118 --> 00:06:21,186
+Late fees.
+
+198
+00:06:21,536 --> 00:06:22,562
+Miss a due date,
+
+199
+00:06:22,562 --> 00:06:23,460
+even by a day,
+
+200
+00:06:23,460 --> 00:06:25,512
+and many cards charge a late fee
+
+201
+00:06:25,512 --> 00:06:27,821
+that can be around thirty dollars or
+
+202
+00:06:27,821 --> 00:06:28,142
+more.
+
+203
+00:06:28,322 --> 00:06:31,874
+The Consumer Financial Protection Bureau estimated that
+
+204
+00:06:31,874 --> 00:06:35,427
+card companies charged roughly fourteen billion dollars
+
+205
+00:06:35,427 --> 00:06:37,559
+in late fees in twenty twenty two
+
+206
+00:06:37,559 --> 00:06:37,946
+alone.
+
+207
+00:06:38,126 --> 00:06:40,007
+That's a lot of forgotten due dates.
+
+208
+00:06:40,357 --> 00:06:42,400
+Late fees often don't come alone.
+
+209
+00:06:42,580 --> 00:06:44,859
+A late payment can trigger a higher
+
+210
+00:06:44,859 --> 00:06:46,292
+penalty interest rate,
+
+211
+00:06:46,292 --> 00:06:47,985
+cancel a promotional rate,
+
+212
+00:06:47,985 --> 00:06:50,069
+and, if it's thirty days late or
+
+213
+00:06:50,069 --> 00:06:52,414
+more, show up on your credit report.
+
+214
+00:06:52,594 --> 00:06:55,084
+One forgotten payment can cost the fee,
+
+215
+00:06:55,084 --> 00:06:57,446
+months of higher interest and a lower
+
+216
+00:06:57,446 --> 00:06:57,830
+score.
+
+217
+00:06:58,180 --> 00:07:00,137
+Card companies don't need you to be
+
+218
+00:07:00,137 --> 00:07:00,919
+irresponsible.
+
+219
+00:07:01,099 --> 00:07:02,771
+They just need you to be human.
+
+220
+00:07:02,951 --> 00:07:05,049
+Busy weeks, a changed due date,
+
+221
+00:07:05,049 --> 00:07:07,282
+a payment that didn't go through.
+
+222
+00:07:07,462 --> 00:07:09,703
+The easiest defense is automation.
+
+223
+00:07:09,883 --> 00:07:12,270
+Try this: set autopay for at least
+
+224
+00:07:12,270 --> 00:07:14,096
+the minimum on every card,
+
+225
+00:07:14,096 --> 00:07:15,571
+so you're never late,
+
+226
+00:07:15,571 --> 00:07:17,889
+then pay the rest manually or set
+
+227
+00:07:17,889 --> 00:07:19,856
+autopay to the full balance.
+
+228
+00:07:20,205 --> 00:07:21,239
+Way number four.
+
+229
+00:07:21,419 --> 00:07:22,417
+Annual fees.
+
+230
+00:07:22,767 --> 00:07:25,415
+Many basic cards have no annual fee.
+
+231
+00:07:25,595 --> 00:07:27,929
+But premium travel and rewards cards can
+
+232
+00:07:27,929 --> 00:07:30,264
+charge from under one hundred dollars to
+
+233
+00:07:30,264 --> 00:07:32,073
+several hundred dollars a year.
+
+234
+00:07:32,253 --> 00:07:34,948
+In exchange, they offer bigger rewards,
+
+235
+00:07:34,948 --> 00:07:36,676
+travel credits and perks.
+
+236
+00:07:36,856 --> 00:07:38,389
+For the card company,
+
+237
+00:07:38,389 --> 00:07:40,213
+the annual fee is steady,
+
+238
+00:07:40,213 --> 00:07:43,423
+predictable income, paid whether you use the
+
+239
+00:07:43,423 --> 00:07:44,298
+card or not.
+
+240
+00:07:44,648 --> 00:07:45,855
+The perks are real,
+
+241
+00:07:45,855 --> 00:07:48,015
+but only if you actually use them.
+
+242
+00:07:48,195 --> 00:07:49,982
+A five hundred dollar card with a
+
+243
+00:07:49,982 --> 00:07:52,256
+three hundred dollar travel credit is only
+
+244
+00:07:52,256 --> 00:07:54,042
+worth it if you'd have spent that
+
+245
+00:07:54,042 --> 00:07:55,720
+three hundred on travel anyway,
+
+246
+00:07:55,720 --> 00:07:57,453
+and the rest of the perks matter
+
+247
+00:07:57,453 --> 00:07:57,832
+to you.
+
+248
+00:07:58,012 --> 00:08:00,353
+Many people pay for benefits they forget
+
+249
+00:08:00,353 --> 00:08:00,879
+to claim.
+
+250
+00:08:01,229 --> 00:08:04,562
+Card companies count on something called breakage,
+
+251
+00:08:04,562 --> 00:08:07,227
+benefits that people are entitled to but
+
+252
+00:08:07,227 --> 00:08:07,894
+never use.
+
+253
+00:08:08,074 --> 00:08:10,430
+Unused credits, expired points,
+
+254
+00:08:10,430 --> 00:08:12,938
+lounge passes that sit in an app.
+
+255
+00:08:13,118 --> 00:08:14,848
+Every unused perk is profit.
+
+256
+00:08:15,028 --> 00:08:17,489
+Try this: list every benefit of your
+
+257
+00:08:17,489 --> 00:08:19,882
+fee card and what you actually used
+
+258
+00:08:19,882 --> 00:08:20,566
+last year.
+
+259
+00:08:20,746 --> 00:08:22,769
+If the total is less than the
+
+260
+00:08:22,769 --> 00:08:24,862
+fee, ask for a no fee version,
+
+261
+00:08:24,862 --> 00:08:26,328
+or a retention offer,
+
+262
+00:08:26,328 --> 00:08:28,072
+before your renewal date.
+
+263
+00:08:28,421 --> 00:08:29,513
+Way number five.
+
+264
+00:08:29,693 --> 00:08:31,330
+Balance transfer fees.
+
+265
+00:08:31,680 --> 00:08:34,373
+Balance transfer offers sound like a gift.
+
+266
+00:08:34,553 --> 00:08:36,339
+Move your debt to a new card
+
+267
+00:08:36,339 --> 00:08:38,571
+at zero percent interest for a year
+
+268
+00:08:38,571 --> 00:08:39,081
+or more.
+
+269
+00:08:39,261 --> 00:08:40,578
+But most charge a fee,
+
+270
+00:08:40,578 --> 00:08:42,974
+commonly around three to five percent of
+
+271
+00:08:42,974 --> 00:08:44,172
+the amount you move.
+
+272
+00:08:44,352 --> 00:08:46,506
+Move ten thousand dollars at a three
+
+273
+00:08:46,506 --> 00:08:48,780
+percent fee, and you pay three hundred
+
+274
+00:08:48,780 --> 00:08:49,797
+dollars up front.
+
+275
+00:08:50,146 --> 00:08:51,998
+That can still be a great deal
+
+276
+00:08:51,998 --> 00:08:55,023
+compared with paying twenty two percent interest.
+
+277
+00:08:55,203 --> 00:08:57,165
+The trap is what happens next.
+
+278
+00:08:57,345 --> 00:08:59,448
+If the balance isn't paid off when
+
+279
+00:08:59,448 --> 00:09:00,624
+the promotion ends,
+
+280
+00:09:00,624 --> 00:09:02,233
+the regular rate kicks in.
+
+281
+00:09:02,413 --> 00:09:03,547
+And many people,
+
+282
+00:09:03,547 --> 00:09:05,605
+relieved by the zero percent,
+
+283
+00:09:05,605 --> 00:09:07,591
+keep using the old card too.
+
+284
+00:09:07,771 --> 00:09:09,779
+Now they have two balances.
+
+285
+00:09:10,129 --> 00:09:12,270
+Card companies know a share of people
+
+286
+00:09:12,270 --> 00:09:13,485
+won't finish in time.
+
+287
+00:09:13,665 --> 00:09:15,929
+That's part of why the offers exist.
+
+288
+00:09:16,109 --> 00:09:17,238
+Used with a plan,
+
+289
+00:09:17,238 --> 00:09:19,430
+a balance transfer can save you a
+
+290
+00:09:19,430 --> 00:09:19,696
+lot.
+
+291
+00:09:19,876 --> 00:09:20,884
+Used as relief,
+
+292
+00:09:20,884 --> 00:09:22,697
+it just delays the problem.
+
+293
+00:09:22,877 --> 00:09:24,984
+Try this: before transferring,
+
+294
+00:09:24,984 --> 00:09:27,441
+divide the balance by the number of
+
+295
+00:09:27,441 --> 00:09:28,775
+promotional months.
+
+296
+00:09:28,955 --> 00:09:30,887
+If you can't pay that amount every
+
+297
+00:09:30,887 --> 00:09:33,273
+month, the offer probably won't solve your
+
+298
+00:09:33,273 --> 00:09:33,727
+problem.
+
+299
+00:09:34,076 --> 00:09:35,307
+Way number six.
+
+300
+00:09:35,487 --> 00:09:36,613
+Cash advances.
+
+301
+00:09:36,963 --> 00:09:39,255
+Using your credit card to get cash
+
+302
+00:09:39,255 --> 00:09:41,142
+from an ATM is called a cash
+
+303
+00:09:41,142 --> 00:09:43,568
+advance, and it's usually one of the
+
+304
+00:09:43,568 --> 00:09:45,590
+most expensive ways to borrow.
+
+305
+00:09:45,770 --> 00:09:47,858
+There's often an upfront fee,
+
+306
+00:09:47,858 --> 00:09:50,810
+commonly around five percent or a minimum
+
+307
+00:09:50,810 --> 00:09:51,818
+dollar amount.
+
+308
+00:09:51,998 --> 00:09:54,050
+The interest rate is often higher than
+
+309
+00:09:54,050 --> 00:09:55,075
+your purchase rate.
+
+310
+00:09:55,255 --> 00:09:57,496
+And there's usually no grace period,
+
+311
+00:09:57,496 --> 00:09:59,675
+so interest starts the day you take
+
+312
+00:09:59,675 --> 00:10:00,236
+the cash.
+
+313
+00:10:00,585 --> 00:10:02,725
+Take five hundred dollars in a cash
+
+314
+00:10:02,725 --> 00:10:04,864
+advance, and you might pay a twenty
+
+315
+00:10:04,864 --> 00:10:06,514
+five dollar fee right away,
+
+316
+00:10:06,514 --> 00:10:08,653
+plus interest at a higher rate from
+
+317
+00:10:08,653 --> 00:10:09,142
+day one.
+
+318
+00:10:09,322 --> 00:10:12,014
+Some things also count as cash advances
+
+319
+00:10:12,014 --> 00:10:13,739
+without looking like one,
+
+320
+00:10:13,739 --> 00:10:15,534
+like some money transfers,
+
+321
+00:10:15,534 --> 00:10:17,605
+buying certain gambling chips,
+
+322
+00:10:17,605 --> 00:10:20,297
+or some purchases that are treated like
+
+323
+00:10:20,297 --> 00:10:20,642
+cash.
+
+324
+00:10:20,822 --> 00:10:22,180
+Check your card's terms.
+
+325
+00:10:22,530 --> 00:10:25,381
+People usually take cash advances when they're
+
+326
+00:10:25,381 --> 00:10:27,921
+already stressed, which is why they're so
+
+327
+00:10:27,921 --> 00:10:28,602
+profitable.
+
+328
+00:10:28,782 --> 00:10:30,726
+The real fix is upstream:
+
+329
+00:10:30,726 --> 00:10:33,447
+a small emergency fund so you never
+
+330
+00:10:33,447 --> 00:10:34,146
+need one.
+
+331
+00:10:34,326 --> 00:10:36,457
+Try this: ask your bank to lower
+
+332
+00:10:36,457 --> 00:10:38,720
+or turn off the cash advance limit
+
+333
+00:10:38,720 --> 00:10:39,586
+on your card.
+
+334
+00:10:39,766 --> 00:10:41,891
+It removes the option on your worst
+
+335
+00:10:41,891 --> 00:10:42,134
+day.
+
+336
+00:10:42,483 --> 00:10:43,470
+Way number seven.
+
+337
+00:10:43,650 --> 00:10:45,357
+Foreign transaction fees.
+
+338
+00:10:45,706 --> 00:10:47,449
+Many cards charge a fee,
+
+339
+00:10:47,449 --> 00:10:49,408
+often around three percent,
+
+340
+00:10:49,408 --> 00:10:52,312
+on purchases made in another currency or
+
+341
+00:10:52,312 --> 00:10:54,344
+processed by a foreign bank.
+
+342
+00:10:54,524 --> 00:10:57,313
+That includes buying something online from an
+
+343
+00:10:57,313 --> 00:10:59,729
+overseas store, even if you never leave
+
+344
+00:10:59,729 --> 00:11:00,039
+home.
+
+345
+00:11:00,219 --> 00:11:02,569
+Spend two thousand dollars on a trip
+
+346
+00:11:02,569 --> 00:11:05,245
+abroad, and that's about sixty dollars in
+
+347
+00:11:05,245 --> 00:11:05,571
+fees.
+
+348
+00:11:05,921 --> 00:11:08,314
+There's a related trap at the register
+
+349
+00:11:08,314 --> 00:11:08,754
+abroad.
+
+350
+00:11:08,934 --> 00:11:11,361
+Sometimes the card machine asks if you
+
+351
+00:11:11,361 --> 00:11:13,468
+want to pay in dollars instead of
+
+352
+00:11:13,468 --> 00:11:14,681
+the local currency.
+
+353
+00:11:14,861 --> 00:11:16,312
+It sounds convenient.
+
+354
+00:11:16,492 --> 00:11:17,784
+But that conversion,
+
+355
+00:11:17,784 --> 00:11:20,045
+called dynamic currency conversion,
+
+356
+00:11:20,045 --> 00:11:22,370
+often uses a worse exchange rate set
+
+357
+00:11:22,370 --> 00:11:24,178
+by the merchant's processor.
+
+358
+00:11:24,528 --> 00:11:27,217
+Many cards, especially travel cards,
+
+359
+00:11:27,217 --> 00:11:30,577
+don't charge foreign transaction fees at all.
+
+360
+00:11:30,757 --> 00:11:32,394
+So this one is easy to avoid
+
+361
+00:11:32,394 --> 00:11:33,973
+if you check before you go.
+
+362
+00:11:34,153 --> 00:11:36,271
+Try this: before your next trip or
+
+363
+00:11:36,271 --> 00:11:37,953
+international online order,
+
+364
+00:11:37,953 --> 00:11:39,947
+look up your card's foreign fee.
+
+365
+00:11:40,127 --> 00:11:41,491
+And at foreign terminals,
+
+366
+00:11:41,491 --> 00:11:43,455
+generally choose to pay in the local
+
+367
+00:11:43,455 --> 00:11:43,946
+currency.
+
+368
+00:11:44,296 --> 00:11:45,214
+Way number eight.
+
+369
+00:11:45,394 --> 00:11:46,462
+Penalty APRs.
+
+370
+00:11:46,811 --> 00:11:48,814
+Many cards have a penalty rate,
+
+371
+00:11:48,814 --> 00:11:51,139
+a much higher interest rate that can
+
+372
+00:11:51,139 --> 00:11:52,754
+apply after you pay late,
+
+373
+00:11:52,754 --> 00:11:54,951
+often if you're sixty days or more
+
+374
+00:11:54,951 --> 00:11:55,403
+behind.
+
+375
+00:11:55,583 --> 00:11:58,216
+Penalty rates on some cards approach thirty
+
+376
+00:11:58,216 --> 00:11:58,706
+percent.
+
+377
+00:11:58,886 --> 00:12:01,381
+Federal rules under the Credit CARD Act
+
+378
+00:12:01,381 --> 00:12:03,620
+of two thousand nine limit when and
+
+379
+00:12:03,620 --> 00:12:05,220
+how these can be applied,
+
+380
+00:12:05,220 --> 00:12:07,459
+and require the issuer to review it
+
+381
+00:12:07,459 --> 00:12:09,442
+later, but it can still be very
+
+382
+00:12:09,442 --> 00:12:11,042
+expensive while it lasts.
+
+383
+00:12:11,391 --> 00:12:13,925
+Picture a five thousand dollar balance moving
+
+384
+00:12:13,925 --> 00:12:16,177
+from twenty two percent to nearly thirty
+
+385
+00:12:16,177 --> 00:12:16,628
+percent.
+
+386
+00:12:16,808 --> 00:12:19,236
+That's roughly four hundred dollars more in
+
+387
+00:12:19,236 --> 00:12:20,252
+interest per year,
+
+388
+00:12:20,252 --> 00:12:21,382
+on top of late fees.
+
+389
+00:12:21,562 --> 00:12:23,748
+It's the card company's way of charging
+
+390
+00:12:23,748 --> 00:12:26,159
+more to customers it now considers riskier.
+
+391
+00:12:26,339 --> 00:12:28,694
+And riskier customers who keep paying are
+
+392
+00:12:28,694 --> 00:12:29,613
+very profitable.
+
+393
+00:12:29,963 --> 00:12:31,009
+The good news:
+
+394
+00:12:31,009 --> 00:12:33,772
+penalty rates are entirely avoidable.
+
+395
+00:12:33,952 --> 00:12:35,655
+Pay at least the minimum,
+
+396
+00:12:35,655 --> 00:12:37,086
+on time, every month.
+
+397
+00:12:37,266 --> 00:12:38,521
+If you're struggling,
+
+398
+00:12:38,521 --> 00:12:40,492
+call the issuer before you miss a
+
+399
+00:12:40,492 --> 00:12:40,970
+payment.
+
+400
+00:12:41,150 --> 00:12:43,497
+Many have hardship programs that can lower
+
+401
+00:12:43,497 --> 00:12:45,341
+your rate or payment temporarily.
+
+402
+00:12:45,521 --> 00:12:48,117
+Try this: save your card issuer's phone
+
+403
+00:12:48,117 --> 00:12:49,715
+number in your contacts,
+
+404
+00:12:49,715 --> 00:12:51,512
+under call before I'm late.
+
+405
+00:12:51,861 --> 00:12:53,301
+So that's the money side.
+
+406
+00:12:53,481 --> 00:12:55,229
+Interest, swipe fees,
+
+407
+00:12:55,229 --> 00:12:57,144
+late fees, annual fees,
+
+408
+00:12:57,144 --> 00:12:58,975
+balance transfer fees,
+
+409
+00:12:58,975 --> 00:13:02,804
+cash advances, foreign fees and penalty rates.
+
+410
+00:13:02,984 --> 00:13:04,040
+Notice something.
+
+411
+00:13:04,220 --> 00:13:06,426
+Almost every one of them is avoidable.
+
+412
+00:13:06,606 --> 00:13:08,390
+People who pay in full,
+
+413
+00:13:08,390 --> 00:13:09,708
+on time, at home,
+
+414
+00:13:09,708 --> 00:13:11,336
+pay close to nothing,
+
+415
+00:13:11,336 --> 00:13:13,352
+and still collect rewards.
+
+416
+00:13:13,532 --> 00:13:15,569
+People who carry a balance and slip
+
+417
+00:13:15,569 --> 00:13:17,315
+up now and then fund the whole
+
+418
+00:13:17,315 --> 00:13:17,723
+system.
+
+419
+00:13:18,072 --> 00:13:20,429
+Here's the contrast in a single picture.
+
+420
+00:13:20,609 --> 00:13:22,955
+A cardholder who pays in full can
+
+421
+00:13:22,955 --> 00:13:25,300
+earn rewards and pay no interest.
+
+422
+00:13:25,480 --> 00:13:28,261
+A cardholder who carries three thousand dollars
+
+423
+00:13:28,261 --> 00:13:30,509
+at twenty two percent pays roughly six
+
+424
+00:13:30,509 --> 00:13:32,225
+hundred sixty dollars a year.
+
+425
+00:13:32,575 --> 00:13:34,749
+Now the part the card companies really
+
+426
+00:13:34,749 --> 00:13:35,664
+don't advertise.
+
+427
+00:13:35,844 --> 00:13:38,025
+How the product is designed to change
+
+428
+00:13:38,025 --> 00:13:38,851
+your behavior.
+
+429
+00:13:39,200 --> 00:13:40,211
+Angle two.
+
+430
+00:13:40,391 --> 00:13:41,528
+The psychology.
+
+431
+00:13:41,708 --> 00:13:44,423
+Five design tricks that keep you spending
+
+432
+00:13:44,423 --> 00:13:45,946
+more and paying longer.
+
+433
+00:13:46,295 --> 00:13:47,317
+Way number nine.
+
+434
+00:13:47,497 --> 00:13:49,018
+The minimum payment anchor.
+
+435
+00:13:49,368 --> 00:13:51,642
+Your statement shows several numbers:
+
+436
+00:13:51,642 --> 00:13:52,686
+the full balance,
+
+437
+00:13:52,686 --> 00:13:54,837
+and a much smaller minimum payment.
+
+438
+00:13:55,017 --> 00:13:58,114
+Research by psychologist Neil Stewart found that
+
+439
+00:13:58,114 --> 00:14:00,566
+showing the minimum payment can act as
+
+440
+00:14:00,566 --> 00:14:03,018
+an anchor, a number your brain latches
+
+441
+00:14:03,018 --> 00:14:03,341
+onto.
+
+442
+00:14:03,521 --> 00:14:04,711
+In his experiments,
+
+443
+00:14:04,711 --> 00:14:07,153
+people who saw a minimum payment tended
+
+444
+00:14:07,153 --> 00:14:09,344
+to choose to repay less than people
+
+445
+00:14:09,344 --> 00:14:10,534
+who didn't see one.
+
+446
+00:14:10,883 --> 00:14:13,534
+The minimum is often calculated as a
+
+447
+00:14:13,534 --> 00:14:16,700
+small percent of the balance plus interest.
+
+448
+00:14:16,880 --> 00:14:18,819
+It's designed to keep your account in
+
+449
+00:14:18,819 --> 00:14:20,548
+good standing, not to get you out
+
+450
+00:14:20,548 --> 00:14:20,967
+of debt.
+
+451
+00:14:21,147 --> 00:14:22,040
+At the minimum,
+
+452
+00:14:22,040 --> 00:14:24,124
+a balance of a few thousand dollars
+
+453
+00:14:24,124 --> 00:14:25,851
+can take many years to clear,
+
+454
+00:14:25,851 --> 00:14:28,114
+and the total interest can approach or
+
+455
+00:14:28,114 --> 00:14:30,377
+even exceed what you originally spent.
+
+456
+00:14:30,726 --> 00:14:32,273
+Since the Credit CARD Act,
+
+457
+00:14:32,273 --> 00:14:34,534
+statements must show how long it would
+
+458
+00:14:34,534 --> 00:14:36,616
+take to pay off your balance making
+
+459
+00:14:36,616 --> 00:14:37,925
+only minimum payments,
+
+460
+00:14:37,925 --> 00:14:39,829
+and how much you'd pay in total.
+
+461
+00:14:40,009 --> 00:14:42,017
+Most people skip that box.
+
+462
+00:14:42,197 --> 00:14:44,121
+Try this: find it on your next
+
+463
+00:14:44,121 --> 00:14:46,110
+statement and read it out loud.
+
+464
+00:14:46,290 --> 00:14:48,707
+Then choose a fixed monthly payment that
+
+465
+00:14:48,707 --> 00:14:50,762
+clears the balance in the time you
+
+466
+00:14:50,762 --> 00:14:52,757
+want, and set it as your autopay.
+
+467
+00:14:53,106 --> 00:14:54,175
+Way number ten.
+
+468
+00:14:54,355 --> 00:14:56,398
+Rewards that change how you spend.
+
+469
+00:14:56,747 --> 00:14:59,379
+Points, miles and cash back feel like
+
+470
+00:14:59,379 --> 00:15:00,161
+free money.
+
+471
+00:15:00,341 --> 00:15:02,233
+And that feeling changes behavior.
+
+472
+00:15:02,413 --> 00:15:04,975
+People may choose a card purchase over
+
+473
+00:15:04,975 --> 00:15:06,323
+cash to earn points,
+
+474
+00:15:06,323 --> 00:15:08,009
+spend a bit more to hit a
+
+475
+00:15:08,009 --> 00:15:10,301
+bonus, or book a hotel they didn't
+
+476
+00:15:10,301 --> 00:15:12,189
+need to keep a status level.
+
+477
+00:15:12,369 --> 00:15:13,971
+The reward is small.
+
+478
+00:15:14,151 --> 00:15:15,997
+The extra spending can be large.
+
+479
+00:15:16,346 --> 00:15:19,086
+Sign up bonuses are the clearest example.
+
+480
+00:15:19,266 --> 00:15:22,085
+Spend four thousand dollars in three months,
+
+481
+00:15:22,085 --> 00:15:23,109
+get a big bonus.
+
+482
+00:15:23,289 --> 00:15:25,041
+If you were going to spend that
+
+483
+00:15:25,041 --> 00:15:25,832
+anyway, great.
+
+484
+00:15:26,012 --> 00:15:28,005
+If the bonus makes you buy things
+
+485
+00:15:28,005 --> 00:15:29,213
+to reach the target,
+
+486
+00:15:29,213 --> 00:15:31,447
+the card company just turned a reward
+
+487
+00:15:31,447 --> 00:15:32,534
+into new spending,
+
+488
+00:15:32,534 --> 00:15:34,104
+and possibly new interest.
+
+489
+00:15:34,454 --> 00:15:36,788
+Rewards also use gamification.
+
+490
+00:15:36,968 --> 00:15:39,244
+Progress bars, status tiers,
+
+491
+00:15:39,244 --> 00:15:40,869
+limited time offers,
+
+492
+00:15:40,869 --> 00:15:43,551
+all designed to keep you engaged.
+
+493
+00:15:43,731 --> 00:15:46,228
+Try this: treat rewards as a discount
+
+494
+00:15:46,228 --> 00:15:48,387
+on spending you already planned,
+
+495
+00:15:48,387 --> 00:15:50,209
+never as a reason to spend.
+
+496
+00:15:50,389 --> 00:15:52,542
+And if you ever carry a balance,
+
+497
+00:15:52,542 --> 00:15:55,368
+forget rewards completely and focus on the
+
+498
+00:15:55,368 --> 00:15:56,310
+interest rate.
+
+499
+00:15:56,660 --> 00:15:57,682
+Way number eleven.
+
+500
+00:15:57,862 --> 00:15:59,697
+Deferred interest promotions.
+
+501
+00:16:00,046 --> 00:16:02,602
+You've seen it at furniture and electronics
+
+502
+00:16:02,602 --> 00:16:03,019
+stores.
+
+503
+00:16:03,199 --> 00:16:05,185
+No interest if paid in full in
+
+504
+00:16:05,185 --> 00:16:06,113
+twelve months.
+
+505
+00:16:06,293 --> 00:16:07,407
+That wording matters.
+
+506
+00:16:07,587 --> 00:16:09,946
+With many of these store card offers,
+
+507
+00:16:09,946 --> 00:16:12,178
+if you don't pay the entire balance
+
+508
+00:16:12,178 --> 00:16:13,198
+by the deadline,
+
+509
+00:16:13,198 --> 00:16:15,748
+interest is charged back to the original
+
+510
+00:16:15,748 --> 00:16:17,916
+purchase date, on the full amount,
+
+511
+00:16:17,916 --> 00:16:19,255
+not just what's left.
+
+512
+00:16:19,605 --> 00:16:21,567
+Say you buy a two thousand dollar
+
+513
+00:16:21,567 --> 00:16:24,005
+couch on a twelve month deferred interest
+
+514
+00:16:24,005 --> 00:16:25,610
+plan at twenty six percent,
+
+515
+00:16:25,610 --> 00:16:27,393
+and you've paid it down to two
+
+516
+00:16:27,393 --> 00:16:29,474
+hundred dollars when the year ends.
+
+517
+00:16:29,654 --> 00:16:31,125
+On many of these plans,
+
+518
+00:16:31,125 --> 00:16:33,365
+you could be charged roughly a year
+
+519
+00:16:33,365 --> 00:16:35,732
+of interest on the full two thousand,
+
+520
+00:16:35,732 --> 00:16:37,779
+potentially hundreds of dollars,
+
+521
+00:16:37,779 --> 00:16:38,547
+all at once.
+
+522
+00:16:38,727 --> 00:16:42,287
+The Consumer Financial Protection Bureau has warned
+
+523
+00:16:42,287 --> 00:16:44,312
+consumers about exactly this.
+
+524
+00:16:44,661 --> 00:16:46,697
+This is different from a true zero
+
+525
+00:16:46,697 --> 00:16:47,714
+percent APR card,
+
+526
+00:16:47,714 --> 00:16:50,288
+where interest only starts on the remaining
+
+527
+00:16:50,288 --> 00:16:51,964
+balance after the promotion.
+
+528
+00:16:52,144 --> 00:16:54,062
+The words if paid in full are
+
+529
+00:16:54,062 --> 00:16:55,186
+the warning sign.
+
+530
+00:16:55,366 --> 00:16:57,404
+Try this: if you use a deferred
+
+531
+00:16:57,404 --> 00:16:59,967
+interest offer, divide the price by the
+
+532
+00:16:59,967 --> 00:17:01,151
+months, minus one,
+
+533
+00:17:01,151 --> 00:17:03,386
+and pay that amount every month so
+
+534
+00:17:03,386 --> 00:17:04,503
+you finish early.
+
+535
+00:17:04,852 --> 00:17:05,886
+Way number twelve.
+
+536
+00:17:06,066 --> 00:17:08,121
+Automatic credit limit increases.
+
+537
+00:17:08,470 --> 00:17:11,029
+Card companies often raise your limit over
+
+538
+00:17:11,029 --> 00:17:13,161
+time, sometimes without you asking.
+
+539
+00:17:13,341 --> 00:17:14,827
+It feels like a compliment.
+
+540
+00:17:15,007 --> 00:17:16,458
+You've been trusted with more.
+
+541
+00:17:16,638 --> 00:17:18,562
+And a higher limit can actually help
+
+542
+00:17:18,562 --> 00:17:20,433
+your score, by lowering how much of
+
+543
+00:17:20,433 --> 00:17:22,304
+your available credit you're using.
+
+544
+00:17:22,653 --> 00:17:23,995
+But for some people,
+
+545
+00:17:23,995 --> 00:17:26,612
+a higher limit simply becomes more room
+
+546
+00:17:26,612 --> 00:17:27,216
+to spend.
+
+547
+00:17:27,396 --> 00:17:30,241
+Research on consumer behavior has suggested that
+
+548
+00:17:30,241 --> 00:17:32,789
+people often treat available credit as part
+
+549
+00:17:32,789 --> 00:17:34,211
+of what they can afford.
+
+550
+00:17:34,391 --> 00:17:36,803
+If you were already carrying a balance,
+
+551
+00:17:36,803 --> 00:17:38,782
+a higher limit can mean a higher
+
+552
+00:17:38,782 --> 00:17:40,452
+balance, and more interest.
+
+553
+00:17:40,801 --> 00:17:42,319
+The key is knowing which type of
+
+554
+00:17:42,319 --> 00:17:43,031
+person you are.
+
+555
+00:17:43,211 --> 00:17:45,321
+If you pay in full every month,
+
+556
+00:17:45,321 --> 00:17:47,704
+a higher limit is mostly a benefit.
+
+557
+00:17:47,884 --> 00:17:49,158
+If you carry a balance,
+
+558
+00:17:49,158 --> 00:17:49,822
+it's a risk.
+
+559
+00:17:50,002 --> 00:17:52,464
+Try this: if limit increases tempt you,
+
+560
+00:17:52,464 --> 00:17:54,421
+call and ask to keep your limit
+
+561
+00:17:54,421 --> 00:17:55,178
+where it is,
+
+562
+00:17:55,178 --> 00:17:57,387
+or set your own spending alert well
+
+563
+00:17:57,387 --> 00:17:57,955
+below it.
+
+564
+00:17:58,305 --> 00:17:59,664
+Way number thirteen.
+
+565
+00:17:59,844 --> 00:18:01,283
+Making payment painless.
+
+566
+00:18:01,633 --> 00:18:03,510
+Paying with cash makes you feel the
+
+567
+00:18:03,510 --> 00:18:04,153
+money leave.
+
+568
+00:18:04,333 --> 00:18:06,655
+Researchers call that the pain of paying.
+
+569
+00:18:06,835 --> 00:18:08,367
+Cards reduce that pain,
+
+570
+00:18:08,367 --> 00:18:11,230
+and studies have suggested people may spend
+
+571
+00:18:11,230 --> 00:18:12,895
+more when paying by card.
+
+572
+00:18:13,075 --> 00:18:13,843
+Tap to pay,
+
+573
+00:18:13,843 --> 00:18:16,915
+phone wallets and one click checkouts reduce
+
+574
+00:18:16,915 --> 00:18:18,033
+it even further.
+
+575
+00:18:18,213 --> 00:18:20,140
+Less pain, more spending.
+
+576
+00:18:20,489 --> 00:18:23,229
+Card companies and retailers work hard to
+
+577
+00:18:23,229 --> 00:18:24,298
+remove friction.
+
+578
+00:18:24,478 --> 00:18:26,231
+Saved cards in every app.
+
+579
+00:18:26,411 --> 00:18:27,781
+Approval in a second.
+
+580
+00:18:27,961 --> 00:18:28,959
+No signature.
+
+581
+00:18:29,139 --> 00:18:30,872
+Each step makes buying easier,
+
+582
+00:18:30,872 --> 00:18:32,663
+which is great for convenience,
+
+583
+00:18:32,663 --> 00:18:33,992
+and great for spending.
+
+584
+00:18:34,172 --> 00:18:35,936
+Convenience is the product,
+
+585
+00:18:35,936 --> 00:18:38,027
+and your spending is the result.
+
+586
+00:18:38,376 --> 00:18:40,350
+You don't have to give up convenience.
+
+587
+00:18:40,530 --> 00:18:42,889
+You just need to add one deliberate
+
+588
+00:18:42,889 --> 00:18:43,293
+pause.
+
+589
+00:18:43,473 --> 00:18:46,381
+Try this: remove saved cards from shopping
+
+590
+00:18:46,381 --> 00:18:48,735
+sites and apps you use for impulse
+
+591
+00:18:48,735 --> 00:18:49,081
+buys.
+
+592
+00:18:49,261 --> 00:18:51,676
+Keep them only for bills and essentials.
+
+593
+00:18:51,856 --> 00:18:53,919
+That small pause is often enough to
+
+594
+00:18:53,919 --> 00:18:55,629
+ask, do I actually want this?
+
+595
+00:18:55,979 --> 00:18:57,349
+Here's something worth knowing.
+
+596
+00:18:57,529 --> 00:18:59,672
+Card companies think about you as a
+
+597
+00:18:59,672 --> 00:19:01,877
+journey, from the first offer to the
+
+598
+00:19:01,877 --> 00:19:02,673
+last payment.
+
+599
+00:19:02,853 --> 00:19:04,211
+Let me walk you through it.
+
+600
+00:19:04,560 --> 00:19:06,023
+It starts with acquisition.
+
+601
+00:19:06,203 --> 00:19:08,108
+Mail offers, app pop ups,
+
+602
+00:19:08,108 --> 00:19:10,545
+and sign up bonuses at checkout.
+
+603
+00:19:10,725 --> 00:19:13,211
+Card companies spend heavily to win new
+
+604
+00:19:13,211 --> 00:19:15,825
+customers, because a good customer can be
+
+605
+00:19:15,825 --> 00:19:17,482
+profitable for many years.
+
+606
+00:19:17,662 --> 00:19:20,010
+That's why so many offers arrive in
+
+607
+00:19:20,010 --> 00:19:22,290
+your mailbox, and why the bonus is
+
+608
+00:19:22,290 --> 00:19:22,759
+so big.
+
+609
+00:19:22,939 --> 00:19:24,472
+They expect to earn it back.
+
+610
+00:19:24,821 --> 00:19:27,167
+Next comes activation and habit.
+
+611
+00:19:27,347 --> 00:19:28,798
+The goal is to make the card
+
+612
+00:19:28,798 --> 00:19:29,471
+your default.
+
+613
+00:19:29,651 --> 00:19:30,998
+Put it in your phone wallet.
+
+614
+00:19:31,178 --> 00:19:33,163
+Save it in your favorite apps.
+
+615
+00:19:33,343 --> 00:19:35,725
+Earn extra points in your most common
+
+616
+00:19:35,725 --> 00:19:36,304
+category.
+
+617
+00:19:36,484 --> 00:19:38,067
+Once a card is the one you
+
+618
+00:19:38,067 --> 00:19:39,711
+reach for without thinking,
+
+619
+00:19:39,711 --> 00:19:41,720
+it tends to stay there for years.
+
+620
+00:19:42,069 --> 00:19:43,683
+Then the profitable stage.
+
+621
+00:19:43,863 --> 00:19:45,332
+If you carry a balance,
+
+622
+00:19:45,332 --> 00:19:47,056
+interest flows every month.
+
+623
+00:19:47,236 --> 00:19:48,592
+If you pay in full,
+
+624
+00:19:48,592 --> 00:19:50,162
+swipe fees still flow.
+
+625
+00:19:50,342 --> 00:19:53,671
+Limit increases, balance transfer offers and new
+
+626
+00:19:53,671 --> 00:19:55,613
+promotions keep you engaged.
+
+627
+00:19:55,793 --> 00:19:57,534
+And finally, retention.
+
+628
+00:19:57,714 --> 00:19:59,272
+If you call to cancel,
+
+629
+00:19:59,272 --> 00:20:01,893
+many issuers will offer bonus points,
+
+630
+00:20:01,893 --> 00:20:03,876
+a waived fee or a lower rate
+
+631
+00:20:03,876 --> 00:20:04,726
+to keep you.
+
+632
+00:20:04,906 --> 00:20:06,834
+Which tells you something useful.
+
+633
+00:20:07,014 --> 00:20:08,794
+Your business is worth more to them
+
+634
+00:20:08,794 --> 00:20:09,556
+than you think.
+
+635
+00:20:09,906 --> 00:20:11,694
+Knowing this journey gives you leverage.
+
+636
+00:20:11,874 --> 00:20:13,502
+You can take the sign up bonus
+
+637
+00:20:13,502 --> 00:20:15,021
+on spending you'd do anyway.
+
+638
+00:20:15,201 --> 00:20:17,282
+You can choose which card becomes your
+
+639
+00:20:17,282 --> 00:20:17,720
+default.
+
+640
+00:20:17,900 --> 00:20:20,035
+You can call before your annual fee
+
+641
+00:20:20,035 --> 00:20:22,231
+posts and ask for a retention offer.
+
+642
+00:20:22,411 --> 00:20:23,841
+And you can walk away if the
+
+643
+00:20:23,841 --> 00:20:25,220
+deal stops working for you.
+
+644
+00:20:25,400 --> 00:20:26,364
+You're the customer.
+
+645
+00:20:26,544 --> 00:20:27,426
+Act like one.
+
+646
+00:20:27,776 --> 00:20:28,833
+Quick pause.
+
+647
+00:20:29,013 --> 00:20:30,866
+If you just realized your card has
+
+648
+00:20:30,866 --> 00:20:32,283
+been making money off you,
+
+649
+00:20:32,283 --> 00:20:33,645
+subscribe to the channel.
+
+650
+00:20:33,825 --> 00:20:35,764
+It's free, and it helps me make
+
+651
+00:20:35,764 --> 00:20:37,390
+more videos like this one.
+
+652
+00:20:37,570 --> 00:20:39,416
+Now, let's flip the deal.
+
+653
+00:20:39,765 --> 00:20:40,683
+Angle three.
+
+654
+00:20:40,863 --> 00:20:41,594
+The playbook.
+
+655
+00:20:41,774 --> 00:20:43,958
+Ten rules that make your card company
+
+656
+00:20:43,958 --> 00:20:45,671
+earn almost nothing from you,
+
+657
+00:20:45,671 --> 00:20:47,324
+while you keep the benefits.
+
+658
+00:20:47,673 --> 00:20:48,405
+Rule one.
+
+659
+00:20:48,585 --> 00:20:51,209
+Pay the full statement balance every month.
+
+660
+00:20:51,389 --> 00:20:54,041
+This single habit removes the biggest source
+
+661
+00:20:54,041 --> 00:20:54,945
+of card profit,
+
+662
+00:20:54,945 --> 00:20:55,487
+interest.
+
+663
+00:20:55,667 --> 00:20:57,825
+Most cards give you a grace period,
+
+664
+00:20:57,825 --> 00:20:59,799
+so if you pay the full statement
+
+665
+00:20:59,799 --> 00:21:01,279
+balance by the due date,
+
+666
+00:21:01,279 --> 00:21:03,930
+new purchases don't get charged interest at
+
+667
+00:21:03,930 --> 00:21:04,177
+all.
+
+668
+00:21:04,527 --> 00:21:05,410
+Rule two.
+
+669
+00:21:05,590 --> 00:21:06,716
+Turn on autopay.
+
+670
+00:21:06,896 --> 00:21:08,274
+At least the minimum,
+
+671
+00:21:08,274 --> 00:21:09,915
+ideally the full balance.
+
+672
+00:21:10,095 --> 00:21:11,866
+You'll never pay a late fee or
+
+673
+00:21:11,866 --> 00:21:13,578
+trigger a penalty rate again.
+
+674
+00:21:13,758 --> 00:21:14,698
+Rule three.
+
+675
+00:21:14,878 --> 00:21:15,900
+Know your APR.
+
+676
+00:21:16,080 --> 00:21:16,962
+Write it down.
+
+677
+00:21:17,142 --> 00:21:18,728
+If you ever carry a balance,
+
+678
+00:21:18,728 --> 00:21:20,485
+that's the number that matters,
+
+679
+00:21:20,485 --> 00:21:21,391
+not the rewards.
+
+680
+00:21:21,741 --> 00:21:22,519
+Rule four.
+
+681
+00:21:22,699 --> 00:21:24,269
+If you carry a balance,
+
+682
+00:21:24,269 --> 00:21:26,931
+attack it before anything else except a
+
+683
+00:21:26,931 --> 00:21:28,365
+small emergency fund.
+
+684
+00:21:28,545 --> 00:21:30,430
+Paying off a card at twenty two
+
+685
+00:21:30,430 --> 00:21:32,984
+percent is a guaranteed twenty two percent
+
+686
+00:21:32,984 --> 00:21:33,410
+return.
+
+687
+00:21:33,590 --> 00:21:36,004
+Few investments can match that reliably.
+
+688
+00:21:36,184 --> 00:21:37,113
+Rule five.
+
+689
+00:21:37,293 --> 00:21:39,842
+Use balance transfers only with a written
+
+690
+00:21:39,842 --> 00:21:42,390
+plan to finish before the promotion ends.
+
+691
+00:21:42,739 --> 00:21:44,678
+Here's why rule four matters.
+
+692
+00:21:44,858 --> 00:21:47,310
+A three thousand dollar balance at twenty
+
+693
+00:21:47,310 --> 00:21:48,028
+two percent.
+
+694
+00:21:48,208 --> 00:21:50,771
+Paying only around the minimum can take
+
+695
+00:21:50,771 --> 00:21:51,493
+many years.
+
+696
+00:21:51,673 --> 00:21:53,713
+Paying a fixed three hundred dollars a
+
+697
+00:21:53,713 --> 00:21:55,807
+month clears it in about twelve months.
+
+698
+00:21:56,156 --> 00:21:57,074
+Rule six.
+
+699
+00:21:57,254 --> 00:21:58,925
+Never take a cash advance.
+
+700
+00:21:59,105 --> 00:22:01,217
+Ask your issuer to lower or remove
+
+701
+00:22:01,217 --> 00:22:02,832
+the cash limit if you can.
+
+702
+00:22:03,012 --> 00:22:03,895
+Rule seven.
+
+703
+00:22:04,075 --> 00:22:07,319
+Avoid deferred interest offers unless you'll pay
+
+704
+00:22:07,319 --> 00:22:08,333
+them off early,
+
+705
+00:22:08,333 --> 00:22:10,767
+with a fixed monthly amount set from
+
+706
+00:22:10,767 --> 00:22:11,308
+day one.
+
+707
+00:22:11,657 --> 00:22:12,319
+Rule eight.
+
+708
+00:22:12,499 --> 00:22:14,020
+Match the card to your life.
+
+709
+00:22:14,200 --> 00:22:15,405
+If you don't travel,
+
+710
+00:22:15,405 --> 00:22:17,212
+you may not need a travel card
+
+711
+00:22:17,212 --> 00:22:18,356
+with an annual fee.
+
+712
+00:22:18,536 --> 00:22:19,931
+If you travel abroad,
+
+713
+00:22:19,931 --> 00:22:22,520
+pick a card with no foreign transaction
+
+714
+00:22:22,520 --> 00:22:22,786
+fee.
+
+715
+00:22:22,966 --> 00:22:25,088
+A simple no fee card with flat
+
+716
+00:22:25,088 --> 00:22:27,423
+cash back is the right answer for
+
+717
+00:22:27,423 --> 00:22:28,271
+many people.
+
+718
+00:22:28,621 --> 00:22:29,399
+Rule nine.
+
+719
+00:22:29,579 --> 00:22:31,596
+Treat rewards as a discount,
+
+720
+00:22:31,596 --> 00:22:32,389
+not a goal.
+
+721
+00:22:32,569 --> 00:22:34,368
+Never spend to earn points.
+
+722
+00:22:34,548 --> 00:22:35,518
+And once a year,
+
+723
+00:22:35,518 --> 00:22:37,397
+add up what you earned and what
+
+724
+00:22:37,397 --> 00:22:39,216
+you paid in fees and interest.
+
+725
+00:22:39,396 --> 00:22:41,470
+If the second number is bigger,
+
+726
+00:22:41,470 --> 00:22:42,809
+the card is winning.
+
+727
+00:22:42,989 --> 00:22:43,813
+Rule ten.
+
+728
+00:22:43,993 --> 00:22:45,746
+Read your statement every month.
+
+729
+00:22:45,926 --> 00:22:47,382
+It takes five minutes,
+
+730
+00:22:47,382 --> 00:22:49,035
+catches fraud and errors,
+
+731
+00:22:49,035 --> 00:22:51,152
+and keeps you out of the ostrich
+
+732
+00:22:51,152 --> 00:22:51,615
+effect.
+
+733
+00:22:51,965 --> 00:22:53,273
+Do these ten things,
+
+734
+00:22:53,273 --> 00:22:56,018
+and you become what the industry sometimes
+
+735
+00:22:56,018 --> 00:22:57,260
+calls a transactor.
+
+736
+00:22:57,440 --> 00:23:00,017
+Someone who uses the card for convenience
+
+737
+00:23:00,017 --> 00:23:01,085
+and pays in full.
+
+738
+00:23:01,265 --> 00:23:03,564
+You still get the protection and rewards.
+
+739
+00:23:03,744 --> 00:23:06,109
+And the card company earns mostly from
+
+740
+00:23:06,109 --> 00:23:07,042
+the swipe fees,
+
+741
+00:23:07,042 --> 00:23:08,411
+not from you directly.
+
+742
+00:23:08,761 --> 00:23:11,078
+Now, let's read a credit card statement
+
+743
+00:23:11,078 --> 00:23:12,860
+the way the card company does.
+
+744
+00:23:13,040 --> 00:23:14,328
+Five numbers matter.
+
+745
+00:23:14,678 --> 00:23:17,058
+Number one, the statement balance.
+
+746
+00:23:17,238 --> 00:23:18,765
+That's what you owe for the last
+
+747
+00:23:18,765 --> 00:23:19,433
+billing cycle.
+
+748
+00:23:19,613 --> 00:23:21,444
+Pay this full amount by the due
+
+749
+00:23:21,444 --> 00:23:23,394
+date, and on most cards you won't
+
+750
+00:23:23,394 --> 00:23:24,930
+pay interest on purchases.
+
+751
+00:23:25,110 --> 00:23:27,130
+Number two, the current balance.
+
+752
+00:23:27,310 --> 00:23:29,707
+That includes new purchases made after the
+
+753
+00:23:29,707 --> 00:23:30,677
+statement closed.
+
+754
+00:23:30,857 --> 00:23:32,686
+You don't have to pay those yet
+
+755
+00:23:32,686 --> 00:23:33,748
+to avoid interest,
+
+756
+00:23:33,748 --> 00:23:34,456
+but you can.
+
+757
+00:23:34,806 --> 00:23:37,036
+Number three, the minimum payment.
+
+758
+00:23:37,216 --> 00:23:37,968
+As we saw,
+
+759
+00:23:37,968 --> 00:23:39,398
+this is the anchor.
+
+760
+00:23:39,578 --> 00:23:41,852
+Paying only this keeps your account in
+
+761
+00:23:41,852 --> 00:23:44,605
+good standing, but keeps the interest flowing.
+
+762
+00:23:44,785 --> 00:23:46,573
+Number four, the due date.
+
+763
+00:23:46,753 --> 00:23:49,082
+Miss it, and fees and possibly a
+
+764
+00:23:49,082 --> 00:23:50,538
+penalty rate follow.
+
+765
+00:23:50,718 --> 00:23:52,599
+Number five, the APR.
+
+766
+00:23:52,779 --> 00:23:54,395
+Often there are several:
+
+767
+00:23:54,395 --> 00:23:55,606
+one for purchases,
+
+768
+00:23:55,606 --> 00:23:57,356
+one for balance transfers,
+
+769
+00:23:57,356 --> 00:23:58,837
+one for cash advances,
+
+770
+00:23:58,837 --> 00:24:00,116
+and a penalty rate.
+
+771
+00:24:00,466 --> 00:24:02,491
+And then there's the box most people
+
+772
+00:24:02,491 --> 00:24:04,402
+skip, the minimum payment warning.
+
+773
+00:24:04,582 --> 00:24:06,467
+It shows how long it would take
+
+774
+00:24:06,467 --> 00:24:08,656
+to pay off your balance with minimum
+
+775
+00:24:08,656 --> 00:24:10,724
+payments only, and the total cost.
+
+776
+00:24:10,904 --> 00:24:12,858
+It also shows what you'd need to
+
+777
+00:24:12,858 --> 00:24:14,629
+pay each month to clear it in
+
+778
+00:24:14,629 --> 00:24:15,362
+three years.
+
+779
+00:24:15,542 --> 00:24:17,340
+That second number is often a much
+
+780
+00:24:17,340 --> 00:24:18,979
+better target than the minimum.
+
+781
+00:24:19,159 --> 00:24:21,294
+Try this: use the three year number
+
+782
+00:24:21,294 --> 00:24:22,514
+as your new minimum.
+
+783
+00:24:22,863 --> 00:24:25,207
+One more line worth checking every month
+
+784
+00:24:25,207 --> 00:24:26,613
+is the interest charged.
+
+785
+00:24:26,793 --> 00:24:28,969
+If that line shows anything other than
+
+786
+00:24:28,969 --> 00:24:31,260
+zero, you're paying for the privilege of
+
+787
+00:24:31,260 --> 00:24:31,832
+borrowing.
+
+788
+00:24:32,012 --> 00:24:34,685
+Seeing that number in black and white,
+
+789
+00:24:34,685 --> 00:24:35,952
+month after month,
+
+790
+00:24:35,952 --> 00:24:38,625
+is often what finally pushes people to
+
+791
+00:24:38,625 --> 00:24:39,117
+change.
+
+792
+00:24:39,297 --> 00:24:40,064
+Circle it.
+
+793
+00:24:40,244 --> 00:24:41,544
+Write it on a sticky note.
+
+794
+00:24:41,724 --> 00:24:44,464
+Make it visible until it reaches zero.
+
+795
+00:24:44,814 --> 00:24:46,971
+Let's make it real with two people
+
+796
+00:24:46,971 --> 00:24:49,255
+holding the exact same rewards card,
+
+797
+00:24:49,255 --> 00:24:51,285
+with two percent cash back and a
+
+798
+00:24:51,285 --> 00:24:52,744
+twenty two percent APR.
+
+799
+00:24:52,924 --> 00:24:55,381
+Alex spends about two thousand dollars a
+
+800
+00:24:55,381 --> 00:24:56,486
+month on the card,
+
+801
+00:24:56,486 --> 00:24:58,820
+and pays it off completely every month
+
+802
+00:24:58,820 --> 00:24:59,495
+on autopay.
+
+803
+00:24:59,845 --> 00:25:00,674
+Over a year,
+
+804
+00:25:00,674 --> 00:25:03,848
+Alex earns roughly four hundred eighty dollars
+
+805
+00:25:03,848 --> 00:25:04,745
+in cash back.
+
+806
+00:25:04,925 --> 00:25:06,573
+He pays no interest,
+
+807
+00:25:06,573 --> 00:25:07,644
+no late fees,
+
+808
+00:25:07,644 --> 00:25:09,128
+and no annual fee.
+
+809
+00:25:09,308 --> 00:25:11,906
+The card company still makes money from
+
+810
+00:25:11,906 --> 00:25:14,771
+Alex, through swipe fees paid by merchants,
+
+811
+00:25:14,771 --> 00:25:16,436
+but Alex comes out ahead.
+
+812
+00:25:16,616 --> 00:25:18,845
+For him, the card is a tool.
+
+813
+00:25:19,195 --> 00:25:19,985
+Now Jordan.
+
+814
+00:25:20,165 --> 00:25:22,499
+Same card, same spending.
+
+815
+00:25:22,679 --> 00:25:24,717
+But Jordan pays only part of each
+
+816
+00:25:24,717 --> 00:25:27,126
+bill, and carries an average balance of
+
+817
+00:25:27,126 --> 00:25:28,855
+around six thousand dollars.
+
+818
+00:25:29,035 --> 00:25:29,983
+Twice a year,
+
+819
+00:25:29,983 --> 00:25:32,535
+Jordan forgets a payment and gets a
+
+820
+00:25:32,535 --> 00:25:33,191
+late fee.
+
+821
+00:25:33,541 --> 00:25:36,355
+Jordan also earns around four hundred eighty
+
+822
+00:25:36,355 --> 00:25:37,698
+dollars in cash back.
+
+823
+00:25:37,878 --> 00:25:40,110
+But on a six thousand dollar average
+
+824
+00:25:40,110 --> 00:25:41,971
+balance at twenty two percent,
+
+825
+00:25:41,971 --> 00:25:44,823
+Jordan pays roughly thirteen hundred dollars a
+
+826
+00:25:44,823 --> 00:25:45,877
+year in interest,
+
+827
+00:25:45,877 --> 00:25:48,234
+plus about sixty dollars in late fees.
+
+828
+00:25:48,414 --> 00:25:51,296
+Net result, Jordan loses roughly nine hundred
+
+829
+00:25:51,296 --> 00:25:52,257
+dollars a year.
+
+830
+00:25:52,437 --> 00:25:53,493
+Same card.
+
+831
+00:25:53,673 --> 00:25:54,892
+Same rewards.
+
+832
+00:25:55,072 --> 00:25:56,500
+Opposite outcomes.
+
+833
+00:25:56,850 --> 00:25:59,165
+Same card, same spending,
+
+834
+00:25:59,165 --> 00:26:00,368
+same rewards.
+
+835
+00:26:00,548 --> 00:26:02,499
+The only difference is paying in full.
+
+836
+00:26:02,848 --> 00:26:04,172
+And here's the twist.
+
+837
+00:26:04,352 --> 00:26:07,012
+Jordan's interest helps pay for the system
+
+838
+00:26:07,012 --> 00:26:08,659
+that funds Alex's rewards.
+
+839
+00:26:08,839 --> 00:26:11,289
+That's the quiet truth of credit cards.
+
+840
+00:26:11,469 --> 00:26:13,451
+The people who pay in full are,
+
+841
+00:26:13,451 --> 00:26:14,026
+in a way,
+
+842
+00:26:14,026 --> 00:26:16,264
+subsidized by the people who don't.
+
+843
+00:26:16,444 --> 00:26:18,055
+The goal of this video is to
+
+844
+00:26:18,055 --> 00:26:20,240
+move you from Jordan's side to Alex's.
+
+845
+00:26:20,590 --> 00:26:22,893
+Let's do the honest math on premium
+
+846
+00:26:22,893 --> 00:26:25,130
+cards, because they're everywhere.
+
+847
+00:26:25,310 --> 00:26:27,651
+Imagine a card with a five hundred
+
+848
+00:26:27,651 --> 00:26:29,304
+fifty dollar annual fee.
+
+849
+00:26:29,484 --> 00:26:31,872
+It offers a three hundred dollar travel
+
+850
+00:26:31,872 --> 00:26:33,708
+credit, airport lounge access,
+
+851
+00:26:33,708 --> 00:26:35,974
+and three points per dollar on travel
+
+852
+00:26:35,974 --> 00:26:36,647
+and dining.
+
+853
+00:26:36,827 --> 00:26:37,675
+Is it worth it?
+
+854
+00:26:37,855 --> 00:26:40,223
+It depends entirely on how you live.
+
+855
+00:26:40,573 --> 00:26:42,676
+If you travel several times a year,
+
+856
+00:26:42,676 --> 00:26:44,778
+use the full travel credit on trips
+
+857
+00:26:44,778 --> 00:26:45,859
+you'd take anyway,
+
+858
+00:26:45,859 --> 00:26:47,120
+and value the lounge,
+
+859
+00:26:47,120 --> 00:26:48,201
+the math can work.
+
+860
+00:26:48,381 --> 00:26:50,835
+Say you spend ten thousand dollars a
+
+861
+00:26:50,835 --> 00:26:52,607
+year on travel and dining.
+
+862
+00:26:52,787 --> 00:26:54,327
+At three points per dollar,
+
+863
+00:26:54,327 --> 00:26:56,038
+that's thirty thousand points.
+
+864
+00:26:56,218 --> 00:26:57,970
+Depending on how you redeem them,
+
+865
+00:26:57,970 --> 00:27:00,094
+that might be worth around three hundred
+
+866
+00:27:00,094 --> 00:27:01,686
+to four hundred fifty dollars.
+
+867
+00:27:01,866 --> 00:27:02,658
+Add the credit,
+
+868
+00:27:02,658 --> 00:27:04,084
+and you may come out ahead.
+
+869
+00:27:04,433 --> 00:27:06,339
+But if you travel once a year,
+
+870
+00:27:06,339 --> 00:27:07,928
+forget to use the credit,
+
+871
+00:27:07,928 --> 00:27:09,516
+and rarely visit lounges,
+
+872
+00:27:09,516 --> 00:27:11,739
+the same card can cost you hundreds
+
+873
+00:27:11,739 --> 00:27:13,899
+of dollars a year for benefits you
+
+874
+00:27:13,899 --> 00:27:14,662
+never touch.
+
+875
+00:27:14,842 --> 00:27:16,521
+A simple no fee card with two
+
+876
+00:27:16,521 --> 00:27:18,836
+percent cash back might leave you better
+
+877
+00:27:18,836 --> 00:27:19,068
+off.
+
+878
+00:27:19,248 --> 00:27:21,338
+The card company is betting you'll be
+
+879
+00:27:21,338 --> 00:27:22,355
+the second person,
+
+880
+00:27:22,355 --> 00:27:23,485
+and many people are.
+
+881
+00:27:23,835 --> 00:27:24,695
+A simple rule.
+
+882
+00:27:24,875 --> 00:27:26,765
+Only pay an annual fee if the
+
+883
+00:27:26,765 --> 00:27:29,178
+benefits you actually used last year,
+
+884
+00:27:29,178 --> 00:27:31,330
+in dollars, clearly beat the fee.
+
+885
+00:27:31,510 --> 00:27:32,506
+And never, ever,
+
+886
+00:27:32,506 --> 00:27:34,187
+pay an annual fee on a card
+
+887
+00:27:34,187 --> 00:27:35,805
+where you carry a balance.
+
+888
+00:27:35,985 --> 00:27:36,860
+At that point,
+
+889
+00:27:36,860 --> 00:27:38,110
+you're paying twice.
+
+890
+00:27:38,290 --> 00:27:39,458
+Once for the card,
+
+891
+00:27:39,458 --> 00:27:41,146
+and once for the interest.
+
+892
+00:27:41,496 --> 00:27:43,763
+Let me answer the questions people ask
+
+893
+00:27:43,763 --> 00:27:45,374
+me most about credit cards.
+
+894
+00:27:45,724 --> 00:27:46,560
+Question one.
+
+895
+00:27:46,740 --> 00:27:48,108
+Should I just cut up all my
+
+896
+00:27:48,108 --> 00:27:48,412
+cards?
+
+897
+00:27:48,592 --> 00:27:51,484
+If cards consistently lead you into debt,
+
+898
+00:27:51,484 --> 00:27:53,671
+using debit or cash for a while
+
+899
+00:27:53,671 --> 00:27:55,152
+can be a smart reset.
+
+900
+00:27:55,332 --> 00:27:57,164
+But if you can pay in full,
+
+901
+00:27:57,164 --> 00:27:59,064
+cards offer real advantages,
+
+902
+00:27:59,064 --> 00:28:02,186
+like stronger fraud protection than many debit
+
+903
+00:28:02,186 --> 00:28:04,562
+cards, and building credit history.
+
+904
+00:28:04,742 --> 00:28:06,088
+The card isn't the enemy.
+
+905
+00:28:06,268 --> 00:28:07,708
+Carrying a balance is.
+
+906
+00:28:08,058 --> 00:28:09,034
+Question two.
+
+907
+00:28:09,214 --> 00:28:11,141
+Can I negotiate my interest rate?
+
+908
+00:28:11,321 --> 00:28:14,221
+Often, yes, especially if you've paid on
+
+909
+00:28:14,221 --> 00:28:15,454
+time for a while.
+
+910
+00:28:15,634 --> 00:28:18,143
+Call, ask politely for a lower APR,
+
+911
+00:28:18,143 --> 00:28:21,011
+and mention competing offers if you have
+
+912
+00:28:21,011 --> 00:28:21,369
+them.
+
+913
+00:28:21,549 --> 00:28:22,928
+It doesn't always work,
+
+914
+00:28:22,928 --> 00:28:24,847
+but it costs a five minute call.
+
+915
+00:28:25,027 --> 00:28:27,421
+Even a few percentage points can save
+
+916
+00:28:27,421 --> 00:28:28,974
+real money on a balance.
+
+917
+00:28:29,324 --> 00:28:30,358
+Question three.
+
+918
+00:28:30,538 --> 00:28:32,325
+Does paying in full hurt my credit
+
+919
+00:28:32,325 --> 00:28:34,218
+because the bank doesn't make money?
+
+920
+00:28:34,398 --> 00:28:34,642
+No.
+
+921
+00:28:34,822 --> 00:28:36,786
+Your credit score is based on things
+
+922
+00:28:36,786 --> 00:28:38,532
+like paying on time and how much
+
+923
+00:28:38,532 --> 00:28:39,732
+of your limit you use,
+
+924
+00:28:39,732 --> 00:28:41,532
+not on how much interest you pay.
+
+925
+00:28:41,712 --> 00:28:43,489
+Paying in full every month is one
+
+926
+00:28:43,489 --> 00:28:45,050
+of the best things you can do
+
+927
+00:28:45,050 --> 00:28:45,857
+for your score.
+
+928
+00:28:46,207 --> 00:28:47,032
+Question four.
+
+929
+00:28:47,212 --> 00:28:48,791
+When is the best time to pay?
+
+930
+00:28:48,971 --> 00:28:50,898
+At minimum, by the due date.
+
+931
+00:28:51,078 --> 00:28:53,396
+But your balance on the statement closing
+
+932
+00:28:53,396 --> 00:28:55,431
+date is often what's reported to the
+
+933
+00:28:55,431 --> 00:28:56,279
+credit bureaus.
+
+934
+00:28:56,459 --> 00:28:58,517
+If you want a lower reported balance,
+
+935
+00:28:58,517 --> 00:29:00,964
+paying before the statement closes can help.
+
+936
+00:29:01,144 --> 00:29:03,001
+Either way, never pay late.
+
+937
+00:29:03,351 --> 00:29:04,396
+Question five.
+
+938
+00:29:04,576 --> 00:29:06,399
+Are store cards ever worth it?
+
+939
+00:29:06,579 --> 00:29:08,928
+Sometimes, if you shop at that store
+
+940
+00:29:08,928 --> 00:29:10,364
+often and pay in full.
+
+941
+00:29:10,544 --> 00:29:13,084
+But store cards often have higher interest
+
+942
+00:29:13,084 --> 00:29:15,443
+rates and deferred interest promotions.
+
+943
+00:29:15,623 --> 00:29:16,620
+For most people,
+
+944
+00:29:16,620 --> 00:29:19,111
+a general card with simple rewards works
+
+945
+00:29:19,111 --> 00:29:19,547
+better.
+
+946
+00:29:19,897 --> 00:29:20,896
+Question seven.
+
+947
+00:29:21,076 --> 00:29:23,508
+Do card companies make money even if
+
+948
+00:29:23,508 --> 00:29:24,454
+I pay in full?
+
+949
+00:29:24,634 --> 00:29:27,212
+Yes, mainly through swipe fees paid by
+
+950
+00:29:27,212 --> 00:29:30,265
+merchants, and sometimes through annual fees.
+
+951
+00:29:30,445 --> 00:29:32,325
+That's why they're still happy to have
+
+952
+00:29:32,325 --> 00:29:32,523
+you.
+
+953
+00:29:32,703 --> 00:29:34,305
+But they make far less from you
+
+954
+00:29:34,305 --> 00:29:36,372
+than from someone who carries a balance,
+
+955
+00:29:36,372 --> 00:29:38,438
+and that's exactly the position you want
+
+956
+00:29:38,438 --> 00:29:38,903
+to be in.
+
+957
+00:29:39,253 --> 00:29:40,623
+And question six.
+
+958
+00:29:40,803 --> 00:29:42,781
+What if I'm already deep in card
+
+959
+00:29:42,781 --> 00:29:43,091
+debt?
+
+960
+00:29:43,271 --> 00:29:45,849
+Start with a small emergency fund so
+
+961
+00:29:45,849 --> 00:29:47,926
+new surprises don't add debt.
+
+962
+00:29:48,106 --> 00:29:49,906
+Stop using the cards for now.
+
+963
+00:29:50,086 --> 00:29:51,918
+List every balance and rate,
+
+964
+00:29:51,918 --> 00:29:53,685
+and choose a payoff method.
+
+965
+00:29:53,865 --> 00:29:56,516
+Call your issuers and ask about lower
+
+966
+00:29:56,516 --> 00:29:58,451
+rates or hardship programs.
+
+967
+00:29:58,631 --> 00:30:00,524
+And if you feel overwhelmed,
+
+968
+00:30:00,524 --> 00:30:03,635
+look for a nonprofit credit counseling agency.
+
+969
+00:30:03,815 --> 00:30:06,299
+Many offer free or low cost help.
+
+970
+00:30:06,649 --> 00:30:07,442
+Before we go,
+
+971
+00:30:07,442 --> 00:30:09,638
+five warning signs that your card is
+
+972
+00:30:09,638 --> 00:30:11,772
+using you, instead of the other way
+
+973
+00:30:11,772 --> 00:30:12,199
+around.
+
+974
+00:30:12,379 --> 00:30:12,600
+One.
+
+975
+00:30:12,780 --> 00:30:14,045
+You don't know your APR.
+
+976
+00:30:14,225 --> 00:30:14,480
+Two.
+
+977
+00:30:14,660 --> 00:30:17,149
+You've paid interest in three or more
+
+978
+00:30:17,149 --> 00:30:18,898
+of the last twelve months.
+
+979
+00:30:19,078 --> 00:30:19,496
+Three.
+
+980
+00:30:19,676 --> 00:30:21,932
+You use one card to pay another,
+
+981
+00:30:21,932 --> 00:30:24,541
+or take cash advances to cover bills.
+
+982
+00:30:24,890 --> 00:30:25,459
+Four.
+
+983
+00:30:25,639 --> 00:30:28,373
+You pick purchases to earn points or
+
+984
+00:30:28,373 --> 00:30:29,285
+hit a bonus.
+
+985
+00:30:29,465 --> 00:30:30,382
+And five.
+
+986
+00:30:30,562 --> 00:30:32,286
+You feel a little relief when the
+
+987
+00:30:32,286 --> 00:30:33,592
+minimum payment is small.
+
+988
+00:30:33,772 --> 00:30:35,646
+If two or more of these sound
+
+989
+00:30:35,646 --> 00:30:38,230
+familiar, it's time to run the playbook.
+
+990
+00:30:38,410 --> 00:30:40,338
+Start with rule one this month:
+
+991
+00:30:40,338 --> 00:30:42,701
+aim to pay the full statement balance,
+
+992
+00:30:42,701 --> 00:30:44,007
+and if you can't yet,
+
+993
+00:30:44,007 --> 00:30:46,184
+pick a fixed payment that clears it
+
+994
+00:30:46,184 --> 00:30:47,489
+on a date you choose.
+
+995
+00:30:47,669 --> 00:30:49,713
+Then put that date on your calendar
+
+996
+00:30:49,713 --> 00:30:51,524
+and celebrate it when it comes.
+
+997
+00:30:51,873 --> 00:30:52,802
+Quick recap.
+
+998
+00:30:52,982 --> 00:30:56,858
+Credit card companies make money through interest,
+
+999
+00:30:56,858 --> 00:30:58,563
+swipe fees, late fees,
+
+1000
+00:30:58,563 --> 00:31:01,277
+annual fees, balance transfer fees,
+
+1001
+00:31:01,277 --> 00:31:05,230
+cash advances, foreign transaction fees and penalty
+
+1002
+00:31:05,230 --> 00:31:05,695
+rates.
+
+1003
+00:31:05,875 --> 00:31:08,268
+More than one hundred billion dollars in
+
+1004
+00:31:08,268 --> 00:31:10,182
+interest alone in a single year.
+
+1005
+00:31:10,532 --> 00:31:12,733
+They keep it flowing with design:
+
+1006
+00:31:12,733 --> 00:31:14,533
+the minimum payment anchor,
+
+1007
+00:31:14,533 --> 00:31:16,401
+rewards that make you spend,
+
+1008
+00:31:16,401 --> 00:31:18,335
+deferred interest promotions,
+
+1009
+00:31:18,335 --> 00:31:21,202
+rising credit limits and painless payments.
+
+1010
+00:31:21,382 --> 00:31:23,067
+And you flip the deal with ten
+
+1011
+00:31:23,067 --> 00:31:25,538
+rules, starting with the most important one.
+
+1012
+00:31:25,718 --> 00:31:26,624
+Pay in full,
+
+1013
+00:31:26,624 --> 00:31:28,435
+every month, on autopay.
+
+1014
+00:31:28,785 --> 00:31:30,259
+If you want the full plan,
+
+1015
+00:31:30,259 --> 00:31:32,412
+from paying off cards to building real
+
+1016
+00:31:32,412 --> 00:31:33,998
+wealth, it's in my playbook.
+
+1017
+00:31:34,178 --> 00:31:35,885
+The link is in the description.
+
+1018
+00:31:36,065 --> 00:31:38,010
+And if credit card debt is part
+
+1019
+00:31:38,010 --> 00:31:39,077
+of a bigger loop,
+
+1020
+00:31:39,077 --> 00:31:41,148
+watch my video on why most people
+
+1021
+00:31:41,148 --> 00:31:43,031
+stay broke, and how to escape.
+
+1022
+00:31:43,211 --> 00:31:44,465
+I'm Ryan Rover.
+
+1023
+00:31:44,645 --> 00:31:45,771
+See you in the next one.
