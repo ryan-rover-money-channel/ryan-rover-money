@@ -1,0 +1,4 @@
+- Charlie Munger: the first $100,000 is the hardest (widely quoted)
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth under 35: $39,040; 35-44: $135,300)
+- IRS, retirement plan, IRA and HSA rules and catch-up contributions (check current limits)
+- Timeline and growth figures: stated illustrative math at a 7% average yearly return, compounded monthly
