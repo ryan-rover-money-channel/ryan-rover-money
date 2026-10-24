@@ -1,0 +1,9 @@
+- U.S. Bureau of Labor Statistics: Consumer Price Index, long-run inflation
+- Jeremy Siegel, Stocks for the Long Run: long-run real returns on stocks, bonds and bills
+- S&P Dow Jones Indices: S&P 500 total returns
+- IRS: taxation of interest, retirement accounts and contribution limits
+- Federal Reserve Bank of Atlanta, Wage Growth Tracker: job switchers vs stayers
+- Kahneman and Tversky, Prospect Theory (Econometrica, 1979)
+- Mullainathan and Shafir, Scarcity: Why Having Too Little Means So Much (2013)
+- Stanley and Danko, The Millionaire Next Door (1996)
+- Growth examples: monthly compounding at stated average returns (illustrations, not promises)

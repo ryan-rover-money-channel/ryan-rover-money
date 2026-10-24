@@ -1,0 +1,1164 @@
+{
+ "id": "video40",
+ "angle": "why saving alone won't make you rich, 20 lessons from 3 angles: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "Why Saving Alone Will Never Make You Rich",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. We've all been told that the way to get rich is to save money. Skip the coffee, clip the coupons, put something away every month. And saving matters, a lot. But here's the uncomfortable truth. Saving alone, money sitting in a bank account, will almost never make you rich. In fact, over decades, it can quietly make you poorer. Today I'll show you why, and what actually turns savings into wealth.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here's the math in one picture. Five hundred dollars a month, kept in cash earning nothing for forty years, adds up to two hundred forty thousand dollars. The same five hundred dollars a month, invested at a seven percent average yearly return, could grow to roughly one point three million dollars. Same habit. Same effort. More than five times the result.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "$500 a month in cash",
+     "big": "$240K",
+     "sub": "after 40 years"
+    },
+    "right": {
+     "label": "$500 a month invested",
+     "big": "$1.3M",
+     "sub": "at 7% average yearly return"
+    },
+    "note": "illustration, not a promise; returns vary"
+   },
+   "caption": "",
+   "cuts": 1,
+   "short_hook": "Saving money alone will never make you rich. Here's the math."
+  },
+  {
+   "text": "And that comparison is generous to cash, because it ignores inflation. Over forty years, rising prices would shrink what that two hundred forty thousand dollars can actually buy, probably to well under half. Saving builds the pile. But without growth, the pile is slowly melting while you build it. That's the core idea of this video. Saving is the start of wealth, not the whole recipe.",
+   "query": "Melting ice sculpture of dollar sign",
+   "caption": "SAVING IS THE START",
+   "cuts": 5
+  },
+  {
+   "text": "We'll explore this from three angles. First, the numbers. Inflation, interest, taxes and the ceiling on how much anyone can save. Second, the psychology. Why saving feels so safe, and why that feeling can hold people back. And third, the playbook. The three things that actually build wealth when you combine them with saving, investing, earning more and owning. Reminder, this is education, not financial advice, and all growth examples are illustrations, not promises.",
+   "query": "Three paths in a park",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the numbers. And the first lesson is about the silent thief in every savings account.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Our numbers. Inflation data comes from the Bureau of Labor Statistics. Long run returns on stocks, bonds and cash come from research like Jeremy Siegel's Stocks for the Long Run and data from S and P Dow Jones Indices. Account rules come from the IRS. Growth examples use monthly compounding at stated average returns, as illustrations, not predictions.",
+   "query": "Research books on desk",
+   "caption": "OUR NUMBERS",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Seven reasons the math of saving alone doesn't add up to wealth.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Lesson number one. Inflation slowly eats cash.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Inflation eats cash",
+    "sub": "the silent thief"
+   },
+   "caption": "LESSON 1",
+   "cuts": 1,
+   "chapter": "1. Inflation eats cash"
+  },
+  {
+   "text": "Inflation means prices rise over time, so each dollar buys a little less every year. In the United States, inflation has averaged roughly three percent a year over the long run, according to Bureau of Labor Statistics data, though some periods have been much higher. In 2022, it rose above eight percent.",
+   "query": "Grocery prices rising over years",
+   "caption": "ABOUT 3% A YEAR ON AVERAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Here's what that does to savings. Ten thousand dollars in an account earning half a percent, with inflation at three percent, would buy only about what four thousand eight hundred dollars buys today after thirty years. The balance grew a little on paper, but its real value was cut by more than half.",
+   "query": "Shrinking shopping cart",
+   "caption": "$10,000 BUYS LIKE $4,800",
+   "cuts": 3
+  },
+  {
+   "text": "That's why economists talk about real returns, your return after inflation. If your savings earn less than inflation, your real return is negative. You're losing buying power every year, even though your balance never goes down.",
+   "query": "Real return formula",
+   "caption": "NEGATIVE REAL RETURNS",
+   "cuts": 3
+  },
+  {
+   "text": "High yield savings accounts help, and sometimes they've paid more than inflation. But over long periods, cash has generally only roughly kept pace with inflation at best. It preserves money. It rarely grows it in a meaningful way.",
+   "query": "Savings account vs inflation chart",
+   "caption": "CASH PRESERVES, RARELY GROWS",
+   "cuts": 3
+  },
+  {
+   "text": "Think about what things cost when your parents were young. A movie ticket, a gallon of milk, a new car, a house. Prices that once seemed normal now look tiny. That's inflation working slowly over decades. Your savings face the same force, which is why money that must last thirty or forty years needs to grow, not just sit.",
+   "query": "Old price tags versus new",
+   "caption": "REMEMBER OLD PRICES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look at the interest rate on your savings account and compare it with the latest inflation rate. If inflation is higher, your savings are shrinking in real terms right now.",
+   "query": "Comparing two numbers",
+   "caption": "COMPARE YOUR RATE TO INFLATION",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number two. The growth gap between cash and investing.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "The growth gap",
+    "sub": "cash vs invested"
+   },
+   "caption": "LESSON 2",
+   "cuts": 1,
+   "chapter": "2. The growth gap"
+  },
+  {
+   "text": "Let's go deeper into the opening example. Five hundred dollars a month for forty years, earning nothing, is two hundred forty thousand dollars. Earning half a percent in a typical savings account, it's roughly two hundred sixty six thousand. Invested at seven percent, roughly one point three million.",
+   "query": "Three growth curves",
+   "caption": "$240K, $266K OR $1.3M",
+   "cuts": 3,
+   "short_hook": "Five hundred dollars a month can become two hundred forty thousand, or one point three million."
+  },
+  {
+   "text": "Why such a huge gap? Because compounding needs a meaningful rate to work. At half a percent, your money barely snowballs. At seven percent, growth starts producing its own growth, and over decades, that growth becomes most of the total.",
+   "query": "Snowball rolling",
+   "caption": "COMPOUNDING NEEDS A REAL RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Historically, long term research like Jeremy Siegel's has found that U.S. stocks returned roughly six to seven percent a year after inflation over very long periods, while short term government bills returned well under one percent after inflation. The difference compounds into a massive gap.",
+   "query": "Long term returns chart",
+   "caption": "STOCKS VS CASH, AFTER INFLATION",
+   "cuts": 3
+  },
+  {
+   "text": "Of course, stocks come with risk. They can fall sharply and stay down for years. That's why cash still has a role for short term needs. But for money you won't touch for decades, cash's safety comes at an enormous long term cost.",
+   "query": "Risk and reward scale",
+   "caption": "SAFETY HAS A COST",
+   "cuts": 3
+  },
+  {
+   "text": "Here's another way to see the gap. In the cash example, every dollar of the final balance is a dollar you put in yourself. In the invested example, more than four out of every five dollars at the end came from growth, not from your contributions. Investing doesn't ask you to work harder. It asks your money to work too.",
+   "query": "Pie chart of contributions vs growth",
+   "caption": "MOST OF IT IS GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Calculate how much you've saved in cash beyond your emergency fund. Then use a compound interest calculator to see what that money might become if invested for twenty years.",
+   "query": "Online calculator",
+   "caption": "SEE YOUR GAP",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number three. There's a ceiling on how much you can save.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "The savings ceiling",
+    "sub": "you can only cut so much"
+   },
+   "caption": "LESSON 3",
+   "cuts": 1,
+   "chapter": "3. The savings ceiling"
+  },
+  {
+   "text": "Saving comes from the gap between what you earn and what you spend. You can cut spending, but only so far. Rent, food, transportation and insurance have a floor. For someone earning fifty thousand dollars a year, even an aggressive twenty percent savings rate is ten thousand dollars a year.",
+   "query": "Budget with essential costs",
+   "caption": "SPENDING HAS A FLOOR",
+   "cuts": 3
+  },
+  {
+   "text": "Income, on the other hand, has no fixed ceiling. A raise, a promotion, a new job, a side business or a skill that's in demand can increase what you earn far more than cutting can reduce what you spend.",
+   "query": "Rising income chart",
+   "caption": "INCOME HAS NO CEILING",
+   "cuts": 3
+  },
+  {
+   "text": "Personal finance writer Ramit Sethi often makes this point. There's a limit to how much you can cut, but no limit to how much you can earn. Cutting spending is important, but it eventually runs out of room.",
+   "query": "Scissors and ladder",
+   "caption": "CUTTING RUNS OUT OF ROOM",
+   "cuts": 3
+  },
+  {
+   "text": "This doesn't mean frugality is useless. It means frugality works best combined with growing income and investing the difference.",
+   "query": "Three tools together",
+   "caption": "FRUGALITY PLUS GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple comparison. Cutting a fifteen dollar streaming service saves one hundred eighty dollars a year. Negotiating a three percent raise on a fifty thousand dollar salary adds one thousand five hundred dollars a year, and that raise often carries into every future raise too. Both are worth doing, but they aren't the same size.",
+   "query": "Small savings vs raise",
+   "caption": "$180 VS $1,500 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write down your biggest three expenses and your current income. Ask which has more room to change in the next two years.",
+   "query": "Person writing list",
+   "caption": "WHERE IS THE ROOM?",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number four. Interest is taxed as ordinary income.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Interest gets taxed",
+    "sub": "the hidden drag on savings"
+   },
+   "caption": "LESSON 4",
+   "cuts": 1,
+   "chapter": "4. Interest gets taxed"
+  },
+  {
+   "text": "Interest from a savings account, CD or money market fund is generally taxed as ordinary income at your regular rate. If you're in the twenty two percent federal bracket and earn four percent interest, you keep roughly three point one percent before state taxes.",
+   "query": "Tax form with interest",
+   "caption": "INTEREST IS TAXED LIKE WAGES",
+   "cuts": 3
+  },
+  {
+   "text": "Now subtract inflation. If inflation is three percent, your after tax, after inflation return is close to zero. Your savings are treading water at best.",
+   "query": "Treading water illustration",
+   "caption": "AFTER TAXES AND INFLATION",
+   "cuts": 3
+  },
+  {
+   "text": "Investments held in tax advantaged accounts like four oh one ks, IRAs and Roth IRAs avoid yearly taxes on growth. And long term capital gains and qualified dividends in regular accounts often get lower tax rates than interest.",
+   "query": "Retirement account statement",
+   "caption": "INVESTMENTS CAN BE TAX ADVANTAGED",
+   "cuts": 3
+  },
+  {
+   "text": "So the same dollar, saved in cash or invested in a tax advantaged account, can have very different results after decades of taxes.",
+   "query": "Two jars compared",
+   "caption": "SAME DOLLAR, DIFFERENT RESULTS",
+   "cuts": 3
+  },
+  {
+   "text": "This doesn't mean you should avoid interest entirely. Your emergency fund still belongs in safe, interest earning accounts. It just means that for long term money, the tax drag on interest is one more reason cash struggles to build wealth, and one more reason to use tax advantaged accounts for growth.",
+   "query": "Emergency fund and retirement account",
+   "caption": "THE RIGHT MONEY IN THE RIGHT PLACE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look at last year's tax forms for interest income. That's money you paid tax on that might have grown tax deferred in a retirement account.",
+   "query": "1099 INT form",
+   "caption": "CHECK YOUR INTEREST INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number five. Cash has an important job, just not the job of making you rich.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Cash has a job",
+    "sub": "but only one job"
+   },
+   "caption": "LESSON 5",
+   "cuts": 1,
+   "chapter": "5. Cash has a job"
+  },
+  {
+   "text": "Let's be fair to saving. Cash is essential. An emergency fund of three to six months of essential expenses protects you from job loss, medical bills and car repairs. It stops a bad month from becoming a debt spiral.",
+   "query": "Emergency fund jar",
+   "caption": "CASH PROTECTS YOU",
+   "cuts": 3
+  },
+  {
+   "text": "Cash is also right for short term goals, like a car purchase, a down payment in the next year or two, or a planned trip. Money you'll need soon shouldn't be exposed to stock market swings.",
+   "query": "Down payment savings",
+   "caption": "SHORT TERM GOALS",
+   "cuts": 3
+  },
+  {
+   "text": "The problem isn't having cash. It's having too much cash for too long. Money beyond your emergency fund and near term goals often sits idle for years, losing buying power.",
+   "query": "Pile of idle cash",
+   "caption": "TOO MUCH, TOO LONG",
+   "cuts": 3
+  },
+  {
+   "text": "A useful mental model is to give every dollar a job. Safety dollars stay in cash. Goal dollars wait in savings or CDs. Growth dollars get invested for the long term.",
+   "query": "Labeled jars",
+   "caption": "GIVE EVERY DOLLAR A JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Some people find it helps to see cash as insurance, not as an investment. You don't buy car insurance expecting it to make you rich. You buy it so a bad day doesn't ruin you. An emergency fund works the same way. Its return is peace of mind, and that's worth paying for, up to a point.",
+   "query": "Insurance policy and jar",
+   "caption": "CASH IS INSURANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Split your savings into three labels, safety, goals and growth. Any growth money still sitting in cash is probably ready to be invested.",
+   "query": "Three labels",
+   "caption": "SAFETY, GOALS, GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number six. Time multiplies investing, not saving.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Time is the multiplier",
+    "sub": "starting late costs more than saving less"
+   },
+   "caption": "LESSON 6",
+   "cuts": 1,
+   "chapter": "6. Time is the multiplier"
+  },
+  {
+   "text": "In a savings account, time barely helps, because the rate is low. In an investment account, time is the biggest multiplier there is. Every extra year gives compounding more room to work.",
+   "query": "Hourglass with growing money",
+   "caption": "TIME MULTIPLIES INVESTING",
+   "cuts": 3
+  },
+  {
+   "text": "Three hundred dollars a month for thirty five years, kept in cash, totals one hundred twenty six thousand dollars. Invested at a seven percent average yearly return, it could grow to roughly five hundred forty thousand.",
+   "query": "Two totals compared",
+   "caption": "$126K VS $540K",
+   "cuts": 3
+  },
+  {
+   "text": "That means the longer you leave long term money in cash, the more you lose. A decade of saving without investing can cost far more than the decade itself, because those dollars miss their most powerful compounding years.",
+   "query": "Lost years on calendar",
+   "caption": "LOST YEARS COST THE MOST",
+   "cuts": 3
+  },
+  {
+   "text": "The good news is that it's never too late to start investing. But the sooner long term money starts working, the less you need to save to reach the same goal.",
+   "query": "Person starting to invest",
+   "caption": "START SOONER, SAVE LESS",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a striking way to think about it. For a twenty five year old, each dollar invested at seven percent could become roughly fifteen dollars by age sixty five. For a forty five year old, the same dollar might become about four. Your earliest dollars are your most powerful ones, which is exactly why leaving them in cash is so costly.",
+   "query": "Dollar growing over time",
+   "caption": "EARLY DOLLARS ARE POWERFUL",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If you're saving for retirement in cash, move it into a retirement account invested in a low cost, diversified fund.",
+   "query": "Retirement account setup",
+   "caption": "PUT TIME TO WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number seven. A raise invested beats a lifetime of coupons.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Earning more beats cutting more",
+    "sub": "the power of a raise"
+   },
+   "caption": "LESSON 7",
+   "cuts": 1,
+   "chapter": "7. Earning more beats cutting more"
+  },
+  {
+   "text": "Imagine you get a ten thousand dollar raise and invest all of it, about eight hundred thirty three dollars a month, for thirty years at a seven percent average yearly return. That could grow to roughly one million dollars.",
+   "query": "Raise letter and growing chart",
+   "caption": "A $10K RAISE COULD BECOME $1M",
+   "cuts": 3
+  },
+  {
+   "text": "To match that by cutting, you'd need to cut eight hundred thirty three dollars a month from your spending, every month, for thirty years. For most people, that's far harder than earning more.",
+   "query": "Long list of cuts",
+   "caption": "MATCHING IT BY CUTTING IS HARD",
+   "cuts": 3
+  },
+  {
+   "text": "Research on job changes, such as wage data from the Federal Reserve Bank of Atlanta, has shown that people who switch jobs have often seen faster wage growth than those who stay, at least during many periods.",
+   "query": "Wage growth tracker chart",
+   "caption": "JOB SWITCHERS OFTEN EARN MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Skills, certifications, negotiation and career moves can raise income for decades. Every raise you invest builds wealth far faster than saving alone.",
+   "query": "Person learning new skill",
+   "caption": "INVEST IN YOUR EARNING POWER",
+   "cuts": 3
+  },
+  {
+   "text": "Earning more also makes saving easier emotionally. When your income rises and you invest part of each raise, you can save more without cutting anything you enjoy. That's far more sustainable than squeezing an already tight budget year after year.",
+   "query": "Comfortable family budget",
+   "caption": "EARNING MORE MAKES SAVING EASIER",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Research the market pay for your role. If you're below it, prepare a case for a raise, or explore other opportunities.",
+   "query": "Salary research on laptop",
+   "caption": "KNOW YOUR MARKET VALUE",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle one. Inflation, the growth gap, the savings ceiling, taxes on interest, cash's real job, time and earning more. Now angle two. The psychology.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "If the math is so clear, why do so many people keep their money in cash? Because the psychology of saving is powerful. Cash feels safe, investing feels risky, and our brains are wired to avoid losses. Here are seven psychological reasons people get stuck as savers, and how to move forward.",
+   "query": "Brain with piggy bank",
+   "caption": "WHY PEOPLE GET STUCK",
+   "cuts": 3,
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Lesson number eight. Cash feels safe, but it isn't risk free.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "The illusion of safety",
+    "sub": "cash feels safe"
+   },
+   "caption": "LESSON 8",
+   "cuts": 1,
+   "chapter": "8. The illusion of safety"
+  },
+  {
+   "text": "The number in a savings account never goes down. That stability feels like safety. But inflation is a risk too. It's just slow and invisible, so it doesn't trigger the same fear as a falling stock price.",
+   "query": "Calm savings balance",
+   "caption": "STABLE ISN'T THE SAME AS SAFE",
+   "cuts": 3
+  },
+  {
+   "text": "Economists sometimes call this money illusion, the tendency to think in nominal dollars instead of real buying power. A balance of ten thousand dollars feels the same today and in twenty years, even though it buys much less later.",
+   "query": "Dollar bills fading",
+   "caption": "MONEY ILLUSION",
+   "cuts": 3
+  },
+  {
+   "text": "Long term, the biggest financial risk for many savers isn't a market crash. It's running out of money in retirement, or never building enough to have options.",
+   "query": "Worried retiree",
+   "caption": "THE BIGGER RISK",
+   "cuts": 3
+  },
+  {
+   "text": "Recognizing both risks, market risk and inflation risk, helps you balance them, instead of only avoiding the one that feels scarier.",
+   "query": "Balance scale",
+   "caption": "BALANCE BOTH RISKS",
+   "cuts": 3
+  },
+  {
+   "text": "There's also a risk in being too cautious with your career and income. Never asking for a raise, never learning new skills or never taking a chance on a better job can quietly cost far more over a lifetime than a market crash. Playing it safe isn't always the safe choice.",
+   "query": "Person at career crossroads",
+   "caption": "PLAYING SAFE ISN'T ALWAYS SAFE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Ask yourself which worries you more, a temporary market drop or not having enough at seventy. Your answer can guide how much you keep in cash.",
+   "query": "Person thinking",
+   "caption": "WHICH RISK SCARES YOU MORE?",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number nine. Frugality fatigue is real.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Frugality fatigue",
+    "sub": "cutting forever doesn't work"
+   },
+   "caption": "LESSON 9",
+   "cuts": 1,
+   "chapter": "9. Frugality fatigue"
+  },
+  {
+   "text": "Some people try to get rich by cutting every possible expense. No vacations, no dinners out, no small pleasures. It can work for a while, but many people burn out, and then swing back to overspending.",
+   "query": "Tired person with coupons",
+   "caption": "CUTTING EVERYTHING BURNS PEOPLE OUT",
+   "cuts": 3,
+   "short_hook": "Being a good saver can secretly hold you back. Here's how."
+  },
+  {
+   "text": "Extreme frugality can also take time and energy away from things that grow wealth faster, like building skills, networking or starting a business. Spending hours to save a few dollars can be a poor trade.",
+   "query": "Clock and coins",
+   "caption": "TIME HAS VALUE TOO",
+   "cuts": 3
+  },
+  {
+   "text": "A more sustainable approach is to cut ruthlessly on things you don't care about, and spend on things that truly matter to you. That keeps saving sustainable for decades.",
+   "query": "Happy person on vacation",
+   "caption": "CUT WHAT YOU DON'T CARE ABOUT",
+   "cuts": 3
+  },
+  {
+   "text": "Being a great saver is a strength. The trap is believing saving is the only lever. The most successful wealth builders pull several levers at once.",
+   "query": "Several levers",
+   "caption": "SAVING IS ONE LEVER",
+   "cuts": 3
+  },
+  {
+   "text": "Ramit Sethi calls this spending extravagantly on the things you love and cutting costs mercilessly on the things you don't. It turns saving from a punishment into a choice, and choices are much easier to stick with than rules that feel like punishment.",
+   "query": "Person enjoying favorite hobby",
+   "caption": "SPEND ON WHAT YOU LOVE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. List three expenses you'd happily cut and three you'd never give up. Cut the first three, keep the second three, and invest the difference.",
+   "query": "Two lists",
+   "caption": "CUT THREE, KEEP THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number ten. Fear of losing money keeps people in cash.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Fear of losing money",
+    "sub": "loss aversion keeps people in cash"
+   },
+   "caption": "LESSON 10",
+   "cuts": 1,
+   "chapter": "10. Fear of losing money"
+  },
+  {
+   "text": "Psychologists Daniel Kahneman and Amos Tversky found that losses tend to feel about twice as painful as equal gains feel good. That makes investing, where losses are visible, feel much scarier than keeping cash.",
+   "query": "Scale with loss heavier",
+   "caption": "LOSSES HURT ABOUT TWICE AS MUCH",
+   "cuts": 3
+  },
+  {
+   "text": "Many people who lived through crashes, like 2008, kept their money in cash for years afterward, missing much of the recovery that followed.",
+   "query": "Person hiding money under mattress",
+   "caption": "AFTER A CRASH",
+   "cuts": 3
+  },
+  {
+   "text": "One way to reduce fear is to start small and invest automatically, so you're not making a big emotional decision all at once. Another is choosing a balanced fund with both stocks and bonds, which tends to swing less.",
+   "query": "Small automatic investment",
+   "caption": "START SMALL AND AUTOMATIC",
+   "cuts": 3
+  },
+  {
+   "text": "Over time, as you see your investments recover from dips, fear usually fades. Experience builds confidence.",
+   "query": "Growing confidence chart",
+   "caption": "EXPERIENCE BUILDS CONFIDENCE",
+   "cuts": 3
+  },
+  {
+   "text": "It also helps to zoom out. Over a single day, the stock market falls quite often. Over a single year, it has risen more often than it has fallen historically. Over twenty year periods, the S and P five hundred has historically delivered positive total returns, though the past doesn't guarantee the future. The longer your time horizon, the less frightening the short term swings look.",
+   "query": "Zooming out on chart",
+   "caption": "ZOOM OUT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Invest a small amount automatically each month for one year, and watch what happens without reacting. Then decide whether to increase it.",
+   "query": "Calendar with checkmarks",
+   "caption": "A ONE YEAR EXPERIMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this is changing how you think about your savings, please subscribe to Ryan Rover Money. It's free, and it helps us keep making these. Now, lesson eleven.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Lesson number eleven. A scarcity mindset narrows your focus.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Scarcity mindset",
+    "sub": "focused on now, not later"
+   },
+   "caption": "LESSON 11",
+   "cuts": 1,
+   "chapter": "11. Scarcity mindset"
+  },
+  {
+   "text": "Economist Sendhil Mullainathan and psychologist Eldar Shafir wrote a book called Scarcity. They argue that when people feel they don't have enough, money or time, their attention narrows to immediate needs, making long term planning harder.",
+   "query": "Book on desk",
+   "caption": "SCARCITY NARROWS FOCUS",
+   "cuts": 3
+  },
+  {
+   "text": "For savers, a scarcity mindset can show up as hoarding cash out of fear, even when there's enough for emergencies. It feels safe, but it can block growth.",
+   "query": "Person clutching money",
+   "caption": "HOARDING FROM FEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Building a solid emergency fund first can help break this cycle. Once you know emergencies are covered, it becomes easier to think about investing for the future.",
+   "query": "Full emergency fund",
+   "caption": "SECURITY ENABLES GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "Reframing helps too. Investing isn't spending money. It's moving money from a place where it shrinks to a place where it can grow.",
+   "query": "Money moving between jars",
+   "caption": "INVESTING ISN'T SPENDING",
+   "cuts": 3
+  },
+  {
+   "text": "Scarcity can also be a phase, not a permanent state. Many people who once lived paycheck to paycheck later build real wealth. The key is moving step by step, first stability, then savings, then investing, so each stage gives you the breathing room to think about the next.",
+   "query": "Steps leading upward",
+   "caption": "SCARCITY CAN BE A PHASE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Once your emergency fund is full, write down a specific long term goal for the next dollar you save. Purpose makes investing feel less risky.",
+   "query": "Goal written on paper",
+   "caption": "GIVE IT PURPOSE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number twelve. Being a saver can become your whole identity.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "The saver identity",
+    "sub": "who you think you are"
+   },
+   "caption": "LESSON 12",
+   "cuts": 1,
+   "chapter": "12. The saver identity"
+  },
+  {
+   "text": "Many careful people proudly see themselves as savers. That identity is valuable, but it can also make investing feel like a betrayal of who they are, as if taking any risk is irresponsible.",
+   "query": "Proud saver",
+   "caption": "PROUD TO BE A SAVER",
+   "cuts": 3
+  },
+  {
+   "text": "Expanding your identity from saver to investor or owner can be powerful. Investors still save. They just put their savings to work.",
+   "query": "Person changing hats",
+   "caption": "FROM SAVER TO INVESTOR",
+   "cuts": 3
+  },
+  {
+   "text": "Many millionaires studied by Thomas Stanley and William Danko in The Millionaire Next Door were careful savers, but they also invested consistently and often owned businesses.",
+   "query": "Book cover",
+   "caption": "MILLIONAIRES SAVE AND INVEST",
+   "cuts": 3
+  },
+  {
+   "text": "Saving is how you collect the seeds. Investing is how you plant them.",
+   "query": "Seeds being planted",
+   "caption": "COLLECT SEEDS, THEN PLANT",
+   "cuts": 3
+  },
+  {
+   "text": "Your saving skills are a huge advantage as an investor. The discipline to live below your means is exactly what lets you invest consistently through good markets and bad. Many people who earn more never build wealth because they can't save. You already have the hardest part.",
+   "query": "Disciplined person with plan",
+   "caption": "YOU HAVE THE HARDEST PART",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Say out loud, I'm a saver and an investor. Then take one small action this week that an investor would take.",
+   "query": "Person speaking confidently",
+   "caption": "SAVER AND INVESTOR",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number thirteen. Waiting for certainty keeps money idle.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Waiting for certainty",
+    "sub": "the perfect time never comes"
+   },
+   "caption": "LESSON 13",
+   "cuts": 1,
+   "chapter": "13. Waiting for certainty"
+  },
+  {
+   "text": "Many savers plan to invest once things settle down, once the market drops, once they understand everything. But markets are never certain, and there's always a reason to wait.",
+   "query": "Person waiting at window",
+   "caption": "THERE'S ALWAYS A REASON TO WAIT",
+   "cuts": 3
+  },
+  {
+   "text": "Meanwhile, months turn into years. Every year in cash is a year of missed compounding and lost buying power.",
+   "query": "Calendar pages flying",
+   "caption": "YEARS SLIP AWAY",
+   "cuts": 3
+  },
+  {
+   "text": "Dollar cost averaging, investing a fixed amount on a regular schedule, removes the need to pick the perfect time. You buy more shares when prices are low and fewer when they're high.",
+   "query": "Shares at different prices",
+   "caption": "DOLLAR COST AVERAGING",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need to understand everything to start. A simple, low cost, diversified fund is a reasonable starting point for many people.",
+   "query": "Simple fund on screen",
+   "caption": "START SIMPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Remember too that investing isn't all or nothing. You don't have to move all your savings at once. You can invest a portion now and add more each month. That spreads out your timing and makes the first step much less intimidating.",
+   "query": "Gradual steps",
+   "caption": "NOT ALL OR NOTHING",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Set a date within the next two weeks to make your first investment. A deadline turns waiting into action.",
+   "query": "Calendar with circled date",
+   "caption": "SET A START DATE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number fourteen. The rules changed since our grandparents' time.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "The world changed",
+    "sub": "pensions disappeared"
+   },
+   "caption": "LESSON 14",
+   "cuts": 1,
+   "chapter": "14. The world changed"
+  },
+  {
+   "text": "Decades ago, many workers had pensions. Employers promised a monthly check for life in retirement, and they managed the investing. Workers could simply save a little and rely on the pension.",
+   "query": "Vintage factory workers",
+   "caption": "PENSIONS USED TO BE COMMON",
+   "cuts": 3
+  },
+  {
+   "text": "Today, most private sector workers rely on four oh one k style plans instead. The responsibility for investing and making money last has shifted from employers to individuals.",
+   "query": "401k paperwork",
+   "caption": "NOW IT'S ON YOU",
+   "cuts": 3
+  },
+  {
+   "text": "That means saving alone isn't enough anymore. Without investing, there's nothing to replace the growth a pension fund used to provide.",
+   "query": "Empty pension envelope",
+   "caption": "YOU NEED THE GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "The upside is control. You choose how much to invest, where to invest it and when to increase it.",
+   "query": "Person in control at desk",
+   "caption": "THE UPSIDE IS CONTROL",
+   "cuts": 3
+  },
+  {
+   "text": "People are also living longer. A retirement that starts at sixty five can last thirty years or more. Money that needs to last three decades can't just sit still. It needs to keep growing, even during retirement, to keep up with rising costs.",
+   "query": "Elderly couple hiking",
+   "caption": "RETIREMENTS LAST LONGER",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If your employer offers a retirement plan, find out how it's invested and make sure your money isn't sitting in a cash option by default.",
+   "query": "Retirement plan options",
+   "caption": "CHECK YOUR PLAN'S DEFAULT",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle two. The illusion of safety, frugality fatigue, fear of loss, scarcity, the saver identity, waiting for certainty and a changed world. Now angle three. The playbook.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Here's how to turn saving into wealth. Six moves that combine saving with the three real engines of wealth, investing, earning more and owning.",
+   "query": "Toolbox on table",
+   "caption": "SIX MOVES",
+   "cuts": 3,
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Move number fifteen. Save with a destination.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Save with a destination",
+    "sub": "every dollar has a next step"
+   },
+   "caption": "LESSON 15",
+   "cuts": 1,
+   "chapter": "15. Save with a destination"
+  },
+  {
+   "text": "Start by saving an emergency fund of three to six months of essential expenses in a high yield savings account. That's your foundation.",
+   "query": "Emergency fund in bank app",
+   "caption": "THE FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "Then set a rule. Every dollar saved beyond that has a destination, a specific short term goal or long term investing.",
+   "query": "Arrow pointing forward",
+   "caption": "EVERY DOLLAR HAS A DESTINATION",
+   "cuts": 3
+  },
+  {
+   "text": "Automation makes this easy. Set up automatic transfers on payday to your emergency fund, then to your investment accounts.",
+   "query": "Automatic transfers",
+   "caption": "AUTOMATE THE FLOW",
+   "cuts": 3
+  },
+  {
+   "text": "Once your emergency fund is full, redirect that transfer to investing. The habit stays the same, but the money starts growing.",
+   "query": "Redirected transfer",
+   "caption": "REDIRECT WHEN FULL",
+   "cuts": 3
+  },
+  {
+   "text": "Short term goals deserve a plan too. Money for a car in two years or a home down payment in three can sit in a high yield savings account, CDs or Treasury bills, where it earns some interest without stock market risk. Matching each goal to the right account is what saving with a destination really means.",
+   "query": "Goal labeled savings accounts",
+   "caption": "MATCH GOALS TO ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Check your emergency fund. If it's full, set up an automatic transfer of your extra savings into an investment account this week.",
+   "query": "Person setting up transfer",
+   "caption": "REDIRECT THIS WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Move number sixteen. Invest automatically.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Invest automatically",
+    "sub": "let compounding work"
+   },
+   "caption": "LESSON 16",
+   "cuts": 1,
+   "chapter": "16. Invest automatically"
+  },
+  {
+   "text": "Investing doesn't have to be complicated. Low cost, broad index funds or target date funds let you own a diversified portfolio with one or two choices.",
+   "query": "Simple fund options",
+   "caption": "KEEP IT SIMPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Automatic monthly investing removes emotion and timing from the process. The money moves before you can spend it or worry about the market.",
+   "query": "Calendar with automatic investment",
+   "caption": "REMOVE EMOTION",
+   "cuts": 3
+  },
+  {
+   "text": "Turn on dividend reinvestment, so every dividend buys more shares and compounding keeps running.",
+   "query": "Dividend reinvestment setting",
+   "caption": "REINVEST DIVIDENDS",
+   "cuts": 3
+  },
+  {
+   "text": "Increase your automatic investment every time your income rises. Your savings rate grows without feeling painful.",
+   "query": "Increasing contributions",
+   "caption": "INCREASE WITH RAISES",
+   "cuts": 3
+  },
+  {
+   "text": "Keep costs low as you invest. Fund fees come out of your returns every year. A fund charging a few hundredths of a percent leaves far more of the growth to you than one charging one percent, and over decades the difference can be tens or even hundreds of thousands of dollars.",
+   "query": "Fee comparison chart",
+   "caption": "KEEP COSTS LOW",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Set up an automatic monthly investment into a low cost index fund, even if it's small, and schedule a reminder to raise it in six months.",
+   "query": "Phone reminder",
+   "caption": "START TODAY",
+   "cuts": 3
+  },
+  {
+   "text": "Move number seventeen. Grow your income.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Grow your income",
+    "sub": "the biggest lever"
+   },
+   "caption": "LESSON 17",
+   "cuts": 1,
+   "chapter": "17. Grow your income"
+  },
+  {
+   "text": "Your income is your biggest wealth building tool. Every extra dollar earned and invested can compound for decades.",
+   "query": "Rising paycheck",
+   "caption": "YOUR BIGGEST TOOL",
+   "cuts": 3,
+   "short_hook": "The fastest way to build wealth isn't saving more. It's this."
+  },
+  {
+   "text": "Ways to grow income include asking for raises, switching jobs, getting certifications, learning in demand skills or starting a side business.",
+   "query": "Ladder of income options",
+   "caption": "MANY WAYS TO EARN MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Negotiating your starting salary matters too, because future raises often build on it. A small difference early can grow over an entire career.",
+   "query": "Negotiation meeting",
+   "caption": "NEGOTIATE EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "The key is to invest income increases, not spend them all. If you raise your lifestyle with every raise, your wealth won't grow.",
+   "query": "Split raise illustration",
+   "caption": "INVEST YOUR RAISES",
+   "cuts": 3
+  },
+  {
+   "text": "Side income counts too. Even a few hundred dollars a month from freelancing or a small business, invested consistently, can add up to a meaningful amount over a decade or two. And unlike cutting expenses, side income can grow over time as your skills and reputation grow.",
+   "query": "Freelancer at laptop",
+   "caption": "SIDE INCOME CAN GROW",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Choose one skill that could increase your income in the next year, and spend thirty minutes a day learning it.",
+   "query": "Person studying",
+   "caption": "ONE SKILL, 30 MINUTES A DAY",
+   "cuts": 3
+  },
+  {
+   "text": "Move number eighteen. Build ownership.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Build ownership",
+    "sub": "own things that grow"
+   },
+   "caption": "LESSON 18",
+   "cuts": 1,
+   "chapter": "18. Build ownership"
+  },
+  {
+   "text": "Wealth usually comes from owning things that grow, like stocks, businesses and real estate. Wages pay your bills. Ownership builds wealth.",
+   "query": "House, stocks and business icons",
+   "caption": "OWNERSHIP BUILDS WEALTH",
+   "cuts": 3
+  },
+  {
+   "text": "Owning index funds makes you a part owner of hundreds of companies. Their profits and growth become your growth.",
+   "query": "Index fund ownership",
+   "caption": "OWN PIECES OF COMPANIES",
+   "cuts": 3
+  },
+  {
+   "text": "Some people also build ownership through a small business or rental property. These take more work and risk, but can grow wealth faster.",
+   "query": "Small business owner",
+   "caption": "BUSINESS AND REAL ESTATE",
+   "cuts": 3
+  },
+  {
+   "text": "Even employee stock purchase plans or equity compensation can add ownership, though it's wise not to concentrate too much in your employer.",
+   "query": "Stock options document",
+   "caption": "EMPLOYER EQUITY, CAREFULLY",
+   "cuts": 3
+  },
+  {
+   "text": "Ownership also changes how you experience the economy. When companies grow profits, workers might get a raise, but owners get the growth. Being both a worker and an owner lets you benefit from your paycheck and from the economy's growth at the same time.",
+   "query": "Worker and owner icons",
+   "caption": "BE A WORKER AND AN OWNER",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look at your net worth and calculate what percentage is in assets that can grow. Aim to increase it each year.",
+   "query": "Net worth breakdown",
+   "caption": "INCREASE YOUR OWNERSHIP",
+   "cuts": 3
+  },
+  {
+   "text": "Move number nineteen. Use tax advantaged accounts.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Use tax advantaged accounts",
+    "sub": "keep more of the growth"
+   },
+   "caption": "LESSON 19",
+   "cuts": 1,
+   "chapter": "19. Use tax advantaged accounts"
+  },
+  {
+   "text": "Four oh one ks, IRAs, Roth IRAs and HSAs let your investments grow with tax advantages. That means more money stays invested and compounding.",
+   "query": "Retirement account icons",
+   "caption": "TAX ADVANTAGED GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "If your employer offers a match, contribute at least enough to get it. It's one of the best returns available anywhere.",
+   "query": "Employer match illustration",
+   "caption": "GET THE MATCH",
+   "cuts": 3
+  },
+  {
+   "text": "Roth accounts can provide tax free withdrawals in retirement, which can be especially valuable if you start early.",
+   "query": "Roth IRA",
+   "caption": "TAX FREE LATER",
+   "cuts": 3
+  },
+  {
+   "text": "Check current contribution limits and rules on the IRS website, because they change over time.",
+   "query": "IRS website",
+   "caption": "CHECK THE LIMITS",
+   "cuts": 3
+  },
+  {
+   "text": "Health savings accounts deserve a special mention. If you're eligible, HSAs can offer tax deductible contributions, tax free growth and tax free withdrawals for qualified medical expenses. Some people invest their HSA for the long term and pay current medical costs out of pocket.",
+   "query": "HSA card",
+   "caption": "DON'T FORGET THE HSA",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Make sure you're contributing enough to get your full employer match, and open an IRA if you're eligible and don't have one.",
+   "query": "Opening IRA on phone",
+   "caption": "MATCH AND IRA",
+   "cuts": 3
+  },
+  {
+   "text": "Move number twenty. Spend on what grows you.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Spend on what grows you",
+    "sub": "investing in yourself"
+   },
+   "caption": "LESSON 20",
+   "cuts": 1,
+   "chapter": "20. Spend on what grows you"
+  },
+  {
+   "text": "Not all spending is equal. Spending on education, skills, health and relationships can increase your earning power and quality of life for decades.",
+   "query": "Person in class",
+   "caption": "SOME SPENDING GROWS YOU",
+   "cuts": 3
+  },
+  {
+   "text": "A course that leads to a promotion, a certification that raises your pay or a gym membership that keeps you healthy can pay off far more than saving that money in cash.",
+   "query": "Certification certificate",
+   "caption": "INVESTMENTS IN YOURSELF",
+   "cuts": 3
+  },
+  {
+   "text": "The key is to be intentional. Ask whether each big expense will grow your income, health or happiness over time.",
+   "query": "Person evaluating purchase",
+   "caption": "BE INTENTIONAL",
+   "cuts": 3
+  },
+  {
+   "text": "Saving, investing, earning and growing yourself work together. Each one makes the others more powerful.",
+   "query": "Four gears turning together",
+   "caption": "THEY WORK TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "Think of it as a portfolio of your whole life. Cash for safety, investments for growth, skills for earning power, health for energy and relationships for opportunity and happiness. Saving alone fills only one corner of that portfolio. Wealth comes from building all of it.",
+   "query": "Life portfolio diagram",
+   "caption": "A WHOLE LIFE PORTFOLIO",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Pick one investment in yourself this year that could raise your income or improve your health, and commit to it.",
+   "query": "Goal written down",
+   "caption": "INVEST IN YOURSELF",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine two siblings who each save five hundred dollars a month for thirty years. Both are disciplined. Both skip the fancy cars. The first keeps everything in a savings account earning about half a percent. The second keeps an emergency fund, then invests the rest in a low cost index fund.",
+   "query": "Two siblings side by side",
+   "caption": "SAME HABIT",
+   "cuts": 3,
+   "chapter": "Two siblings",
+   "short_hook": "Two siblings saved the same amount for thirty years. One ended up far richer."
+  },
+  {
+   "text": "After thirty years, the first sibling has roughly one hundred ninety four thousand dollars. The second, at a seven percent average yearly return, could have roughly six hundred ten thousand. Same discipline, same savings, very different results.",
+   "query": "Two account balances",
+   "caption": "$194K VS $610K",
+   "cuts": 3
+  },
+  {
+   "text": "Both siblings were great savers. The difference wasn't how much they saved. It was what they did with their savings. Saving built the foundation. Investing built the wealth.",
+   "query": "Siblings at family dinner",
+   "caption": "SAVING BUILT THE FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Should I stop saving and just invest? No. Keep an emergency fund in cash, then invest money you won't need for at least five years. Saving and investing work together.",
+   "query": "Savings and investing together",
+   "caption": "SAVE AND INVEST",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question two. Isn't investing risky? Yes, investments can lose value, especially in the short term. But keeping long term money in cash has its own risk, losing buying power to inflation. Diversification and time help manage investment risk.",
+   "query": "Risk balance",
+   "caption": "ISN'T INVESTING RISKY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. How much cash should I keep? Many people aim for three to six months of essential expenses, plus money for goals in the next few years. More if your income is irregular.",
+   "query": "Emergency fund calculator",
+   "caption": "HOW MUCH CASH?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. What if the market crashes right after I invest? It can happen, and it's painful. But if you're investing for decades and adding money regularly, a crash early on means your future contributions buy shares at lower prices. Historically, broad markets have recovered from past crashes, though it sometimes took years.",
+   "query": "Market chart dipping then rising",
+   "caption": "WHAT IF IT CRASHES?",
+   "cuts": 3
+  },
+  {
+   "text": "In your twenties, the biggest move is turning saving into investing as early as possible. Build a starter emergency fund, grab any employer match and invest small amounts automatically. Your early dollars have the most time to grow, so even fifty or one hundred dollars a month invested now can matter more than much larger amounts later.",
+   "query": "Young adult with phone",
+   "caption": "IN YOUR 20s: START INVESTING EARLY",
+   "cuts": 3,
+   "chapter": "From saver to investor at every age"
+  },
+  {
+   "text": "In your thirties and forties, income usually rises, and so does the temptation to spend it. This is the decade to invest every raise, keep a solid emergency fund and avoid letting large cash piles sit idle for years. It's also a great time to invest in skills that raise your income for the rest of your career.",
+   "query": "Professional at desk",
+   "caption": "IN YOUR 30s AND 40s: INVEST THE RAISES",
+   "cuts": 3
+  },
+  {
+   "text": "In your fifties and beyond, the balance shifts. You still need growth, because retirement can last decades, but you also need more stability. Many people gradually add bonds and cash for near term needs while keeping a meaningful share invested for long term growth.",
+   "query": "Mature couple planning",
+   "caption": "IN YOUR 50s AND BEYOND: BALANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one. Keeping retirement money in cash inside a retirement account. Some people contribute to a four oh one k or IRA but never choose investments, so the money sits in a cash option for years. Check that your contributions are actually invested.",
+   "query": "Retirement account in cash",
+   "caption": "MISTAKE 1: UNINVESTED RETIREMENT MONEY",
+   "cuts": 3,
+   "chapter": "Three saver mistakes"
+  },
+  {
+   "text": "Mistake two. Saving for everything except growth. Vacations, cars and holidays all get their own savings, but long term investing comes last, if at all. Pay your future self first by automating investments before other savings goals.",
+   "query": "Savings jars with empty growth jar",
+   "caption": "MISTAKE 2: GROWTH COMES LAST",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three. Waiting for a big lump sum. Some people wait until they've saved a large amount before investing. But regular small investments started now usually beat a larger investment started years later.",
+   "query": "Person waiting with piggy bank",
+   "caption": "MISTAKE 3: WAITING FOR A LUMP SUM",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Angle one, the numbers. Inflation, the growth gap, the savings ceiling, taxes on interest, cash's job, time and earning more.",
+   "query": "Checklist on clipboard",
+   "caption": "THE NUMBERS: 1 TO 7",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "Angle two, the psychology. The illusion of safety, frugality fatigue, fear of loss, scarcity, the saver identity, waiting for certainty and a changed world.",
+   "query": "Person thinking",
+   "caption": "THE PSYCHOLOGY: 8 TO 14",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three, the playbook. Save with a destination, invest automatically, grow your income, build ownership, use tax advantaged accounts and spend on what grows you.",
+   "query": "Notebook with plan",
+   "caption": "THE PLAYBOOK: 15 TO 20",
+   "cuts": 3
+  },
+  {
+   "text": "Saving is where wealth begins, but it isn't where wealth is made. Put your savings to work, grow your income and own things that grow. If you want my full step by step plan, it's in my playbook, linked in the description. Tell me in the comments, how much of your savings is working for you? I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
