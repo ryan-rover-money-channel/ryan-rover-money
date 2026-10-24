@@ -84,7 +84,7 @@ reduces how much you need to withdraw, and therefore how much you need saved."""
 five. That's your first draft freedom number.""", "Person with calculator", "YOUR FIRST DRAFT NUMBER"),
 ])
 
-body_hook = "Two retirees. Same returns. One runs out of money first. Here's why."
+body_hook = "Two retirees. Same returns. One ends up with far less. Here's why."
 item(3, "Sequence of returns risk", "bad timing can sink a plan",
 """Lesson number three. The order of returns matters.""", [
 ("""When you're saving, the order of good and bad years doesn't change your final result much if you just hold. But when you're
