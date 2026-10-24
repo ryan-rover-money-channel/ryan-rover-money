@@ -1,0 +1,4259 @@
+1
+00:00:00,000 --> 00:00:01,811
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,991 --> 00:00:04,058
+Most people have tried to budget at
+
+3
+00:00:04,058 --> 00:00:04,707
+least once.
+
+4
+00:00:04,887 --> 00:00:06,263
+They download an app,
+
+5
+00:00:06,263 --> 00:00:07,508
+make a spreadsheet,
+
+6
+00:00:07,508 --> 00:00:08,687
+set strict limits,
+
+7
+00:00:08,687 --> 00:00:10,128
+and three weeks later,
+
+8
+00:00:10,128 --> 00:00:11,110
+it's abandoned.
+
+9
+00:00:11,290 --> 00:00:12,089
+If that's you,
+
+10
+00:00:12,089 --> 00:00:13,914
+the problem probably wasn't you.
+
+11
+00:00:14,094 --> 00:00:15,139
+It was the system.
+
+12
+00:00:15,319 --> 00:00:17,583
+Today, I'll show you a complete budget
+
+13
+00:00:17,583 --> 00:00:19,609
+system built to survive real life,
+
+14
+00:00:19,609 --> 00:00:21,635
+and why it works when others fail.
+
+15
+00:00:21,984 --> 00:00:24,365
+Budgets fail for predictable reasons.
+
+16
+00:00:24,545 --> 00:00:25,777
+They're too strict,
+
+17
+00:00:25,777 --> 00:00:28,631
+too complicated, or they depend on willpower
+
+18
+00:00:28,631 --> 00:00:29,734
+every single day.
+
+19
+00:00:29,914 --> 00:00:31,655
+They ignore irregular bills,
+
+20
+00:00:31,655 --> 00:00:33,768
+so the first car repair blows them
+
+21
+00:00:33,768 --> 00:00:33,954
+up.
+
+22
+00:00:34,134 --> 00:00:36,349
+And they make people feel guilty,
+
+23
+00:00:36,349 --> 00:00:39,034
+which is a terrible long term motivator.
+
+24
+00:00:39,383 --> 00:00:41,708
+A budget that actually works does the
+
+25
+00:00:41,708 --> 00:00:42,274
+opposite.
+
+26
+00:00:42,454 --> 00:00:43,209
+It's simple.
+
+27
+00:00:43,389 --> 00:00:45,362
+It runs mostly on autopilot.
+
+28
+00:00:45,542 --> 00:00:47,969
+It plans for irregular costs.
+
+29
+00:00:48,149 --> 00:00:50,220
+And it includes real money for fun,
+
+30
+00:00:50,220 --> 00:00:51,818
+so you don't feel deprived.
+
+31
+00:00:51,998 --> 00:00:54,001
+The goal isn't to track every penny
+
+32
+00:00:54,001 --> 00:00:54,459
+forever.
+
+33
+00:00:54,639 --> 00:00:56,777
+It's to make good money decisions the
+
+34
+00:00:56,777 --> 00:00:57,240
+default.
+
+35
+00:00:57,589 --> 00:00:59,621
+We'll look at this from three angles.
+
+36
+00:00:59,801 --> 00:01:00,967
+First, the numbers:
+
+37
+00:01:00,967 --> 00:01:04,036
+where the average household's money actually goes,
+
+38
+00:01:04,036 --> 00:01:06,430
+and how popular budget rules divide it.
+
+39
+00:01:06,610 --> 00:01:08,312
+Second, the psychology:
+
+40
+00:01:08,312 --> 00:01:10,457
+why our brains fight budgets,
+
+41
+00:01:10,457 --> 00:01:12,972
+and how to work with them instead.
+
+42
+00:01:13,152 --> 00:01:14,639
+And third, the playbook:
+
+43
+00:01:14,639 --> 00:01:16,620
+a twelve step system you can set
+
+44
+00:01:16,620 --> 00:01:17,611
+up this weekend.
+
+45
+00:01:17,960 --> 00:01:20,290
+Stay for the sample budgets near the
+
+46
+00:01:20,290 --> 00:01:20,549
+end.
+
+47
+00:01:20,729 --> 00:01:23,002
+I'll show the system at three different
+
+48
+00:01:23,002 --> 00:01:23,817
+income levels.
+
+49
+00:01:23,997 --> 00:01:25,600
+Let's start with the numbers.
+
+50
+00:01:25,949 --> 00:01:28,960
+Household spending data comes from the Bureau
+
+51
+00:01:28,960 --> 00:01:32,172
+of Labor Statistics Consumer Expenditure Survey.
+
+52
+00:01:32,352 --> 00:01:35,127
+The fifty thirty twenty rule comes from
+
+53
+00:01:35,127 --> 00:01:37,689
+the book All Your Worth by Elizabeth
+
+54
+00:01:37,689 --> 00:01:39,895
+Warren and Amelia Warren Tyagi,
+
+55
+00:01:39,895 --> 00:01:41,176
+published in 2005.
+
+56
+00:01:41,356 --> 00:01:45,317
+Subscription spending comes from a 2022 survey
+
+57
+00:01:45,317 --> 00:01:47,126
+by C plus R Research.
+
+58
+00:01:47,306 --> 00:01:50,411
+Behavioral research comes from published studies,
+
+59
+00:01:50,411 --> 00:01:51,869
+which we name as we go.
+
+60
+00:01:52,049 --> 00:01:53,361
+This is education,
+
+61
+00:01:53,361 --> 00:01:54,893
+not financial advice.
+
+62
+00:01:55,243 --> 00:01:55,963
+Angle one.
+
+63
+00:01:56,143 --> 00:01:56,898
+The numbers.
+
+64
+00:01:57,078 --> 00:01:58,773
+Where does the money actually go?
+
+65
+00:01:59,122 --> 00:02:02,657
+According to the BLS Consumer Expenditure Survey,
+
+66
+00:02:02,657 --> 00:02:06,336
+the average American household spent around seventy
+
+67
+00:02:06,336 --> 00:02:08,573
+seven thousand dollars in 2023.
+
+68
+00:02:08,753 --> 00:02:11,493
+Housing was the biggest category by far,
+
+69
+00:02:11,493 --> 00:02:13,617
+around a third of all spending.
+
+70
+00:02:13,797 --> 00:02:15,672
+Transportation came next,
+
+71
+00:02:15,672 --> 00:02:17,547
+around seventeen percent.
+
+72
+00:02:17,727 --> 00:02:20,084
+Food was around thirteen percent.
+
+73
+00:02:20,434 --> 00:02:24,046
+Together, housing, transportation and food make up
+
+74
+00:02:24,046 --> 00:02:26,430
+around six of every ten dollars a
+
+75
+00:02:26,430 --> 00:02:28,236
+typical household spends.
+
+76
+00:02:28,416 --> 00:02:29,796
+Then come healthcare,
+
+77
+00:02:29,796 --> 00:02:31,898
+personal insurance and pensions,
+
+78
+00:02:31,898 --> 00:02:34,198
+entertainment, and everything else.
+
+79
+00:02:34,378 --> 00:02:36,828
+That's why the biggest budget wins almost
+
+80
+00:02:36,828 --> 00:02:38,681
+always come from the big three,
+
+81
+00:02:38,681 --> 00:02:39,637
+not from coffee.
+
+82
+00:02:39,987 --> 00:02:43,268
+Housing, transportation and food make up around
+
+83
+00:02:43,268 --> 00:02:45,780
+six of every ten dollars the average
+
+84
+00:02:45,780 --> 00:02:45,920
+U.
+
+85
+00:02:46,100 --> 00:02:46,390
+S.
+
+86
+00:02:46,570 --> 00:02:49,671
+household spends, according to the BLS Consumer
+
+87
+00:02:49,671 --> 00:02:50,924
+Expenditure Survey.
+
+88
+00:02:51,274 --> 00:02:53,387
+Now let's look at a popular framework.
+
+89
+00:02:53,567 --> 00:02:56,115
+In their 2005 book All Your Worth,
+
+90
+00:02:56,115 --> 00:02:59,636
+Elizabeth Warren and her daughter Amelia Warren
+
+91
+00:02:59,636 --> 00:03:03,082
+Tyagi suggested dividing after tax income into
+
+92
+00:03:03,082 --> 00:03:03,981
+three parts.
+
+93
+00:03:04,161 --> 00:03:05,798
+Fifty percent for needs.
+
+94
+00:03:05,978 --> 00:03:07,534
+Thirty percent for wants.
+
+95
+00:03:07,714 --> 00:03:10,346
+And twenty percent for savings and debt
+
+96
+00:03:10,346 --> 00:03:10,953
+payments.
+
+97
+00:03:11,133 --> 00:03:13,139
+It became known as the fifty thirty
+
+98
+00:03:13,139 --> 00:03:13,827
+twenty rule.
+
+99
+00:03:14,177 --> 00:03:15,998
+On a take home pay of five
+
+100
+00:03:15,998 --> 00:03:17,748
+thousand dollars a month,
+
+101
+00:03:17,748 --> 00:03:20,339
+that's twenty five hundred for needs,
+
+102
+00:03:20,339 --> 00:03:22,020
+like housing, utilities,
+
+103
+00:03:22,020 --> 00:03:25,311
+groceries, insurance and minimum debt payments.
+
+104
+00:03:25,491 --> 00:03:27,520
+Fifteen hundred for wants,
+
+105
+00:03:27,520 --> 00:03:28,769
+like dining out,
+
+106
+00:03:28,769 --> 00:03:30,251
+hobbies and travel.
+
+107
+00:03:30,431 --> 00:03:32,494
+And one thousand for savings,
+
+108
+00:03:32,494 --> 00:03:34,913
+investing and extra debt payments.
+
+109
+00:03:35,262 --> 00:03:37,491
+The fifty thirty twenty rule on five
+
+110
+00:03:37,491 --> 00:03:40,092
+thousand dollars of monthly take home pay.
+
+111
+00:03:40,442 --> 00:03:42,126
+It's a useful starting point.
+
+112
+00:03:42,306 --> 00:03:43,955
+But in high cost cities,
+
+113
+00:03:43,955 --> 00:03:46,566
+needs can easily exceed fifty percent.
+
+114
+00:03:46,746 --> 00:03:48,674
+And if you want to retire early
+
+115
+00:03:48,674 --> 00:03:49,421
+or catch up,
+
+116
+00:03:49,421 --> 00:03:51,721
+twenty percent for savings may not be
+
+117
+00:03:51,721 --> 00:03:52,157
+enough.
+
+118
+00:03:52,337 --> 00:03:54,525
+So think of fifty thirty twenty as
+
+119
+00:03:54,525 --> 00:03:55,490
+a starting map,
+
+120
+00:03:55,490 --> 00:03:56,133
+not a law.
+
+121
+00:03:56,483 --> 00:03:58,109
+Now the hidden leaks.
+
+122
+00:03:58,289 --> 00:04:00,318
+In a 2022 survey by C plus
+
+123
+00:04:00,318 --> 00:04:03,909
+R Research, people estimated they spent around
+
+124
+00:04:03,909 --> 00:04:07,344
+eighty six dollars a month on subscriptions.
+
+125
+00:04:07,524 --> 00:04:09,537
+When they actually added them up,
+
+126
+00:04:09,537 --> 00:04:12,098
+the average was about two hundred nineteen
+
+127
+00:04:12,098 --> 00:04:12,586
+dollars.
+
+128
+00:04:12,766 --> 00:04:14,278
+That's more than two and a half
+
+129
+00:04:14,278 --> 00:04:15,448
+times what they thought.
+
+130
+00:04:15,798 --> 00:04:17,905
+Two hundred nineteen dollars a month is
+
+131
+00:04:17,905 --> 00:04:20,013
+over twenty six hundred dollars a year.
+
+132
+00:04:20,193 --> 00:04:23,010
+Invested instead at seven percent for twenty
+
+133
+00:04:23,010 --> 00:04:25,059
+years, that could grow to over a
+
+134
+00:04:25,059 --> 00:04:26,659
+hundred thousand dollars.
+
+135
+00:04:26,839 --> 00:04:28,860
+Not every subscription is a waste.
+
+136
+00:04:29,040 --> 00:04:30,722
+But the ones you forgot about are
+
+137
+00:04:30,722 --> 00:04:31,385
+pure leakage.
+
+138
+00:04:31,734 --> 00:04:34,660
+And then there are irregular expenses:
+
+139
+00:04:34,660 --> 00:04:36,738
+car repairs, holiday gifts,
+
+140
+00:04:36,738 --> 00:04:38,740
+annual insurance premiums,
+
+141
+00:04:38,740 --> 00:04:40,357
+back to school costs,
+
+142
+00:04:40,357 --> 00:04:41,127
+vet bills.
+
+143
+00:04:41,307 --> 00:04:43,308
+They don't show up every month,
+
+144
+00:04:43,308 --> 00:04:45,115
+so most budgets ignore them.
+
+145
+00:04:45,295 --> 00:04:46,292
+Then they arrive,
+
+146
+00:04:46,292 --> 00:04:47,582
+and the budget breaks.
+
+147
+00:04:47,762 --> 00:04:48,950
+In many households,
+
+148
+00:04:48,950 --> 00:04:51,137
+these irregular costs can add up to
+
+149
+00:04:51,137 --> 00:04:53,137
+several thousand dollars a year.
+
+150
+00:04:53,487 --> 00:04:55,450
+Here's what a working budget can be
+
+151
+00:04:55,450 --> 00:04:55,786
+worth.
+
+152
+00:04:55,966 --> 00:04:58,254
+Say the system helps you find three
+
+153
+00:04:58,254 --> 00:04:59,822
+hundred dollars a month:
+
+154
+00:04:59,822 --> 00:05:01,391
+some from subscriptions,
+
+155
+00:05:01,391 --> 00:05:02,371
+some from food,
+
+156
+00:05:02,371 --> 00:05:04,790
+some from a cheaper insurance policy.
+
+157
+00:05:04,970 --> 00:05:07,412
+Invest that three hundred dollars a month
+
+158
+00:05:07,412 --> 00:05:09,796
+at a seven percent average yearly return
+
+159
+00:05:09,796 --> 00:05:10,808
+for thirty years,
+
+160
+00:05:10,808 --> 00:05:12,834
+and it could grow to roughly three
+
+161
+00:05:12,834 --> 00:05:14,919
+hundred sixty six thousand dollars.
+
+162
+00:05:15,269 --> 00:05:17,598
+Three hundred dollars a month found in
+
+163
+00:05:17,598 --> 00:05:19,865
+a budget, invested at seven percent a
+
+164
+00:05:19,865 --> 00:05:21,214
+year for thirty years.
+
+165
+00:05:21,563 --> 00:05:23,328
+That's the real reason to budget.
+
+166
+00:05:23,508 --> 00:05:24,913
+Not to feel restricted,
+
+167
+00:05:24,913 --> 00:05:27,174
+but to redirect money from things you
+
+168
+00:05:27,174 --> 00:05:29,130
+don't care about to a future you
+
+169
+00:05:29,130 --> 00:05:29,313
+do.
+
+170
+00:05:29,493 --> 00:05:32,075
+Three hundred dollars a month of forgotten
+
+171
+00:05:32,075 --> 00:05:34,903
+spending, turned into a six figure investment.
+
+172
+00:05:35,083 --> 00:05:37,327
+That's the power of giving every dollar
+
+173
+00:05:37,327 --> 00:05:37,672
+a job.
+
+174
+00:05:38,022 --> 00:05:40,089
+And the benefits aren't only financial.
+
+175
+00:05:40,269 --> 00:05:42,573
+Many people report that having a clear
+
+176
+00:05:42,573 --> 00:05:45,120
+plan reduces money stress and arguments at
+
+177
+00:05:45,120 --> 00:05:45,424
+home.
+
+178
+00:05:45,604 --> 00:05:47,688
+When you know the bills are covered
+
+179
+00:05:47,688 --> 00:05:49,177
+and the future is funded,
+
+180
+00:05:49,177 --> 00:05:52,036
+everyday spending decisions become much lighter.
+
+181
+00:05:52,385 --> 00:05:54,788
+So the numbers tell us three things.
+
+182
+00:05:54,968 --> 00:05:56,826
+Focus on the big three.
+
+183
+00:05:57,006 --> 00:05:58,573
+Watch for silent leaks.
+
+184
+00:05:58,753 --> 00:06:00,936
+And plan for irregular costs.
+
+185
+00:06:01,116 --> 00:06:03,187
+Now, why do our brains make this
+
+186
+00:06:03,187 --> 00:06:03,705
+so hard?
+
+187
+00:06:03,885 --> 00:06:04,756
+Angle two.
+
+188
+00:06:05,106 --> 00:06:06,070
+Angle two.
+
+189
+00:06:06,250 --> 00:06:07,399
+The psychology.
+
+190
+00:06:07,579 --> 00:06:10,060
+Five reasons your brain fights your budget,
+
+191
+00:06:10,060 --> 00:06:11,445
+and how to work with it.
+
+192
+00:06:11,795 --> 00:06:12,643
+Reason one.
+
+193
+00:06:12,823 --> 00:06:14,378
+Restriction backfires.
+
+194
+00:06:14,558 --> 00:06:17,687
+Research on dieting by psychologists Janet Polivy
+
+195
+00:06:17,687 --> 00:06:20,880
+and Peter Herman described what's sometimes called
+
+196
+00:06:20,880 --> 00:06:22,476
+the what the hell effect.
+
+197
+00:06:22,656 --> 00:06:25,131
+When strict dieters broke their rules,
+
+198
+00:06:25,131 --> 00:06:27,150
+many gave up and ate even more.
+
+199
+00:06:27,330 --> 00:06:28,862
+Budgets work the same way.
+
+200
+00:06:29,042 --> 00:06:29,836
+Go over once,
+
+201
+00:06:29,836 --> 00:06:32,158
+and it's tempting to abandon the whole
+
+202
+00:06:32,158 --> 00:06:32,525
+thing.
+
+203
+00:06:32,875 --> 00:06:35,337
+The fix is to build in flexibility.
+
+204
+00:06:35,517 --> 00:06:37,862
+Include a real fun money category.
+
+205
+00:06:38,042 --> 00:06:40,085
+Add a buffer for small surprises.
+
+206
+00:06:40,265 --> 00:06:41,724
+And when you overspend,
+
+207
+00:06:41,724 --> 00:06:44,642
+adjust next week instead of declaring failure.
+
+208
+00:06:44,822 --> 00:06:46,410
+A budget is a plan,
+
+209
+00:06:46,410 --> 00:06:47,330
+not a test.
+
+210
+00:06:47,680 --> 00:06:48,644
+Reason two.
+
+211
+00:06:48,824 --> 00:06:50,113
+Decision fatigue.
+
+212
+00:06:50,293 --> 00:06:52,688
+Every purchase becomes a small decision when
+
+213
+00:06:52,688 --> 00:06:54,484
+you're trying to budget manually.
+
+214
+00:06:54,664 --> 00:06:55,593
+Is this okay?
+
+215
+00:06:55,773 --> 00:06:56,841
+Can I afford this?
+
+216
+00:06:57,021 --> 00:06:59,833
+Making dozens of those choices every day
+
+217
+00:06:59,833 --> 00:07:00,817
+is exhausting.
+
+218
+00:07:00,997 --> 00:07:04,561
+Eventually, people stop deciding and just spend.
+
+219
+00:07:04,911 --> 00:07:07,628
+The fix is automation and simple limits.
+
+220
+00:07:07,808 --> 00:07:11,319
+When bills, savings and investing happen automatically
+
+221
+00:07:11,319 --> 00:07:13,659
+on payday, the only decision left is
+
+222
+00:07:13,659 --> 00:07:15,935
+how to spend a fixed weekly amount.
+
+223
+00:07:16,115 --> 00:07:18,112
+One decision, not a hundred.
+
+224
+00:07:18,462 --> 00:07:19,786
+Reason three.
+
+225
+00:07:19,966 --> 00:07:21,011
+Mental accounting.
+
+226
+00:07:21,191 --> 00:07:22,798
+Economist Richard Thaler,
+
+227
+00:07:22,798 --> 00:07:24,598
+who later won a Nobel Prize,
+
+228
+00:07:24,598 --> 00:07:27,940
+showed that people treat money differently depending
+
+229
+00:07:27,940 --> 00:07:29,933
+on which mental bucket it's in.
+
+230
+00:07:30,113 --> 00:07:32,656
+A tax refund feels like free money.
+
+231
+00:07:32,836 --> 00:07:34,983
+A bonus feels like fun money.
+
+232
+00:07:35,163 --> 00:07:36,742
+But a dollar is a dollar.
+
+233
+00:07:37,092 --> 00:07:39,495
+The fix is to use mental accounting
+
+234
+00:07:39,495 --> 00:07:40,250
+on purpose.
+
+235
+00:07:40,430 --> 00:07:43,630
+Create separate accounts for separate jobs:
+
+236
+00:07:43,630 --> 00:07:45,491
+bills, spending, savings,
+
+237
+00:07:45,491 --> 00:07:46,235
+investing.
+
+238
+00:07:46,415 --> 00:07:48,081
+When the spending account is empty,
+
+239
+00:07:48,081 --> 00:07:49,271
+you're done for the week.
+
+240
+00:07:49,451 --> 00:07:51,297
+The buckets do the work for you.
+
+241
+00:07:51,647 --> 00:07:52,727
+Reason four.
+
+242
+00:07:52,907 --> 00:07:53,807
+Out of sight,
+
+243
+00:07:53,807 --> 00:07:54,637
+out of mind.
+
+244
+00:07:54,817 --> 00:07:57,631
+Card payments and phone wallets make spending
+
+245
+00:07:57,631 --> 00:07:58,695
+almost invisible.
+
+246
+00:07:58,875 --> 00:08:01,540
+Some studies suggest people may be willing
+
+247
+00:08:01,540 --> 00:08:03,635
+to spend more when paying by card
+
+248
+00:08:03,635 --> 00:08:04,587
+than with cash.
+
+249
+00:08:04,767 --> 00:08:06,713
+When money doesn't feel real,
+
+250
+00:08:06,713 --> 00:08:08,122
+it disappears faster.
+
+251
+00:08:08,472 --> 00:08:10,980
+The fix is visibility without obsession.
+
+252
+00:08:11,160 --> 00:08:13,076
+A weekly ten minute check of your
+
+253
+00:08:13,076 --> 00:08:14,643
+spending account is enough.
+
+254
+00:08:14,823 --> 00:08:18,097
+Some people use cash envelopes for categories
+
+255
+00:08:18,097 --> 00:08:19,406
+they overspend in,
+
+256
+00:08:19,406 --> 00:08:20,570
+like eating out.
+
+257
+00:08:20,750 --> 00:08:23,455
+Seeing the balance shrink makes spending feel
+
+258
+00:08:23,455 --> 00:08:24,117
+real again.
+
+259
+00:08:24,466 --> 00:08:25,732
+And reason five.
+
+260
+00:08:25,912 --> 00:08:26,376
+Shame.
+
+261
+00:08:26,556 --> 00:08:28,728
+Many people avoid looking at their money
+
+262
+00:08:28,728 --> 00:08:30,411
+because it makes them feel bad.
+
+263
+00:08:30,591 --> 00:08:32,530
+But avoidance makes problems grow.
+
+264
+00:08:32,710 --> 00:08:34,610
+The fix is to treat your budget
+
+265
+00:08:34,610 --> 00:08:36,204
+like data, not a judgment.
+
+266
+00:08:36,384 --> 00:08:37,975
+Numbers are information.
+
+267
+00:08:38,155 --> 00:08:39,873
+They tell you what to adjust next.
+
+268
+00:08:40,223 --> 00:08:41,895
+So what mindset works?
+
+269
+00:08:42,075 --> 00:08:44,211
+Think of your budget as a spending
+
+270
+00:08:44,211 --> 00:08:46,410
+plan that gives every dollar a job,
+
+271
+00:08:46,410 --> 00:08:48,797
+including the job of making you happy.
+
+272
+00:08:48,977 --> 00:08:51,836
+People who stick with budgets usually describe
+
+273
+00:08:51,836 --> 00:08:53,265
+them as giving freedom,
+
+274
+00:08:53,265 --> 00:08:54,446
+not taking it away.
+
+275
+00:08:54,626 --> 00:08:56,122
+They spend without guilt,
+
+276
+00:08:56,122 --> 00:08:58,637
+because they know the important things are
+
+277
+00:08:58,637 --> 00:08:59,595
+already covered.
+
+278
+00:08:59,944 --> 00:09:01,463
+And think in systems,
+
+279
+00:09:01,463 --> 00:09:02,475
+not willpower.
+
+280
+00:09:02,655 --> 00:09:04,882
+A good system makes the right choice
+
+281
+00:09:04,882 --> 00:09:05,871
+the easy choice.
+
+282
+00:09:06,051 --> 00:09:07,711
+Willpower runs out.
+
+283
+00:09:07,891 --> 00:09:09,412
+Systems keep running.
+
+284
+00:09:09,762 --> 00:09:10,691
+Angle three.
+
+285
+00:09:10,871 --> 00:09:11,626
+The playbook.
+
+286
+00:09:11,806 --> 00:09:14,338
+Twelve steps to build a budget system
+
+287
+00:09:14,338 --> 00:09:15,707
+that actually works.
+
+288
+00:09:15,887 --> 00:09:17,282
+You can set most of this up
+
+289
+00:09:17,282 --> 00:09:18,058
+in one weekend.
+
+290
+00:09:18,407 --> 00:09:19,150
+Step one.
+
+291
+00:09:19,330 --> 00:09:21,757
+Look back at ninety days of spending.
+
+292
+00:09:22,106 --> 00:09:24,652
+Download three months of bank and credit
+
+293
+00:09:24,652 --> 00:09:25,671
+card statements.
+
+294
+00:09:25,851 --> 00:09:29,905
+Sort every transaction into simple categories:
+
+295
+00:09:29,905 --> 00:09:32,549
+housing, transportation, food,
+
+296
+00:09:32,549 --> 00:09:34,929
+utilities, insurance, debt,
+
+297
+00:09:34,929 --> 00:09:37,485
+subscriptions, shopping, fun,
+
+298
+00:09:37,485 --> 00:09:38,366
+and other.
+
+299
+00:09:38,546 --> 00:09:39,475
+Don't judge.
+
+300
+00:09:39,655 --> 00:09:40,502
+Just sort.
+
+301
+00:09:40,852 --> 00:09:42,838
+Ninety days gives you a much more
+
+302
+00:09:42,838 --> 00:09:44,823
+realistic average than one month.
+
+303
+00:09:45,003 --> 00:09:47,203
+Most people find at least one category
+
+304
+00:09:47,203 --> 00:09:49,287
+that's far higher than they thought.
+
+305
+00:09:49,467 --> 00:09:50,860
+That's your first opportunity.
+
+306
+00:09:51,210 --> 00:09:53,091
+A tip that helps many people.
+
+307
+00:09:53,271 --> 00:09:54,118
+As you sort,
+
+308
+00:09:54,118 --> 00:09:57,013
+mark each transaction with a simple face:
+
+309
+00:09:57,013 --> 00:09:59,413
+happy if you're glad you spent it,
+
+310
+00:09:59,413 --> 00:10:02,025
+neutral, or unhappy if you regret it.
+
+311
+00:10:02,205 --> 00:10:04,557
+The unhappy ones are your easiest cuts,
+
+312
+00:10:04,557 --> 00:10:06,245
+because you won't miss them.
+
+313
+00:10:06,425 --> 00:10:07,995
+The happy ones are what your fun
+
+314
+00:10:07,995 --> 00:10:09,026
+money should protect.
+
+315
+00:10:09,376 --> 00:10:10,468
+Step two.
+
+316
+00:10:10,648 --> 00:10:12,668
+Calculate your true monthly costs.
+
+317
+00:10:13,017 --> 00:10:16,184
+List every irregular expense you can think
+
+318
+00:10:16,184 --> 00:10:17,617
+of for a full year:
+
+319
+00:10:17,617 --> 00:10:20,407
+car registration, insurance premiums,
+
+320
+00:10:20,407 --> 00:10:23,573
+holidays, birthdays, annual subscriptions,
+
+321
+00:10:23,573 --> 00:10:25,911
+medical costs, car maintenance,
+
+322
+00:10:25,911 --> 00:10:26,891
+home repairs.
+
+323
+00:10:27,071 --> 00:10:28,415
+Estimate each one,
+
+324
+00:10:28,415 --> 00:10:29,311
+add them up,
+
+325
+00:10:29,311 --> 00:10:30,879
+and divide by twelve.
+
+326
+00:10:31,229 --> 00:10:33,500
+If your irregular costs total thirty six
+
+327
+00:10:33,500 --> 00:10:34,806
+hundred dollars a year,
+
+328
+00:10:34,806 --> 00:10:36,907
+that's three hundred dollars a month.
+
+329
+00:10:37,087 --> 00:10:39,350
+Add that to your regular monthly bills,
+
+330
+00:10:39,350 --> 00:10:41,440
+and you have your true monthly cost.
+
+331
+00:10:41,620 --> 00:10:44,325
+This one number fixes most broken budgets.
+
+332
+00:10:44,675 --> 00:10:47,849
+Don't forget costs that come every two,
+
+333
+00:10:47,849 --> 00:10:49,477
+three or five years,
+
+334
+00:10:49,477 --> 00:10:50,697
+like new tires,
+
+335
+00:10:50,697 --> 00:10:53,220
+a laptop, or a major appliance.
+
+336
+00:10:53,400 --> 00:10:55,447
+Divide those by the number of months
+
+337
+00:10:55,447 --> 00:10:56,697
+until you expect them.
+
+338
+00:10:56,877 --> 00:10:59,312
+A one thousand two hundred dollar laptop
+
+339
+00:10:59,312 --> 00:11:01,685
+every four years is twenty five dollars
+
+340
+00:11:01,685 --> 00:11:02,172
+a month.
+
+341
+00:11:02,352 --> 00:11:05,577
+Small monthly amounts make big future costs
+
+342
+00:11:05,577 --> 00:11:06,253
+painless.
+
+343
+00:11:06,602 --> 00:11:07,508
+Step three.
+
+344
+00:11:07,688 --> 00:11:09,069
+Choose your framework.
+
+345
+00:11:09,419 --> 00:11:11,277
+Pick a simple starting structure.
+
+346
+00:11:11,457 --> 00:11:13,674
+Fifty thirty twenty is a good default.
+
+347
+00:11:13,854 --> 00:11:16,341
+If you're catching up or paying off
+
+348
+00:11:16,341 --> 00:11:18,473
+debt, try sixty twenty twenty:
+
+349
+00:11:18,473 --> 00:11:19,609
+sixty for needs,
+
+350
+00:11:19,609 --> 00:11:20,817
+twenty for wants,
+
+351
+00:11:20,817 --> 00:11:22,167
+twenty for savings.
+
+352
+00:11:22,347 --> 00:11:24,433
+Or seventy twenty ten if your housing
+
+353
+00:11:24,433 --> 00:11:25,560
+costs are very high,
+
+354
+00:11:25,560 --> 00:11:27,026
+with a plan to improve it.
+
+355
+00:11:27,376 --> 00:11:30,217
+Some people prefer zero based budgeting,
+
+356
+00:11:30,217 --> 00:11:33,058
+where every dollar of income is assigned
+
+357
+00:11:33,058 --> 00:11:35,828
+a job until nothing is left unassigned.
+
+358
+00:11:36,008 --> 00:11:37,122
+It takes more effort,
+
+359
+00:11:37,122 --> 00:11:38,713
+but it gives you full control.
+
+360
+00:11:38,893 --> 00:11:41,308
+Choose whatever you'll actually stick with.
+
+361
+00:11:41,658 --> 00:11:43,378
+Whatever framework you choose,
+
+362
+00:11:43,378 --> 00:11:45,727
+write down your three percentages and put
+
+363
+00:11:45,727 --> 00:11:47,045
+them somewhere visible.
+
+364
+00:11:47,225 --> 00:11:48,878
+When a new expense comes up,
+
+365
+00:11:48,878 --> 00:11:50,648
+you can ask a simple question:
+
+366
+00:11:50,648 --> 00:11:52,595
+which bucket does this come from,
+
+367
+00:11:52,595 --> 00:11:53,657
+and is there room?
+
+368
+00:11:53,837 --> 00:11:57,181
+That question alone prevents many impulse decisions.
+
+369
+00:11:57,531 --> 00:11:58,506
+Step four.
+
+370
+00:11:58,686 --> 00:12:00,022
+Set up four accounts.
+
+371
+00:12:00,371 --> 00:12:02,101
+Here's the core of the system.
+
+372
+00:12:02,281 --> 00:12:03,690
+Account one: Bills,
+
+373
+00:12:03,690 --> 00:12:06,804
+a checking account for fixed expenses like
+
+374
+00:12:06,804 --> 00:12:10,141
+rent, utilities, insurance and loan payments.
+
+375
+00:12:10,321 --> 00:12:11,770
+Account two: Spending,
+
+376
+00:12:11,770 --> 00:12:14,337
+a separate checking account or card for
+
+377
+00:12:14,337 --> 00:12:15,720
+day to day purchases.
+
+378
+00:12:15,900 --> 00:12:17,552
+Account three: Savings,
+
+379
+00:12:17,552 --> 00:12:20,498
+a high yield savings account with buckets
+
+380
+00:12:20,498 --> 00:12:23,516
+for your emergency fund and sinking funds.
+
+381
+00:12:23,696 --> 00:12:25,447
+Account four: Investing,
+
+382
+00:12:25,447 --> 00:12:28,293
+your retirement and brokerage accounts.
+
+383
+00:12:28,643 --> 00:12:31,157
+Many banks and credit unions offer free
+
+384
+00:12:31,157 --> 00:12:33,090
+checking and savings accounts,
+
+385
+00:12:33,090 --> 00:12:35,669
+and many let you create multiple savings
+
+386
+00:12:35,669 --> 00:12:37,409
+buckets inside one account.
+
+387
+00:12:37,589 --> 00:12:40,127
+Setting this up usually takes an hour
+
+388
+00:12:40,127 --> 00:12:40,607
+or two.
+
+389
+00:12:40,957 --> 00:12:43,210
+Why separate accounts instead of one big
+
+390
+00:12:43,210 --> 00:12:44,731
+account with a spreadsheet?
+
+391
+00:12:44,911 --> 00:12:47,674
+Because separation makes the rules physical.
+
+392
+00:12:47,854 --> 00:12:49,643
+When your bills money lives in a
+
+393
+00:12:49,643 --> 00:12:52,438
+different account, you can't accidentally spend it
+
+394
+00:12:52,438 --> 00:12:52,997
+on dinner.
+
+395
+00:12:53,177 --> 00:12:55,391
+Your spending balance is the truth,
+
+396
+00:12:55,391 --> 00:12:56,150
+at a glance,
+
+397
+00:12:56,150 --> 00:12:57,542
+with no math required.
+
+398
+00:12:57,892 --> 00:12:58,868
+Step five.
+
+399
+00:12:59,048 --> 00:13:00,476
+Automate the payday flow.
+
+400
+00:13:00,825 --> 00:13:02,332
+When your paycheck lands,
+
+401
+00:13:02,332 --> 00:13:05,226
+automatic transfers move money where it belongs.
+
+402
+00:13:05,406 --> 00:13:08,482
+Retirement contributions come out before the paycheck.
+
+403
+00:13:08,662 --> 00:13:10,943
+Then a set amount goes to Bills,
+
+404
+00:13:10,943 --> 00:13:12,654
+a set amount to Savings,
+
+405
+00:13:12,654 --> 00:13:14,792
+and a set amount to Investing.
+
+406
+00:13:14,972 --> 00:13:16,644
+What's left goes to Spending.
+
+407
+00:13:16,994 --> 00:13:19,047
+Set all your fixed bills to autopay
+
+408
+00:13:19,047 --> 00:13:20,396
+from the Bills account.
+
+409
+00:13:20,576 --> 00:13:21,623
+Now your bills,
+
+410
+00:13:21,623 --> 00:13:24,766
+savings and investing happen without a single
+
+411
+00:13:24,766 --> 00:13:25,394
+decision.
+
+412
+00:13:25,574 --> 00:13:27,329
+The only thing you manage is your
+
+413
+00:13:27,329 --> 00:13:28,233
+spending account.
+
+414
+00:13:28,582 --> 00:13:30,712
+Time the transfers for the day after
+
+415
+00:13:30,712 --> 00:13:32,901
+payday, so the money is always there.
+
+416
+00:13:33,081 --> 00:13:35,154
+And if you're paid twice a month,
+
+417
+00:13:35,154 --> 00:13:36,912
+split each transfer in half.
+
+418
+00:13:37,092 --> 00:13:38,536
+Within a month or two,
+
+419
+00:13:38,536 --> 00:13:41,161
+you'll stop thinking about bills at all,
+
+420
+00:13:41,161 --> 00:13:42,932
+which is exactly the point.
+
+421
+00:13:43,282 --> 00:13:44,501
+Step six.
+
+422
+00:13:44,681 --> 00:13:46,446
+Use a weekly spending number.
+
+423
+00:13:46,796 --> 00:13:49,497
+Take your monthly spending money and divide
+
+424
+00:13:49,497 --> 00:13:50,941
+it into weekly amounts.
+
+425
+00:13:51,121 --> 00:13:53,178
+If you have one thousand dollars a
+
+426
+00:13:53,178 --> 00:13:54,387
+month for groceries,
+
+427
+00:13:54,387 --> 00:13:55,839
+gas, eating out and fun,
+
+428
+00:13:55,839 --> 00:13:58,319
+that's about two hundred thirty dollars a
+
+429
+00:13:58,319 --> 00:13:58,621
+week.
+
+430
+00:13:58,801 --> 00:14:00,403
+That's your only number to watch.
+
+431
+00:14:00,753 --> 00:14:03,468
+Some people transfer the weekly amount every
+
+432
+00:14:03,468 --> 00:14:03,900
+Monday.
+
+433
+00:14:04,080 --> 00:14:05,065
+When it's gone,
+
+434
+00:14:05,065 --> 00:14:06,773
+they wait until next week.
+
+435
+00:14:06,953 --> 00:14:08,241
+It's simple, flexible,
+
+436
+00:14:08,241 --> 00:14:09,821
+and you can see at a glance
+
+437
+00:14:09,821 --> 00:14:11,226
+whether you're on track.
+
+438
+00:14:11,575 --> 00:14:13,433
+Why weekly instead of monthly?
+
+439
+00:14:13,613 --> 00:14:15,252
+Because a month is long,
+
+440
+00:14:15,252 --> 00:14:17,505
+and it's easy to overspend in the
+
+441
+00:14:17,505 --> 00:14:19,895
+first two weeks and struggle in the
+
+442
+00:14:19,895 --> 00:14:20,509
+last two.
+
+443
+00:14:20,689 --> 00:14:22,442
+A weekly number gives you a fresh
+
+444
+00:14:22,442 --> 00:14:23,451
+start every Monday,
+
+445
+00:14:23,451 --> 00:14:25,257
+and it's small enough that you can
+
+446
+00:14:25,257 --> 00:14:25,682
+feel it.
+
+447
+00:14:26,031 --> 00:14:27,053
+Step seven.
+
+448
+00:14:27,233 --> 00:14:28,766
+Build sinking funds.
+
+449
+00:14:29,115 --> 00:14:31,386
+Inside your Savings account,
+
+450
+00:14:31,386 --> 00:14:34,791
+create buckets for each irregular expense:
+
+451
+00:14:34,791 --> 00:14:36,575
+car repairs, holidays,
+
+452
+00:14:36,575 --> 00:14:38,683
+insurance, medical, gifts,
+
+453
+00:14:38,683 --> 00:14:39,251
+travel.
+
+454
+00:14:39,431 --> 00:14:41,460
+Each month, a fixed amount goes to
+
+455
+00:14:41,460 --> 00:14:42,833
+each one automatically.
+
+456
+00:14:43,013 --> 00:14:44,188
+When the bill comes,
+
+457
+00:14:44,188 --> 00:14:45,892
+the money is already waiting.
+
+458
+00:14:46,241 --> 00:14:48,568
+This is the step that turns budget
+
+459
+00:14:48,568 --> 00:14:51,373
+breaking surprises into planned expenses.
+
+460
+00:14:51,553 --> 00:14:54,248
+A seven hundred dollar car repair becomes
+
+461
+00:14:54,248 --> 00:14:56,023
+a withdrawal, not a crisis.
+
+462
+00:14:56,372 --> 00:14:59,588
+Start with your three biggest irregular costs,
+
+463
+00:14:59,588 --> 00:15:01,127
+often car maintenance,
+
+464
+00:15:01,127 --> 00:15:02,735
+holidays and insurance.
+
+465
+00:15:02,915 --> 00:15:04,435
+Add more buckets as you go.
+
+466
+00:15:04,615 --> 00:15:06,574
+Many people say sinking funds are the
+
+467
+00:15:06,574 --> 00:15:08,902
+single change that made their budget finally
+
+468
+00:15:08,902 --> 00:15:09,167
+work.
+
+469
+00:15:09,516 --> 00:15:10,294
+Step eight.
+
+470
+00:15:10,474 --> 00:15:12,111
+Build your emergency fund.
+
+471
+00:15:12,461 --> 00:15:15,619
+Sinking funds cover expected irregular costs.
+
+472
+00:15:15,799 --> 00:15:19,595
+The emergency fund covers the truly unexpected:
+
+473
+00:15:19,595 --> 00:15:20,484
+a job loss,
+
+474
+00:15:20,484 --> 00:15:22,099
+a medical emergency,
+
+475
+00:15:22,099 --> 00:15:23,311
+a major repair.
+
+476
+00:15:23,491 --> 00:15:25,504
+Start with one thousand dollars,
+
+477
+00:15:25,504 --> 00:15:27,831
+then build toward three to six months
+
+478
+00:15:27,831 --> 00:15:29,215
+of essential expenses.
+
+479
+00:15:29,564 --> 00:15:31,699
+Keep it in the Savings account,
+
+480
+00:15:31,699 --> 00:15:33,971
+separate from your sinking funds,
+
+481
+00:15:33,971 --> 00:15:36,519
+and only use it for real emergencies.
+
+482
+00:15:36,699 --> 00:15:37,755
+Then refill it.
+
+483
+00:15:38,105 --> 00:15:40,450
+Give the emergency fund some distance.
+
+484
+00:15:40,630 --> 00:15:42,687
+Some people keep it at a separate
+
+485
+00:15:42,687 --> 00:15:44,806
+bank from their everyday accounts,
+
+486
+00:15:44,806 --> 00:15:46,863
+so it's available within a day or
+
+487
+00:15:46,863 --> 00:15:48,421
+two but not one tap away.
+
+488
+00:15:48,601 --> 00:15:50,829
+That small bit of friction protects it
+
+489
+00:15:50,829 --> 00:15:52,061
+from non emergencies.
+
+490
+00:15:52,410 --> 00:15:53,304
+Step nine.
+
+491
+00:15:53,484 --> 00:15:55,179
+Do a ten minute weekly check.
+
+492
+00:15:55,529 --> 00:15:56,239
+Once a week,
+
+493
+00:15:56,239 --> 00:15:58,665
+look at your spending account balance and
+
+494
+00:15:58,665 --> 00:15:59,848
+recent transactions.
+
+495
+00:16:00,028 --> 00:16:01,027
+Are you on track?
+
+496
+00:16:01,207 --> 00:16:02,321
+Any surprises?
+
+497
+00:16:02,501 --> 00:16:04,185
+Any subscriptions you forgot?
+
+498
+00:16:04,365 --> 00:16:05,642
+Ten minutes is enough.
+
+499
+00:16:05,991 --> 00:16:08,556
+This small habit catches problems early,
+
+500
+00:16:08,556 --> 00:16:10,159
+when they're easy to fix.
+
+501
+00:16:10,339 --> 00:16:12,988
+Many people pair it with something pleasant,
+
+502
+00:16:12,988 --> 00:16:14,252
+like a Sunday coffee.
+
+503
+00:16:14,601 --> 00:16:15,821
+During the check,
+
+504
+00:16:15,821 --> 00:16:18,046
+also look for anything unusual:
+
+505
+00:16:18,046 --> 00:16:20,128
+a charge you don't recognize,
+
+506
+00:16:20,128 --> 00:16:22,640
+a price increase on a subscription,
+
+507
+00:16:22,640 --> 00:16:23,286
+or a fee.
+
+508
+00:16:23,466 --> 00:16:25,700
+Catching these early can save money and
+
+509
+00:16:25,700 --> 00:16:27,018
+protect you from fraud.
+
+510
+00:16:27,368 --> 00:16:28,088
+Step ten.
+
+511
+00:16:28,268 --> 00:16:30,044
+Hold a monthly money meeting.
+
+512
+00:16:30,394 --> 00:16:31,247
+Once a month,
+
+513
+00:16:31,247 --> 00:16:32,821
+look at the big picture.
+
+514
+00:16:33,001 --> 00:16:34,731
+Did your automatic transfers run?
+
+515
+00:16:34,911 --> 00:16:36,548
+Are your sinking funds growing?
+
+516
+00:16:36,728 --> 00:16:38,121
+How's your emergency fund?
+
+517
+00:16:38,301 --> 00:16:40,303
+Is there anything coming next month,
+
+518
+00:16:40,303 --> 00:16:41,749
+like a birthday or a trip?
+
+519
+00:16:42,099 --> 00:16:43,370
+If you have a partner,
+
+520
+00:16:43,370 --> 00:16:44,352
+do this together.
+
+521
+00:16:44,532 --> 00:16:45,630
+Keep it short,
+
+522
+00:16:45,630 --> 00:16:47,984
+positive and focused on goals,
+
+523
+00:16:47,984 --> 00:16:48,769
+not blame.
+
+524
+00:16:48,949 --> 00:16:51,251
+Many couples end it with something fun,
+
+525
+00:16:51,251 --> 00:16:53,908
+like ordering their favorite takeout from the
+
+526
+00:16:53,908 --> 00:16:54,557
+fun budget.
+
+527
+00:16:54,907 --> 00:16:57,229
+Use the meeting to celebrate progress too.
+
+528
+00:16:57,409 --> 00:17:00,305
+A sinking fund that covered a repair,
+
+529
+00:17:00,305 --> 00:17:01,557
+a debt paid off,
+
+530
+00:17:01,557 --> 00:17:03,748
+an emergency fund milestone.
+
+531
+00:17:03,928 --> 00:17:06,529
+Money conversations don't have to be stressful.
+
+532
+00:17:06,709 --> 00:17:08,088
+They can be the moment you see
+
+533
+00:17:08,088 --> 00:17:08,915
+your plan working.
+
+534
+00:17:09,264 --> 00:17:10,321
+Step eleven.
+
+535
+00:17:10,501 --> 00:17:12,625
+Handle overspending without guilt.
+
+536
+00:17:12,975 --> 00:17:14,891
+You will overspend sometimes.
+
+537
+00:17:15,071 --> 00:17:16,174
+Everyone does.
+
+538
+00:17:16,354 --> 00:17:17,444
+When it happens,
+
+539
+00:17:17,444 --> 00:17:19,691
+move money from another category,
+
+540
+00:17:19,691 --> 00:17:22,007
+reduce next week's spending a bit,
+
+541
+00:17:22,007 --> 00:17:24,186
+or adjust the category if it was
+
+542
+00:17:24,186 --> 00:17:25,003
+unrealistic.
+
+543
+00:17:25,353 --> 00:17:27,220
+What you don't do is abandon the
+
+544
+00:17:27,220 --> 00:17:27,629
+system.
+
+545
+00:17:27,809 --> 00:17:30,015
+One bad week doesn't ruin a budget.
+
+546
+00:17:30,195 --> 00:17:31,193
+Quitting does.
+
+547
+00:17:31,543 --> 00:17:34,301
+If one category goes over every single
+
+548
+00:17:34,301 --> 00:17:37,058
+month, that's not a willpower problem.
+
+549
+00:17:37,238 --> 00:17:38,411
+It's a planning problem.
+
+550
+00:17:38,591 --> 00:17:41,354
+Raise that category and lower another one.
+
+551
+00:17:41,534 --> 00:17:43,904
+The budget should fit your real life,
+
+552
+00:17:43,904 --> 00:17:45,249
+not an imaginary one.
+
+553
+00:17:45,599 --> 00:17:46,528
+Step twelve.
+
+554
+00:17:46,708 --> 00:17:48,125
+Do an annual reset.
+
+555
+00:17:48,474 --> 00:17:49,227
+Once a year,
+
+556
+00:17:49,227 --> 00:17:50,355
+review everything.
+
+557
+00:17:50,535 --> 00:17:52,846
+Update your irregular expenses list.
+
+558
+00:17:53,026 --> 00:17:55,768
+Raise your savings and investing transfers,
+
+559
+00:17:55,768 --> 00:17:57,298
+especially after raises.
+
+560
+00:17:57,478 --> 00:17:59,695
+Cancel subscriptions you don't use.
+
+561
+00:17:59,875 --> 00:18:01,801
+Shop around for insurance,
+
+562
+00:18:01,801 --> 00:18:03,208
+phone and internet.
+
+563
+00:18:03,557 --> 00:18:06,050
+This yearly reset often finds hundreds or
+
+564
+00:18:06,050 --> 00:18:08,300
+even thousands of dollars in savings,
+
+565
+00:18:08,300 --> 00:18:10,672
+and keeps your budget aligned with your
+
+566
+00:18:10,672 --> 00:18:10,976
+life.
+
+567
+00:18:11,326 --> 00:18:13,363
+A good time for the reset is
+
+568
+00:18:13,363 --> 00:18:16,346
+early January, or right after your yearly
+
+569
+00:18:16,346 --> 00:18:16,783
+raise.
+
+570
+00:18:16,963 --> 00:18:17,619
+Pick a date,
+
+571
+00:18:17,619 --> 00:18:18,932
+put it on your calendar,
+
+572
+00:18:18,932 --> 00:18:20,736
+and treat it like an appointment.
+
+573
+00:18:20,916 --> 00:18:22,676
+One afternoon a year can keep the
+
+574
+00:18:22,676 --> 00:18:23,795
+whole system healthy.
+
+575
+00:18:24,145 --> 00:18:25,446
+Budgeting isn't new.
+
+576
+00:18:25,626 --> 00:18:28,767
+For generations, many families used the envelope
+
+577
+00:18:28,767 --> 00:18:29,225
+system.
+
+578
+00:18:29,405 --> 00:18:33,246
+On payday, cash went into labeled envelopes:
+
+579
+00:18:33,246 --> 00:18:35,167
+rent, groceries, coal,
+
+580
+00:18:35,167 --> 00:18:35,953
+clothing.
+
+581
+00:18:36,133 --> 00:18:38,055
+When an envelope was empty,
+
+582
+00:18:38,055 --> 00:18:40,475
+spending in that category stopped.
+
+583
+00:18:40,655 --> 00:18:41,547
+It was simple,
+
+584
+00:18:41,547 --> 00:18:44,416
+visual, and it worked without any technology.
+
+585
+00:18:44,766 --> 00:18:47,736
+In 1970, a manager at Texas Instruments
+
+586
+00:18:47,736 --> 00:18:51,391
+named Peter Pyhrr described zero based budgeting
+
+587
+00:18:51,391 --> 00:18:52,533
+for businesses.
+
+588
+00:18:52,713 --> 00:18:55,532
+Instead of starting from last year's budget,
+
+589
+00:18:55,532 --> 00:18:57,966
+every expense had to be justified from
+
+590
+00:18:57,966 --> 00:18:58,286
+zero.
+
+591
+00:18:58,466 --> 00:19:01,370
+The idea later spread to personal finance:
+
+592
+00:19:01,370 --> 00:19:03,029
+every dollar gets a job.
+
+593
+00:19:03,379 --> 00:19:06,449
+In 2005, Elizabeth Warren and Amelia Warren
+
+594
+00:19:06,449 --> 00:19:09,733
+Tyagi popularized the fifty thirty twenty rule
+
+595
+00:19:09,733 --> 00:19:11,518
+as a simpler alternative.
+
+596
+00:19:11,698 --> 00:19:13,783
+And in the 2000s and 2010s,
+
+597
+00:19:13,783 --> 00:19:17,335
+budgeting apps began linking bank accounts and
+
+598
+00:19:17,335 --> 00:19:20,115
+categorizing spending automatically.
+
+599
+00:19:20,465 --> 00:19:22,759
+The four account system in this video
+
+600
+00:19:22,759 --> 00:19:24,308
+borrows from all of them.
+
+601
+00:19:24,488 --> 00:19:27,263
+The envelope idea of separate buckets.
+
+602
+00:19:27,443 --> 00:19:29,966
+The zero based idea of giving every
+
+603
+00:19:29,966 --> 00:19:30,903
+dollar a job.
+
+604
+00:19:31,083 --> 00:19:33,718
+The simplicity of fifty thirty twenty.
+
+605
+00:19:33,898 --> 00:19:35,284
+And modern automation,
+
+606
+00:19:35,284 --> 00:19:37,300
+so it runs without daily effort.
+
+607
+00:19:37,650 --> 00:19:38,672
+Quick pause.
+
+608
+00:19:38,852 --> 00:19:40,733
+If this system is helping you,
+
+609
+00:19:40,733 --> 00:19:42,300
+subscribe to the channel.
+
+610
+00:19:42,480 --> 00:19:44,261
+It's free, and it helps me keep
+
+611
+00:19:44,261 --> 00:19:45,870
+making these videos for you.
+
+612
+00:19:46,050 --> 00:19:47,815
+Now, the sample budgets.
+
+613
+00:19:48,165 --> 00:19:50,586
+Let's see the system at three income
+
+614
+00:19:50,586 --> 00:19:51,056
+levels.
+
+615
+00:19:51,236 --> 00:19:53,817
+First, three thousand dollars a month of
+
+616
+00:19:53,817 --> 00:19:54,720
+take home pay,
+
+617
+00:19:54,720 --> 00:19:55,752
+a single person.
+
+618
+00:19:55,932 --> 00:19:58,423
+Bills account: fourteen hundred,
+
+619
+00:19:58,423 --> 00:20:00,836
+including rent with a roommate,
+
+620
+00:20:00,836 --> 00:20:04,261
+utilities, phone, insurance and a small loan
+
+621
+00:20:04,261 --> 00:20:04,884
+payment.
+
+622
+00:20:05,064 --> 00:20:07,827
+Savings: two hundred fifty for sinking funds
+
+623
+00:20:07,827 --> 00:20:10,276
+and one hundred fifty for the emergency
+
+624
+00:20:10,276 --> 00:20:10,590
+fund.
+
+625
+00:20:10,940 --> 00:20:14,018
+Investing: one hundred fifty to a Roth
+
+626
+00:20:14,018 --> 00:20:17,581
+IRA, plus a workplace match through payroll.
+
+627
+00:20:17,761 --> 00:20:20,372
+Spending: about one thousand fifty,
+
+628
+00:20:20,372 --> 00:20:22,983
+or roughly two hundred forty a week
+
+629
+00:20:22,983 --> 00:20:24,400
+for groceries, gas,
+
+630
+00:20:24,400 --> 00:20:26,190
+fun and everything else.
+
+631
+00:20:26,370 --> 00:20:28,492
+It's tight, but every dollar has a
+
+632
+00:20:28,492 --> 00:20:30,364
+job, and the future is funded.
+
+633
+00:20:30,713 --> 00:20:33,632
+Second, five thousand dollars a month,
+
+634
+00:20:33,632 --> 00:20:35,322
+a couple with no kids.
+
+635
+00:20:35,502 --> 00:20:37,499
+Bills: twenty three hundred,
+
+636
+00:20:37,499 --> 00:20:39,354
+including rent, utilities,
+
+637
+00:20:39,354 --> 00:20:41,493
+insurance and one car payment.
+
+638
+00:20:41,673 --> 00:20:44,444
+Savings: four hundred for sinking funds and
+
+639
+00:20:44,444 --> 00:20:46,828
+three hundred for the emergency fund.
+
+640
+00:20:47,008 --> 00:20:49,627
+Investing: six hundred in IRAs,
+
+641
+00:20:49,627 --> 00:20:52,836
+plus retirement plans through payroll.
+
+642
+00:20:53,186 --> 00:20:55,651
+Spending: about fourteen hundred,
+
+643
+00:20:55,651 --> 00:20:58,490
+around three hundred twenty a week for
+
+644
+00:20:58,490 --> 00:21:01,104
+groceries, gas, dining out and fun.
+
+645
+00:21:01,284 --> 00:21:04,137
+That's about eighteen percent going to the
+
+646
+00:21:04,137 --> 00:21:07,058
+emergency fund and investing from take home
+
+647
+00:21:07,058 --> 00:21:09,911
+pay alone, plus the payroll contributions.
+
+648
+00:21:10,260 --> 00:21:12,948
+Third, eight thousand dollars a month,
+
+649
+00:21:12,948 --> 00:21:14,150
+a family of four.
+
+650
+00:21:14,330 --> 00:21:16,282
+Bills: thirty nine hundred,
+
+651
+00:21:16,282 --> 00:21:18,452
+including mortgage, utilities,
+
+652
+00:21:18,452 --> 00:21:21,272
+insurance, childcare and a car payment.
+
+653
+00:21:21,452 --> 00:21:24,134
+Savings: six hundred for sinking funds and
+
+654
+00:21:24,134 --> 00:21:26,433
+four hundred for the emergency fund.
+
+655
+00:21:26,613 --> 00:21:28,817
+Investing: one thousand,
+
+656
+00:21:28,817 --> 00:21:32,583
+plus a small 529 contribution and payroll
+
+657
+00:21:32,583 --> 00:21:34,879
+retirement contributions.
+
+658
+00:21:35,229 --> 00:21:37,456
+Spending: about two thousand,
+
+659
+00:21:37,456 --> 00:21:40,220
+around four hundred sixty a week for
+
+660
+00:21:40,220 --> 00:21:43,368
+groceries, gas, kids' activities and fun.
+
+661
+00:21:43,548 --> 00:21:45,034
+Same four accounts.
+
+662
+00:21:45,214 --> 00:21:46,654
+Same automatic flow.
+
+663
+00:21:46,834 --> 00:21:47,902
+Same weekly number.
+
+664
+00:21:48,082 --> 00:21:49,231
+The amounts change.
+
+665
+00:21:49,411 --> 00:21:50,468
+The system doesn't.
+
+666
+00:21:50,817 --> 00:21:52,142
+Same four accounts,
+
+667
+00:21:52,142 --> 00:21:53,328
+same payday flow,
+
+668
+00:21:53,328 --> 00:21:55,281
+same weekly spending number,
+
+669
+00:21:55,281 --> 00:21:57,931
+whether you bring home three thousand,
+
+670
+00:21:57,931 --> 00:22:00,721
+five thousand or eight thousand a month.
+
+671
+00:22:01,070 --> 00:22:02,522
+Let's compare two people.
+
+672
+00:22:02,702 --> 00:22:05,438
+Nina downloads a detailed budget app,
+
+673
+00:22:05,438 --> 00:22:07,138
+sets thirty categories,
+
+674
+00:22:07,138 --> 00:22:08,913
+and tracks every coffee.
+
+675
+00:22:09,093 --> 00:22:10,160
+For two weeks,
+
+676
+00:22:10,160 --> 00:22:11,380
+she's motivated.
+
+677
+00:22:11,560 --> 00:22:13,116
+Then a busy month hits.
+
+678
+00:22:13,296 --> 00:22:14,538
+She stops logging.
+
+679
+00:22:14,718 --> 00:22:16,878
+Her categories fall out of date.
+
+680
+00:22:17,058 --> 00:22:18,129
+By month two,
+
+681
+00:22:18,129 --> 00:22:21,179
+she feels guilty and deletes the app.
+
+682
+00:22:21,529 --> 00:22:24,092
+Tom sets up four accounts and automates
+
+683
+00:22:24,092 --> 00:22:24,815
+everything.
+
+684
+00:22:24,995 --> 00:22:27,202
+His only rule is a weekly spending
+
+685
+00:22:27,202 --> 00:22:29,604
+number of two hundred eighty dollars.
+
+686
+00:22:29,784 --> 00:22:31,287
+Some weeks he goes over,
+
+687
+00:22:31,287 --> 00:22:32,978
+so the next week he eats at
+
+688
+00:22:32,978 --> 00:22:33,604
+home more.
+
+689
+00:22:33,784 --> 00:22:36,175
+He spends ten minutes on Sunday checking.
+
+690
+00:22:36,355 --> 00:22:37,147
+A year later,
+
+691
+00:22:37,147 --> 00:22:38,365
+he's still doing it,
+
+692
+00:22:38,365 --> 00:22:40,009
+his emergency fund is full,
+
+693
+00:22:40,009 --> 00:22:42,079
+and he's investing more than ever.
+
+694
+00:22:42,429 --> 00:22:45,146
+Nina didn't fail because she lacked discipline.
+
+695
+00:22:45,326 --> 00:22:47,282
+She chose a system that needed too
+
+696
+00:22:47,282 --> 00:22:47,915
+much of it.
+
+697
+00:22:48,095 --> 00:22:50,303
+When she switches to the four account
+
+698
+00:22:50,303 --> 00:22:52,333
+approach, she finds it far easier.
+
+699
+00:22:52,513 --> 00:22:54,766
+The best budget isn't the most detailed
+
+700
+00:22:54,766 --> 00:22:54,997
+one.
+
+701
+00:22:55,177 --> 00:22:56,687
+It's the one you'll keep using.
+
+702
+00:22:57,036 --> 00:22:59,219
+Here's the lesson from Nina and Tom.
+
+703
+00:22:59,399 --> 00:23:00,959
+Detail feels productive,
+
+704
+00:23:00,959 --> 00:23:02,975
+but it often isn't sustainable.
+
+705
+00:23:03,155 --> 00:23:04,726
+If you love tracking,
+
+706
+00:23:04,726 --> 00:23:05,175
+track.
+
+707
+00:23:05,355 --> 00:23:06,018
+If you don't,
+
+708
+00:23:06,018 --> 00:23:07,956
+let the account structure do the work.
+
+709
+00:23:08,136 --> 00:23:10,332
+Either way, the goal is the same:
+
+710
+00:23:10,332 --> 00:23:12,261
+bills covered, future funded,
+
+711
+00:23:12,261 --> 00:23:14,923
+and spending money you can enjoy without
+
+712
+00:23:14,923 --> 00:23:15,322
+worry.
+
+713
+00:23:15,502 --> 00:23:17,683
+Choose the version you'll still be using
+
+714
+00:23:17,683 --> 00:23:18,556
+a year from now.
+
+715
+00:23:18,905 --> 00:23:21,792
+What if your income changes every month,
+
+716
+00:23:21,792 --> 00:23:23,957
+like freelancers, gig workers,
+
+717
+00:23:23,957 --> 00:23:25,833
+salespeople on commission,
+
+718
+00:23:25,833 --> 00:23:27,276
+or seasonal workers?
+
+719
+00:23:27,456 --> 00:23:29,188
+The system still works,
+
+720
+00:23:29,188 --> 00:23:30,393
+with one change.
+
+721
+00:23:30,573 --> 00:23:31,860
+Add a fifth account:
+
+722
+00:23:31,860 --> 00:23:32,826
+a holding tank.
+
+723
+00:23:33,175 --> 00:23:35,613
+All income goes into the holding tank
+
+724
+00:23:35,613 --> 00:23:36,008
+first.
+
+725
+00:23:36,188 --> 00:23:38,433
+Then, on the same day each month,
+
+726
+00:23:38,433 --> 00:23:40,881
+you pay yourself a fixed salary from
+
+727
+00:23:40,881 --> 00:23:43,534
+it, based on a conservative estimate of
+
+728
+00:23:43,534 --> 00:23:44,350
+your income.
+
+729
+00:23:44,530 --> 00:23:47,222
+That salary flows into the four accounts
+
+730
+00:23:47,222 --> 00:23:47,827
+as usual.
+
+731
+00:23:48,007 --> 00:23:49,174
+In good months,
+
+732
+00:23:49,174 --> 00:23:50,341
+the tank grows.
+
+733
+00:23:50,521 --> 00:23:51,513
+In slow months,
+
+734
+00:23:51,513 --> 00:23:53,365
+it keeps your salary steady.
+
+735
+00:23:53,715 --> 00:23:55,721
+Aim to build the holding tank to
+
+736
+00:23:55,721 --> 00:23:57,538
+at least one or two months of
+
+737
+00:23:57,538 --> 00:23:59,857
+your salary, on top of your emergency
+
+738
+00:23:59,857 --> 00:24:00,170
+fund.
+
+739
+00:24:00,350 --> 00:24:02,363
+And if you're self employed,
+
+740
+00:24:02,363 --> 00:24:04,520
+set aside money for taxes in a
+
+741
+00:24:04,520 --> 00:24:07,251
+separate bucket, since you may need to
+
+742
+00:24:07,251 --> 00:24:10,486
+make quarterly estimated payments to the IRS.
+
+743
+00:24:10,836 --> 00:24:12,880
+Couples have extra challenges:
+
+744
+00:24:12,880 --> 00:24:14,651
+different spending styles,
+
+745
+00:24:14,651 --> 00:24:17,988
+different incomes, and sometimes different goals.
+
+746
+00:24:18,168 --> 00:24:20,485
+A common approach is yours,
+
+747
+00:24:20,485 --> 00:24:21,686
+mine and ours.
+
+748
+00:24:21,866 --> 00:24:25,149
+Shared bills, savings and investing come from
+
+749
+00:24:25,149 --> 00:24:26,243
+a joint system.
+
+750
+00:24:26,423 --> 00:24:29,277
+Each person also gets personal spending money
+
+751
+00:24:29,277 --> 00:24:30,800
+with no questions asked.
+
+752
+00:24:31,149 --> 00:24:33,841
+How much each person contributes can be
+
+753
+00:24:33,841 --> 00:24:36,118
+equal, or proportional to income.
+
+754
+00:24:36,298 --> 00:24:38,121
+There's no single right answer.
+
+755
+00:24:38,301 --> 00:24:40,235
+What matters is that it feels fair
+
+756
+00:24:40,235 --> 00:24:41,088
+to both of you.
+
+757
+00:24:41,268 --> 00:24:44,240
+The monthly money meeting keeps everything transparent.
+
+758
+00:24:44,589 --> 00:24:46,075
+Which tool should you use?
+
+759
+00:24:46,255 --> 00:24:48,159
+Honestly, any of them can work.
+
+760
+00:24:48,339 --> 00:24:50,877
+Budgeting apps can link your accounts and
+
+761
+00:24:50,877 --> 00:24:52,981
+categorize spending automatically,
+
+762
+00:24:52,981 --> 00:24:54,528
+though some charge a fee.
+
+763
+00:24:54,708 --> 00:24:57,199
+A simple spreadsheet is free and fully
+
+764
+00:24:57,199 --> 00:24:58,051
+customizable.
+
+765
+00:24:58,231 --> 00:25:01,111
+And cash envelopes work well for people
+
+766
+00:25:01,111 --> 00:25:02,956
+who overspend with cards.
+
+767
+00:25:03,306 --> 00:25:05,689
+The four account system works with all
+
+768
+00:25:05,689 --> 00:25:07,758
+of them, because most of the work
+
+769
+00:25:07,758 --> 00:25:10,015
+is done by the account structure and
+
+770
+00:25:10,015 --> 00:25:11,770
+automation, not by tracking.
+
+771
+00:25:11,950 --> 00:25:13,668
+The tool is just a window.
+
+772
+00:25:13,848 --> 00:25:15,392
+The system is the engine.
+
+773
+00:25:15,742 --> 00:25:18,194
+Now, if your budget doesn't balance yet,
+
+774
+00:25:18,194 --> 00:25:19,910
+where do you find the money?
+
+775
+00:25:20,090 --> 00:25:23,148
+Here's a quick category by category guide,
+
+776
+00:25:23,148 --> 00:25:25,477
+from biggest to smallest impact.
+
+777
+00:25:25,827 --> 00:25:26,524
+Housing.
+
+778
+00:25:26,704 --> 00:25:28,411
+It's usually the biggest lever.
+
+779
+00:25:28,591 --> 00:25:30,620
+Options include a roommate,
+
+780
+00:25:30,620 --> 00:25:33,175
+a cheaper unit at your next lease,
+
+781
+00:25:33,175 --> 00:25:36,633
+negotiating rent, or refinancing a mortgage if
+
+782
+00:25:36,633 --> 00:25:38,587
+rates and fees make sense.
+
+783
+00:25:38,767 --> 00:25:41,126
+Even a two hundred dollar monthly reduction
+
+784
+00:25:41,126 --> 00:25:42,772
+is twenty four hundred a year.
+
+785
+00:25:43,122 --> 00:25:44,318
+Transportation.
+
+786
+00:25:44,498 --> 00:25:45,747
+Keep cars longer,
+
+787
+00:25:45,747 --> 00:25:47,289
+avoid large payments,
+
+788
+00:25:47,289 --> 00:25:50,447
+compare insurance quotes every year or two,
+
+789
+00:25:50,447 --> 00:25:53,752
+and consider whether a household really needs
+
+790
+00:25:53,752 --> 00:25:54,413
+two cars.
+
+791
+00:25:54,593 --> 00:25:55,666
+For some people,
+
+792
+00:25:55,666 --> 00:25:58,280
+public transit or biking for some trips
+
+793
+00:25:58,280 --> 00:26:00,224
+can save a surprising amount.
+
+794
+00:26:00,574 --> 00:26:00,969
+Food.
+
+795
+00:26:01,149 --> 00:26:03,081
+Plan meals, cook in batches,
+
+796
+00:26:03,081 --> 00:26:04,254
+shop with a list,
+
+797
+00:26:04,254 --> 00:26:05,911
+and limit delivery apps,
+
+798
+00:26:05,911 --> 00:26:08,188
+whose fees and markups can add up
+
+799
+00:26:08,188 --> 00:26:08,533
+fast.
+
+800
+00:26:08,713 --> 00:26:10,420
+You don't have to stop eating out.
+
+801
+00:26:10,600 --> 00:26:12,499
+Just decide in advance how much of
+
+802
+00:26:12,499 --> 00:26:14,176
+your weekly number goes to it.
+
+803
+00:26:14,525 --> 00:26:15,512
+Insurance.
+
+804
+00:26:15,692 --> 00:26:18,156
+Shop your auto and home or renters
+
+805
+00:26:18,156 --> 00:26:19,605
+insurance regularly.
+
+806
+00:26:19,785 --> 00:26:22,592
+Consider higher deductibles if you have a
+
+807
+00:26:22,592 --> 00:26:24,029
+solid emergency fund,
+
+808
+00:26:24,029 --> 00:26:25,741
+which can lower premiums.
+
+809
+00:26:25,921 --> 00:26:27,711
+And make sure you're not paying for
+
+810
+00:26:27,711 --> 00:26:28,939
+coverage you don't need.
+
+811
+00:26:29,289 --> 00:26:31,890
+Phone, internet and utilities.
+
+812
+00:26:32,070 --> 00:26:34,949
+Call your providers and ask about cheaper
+
+813
+00:26:34,949 --> 00:26:36,354
+plans or promotions.
+
+814
+00:26:36,534 --> 00:26:39,176
+Many people overpay for phone data or
+
+815
+00:26:39,176 --> 00:26:41,317
+internet speed they don't use.
+
+816
+00:26:41,497 --> 00:26:44,212
+Prepaid phone plans can cost much less
+
+817
+00:26:44,212 --> 00:26:46,141
+than traditional contracts.
+
+818
+00:26:46,491 --> 00:26:47,594
+Subscriptions.
+
+819
+00:26:47,774 --> 00:26:50,137
+List every recurring charge from the last
+
+820
+00:26:50,137 --> 00:26:50,886
+three months.
+
+821
+00:26:51,066 --> 00:26:52,691
+Cancel what you don't use.
+
+822
+00:26:52,871 --> 00:26:56,107
+Rotate streaming services instead of keeping them
+
+823
+00:26:56,107 --> 00:26:56,900
+all at once.
+
+824
+00:26:57,080 --> 00:26:59,805
+Remember, the average person in that survey
+
+825
+00:26:59,805 --> 00:27:03,163
+underestimated their subscriptions by more than half.
+
+826
+00:27:03,513 --> 00:27:04,825
+And banking fees.
+
+827
+00:27:05,005 --> 00:27:08,808
+Overdraft fees, monthly maintenance fees and ATM
+
+828
+00:27:08,808 --> 00:27:10,392
+fees are pure waste.
+
+829
+00:27:10,572 --> 00:27:13,017
+Many banks and credit unions offer free
+
+830
+00:27:13,017 --> 00:27:14,647
+accounts with no minimums.
+
+831
+00:27:14,827 --> 00:27:17,005
+Switching can save hundreds of dollars a
+
+832
+00:27:17,005 --> 00:27:17,277
+year.
+
+833
+00:27:17,627 --> 00:27:20,031
+Mistake one: making the budget too tight.
+
+834
+00:27:20,211 --> 00:27:22,286
+A budget with no fun money and
+
+835
+00:27:22,286 --> 00:27:25,122
+no buffer usually collapses within weeks.
+
+836
+00:27:25,302 --> 00:27:27,255
+Plan for a life you actually want
+
+837
+00:27:27,255 --> 00:27:27,728
+to live.
+
+838
+00:27:28,078 --> 00:27:31,190
+Mistake two: forgetting irregular expenses.
+
+839
+00:27:31,370 --> 00:27:33,608
+This is the number one reason budgets
+
+840
+00:27:33,608 --> 00:27:33,970
+break.
+
+841
+00:27:34,150 --> 00:27:35,683
+Sinking funds solve it.
+
+842
+00:27:36,033 --> 00:27:38,715
+Mistake three: too many categories.
+
+843
+00:27:38,895 --> 00:27:41,751
+Thirty categories means thirty decisions.
+
+844
+00:27:41,931 --> 00:27:44,225
+Most people do better with a handful
+
+845
+00:27:44,225 --> 00:27:46,900
+of buckets and one weekly spending number.
+
+846
+00:27:47,250 --> 00:27:49,816
+Mistake four: budgeting on gross pay.
+
+847
+00:27:49,996 --> 00:27:52,121
+Your budget should be built on take
+
+848
+00:27:52,121 --> 00:27:54,854
+home pay, after taxes and payroll deductions,
+
+849
+00:27:54,854 --> 00:27:57,647
+because that's the money that actually reaches
+
+850
+00:27:57,647 --> 00:27:58,437
+your account.
+
+851
+00:27:58,786 --> 00:27:59,988
+And mistake five:
+
+852
+00:27:59,988 --> 00:28:01,259
+never updating it.
+
+853
+00:28:01,439 --> 00:28:02,426
+Life changes.
+
+854
+00:28:02,606 --> 00:28:04,781
+Raises, moves, kids,
+
+855
+00:28:04,781 --> 00:28:05,869
+new goals.
+
+856
+00:28:06,049 --> 00:28:07,593
+Your budget should change too.
+
+857
+00:28:07,773 --> 00:28:09,929
+The monthly meeting and the annual reset
+
+858
+00:28:09,929 --> 00:28:10,791
+keep it current.
+
+859
+00:28:11,141 --> 00:28:12,756
+Let's go back to Tom and see
+
+860
+00:28:12,756 --> 00:28:14,601
+what one year of the system did.
+
+861
+00:28:14,781 --> 00:28:15,565
+In month one,
+
+862
+00:28:15,565 --> 00:28:17,916
+he discovered he was spending about one
+
+863
+00:28:17,916 --> 00:28:20,750
+hundred eighty dollars a month on subscriptions
+
+864
+00:28:20,750 --> 00:28:23,222
+and food delivery fees he barely noticed.
+
+865
+00:28:23,402 --> 00:28:24,632
+He cut about half of it.
+
+866
+00:28:24,982 --> 00:28:25,876
+By month three,
+
+867
+00:28:25,876 --> 00:28:28,258
+his sinking funds covered a surprise car
+
+868
+00:28:28,258 --> 00:28:30,998
+repair and a friend's wedding without touching
+
+869
+00:28:30,998 --> 00:28:31,832
+a credit card.
+
+870
+00:28:32,012 --> 00:28:32,918
+By month six,
+
+871
+00:28:32,918 --> 00:28:35,635
+his emergency fund reached one month of
+
+872
+00:28:35,635 --> 00:28:36,262
+expenses.
+
+873
+00:28:36,442 --> 00:28:37,665
+And by month twelve,
+
+874
+00:28:37,665 --> 00:28:40,050
+he raised his investing transfer by one
+
+875
+00:28:40,050 --> 00:28:42,374
+hundred dollars a month after a raise.
+
+876
+00:28:42,724 --> 00:28:44,292
+Nothing dramatic happened.
+
+877
+00:28:44,472 --> 00:28:45,842
+No extreme cuts.
+
+878
+00:28:46,022 --> 00:28:47,125
+No windfall.
+
+879
+00:28:47,305 --> 00:28:49,560
+Just a system that quietly moved money
+
+880
+00:28:49,560 --> 00:28:51,519
+to the right places every payday.
+
+881
+00:28:51,699 --> 00:28:53,448
+That's what a budget that works looks
+
+882
+00:28:53,448 --> 00:28:53,684
+like.
+
+883
+00:28:54,034 --> 00:28:56,082
+If you already have a budget that
+
+884
+00:28:56,082 --> 00:28:58,005
+works, look for three upgrades.
+
+885
+00:28:58,185 --> 00:29:00,205
+Automate anything still manual.
+
+886
+00:29:00,385 --> 00:29:02,173
+Add sinking funds if you don't have
+
+887
+00:29:02,173 --> 00:29:02,429
+them.
+
+888
+00:29:02,609 --> 00:29:05,537
+And raise your savings and investing transfers
+
+889
+00:29:05,537 --> 00:29:07,638
+by at least one percent of income
+
+890
+00:29:07,638 --> 00:29:08,274
+this year.
+
+891
+00:29:08,624 --> 00:29:10,296
+Then consider simplifying.
+
+892
+00:29:10,476 --> 00:29:13,461
+Many experienced budgeters find that once their
+
+893
+00:29:13,461 --> 00:29:14,541
+habits are solid,
+
+894
+00:29:14,541 --> 00:29:16,955
+they can track less and automate more.
+
+895
+00:29:17,135 --> 00:29:19,099
+The goal is a system that takes
+
+896
+00:29:19,099 --> 00:29:20,430
+less time every year,
+
+897
+00:29:20,430 --> 00:29:21,001
+not more.
+
+898
+00:29:21,350 --> 00:29:23,238
+Here's how to set everything up in
+
+899
+00:29:23,238 --> 00:29:23,905
+one weekend.
+
+900
+00:29:24,085 --> 00:29:27,341
+Saturday morning: download ninety days of statements
+
+901
+00:29:27,341 --> 00:29:28,218
+and sort them.
+
+902
+00:29:28,398 --> 00:29:32,450
+Saturday afternoon: list irregular expenses and calculate
+
+903
+00:29:32,450 --> 00:29:34,156
+your true monthly costs.
+
+904
+00:29:34,506 --> 00:29:36,971
+Sunday morning: open any accounts you need
+
+905
+00:29:36,971 --> 00:29:38,849
+and create your savings buckets.
+
+906
+00:29:39,029 --> 00:29:42,510
+Sunday afternoon: set up the automatic transfers
+
+907
+00:29:42,510 --> 00:29:44,903
+for payday and autopay for bills.
+
+908
+00:29:45,083 --> 00:29:47,230
+Then write your weekly spending number on
+
+909
+00:29:47,230 --> 00:29:47,963
+a sticky note.
+
+910
+00:29:48,143 --> 00:29:48,723
+You're done.
+
+911
+00:29:49,072 --> 00:29:50,094
+Objection one.
+
+912
+00:29:50,274 --> 00:29:51,540
+I don't earn enough to budget.
+
+913
+00:29:51,720 --> 00:29:54,676
+Actually, a budget matters most when money
+
+914
+00:29:54,676 --> 00:29:57,350
+is tight, because every dollar counts.
+
+915
+00:29:57,530 --> 00:29:59,660
+Even if your savings are small at
+
+916
+00:29:59,660 --> 00:30:02,111
+first, the system prevents overdrafts,
+
+917
+00:30:02,111 --> 00:30:03,918
+late fees and surprise debt,
+
+918
+00:30:03,918 --> 00:30:06,240
+which can save hundreds of dollars a
+
+919
+00:30:06,240 --> 00:30:06,563
+year.
+
+920
+00:30:06,912 --> 00:30:08,085
+Objection two.
+
+921
+00:30:08,265 --> 00:30:09,028
+I earn plenty,
+
+922
+00:30:09,028 --> 00:30:10,227
+I don't need a budget.
+
+923
+00:30:10,407 --> 00:30:12,810
+Many high earners still live paycheck to
+
+924
+00:30:12,810 --> 00:30:15,513
+paycheck, because spending tends to rise with
+
+925
+00:30:15,513 --> 00:30:15,933
+income.
+
+926
+00:30:16,113 --> 00:30:18,570
+A simple automated system makes sure a
+
+927
+00:30:18,570 --> 00:30:20,897
+high income actually becomes wealth.
+
+928
+00:30:21,246 --> 00:30:22,570
+And objection three.
+
+929
+00:30:22,750 --> 00:30:24,573
+Budgeting takes too much time.
+
+930
+00:30:24,753 --> 00:30:26,846
+The system in this video takes a
+
+931
+00:30:26,846 --> 00:30:28,023
+weekend to set up,
+
+932
+00:30:28,023 --> 00:30:29,266
+ten minutes a week,
+
+933
+00:30:29,266 --> 00:30:31,163
+about thirty minutes a month,
+
+934
+00:30:31,163 --> 00:30:32,798
+and one afternoon a year.
+
+935
+00:30:32,978 --> 00:30:35,131
+That's less time than most people spend
+
+936
+00:30:35,131 --> 00:30:36,566
+scrolling on a single day.
+
+937
+00:30:36,915 --> 00:30:38,979
+Let me answer the questions people ask
+
+938
+00:30:38,979 --> 00:30:40,282
+me most about budgeting.
+
+939
+00:30:40,632 --> 00:30:41,457
+Question one.
+
+940
+00:30:41,637 --> 00:30:43,180
+What if my needs are more than
+
+941
+00:30:43,180 --> 00:30:43,901
+fifty percent?
+
+942
+00:30:44,081 --> 00:30:47,169
+That's common, especially in expensive cities.
+
+943
+00:30:47,349 --> 00:30:48,719
+Start where you are,
+
+944
+00:30:48,719 --> 00:30:50,912
+and look for one big change over
+
+945
+00:30:50,912 --> 00:30:52,420
+time, like a roommate,
+
+946
+00:30:52,420 --> 00:30:55,092
+a cheaper apartment at your next lease,
+
+947
+00:30:55,092 --> 00:30:56,463
+or a lower cost car.
+
+948
+00:30:56,643 --> 00:30:58,849
+Meanwhile, keep savings going,
+
+949
+00:30:58,849 --> 00:31:01,422
+even if it's ten percent instead of
+
+950
+00:31:01,422 --> 00:31:01,937
+twenty.
+
+951
+00:31:02,286 --> 00:31:03,204
+Question two.
+
+952
+00:31:03,384 --> 00:31:05,230
+Should I budget with credit cards?
+
+953
+00:31:05,410 --> 00:31:07,632
+If you pay the full balance every
+
+954
+00:31:07,632 --> 00:31:09,921
+month, cards can work fine and may
+
+955
+00:31:09,921 --> 00:31:10,797
+earn rewards.
+
+956
+00:31:10,977 --> 00:31:13,085
+But if you've ever carried a balance
+
+957
+00:31:13,085 --> 00:31:14,432
+or overspent with them,
+
+958
+00:31:14,432 --> 00:31:16,541
+using a debit card for your spending
+
+959
+00:31:16,541 --> 00:31:18,825
+account can make the system much safer.
+
+960
+00:31:19,174 --> 00:31:20,370
+Question three.
+
+961
+00:31:20,550 --> 00:31:22,321
+How do I budget for fun without
+
+962
+00:31:22,321 --> 00:31:22,663
+guilt?
+
+963
+00:31:22,843 --> 00:31:24,534
+Make fun a real line in your
+
+964
+00:31:24,534 --> 00:31:24,956
+budget.
+
+965
+00:31:25,136 --> 00:31:26,570
+When the money is planned,
+
+966
+00:31:26,570 --> 00:31:28,335
+spending it is part of the plan,
+
+967
+00:31:28,335 --> 00:31:29,107
+not a failure.
+
+968
+00:31:29,287 --> 00:31:31,660
+Many people find they enjoy fun money
+
+969
+00:31:31,660 --> 00:31:33,327
+more when it's guilt free.
+
+970
+00:31:33,677 --> 00:31:34,560
+Question four.
+
+971
+00:31:34,740 --> 00:31:36,145
+What if I'm paying off debt?
+
+972
+00:31:36,325 --> 00:31:38,986
+Put minimum payments in the Bills account,
+
+973
+00:31:38,986 --> 00:31:41,458
+and send extra payments from Savings or
+
+974
+00:31:41,458 --> 00:31:43,233
+directly from your paycheck.
+
+975
+00:31:43,413 --> 00:31:46,035
+Keep a small emergency fund while you
+
+976
+00:31:46,035 --> 00:31:47,027
+pay down debt,
+
+977
+00:31:47,027 --> 00:31:49,508
+so surprises don't create new debt.
+
+978
+00:31:49,857 --> 00:31:50,984
+And question five.
+
+979
+00:31:51,164 --> 00:31:53,486
+How long until it feels easy?
+
+980
+00:31:53,666 --> 00:31:54,785
+For many people,
+
+981
+00:31:54,785 --> 00:31:56,115
+about three months.
+
+982
+00:31:56,295 --> 00:31:59,082
+The first month is setup and surprises.
+
+983
+00:31:59,262 --> 00:32:00,783
+The second month you adjust.
+
+984
+00:32:00,963 --> 00:32:02,259
+By the third month,
+
+985
+00:32:02,259 --> 00:32:04,716
+the system often runs quietly in the
+
+986
+00:32:04,716 --> 00:32:05,467
+background.
+
+987
+00:32:05,817 --> 00:32:06,862
+Question six.
+
+988
+00:32:07,042 --> 00:32:08,944
+Should I use the fifty thirty twenty
+
+989
+00:32:08,944 --> 00:32:09,631
+rule exactly?
+
+990
+00:32:09,811 --> 00:32:11,588
+Use it as a starting point.
+
+991
+00:32:11,768 --> 00:32:13,595
+If you have high interest debt or
+
+992
+00:32:13,595 --> 00:32:14,758
+want to retire early,
+
+993
+00:32:14,758 --> 00:32:16,806
+you may want more than twenty percent
+
+994
+00:32:16,806 --> 00:32:18,246
+going to savings and debt.
+
+995
+00:32:18,426 --> 00:32:20,436
+If you live in an expensive city,
+
+996
+00:32:20,436 --> 00:32:22,385
+needs may be higher for a while.
+
+997
+00:32:22,565 --> 00:32:23,947
+Adjust it to your goals.
+
+998
+00:32:24,296 --> 00:32:25,214
+Question seven.
+
+999
+00:32:25,394 --> 00:32:27,182
+What about kids' expenses?
+
+1000
+00:32:27,362 --> 00:32:29,826
+Give them their own sinking funds:
+
+1001
+00:32:29,826 --> 00:32:31,856
+school supplies, activities,
+
+1002
+00:32:31,856 --> 00:32:33,306
+birthdays, clothing.
+
+1003
+00:32:33,486 --> 00:32:35,613
+Kids' costs are often irregular,
+
+1004
+00:32:35,613 --> 00:32:38,139
+so sinking funds make them much easier
+
+1005
+00:32:38,139 --> 00:32:38,803
+to handle.
+
+1006
+00:32:39,153 --> 00:32:40,233
+And question eight.
+
+1007
+00:32:40,413 --> 00:32:42,340
+Is it ever okay to stop budgeting?
+
+1008
+00:32:42,520 --> 00:32:45,224
+Some people with strong habits and plenty
+
+1009
+00:32:45,224 --> 00:32:47,663
+of margin move to a simpler approach:
+
+1010
+00:32:47,663 --> 00:32:50,102
+automate savings and investing first,
+
+1011
+00:32:50,102 --> 00:32:51,685
+pay bills automatically,
+
+1012
+00:32:51,685 --> 00:32:53,399
+and spend the rest freely.
+
+1013
+00:32:53,579 --> 00:32:54,763
+That's still a budget.
+
+1014
+00:32:54,943 --> 00:32:56,894
+It's just one that runs itself.
+
+1015
+00:32:57,243 --> 00:32:58,068
+Quick recap.
+
+1016
+00:32:58,248 --> 00:32:59,335
+The big three,
+
+1017
+00:32:59,335 --> 00:33:01,897
+housing, transportation and food,
+
+1018
+00:33:01,897 --> 00:33:04,691
+are around six of every ten dollars.
+
+1019
+00:33:04,871 --> 00:33:08,483
+Subscriptions and irregular costs are silent budget
+
+1020
+00:33:08,483 --> 00:33:09,121
+breakers.
+
+1021
+00:33:09,301 --> 00:33:12,155
+And our brains fight strict budgets,
+
+1022
+00:33:12,155 --> 00:33:14,058
+so build in flexibility,
+
+1023
+00:33:14,058 --> 00:33:16,278
+automation and real buckets.
+
+1024
+00:33:16,628 --> 00:33:17,882
+The twelve steps.
+
+1025
+00:33:18,062 --> 00:33:19,560
+Track ninety days.
+
+1026
+00:33:19,740 --> 00:33:21,725
+Calculate your true monthly costs.
+
+1027
+00:33:21,905 --> 00:33:23,124
+Choose a framework.
+
+1028
+00:33:23,304 --> 00:33:24,732
+Set up four accounts.
+
+1029
+00:33:24,912 --> 00:33:26,329
+Automate the payday flow.
+
+1030
+00:33:26,509 --> 00:33:28,483
+Use a weekly spending number.
+
+1031
+00:33:28,663 --> 00:33:30,241
+Build sinking funds.
+
+1032
+00:33:30,421 --> 00:33:32,128
+Build your emergency fund.
+
+1033
+00:33:32,308 --> 00:33:33,864
+Do a ten minute weekly check.
+
+1034
+00:33:34,044 --> 00:33:35,762
+Hold a monthly money meeting.
+
+1035
+00:33:35,942 --> 00:33:38,136
+Handle overspending without guilt.
+
+1036
+00:33:38,316 --> 00:33:39,919
+And do an annual reset.
+
+1037
+00:33:40,268 --> 00:33:41,395
+One last thought.
+
+1038
+00:33:41,575 --> 00:33:43,467
+The perfect budget doesn't exist.
+
+1039
+00:33:43,647 --> 00:33:45,309
+The one that works is the one
+
+1040
+00:33:45,309 --> 00:33:46,455
+that fits your life,
+
+1041
+00:33:46,455 --> 00:33:47,772
+runs mostly on its own,
+
+1042
+00:33:47,772 --> 00:33:49,835
+and gets a little better every year.
+
+1043
+00:33:50,015 --> 00:33:52,356
+Start simple, automate what you can,
+
+1044
+00:33:52,356 --> 00:33:54,891
+and give yourself permission to adjust.
+
+1045
+00:33:55,071 --> 00:33:56,929
+That's how a budget turns into a
+
+1046
+00:33:56,929 --> 00:33:59,077
+habit, and a habit turns into wealth.
+
+1047
+00:33:59,426 --> 00:34:01,435
+And remember why you're doing this.
+
+1048
+00:34:01,615 --> 00:34:02,939
+Not for the spreadsheet.
+
+1049
+00:34:03,119 --> 00:34:05,491
+For the emergency that doesn't become a
+
+1050
+00:34:05,491 --> 00:34:05,917
+crisis.
+
+1051
+00:34:06,097 --> 00:34:07,559
+For the trip you can pay for
+
+1052
+00:34:07,559 --> 00:34:07,977
+in cash.
+
+1053
+00:34:08,157 --> 00:34:10,421
+For the retirement that arrives on your
+
+1054
+00:34:10,421 --> 00:34:10,770
+terms.
+
+1055
+00:34:10,950 --> 00:34:12,666
+Every dollar with a job is a
+
+1056
+00:34:12,666 --> 00:34:14,015
+step toward that life.
+
+1057
+00:34:14,364 --> 00:34:17,279
+This weekend, do steps one and two.
+
+1058
+00:34:17,459 --> 00:34:19,891
+Download ninety days of statements,
+
+1059
+00:34:19,891 --> 00:34:22,532
+and calculate your true monthly costs.
+
+1060
+00:34:22,712 --> 00:34:24,651
+Then set up the four accounts.
+
+1061
+00:34:24,831 --> 00:34:26,846
+And watch my video on building an
+
+1062
+00:34:26,846 --> 00:34:28,372
+emergency fund from zero.
+
+1063
+00:34:28,552 --> 00:34:31,037
+It's the first bucket this system fills.
+
+1064
+00:34:31,217 --> 00:34:32,378
+I'm Ryan Rover.
+
+1065
+00:34:32,558 --> 00:34:33,753
+See you in the next one.
