@@ -1,0 +1,4 @@
+- Bureau of Labor Statistics, Occupational Outlook Handbook (employment projections for trades, care and personal services)
+- U.S. Census Bureau, population projections (growth of the 65 and older population)
+- U.S. Small Business Administration, small business data
+- AI profit example: simplified illustration ($1M revenue, 10% margin, $30,000 cost savings, about $20,000 added profit)
