@@ -1,0 +1,1042 @@
+{
+ "id": "video37",
+ "angle": "stocks vs real estate vs business in 20 lessons, from 3 angles: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "Stocks vs Real Estate vs Business: Which Builds Wealth Faster",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. If you ask ten wealthy people how they built their money, you'll hear three answers over and over. Stocks. Real estate. Or a business. Each one has created millions of millionaires. Each one has also ruined people who didn't understand it. So which one builds wealth faster? Today we're putting all three side by side, with real numbers, real psychology and a practical plan for choosing.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here's the short answer. There isn't one winner. Stocks are the easiest and most hands off. Real estate adds leverage and steady rent, but takes work and cash. A business has the highest potential, and the highest chance of failure. The best choice depends on your money, your time and your stomach for risk.",
+   "card": {
+    "type": "stat",
+    "label": "Three roads to wealth",
+    "big": "3",
+    "sub": "stocks, real estate, business"
+   },
+   "caption": "",
+   "cuts": 1,
+   "short_hook": "Stocks, real estate or a business. Which one makes you rich faster?"
+  },
+  {
+   "text": "Think of them like three vehicles. Stocks are a reliable train. You buy a ticket, sit down and let it carry you, slowly but steadily, with occasional scary bumps. Real estate is a truck. It can carry a heavy load, especially with borrowed fuel, but you have to drive and maintain it yourself. A business is a race car. It can go incredibly fast, but it crashes often, and the driver needs real skill.",
+   "query": "Train, truck and race car",
+   "caption": "TRAIN, TRUCK, RACE CAR",
+   "cuts": 5
+  },
+  {
+   "text": "We'll compare them from three angles. First, the numbers. Long term returns, leverage, failure rates, costs, taxes and time. Second, the psychology. Why people fall in love with one and fear another, often for the wrong reasons. And third, the playbook. How to choose and combine them based on your stage of life. Reminder, this is education, not financial advice, and all examples are illustrations, not promises.",
+   "query": "Three roads splitting",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the numbers. And first, the one most people can start with today. Stocks.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Our numbers. Stock market history comes from sources like S and P Dow Jones Indices. Long run comparisons of housing and stock returns come from the research paper The Rate of Return on Everything by Oscar Jorda and colleagues. Home price history comes from Robert Shiller's work and the S and P CoreLogic Case Shiller indices. Business survival data comes from the U.S. Bureau of Labor Statistics. Growth examples use stated average returns, as illustrations, not promises.",
+   "query": "Research papers on desk",
+   "caption": "OUR NUMBERS",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Seven ways to compare stocks, real estate and business.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Lesson number one. Stocks have been a powerful long run engine.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Stocks: the long run engine",
+    "sub": "ownership with no effort"
+   },
+   "caption": "LESSON 1",
+   "cuts": 1,
+   "chapter": "1. Stocks: the long run engine"
+  },
+  {
+   "text": "When you buy a broad stock index fund, you own a small piece of hundreds or thousands of companies. Those companies employ people, invent products and earn profits. Over long periods, those profits have pushed stock prices higher. Historically, the S and P five hundred has averaged roughly ten percent a year before inflation, including dividends, over many decades.",
+   "query": "Stock market chart long term",
+   "caption": "ABOUT 10% A YEAR HISTORICALLY",
+   "cuts": 3
+  },
+  {
+   "text": "Here's what that can look like. Fifty thousand dollars invested for twenty years at a seven percent average yearly return, a more conservative illustration, grows to roughly two hundred thousand dollars. At ten percent, roughly three hundred sixty six thousand. And you don't have to fix a roof, manage a tenant or hire an employee.",
+   "query": "Growing money pile",
+   "caption": "$50K TO $200K OR MORE",
+   "cuts": 3
+  },
+  {
+   "text": "The catch is volatility. Stocks can fall thirty, forty or even fifty percent in a bad market, and recoveries can take years. The long term average hides some very painful short term stretches.",
+   "query": "Red falling chart",
+   "caption": "THE PRICE IS VOLATILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Dividends are part of that return too. Many companies share profits with shareholders as dividends, and reinvesting them buys more shares. Over long periods, reinvested dividends have made up a meaningful share of the stock market's total return. So stock investors get two engines working at once, rising company values and a growing stream of dividends.",
+   "query": "Dividend reinvestment chart",
+   "caption": "TWO ENGINES",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks shine on one measure above all, effort. With low cost index funds and automatic investing, they can build wealth while you focus on your career and your life. No other path on this list asks for less of your time.",
+   "query": "Relaxed person with coffee",
+   "caption": "THE LOWEST EFFORT PATH",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number two. Real estate returns come from rent and appreciation.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Real estate: rent plus growth",
+    "sub": "two kinds of return"
+   },
+   "caption": "LESSON 2",
+   "cuts": 1,
+   "chapter": "2. Real estate: rent plus growth"
+  },
+  {
+   "text": "Many people think of real estate returns as just rising home prices. But Robert Shiller's research found that, adjusted for inflation, U.S. home prices rose only modestly over much of the twentieth century. Price growth alone hasn't usually been the main story.",
+   "query": "Old and new house photos",
+   "caption": "PRICES ALONE GREW MODESTLY",
+   "cuts": 3
+  },
+  {
+   "text": "The bigger story for investors is rent. A rental property can produce income every month on top of any appreciation. A major study called The Rate of Return on Everything, covering sixteen countries from 1870 to 2015, found that housing's total return, rent plus price growth, was roughly comparable to stocks over the long run, with less volatility.",
+   "query": "Rent check and house",
+   "caption": "RENT PLUS GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "But those research returns are averages, before many real world costs. Property taxes, insurance, repairs, vacancies, property management and the time you spend all reduce what an individual landlord actually earns.",
+   "query": "Repair bills on table",
+   "caption": "COSTS ARE REAL",
+   "cuts": 3
+  },
+  {
+   "text": "There's also the question of what you'd pay to live there yourself. A home you live in saves you rent, which is a real economic return even though no check arrives. Economists call this imputed rent. It's one reason owning a home can make financial sense over long periods, even when the price itself grows slowly.",
+   "query": "Family in living room",
+   "caption": "SAVED RENT IS A RETURN",
+   "cuts": 3
+  },
+  {
+   "text": "Real estate is also local. One neighborhood can boom while another declines. Unlike an index fund, a single property means your result depends heavily on one location, one building and one set of tenants.",
+   "query": "Map with neighborhoods",
+   "caption": "REAL ESTATE IS LOCAL",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number three. Leverage magnifies results, both ways.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Leverage",
+    "sub": "borrowed money magnifies everything"
+   },
+   "caption": "LESSON 3",
+   "cuts": 1,
+   "chapter": "3. Leverage"
+  },
+  {
+   "text": "Real estate's secret weapon is leverage. Most people buy property with a mortgage. Say you buy a three hundred thousand dollar property with sixty thousand dollars down. If its value rises four percent in a year, that's twelve thousand dollars, which is a twenty percent gain on your sixty thousand, before costs.",
+   "query": "Mortgage documents and keys",
+   "caption": "4% GROWTH, 20% ON YOUR CASH",
+   "cuts": 3,
+   "short_hook": "This is the secret weapon of real estate, and it cuts both ways."
+  },
+  {
+   "text": "But leverage works in reverse too. If the property falls ten percent, you lose thirty thousand dollars, half of your down payment, on paper. During the housing crash around 2008, many owners ended up owing more than their homes were worth.",
+   "query": "Foreclosure sign",
+   "caption": "A 10% DROP, HALF YOUR CASH",
+   "cuts": 3
+  },
+  {
+   "text": "You can also use leverage with stocks, through margin loans, but most experts strongly discourage it for regular investors, because margin calls can force you to sell at the worst time. Mortgages are generally more forgiving, with fixed payments and no daily price checks.",
+   "query": "Margin warning on screen",
+   "caption": "MORTGAGES ARE MORE FORGIVING",
+   "cuts": 3
+  },
+  {
+   "text": "Leverage also changes how you should measure returns. Real estate investors often talk about cash on cash return, the yearly cash profit divided by the cash they put in. A property earning three thousand dollars a year after all costs on sixty thousand dollars down has a five percent cash on cash return, before any appreciation or mortgage paydown.",
+   "query": "Calculator with rental numbers",
+   "caption": "CASH ON CASH RETURN",
+   "cuts": 3
+  },
+  {
+   "text": "The key to safe leverage is cash flow and reserves. If the rent covers the mortgage and costs, and you have cash for emergencies, you can survive a downturn. If not, leverage can turn a bad year into a disaster.",
+   "query": "Emergency cash reserve",
+   "caption": "CASH FLOW PLUS RESERVES",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number four. A business has the highest ceiling, and the highest risk.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Business: highest ceiling, highest risk",
+    "sub": "the race car"
+   },
+   "caption": "LESSON 4",
+   "cuts": 1,
+   "chapter": "4. Business: highest ceiling, highest risk"
+  },
+  {
+   "text": "Many of the wealthiest people in the world built their fortunes by owning businesses. Federal Reserve survey data has shown that privately owned businesses make up a large share of wealth for the richest households. No other path can turn a small amount of money into so much, so fast.",
+   "query": "Successful founder in office",
+   "caption": "THE HIGHEST CEILING",
+   "cuts": 3,
+   "short_hook": "About half of new businesses don't survive five years. But the winners win big."
+  },
+  {
+   "text": "But the failure rate is high. According to the Bureau of Labor Statistics, roughly one in five new businesses fail in their first year, and around half don't make it to year five. Many owners lose their savings and years of effort.",
+   "query": "Closed shop sign",
+   "caption": "ABOUT HALF FAIL BY YEAR 5",
+   "cuts": 3
+  },
+  {
+   "text": "A successful business also creates value in two ways. It produces income, and it can be sold. Small businesses often sell for a few times their yearly profit, so building a profitable business also builds an asset you can eventually cash in.",
+   "query": "Business sale handshake",
+   "caption": "INCOME PLUS A SELLABLE ASSET",
+   "cuts": 3
+  },
+  {
+   "text": "Business returns also depend on what you pay yourself. Many small business owners earn something closer to a salary for long hours, especially in the early years. The real wealth often comes later, when the business can run without the owner every day, or when it's sold. A business that depends completely on you is more like a demanding job than an asset.",
+   "query": "Owner leaving shop with manager in charge",
+   "caption": "CAN IT RUN WITHOUT YOU?",
+   "cuts": 3
+  },
+  {
+   "text": "The business path rewards skill, effort and some luck. It's less of an investment and more of a second career. For the right person, it can be life changing. For the wrong one, it can be devastating.",
+   "query": "Entrepreneur working late",
+   "caption": "MORE CAREER THAN INVESTMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number five. Costs and friction differ enormously.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Costs and friction",
+    "sub": "what it costs to get in and out"
+   },
+   "caption": "LESSON 5",
+   "cuts": 1,
+   "chapter": "5. Costs and friction"
+  },
+  {
+   "text": "Buying a broad index fund can cost almost nothing. Many brokerages charge no commissions, and the best funds charge only a few hundredths of a percent a year. You can buy or sell in seconds.",
+   "query": "Phone with zero commission",
+   "caption": "STOCKS: NEARLY FREE",
+   "cuts": 3
+  },
+  {
+   "text": "Real estate is expensive to buy and sell. Closing costs, inspections, loan fees, agent commissions and moving costs can add up to a significant percentage of the property's price when you include both buying and selling. That's why short holding periods often lose money.",
+   "query": "Closing documents with fees",
+   "caption": "REAL ESTATE: EXPENSIVE TO TRADE",
+   "cuts": 3
+  },
+  {
+   "text": "Businesses can be the most expensive of all to start. Equipment, inventory, rent, licenses, marketing and months of low or no income. Many businesses take years to become profitable.",
+   "query": "Startup expenses list",
+   "caption": "BUSINESS: COSTLY TO START",
+   "cuts": 3
+  },
+  {
+   "text": "There are ongoing costs too. Index funds charge a small yearly expense ratio. Properties need regular maintenance, often estimated by landlords at around one percent of the property's value per year, though it varies widely. Businesses face rising rent, wages, software and insurance costs. Always count ongoing costs, not just the price of getting in.",
+   "query": "Monthly bills on table",
+   "caption": "ONGOING COSTS COUNT",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson is that friction rewards patience. The more expensive an investment is to buy and sell, the longer you need to hold it to come out ahead.",
+   "query": "Hourglass",
+   "caption": "FRICTION REWARDS PATIENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number six. Each path has different tax advantages.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Taxes",
+    "sub": "each path has its own breaks"
+   },
+   "caption": "LESSON 6",
+   "cuts": 1,
+   "chapter": "6. Taxes"
+  },
+  {
+   "text": "Stocks can be held in tax advantaged accounts like a four oh one k, IRA or Roth IRA. In regular accounts, gains aren't taxed until you sell, and long term gains usually get lower rates. That's a powerful, simple tax setup.",
+   "query": "Retirement account statement",
+   "caption": "STOCKS: TAX ADVANTAGED ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Real estate investors can deduct expenses and depreciation, which can reduce taxable rental income. Some can defer gains by exchanging one investment property for another through a 1031 exchange. And homeowners can often exclude a large amount of gain when selling a primary residence, if they meet the rules.",
+   "query": "Rental property with tax forms",
+   "caption": "REAL ESTATE: DEPRECIATION AND MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Business owners can deduct ordinary and necessary business expenses, may qualify for special deductions, and can open retirement plans like a solo four oh one k. But business taxes are complex and often require professional help.",
+   "query": "Accountant with business owner",
+   "caption": "BUSINESS: DEDUCTIONS AND PLANS",
+   "cuts": 3
+  },
+  {
+   "text": "The simplest tax advantage of all may be the Roth IRA. Qualified withdrawals, including decades of growth, can be completely tax free. For most people, maximizing tax advantaged retirement accounts is the first and easiest tax move, no matter which of the three paths they eventually take.",
+   "query": "Roth IRA document",
+   "caption": "THE SIMPLEST TAX BREAK",
+   "cuts": 3
+  },
+  {
+   "text": "Tax rules change often and have many conditions. Check current IRS guidance or a tax professional before relying on any of these.",
+   "query": "IRS website",
+   "caption": "CHECK CURRENT RULES",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number seven. Count your time, and how fast you can get your money out.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Time and liquidity",
+    "sub": "return per hour"
+   },
+   "caption": "LESSON 7",
+   "cuts": 1,
+   "chapter": "7. Time and liquidity"
+  },
+  {
+   "text": "Returns don't tell the whole story. If a rental earns two thousand dollars more a year than an index fund, but takes two hundred hours of your time, you're effectively earning ten dollars an hour for that extra work. It's worth asking what your time is worth.",
+   "query": "Clock and money",
+   "caption": "RETURN PER HOUR",
+   "cuts": 3
+  },
+  {
+   "text": "Liquidity matters too. You can sell index fund shares on almost any business day. Selling a property can take months. Selling a business can take a year or more, and sometimes it can't be sold at all.",
+   "query": "For sale sign waiting",
+   "caption": "HOW FAST CAN YOU GET OUT?",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks are high liquidity and low time. Real estate is lower liquidity and medium time. A business is usually the lowest liquidity and highest time. That doesn't make one better. It makes them suited to different people.",
+   "query": "Comparison chart",
+   "caption": "DIFFERENT TRADE OFFS",
+   "cuts": 3
+  },
+  {
+   "text": "Time can also be bought. Landlords can hire property managers, often for a percentage of the rent. Business owners can hire employees and managers. That frees time, but it also reduces returns. The question is always whether the extra return is worth the extra time, or whether you'd rather pay to get your time back.",
+   "query": "Property manager with keys",
+   "caption": "YOU CAN BUY TIME BACK",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Estimate how many hours a month you could realistically give to building wealth outside your job. Your answer is a big clue about which path fits you.",
+   "query": "Person with calendar",
+   "caption": "HOW MUCH TIME DO YOU HAVE?",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle one. Stocks as the long run engine, real estate's rent plus growth, leverage, business risk and reward, costs, taxes, and time and liquidity. Now angle two. The psychology.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "People rarely choose stocks, real estate or a business based on a spreadsheet. They choose based on feelings, family stories and what feels safe. Here are seven psychological forces that shape these choices, sometimes in ways that cost money.",
+   "query": "Brain with three icons",
+   "caption": "FEELINGS DRIVE CHOICES",
+   "cuts": 3,
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Lesson number eight. Things you can touch feel safer.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "The comfort of something you can touch",
+    "sub": "tangible feels safer"
+   },
+   "caption": "LESSON 8",
+   "cuts": 1,
+   "chapter": "8. The comfort of something you can touch"
+  },
+  {
+   "text": "Many people trust real estate more than stocks because they can see it, walk through it and touch it. A house feels real. A stock feels like a number on a screen. That tangibility gives real estate a sense of safety and control.",
+   "query": "Hand touching brick wall",
+   "caption": "YOU CAN TOUCH IT",
+   "cuts": 3
+  },
+  {
+   "text": "But tangible doesn't automatically mean safer. A single property is concentrated in one location, and can face problems like major repairs, bad tenants or a local downturn. An index fund is spread across hundreds of businesses.",
+   "query": "Single house versus many companies",
+   "caption": "TANGIBLE ISN'T ALWAYS SAFER",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks are also real. Each share represents ownership in actual companies, with buildings, products, workers and profits. It just doesn't feel that way because you don't see them.",
+   "query": "Factory and office buildings",
+   "caption": "STOCKS ARE REAL TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Real estate's sense of control is real in some ways. You can renovate, raise rents or improve management to increase value. With a stock index fund, you can't change anything about the companies. Some people love that control. Others find it exhausting. Knowing which kind of person you are helps you choose.",
+   "query": "Person renovating kitchen",
+   "caption": "CONTROL CAN BE A BURDEN",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look up the top ten holdings of an index fund. Seeing the real companies you own can make stocks feel as concrete as a building.",
+   "query": "Fund holdings list",
+   "caption": "SEE WHAT YOU OWN",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number nine. Real estate's volatility is hidden.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Invisible volatility",
+    "sub": "what you don't see can't scare you"
+   },
+   "caption": "LESSON 9",
+   "cuts": 1,
+   "chapter": "9. Invisible volatility"
+  },
+  {
+   "text": "Stock prices update every second, so you see every drop. Home values aren't priced every day. You might only learn your home's value when you sell or get an appraisal. So real estate feels calmer, even when values are falling.",
+   "query": "Stock ticker versus quiet house",
+   "caption": "HIDDEN VOLATILITY",
+   "cuts": 3,
+   "short_hook": "Your house drops in value all the time. You just don't see it."
+  },
+  {
+   "text": "During the housing crash around 2008, national home prices fell sharply, and in some areas far more. Many owners didn't feel it day to day, but it was real, and those who had to sell felt it painfully.",
+   "query": "Housing crash headline",
+   "caption": "HOUSES FALL TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Interestingly, that hidden volatility can help real estate investors. Because they don't see daily prices, they're less tempted to panic sell. Stock investors could learn from this by checking their accounts less often.",
+   "query": "Person not checking phone",
+   "caption": "SEEING LESS HELPS",
+   "cuts": 3
+  },
+  {
+   "text": "Private businesses have hidden volatility too. Because there's no daily price, owners often feel their business is worth a steady amount. But the value of a small business can swing a lot with the economy, competition and the owner's health. The lack of a price tag doesn't mean a lack of risk.",
+   "query": "Small business with no price tag",
+   "caption": "NO PRICE TAG, STILL RISK",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If daily stock prices make you anxious, check your investments only once a quarter. Treat them more like a house you own for decades.",
+   "query": "Quarterly calendar",
+   "caption": "CHECK LESS OFTEN",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number ten. Survivorship bias.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Survivorship bias",
+    "sub": "you only hear the winners"
+   },
+   "caption": "LESSON 10",
+   "cuts": 1,
+   "chapter": "10. Survivorship bias"
+  },
+  {
+   "text": "We hear about the founders who became billionaires and the landlords who built empires. We rarely hear about the businesses that closed or the investors who lost properties to foreclosure. That makes risky paths look safer than they are.",
+   "query": "Magazine cover of successful founder",
+   "caption": "YOU HEAR ABOUT WINNERS",
+   "cuts": 3
+  },
+  {
+   "text": "Survivorship bias makes business ownership look like a sure path to riches. But for every famous founder, there are many who tried and failed, often losing savings along the way.",
+   "query": "Many closed shops",
+   "caption": "MANY TRIED AND FAILED",
+   "cuts": 3
+  },
+  {
+   "text": "It also affects real estate. Social media is full of investors showing their portfolios, but rarely their vacancies, repair bills or sleepless nights.",
+   "query": "Real estate influencer video",
+   "caption": "THE HIDDEN STRUGGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks have survivorship bias too. Market indexes regularly remove failing companies and add growing ones. That's why owning the whole index works better than owning a few companies that look great today. The index automatically keeps up with the survivors, so you don't have to guess which ones they'll be.",
+   "query": "Index changes list",
+   "caption": "THE INDEX UPDATES ITSELF",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. When you hear a success story, ask how many people tried the same thing and didn't succeed. The answer changes how you see the odds.",
+   "query": "Person thinking",
+   "caption": "ASK ABOUT THE FAILURES",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this comparison is helping you think more clearly about your path, please subscribe to Ryan Rover Money. It's free, and it helps us keep making these. Now, lesson eleven.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Lesson number eleven. Choose what you can stick with.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "What you enjoy matters",
+    "sub": "fit beats returns"
+   },
+   "caption": "LESSON 11",
+   "cuts": 1,
+   "chapter": "11. What you enjoy matters"
+  },
+  {
+   "text": "The best investment is often the one you'll stick with for decades. If you hate dealing with repairs and tenants, real estate might make you miserable, even if it earns more on paper. If you hate risk, a business could keep you up at night.",
+   "query": "Person stressed with repairs",
+   "caption": "FIT MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Some people love the hands on work of real estate. Finding deals, renovating, managing properties. For them, it's not a chore. It's a satisfying project that also builds wealth.",
+   "query": "Person renovating happily",
+   "caption": "SOME LOVE THE WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Others love building something from nothing, solving problems and leading people. For them, business ownership can be deeply rewarding, beyond the money.",
+   "query": "Entrepreneur leading team",
+   "caption": "SOME LOVE BUILDING",
+   "cuts": 3
+  },
+  {
+   "text": "Your skills matter as much as your preferences. Someone who's handy with repairs has a real advantage in real estate. Someone with sales skills or deep industry knowledge has an edge in business. Someone with a busy career and no extra skills may get the best results from simple index funds. Use your strengths.",
+   "query": "Toolbelt and laptop",
+   "caption": "USE YOUR STRENGTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Ask yourself which of these you'd do even if the returns were the same. That's often the path you'll stick with longest.",
+   "query": "Person reflecting",
+   "caption": "WHAT WOULD YOU ENJOY?",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number twelve. Pass the sleep test.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Risk and sleep",
+    "sub": "the sleep test"
+   },
+   "caption": "LESSON 12",
+   "cuts": 1,
+   "chapter": "12. Risk and sleep"
+  },
+  {
+   "text": "A useful rule is the sleep test. If an investment keeps you awake at night, you probably have too much of it, or it's the wrong one for you. Stress leads to bad decisions, like panic selling or giving up too early.",
+   "query": "Person awake in bed",
+   "caption": "THE SLEEP TEST",
+   "cuts": 3
+  },
+  {
+   "text": "For some people, a stock market drop is terrifying, while a rental property feels calm. For others, the thought of a tenant calling about a broken heater at midnight is far worse. Risk isn't just math. It's personal.",
+   "query": "Phone ringing at night",
+   "caption": "RISK IS PERSONAL",
+   "cuts": 3
+  },
+  {
+   "text": "Business risk can be the most stressful of all, because your income, savings and identity can all be tied to one venture.",
+   "query": "Business owner worried",
+   "caption": "BUSINESS RISK IS PERSONAL",
+   "cuts": 3
+  },
+  {
+   "text": "Your risk tolerance also changes over time. Young people with stable jobs can often handle more ups and downs, because they have decades to recover. People close to retirement usually need more stability. A path that fits you at thirty may not fit you at sixty.",
+   "query": "Person at different ages",
+   "caption": "RISK TOLERANCE CHANGES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Imagine your investment drops by a third next year. Would you hold, sell or panic? Your honest answer tells you how much risk to take.",
+   "query": "Person imagining scenario",
+   "caption": "IMAGINE THE DROP",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number thirteen. Concentration builds fortunes, diversification protects them.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Concentration versus diversification",
+    "sub": "all eggs, one basket"
+   },
+   "caption": "LESSON 13",
+   "cuts": 1,
+   "chapter": "13. Concentration versus diversification"
+  },
+  {
+   "text": "Many great fortunes come from concentration, putting most of your money and effort into one business or one strategy. But concentration is also how many people lose everything.",
+   "query": "Eggs in one basket",
+   "caption": "CONCENTRATION CUTS BOTH WAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks through index funds are the most diversified option. A single rental property is concentrated. A business is often the most concentrated of all, with your job and savings in one place.",
+   "query": "Diversification spectrum",
+   "caption": "FROM DIVERSIFIED TO CONCENTRATED",
+   "cuts": 3
+  },
+  {
+   "text": "A common approach is to concentrate effort, but diversify savings. Work hard on your career or business, and invest your savings in diversified funds so one setback can't wipe you out.",
+   "query": "Person balancing work and savings",
+   "caption": "CONCENTRATE EFFORT, DIVERSIFY SAVINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Diversification across all three paths is possible too. Someone could own index funds, a rental property and a small side business. If one struggles, the others can carry the load. Many wealthy families deliberately spread their wealth this way over time.",
+   "query": "Three baskets of eggs",
+   "caption": "DIVERSIFY ACROSS PATHS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look at your total net worth. If more than half depends on one asset, consider whether you'd be okay if that asset failed.",
+   "query": "Net worth pie chart",
+   "caption": "CHECK YOUR CONCENTRATION",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number fourteen. Family stories shape your choices.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Family stories",
+    "sub": "what you grew up hearing"
+   },
+   "caption": "LESSON 14",
+   "cuts": 1,
+   "chapter": "14. Family stories"
+  },
+  {
+   "text": "If your parents lost money in the stock market, you may distrust stocks. If they built wealth with rental properties, real estate may feel natural. If they ran a business, you may see it as normal, or as too stressful.",
+   "query": "Family photo album",
+   "caption": "FAMILY STORIES",
+   "cuts": 3
+  },
+  {
+   "text": "These stories carry real lessons, but they're based on specific times and places. A crash your parents lived through doesn't predict your future, and their success doesn't guarantee yours.",
+   "query": "Old newspaper headlines",
+   "caption": "ONE TIME, ONE PLACE",
+   "cuts": 3
+  },
+  {
+   "text": "Morgan Housel, in The Psychology of Money, argues that people's investing decisions are shaped heavily by their personal experiences, especially early in life. Recognizing that helps you make choices based on evidence, not just memory.",
+   "query": "Book on desk",
+   "caption": "EXPERIENCE SHAPES BELIEFS",
+   "cuts": 3
+  },
+  {
+   "text": "Culture plays a role too. In some families and communities, owning land or a home is a top priority. In others, owning a business is a source of pride. These values are meaningful. Just make sure the financial side makes sense, so tradition and math work together.",
+   "query": "Family dinner conversation",
+   "caption": "VALUES AND MATH TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write down what you believe about stocks, real estate and business, and where each belief came from. Some may be worth keeping. Some may be worth questioning.",
+   "query": "Person writing beliefs",
+   "caption": "QUESTION YOUR BELIEFS",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle two. Tangible comfort, hidden volatility, survivorship bias, enjoyment, the sleep test, concentration and family stories. Now angle three. The playbook.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Here's the good news. You don't have to pick just one. Many wealthy people use all three at different stages. Here are six moves to choose and combine them wisely.",
+   "query": "Three puzzle pieces fitting",
+   "caption": "YOU CAN COMBINE THEM",
+   "cuts": 3,
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Move number fifteen. Start with a stock foundation.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Build the stock base first",
+    "sub": "the foundation"
+   },
+   "caption": "LESSON 15",
+   "cuts": 1,
+   "chapter": "15. Build the stock base first"
+  },
+  {
+   "text": "For most people, stocks through retirement accounts and index funds are the easiest place to start. You can begin with small amounts, get tax advantages and an employer match, and build wealth without extra work.",
+   "query": "Foundation of a building",
+   "caption": "THE FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "This base also protects you if you later try riskier paths. If a rental property or business struggles, you still have a growing, diversified portfolio behind you.",
+   "query": "Safety net",
+   "caption": "A SAFETY NET",
+   "cuts": 3
+  },
+  {
+   "text": "Many financial planners suggest getting your emergency fund and retirement savings on track before taking on large real estate or business risks.",
+   "query": "Checklist of basics",
+   "caption": "BASICS FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks also give you a benchmark. Once you're invested in a low cost index fund, every other opportunity has to beat it, after costs, taxes and your time. If a rental or business can't clearly beat simply adding more to your index fund, it may not be worth the extra risk and work.",
+   "query": "Benchmark chart",
+   "caption": "THE BENCHMARK TO BEAT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Make sure you're getting your full employer match and investing regularly in low cost index funds before putting big money into anything else.",
+   "query": "Retirement plan screen",
+   "caption": "MATCH AND INDEX FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Move number sixteen. Treat your home as a home first.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Your home is a home first",
+    "sub": "not your best investment"
+   },
+   "caption": "LESSON 16",
+   "cuts": 1,
+   "chapter": "16. Your home is a home first"
+  },
+  {
+   "text": "Many people consider their house their biggest investment. A home can build wealth through mortgage paydown and appreciation, and it provides stability. But it also costs money every year, in taxes, insurance, maintenance and interest.",
+   "query": "Family in front of home",
+   "caption": "A HOME COSTS MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Buying too much house is one of the most common ways people stall their wealth building. A huge mortgage can leave little money for investing.",
+   "query": "Large house with big mortgage",
+   "caption": "DON'T BUY TOO MUCH HOUSE",
+   "cuts": 3
+  },
+  {
+   "text": "Buy a home because you want stability and it fits your budget, not just because you expect it to be your best investment.",
+   "query": "Comfortable modest home",
+   "caption": "BUY FOR LIFE, NOT JUST RETURNS",
+   "cuts": 3
+  },
+  {
+   "text": "Renting isn't throwing money away, either. Renting can make sense if you might move soon, if buying costs much more than renting in your area, or if renting lets you invest the difference. The best choice depends on prices, your plans and your discipline to invest what you save.",
+   "query": "Apartment building",
+   "caption": "RENTING CAN MAKE SENSE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Before buying a home, calculate the full monthly cost, including taxes, insurance and maintenance, and make sure you can still invest for retirement.",
+   "query": "Home budget calculator",
+   "caption": "COUNT THE FULL COST",
+   "cuts": 3
+  },
+  {
+   "text": "Move number seventeen. Try real estate without going all in.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Try real estate the easy way",
+    "sub": "REITs and house hacking"
+   },
+   "caption": "LESSON 17",
+   "cuts": 1,
+   "chapter": "17. Try real estate the easy way"
+  },
+  {
+   "text": "Real estate investment trusts, or REITs, let you invest in portfolios of properties through the stock market. Many REIT index funds are low cost and diversified, giving you real estate exposure without being a landlord.",
+   "query": "REIT fund on screen",
+   "caption": "REITS",
+   "cuts": 3
+  },
+  {
+   "text": "Another option is house hacking. Buying a small multi unit property, living in one unit and renting the others. The rent can help cover your mortgage, and you learn the landlord business on a small scale.",
+   "query": "Duplex house",
+   "caption": "HOUSE HACKING",
+   "cuts": 3
+  },
+  {
+   "text": "If you buy a rental, run the numbers carefully. Include vacancies, repairs, insurance, taxes and management. Many new landlords overestimate rent and underestimate costs.",
+   "query": "Rental spreadsheet",
+   "caption": "RUN THE REAL NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Learn the landlord rules before you start. Many states and cities have specific rules about leases, deposits, repairs and evictions. Understanding them protects both you and your tenants, and helps you avoid costly mistakes.",
+   "query": "Lease agreement",
+   "caption": "LEARN THE RULES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Before buying any rental, track the local rents and expenses for three months. Patience in buying is one of real estate's most important skills.",
+   "query": "Notebook with rental data",
+   "caption": "STUDY BEFORE BUYING",
+   "cuts": 3
+  },
+  {
+   "text": "Move number eighteen. Start a business small.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Start a business small",
+    "sub": "keep your job at first"
+   },
+   "caption": "LESSON 18",
+   "cuts": 1,
+   "chapter": "18. Start a business small"
+  },
+  {
+   "text": "Many successful businesses start as side projects. Keeping your job while you test an idea reduces risk dramatically. You find out whether customers will pay before risking your savings.",
+   "query": "Person working on side project at night",
+   "caption": "START ON THE SIDE",
+   "cuts": 3
+  },
+  {
+   "text": "Service businesses, like consulting, cleaning, landscaping or design, often need little upfront money. You can start with skills you already have.",
+   "query": "Service business tools",
+   "caption": "START WITH YOUR SKILLS",
+   "cuts": 3
+  },
+  {
+   "text": "Set a limit on what you're willing to lose, in money and time. If the idea doesn't work within that limit, stop and try something else.",
+   "query": "Stop sign",
+   "caption": "SET A LOSS LIMIT",
+   "cuts": 3
+  },
+  {
+   "text": "Buying an existing small business is another route. Instead of starting from zero, you buy a company that already has customers and profits, often with a loan. It has its own risks, but it skips the most dangerous early stage. Some buyers use loan programs backed by the Small Business Administration.",
+   "query": "Business for sale sign",
+   "caption": "BUY INSTEAD OF START",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Find one paying customer for your idea before spending any significant money. A real customer is the best proof.",
+   "query": "First sale receipt",
+   "caption": "FIND ONE CUSTOMER",
+   "cuts": 3
+  },
+  {
+   "text": "Move number nineteen. Combine them into a flywheel.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Combine them",
+    "sub": "the wealth flywheel"
+   },
+   "caption": "LESSON 19",
+   "cuts": 1,
+   "chapter": "19. Combine them"
+  },
+  {
+   "text": "Many wealthy people follow a pattern. They earn income through a career or business, invest the profits in stocks and real estate, and let those assets grow. Each path feeds the others.",
+   "query": "Flywheel diagram",
+   "caption": "THE WEALTH FLYWHEEL",
+   "cuts": 3,
+   "short_hook": "The richest people often use all three. Here's the order."
+  },
+  {
+   "text": "A business owner might use profits to buy the building their business operates in, becoming their own landlord, while investing the rest in index funds for diversification.",
+   "query": "Business owner buying building",
+   "caption": "BE YOUR OWN LANDLORD",
+   "cuts": 3
+  },
+  {
+   "text": "A worker might max out retirement accounts, then buy a small rental, then later start a side business. Each step builds on the last.",
+   "query": "Steps upward",
+   "caption": "ONE STEP AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "The flywheel works in small steps too. A side hustle earning five hundred dollars a month, invested in index funds, can build a meaningful portfolio over time. Later, that portfolio could fund a down payment, or seed a bigger business. Small wins compound, just like money does.",
+   "query": "Small gears turning big gears",
+   "caption": "SMALL WINS COMPOUND",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Sketch your own flywheel. Where does your money come from today, and where could it go next?",
+   "query": "Person sketching plan",
+   "caption": "SKETCH YOUR FLYWHEEL",
+   "cuts": 3
+  },
+  {
+   "text": "Move number twenty. Choose based on your stage of life.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Choose by your stage",
+    "sub": "time, money and skill"
+   },
+   "caption": "LESSON 20",
+   "cuts": 1,
+   "chapter": "20. Choose by your stage"
+  },
+  {
+   "text": "Early on, you may have more time than money. Building skills, a career or a small business can grow your income, which is the fuel for everything else. Investing small amounts in index funds keeps compounding running.",
+   "query": "Young professional learning",
+   "caption": "EARLY: MORE TIME THAN MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "In the middle years, you may have more money and less time. Index funds, retirement accounts and perhaps a few well chosen properties can work, without demanding too much attention.",
+   "query": "Busy parent at work",
+   "caption": "MIDDLE: MORE MONEY, LESS TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Later in life, simplicity and income often matter more. Many people shift toward diversified investments and steady income, selling or simplifying properties and businesses.",
+   "query": "Retired couple relaxing",
+   "caption": "LATER: SIMPLICITY AND INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Whatever your stage, your income is your biggest wealth building tool. Growing it through skills, promotions or a business creates more money to invest in every path. Many people focus too much on returns and too little on increasing what they have to invest in the first place.",
+   "query": "Career ladder",
+   "caption": "INCOME IS THE FUEL",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write down your current stage, how much time and money you have, and your risk tolerance. Then choose the path that fits now, knowing you can change later.",
+   "query": "Planning worksheet",
+   "caption": "CHOOSE FOR NOW",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine three friends, each with fifty thousand dollars at age thirty. The first puts it in a low cost index fund and keeps investing monthly. Over twenty years at a seven percent average yearly return, that first fifty thousand alone could grow to roughly two hundred thousand dollars, with almost no extra effort.",
+   "query": "Friend with laptop",
+   "caption": "FRIEND 1: STOCKS",
+   "cuts": 3,
+   "chapter": "Three friends",
+   "short_hook": "Three friends picked three different paths. Here's what happened."
+  },
+  {
+   "text": "The second uses it as a down payment on a small rental. Some years bring vacancies and big repairs. Others bring rising rents. After twenty years, the mortgage is much smaller, rent has grown, and the property may be worth much more. Their result depends heavily on the location, the financing and how well they managed it.",
+   "query": "Friend with rental house",
+   "caption": "FRIEND 2: REAL ESTATE",
+   "cuts": 3
+  },
+  {
+   "text": "The third starts a business. The first attempt fails and costs half the money. The second attempt slowly grows into a profitable company. By fifty, they might be the wealthiest of the three, or they might have nothing. That's the honest range of outcomes for business owners.",
+   "query": "Friend in small business",
+   "caption": "FRIEND 3: BUSINESS",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson isn't that one friend was right. It's that each path has a different shape. Stocks are steady and simple. Real estate is slower and hands on, with leverage. Business has the widest range of outcomes. Knowing that shape helps you choose with open eyes.",
+   "query": "Three friends together",
+   "caption": "DIFFERENT SHAPES",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Which has the best returns historically? Over long periods, research suggests stocks and housing, including rent, have had broadly similar total returns, with business ownership having the widest range, from total loss to enormous gains. The best choice depends on you.",
+   "query": "Comparison chart",
+   "caption": "WHICH RETURNS MORE?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question two. Can I invest in real estate without buying property? Yes. REITs and real estate index funds let you invest in property portfolios through a brokerage account, often with low costs and easy liquidity.",
+   "query": "REIT on phone",
+   "caption": "REAL ESTATE WITHOUT PROPERTY",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Should I quit my job to start a business? Usually not right away. Many successful founders start on the side, test their idea and build savings before making the leap.",
+   "query": "Person at office desk",
+   "caption": "QUIT YOUR JOB?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. What if I don't have much money? Start with what's available. A retirement account with an employer match, small monthly index fund investments and building skills that raise your income. Bigger paths can come later.",
+   "query": "Small savings jar",
+   "caption": "WHAT IF I HAVE LITTLE MONEY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Is gold or crypto a better path than these three? Gold and crypto don't produce profits, rent or dividends. Their returns depend on what someone else will pay later, so they behave more like speculation than ownership. Some investors hold a small amount for diversification, but stocks, real estate and businesses are the classic engines of long term wealth because they produce income.",
+   "query": "Gold coins and crypto symbols",
+   "caption": "WHAT ABOUT GOLD OR CRYPTO?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. How do I know when I'm ready for real estate or a business? A common checklist is a full emergency fund, no high interest debt, retirement savings on track and extra cash you could lose without derailing your life. If you can tick those boxes, you're in a much better position to take a bigger swing.",
+   "query": "Checklist ticked",
+   "caption": "WHEN AM I READY?",
+   "cuts": 3
+  },
+  {
+   "text": "The classic stock mistake is panic. Selling during a crash, chasing hot stocks or trading too often. The fix is simple but hard. Own broad, low cost funds, invest automatically and leave them alone through the scary years.",
+   "query": "Panicked investor",
+   "caption": "STOCK MISTAKE: PANIC",
+   "cuts": 3,
+   "chapter": "Mistakes on each path"
+  },
+  {
+   "text": "The classic real estate mistake is overpaying and underestimating costs. Buying with optimistic rent numbers, no repair budget and no cash reserves. One bad tenant or one big repair can then turn a good deal into a money pit. Conservative numbers and a healthy cash cushion are the fix.",
+   "query": "Broken water heater",
+   "caption": "REAL ESTATE MISTAKE: THIN MARGINS",
+   "cuts": 3
+  },
+  {
+   "text": "The classic business mistake is betting everything too soon. Quitting a job, draining savings and borrowing heavily before proving customers will pay. Testing small, keeping costs low and growing from real sales gives a business a far better chance to survive its first years.",
+   "query": "Empty store with bills",
+   "caption": "BUSINESS MISTAKE: TOO BIG TOO SOON",
+   "cuts": 3
+  },
+  {
+   "text": "And the mistake common to all three is never starting. Spending years researching the perfect path while doing nothing. Even a small start on any path teaches you more than any amount of reading, and starting with a simple index fund costs almost nothing.",
+   "query": "Person hesitating at start line",
+   "caption": "ALL PATHS: NEVER STARTING",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Angle one, the numbers. Stocks as the long run engine, real estate's rent plus growth, leverage, business risk, costs, taxes, and time and liquidity.",
+   "query": "Checklist on clipboard",
+   "caption": "THE NUMBERS: 1 TO 7",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "Angle two, the psychology. Tangible comfort, hidden volatility, survivorship bias, enjoyment, the sleep test, concentration and family stories.",
+   "query": "Person thinking",
+   "caption": "THE PSYCHOLOGY: 8 TO 14",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three, the playbook. Build a stock base, treat your home as a home, try real estate the easy way, start a business small, combine them and choose by your stage.",
+   "query": "Notebook with plan",
+   "caption": "THE PLAYBOOK: 15 TO 20",
+   "cuts": 3
+  },
+  {
+   "text": "Stocks, real estate and business can all build wealth. The question isn't which one is best. It's which one is best for you, right now. If you want my full step by step plan, it's in my playbook, linked in the description. Tell me in the comments, which path are you on? I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

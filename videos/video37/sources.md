@@ -1,0 +1,9 @@
+- Jorda, Knoll, Kuvshinov, Schularick and Taylor, The Rate of Return on Everything, 1870-2015 (Quarterly Journal of Economics, 2019)
+- Robert Shiller, Irrational Exuberance: long-run U.S. home prices adjusted for inflation
+- S&P CoreLogic Case-Shiller U.S. National Home Price Index
+- S&P Dow Jones Indices: S&P 500 long-run total returns
+- U.S. Bureau of Labor Statistics, Business Employment Dynamics: establishment survival rates
+- Federal Reserve, Survey of Consumer Finances: business equity among wealthiest households
+- IRS: depreciation, 1031 exchanges, home sale exclusion, retirement plans for the self-employed
+- Morgan Housel, The Psychology of Money (2020)
+- Growth examples: monthly compounding at stated average yearly returns (illustrations, not promises)
