@@ -1,0 +1,8 @@
+- Roy Williams and Vic Preisser, Preparing Heirs (2003): Williams Group research on family wealth transitions (about 70% lost by generation 2, 90% by generation 3)
+- UBS, Billionaire Ambitions reports (inherited vs self-made billionaire wealth)
+- Ramsey Solutions, National Study of Millionaires (most millionaires first generation)
+- Thomas J. Stanley, The Millionaire Next Door (1996): economic outpatient care
+- Arthur T. Vanderbilt II, Fortune's Children: The Fall of the House of Vanderbilt (1989)
+- IRS, basis of inherited property (step-up in basis)
+- Barber and Odean, Trading Is Hazardous to Your Wealth (Journal of Finance, 2000)
+- Cerulli Associates, US wealth transfer projections
