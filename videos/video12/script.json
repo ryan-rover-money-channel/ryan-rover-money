@@ -1,0 +1,940 @@
+{
+ "id": "video12",
+ "angle": "20 businesses under $5,000",
+ "length_scale": 1.25,
+ "title": "20 Businesses You Can Start With Under $5,000 in 2027",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. One of the biggest myths about starting a business is that you need a lot of money. A loan, investors, a storefront, expensive equipment. For some businesses, sure. But for many of the most reliable small businesses in America, you can start with less than five thousand dollars. Sometimes much less. Today, twenty of them.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro",
+   "short_hook": "You don't need a fortune to start a business. Here are twenty you can start with under five thousand dollars."
+  },
+  {
+   "text": "Twenty businesses you can start with under five thousand dollars. Real services people pay for, that you can test while keeping your job.",
+   "card": {
+    "type": "stat",
+    "label": "start-up budget",
+    "big": "< $5,000",
+    "sub": "20 businesses you can start in 2027"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's the idea. Instead of betting your savings on one big idea, you start small, test whether people will pay, and grow only when the customers are real. It's the opposite of the startup movie. Less glamour, much less risk. And many of the boring businesses that quietly make millionaires started exactly this way: one person, a few tools, and a first customer.",
+   "query": "Small business storefront",
+   "caption": "START SMALL, TEST FAST",
+   "cuts": 5
+  },
+  {
+   "text": "For each business, we'll look at how it makes money and how to start cheaply. Then we'll look at the whole thing from three angles: the numbers of starting small, the psychology of your first customers, and a simple ninety day playbook to go from idea to paid. Let's start with the sources.",
+   "query": "Notebook with financial notes",
+   "caption": "20 IDEAS, 3 ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Business application data comes from the U.S. Census Bureau's Business Formation Statistics. Pet spending data comes from the American Pet Products Association. Self employment tax rules come from the IRS. Business survival data comes from the Bureau of Labor Statistics. Start up costs in this video are rough estimates for a lean start, and they vary by city, licensing rules and the tools you already own. This is education, not legal, tax or business advice.",
+   "query": "Bureau of Labor Statistics building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Americans are starting businesses at a remarkable pace.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The numbers"
+  },
+  {
+   "text": "The Census Bureau has recorded more than five million new business applications in each of the last several years, a big jump from the years before twenty twenty.",
+   "card": {
+    "type": "stat",
+    "label": "new business applications per year",
+    "big": "5M+",
+    "sub": "U.S. Census Bureau, Business Formation Statistics"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Not every application becomes a real, lasting business. But it shows something important: starting a business has never been easier. You can register online, take card payments on your phone, and find customers through local groups and free listings. The barriers that used to keep people out, like storefronts and big ad budgets, are much lower for service businesses.",
+   "query": "Online banking smartphone app",
+   "caption": "EASIER THAN EVER",
+   "cuts": 3
+  },
+  {
+   "text": "Here's why starting under five thousand dollars matters so much. Remember, Bureau of Labor Statistics data shows about half of new businesses are gone within five years. If you put fifty thousand dollars into a business that fails, you've lost years of savings. If you put three thousand dollars into a business that fails, you've paid for an education. Small starts make failure survivable, and survivable failure is how most successful owners learned.",
+   "query": "Calculator with financial charts",
+   "caption": "MAKE FAILURE SURVIVABLE",
+   "cuts": 3
+  },
+  {
+   "text": "And remember taxes. Self employed people in the U.S. generally pay self employment tax of fifteen point three percent for Social Security and Medicare, on top of income tax. Many new owners set aside twenty five to thirty percent of profit for taxes.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Self-employment tax",
+     "big": "15.3%",
+     "sub": "Social Security + Medicare"
+    },
+    "right": {
+     "label": "Set aside",
+     "big": "25-30%",
+     "sub": "of profit, rule of thumb"
+    },
+    "note": "IRS; your actual tax depends on your situation"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That surprises a lot of people in their first year. They earn twenty thousand dollars on the side, spend it, and then get a big tax bill in April. The fix is simple: open a separate account for taxes, and move a share of every payment into it the day it arrives. Talk to a tax professional once, early, so you know what to expect.",
+   "query": "Tax forms on desk",
+   "caption": "THE APRIL SURPRISE",
+   "cuts": 3
+  },
+  {
+   "text": "Before the list, four questions to help you choose. Question one: what do you already have? A truck, a camera, a pressure washer, a skill from your job? Starting with what you own is the cheapest start of all. Question two: how much time do you really have? Evenings, weekends, or a few full days a week? Some businesses need daytime hours, others fit around a job.",
+   "query": "Person standing at crossroads",
+   "caption": "WHAT DO YOU HAVE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three: do you prefer physical work or screen work? Lawn care, cleaning and junk hauling are physical and outdoors. Bookkeeping, social media and virtual assistance happen at a desk. Neither is better, but choosing the wrong one for your personality is a fast way to burn out. And question four: do you want a side income, or a company? If you want to build something that can grow past you, favor services with recurring customers that can be done by a team.",
+   "query": "Notebook with financial notes",
+   "caption": "WHAT DO YOU WANT?",
+   "cuts": 3
+  },
+  {
+   "text": "Keep your answers in mind as we go through the twenty. By the end, you'll probably have two or three that fit you much better than the rest. That short list is where you start.",
+   "query": "Person writing list notebook",
+   "caption": "MAKE A SHORT LIST",
+   "cuts": 3
+  },
+  {
+   "text": "Okay. Twenty businesses under five thousand dollars. We'll start with services for homes, because every neighborhood needs them.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Idea number one. Residential cleaning.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "House cleaning",
+    "sub": "supplies and a good reputation"
+   },
+   "caption": "IDEA 1",
+   "cuts": 1,
+   "chapter": "1. House cleaning"
+  },
+  {
+   "text": "People are busy, and many will happily pay to come home to a clean house. Cleaning is one of the most recurring services there is: weekly, every two weeks, or monthly. Once you have a list of regular clients, your income becomes predictable.",
+   "query": "House cleaning",
+   "caption": "RECURRING CLIENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: cleaning supplies, a vacuum, basic insurance and maybe a simple website or listing. Often well under one thousand dollars. Start with friends and neighbors, ask every happy client for a review and a referral, and offer a discount for recurring bookings.",
+   "query": "Cleaning supplies",
+   "caption": "UNDER $1,000 TO START",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number two. Pressure washing.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Pressure washing",
+    "sub": "dramatic before and after"
+   },
+   "caption": "IDEA 2",
+   "cuts": 1,
+   "chapter": "2. Pressure washing"
+  },
+  {
+   "text": "Driveways, decks, fences, siding, storefronts. The before and after photos do your marketing for you. Homeowners book it once or twice a year, and businesses like restaurants and property managers can book it on a regular schedule.",
+   "query": "Pressure washing driveway",
+   "caption": "BEFORE AND AFTER",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a good pressure washer, surface cleaner, hoses, safety gear and insurance. A few thousand dollars can get you going. Learn proper techniques first, because too much pressure can damage wood and siding. Post every before and after photo, with the customer's permission.",
+   "query": "Hose water spray",
+   "caption": "LEARN TECHNIQUE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number three. Lawn care.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Lawn care",
+    "sub": "weekly routes"
+   },
+   "caption": "IDEA 3",
+   "cuts": 1,
+   "chapter": "3. Lawn care"
+  },
+  {
+   "text": "Mowing, edging, leaf cleanup, mulch. In the growing season, lawns need attention every week. A route of houses close together means less driving and more jobs per day, which is how lawn businesses become profitable.",
+   "query": "Lawn mower grass",
+   "caption": "WEEKLY ROUTES",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a reliable mower, trimmer, blower and a way to haul them. If you already have a truck, you can start for a couple of thousand dollars, or less with used equipment. Focus on one neighborhood at a time, and add snow removal or leaf cleanup to stay busy in the off season.",
+   "query": "Snow plow truck",
+   "caption": "ADD OFF-SEASON WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number four. Handyman services.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Handyman services",
+    "sub": "small jobs nobody else wants"
+   },
+   "caption": "IDEA 4",
+   "cuts": 1,
+   "chapter": "4. Handyman services"
+  },
+  {
+   "text": "Hanging shelves, fixing doors, patching drywall, assembling furniture, mounting TVs. Larger contractors often don't want small jobs, which leaves a big gap for a reliable handyman. Real estate agents and landlords often need someone they can call regularly.",
+   "query": "Handyman tools",
+   "caption": "THE SMALL JOBS GAP",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: tools you probably already have, plus insurance. Check your state's rules, because some types of work require a license above a certain dollar amount. Be clear about what you do and don't do, and never take on electrical or plumbing work you're not licensed for.",
+   "query": "Toolbox",
+   "caption": "KNOW YOUR LIMITS",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number five. Window and gutter cleaning.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Window and gutter cleaning",
+    "sub": "ladders and repeat business"
+   },
+   "caption": "IDEA 5",
+   "cuts": 1,
+   "chapter": "5. Window and gutter cleaning"
+  },
+  {
+   "text": "Gutters need cleaning once or twice a year, and storefronts want clean windows weekly or monthly. It's simple work, and happy customers rebook year after year.",
+   "query": "Window cleaning ladder",
+   "caption": "REPEAT BUSINESS",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: ladders, safety equipment, cleaning tools and insurance, often under two thousand dollars. Safety is critical, so get proper training and never cut corners on ladders. Offer an annual plan, and book next year's visit before you leave.",
+   "query": "Gutter cleaning house",
+   "caption": "BOOK NEXT YEAR NOW",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number six. Holiday light installation.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Holiday light installation",
+    "sub": "a seasonal cash burst"
+   },
+   "caption": "IDEA 6",
+   "cuts": 1,
+   "chapter": "6. Holiday light installation"
+  },
+  {
+   "text": "Many homeowners love holiday lights but hate climbing ladders in the cold. Installation services put them up, take them down and store them. It's seasonal, but it can be a strong burst of income in the fall and winter, and it pairs well with gutter cleaning.",
+   "query": "Christmas lights on house",
+   "caption": "SEASONAL BURST",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: ladders, clips, safety gear, insurance, and either customer lights or lights you rent to them. Market early, in September and October. Offer removal and storage as part of the package, so customers come back automatically next year.",
+   "query": "Window cleaning ladder",
+   "caption": "PAIR IT WITH GUTTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number seven. Junk hauling and moving help.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Junk hauling and moving help",
+    "sub": "strong backs and a truck"
+   },
+   "caption": "IDEA 7",
+   "cuts": 1,
+   "chapter": "7. Junk hauling and moving help"
+  },
+  {
+   "text": "Moves, cleanouts, renovations. People pay to have things lifted, loaded and taken away. If you have a truck or can rent one, you can start offering junk removal and moving labor quickly.",
+   "query": "Junk removal truck",
+   "caption": "LIFT AND HAUL",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: if you own a pickup or can rent a truck, mainly insurance, straps, dollies and dump fees. Price carefully to cover fuel, dump charges and your time. Relationships with real estate agents and property managers can bring steady work.",
+   "query": "Moving truck boxes",
+   "caption": "PRICE FOR DUMP FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Now, services for people and their pets.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Idea number eight. Pet sitting and dog walking.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Pet sitting and dog walking",
+    "sub": "a market of billions"
+   },
+   "caption": "IDEA 8",
+   "cuts": 1,
+   "chapter": "8. Pet sitting and dog walking",
+   "short_hook": "Americans spend about one hundred fifty billion dollars a year on their pets. Here's how to get a piece."
+  },
+  {
+   "text": "The American Pet Products Association reported that Americans spent about one hundred fifty billion dollars on their pets in twenty twenty four. Busy owners need dogs walked, pets fed while they travel, and someone trustworthy to check in.",
+   "query": "Dog walker park",
+   "caption": "~$150B ON PETS",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: almost nothing beyond insurance, a basic pet first aid course, and maybe a background check to build trust. Apps can help you find first clients, then you can build your own direct client list. Reliability and great communication, like photos after every visit, are what build loyal customers.",
+   "query": "Cat sitting home",
+   "caption": "RELIABILITY WINS",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number nine. Mobile car detailing.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Mobile car detailing",
+    "sub": "bring the car wash to them"
+   },
+   "caption": "IDEA 9",
+   "cuts": 1,
+   "chapter": "9. Mobile car detailing"
+  },
+  {
+   "text": "Instead of customers driving to a car wash, you go to them, at home or at work, and clean their car inside and out. Busy people pay for convenience, and a full interior detail can command a solid price.",
+   "query": "Car detailing",
+   "caption": "CONVENIENCE SELLS",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a vacuum, extractor, cleaning products, towels and a water source plan, often a couple of thousand dollars. Check local rules on water runoff. Offer monthly maintenance packages for regular customers, and approach small businesses that own vehicle fleets.",
+   "query": "Car interior cleaning",
+   "caption": "MONTHLY PACKAGES",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number ten. Tutoring.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Tutoring",
+    "sub": "your knowledge is the product"
+   },
+   "caption": "IDEA 10",
+   "cuts": 1,
+   "chapter": "10. Tutoring"
+  },
+  {
+   "text": "Parents spend money on test prep, math help, reading support and music lessons. If you're strong in a subject, tutoring can pay well per hour, and online sessions mean you're not limited to your town.",
+   "query": "Tutor teaching student",
+   "caption": "KNOWLEDGE IS THE PRODUCT",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: almost free if you already have a laptop and internet. A simple website, a few reviews from early students, and relationships with local schools or parent groups can fill your schedule. Specializing, like SAT math or adult English learners, often lets you charge more.",
+   "query": "Student studying laptop",
+   "caption": "SPECIALIZE TO EARN MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number eleven. Personal training.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Personal training",
+    "sub": "fitness, one client at a time"
+   },
+   "caption": "IDEA 11",
+   "cuts": 1,
+   "chapter": "11. Personal training"
+  },
+  {
+   "text": "People pay for accountability and expertise to get fit. Trainers work in clients' homes, in parks, online, or in gyms that allow independent trainers.",
+   "query": "Personal trainer gym",
+   "caption": "ACCOUNTABILITY SELLS",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a recognized certification, insurance, and basic equipment like bands and weights. Often under two thousand dollars in total. Start with small group sessions in a park to lower the price per person and raise your hourly earnings.",
+   "query": "Group workout park",
+   "caption": "SMALL GROUPS",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If one of these businesses is speaking to you, tell me which one in the comments. And subscribe, because this series keeps going with how to buy a business, the real numbers behind laundromats and car washes, and side hustles that turn into real companies. Now, idea twelve. The next few you can run from a laptop.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Idea number twelve. Bookkeeping.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Bookkeeping",
+    "sub": "monthly clients, recurring revenue"
+   },
+   "caption": "IDEA 12",
+   "cuts": 1,
+   "chapter": "12. Bookkeeping"
+  },
+  {
+   "text": "Small businesses need their books kept, receipts categorized and accounts reconciled, every single month. Monthly bookkeeping clients are recurring revenue, and once you've set up a client, the work becomes routine.",
+   "query": "Accountant desk calculator",
+   "caption": "MONTHLY CLIENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: accounting software training or certification, which some providers offer at low cost, and a laptop. Start with a few small businesses you know personally. Be clear about where bookkeeping ends and tax advice begins, and partner with a tax professional for the rest.",
+   "query": "Laptop spreadsheet",
+   "caption": "PARTNER WITH A CPA",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number thirteen. Social media management for local businesses.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Social media management",
+    "sub": "local businesses need help"
+   },
+   "caption": "IDEA 13",
+   "cuts": 1,
+   "chapter": "13. Social media management"
+  },
+  {
+   "text": "Restaurants, salons, contractors and shops know they should post online, but they're too busy. Managing their accounts for a monthly fee creates recurring revenue.",
+   "query": "Social media smartphone",
+   "caption": "BUSY OWNERS NEED HELP",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a phone, a laptop and free or cheap design tools. Build a portfolio by helping one or two businesses at a low rate, and show real results, like more bookings or more calls. Focus on one industry, like restaurants, so you become the expert.",
+   "query": "Restaurant owner",
+   "caption": "PICK ONE INDUSTRY",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number fourteen. Virtual assistant services.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Virtual assistant",
+    "sub": "admin work, from anywhere"
+   },
+   "caption": "IDEA 14",
+   "cuts": 1,
+   "chapter": "14. Virtual assistant"
+  },
+  {
+   "text": "Email, scheduling, customer service, data entry, research. Busy professionals and small business owners pay for help with tasks that eat their time. You can do this from anywhere with internet.",
+   "query": "Person working from home laptop",
+   "caption": "TIME IS WHAT YOU SELL",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a laptop, internet and a professional profile. Start with hourly work, then move to monthly retainers once clients trust you. Specializing, like assisting real estate agents or podcasters, can raise your rates.",
+   "query": "Calendar planning",
+   "caption": "RETAINERS OVER HOURS",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number fifteen. Resume writing and career coaching.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Resume and career services",
+    "sub": "help people get hired"
+   },
+   "caption": "IDEA 15",
+   "cuts": 1,
+   "chapter": "15. Resume and career services"
+  },
+  {
+   "text": "People pay for help when they're changing careers, applying for promotions or coming back after a gap. A strong resume and interview practice can change someone's income, which makes the service easy to value.",
+   "query": "Job interview handshake",
+   "caption": "HELP PEOPLE GET HIRED",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a laptop and examples of your work. If you have experience in hiring or in a specific industry, lead with that. Testimonials from clients who got hired are your best marketing.",
+   "query": "Person writing list notebook",
+   "caption": "TESTIMONIALS SELL",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number sixteen. Photography.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Photography",
+    "sub": "events, families, businesses"
+   },
+   "caption": "IDEA 16",
+   "cuts": 1,
+   "chapter": "16. Photography"
+  },
+  {
+   "text": "Families, graduations, real estate listings, small business products, local events. If you already own a decent camera and know how to use it, you can start booking paid work.",
+   "query": "Photographer camera",
+   "caption": "STEADY REAL ESTATE WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: if you own a camera and lens, mainly editing software and insurance. Real estate photography can be especially steady, because agents need photos for every listing. Build a portfolio with a few free or discounted shoots, then raise prices as demand grows.",
+   "query": "House with for sale sign",
+   "caption": "AGENTS NEED PHOTOS",
+   "cuts": 3
+  },
+  {
+   "text": "And the last four: buying, selling and specialty services.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Idea number seventeen. Reselling.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Reselling and flipping",
+    "sub": "buy low, sell online"
+   },
+   "caption": "IDEA 17",
+   "cuts": 1,
+   "chapter": "17. Reselling and flipping"
+  },
+  {
+   "text": "Some people make real income buying underpriced items at thrift stores, garage sales and estate sales, and reselling them online. Furniture, tools, vintage clothing, electronics. The skill is knowing what sells and for how much.",
+   "query": "Garage sale items",
+   "caption": "BUY LOW, SELL HIGH",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a few hundred dollars of inventory and a phone for photos. Start with a category you know well. Track every purchase and sale, because profit is what's left after fees, shipping and your time. Reinvest profits into inventory to grow.",
+   "query": "Cardboard boxes moving",
+   "caption": "KNOW YOUR CATEGORY",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number eighteen. Furniture flipping.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Furniture flipping",
+    "sub": "sanding, paint, profit"
+   },
+   "caption": "IDEA 18",
+   "cuts": 1,
+   "chapter": "18. Furniture flipping"
+  },
+  {
+   "text": "Old solid wood dressers, tables and chairs can be bought cheaply, refinished, and sold for much more. People love unique, sturdy furniture, and a good flip can sell quickly online.",
+   "query": "Furniture restoration",
+   "caption": "SAND, PAINT, PROFIT",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: sanders, paint, hardware and a place to work, like a garage. Start with one piece, document the transformation, and post it. Many flippers find their before and after posts become their best advertising.",
+   "query": "Wooden dresser",
+   "caption": "DOCUMENT IT",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number nineteen. Mobile notary and loan signing agent.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Notary and loan signing",
+    "sub": "paperwork that has to be signed"
+   },
+   "caption": "IDEA 19",
+   "cuts": 1,
+   "chapter": "19. Notary and loan signing"
+  },
+  {
+   "text": "Mortgages, refinances, real estate deals and legal documents need a notary. Mobile notaries travel to clients, and loan signing agents guide borrowers through closing documents for title and escrow companies.",
+   "query": "Signing documents",
+   "caption": "PAPERWORK MUST BE SIGNED",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: your state's notary commission, training, a bond and errors and omissions insurance where required. Costs are often a few hundred dollars. Requirements vary a lot by state, so check your state's rules first. Building relationships with title companies is the key to steady work.",
+   "query": "Lawyer office documents",
+   "caption": "TITLE COMPANY RELATIONSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "Idea number twenty. Errand and senior assistance services.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Errand and delivery services",
+    "sub": "time is what people buy"
+   },
+   "caption": "IDEA 20",
+   "cuts": 1,
+   "chapter": "20. Errand and delivery services"
+  },
+  {
+   "text": "Groceries, prescriptions, dry cleaning, rides to appointments. Older adults and busy families often need help with errands. A trusted local errand service can build loyal, recurring clients.",
+   "query": "Grocery bags delivery",
+   "caption": "TIME IS WHAT PEOPLE BUY",
+   "cuts": 3
+  },
+  {
+   "text": "Lean start: a reliable car, insurance that covers business use, and a background check to build trust. Partner with senior centers or local churches to find clients. Reliability and kindness are the whole business.",
+   "query": "Senior woman smiling",
+   "caption": "TRUST AND KINDNESS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's see how this works in practice. Three example people, made up but realistic, each starting with less than three thousand dollars.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Three example starters",
+   "short_hook": "Three people started a business with less than three thousand dollars. Here's what happened."
+  },
+  {
+   "text": "Brianna, twenty six, works as a receptionist. She starts cleaning houses on Saturdays with six hundred dollars of supplies. Her first three clients are her coworkers' parents. She asks every client for a review, and within six months she has eight recurring clients, about two Saturdays a week. She sets aside thirty percent for taxes and invests a big part of the rest. After a year, she hires a helper and starts thinking about leaving her job.",
+   "query": "House cleaning",
+   "caption": "BRIANNA: CLEANING",
+   "cuts": 3
+  },
+  {
+   "text": "Tom, forty one, is an accountant at a mid sized company. He starts bookkeeping for three small businesses in the evenings, using software he already knows. Each client pays a monthly fee. After two years, he has a dozen clients, and his side income rivals a good part of his salary. He's in no rush to quit. The extra income goes straight into his retirement accounts and his kids' college fund.",
+   "query": "Accountant desk calculator",
+   "caption": "TOM: BOOKKEEPING",
+   "cuts": 3
+  },
+  {
+   "text": "Rosa, fifty five, recently retired from teaching. She becomes a mobile notary and loan signing agent, spending a few hundred dollars on her commission, training and insurance. She builds relationships with two local title companies and works three or four days a week on her own schedule. The extra income lets her delay Social Security, which raises her future monthly benefit.",
+   "query": "Signing documents",
+   "caption": "ROSA: NOTARY",
+   "cuts": 3
+  },
+  {
+   "text": "Three different people, three different reasons. Brianna wants to build a company. Tom wants to accelerate his wealth. Rosa wants flexible income in early retirement. None of them risked their savings. All of them started with what they already had: skills, relationships and a few hundred to a few thousand dollars.",
+   "query": "Three people silhouettes",
+   "caption": "START WITH WHAT YOU HAVE",
+   "cuts": 3
+  },
+  {
+   "text": "Notice also what they did with the money. Brianna invested a big share. Tom sent it to retirement and college savings. Rosa used it to delay Social Security. A side business is most powerful when its income has a job. Without a plan, side income tends to disappear into everyday spending, and a year later there's nothing to show for all those extra hours. Decide before the first payment arrives where the money will go.",
+   "query": "Piggy bank coins",
+   "caption": "GIVE THE MONEY A JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Before the psychology, let's talk about the one decision that makes or breaks small service businesses: price.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "How to price your service",
+   "short_hook": "Most new business owners charge too little. Here's how to price your service."
+  },
+  {
+   "text": "Start with what competitors charge. Call three local businesses offering the same service and ask for a quote, or look at their websites and reviews. That gives you a range. As a beginner, you might start slightly below the middle of that range, but almost never at the bottom. The cheapest price attracts the customers who complain most and pay slowest.",
+   "query": "Phone call customer service",
+   "caption": "KNOW THE MARKET",
+   "cuts": 3
+  },
+  {
+   "text": "Then do your own math. Add up your real costs per job: supplies, fuel, insurance spread across your jobs, equipment wear, payment processing fees, and taxes. Then decide what you want to earn per hour of your time, including driving and admin. If the market price doesn't cover that, either the business doesn't work for you, or you need to work more efficiently, for example with tighter routes.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "DO YOUR OWN MATH",
+   "cuts": 3
+  },
+  {
+   "text": "Next, think in packages, not hours. Customers understand a clear price for a clear result: a full house clean, a driveway and sidewalk wash, a monthly bookkeeping package. Packages also reward you for getting faster. If you charge by the hour, getting better at your job lowers your income. If you charge by the result, getting better raises it.",
+   "query": "Notebook with financial notes",
+   "caption": "PACKAGES, NOT HOURS",
+   "cuts": 3
+  },
+  {
+   "text": "And finally, raise prices regularly. Many owners raise prices for new customers first, then for existing customers once a year, with plenty of notice. If nobody ever pushes back on your price, it's probably too low. A few lost price sensitive customers are often replaced by better ones who value quality.",
+   "query": "Graph trending upward",
+   "caption": "RAISE PRICES REGULARLY",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need an advertising budget to get your first fifty customers. Here are eight free or nearly free ways local service businesses find clients.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Eight free ways to get customers"
+  },
+  {
+   "text": "One. Tell everyone you know. Friends, family, coworkers, your gym, your church. Most first customers come from people who already trust you. Two. Free business listings. Set up a free business profile on major map and search services so people searching nearby can find you. Three. Local community groups online, where neighbors ask for recommendations every day.",
+   "query": "Social media smartphone",
+   "caption": "WAYS 1 TO 3",
+   "cuts": 3
+  },
+  {
+   "text": "Four. Before and after photos, posted everywhere, with permission. They show your work better than any description. Five. Door hangers or flyers in the exact neighborhood where you just did a job. Neighbors see your work, and they're nearby, so your routes get tighter. Six. Partnerships. Real estate agents, property managers, contractors and other small businesses can send you steady work, and you can send work back to them.",
+   "query": "Pressure washing driveway",
+   "caption": "WAYS 4 TO 6",
+   "cuts": 3
+  },
+  {
+   "text": "Seven. Ask for reviews, every time. Make it easy with a direct link. Reviews compound: each one makes the next customer more likely to choose you. And eight. Ask for referrals, and reward them. A small discount for both the customer and the friend they refer can turn every happy client into a salesperson.",
+   "query": "Business meeting handshake",
+   "caption": "WAYS 7 AND 8",
+   "cuts": 3
+  },
+  {
+   "text": "The pattern is simple. Do great work, make it visible, and ask for the next customer. It's not glamorous, but it's how most local service businesses grow, especially in the first year, before they ever spend a dollar on ads.",
+   "query": "Small business owner smiling",
+   "caption": "GREAT WORK, MADE VISIBLE",
+   "cuts": 3
+  },
+  {
+   "text": "Most of these businesses go through the same five stages. Knowing them helps you see where you are and what comes next.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "From side hustle to real business"
+  },
+  {
+   "text": "Stage one. The test. You're doing the work yourself, a few hours a week, and finding out whether people will pay. The goal is proof, not profit. Stage two. The side income. You have regular customers, and the business pays a few hundred to a few thousand dollars a month. You're still working your job, and the extra money goes toward savings and investing.",
+   "query": "Person working from home laptop",
+   "caption": "STAGES 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Stage three. The decision. The business has grown to the point where it competes with your job for time. This is where many owners either stay part time on purpose, or plan a careful leap, with an emergency fund and several months of steady business income. Stage four. The first hire. You bring in a helper or an employee, and your role starts shifting from doing the work to managing it.",
+   "query": "Construction workers",
+   "caption": "STAGES 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "And stage five. The asset. The business runs on systems and a team, with recurring customers and clean records. At this point, it's not just income. It's something with real value that could be sold one day. Not every business needs to reach stage five. But knowing it exists changes how you build from day one.",
+   "query": "Factory machine gears",
+   "caption": "STAGE 5: THE ASSET",
+   "cuts": 3
+  },
+  {
+   "text": "Angle two. The psychology. The hardest part of starting a small business usually isn't money. It's in your head.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The psychology"
+  },
+  {
+   "text": "The first obstacle is waiting until you feel ready. People spend months on logos, websites and business plans before they've ever talked to a customer. But you learn more from your first paying customer than from any amount of planning. Start with the smallest version of your service, and improve it as you go.",
+   "query": "Person thinking by window",
+   "caption": "YOU'LL NEVER FEEL READY",
+   "cuts": 3
+  },
+  {
+   "text": "The second is fear of asking. Asking friends, neighbors or local businesses for work feels awkward. But most people are glad to help someone they know, and word of mouth is still the most powerful marketing for local services. Try a simple message: I'm starting a pressure washing service. If you know anyone who needs it, I'd really appreciate a referral.",
+   "query": "Friends talking coffee",
+   "caption": "JUST ASK",
+   "cuts": 3
+  },
+  {
+   "text": "The third is underpricing. New owners often charge too little because they feel like beginners. But low prices attract the most difficult customers and leave no room for taxes, insurance and equipment. Price for the value you deliver, and raise prices as your reviews grow.",
+   "query": "Receipt and coins on table",
+   "caption": "DON'T UNDERPRICE",
+   "cuts": 3
+  },
+  {
+   "text": "And the fourth is quitting too early. The first few months are often slow. Many people give up right before word of mouth starts to work. Give a new service business at least six months of consistent effort before deciding whether it works. Track what brings in customers, and do more of that.",
+   "query": "Long road desert",
+   "caption": "GIVE IT SIX MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "And the fifth obstacle is comparison with people online. Social media is full of young entrepreneurs claiming they made ten thousand dollars in their first month. Some are real. Many are selling courses. Comparing your quiet, steady progress to someone's highlight reel is a fast way to feel like a failure while you're actually doing fine. The only comparison that matters is your business this month versus your business three months ago. If that line is going up, you're winning.",
+   "query": "Social media smartphone",
+   "caption": "IGNORE THE HIGHLIGHT REELS",
+   "cuts": 3
+  },
+  {
+   "text": "Underneath all of these obstacles is one simple truth: action beats thinking. The people who build successful small businesses aren't always the smartest or the most talented. They're the ones who started before they felt ready, asked for work even when it was awkward, charged fair prices, and kept going through the slow months.",
+   "query": "Person running on road",
+   "caption": "ACTION BEATS THINKING",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three. The playbook. Here's a simple ninety day plan to go from idea to paying customers, while keeping your job.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The 90 day playbook",
+   "short_hook": "Here's a ninety day plan to go from business idea to paying customers."
+  },
+  {
+   "text": "Days one to fifteen. Pick one business from this list that matches your skills, your schedule and your budget. Check licensing and insurance requirements in your city and state. Set up a separate bank account. And write down your price list, based on what local competitors charge.",
+   "query": "Notebook with financial notes",
+   "caption": "DAYS 1 TO 15: PICK AND PREPARE",
+   "cuts": 3
+  },
+  {
+   "text": "Days sixteen to thirty. Get your first three customers. Ask friends, family and neighbors. Post in local community groups. Offer a small launch discount in exchange for an honest review. Do outstanding work, take before and after photos, and ask each customer who else might need your service.",
+   "query": "Business meeting handshake",
+   "caption": "DAYS 16 TO 30: FIRST 3 CUSTOMERS",
+   "cuts": 3
+  },
+  {
+   "text": "Days thirty one to sixty. Build systems. A simple booking method, a template for quotes and invoices, a checklist for every job, and a way to collect reviews. Move a share of every payment into your tax account automatically. And track where each customer came from.",
+   "query": "Clock gears mechanism",
+   "caption": "DAYS 31 TO 60: SYSTEMS",
+   "cuts": 3
+  },
+  {
+   "text": "Days sixty one to ninety. Grow what works. If referrals bring the most customers, ask for more referrals. If one neighborhood books the most, focus there. Raise prices slightly for new customers. And decide on your goal for the next six months: more income, more recurring clients, or your first helper.",
+   "query": "Graph trending upward",
+   "caption": "DAYS 61 TO 90: GROW",
+   "cuts": 3
+  },
+  {
+   "text": "And one rule throughout: protect your foundation. Keep your emergency fund, keep contributing to retirement, and don't take on debt to grow a business that hasn't proven itself yet. The beauty of starting under five thousand dollars is that you never have to bet your family's security on it.",
+   "query": "Piggy bank coins",
+   "caption": "PROTECT YOUR FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "Starting cheap protects you from big losses. But there are still mistakes that can sink a small business in its first year. Here are six of the most common.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Six mistakes new owners make"
+  },
+  {
+   "text": "Mistake one. Skipping insurance. One damaged driveway, one dropped TV, one injured dog, and a single claim could wipe out a year of profit or more. General liability insurance is often affordable for small service businesses, and some clients require it. Mistake two. Mixing business and personal money. It makes taxes painful and hides whether you're actually profitable.",
+   "query": "Paperwork documents desk",
+   "caption": "MISTAKES 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three. Buying too much equipment too early. The top of the line mower, the van with custom graphics, the expensive camera. Start with what you need to do good work, and upgrade only when customers are paying for it. Mistake four. Saying yes to every job. Jobs far away, jobs outside your skills, or jobs from customers who haggle aggressively often cost more than they pay.",
+   "query": "Lawn mower grass",
+   "caption": "MISTAKES 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake five. Forgetting about taxes until April. We talked about this, but it bears repeating. Set aside a share of every payment, and consider paying estimated taxes during the year, as the IRS generally expects from self employed people. And mistake six. Not tracking anything. Without knowing your revenue, costs and where customers come from, you can't tell what's working.",
+   "query": "Tax forms on desk",
+   "caption": "MISTAKES 5 AND 6",
+   "cuts": 3
+  },
+  {
+   "text": "Every one of these mistakes is cheap to avoid and expensive to make. Insurance, a separate account, modest equipment, clear rules about which jobs you take, a tax account, and a simple spreadsheet. That's the whole defensive playbook, and it costs less than a weekend away.",
+   "query": "Spreadsheet on laptop",
+   "caption": "CHEAP TO AVOID",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need expensive software to run a small business. Here's a lean toolkit many owners use.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Simple tools that keep costs low"
+  },
+  {
+   "text": "For money: a separate business checking account, a separate savings account for taxes, and a simple way to take card payments on your phone. For bookkeeping, a spreadsheet works at the start, and low cost accounting software makes sense once you have regular clients. For scheduling, a shared calendar or a basic booking tool is plenty.",
+   "query": "Online banking smartphone app",
+   "caption": "MONEY AND SCHEDULING",
+   "cuts": 3
+  },
+  {
+   "text": "For marketing: a free business profile on map and search services, a simple one page website, and a phone full of before and after photos. For customer communication, templates for quotes, reminders and thank you messages save hours every week. And for learning, free online courses and videos from experienced owners in your industry.",
+   "query": "Laptop online banking",
+   "caption": "MARKETING AND LEARNING",
+   "cuts": 3
+  },
+  {
+   "text": "The point is to keep fixed costs close to zero until revenue is real. Every subscription and every monthly fee raises the amount you need to earn before you make a single dollar of profit. Lean businesses survive slow months. Bloated ones don't.",
+   "query": "Receipt and coins on table",
+   "caption": "KEEP FIXED COSTS LOW",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions people ask most about starting small.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Do I need an LLC? Not always to start, but many owners form one for liability protection and simpler separation of finances. Rules and fees vary by state. Insurance is often just as important as the legal structure. Question two. How do I find my first customers? People you know, local online groups, neighborhood apps, and simple flyers still work for local services.",
+   "query": "Paperwork documents desk",
+   "caption": "LLC? FIRST CUSTOMERS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What if my employer has a policy about side businesses? Read your employment agreement, especially if your business is related to your job. Keep your business completely separate from work time and work equipment. Question four. When should I quit my job? Many people wait until the business has replaced a large share of their salary for several months in a row, and they have a solid emergency fund.",
+   "query": "Office building at dusk",
+   "caption": "EMPLOYER RULES? WHEN TO QUIT?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Which one makes the most money? The ones that can grow beyond your own hours, through recurring clients, routes and eventually employees, tend to have the highest ceiling: cleaning, lawn care, pressure washing, bookkeeping. Services where you sell only your time, like tutoring or virtual assistance, are easier to start but harder to scale.",
+   "query": "Graph trending upward",
+   "caption": "WHICH MAKES THE MOST?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. Can I do this with no experience? For many of these, yes, with some learning first. Cleaning, lawn care, pet sitting and reselling have low skill barriers, though quality and reliability still matter. Others, like bookkeeping, tutoring and personal training, need real knowledge or a certification. Be honest with customers about your experience, and price accordingly while you learn.",
+   "query": "Person studying laptop at night",
+   "caption": "NO EXPERIENCE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. How much can I realistically earn? It varies enormously by city, service and effort, so be skeptical of anyone who promises a specific number. A realistic first goal for most people is a few hundred dollars a month in the first few months, growing as reviews and referrals build. The businesses that grow biggest are the ones whose owners keep showing up for years, not months.",
+   "query": "Calculator with financial charts",
+   "caption": "HOW MUCH CAN I EARN?",
+   "cuts": 3
+  },
+  {
+   "text": "Let's recap. Home services: house cleaning, pressure washing, lawn care, handyman, window and gutter cleaning, holiday lights, and junk hauling. People and pets: pet sitting, mobile car detailing, tutoring and personal training.",
+   "query": "Notebook with financial notes",
+   "caption": "IDEAS 1 TO 11",
+   "cuts": 3,
+   "chapter": "Recap: 20 businesses under $5,000"
+  },
+  {
+   "text": "Laptop businesses: bookkeeping, social media management, virtual assistance, resume services and photography. And buying, selling and specialty services: reselling, furniture flipping, mobile notary, and errand services.",
+   "query": "Small business storefront",
+   "caption": "IDEAS 12 TO 20",
+   "cuts": 3
+  },
+  {
+   "text": "And the three angles. The numbers: over five million business applications a year, about half of businesses gone in five years, so start small to make failure survivable, and set aside money for taxes. The psychology: you'll never feel ready, ask for work, don't underprice, and give it six months. And the playbook: ninety days from idea to paying customers, while protecting your foundation.",
+   "query": "Map and compass",
+   "caption": "NUMBERS, PSYCHOLOGY, PLAYBOOK",
+   "cuts": 3
+  },
+  {
+   "text": "And here's the bigger picture. A small business you start for under five thousand dollars might stay small forever, and that's fine. Even a few hundred dollars a month, invested over twenty years, can grow into a meaningful sum. Or it might grow into something much bigger. Either way, you'll learn skills no job teaches: selling, pricing, managing money and solving problems on your own. Those skills stay with you, whatever you do next.",
+   "query": "Sunrise over mountains",
+   "caption": "SKILLS THAT STAY",
+   "cuts": 3
+  },
+  {
+   "text": "So here's your homework. Pick one idea. Just one. And this week, tell three people you're offering it. That's it. Your first customer is closer than you think. If you want the full plan for building wealth, it's in my playbook, link in the description. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

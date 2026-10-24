@@ -1,0 +1,6 @@
+- U.S. Census Bureau, Business Formation Statistics (more than 5 million business applications a year in recent years)
+- Bureau of Labor Statistics, Business Employment Dynamics (about half of new establishments survive five years)
+- IRS, Self-Employment Tax (15.3% for Social Security and Medicare)
+- American Pet Products Association, U.S. pet industry spending 2024 (about $150 billion)
+- Social Security Administration, delayed retirement credits
+- Start-up costs: rough estimates for a lean start; they vary by location and licensing
