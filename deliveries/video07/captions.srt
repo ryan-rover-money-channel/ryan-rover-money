@@ -1,0 +1,4051 @@
+1
+00:00:00,000 --> 00:00:01,776
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,956 --> 00:00:03,678
+What should your net worth be at
+
+3
+00:00:03,678 --> 00:00:04,162
+your age?
+
+4
+00:00:04,342 --> 00:00:06,429
+It's one of the most searched money
+
+5
+00:00:06,429 --> 00:00:07,980
+questions on the internet,
+
+6
+00:00:07,980 --> 00:00:10,067
+and most of the answers you'll find
+
+7
+00:00:10,067 --> 00:00:11,737
+are either scary or useless.
+
+8
+00:00:11,917 --> 00:00:14,947
+So today, real numbers from the Federal
+
+9
+00:00:14,947 --> 00:00:16,968
+Reserve, decade by decade.
+
+10
+00:00:17,148 --> 00:00:18,362
+And more importantly,
+
+11
+00:00:18,362 --> 00:00:19,980
+what to do if you're behind.
+
+12
+00:00:20,160 --> 00:00:21,333
+Because if you are,
+
+13
+00:00:21,333 --> 00:00:22,691
+you're far from alone.
+
+14
+00:00:23,041 --> 00:00:24,284
+Net worth is simple.
+
+15
+00:00:24,464 --> 00:00:25,622
+Everything you own,
+
+16
+00:00:25,622 --> 00:00:27,146
+minus everything you owe.
+
+17
+00:00:27,326 --> 00:00:30,312
+Savings, investments, retirement accounts,
+
+18
+00:00:30,312 --> 00:00:32,019
+the equity in your home,
+
+19
+00:00:32,019 --> 00:00:33,370
+minus credit cards,
+
+20
+00:00:33,370 --> 00:00:36,428
+car loans, student loans and your mortgage.
+
+21
+00:00:36,778 --> 00:00:39,085
+Why does this one number matter so
+
+22
+00:00:39,085 --> 00:00:39,425
+much?
+
+23
+00:00:39,605 --> 00:00:41,509
+Because income can fool you.
+
+24
+00:00:41,689 --> 00:00:43,713
+Plenty of people earn a lot and
+
+25
+00:00:43,713 --> 00:00:44,823
+keep very little.
+
+26
+00:00:45,003 --> 00:00:47,221
+Net worth shows what you've actually kept.
+
+27
+00:00:47,401 --> 00:00:49,928
+It's the scoreboard for every money decision
+
+28
+00:00:49,928 --> 00:00:50,904
+you've ever made,
+
+29
+00:00:50,904 --> 00:00:52,512
+and the good news is that it
+
+30
+00:00:52,512 --> 00:00:54,866
+can change faster than most people think,
+
+31
+00:00:54,866 --> 00:00:57,049
+once you start paying attention to it.
+
+32
+00:00:57,399 --> 00:00:59,593
+We'll look at it from three angles.
+
+33
+00:00:59,773 --> 00:01:01,057
+First, the numbers:
+
+34
+00:01:01,057 --> 00:01:04,031
+what typical Americans actually have at each
+
+35
+00:01:04,031 --> 00:01:06,329
+age, and the rules of thumb people
+
+36
+00:01:06,329 --> 00:01:06,599
+use.
+
+37
+00:01:06,779 --> 00:01:08,111
+Then the psychology:
+
+38
+00:01:08,111 --> 00:01:10,773
+why comparing yourself can help or hurt.
+
+39
+00:01:10,953 --> 00:01:12,721
+And finally the playbook:
+
+40
+00:01:12,721 --> 00:01:14,418
+exactly how to catch up,
+
+41
+00:01:14,418 --> 00:01:15,690
+whatever your age.
+
+42
+00:01:15,870 --> 00:01:17,893
+Grab your own number if you know
+
+43
+00:01:17,893 --> 00:01:19,221
+it, or a rough guess,
+
+44
+00:01:19,221 --> 00:01:21,118
+and let's see where you stand.
+
+45
+00:01:21,467 --> 00:01:23,157
+And stay until the end,
+
+46
+00:01:23,157 --> 00:01:25,802
+because the catch up playbook in the
+
+47
+00:01:25,802 --> 00:01:28,154
+last part of this video works at
+
+48
+00:01:28,154 --> 00:01:30,946
+any age, whether you're twenty five or
+
+49
+00:01:30,946 --> 00:01:31,754
+sixty five.
+
+50
+00:01:31,934 --> 00:01:34,007
+First, where the numbers come from,
+
+51
+00:01:34,007 --> 00:01:35,962
+because there's a lot of bad data
+
+52
+00:01:35,962 --> 00:01:36,555
+out there.
+
+53
+00:01:36,904 --> 00:01:39,040
+The net worth figures in this video
+
+54
+00:01:39,040 --> 00:01:41,542
+come from the Federal Reserve's Survey of
+
+55
+00:01:41,542 --> 00:01:42,640
+Consumer Finances.
+
+56
+00:01:42,820 --> 00:01:45,301
+It's the most detailed survey of American
+
+57
+00:01:45,301 --> 00:01:47,721
+household wealth, run every three years,
+
+58
+00:01:47,721 --> 00:01:50,142
+and the latest full results cover twenty
+
+59
+00:01:50,142 --> 00:01:50,807
+twenty two.
+
+60
+00:01:50,987 --> 00:01:52,941
+The numbers are grouped by the age
+
+61
+00:01:52,941 --> 00:01:54,436
+of the head of the family.
+
+62
+00:01:54,616 --> 00:01:57,759
+The salary multiples come from Fidelity Investments'
+
+63
+00:01:57,759 --> 00:02:00,661
+retirement guidelines, and the net worth formula
+
+64
+00:02:00,661 --> 00:02:03,079
+comes from the book The Millionaire Next
+
+65
+00:02:03,079 --> 00:02:03,381
+Door.
+
+66
+00:02:03,731 --> 00:02:05,067
+Two important notes.
+
+67
+00:02:05,247 --> 00:02:06,786
+These are survey numbers,
+
+68
+00:02:06,786 --> 00:02:08,079
+so they're estimates.
+
+69
+00:02:08,259 --> 00:02:10,149
+And they include home equity,
+
+70
+00:02:10,149 --> 00:02:12,039
+which is a big part of wealth
+
+71
+00:02:12,039 --> 00:02:13,212
+for many families,
+
+72
+00:02:13,212 --> 00:02:15,492
+but not money you can easily spend.
+
+73
+00:02:15,672 --> 00:02:18,557
+Growth examples use a seven percent average
+
+74
+00:02:18,557 --> 00:02:20,771
+yearly return as an illustration,
+
+75
+00:02:20,771 --> 00:02:21,710
+not a promise.
+
+76
+00:02:21,890 --> 00:02:23,251
+This is education,
+
+77
+00:02:23,251 --> 00:02:24,839
+not financial advice.
+
+78
+00:02:25,188 --> 00:02:25,885
+Angle one.
+
+79
+00:02:26,065 --> 00:02:26,820
+The numbers.
+
+80
+00:02:27,000 --> 00:02:28,925
+Before we go decade by decade,
+
+81
+00:02:28,925 --> 00:02:31,429
+you need to know the difference between
+
+82
+00:02:31,429 --> 00:02:33,547
+two words that change everything:
+
+83
+00:02:33,547 --> 00:02:34,767
+median and average.
+
+84
+00:02:35,116 --> 00:02:36,432
+In twenty twenty two,
+
+85
+00:02:36,432 --> 00:02:38,687
+the median net worth of all American
+
+86
+00:02:38,687 --> 00:02:41,255
+families was about one hundred ninety two
+
+87
+00:02:41,255 --> 00:02:43,197
+thousand seven hundred dollars.
+
+88
+00:02:43,377 --> 00:02:45,679
+The average was about one million sixty
+
+89
+00:02:45,679 --> 00:02:46,210
+thousand.
+
+90
+00:02:46,559 --> 00:02:48,591
+Median means the family right in the
+
+91
+00:02:48,591 --> 00:02:48,986
+middle.
+
+92
+00:02:49,166 --> 00:02:50,298
+Half have more,
+
+93
+00:02:50,298 --> 00:02:51,430
+half have less.
+
+94
+00:02:51,610 --> 00:02:54,272
+The average adds everyone up and divides,
+
+95
+00:02:54,272 --> 00:02:56,739
+so a small number of extremely wealthy
+
+96
+00:02:56,739 --> 00:02:58,297
+families pull it way up.
+
+97
+00:02:58,477 --> 00:03:00,559
+That's why the average is more than
+
+98
+00:03:00,559 --> 00:03:01,867
+five times the median.
+
+99
+00:03:02,047 --> 00:03:04,242
+When you see a headline saying the
+
+100
+00:03:04,242 --> 00:03:06,695
+average American has some huge number,
+
+101
+00:03:06,695 --> 00:03:08,696
+it's almost always the average,
+
+102
+00:03:08,696 --> 00:03:11,278
+and it doesn't describe a typical family
+
+103
+00:03:11,278 --> 00:03:11,730
+at all.
+
+104
+00:03:11,910 --> 00:03:12,723
+In this video,
+
+105
+00:03:12,723 --> 00:03:14,058
+we focus on the median.
+
+106
+00:03:14,407 --> 00:03:17,063
+Next, a popular rule of thumb from
+
+107
+00:03:17,063 --> 00:03:18,703
+Fidelity Investments.
+
+108
+00:03:18,883 --> 00:03:21,819
+They suggest aiming to have saved about
+
+109
+00:03:21,819 --> 00:03:24,228
+one times your salary by thirty,
+
+110
+00:03:24,228 --> 00:03:25,809
+three times by forty,
+
+111
+00:03:25,809 --> 00:03:27,240
+six times by fifty,
+
+112
+00:03:27,240 --> 00:03:28,821
+eight times by sixty,
+
+113
+00:03:28,821 --> 00:03:31,004
+and ten times by sixty seven.
+
+114
+00:03:31,184 --> 00:03:33,089
+That's retirement savings,
+
+115
+00:03:33,089 --> 00:03:34,555
+not total net worth,
+
+116
+00:03:34,555 --> 00:03:36,094
+and it's a guideline,
+
+117
+00:03:36,094 --> 00:03:36,826
+not a law.
+
+118
+00:03:37,006 --> 00:03:38,446
+But it gives you a target that
+
+119
+00:03:38,446 --> 00:03:39,549
+grows with your income.
+
+120
+00:03:39,898 --> 00:03:42,521
+For someone earning sixty thousand dollars a
+
+121
+00:03:42,521 --> 00:03:45,323
+year, Fidelity's guideline would mean about one
+
+122
+00:03:45,323 --> 00:03:48,482
+hundred eighty thousand dollars in retirement savings
+
+123
+00:03:48,482 --> 00:03:50,807
+by forty, and about three hundred sixty
+
+124
+00:03:50,807 --> 00:03:51,880
+thousand by fifty.
+
+125
+00:03:52,229 --> 00:03:54,744
+And there's an older formula from Thomas
+
+126
+00:03:54,744 --> 00:03:56,818
+Stanley and William Danko's book,
+
+127
+00:03:56,818 --> 00:03:58,452
+The Millionaire Next Door.
+
+128
+00:03:58,632 --> 00:04:01,486
+Multiply your age by your yearly pretax
+
+129
+00:04:01,486 --> 00:04:03,462
+income, then divide by ten.
+
+130
+00:04:03,642 --> 00:04:05,161
+That's what they called your expected net
+
+131
+00:04:05,161 --> 00:04:05,384
+worth.
+
+132
+00:04:05,564 --> 00:04:07,965
+A forty year old earning seventy thousand
+
+133
+00:04:07,965 --> 00:04:10,308
+dollars would have an expected net worth
+
+134
+00:04:10,308 --> 00:04:12,123
+of two hundred eighty thousand.
+
+135
+00:04:12,303 --> 00:04:13,410
+Above double that,
+
+136
+00:04:13,410 --> 00:04:16,053
+they called you a prodigious accumulator of
+
+137
+00:04:16,053 --> 00:04:16,483
+wealth.
+
+138
+00:04:16,663 --> 00:04:19,113
+Below half, an under accumulator.
+
+139
+00:04:19,462 --> 00:04:21,388
+These rules disagree a bit,
+
+140
+00:04:21,388 --> 00:04:22,957
+and they're all rough.
+
+141
+00:04:23,137 --> 00:04:23,880
+That's fine.
+
+142
+00:04:24,060 --> 00:04:25,973
+The point isn't to hit an exact
+
+143
+00:04:25,973 --> 00:04:26,405
+number.
+
+144
+00:04:26,585 --> 00:04:28,358
+It's to know roughly where you are,
+
+145
+00:04:28,358 --> 00:04:30,282
+and whether you're moving in the right
+
+146
+00:04:30,282 --> 00:04:30,788
+direction.
+
+147
+00:04:30,968 --> 00:04:32,400
+Now, decade by decade,
+
+148
+00:04:32,400 --> 00:04:35,004
+starting with the age group where almost
+
+149
+00:04:35,004 --> 00:04:36,436
+everyone feels behind.
+
+150
+00:04:36,786 --> 00:04:39,320
+Families headed by someone under thirty five
+
+151
+00:04:39,320 --> 00:04:41,105
+had a median net worth of about
+
+152
+00:04:41,105 --> 00:04:43,696
+thirty nine thousand dollars in twenty twenty
+
+153
+00:04:43,696 --> 00:04:43,927
+two.
+
+154
+00:04:44,277 --> 00:04:46,076
+Thirty nine thousand dollars.
+
+155
+00:04:46,256 --> 00:04:48,027
+If you're in your twenties or early
+
+156
+00:04:48,027 --> 00:04:49,898
+thirties and you have less than that,
+
+157
+00:04:49,898 --> 00:04:50,505
+don't panic.
+
+158
+00:04:50,685 --> 00:04:53,027
+Many people in this group are just
+
+159
+00:04:53,027 --> 00:04:55,989
+starting careers, paying off student loans,
+
+160
+00:04:55,989 --> 00:04:57,849
+and buying their first car.
+
+161
+00:04:58,029 --> 00:05:00,303
+Plenty have a negative net worth,
+
+162
+00:05:00,303 --> 00:05:02,440
+especially right after college.
+
+163
+00:05:02,620 --> 00:05:04,826
+This decade isn't about having a lot.
+
+164
+00:05:05,006 --> 00:05:06,272
+It's about the direction.
+
+165
+00:05:06,621 --> 00:05:09,125
+What matters most in this decade is
+
+166
+00:05:09,125 --> 00:05:10,627
+habits, not balances.
+
+167
+00:05:10,807 --> 00:05:12,514
+Building an emergency fund.
+
+168
+00:05:12,694 --> 00:05:14,528
+Getting the full employer match.
+
+169
+00:05:14,708 --> 00:05:16,275
+Avoiding high interest debt.
+
+170
+00:05:16,455 --> 00:05:17,924
+Starting to invest,
+
+171
+00:05:17,924 --> 00:05:19,393
+even small amounts.
+
+172
+00:05:19,573 --> 00:05:22,348
+Because money invested in your twenties has
+
+173
+00:05:22,348 --> 00:05:23,381
+decades to grow.
+
+174
+00:05:23,561 --> 00:05:25,593
+At a seven percent illustration,
+
+175
+00:05:25,593 --> 00:05:28,261
+every dollar invested at twenty five could
+
+176
+00:05:28,261 --> 00:05:31,119
+become roughly fifteen dollars by sixty five.
+
+177
+00:05:31,468 --> 00:05:32,783
+If you're behind here,
+
+178
+00:05:32,783 --> 00:05:34,575
+the fix is simpler than at any
+
+179
+00:05:34,575 --> 00:05:35,172
+other age.
+
+180
+00:05:35,352 --> 00:05:37,848
+You have the most valuable asset in
+
+181
+00:05:37,848 --> 00:05:38,847
+finance: time.
+
+182
+00:05:39,027 --> 00:05:41,159
+Focus on raising your income,
+
+183
+00:05:41,159 --> 00:05:44,762
+because early career raises compound for decades.
+
+184
+00:05:44,942 --> 00:05:45,888
+Learn a skill,
+
+185
+00:05:45,888 --> 00:05:48,117
+switch jobs if the pay is better,
+
+186
+00:05:48,117 --> 00:05:50,143
+and keep your fixed costs low.
+
+187
+00:05:50,323 --> 00:05:52,307
+A modest apartment and an older car
+
+188
+00:05:52,307 --> 00:05:54,462
+in your twenties can be worth hundreds
+
+189
+00:05:54,462 --> 00:05:56,616
+of thousands of dollars by retirement.
+
+190
+00:05:56,965 --> 00:05:58,394
+Your move this decade:
+
+191
+00:05:58,394 --> 00:06:00,343
+get your net worth above zero,
+
+192
+00:06:00,343 --> 00:06:02,616
+then above one times your salary by
+
+193
+00:06:02,616 --> 00:06:03,525
+around thirty.
+
+194
+00:06:03,705 --> 00:06:06,379
+Invest a fixed percentage of every paycheck
+
+195
+00:06:06,379 --> 00:06:09,487
+automatically, starting with at least the employer
+
+196
+00:06:09,487 --> 00:06:11,601
+match, and raise it by one percent
+
+197
+00:06:11,601 --> 00:06:12,285
+every year.
+
+198
+00:06:12,465 --> 00:06:13,660
+If you do just that,
+
+199
+00:06:13,660 --> 00:06:16,168
+you'll likely end your thirties well ahead
+
+200
+00:06:16,168 --> 00:06:17,004
+of the median.
+
+201
+00:06:17,354 --> 00:06:19,796
+For families headed by someone thirty five
+
+202
+00:06:19,796 --> 00:06:20,610
+to forty four,
+
+203
+00:06:20,610 --> 00:06:22,587
+the median net worth was about one
+
+204
+00:06:22,587 --> 00:06:24,738
+hundred thirty five thousand dollars.
+
+205
+00:06:25,088 --> 00:06:26,249
+Look at that jump.
+
+206
+00:06:26,429 --> 00:06:29,139
+From about thirty nine thousand to about
+
+207
+00:06:29,139 --> 00:06:31,375
+one hundred thirty five thousand,
+
+208
+00:06:31,375 --> 00:06:33,339
+more than three times higher,
+
+209
+00:06:33,339 --> 00:06:34,626
+in just one decade.
+
+210
+00:06:34,806 --> 00:06:37,693
+That's what happens when people's incomes rise,
+
+211
+00:06:37,693 --> 00:06:38,860
+they pay down debt,
+
+212
+00:06:38,860 --> 00:06:40,272
+they build home equity,
+
+213
+00:06:40,272 --> 00:06:42,852
+and their early investments start to grow.
+
+214
+00:06:43,032 --> 00:06:44,977
+This is often the decade where wealth
+
+215
+00:06:44,977 --> 00:06:45,923
+starts to show up.
+
+216
+00:06:46,272 --> 00:06:48,893
+What matters in this decade is protecting
+
+217
+00:06:48,893 --> 00:06:51,322
+your savings rate while life gets more
+
+218
+00:06:51,322 --> 00:06:51,961
+expensive.
+
+219
+00:06:52,141 --> 00:06:54,076
+Kids, bigger homes,
+
+220
+00:06:54,076 --> 00:06:55,706
+childcare, cars.
+
+221
+00:06:55,886 --> 00:06:57,735
+These are also the years of peak
+
+222
+00:06:57,735 --> 00:06:58,660
+lifestyle creep.
+
+223
+00:06:58,840 --> 00:07:00,766
+The families who come out of this
+
+224
+00:07:00,766 --> 00:07:02,983
+decade strong are usually the ones who
+
+225
+00:07:02,983 --> 00:07:05,433
+let their lifestyle grow slower than their
+
+226
+00:07:05,433 --> 00:07:08,175
+income, and kept investing through every raise.
+
+227
+00:07:08,524 --> 00:07:10,771
+If you're behind in your late thirties
+
+228
+00:07:10,771 --> 00:07:11,776
+or early forties,
+
+229
+00:07:11,776 --> 00:07:13,845
+you still have twenty five years or
+
+230
+00:07:13,845 --> 00:07:16,268
+more before a traditional retirement age.
+
+231
+00:07:16,448 --> 00:07:19,110
+That's plenty of time for compounding to
+
+232
+00:07:19,110 --> 00:07:20,175
+do serious work.
+
+233
+00:07:20,355 --> 00:07:22,275
+The key is to increase what you
+
+234
+00:07:22,275 --> 00:07:24,070
+invest, not just maintain it.
+
+235
+00:07:24,250 --> 00:07:26,476
+Look at your three biggest costs,
+
+236
+00:07:26,476 --> 00:07:28,365
+housing, cars and childcare,
+
+237
+00:07:28,365 --> 00:07:30,996
+because that's where the real money is.
+
+238
+00:07:31,345 --> 00:07:32,751
+Your move this decade:
+
+239
+00:07:32,751 --> 00:07:35,179
+aim for around three times your salary
+
+240
+00:07:35,179 --> 00:07:37,160
+in retirement savings by forty,
+
+241
+00:07:37,160 --> 00:07:37,862
+if you can,
+
+242
+00:07:37,862 --> 00:07:40,482
+and push your savings rate toward fifteen
+
+243
+00:07:40,482 --> 00:07:41,504
+percent or more.
+
+244
+00:07:41,684 --> 00:07:43,950
+Make sure you have term life insurance
+
+245
+00:07:43,950 --> 00:07:45,918
+if anyone depends on your income,
+
+246
+00:07:45,918 --> 00:07:46,932
+and a basic will.
+
+247
+00:07:47,112 --> 00:07:48,277
+Those aren't exciting,
+
+248
+00:07:48,277 --> 00:07:50,607
+but they protect everything you're building.
+
+249
+00:07:50,957 --> 00:07:53,461
+For families headed by someone forty five
+
+250
+00:07:53,461 --> 00:07:54,316
+to fifty four,
+
+251
+00:07:54,316 --> 00:07:56,394
+the median net worth was about two
+
+252
+00:07:56,394 --> 00:07:58,654
+hundred forty seven thousand dollars.
+
+253
+00:07:59,003 --> 00:08:01,871
+Around two hundred forty seven thousand dollars.
+
+254
+00:08:02,051 --> 00:08:03,137
+For many families,
+
+255
+00:08:03,137 --> 00:08:04,765
+a big piece of this is home
+
+256
+00:08:04,765 --> 00:08:07,117
+equity, since people in this group have
+
+257
+00:08:07,117 --> 00:08:09,168
+often owned their homes for years.
+
+258
+00:08:09,348 --> 00:08:11,967
+Their retirement accounts have also had decades
+
+259
+00:08:11,967 --> 00:08:12,413
+to grow.
+
+260
+00:08:12,593 --> 00:08:14,561
+This is where the gap between people
+
+261
+00:08:14,561 --> 00:08:16,693
+who started early and people who didn't
+
+262
+00:08:16,693 --> 00:08:17,841
+becomes very visible.
+
+263
+00:08:18,190 --> 00:08:20,222
+What matters most in this decade is
+
+264
+00:08:20,222 --> 00:08:22,428
+that these are often your peak earning
+
+265
+00:08:22,428 --> 00:08:22,776
+years.
+
+266
+00:08:22,956 --> 00:08:24,437
+Kids may be getting older,
+
+267
+00:08:24,437 --> 00:08:26,146
+the mortgage may be shrinking,
+
+268
+00:08:26,146 --> 00:08:28,082
+and your income may be the highest
+
+269
+00:08:28,082 --> 00:08:28,994
+it will ever be.
+
+270
+00:08:29,174 --> 00:08:30,360
+That creates a window,
+
+271
+00:08:30,360 --> 00:08:31,438
+maybe fifteen years,
+
+272
+00:08:31,438 --> 00:08:33,109
+where you can save more than at
+
+273
+00:08:33,109 --> 00:08:34,619
+any other time in your life.
+
+274
+00:08:34,799 --> 00:08:35,321
+Use it.
+
+275
+00:08:35,671 --> 00:08:36,759
+If you're behind,
+
+276
+00:08:36,759 --> 00:08:38,295
+here's the honest truth.
+
+277
+00:08:38,475 --> 00:08:40,251
+You can't get back the years you
+
+278
+00:08:40,251 --> 00:08:41,971
+lost, but you can make the next
+
+279
+00:08:41,971 --> 00:08:42,748
+fifteen count.
+
+280
+00:08:42,928 --> 00:08:44,582
+Starting at age fifty,
+
+281
+00:08:44,582 --> 00:08:47,817
+the IRS allows extra catch up contributions
+
+282
+00:08:47,817 --> 00:08:50,524
+to retirement accounts on top of the
+
+283
+00:08:50,524 --> 00:08:51,577
+normal limits.
+
+284
+00:08:51,757 --> 00:08:53,253
+Check the current amounts,
+
+285
+00:08:53,253 --> 00:08:54,404
+because they change.
+
+286
+00:08:54,584 --> 00:08:57,253
+Every dollar of catch up contribution is
+
+287
+00:08:57,253 --> 00:08:59,588
+a dollar that grows tax advantaged.
+
+288
+00:08:59,938 --> 00:09:01,306
+Your move this decade:
+
+289
+00:09:01,306 --> 00:09:03,358
+aim to put twenty percent or more
+
+290
+00:09:03,358 --> 00:09:05,970
+of your income toward retirement if you're
+
+291
+00:09:05,970 --> 00:09:06,405
+behind.
+
+292
+00:09:06,585 --> 00:09:08,826
+Pay off any remaining high interest debt.
+
+293
+00:09:09,006 --> 00:09:11,465
+Avoid taking on a new mortgage or
+
+294
+00:09:11,465 --> 00:09:13,627
+big car loans now if you can.
+
+295
+00:09:13,807 --> 00:09:14,906
+And get a clear estimate of your
+
+296
+00:09:14,906 --> 00:09:16,246
+Social Security benefit at ssa dot gov,
+
+297
+00:09:16,246 --> 00:09:17,620
+because that number changes how much you
+
+298
+00:09:17,620 --> 00:09:18,033
+really need.
+
+299
+00:09:18,382 --> 00:09:19,451
+Quick pause.
+
+300
+00:09:19,631 --> 00:09:21,879
+If you're finding your decade useful,
+
+301
+00:09:21,879 --> 00:09:22,487
+subscribe.
+
+302
+00:09:22,667 --> 00:09:25,286
+This channel goes step by step through
+
+303
+00:09:25,286 --> 00:09:27,424
+every stage of building wealth,
+
+304
+00:09:27,424 --> 00:09:29,905
+and new videos come out every couple
+
+305
+00:09:29,905 --> 00:09:30,457
+of days.
+
+306
+00:09:30,637 --> 00:09:32,399
+It's free, and it helps more than
+
+307
+00:09:32,399 --> 00:09:33,040
+you'd think.
+
+308
+00:09:33,220 --> 00:09:35,925
+Now, the decades closest to retirement.
+
+309
+00:09:36,275 --> 00:09:38,895
+For families headed by someone fifty five
+
+310
+00:09:38,895 --> 00:09:39,790
+to sixty four,
+
+311
+00:09:39,790 --> 00:09:42,090
+the median net worth was about three
+
+312
+00:09:42,090 --> 00:09:44,391
+hundred sixty four thousand dollars.
+
+313
+00:09:44,740 --> 00:09:47,681
+Around three hundred sixty four thousand dollars,
+
+314
+00:09:47,681 --> 00:09:50,081
+right before retirement for many people.
+
+315
+00:09:50,261 --> 00:09:51,934
+That may sound like a lot,
+
+316
+00:09:51,934 --> 00:09:54,185
+but remember, it includes the home.
+
+317
+00:09:54,365 --> 00:09:56,562
+The money available to live on is
+
+318
+00:09:56,562 --> 00:09:57,628
+often much less.
+
+319
+00:09:57,808 --> 00:09:59,776
+And with the four percent rule of
+
+320
+00:09:59,776 --> 00:10:02,757
+thumb, two hundred thousand dollars of investments
+
+321
+00:10:02,757 --> 00:10:05,381
+supports only about eight thousand dollars a
+
+322
+00:10:05,381 --> 00:10:05,679
+year.
+
+323
+00:10:06,029 --> 00:10:08,166
+What matters in this decade is the
+
+324
+00:10:08,166 --> 00:10:09,675
+plan for the transition.
+
+325
+00:10:09,855 --> 00:10:11,840
+When will you claim Social Security?
+
+326
+00:10:12,020 --> 00:10:14,186
+How will you pay for health insurance
+
+327
+00:10:14,186 --> 00:10:16,351
+before Medicare starts at sixty five?
+
+328
+00:10:16,531 --> 00:10:17,773
+Will you downsize?
+
+329
+00:10:17,953 --> 00:10:19,611
+Will you work part time for a
+
+330
+00:10:19,611 --> 00:10:20,182
+few years?
+
+331
+00:10:20,362 --> 00:10:22,701
+These decisions can matter as much as
+
+332
+00:10:22,701 --> 00:10:24,344
+anything you saved before.
+
+333
+00:10:24,694 --> 00:10:26,863
+If you're behind at fifty five or
+
+334
+00:10:26,863 --> 00:10:28,770
+sixty, you have real options.
+
+335
+00:10:28,950 --> 00:10:31,390
+Working even two or three more years
+
+336
+00:10:31,390 --> 00:10:33,220
+can make a huge difference:
+
+337
+00:10:33,220 --> 00:10:34,643
+more years of saving,
+
+338
+00:10:34,643 --> 00:10:36,473
+fewer years of withdrawals,
+
+339
+00:10:36,473 --> 00:10:38,981
+and a bigger Social Security check if
+
+340
+00:10:38,981 --> 00:10:40,269
+you delay claiming.
+
+341
+00:10:40,449 --> 00:10:44,410
+The Social Security Administration explains that benefits
+
+342
+00:10:44,410 --> 00:10:46,702
+grow for each year you delay past
+
+343
+00:10:46,702 --> 00:10:48,092
+full retirement age,
+
+344
+00:10:48,092 --> 00:10:49,342
+up to age seventy.
+
+345
+00:10:49,692 --> 00:10:51,134
+Your move this decade:
+
+346
+00:10:51,134 --> 00:10:53,559
+max out catch up contributions if you
+
+347
+00:10:53,559 --> 00:10:56,114
+can, plan your health insurance bridge,
+
+348
+00:10:56,114 --> 00:10:59,456
+and decide your Social Security strategy carefully.
+
+349
+00:10:59,636 --> 00:11:02,988
+Many people also reduce investment risk gradually
+
+350
+00:11:02,988 --> 00:11:04,014
+in this decade,
+
+351
+00:11:04,014 --> 00:11:05,724
+with more bonds and cash,
+
+352
+00:11:05,724 --> 00:11:08,528
+so a market crash right before retirement
+
+353
+00:11:08,528 --> 00:11:10,306
+doesn't derail everything.
+
+354
+00:11:10,655 --> 00:11:13,280
+For families headed by someone sixty five
+
+355
+00:11:13,280 --> 00:11:14,304
+to seventy four,
+
+356
+00:11:14,304 --> 00:11:16,544
+the median net worth was about four
+
+357
+00:11:16,544 --> 00:11:18,401
+hundred ten thousand dollars,
+
+358
+00:11:18,401 --> 00:11:20,257
+the highest of any age group.
+
+359
+00:11:20,437 --> 00:11:21,971
+For seventy five and older,
+
+360
+00:11:21,971 --> 00:11:24,245
+about three hundred thirty six thousand.
+
+361
+00:11:24,594 --> 00:11:26,805
+Net worth usually peaks in the late
+
+362
+00:11:26,805 --> 00:11:28,574
+sixties and early seventies,
+
+363
+00:11:28,574 --> 00:11:31,227
+then slowly declines as people spend their
+
+364
+00:11:31,227 --> 00:11:32,617
+savings in retirement.
+
+365
+00:11:32,797 --> 00:11:33,888
+That's not failure.
+
+366
+00:11:34,068 --> 00:11:35,903
+That's exactly what the money was for.
+
+367
+00:11:36,083 --> 00:11:37,899
+The goal in this stage isn't to
+
+368
+00:11:37,899 --> 00:11:38,660
+keep growing.
+
+369
+00:11:38,840 --> 00:11:40,414
+It's to make the money last,
+
+370
+00:11:40,414 --> 00:11:41,313
+and to enjoy it.
+
+371
+00:11:41,662 --> 00:11:44,530
+What matters in this decade is managing
+
+372
+00:11:44,530 --> 00:11:47,177
+withdrawals, taxes and health costs.
+
+373
+00:11:47,357 --> 00:11:51,260
+Required minimum distributions from many retirement accounts
+
+374
+00:11:51,260 --> 00:11:52,821
+start in your seventies,
+
+375
+00:11:52,821 --> 00:11:55,163
+and the rules have changed in recent
+
+376
+00:11:55,163 --> 00:11:57,504
+years, so check the current IRS age.
+
+377
+00:11:57,684 --> 00:11:59,921
+Long term care is another big unknown,
+
+378
+00:11:59,921 --> 00:12:01,981
+and planning for it early gives you
+
+379
+00:12:01,981 --> 00:12:02,746
+more choices.
+
+380
+00:12:03,096 --> 00:12:04,802
+If you're behind in retirement,
+
+381
+00:12:04,802 --> 00:12:06,452
+focus on what you can control.
+
+382
+00:12:06,632 --> 00:12:08,167
+Reduce big fixed costs,
+
+383
+00:12:08,167 --> 00:12:09,836
+like housing, if you can.
+
+384
+00:12:10,016 --> 00:12:12,448
+Look into every benefit you may qualify
+
+385
+00:12:12,448 --> 00:12:12,698
+for.
+
+386
+00:12:12,878 --> 00:12:14,933
+Consider part time work you enjoy.
+
+387
+00:12:15,113 --> 00:12:17,405
+And be extremely careful with scams,
+
+388
+00:12:17,405 --> 00:12:19,316
+which target retirees heavily.
+
+389
+00:12:19,496 --> 00:12:22,747
+The FBI's Internet Crime Complaint Center reports
+
+390
+00:12:22,747 --> 00:12:25,534
+billions of dollars in losses among people
+
+391
+00:12:25,534 --> 00:12:26,264
+over sixty.
+
+392
+00:12:26,614 --> 00:12:28,032
+Your move in this stage:
+
+393
+00:12:28,032 --> 00:12:30,158
+write a simple yearly spending plan,
+
+394
+00:12:30,158 --> 00:12:32,107
+keep one to two years of spending
+
+395
+00:12:32,107 --> 00:12:33,111
+in safe accounts,
+
+396
+00:12:33,111 --> 00:12:35,415
+and review beneficiaries and your will.
+
+397
+00:12:35,595 --> 00:12:37,225
+And if you have more than you
+
+398
+00:12:37,225 --> 00:12:39,136
+need, decide while you can how you
+
+399
+00:12:39,136 --> 00:12:40,990
+want to help family or causes you
+
+400
+00:12:40,990 --> 00:12:41,609
+care about.
+
+401
+00:12:41,958 --> 00:12:43,324
+Before the psychology,
+
+402
+00:12:43,324 --> 00:12:45,684
+let's look at what actually builds net
+
+403
+00:12:45,684 --> 00:12:47,485
+worth in American households.
+
+404
+00:12:47,665 --> 00:12:49,782
+Because when you look at the Federal
+
+405
+00:12:49,782 --> 00:12:52,016
+Reserve data, the same few things show
+
+406
+00:12:52,016 --> 00:12:53,133
+up again and again.
+
+407
+00:12:53,483 --> 00:12:54,691
+The first is the home.
+
+408
+00:12:54,871 --> 00:12:56,223
+For the middle class,
+
+409
+00:12:56,223 --> 00:12:58,734
+home equity is often the largest single
+
+410
+00:12:58,734 --> 00:12:59,120
+asset.
+
+411
+00:12:59,300 --> 00:13:01,723
+Every mortgage payment pays down a bit
+
+412
+00:13:01,723 --> 00:13:02,489
+of the loan,
+
+413
+00:13:02,489 --> 00:13:04,912
+and over long periods home prices have
+
+414
+00:13:04,912 --> 00:13:05,869
+tended to rise,
+
+415
+00:13:05,869 --> 00:13:08,228
+though not always and not everywhere.
+
+416
+00:13:08,408 --> 00:13:10,411
+That's why net worth often jumps for
+
+417
+00:13:10,411 --> 00:13:12,414
+people in their forties and fifties.
+
+418
+00:13:12,594 --> 00:13:14,916
+It's not that they suddenly became great
+
+419
+00:13:14,916 --> 00:13:15,496
+investors.
+
+420
+00:13:15,676 --> 00:13:18,207
+Their house quietly turned into savings.
+
+421
+00:13:18,557 --> 00:13:20,251
+But the home is a slow,
+
+422
+00:13:20,251 --> 00:13:21,355
+illiquid lever.
+
+423
+00:13:21,535 --> 00:13:23,503
+You can't sell a bedroom to pay
+
+424
+00:13:23,503 --> 00:13:24,391
+for groceries.
+
+425
+00:13:24,571 --> 00:13:26,946
+And a house that's too expensive can
+
+426
+00:13:26,946 --> 00:13:29,123
+drain your savings through taxes,
+
+427
+00:13:29,123 --> 00:13:30,574
+insurance and repairs.
+
+428
+00:13:30,754 --> 00:13:32,725
+The best version of this lever is
+
+429
+00:13:32,725 --> 00:13:34,755
+a home you can comfortably afford,
+
+430
+00:13:34,755 --> 00:13:36,009
+kept for a long time,
+
+431
+00:13:36,009 --> 00:13:38,219
+with a mortgage you'll pay off before
+
+432
+00:13:38,219 --> 00:13:39,473
+or around retirement.
+
+433
+00:13:39,822 --> 00:13:42,377
+The second lever is retirement accounts.
+
+434
+00:13:42,557 --> 00:13:44,875
+Workplace plans like a 401k,
+
+435
+00:13:44,875 --> 00:13:48,187
+plus IRAs, let money grow without yearly
+
+436
+00:13:48,187 --> 00:13:52,576
+taxes, and many employers add matching contributions.
+
+437
+00:13:52,756 --> 00:13:53,680
+For many families,
+
+438
+00:13:53,680 --> 00:13:55,785
+these accounts and the home together make
+
+439
+00:13:55,785 --> 00:13:57,017
+up most of their wealth.
+
+440
+00:13:57,197 --> 00:13:59,423
+The secret here is automation:
+
+441
+00:13:59,423 --> 00:14:02,392
+contributions taken from every paycheck,
+
+442
+00:14:02,392 --> 00:14:05,138
+invested, and left alone for decades.
+
+443
+00:14:05,488 --> 00:14:07,822
+The third lever is business ownership.
+
+444
+00:14:08,002 --> 00:14:09,980
+In the Federal Reserve's data,
+
+445
+00:14:09,980 --> 00:14:12,353
+families that own a business tend to
+
+446
+00:14:12,353 --> 00:14:14,792
+have much higher net worth than those
+
+447
+00:14:14,792 --> 00:14:17,626
+that don't, though business is also riskier
+
+448
+00:14:17,626 --> 00:14:19,670
+and many small businesses fail.
+
+449
+00:14:19,850 --> 00:14:21,452
+You don't have to start a company
+
+450
+00:14:21,452 --> 00:14:21,986
+to benefit.
+
+451
+00:14:22,166 --> 00:14:24,779
+Owning broad stock index funds makes you
+
+452
+00:14:24,779 --> 00:14:27,391
+a part owner of thousands of businesses.
+
+453
+00:14:27,740 --> 00:14:30,110
+And the fourth lever works in reverse:
+
+454
+00:14:30,110 --> 00:14:30,422
+debt.
+
+455
+00:14:30,602 --> 00:14:32,952
+High interest debt pulls net worth down
+
+456
+00:14:32,952 --> 00:14:34,097
+every single month.
+
+457
+00:14:34,277 --> 00:14:36,382
+A thirty thousand dollar car loan,
+
+458
+00:14:36,382 --> 00:14:39,169
+a twenty thousand dollar credit card balance,
+
+459
+00:14:39,169 --> 00:14:41,212
+and a large student loan can keep
+
+460
+00:14:41,212 --> 00:14:43,689
+someone's net worth near zero for years,
+
+461
+00:14:43,689 --> 00:14:45,051
+even on a good income.
+
+462
+00:14:45,231 --> 00:14:47,433
+Paying down expensive debt is one of
+
+463
+00:14:47,433 --> 00:14:49,634
+the most reliable ways to raise your
+
+464
+00:14:49,634 --> 00:14:52,142
+net worth, because every dollar repaid is
+
+465
+00:14:52,142 --> 00:14:53,915
+a dollar of net worth gained.
+
+466
+00:14:54,265 --> 00:14:55,867
+So if you want to move your
+
+467
+00:14:55,867 --> 00:14:57,528
+number, focus on these four.
+
+468
+00:14:57,708 --> 00:14:59,902
+An affordable home kept long term.
+
+469
+00:15:00,082 --> 00:15:03,519
+Automatic retirement investing with every matching dollar.
+
+470
+00:15:03,699 --> 00:15:06,566
+Ownership, through funds or a business.
+
+471
+00:15:06,746 --> 00:15:08,848
+And getting rid of expensive debt.
+
+472
+00:15:09,028 --> 00:15:11,222
+Almost everything else is detail.
+
+473
+00:15:11,572 --> 00:15:13,661
+Let's meet five example people,
+
+474
+00:15:13,661 --> 00:15:15,009
+one for each decade.
+
+475
+00:15:15,189 --> 00:15:16,145
+They're made up,
+
+476
+00:15:16,145 --> 00:15:17,938
+but each one is built from the
+
+477
+00:15:17,938 --> 00:15:19,670
+typical patterns in the data.
+
+478
+00:15:19,850 --> 00:15:21,905
+See if you recognize yourself.
+
+479
+00:15:22,255 --> 00:15:24,229
+Jasmine is twenty eight.
+
+480
+00:15:24,409 --> 00:15:27,628
+She has eighteen thousand dollars in savings
+
+481
+00:15:27,628 --> 00:15:28,432
+and a 401k,
+
+482
+00:15:28,432 --> 00:15:30,408
+a car worth eight thousand,
+
+483
+00:15:30,408 --> 00:15:33,407
+and twenty two thousand in student loans.
+
+484
+00:15:33,587 --> 00:15:35,558
+Her net worth is about plus four
+
+485
+00:15:35,558 --> 00:15:36,605
+thousand dollars.
+
+486
+00:15:36,785 --> 00:15:39,195
+Below the median for her age group,
+
+487
+00:15:39,195 --> 00:15:40,296
+but moving fast,
+
+488
+00:15:40,296 --> 00:15:43,669
+because she just started contributing ten percent
+
+489
+00:15:43,669 --> 00:15:45,528
+of her salary with a match.
+
+490
+00:15:45,708 --> 00:15:46,568
+In five years,
+
+491
+00:15:46,568 --> 00:15:47,735
+if she keeps going,
+
+492
+00:15:47,735 --> 00:15:50,131
+she'll likely be well above the median.
+
+493
+00:15:50,481 --> 00:15:52,153
+David is thirty nine.
+
+494
+00:15:52,333 --> 00:15:53,957
+He and his wife own a home
+
+495
+00:15:53,957 --> 00:15:56,579
+with ninety thousand dollars of equity and
+
+496
+00:15:56,579 --> 00:15:59,264
+have sixty thousand in retirement accounts.
+
+497
+00:15:59,444 --> 00:16:01,675
+They also have a twenty eight thousand
+
+498
+00:16:01,675 --> 00:16:03,847
+dollar car loan and eight thousand on
+
+499
+00:16:03,847 --> 00:16:04,669
+a credit card.
+
+500
+00:16:04,849 --> 00:16:07,022
+Their net worth is around one hundred
+
+501
+00:16:07,022 --> 00:16:08,549
+fourteen thousand dollars,
+
+502
+00:16:08,549 --> 00:16:10,605
+a little below the median for their
+
+503
+00:16:10,605 --> 00:16:10,840
+age.
+
+504
+00:16:11,020 --> 00:16:13,162
+Paying off the card and not replacing
+
+505
+00:16:13,162 --> 00:16:14,842
+the car for a few years would
+
+506
+00:16:14,842 --> 00:16:15,942
+move them above it.
+
+507
+00:16:16,292 --> 00:16:18,626
+Lisa is forty nine and single.
+
+508
+00:16:18,806 --> 00:16:20,654
+She rents, has no home equity,
+
+509
+00:16:20,654 --> 00:16:23,117
+and has about one hundred forty thousand
+
+510
+00:16:23,117 --> 00:16:25,273
+dollars in her retirement accounts.
+
+511
+00:16:25,453 --> 00:16:27,419
+Her net worth is about one hundred
+
+512
+00:16:27,419 --> 00:16:28,634
+thirty five thousand.
+
+513
+00:16:28,814 --> 00:16:30,759
+Below the median for her age,
+
+514
+00:16:30,759 --> 00:16:33,307
+mostly because she doesn't own a home.
+
+515
+00:16:33,487 --> 00:16:35,701
+But her money is liquid and invested,
+
+516
+00:16:35,701 --> 00:16:38,394
+and with catch up contributions starting next
+
+517
+00:16:38,394 --> 00:16:40,070
+year, she can put away a lot
+
+518
+00:16:40,070 --> 00:16:41,626
+in her peak earning years.
+
+519
+00:16:41,975 --> 00:16:43,357
+Mike is fifty eight.
+
+520
+00:16:43,537 --> 00:16:45,501
+His house is almost paid off,
+
+521
+00:16:45,501 --> 00:16:48,550
+with three hundred twenty thousand dollars of
+
+522
+00:16:48,550 --> 00:16:50,853
+equity, and he has two hundred ten
+
+523
+00:16:50,853 --> 00:16:52,140
+thousand in a 401k.
+
+524
+00:16:52,320 --> 00:16:55,327
+Net worth, about five hundred thirty thousand.
+
+525
+00:16:55,507 --> 00:16:57,086
+Comfortably above the median.
+
+526
+00:16:57,266 --> 00:16:58,847
+But his investable money,
+
+527
+00:16:58,847 --> 00:17:01,251
+the part that will pay for retirement,
+
+528
+00:17:01,251 --> 00:17:03,338
+is only two hundred ten thousand.
+
+529
+00:17:03,518 --> 00:17:06,072
+Mike's real question isn't his net worth.
+
+530
+00:17:06,252 --> 00:17:07,953
+It's whether to downsize,
+
+531
+00:17:07,953 --> 00:17:09,450
+work a few more years,
+
+532
+00:17:09,450 --> 00:17:11,152
+or delay Social Security.
+
+533
+00:17:11,501 --> 00:17:13,405
+And Rosa is seventy one.
+
+534
+00:17:13,585 --> 00:17:15,760
+Her net worth is about four hundred
+
+535
+00:17:15,760 --> 00:17:18,369
+thousand dollars, mostly her paid off home
+
+536
+00:17:18,369 --> 00:17:20,667
+plus one hundred thousand in savings.
+
+537
+00:17:20,847 --> 00:17:23,404
+With Social Security covering most of her
+
+538
+00:17:23,404 --> 00:17:25,837
+bills, she withdraws a little each year
+
+539
+00:17:25,837 --> 00:17:27,895
+for travel and her grandchildren.
+
+540
+00:17:28,075 --> 00:17:30,360
+Her net worth is slowly declining,
+
+541
+00:17:30,360 --> 00:17:32,243
+and that's exactly the plan.
+
+542
+00:17:32,423 --> 00:17:34,083
+Her money is doing its job.
+
+543
+00:17:34,433 --> 00:17:36,486
+Notice that the net worth number alone
+
+544
+00:17:36,486 --> 00:17:38,485
+doesn't tell you who's in good shape.
+
+545
+00:17:38,665 --> 00:17:41,492
+Jasmine's small number is healthy because of
+
+546
+00:17:41,492 --> 00:17:42,392
+her direction.
+
+547
+00:17:42,572 --> 00:17:45,266
+Mike's big number hides a retirement question.
+
+548
+00:17:45,446 --> 00:17:47,872
+Rosa's falling number is a success.
+
+549
+00:17:48,052 --> 00:17:49,863
+That's why the playbook matters more than
+
+550
+00:17:49,863 --> 00:17:50,525
+the comparison.
+
+551
+00:17:50,875 --> 00:17:51,746
+Angle two.
+
+552
+00:17:51,926 --> 00:17:52,936
+The psychology.
+
+553
+00:17:53,116 --> 00:17:55,423
+Because looking at these numbers does something
+
+554
+00:17:55,423 --> 00:17:55,914
+to people.
+
+555
+00:17:56,094 --> 00:17:57,348
+Some feel proud.
+
+556
+00:17:57,528 --> 00:17:58,852
+Some feel crushed.
+
+557
+00:17:59,032 --> 00:18:00,964
+And how you react matters more than
+
+558
+00:18:00,964 --> 00:18:01,957
+the number itself.
+
+559
+00:18:02,307 --> 00:18:04,770
+The first trap is comparing yourself to
+
+560
+00:18:04,770 --> 00:18:06,917
+the average instead of the median.
+
+561
+00:18:07,097 --> 00:18:09,255
+People see a headline that the average
+
+562
+00:18:09,255 --> 00:18:11,414
+American in their forties has nearly a
+
+563
+00:18:11,414 --> 00:18:13,970
+million dollars, and they feel like failures.
+
+564
+00:18:14,150 --> 00:18:15,981
+But that average is pulled up by
+
+565
+00:18:15,981 --> 00:18:18,271
+a small number of very wealthy families.
+
+566
+00:18:18,451 --> 00:18:20,212
+Compare yourself to the median,
+
+567
+00:18:20,212 --> 00:18:22,712
+and most people discover they're much closer
+
+568
+00:18:22,712 --> 00:18:24,303
+to normal than they thought.
+
+569
+00:18:24,652 --> 00:18:26,944
+The second trap is comparing yourself to
+
+570
+00:18:26,944 --> 00:18:28,205
+the people around you.
+
+571
+00:18:28,385 --> 00:18:29,970
+Your neighbor's new truck,
+
+572
+00:18:29,970 --> 00:18:31,372
+your friend's vacation,
+
+573
+00:18:31,372 --> 00:18:33,017
+your coworker's renovation.
+
+574
+00:18:33,197 --> 00:18:34,285
+You see their spending,
+
+575
+00:18:34,285 --> 00:18:35,183
+but not their debt.
+
+576
+00:18:35,363 --> 00:18:37,227
+Some of the people who look the
+
+577
+00:18:37,227 --> 00:18:39,273
+richest have the lowest net worth,
+
+578
+00:18:39,273 --> 00:18:41,679
+because they spend everything they earn.
+
+579
+00:18:41,859 --> 00:18:44,424
+Stanley and Danko found exactly this in
+
+580
+00:18:44,424 --> 00:18:45,411
+their research.
+
+581
+00:18:45,591 --> 00:18:48,544
+Many true millionaires lived in modest homes
+
+582
+00:18:48,544 --> 00:18:50,154
+and drove ordinary cars.
+
+583
+00:18:50,503 --> 00:18:52,048
+The third trap is shame.
+
+584
+00:18:52,228 --> 00:18:54,065
+When people feel far behind,
+
+585
+00:18:54,065 --> 00:18:55,641
+they often stop looking.
+
+586
+00:18:55,821 --> 00:18:57,570
+They avoid opening statements,
+
+587
+00:18:57,570 --> 00:18:59,086
+they don't check balances,
+
+588
+00:18:59,086 --> 00:19:01,069
+and the problem grows in the dark.
+
+589
+00:19:01,249 --> 00:19:03,610
+Research on financial stress has found that
+
+590
+00:19:03,610 --> 00:19:05,586
+worry about money can make it harder
+
+591
+00:19:05,586 --> 00:19:07,948
+to think clearly about long term decisions.
+
+592
+00:19:08,128 --> 00:19:09,820
+The fix is to look anyway,
+
+593
+00:19:09,820 --> 00:19:11,773
+and turn a scary number into a
+
+594
+00:19:11,773 --> 00:19:12,098
+plan.
+
+595
+00:19:12,448 --> 00:19:14,762
+The fourth trap is the opposite:
+
+596
+00:19:14,762 --> 00:19:15,630
+complacency.
+
+597
+00:19:15,810 --> 00:19:18,745
+Some people discover they're above the median
+
+598
+00:19:18,745 --> 00:19:19,397
+and relax.
+
+599
+00:19:19,577 --> 00:19:21,690
+But the median isn't a finish line.
+
+600
+00:19:21,870 --> 00:19:23,994
+A median sixty year old with three
+
+601
+00:19:23,994 --> 00:19:25,930
+hundred sixty thousand dollars,
+
+602
+00:19:25,930 --> 00:19:27,304
+mostly in home equity,
+
+603
+00:19:27,304 --> 00:19:29,927
+may not have enough to retire comfortably.
+
+604
+00:19:30,107 --> 00:19:31,958
+Being normal isn't the same as being
+
+605
+00:19:31,958 --> 00:19:32,267
+ready.
+
+606
+00:19:32,447 --> 00:19:34,188
+Your target is your own number,
+
+607
+00:19:34,188 --> 00:19:35,198
+not the country's.
+
+608
+00:19:35,548 --> 00:19:37,673
+So here's the healthy way to use
+
+609
+00:19:37,673 --> 00:19:38,602
+these numbers.
+
+610
+00:19:38,782 --> 00:19:39,943
+Look at them once.
+
+611
+00:19:40,123 --> 00:19:41,005
+Find your decade.
+
+612
+00:19:41,185 --> 00:19:43,665
+Notice whether you're above or below the
+
+613
+00:19:43,665 --> 00:19:44,099
+median.
+
+614
+00:19:44,279 --> 00:19:45,448
+Then put them away,
+
+615
+00:19:45,448 --> 00:19:48,339
+because staring at other people's numbers every
+
+616
+00:19:48,339 --> 00:19:49,446
+week helps nobody.
+
+617
+00:19:49,626 --> 00:19:52,155
+Focus on the only comparison that really
+
+618
+00:19:52,155 --> 00:19:54,557
+matters: you this year versus you last
+
+619
+00:19:54,557 --> 00:19:54,873
+year.
+
+620
+00:19:55,053 --> 00:19:56,709
+If your net worth is going up
+
+621
+00:19:56,709 --> 00:19:58,251
+every year, you're winning,
+
+622
+00:19:58,251 --> 00:19:59,964
+whatever anyone else is doing.
+
+623
+00:20:00,314 --> 00:20:03,254
+There's one more psychological effect worth knowing
+
+624
+00:20:03,254 --> 00:20:03,600
+about.
+
+625
+00:20:03,780 --> 00:20:06,100
+When people start tracking their net worth
+
+626
+00:20:06,100 --> 00:20:08,585
+regularly, they tend to make better decisions
+
+627
+00:20:08,585 --> 00:20:09,689
+without even trying.
+
+628
+00:20:09,869 --> 00:20:12,261
+A purchase stops being just a purchase.
+
+629
+00:20:12,441 --> 00:20:14,171
+It becomes a small dent in a
+
+630
+00:20:14,171 --> 00:20:15,529
+number you care about.
+
+631
+00:20:15,709 --> 00:20:18,478
+Economists sometimes call this salience:
+
+632
+00:20:18,478 --> 00:20:20,277
+what you pay attention to,
+
+633
+00:20:20,277 --> 00:20:21,038
+you manage.
+
+634
+00:20:21,218 --> 00:20:23,577
+That's why the single most useful habit
+
+635
+00:20:23,577 --> 00:20:25,936
+from this whole video is simply writing
+
+636
+00:20:25,936 --> 00:20:26,964
+your number down,
+
+637
+00:20:26,964 --> 00:20:27,569
+regularly.
+
+638
+00:20:27,919 --> 00:20:30,360
+And finally, be kind to yourself about
+
+639
+00:20:30,360 --> 00:20:30,938
+the past.
+
+640
+00:20:31,118 --> 00:20:33,275
+Many people who are behind got there
+
+641
+00:20:33,275 --> 00:20:35,492
+through things they couldn't control:
+
+642
+00:20:35,492 --> 00:20:36,751
+a layoff, an illness,
+
+643
+00:20:36,751 --> 00:20:38,489
+a divorce, caring for family,
+
+644
+00:20:38,489 --> 00:20:40,766
+or starting adult life in a recession.
+
+645
+00:20:40,946 --> 00:20:43,146
+Your number reflects your history,
+
+646
+00:20:43,146 --> 00:20:44,893
+not your worth as a person.
+
+647
+00:20:45,073 --> 00:20:47,388
+What matters now is the next decision,
+
+648
+00:20:47,388 --> 00:20:48,788
+and the one after that.
+
+649
+00:20:49,138 --> 00:20:50,032
+Angle three.
+
+650
+00:20:50,212 --> 00:20:50,955
+The playbook.
+
+651
+00:20:51,135 --> 00:20:53,027
+If you're behind for your age,
+
+652
+00:20:53,027 --> 00:20:55,109
+here's a catch up plan that works
+
+653
+00:20:55,109 --> 00:20:55,803
+at any age.
+
+654
+00:20:55,983 --> 00:20:57,445
+Five moves, in order.
+
+655
+00:20:57,795 --> 00:20:58,550
+Move one.
+
+656
+00:20:58,730 --> 00:20:59,949
+Find your real number.
+
+657
+00:21:00,129 --> 00:21:02,268
+Write down everything you own and everything
+
+658
+00:21:02,268 --> 00:21:02,997
+you owe, today.
+
+659
+00:21:03,177 --> 00:21:04,866
+Then calculate two versions:
+
+660
+00:21:04,866 --> 00:21:06,134
+your total net worth,
+
+661
+00:21:06,134 --> 00:21:08,366
+and your net worth without your home.
+
+662
+00:21:08,546 --> 00:21:10,479
+The second one tells you how much
+
+663
+00:21:10,479 --> 00:21:12,471
+money is actually working for you.
+
+664
+00:21:12,651 --> 00:21:13,881
+Do this once a quarter.
+
+665
+00:21:14,061 --> 00:21:15,720
+It takes less than an hour,
+
+666
+00:21:15,720 --> 00:21:17,993
+and watching the number change is one
+
+667
+00:21:17,993 --> 00:21:19,959
+of the best motivators there is.
+
+668
+00:21:20,309 --> 00:21:21,273
+Move two.
+
+669
+00:21:21,453 --> 00:21:22,811
+Stop the leaks.
+
+670
+00:21:22,991 --> 00:21:25,464
+High interest debt is the biggest one.
+
+671
+00:21:25,644 --> 00:21:28,510
+Credit cards at over twenty percent interest
+
+672
+00:21:28,510 --> 00:21:30,985
+are compounding against you every day.
+
+673
+00:21:31,165 --> 00:21:32,798
+Then the big fixed costs:
+
+674
+00:21:32,798 --> 00:21:34,822
+a car payment that's too large,
+
+675
+00:21:34,822 --> 00:21:36,651
+a home that eats too much of
+
+676
+00:21:36,651 --> 00:21:39,524
+your income, subscriptions you forgot about.
+
+677
+00:21:39,704 --> 00:21:41,682
+Every leak you plug becomes money you
+
+678
+00:21:41,682 --> 00:21:42,270
+can invest.
+
+679
+00:21:42,619 --> 00:21:43,606
+Move three.
+
+680
+00:21:43,786 --> 00:21:45,374
+Raise your savings rate,
+
+681
+00:21:45,374 --> 00:21:47,292
+aggressively but sustainably.
+
+682
+00:21:47,472 --> 00:21:48,521
+If you're behind,
+
+683
+00:21:48,521 --> 00:21:50,619
+ten percent probably isn't enough.
+
+684
+00:21:50,799 --> 00:21:52,033
+Aim for fifteen,
+
+685
+00:21:52,033 --> 00:21:52,958
+then twenty.
+
+686
+00:21:53,138 --> 00:21:55,747
+Use raises, bonuses and paid off loans
+
+687
+00:21:55,747 --> 00:21:58,700
+to get there without cutting your lifestyle
+
+688
+00:21:58,700 --> 00:21:59,524
+all at once.
+
+689
+00:21:59,704 --> 00:22:02,429
+And use every tax advantaged account you
+
+690
+00:22:02,429 --> 00:22:03,451
+have access to:
+
+691
+00:22:03,451 --> 00:22:04,950
+workplace plans, IRAs,
+
+692
+00:22:04,950 --> 00:22:08,016
+and catch up contributions once you're fifty.
+
+693
+00:22:08,366 --> 00:22:09,202
+Move four.
+
+694
+00:22:09,382 --> 00:22:10,567
+Grow your income.
+
+695
+00:22:10,747 --> 00:22:11,551
+At any age,
+
+696
+00:22:11,551 --> 00:22:13,966
+more income is the fastest way to
+
+697
+00:22:13,966 --> 00:22:14,624
+catch up.
+
+698
+00:22:14,804 --> 00:22:16,844
+In your twenties and thirties,
+
+699
+00:22:16,844 --> 00:22:19,564
+it's skills, job changes and promotions.
+
+700
+00:22:19,744 --> 00:22:21,427
+In your forties and fifties,
+
+701
+00:22:21,427 --> 00:22:23,290
+it might be a raise you've been
+
+702
+00:22:23,290 --> 00:22:24,371
+afraid to ask for,
+
+703
+00:22:24,371 --> 00:22:25,753
+consulting on the side,
+
+704
+00:22:25,753 --> 00:22:27,616
+or turning a hobby into income.
+
+705
+00:22:27,796 --> 00:22:30,153
+Even a few hundred extra dollars a
+
+706
+00:22:30,153 --> 00:22:32,510
+month, invested, changes the math.
+
+707
+00:22:32,859 --> 00:22:33,823
+Move five.
+
+708
+00:22:34,003 --> 00:22:36,000
+Let time and consistency work.
+
+709
+00:22:36,180 --> 00:22:38,911
+Invest automatically, in low cost,
+
+710
+00:22:38,911 --> 00:22:42,605
+diversified funds, and don't stop when markets
+
+711
+00:22:42,605 --> 00:22:43,007
+fall.
+
+712
+00:22:43,187 --> 00:22:45,214
+At a seven percent illustration,
+
+713
+00:22:45,214 --> 00:22:48,318
+someone who starts investing one thousand dollars
+
+714
+00:22:48,318 --> 00:22:50,345
+a month at forty five could have
+
+715
+00:22:50,345 --> 00:22:53,322
+roughly five hundred twenty thousand dollars by
+
+716
+00:22:53,322 --> 00:22:54,019
+sixty five.
+
+717
+00:22:54,199 --> 00:22:56,117
+That alone would put them well above
+
+718
+00:22:56,117 --> 00:22:57,450
+the median for their age.
+
+719
+00:22:57,799 --> 00:23:00,536
+On screen: one thousand dollars a month,
+
+720
+00:23:00,536 --> 00:23:02,110
+starting at forty five,
+
+721
+00:23:02,110 --> 00:23:03,273
+for twenty years,
+
+722
+00:23:03,273 --> 00:23:05,462
+at a seven percent illustration.
+
+723
+00:23:05,642 --> 00:23:08,455
+Roughly five hundred twenty thousand dollars at
+
+724
+00:23:08,455 --> 00:23:09,113
+sixty five.
+
+725
+00:23:09,463 --> 00:23:12,050
+Every decade has one mistake that costs
+
+726
+00:23:12,050 --> 00:23:13,840
+people more than any other.
+
+727
+00:23:14,020 --> 00:23:14,852
+Here they are,
+
+728
+00:23:14,852 --> 00:23:16,099
+so you can skip them.
+
+729
+00:23:16,448 --> 00:23:17,511
+In your twenties,
+
+730
+00:23:17,511 --> 00:23:20,013
+the biggest mistake is waiting to start.
+
+731
+00:23:20,193 --> 00:23:22,496
+People think they'll invest once they earn
+
+732
+00:23:22,496 --> 00:23:22,770
+more.
+
+733
+00:23:22,950 --> 00:23:25,162
+But the money invested in your twenties
+
+734
+00:23:25,162 --> 00:23:27,316
+is the most powerful money you'll ever
+
+735
+00:23:27,316 --> 00:23:29,358
+invest, because it has the most time
+
+736
+00:23:29,358 --> 00:23:29,812
+to grow.
+
+737
+00:23:29,992 --> 00:23:32,221
+At a seven percent illustration,
+
+738
+00:23:32,221 --> 00:23:34,728
+a dollar invested at twenty five can
+
+739
+00:23:34,728 --> 00:23:37,584
+grow roughly sixteen times by sixty five.
+
+740
+00:23:37,764 --> 00:23:40,573
+A dollar invested at forty five grows
+
+741
+00:23:40,573 --> 00:23:41,863
+about four times.
+
+742
+00:23:42,043 --> 00:23:42,995
+Same dollar.
+
+743
+00:23:43,175 --> 00:23:44,498
+Very different result.
+
+744
+00:23:44,848 --> 00:23:45,954
+In your thirties,
+
+745
+00:23:45,954 --> 00:23:48,749
+the biggest mistake is lifestyle inflation.
+
+746
+00:23:48,929 --> 00:23:50,427
+Income finally rises,
+
+747
+00:23:50,427 --> 00:23:52,424
+and so does everything else.
+
+748
+00:23:52,604 --> 00:23:53,974
+The house, the cars,
+
+749
+00:23:53,974 --> 00:23:56,099
+the vacations, the restaurants.
+
+750
+00:23:56,279 --> 00:23:57,683
+It all feels deserved.
+
+751
+00:23:57,863 --> 00:23:59,954
+But the thirties are when the gap
+
+752
+00:23:59,954 --> 00:24:02,298
+between savers and spenders opens up.
+
+753
+00:24:02,478 --> 00:24:05,151
+Keep your lifestyle growing slower than your
+
+754
+00:24:05,151 --> 00:24:07,885
+income, and your forties will look completely
+
+755
+00:24:07,885 --> 00:24:08,492
+different.
+
+756
+00:24:08,842 --> 00:24:09,887
+In your forties,
+
+757
+00:24:09,887 --> 00:24:12,758
+the biggest mistake is putting everyone else
+
+758
+00:24:12,758 --> 00:24:13,150
+first.
+
+759
+00:24:13,330 --> 00:24:16,085
+Kids' activities, college savings,
+
+760
+00:24:16,085 --> 00:24:17,382
+helping parents.
+
+761
+00:24:17,562 --> 00:24:19,663
+All of it comes from love.
+
+762
+00:24:19,843 --> 00:24:21,718
+But a common piece of advice from
+
+763
+00:24:21,718 --> 00:24:23,707
+planners is that you can borrow for
+
+764
+00:24:23,707 --> 00:24:26,263
+college, but you can't borrow for retirement.
+
+765
+00:24:26,443 --> 00:24:28,122
+Keep funding your own future,
+
+766
+00:24:28,122 --> 00:24:30,090
+even while you help the people you
+
+767
+00:24:30,090 --> 00:24:30,379
+love.
+
+768
+00:24:30,729 --> 00:24:31,761
+In your fifties,
+
+769
+00:24:31,761 --> 00:24:33,632
+the biggest mistake is panic.
+
+770
+00:24:33,812 --> 00:24:35,994
+Either panic that it's too late,
+
+771
+00:24:35,994 --> 00:24:38,039
+which leads people to give up,
+
+772
+00:24:38,039 --> 00:24:40,289
+or panic that leads them to chase
+
+773
+00:24:40,289 --> 00:24:42,879
+risky investments to catch up quickly.
+
+774
+00:24:43,059 --> 00:24:44,302
+Both are expensive.
+
+775
+00:24:44,482 --> 00:24:46,326
+The fifties reward steady,
+
+776
+00:24:46,326 --> 00:24:47,816
+boring, high savings,
+
+777
+00:24:47,816 --> 00:24:50,937
+using every catch up contribution available.
+
+778
+00:24:51,286 --> 00:24:52,335
+In your sixties,
+
+779
+00:24:52,335 --> 00:24:55,416
+the biggest mistake is claiming Social Security
+
+780
+00:24:55,416 --> 00:24:56,400
+without a plan,
+
+781
+00:24:56,400 --> 00:24:59,612
+or retiring without knowing your health insurance
+
+782
+00:24:59,612 --> 00:25:00,005
+costs.
+
+783
+00:25:00,185 --> 00:25:02,667
+These decisions are mostly permanent,
+
+784
+00:25:02,667 --> 00:25:05,282
+so they deserve real time and research.
+
+785
+00:25:05,462 --> 00:25:07,614
+And in your seventies and beyond,
+
+786
+00:25:07,614 --> 00:25:10,287
+the biggest mistake is falling for scams,
+
+787
+00:25:10,287 --> 00:25:12,960
+or never letting yourself enjoy the money
+
+788
+00:25:12,960 --> 00:25:14,460
+you worked so hard for.
+
+789
+00:25:14,810 --> 00:25:16,560
+Here's a challenge I want to give
+
+790
+00:25:16,560 --> 00:25:16,772
+you.
+
+791
+00:25:16,952 --> 00:25:18,694
+Forget the medians for a moment.
+
+792
+00:25:18,874 --> 00:25:20,671
+Ask yourself one question:
+
+793
+00:25:20,671 --> 00:25:22,745
+where could my net worth be in
+
+794
+00:25:22,745 --> 00:25:23,437
+ten years?
+
+795
+00:25:23,786 --> 00:25:25,331
+Start with today's number.
+
+796
+00:25:25,511 --> 00:25:27,958
+Then add what you'll invest each year,
+
+797
+00:25:27,958 --> 00:25:30,213
+and a conservative growth estimate.
+
+798
+00:25:30,393 --> 00:25:32,365
+At a seven percent illustration,
+
+799
+00:25:32,365 --> 00:25:34,583
+five hundred dollars a month for ten
+
+800
+00:25:34,583 --> 00:25:37,295
+years grows to roughly eighty seven thousand
+
+801
+00:25:37,295 --> 00:25:37,788
+dollars.
+
+802
+00:25:37,968 --> 00:25:39,736
+One thousand dollars a month,
+
+803
+00:25:39,736 --> 00:25:42,357
+roughly one hundred seventy three thousand.
+
+804
+00:25:42,537 --> 00:25:43,951
+Add debt you'll pay off,
+
+805
+00:25:43,951 --> 00:25:45,955
+and equity you'll build in a home,
+
+806
+00:25:45,955 --> 00:25:48,194
+and most people are surprised how much
+
+807
+00:25:48,194 --> 00:25:49,549
+can change in a decade.
+
+808
+00:25:49,899 --> 00:25:52,278
+Ten years is long enough for compounding
+
+809
+00:25:52,278 --> 00:25:53,468
+to start showing up,
+
+810
+00:25:53,468 --> 00:25:55,252
+and short enough to feel real.
+
+811
+00:25:55,432 --> 00:25:57,777
+It's also roughly the gap between the
+
+812
+00:25:57,777 --> 00:26:00,250
+age groups in the Federal Reserve data.
+
+813
+00:26:00,430 --> 00:26:02,119
+So your challenge is this:
+
+814
+00:26:02,119 --> 00:26:02,963
+in ten years,
+
+815
+00:26:02,963 --> 00:26:04,977
+be above the median for the age
+
+816
+00:26:04,977 --> 00:26:06,212
+group you'll be in.
+
+817
+00:26:06,392 --> 00:26:08,079
+If you're thirty two today,
+
+818
+00:26:08,079 --> 00:26:09,953
+aim to beat the forty two year
+
+819
+00:26:09,953 --> 00:26:10,641
+old median.
+
+820
+00:26:10,821 --> 00:26:11,924
+If you're fifty,
+
+821
+00:26:11,924 --> 00:26:14,130
+aim to beat the median at sixty.
+
+822
+00:26:14,479 --> 00:26:16,201
+Write your ten year target on a
+
+823
+00:26:16,201 --> 00:26:17,034
+piece of paper,
+
+824
+00:26:17,034 --> 00:26:19,144
+along with the monthly amount it takes
+
+825
+00:26:19,144 --> 00:26:19,866
+to get there.
+
+826
+00:26:20,046 --> 00:26:21,556
+Then check it once a year,
+
+827
+00:26:21,556 --> 00:26:22,543
+on the same date.
+
+828
+00:26:22,723 --> 00:26:24,692
+Some years you'll be ahead,
+
+829
+00:26:24,692 --> 00:26:25,567
+some behind.
+
+830
+00:26:25,747 --> 00:26:26,804
+Markets will move.
+
+831
+00:26:26,984 --> 00:26:27,878
+Life will happen.
+
+832
+00:26:28,058 --> 00:26:30,137
+But having a clear target turns net
+
+833
+00:26:30,137 --> 00:26:32,156
+worth from a scary judgment into a
+
+834
+00:26:32,156 --> 00:26:33,166
+game you can win.
+
+835
+00:26:33,515 --> 00:26:35,879
+And here's what people often find after
+
+836
+00:26:35,879 --> 00:26:37,091
+a few years of this.
+
+837
+00:26:37,271 --> 00:26:39,457
+The number starts to grow faster than
+
+838
+00:26:39,457 --> 00:26:41,996
+they expected, because growth begins to add
+
+839
+00:26:41,996 --> 00:26:43,355
+to their contributions.
+
+840
+00:26:43,535 --> 00:26:44,986
+The habits get easier.
+
+841
+00:26:45,166 --> 00:26:47,049
+And the question changes from,
+
+842
+00:26:47,049 --> 00:26:47,802
+am I behind?
+
+843
+00:26:47,982 --> 00:26:49,990
+to, how far ahead can I get?
+
+844
+00:26:50,170 --> 00:26:52,411
+That shift, from fear to curiosity,
+
+845
+00:26:52,411 --> 00:26:54,332
+is one of the best things that
+
+846
+00:26:54,332 --> 00:26:56,509
+can happen to your financial life.
+
+847
+00:26:56,859 --> 00:26:59,193
+Let me answer the questions people ask
+
+848
+00:26:59,193 --> 00:27:01,097
+me most about net worth by age.
+
+849
+00:27:01,447 --> 00:27:02,307
+Question one.
+
+850
+00:27:02,487 --> 00:27:03,717
+Should I count my house?
+
+851
+00:27:03,897 --> 00:27:05,829
+For your total net worth,
+
+852
+00:27:05,829 --> 00:27:06,138
+yes.
+
+853
+00:27:06,318 --> 00:27:08,482
+But also track your net worth without
+
+854
+00:27:08,482 --> 00:27:10,939
+the house, because you can't buy groceries
+
+855
+00:27:10,939 --> 00:27:12,986
+with home equity unless you sell or
+
+856
+00:27:12,986 --> 00:27:14,039
+borrow against it.
+
+857
+00:27:14,219 --> 00:27:15,229
+Question two.
+
+858
+00:27:15,409 --> 00:27:16,662
+Should I count my car?
+
+859
+00:27:16,842 --> 00:27:18,906
+Technically yes, at what you could sell
+
+860
+00:27:18,906 --> 00:27:19,594
+it for today,
+
+861
+00:27:19,594 --> 00:27:20,546
+not what you paid.
+
+862
+00:27:20,726 --> 00:27:22,449
+Cars lose value quickly,
+
+863
+00:27:22,449 --> 00:27:24,530
+so for many people the car is
+
+864
+00:27:24,530 --> 00:27:25,606
+a small number,
+
+865
+00:27:25,606 --> 00:27:27,831
+or even negative if the loan is
+
+866
+00:27:27,831 --> 00:27:29,410
+bigger than the value.
+
+867
+00:27:29,760 --> 00:27:30,887
+Question three.
+
+868
+00:27:31,067 --> 00:27:32,193
+What about a pension?
+
+869
+00:27:32,373 --> 00:27:33,835
+A pension is valuable,
+
+870
+00:27:33,835 --> 00:27:35,695
+even if it's not easy to put
+
+871
+00:27:35,695 --> 00:27:36,692
+a number on it.
+
+872
+00:27:36,872 --> 00:27:37,911
+If you have one,
+
+873
+00:27:37,911 --> 00:27:40,054
+your savings target can be lower,
+
+874
+00:27:40,054 --> 00:27:42,717
+because part of your retirement income is
+
+875
+00:27:42,717 --> 00:27:43,756
+already covered.
+
+876
+00:27:43,936 --> 00:27:44,830
+Question four.
+
+877
+00:27:45,010 --> 00:27:46,636
+What about student loans?
+
+878
+00:27:46,816 --> 00:27:47,826
+They count as debt.
+
+879
+00:27:48,006 --> 00:27:50,194
+A negative net worth in your twenties
+
+880
+00:27:50,194 --> 00:27:52,855
+because of student loans is extremely common,
+
+881
+00:27:52,855 --> 00:27:54,925
+and it doesn't mean you're failing.
+
+882
+00:27:55,105 --> 00:27:56,150
+It means you're early.
+
+883
+00:27:56,500 --> 00:27:57,383
+Question five.
+
+884
+00:27:57,563 --> 00:27:59,416
+How often should I calculate my net
+
+885
+00:27:59,416 --> 00:27:59,734
+worth?
+
+886
+00:27:59,914 --> 00:28:01,763
+Once a quarter or once a year
+
+887
+00:28:01,763 --> 00:28:03,420
+is enough for most people.
+
+888
+00:28:03,600 --> 00:28:05,823
+Daily checking just makes you react to
+
+889
+00:28:05,823 --> 00:28:06,584
+market noise.
+
+890
+00:28:06,764 --> 00:28:07,902
+Question six.
+
+891
+00:28:08,082 --> 00:28:09,986
+What's a good net worth to retire?
+
+892
+00:28:10,166 --> 00:28:11,628
+There's no single number.
+
+893
+00:28:11,808 --> 00:28:13,610
+A common rule of thumb is to
+
+894
+00:28:13,610 --> 00:28:16,311
+have about twenty five times your expected
+
+895
+00:28:16,311 --> 00:28:17,919
+yearly spending invested,
+
+896
+00:28:17,919 --> 00:28:20,621
+minus what Social Security and any pension
+
+897
+00:28:20,621 --> 00:28:21,329
+will cover.
+
+898
+00:28:21,509 --> 00:28:22,832
+That's your personal target.
+
+899
+00:28:23,182 --> 00:28:24,262
+Question seven.
+
+900
+00:28:24,442 --> 00:28:26,057
+Is it too late to start at
+
+901
+00:28:26,057 --> 00:28:26,741
+fifty five?
+
+902
+00:28:26,921 --> 00:28:27,200
+No.
+
+903
+00:28:27,380 --> 00:28:29,568
+You may not reach the same number
+
+904
+00:28:29,568 --> 00:28:32,088
+as someone who started at twenty five,
+
+905
+00:28:32,088 --> 00:28:34,210
+but ten years of focused saving,
+
+906
+00:28:34,210 --> 00:28:35,735
+catch up contributions,
+
+907
+00:28:35,735 --> 00:28:38,321
+a later Social Security claim and lower
+
+908
+00:28:38,321 --> 00:28:40,576
+costs can make a big difference to
+
+909
+00:28:40,576 --> 00:28:41,637
+your retirement.
+
+910
+00:28:41,817 --> 00:28:44,079
+The worst choice is deciding it's too
+
+911
+00:28:44,079 --> 00:28:45,485
+late and doing nothing.
+
+912
+00:28:45,835 --> 00:28:46,637
+Question eight.
+
+913
+00:28:46,817 --> 00:28:49,144
+My partner and I have very different
+
+914
+00:28:49,144 --> 00:28:49,661
+numbers.
+
+915
+00:28:49,841 --> 00:28:50,561
+Does that matter?
+
+916
+00:28:50,741 --> 00:28:52,801
+For couples who share their finances,
+
+917
+00:28:52,801 --> 00:28:55,028
+what matters is the combined picture and
+
+918
+00:28:55,028 --> 00:28:55,919
+the shared plan.
+
+919
+00:28:56,099 --> 00:28:58,697
+But it's worth talking openly about debts
+
+920
+00:28:58,697 --> 00:29:00,661
+and savings each of you brings,
+
+921
+00:29:00,661 --> 00:29:03,576
+because surprises are what cause money fights.
+
+922
+00:29:03,756 --> 00:29:05,968
+Many couples find a monthly money date,
+
+923
+00:29:05,968 --> 00:29:07,783
+twenty minutes with the numbers,
+
+924
+00:29:07,783 --> 00:29:09,712
+helps more than any budgeting app.
+
+925
+00:29:10,061 --> 00:29:10,967
+Question nine.
+
+926
+00:29:11,147 --> 00:29:13,064
+Should I pay off my mortgage early
+
+927
+00:29:13,064 --> 00:29:14,305
+to raise my net worth?
+
+928
+00:29:14,485 --> 00:29:16,542
+Paying off a mortgage does raise your
+
+929
+00:29:16,542 --> 00:29:18,153
+net worth, dollar for dollar,
+
+930
+00:29:18,153 --> 00:29:19,988
+and it lowers the income you need
+
+931
+00:29:19,988 --> 00:29:20,766
+in retirement.
+
+932
+00:29:20,946 --> 00:29:23,843
+Investing instead may grow faster over long
+
+933
+00:29:23,843 --> 00:29:25,729
+periods, but with more risk.
+
+934
+00:29:25,909 --> 00:29:28,016
+Many people do a bit of both,
+
+935
+00:29:28,016 --> 00:29:30,704
+especially as retirement gets closer.
+
+936
+00:29:30,884 --> 00:29:32,624
+There's no single right answer,
+
+937
+00:29:32,624 --> 00:29:34,924
+but high interest debt should always come
+
+938
+00:29:34,924 --> 00:29:35,261
+first.
+
+939
+00:29:35,611 --> 00:29:36,587
+Question ten.
+
+940
+00:29:36,767 --> 00:29:38,062
+Do I need a high income to
+
+941
+00:29:38,062 --> 00:29:39,158
+have a high net worth?
+
+942
+00:29:39,338 --> 00:29:41,370
+It helps, but it's not required.
+
+943
+00:29:41,550 --> 00:29:44,634
+Stanley and Danko found many millionaires with
+
+944
+00:29:44,634 --> 00:29:46,578
+ordinary jobs, like teachers,
+
+945
+00:29:46,578 --> 00:29:49,193
+small business owners and tradespeople,
+
+946
+00:29:49,193 --> 00:29:51,740
+who simply spent less than they earned
+
+947
+00:29:51,740 --> 00:29:52,545
+for decades.
+
+948
+00:29:52,725 --> 00:29:54,719
+And many high earners have low net
+
+949
+00:29:54,719 --> 00:29:57,241
+worth because they spend almost everything.
+
+950
+00:29:57,421 --> 00:30:00,447
+The gap between income and spending matters
+
+951
+00:30:00,447 --> 00:30:02,065
+more than income alone.
+
+952
+00:30:02,414 --> 00:30:05,034
+Let's recap the medians from the Federal
+
+953
+00:30:05,034 --> 00:30:06,803
+Reserve, twenty twenty two.
+
+954
+00:30:06,983 --> 00:30:08,111
+Under thirty five,
+
+955
+00:30:08,111 --> 00:30:10,303
+about thirty nine thousand dollars.
+
+956
+00:30:10,483 --> 00:30:12,127
+Thirty five to forty four,
+
+957
+00:30:12,127 --> 00:30:14,593
+about one hundred thirty five thousand.
+
+958
+00:30:14,773 --> 00:30:16,406
+Forty five to fifty four,
+
+959
+00:30:16,406 --> 00:30:18,953
+about two hundred forty seven thousand.
+
+960
+00:30:19,302 --> 00:30:20,932
+Fifty five to sixty four,
+
+961
+00:30:20,932 --> 00:30:23,540
+about three hundred sixty four thousand.
+
+962
+00:30:23,720 --> 00:30:25,569
+Sixty five to seventy four,
+
+963
+00:30:25,569 --> 00:30:27,759
+about four hundred ten thousand,
+
+964
+00:30:27,759 --> 00:30:28,376
+the peak.
+
+965
+00:30:28,556 --> 00:30:30,094
+And seventy five and up,
+
+966
+00:30:30,094 --> 00:30:32,658
+about three hundred thirty six thousand,
+
+967
+00:30:32,658 --> 00:30:34,581
+as people spend in retirement.
+
+968
+00:30:34,931 --> 00:30:36,394
+And the three angles.
+
+969
+00:30:36,574 --> 00:30:38,449
+The numbers: use the median,
+
+970
+00:30:38,449 --> 00:30:39,521
+not the average,
+
+971
+00:30:39,521 --> 00:30:42,267
+and rules of thumb like Fidelity's salary
+
+972
+00:30:42,267 --> 00:30:42,937
+multiples.
+
+973
+00:30:43,117 --> 00:30:46,220
+The psychology: don't compare yourself to the
+
+974
+00:30:46,220 --> 00:30:48,013
+average or your neighbors,
+
+975
+00:30:48,013 --> 00:30:50,082
+compare yourself to last year.
+
+976
+00:30:50,262 --> 00:30:51,536
+And the playbook:
+
+977
+00:30:51,536 --> 00:30:53,185
+find your real number,
+
+978
+00:30:53,185 --> 00:30:54,309
+stop the leaks,
+
+979
+00:30:54,309 --> 00:30:55,508
+raise your rate,
+
+980
+00:30:55,508 --> 00:30:57,681
+earn more, and let time work.
+
+981
+00:30:58,031 --> 00:31:00,625
+And remember the four levers that really
+
+982
+00:31:00,625 --> 00:31:01,598
+move net worth:
+
+983
+00:31:01,598 --> 00:31:03,933
+an affordable home kept for the long
+
+984
+00:31:03,933 --> 00:31:07,565
+term, automatic retirement investing with every matching
+
+985
+00:31:07,565 --> 00:31:10,548
+dollar, ownership through funds or a business,
+
+986
+00:31:10,548 --> 00:31:12,753
+and getting rid of expensive debt.
+
+987
+00:31:12,933 --> 00:31:15,119
+Pull those four levers steadily,
+
+988
+00:31:15,119 --> 00:31:16,485
+decade after decade,
+
+989
+00:31:16,485 --> 00:31:18,807
+and the medians in this video stop
+
+990
+00:31:18,807 --> 00:31:19,968
+being a judgment.
+
+991
+00:31:20,148 --> 00:31:22,071
+They become numbers you pass on the
+
+992
+00:31:22,071 --> 00:31:23,225
+way to your own goal.
+
+993
+00:31:23,405 --> 00:31:24,726
+Wherever you are today,
+
+994
+00:31:24,726 --> 00:31:26,909
+the next ten years can look completely
+
+995
+00:31:26,909 --> 00:31:28,517
+different from the last ten,
+
+996
+00:31:28,517 --> 00:31:29,895
+and that's not a slogan.
+
+997
+00:31:30,075 --> 00:31:32,380
+It's just how compounding works when you
+
+998
+00:31:32,380 --> 00:31:33,129
+give it time.
+
+999
+00:31:33,478 --> 00:31:34,964
+So here's your homework.
+
+1000
+00:31:35,144 --> 00:31:37,190
+Calculate your net worth tonight,
+
+1001
+00:31:37,190 --> 00:31:39,173
+both with and without your home.
+
+1002
+00:31:39,353 --> 00:31:40,305
+Find your decade.
+
+1003
+00:31:40,485 --> 00:31:42,074
+And then write down one move from
+
+1004
+00:31:42,074 --> 00:31:43,951
+the catch up playbook that you'll start
+
+1005
+00:31:43,951 --> 00:31:44,433
+this week.
+
+1006
+00:31:44,613 --> 00:31:45,286
+Just one.
+
+1007
+00:31:45,466 --> 00:31:46,899
+Small moves, repeated,
+
+1008
+00:31:46,899 --> 00:31:48,659
+are what change the number.
+
+1009
+00:31:48,839 --> 00:31:50,503
+If you want the full plan with
+
+1010
+00:31:50,503 --> 00:31:52,279
+worksheets, it's in my playbook,
+
+1011
+00:31:52,279 --> 00:31:53,610
+link in the description.
+
+1012
+00:31:53,790 --> 00:31:55,125
+I'm Ryan Rover.
+
+1013
+00:31:55,305 --> 00:31:56,583
+See you in the next one.
