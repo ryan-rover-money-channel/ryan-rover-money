@@ -1,0 +1,4143 @@
+1
+00:00:00,000 --> 00:00:01,973
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,153 --> 00:00:03,198
+Pay in four.
+
+3
+00:00:03,378 --> 00:00:04,516
+Zero interest.
+
+4
+00:00:04,696 --> 00:00:06,415
+No impact on your credit,
+
+5
+00:00:06,415 --> 00:00:07,378
+in many cases.
+
+6
+00:00:07,558 --> 00:00:08,370
+Just split it.
+
+7
+00:00:08,550 --> 00:00:10,932
+Buy now, pay later has spread from
+
+8
+00:00:10,932 --> 00:00:14,014
+sneakers and electronics to concert tickets,
+
+9
+00:00:14,014 --> 00:00:16,956
+plane tickets, groceries and even takeout.
+
+10
+00:00:17,136 --> 00:00:19,422
+It looks like the friendliest kind of
+
+11
+00:00:19,422 --> 00:00:20,596
+debt ever invented.
+
+12
+00:00:20,776 --> 00:00:23,177
+Today, let's find out whether it really
+
+13
+00:00:23,177 --> 00:00:25,454
+is, or whether it's the quietest debt
+
+14
+00:00:25,454 --> 00:00:26,685
+trap of this decade.
+
+15
+00:00:27,036 --> 00:00:29,267
+Buy now, pay later lets you split
+
+16
+00:00:29,267 --> 00:00:31,498
+a purchase into smaller payments,
+
+17
+00:00:31,498 --> 00:00:33,864
+often four payments over six weeks,
+
+18
+00:00:33,864 --> 00:00:36,433
+frequently with no interest if you pay
+
+19
+00:00:36,433 --> 00:00:36,974
+on time.
+
+20
+00:00:37,323 --> 00:00:38,171
+Here's the thing.
+
+21
+00:00:38,351 --> 00:00:40,895
+On paper, a zero interest loan paid
+
+22
+00:00:40,895 --> 00:00:43,076
+on time is a pretty good deal.
+
+23
+00:00:43,256 --> 00:00:44,928
+It costs nothing extra.
+
+24
+00:00:45,108 --> 00:00:46,644
+So why are regulators,
+
+25
+00:00:46,644 --> 00:00:49,994
+economists and consumer groups paying such close
+
+26
+00:00:49,994 --> 00:00:50,693
+attention?
+
+27
+00:00:50,873 --> 00:00:53,284
+Because the product is designed to make
+
+28
+00:00:53,284 --> 00:00:55,324
+spending feel smaller than it is,
+
+29
+00:00:55,324 --> 00:00:56,993
+to be used again and again,
+
+30
+00:00:56,993 --> 00:00:58,477
+and to be easy to stack.
+
+31
+00:00:58,657 --> 00:01:00,546
+And debt that feels small is the
+
+32
+00:01:00,546 --> 00:01:02,140
+easiest kind to accumulate.
+
+33
+00:01:02,489 --> 00:01:04,027
+We'll look at buy now,
+
+34
+00:01:04,027 --> 00:01:05,984
+pay later from three angles.
+
+35
+00:01:06,164 --> 00:01:07,483
+First, the numbers:
+
+36
+00:01:07,483 --> 00:01:08,872
+how big it's become,
+
+37
+00:01:08,872 --> 00:01:10,886
+how the companies make money,
+
+38
+00:01:10,886 --> 00:01:13,385
+and what happens when payments slip.
+
+39
+00:01:13,565 --> 00:01:15,321
+Second, the psychology:
+
+40
+00:01:15,321 --> 00:01:18,298
+why splitting a price into four changes
+
+41
+00:01:18,298 --> 00:01:19,672
+how much we spend.
+
+42
+00:01:19,852 --> 00:01:21,347
+And third, the playbook:
+
+43
+00:01:21,347 --> 00:01:23,279
+clear rules for when it's fine,
+
+44
+00:01:23,279 --> 00:01:24,275
+when it's risky,
+
+45
+00:01:24,275 --> 00:01:26,020
+and how to get out if you're
+
+46
+00:01:26,020 --> 00:01:27,515
+juggling too many plans.
+
+47
+00:01:27,864 --> 00:01:29,828
+If you've ever had three or four
+
+48
+00:01:29,828 --> 00:01:31,913
+of these running at the same time,
+
+49
+00:01:31,913 --> 00:01:33,263
+this video is for you.
+
+50
+00:01:33,443 --> 00:01:35,080
+Let's start with the numbers.
+
+51
+00:01:35,430 --> 00:01:37,559
+Every number here comes from a named
+
+52
+00:01:37,559 --> 00:01:37,973
+source.
+
+53
+00:01:38,153 --> 00:01:40,506
+Market data comes from reports by the
+
+54
+00:01:40,506 --> 00:01:42,860
+Consumer Financial Protection Bureau,
+
+55
+00:01:42,860 --> 00:01:44,513
+which has studied buy now,
+
+56
+00:01:44,513 --> 00:01:46,930
+pay later lenders and their customers.
+
+57
+00:01:47,110 --> 00:01:49,948
+Household data comes from the Federal Reserve's
+
+58
+00:01:49,948 --> 00:01:52,242
+yearly survey of household well being.
+
+59
+00:01:52,422 --> 00:01:54,479
+This market changes quickly,
+
+60
+00:01:54,479 --> 00:01:57,491
+and rules and products differ by company,
+
+61
+00:01:57,491 --> 00:01:59,768
+so always read the terms of any
+
+62
+00:01:59,768 --> 00:02:00,723
+plan you use.
+
+63
+00:02:00,903 --> 00:02:02,296
+This is education,
+
+64
+00:02:02,296 --> 00:02:03,922
+not financial advice.
+
+65
+00:02:04,271 --> 00:02:05,430
+Before the numbers,
+
+66
+00:02:05,430 --> 00:02:06,466
+a little history.
+
+67
+00:02:06,646 --> 00:02:08,898
+Because paying later isn't new at all.
+
+68
+00:02:09,078 --> 00:02:11,202
+It's one of the oldest tricks in
+
+69
+00:02:11,202 --> 00:02:11,667
+retail.
+
+70
+00:02:12,017 --> 00:02:13,425
+In the eighteen fifties,
+
+71
+00:02:13,425 --> 00:02:15,477
+the Singer company faced a problem.
+
+72
+00:02:15,657 --> 00:02:18,208
+Its sewing machines were life changing,
+
+73
+00:02:18,208 --> 00:02:20,693
+but too expensive for many families to
+
+74
+00:02:20,693 --> 00:02:21,543
+buy outright.
+
+75
+00:02:21,723 --> 00:02:23,662
+So it offered an installment plan.
+
+76
+00:02:23,842 --> 00:02:25,287
+A small payment down,
+
+77
+00:02:25,287 --> 00:02:27,488
+then regular payments over time.
+
+78
+00:02:27,668 --> 00:02:28,899
+Sales took off.
+
+79
+00:02:29,079 --> 00:02:31,459
+Many historians point to it as one
+
+80
+00:02:31,459 --> 00:02:34,610
+of the early examples of consumer installment
+
+81
+00:02:34,610 --> 00:02:35,870
+buying in America.
+
+82
+00:02:36,220 --> 00:02:38,023
+In the twentieth century,
+
+83
+00:02:38,023 --> 00:02:40,762
+installment plans spread to furniture,
+
+84
+00:02:40,762 --> 00:02:42,780
+radios, appliances and cars.
+
+85
+00:02:42,960 --> 00:02:45,104
+Department stores offered layaway,
+
+86
+00:02:45,104 --> 00:02:47,499
+where you paid in small amounts before
+
+87
+00:02:47,499 --> 00:02:48,823
+taking the item home.
+
+88
+00:02:49,003 --> 00:02:50,164
+Notice the difference.
+
+89
+00:02:50,344 --> 00:02:52,660
+With layaway, you paid first and got
+
+90
+00:02:52,660 --> 00:02:53,560
+the item last.
+
+91
+00:02:53,740 --> 00:02:54,743
+With buy now,
+
+92
+00:02:54,743 --> 00:02:57,288
+pay later, you get the item first
+
+93
+00:02:57,288 --> 00:02:58,291
+and pay last.
+
+94
+00:02:58,471 --> 00:03:01,237
+That small flip changes everything about how
+
+95
+00:03:01,237 --> 00:03:01,803
+it feels.
+
+96
+00:03:02,153 --> 00:03:03,849
+Then came credit cards,
+
+97
+00:03:03,849 --> 00:03:06,356
+which made paying later universal.
+
+98
+00:03:06,536 --> 00:03:07,763
+And now, buy now,
+
+99
+00:03:07,763 --> 00:03:10,867
+pay later combines the old installment plan
+
+100
+00:03:10,867 --> 00:03:12,527
+with modern technology.
+
+101
+00:03:12,707 --> 00:03:15,702
+Instant approval, phone apps and one tap
+
+102
+00:03:15,702 --> 00:03:16,376
+checkout.
+
+103
+00:03:16,556 --> 00:03:18,680
+The idea is over a century old.
+
+104
+00:03:18,860 --> 00:03:20,447
+What's new is the speed,
+
+105
+00:03:20,447 --> 00:03:22,167
+and how easy it is to have
+
+106
+00:03:22,167 --> 00:03:23,423
+many plans at once.
+
+107
+00:03:23,773 --> 00:03:24,551
+Angle one.
+
+108
+00:03:24,731 --> 00:03:25,486
+The numbers.
+
+109
+00:03:25,666 --> 00:03:27,310
+How big this has become,
+
+110
+00:03:27,310 --> 00:03:29,091
+and how it actually works.
+
+111
+00:03:29,440 --> 00:03:30,137
+Number one.
+
+112
+00:03:30,317 --> 00:03:31,501
+Explosive growth.
+
+113
+00:03:31,851 --> 00:03:34,347
+Buy now, pay later existed in different
+
+114
+00:03:34,347 --> 00:03:35,370
+forms for years,
+
+115
+00:03:35,370 --> 00:03:37,738
+but it exploded around twenty twenty.
+
+116
+00:03:37,918 --> 00:03:40,755
+A report by the Consumer Financial Protection
+
+117
+00:03:40,755 --> 00:03:43,214
+Bureau found that loans from five major
+
+118
+00:03:43,214 --> 00:03:46,051
+providers grew from about two billion dollars
+
+119
+00:03:46,051 --> 00:03:48,447
+in twenty nineteen to more than twenty
+
+120
+00:03:48,447 --> 00:03:51,095
+four billion dollars in twenty twenty one.
+
+121
+00:03:51,275 --> 00:03:53,447
+That's more than ten times larger in
+
+122
+00:03:53,447 --> 00:03:54,352
+just two years.
+
+123
+00:03:54,701 --> 00:03:56,280
+And it kept growing after that.
+
+124
+00:03:56,460 --> 00:03:57,603
+Today, buy now,
+
+125
+00:03:57,603 --> 00:04:00,572
+pay later buttons appear at checkout on
+
+126
+00:04:00,572 --> 00:04:02,019
+major retail sites,
+
+127
+00:04:02,019 --> 00:04:03,313
+in phone wallets,
+
+128
+00:04:03,313 --> 00:04:04,836
+inside banking apps,
+
+129
+00:04:04,836 --> 00:04:06,967
+and even at physical stores.
+
+130
+00:04:07,147 --> 00:04:10,091
+Some plans now cover everyday spending,
+
+131
+00:04:10,091 --> 00:04:12,581
+like groceries and food delivery.
+
+132
+00:04:12,761 --> 00:04:14,473
+What started as a way to buy
+
+133
+00:04:14,473 --> 00:04:16,368
+a pair of sneakers has become a
+
+134
+00:04:16,368 --> 00:04:18,752
+general way to pay for almost anything.
+
+135
+00:04:19,101 --> 00:04:21,064
+Why did it grow so fast?
+
+136
+00:04:21,244 --> 00:04:23,923
+Partly because shopping moved online during the
+
+137
+00:04:23,923 --> 00:04:24,436
+pandemic.
+
+138
+00:04:24,616 --> 00:04:27,847
+Partly because many younger shoppers were wary
+
+139
+00:04:27,847 --> 00:04:28,970
+of credit cards.
+
+140
+00:04:29,150 --> 00:04:32,260
+And partly because merchants discovered that offering
+
+141
+00:04:32,260 --> 00:04:33,550
+it can increase sales.
+
+142
+00:04:33,730 --> 00:04:36,139
+When something helps both the lender and
+
+143
+00:04:36,139 --> 00:04:37,344
+the store sell more,
+
+144
+00:04:37,344 --> 00:04:39,512
+you can expect to see it everywhere.
+
+145
+00:04:39,861 --> 00:04:43,371
+According to the Consumer Financial Protection Bureau,
+
+146
+00:04:43,371 --> 00:04:45,581
+buy now, pay later loans from five
+
+147
+00:04:45,581 --> 00:04:48,246
+large lenders grew from about two billion
+
+148
+00:04:48,246 --> 00:04:50,910
+dollars in twenty nineteen to over twenty
+
+149
+00:04:50,910 --> 00:04:53,120
+four billion in twenty twenty one.
+
+150
+00:04:53,470 --> 00:04:54,318
+Number two.
+
+151
+00:04:54,498 --> 00:04:56,352
+If it's zero interest,
+
+152
+00:04:56,352 --> 00:04:57,110
+who pays?
+
+153
+00:04:57,460 --> 00:04:59,580
+With the classic pay in four plan,
+
+154
+00:04:59,580 --> 00:05:01,512
+the main payer is the merchant.
+
+155
+00:05:01,692 --> 00:05:03,845
+Stores typically pay the buy now,
+
+156
+00:05:03,845 --> 00:05:05,867
+pay later company a fee on each
+
+157
+00:05:05,867 --> 00:05:08,281
+sale, and those fees are often higher
+
+158
+00:05:08,281 --> 00:05:10,498
+than what they'd pay for a regular
+
+159
+00:05:10,498 --> 00:05:11,607
+card transaction.
+
+160
+00:05:11,787 --> 00:05:13,401
+Why would a store pay more?
+
+161
+00:05:13,581 --> 00:05:16,695
+Because offering split payments can make shoppers
+
+162
+00:05:16,695 --> 00:05:18,919
+more likely to complete a purchase,
+
+163
+00:05:18,919 --> 00:05:20,698
+and to spend more per order.
+
+164
+00:05:21,047 --> 00:05:22,429
+Think about what that means.
+
+165
+00:05:22,609 --> 00:05:24,775
+The merchant is paying extra because the
+
+166
+00:05:24,775 --> 00:05:26,832
+product changes your behavior in a way
+
+167
+00:05:26,832 --> 00:05:28,240
+that's good for the store.
+
+168
+00:05:28,420 --> 00:05:29,941
+More completed purchases.
+
+169
+00:05:30,121 --> 00:05:31,189
+Bigger carts.
+
+170
+00:05:31,369 --> 00:05:32,843
+That's not a conspiracy.
+
+171
+00:05:33,023 --> 00:05:34,402
+It's the business model,
+
+172
+00:05:34,402 --> 00:05:36,814
+written right on the lenders' marketing to
+
+173
+00:05:36,814 --> 00:05:38,651
+merchants: offer us at checkout,
+
+174
+00:05:38,651 --> 00:05:39,455
+and sell more.
+
+175
+00:05:39,805 --> 00:05:41,733
+There's also a newer twist.
+
+176
+00:05:41,913 --> 00:05:42,786
+Some buy now,
+
+177
+00:05:42,786 --> 00:05:45,609
+pay later companies run their own shopping
+
+178
+00:05:45,609 --> 00:05:46,751
+apps, with deals,
+
+179
+00:05:46,751 --> 00:05:48,902
+rewards and personalized offers.
+
+180
+00:05:49,082 --> 00:05:51,511
+That means the lender isn't just financing
+
+181
+00:05:51,511 --> 00:05:52,321
+your purchase.
+
+182
+00:05:52,501 --> 00:05:54,376
+It's also showing you what to buy
+
+183
+00:05:54,376 --> 00:05:54,661
+next.
+
+184
+00:05:54,841 --> 00:05:57,133
+When the company that profits from your
+
+185
+00:05:57,133 --> 00:05:59,543
+spending also curates your shopping feed,
+
+186
+00:05:59,543 --> 00:06:01,365
+it's worth being extra careful.
+
+187
+00:06:01,716 --> 00:06:02,633
+Number three.
+
+188
+00:06:02,813 --> 00:06:04,856
+Late fees, and the loans that do
+
+189
+00:06:04,856 --> 00:06:05,878
+charge interest.
+
+190
+00:06:06,228 --> 00:06:07,635
+If you miss a payment,
+
+191
+00:06:07,635 --> 00:06:09,745
+many providers charge a late fee.
+
+192
+00:06:09,925 --> 00:06:12,153
+The amounts and rules vary by company
+
+193
+00:06:12,153 --> 00:06:12,936
+and by state,
+
+194
+00:06:12,936 --> 00:06:15,405
+and some providers have dropped late fees
+
+195
+00:06:15,405 --> 00:06:16,067
+altogether.
+
+196
+00:06:16,247 --> 00:06:17,857
+But a late fee on a small
+
+197
+00:06:17,857 --> 00:06:20,047
+payment can be a big percentage of
+
+198
+00:06:20,047 --> 00:06:20,949
+what you owed.
+
+199
+00:06:21,129 --> 00:06:22,928
+A seven dollar late fee on a
+
+200
+00:06:22,928 --> 00:06:25,627
+twenty five dollar installment is a twenty
+
+201
+00:06:25,627 --> 00:06:27,940
+eight percent charge for being a few
+
+202
+00:06:27,940 --> 00:06:28,583
+days late.
+
+203
+00:06:28,933 --> 00:06:30,560
+And not every buy now,
+
+204
+00:06:30,560 --> 00:06:32,926
+pay later plan is zero interest.
+
+205
+00:06:33,106 --> 00:06:36,146
+Many providers also offer longer plans,
+
+206
+00:06:36,146 --> 00:06:37,471
+over six, twelve,
+
+207
+00:06:37,471 --> 00:06:39,030
+or even more months,
+
+208
+00:06:39,030 --> 00:06:41,524
+especially for bigger purchases.
+
+209
+00:06:41,704 --> 00:06:43,273
+These often charge interest,
+
+210
+00:06:43,273 --> 00:06:44,731
+and the rates can be high,
+
+211
+00:06:44,731 --> 00:06:46,805
+sometimes comparable to credit cards,
+
+212
+00:06:46,805 --> 00:06:49,048
+depending on your credit and the store's
+
+213
+00:06:49,048 --> 00:06:50,225
+deal with the lender.
+
+214
+00:06:50,576 --> 00:06:51,995
+So the name buy now,
+
+215
+00:06:51,995 --> 00:06:55,045
+pay later covers two very different things.
+
+216
+00:06:55,225 --> 00:06:57,611
+A short, zero interest plan that costs
+
+217
+00:06:57,611 --> 00:06:59,684
+nothing if you're always on time.
+
+218
+00:06:59,864 --> 00:07:02,061
+And a longer installment loan that can
+
+219
+00:07:02,061 --> 00:07:02,987
+cost real money.
+
+220
+00:07:03,167 --> 00:07:05,725
+Many shoppers don't notice which one they
+
+221
+00:07:05,725 --> 00:07:08,844
+picked, because the checkout screens look similar.
+
+222
+00:07:09,024 --> 00:07:10,754
+Try this: before you tap,
+
+223
+00:07:10,754 --> 00:07:12,484
+look for the letters APR.
+
+224
+00:07:12,664 --> 00:07:14,634
+If you see a number above zero,
+
+225
+00:07:14,634 --> 00:07:16,286
+it's a loan with interest.
+
+226
+00:07:16,636 --> 00:07:17,437
+Number four.
+
+227
+00:07:17,617 --> 00:07:18,638
+Loan stacking.
+
+228
+00:07:18,989 --> 00:07:20,742
+Here's where things get risky.
+
+229
+00:07:20,922 --> 00:07:23,886
+Because each loan is small and approval
+
+230
+00:07:23,886 --> 00:07:26,699
+is fast, many people take out several
+
+231
+00:07:26,699 --> 00:07:27,307
+at once.
+
+232
+00:07:27,487 --> 00:07:29,040
+A CFPB study of buy now,
+
+233
+00:07:29,040 --> 00:07:31,823
+pay later borrowers found that around sixty
+
+234
+00:07:31,823 --> 00:07:34,153
+three percent took out more than one
+
+235
+00:07:34,153 --> 00:07:36,029
+loan at the same time at some
+
+236
+00:07:36,029 --> 00:07:37,453
+point during the year,
+
+237
+00:07:37,453 --> 00:07:39,524
+and about a third used more than
+
+238
+00:07:39,524 --> 00:07:40,301
+one buy now,
+
+239
+00:07:40,301 --> 00:07:41,466
+pay later company.
+
+240
+00:07:41,816 --> 00:07:43,754
+Each loan alone might be manageable.
+
+241
+00:07:43,934 --> 00:07:45,476
+Twenty five dollars here,
+
+242
+00:07:45,476 --> 00:07:46,709
+forty dollars there.
+
+243
+00:07:46,889 --> 00:07:48,779
+But six loans across three apps,
+
+244
+00:07:48,779 --> 00:07:51,258
+with payments every two weeks on different
+
+245
+00:07:51,258 --> 00:07:53,148
+dates, can add up to hundreds of
+
+246
+00:07:53,148 --> 00:07:54,092
+dollars a month,
+
+247
+00:07:54,092 --> 00:07:55,864
+and become very hard to track.
+
+248
+00:07:56,044 --> 00:07:58,296
+Missing one isn't about being careless.
+
+249
+00:07:58,476 --> 00:08:00,914
+It's about juggling too many small bills.
+
+250
+00:08:01,264 --> 00:08:01,915
+Picture it.
+
+251
+00:08:02,095 --> 00:08:03,650
+Eighty dollars of shoes.
+
+252
+00:08:03,830 --> 00:08:05,560
+A two hundred dollar jacket.
+
+253
+00:08:05,740 --> 00:08:07,621
+A three hundred twenty dollar phone.
+
+254
+00:08:07,801 --> 00:08:09,566
+Groceries split twice.
+
+255
+00:08:09,746 --> 00:08:10,826
+Concert tickets.
+
+256
+00:08:11,006 --> 00:08:14,210
+Individually, the payments look like twenty,
+
+257
+00:08:14,210 --> 00:08:15,812
+fifty, eighty dollars.
+
+258
+00:08:15,992 --> 00:08:18,536
+Together, they can easily reach two hundred
+
+259
+00:08:18,536 --> 00:08:20,961
+to three hundred dollars every two weeks.
+
+260
+00:08:21,141 --> 00:08:23,865
+That's more than many people's car payment,
+
+261
+00:08:23,865 --> 00:08:26,145
+spread across apps they rarely open.
+
+262
+00:08:26,495 --> 00:08:28,865
+Six small plans running at the same
+
+263
+00:08:28,865 --> 00:08:31,303
+time, each split into four payments,
+
+264
+00:08:31,303 --> 00:08:33,538
+can add up to hundreds of dollars
+
+265
+00:08:33,538 --> 00:08:34,621
+every two weeks.
+
+266
+00:08:34,972 --> 00:08:35,854
+Number five.
+
+267
+00:08:36,034 --> 00:08:36,916
+Phantom debt.
+
+268
+00:08:37,267 --> 00:08:38,902
+For years, many buy now,
+
+269
+00:08:38,902 --> 00:08:41,150
+pay later loans didn't show up on
+
+270
+00:08:41,150 --> 00:08:42,990
+traditional credit reports.
+
+271
+00:08:43,170 --> 00:08:44,413
+That sounds like a benefit.
+
+272
+00:08:44,593 --> 00:08:47,063
+But it creates what some economists call
+
+273
+00:08:47,063 --> 00:08:47,867
+phantom debt.
+
+274
+00:08:48,047 --> 00:08:49,533
+Other lenders can't see it.
+
+275
+00:08:49,713 --> 00:08:51,837
+Sometimes even you lose track of it.
+
+276
+00:08:52,017 --> 00:08:54,609
+A credit card company approving a new
+
+277
+00:08:54,609 --> 00:08:56,920
+card, or a lender approving a car
+
+278
+00:08:56,920 --> 00:08:59,231
+loan, might have no idea that you
+
+279
+00:08:59,231 --> 00:09:02,873
+already owe several hundred dollars in installments.
+
+280
+00:09:03,223 --> 00:09:04,801
+This is starting to change.
+
+281
+00:09:04,981 --> 00:09:07,841
+Some lenders have begun reporting these loans
+
+282
+00:09:07,841 --> 00:09:08,984
+to credit bureaus,
+
+283
+00:09:08,984 --> 00:09:12,034
+and credit scoring companies have announced ways
+
+284
+00:09:12,034 --> 00:09:13,050
+to include them.
+
+285
+00:09:13,230 --> 00:09:14,937
+That's good for transparency.
+
+286
+00:09:15,117 --> 00:09:17,312
+But it also means missed payments may
+
+287
+00:09:17,312 --> 00:09:19,448
+increasingly show up where it hurts.
+
+288
+00:09:19,628 --> 00:09:22,327
+The safe assumption today is simple:
+
+289
+00:09:22,327 --> 00:09:23,827
+treat every buy now,
+
+290
+00:09:23,827 --> 00:09:25,927
+pay later plan as real debt,
+
+291
+00:09:25,927 --> 00:09:26,977
+because it is.
+
+292
+00:09:27,327 --> 00:09:30,473
+The phantom debt problem also affects households.
+
+293
+00:09:30,653 --> 00:09:32,516
+Couples can be surprised to find their
+
+294
+00:09:32,516 --> 00:09:34,182
+partner has several plans running.
+
+295
+00:09:34,362 --> 00:09:36,539
+Parents may not realize a young adult
+
+296
+00:09:36,539 --> 00:09:37,892
+child is juggling them.
+
+297
+00:09:38,072 --> 00:09:40,677
+Because these loans are small and live
+
+298
+00:09:40,677 --> 00:09:43,009
+inside apps, they're easy to hide,
+
+299
+00:09:43,009 --> 00:09:44,655
+even without meaning to.
+
+300
+00:09:45,005 --> 00:09:46,107
+Number six.
+
+301
+00:09:46,287 --> 00:09:47,588
+Who uses it most.
+
+302
+00:09:47,938 --> 00:09:49,869
+The CFPB found that buy now,
+
+303
+00:09:49,869 --> 00:09:51,594
+pay later borrowers were,
+
+304
+00:09:51,594 --> 00:09:54,077
+on average, more likely to have high
+
+305
+00:09:54,077 --> 00:09:55,526
+levels of other debt,
+
+306
+00:09:55,526 --> 00:09:56,767
+like credit cards,
+
+307
+00:09:56,767 --> 00:09:59,251
+and more likely to carry balances on
+
+308
+00:09:59,251 --> 00:10:01,941
+those cards, than people who didn't use
+
+309
+00:10:01,941 --> 00:10:02,148
+it.
+
+310
+00:10:02,328 --> 00:10:03,406
+Many were younger,
+
+311
+00:10:03,406 --> 00:10:05,382
+and many had lower credit scores.
+
+312
+00:10:05,562 --> 00:10:06,502
+In other words,
+
+313
+00:10:06,502 --> 00:10:08,695
+the product is often used by people
+
+314
+00:10:08,695 --> 00:10:10,826
+who already have the least room in
+
+315
+00:10:10,826 --> 00:10:11,703
+their budgets.
+
+316
+00:10:12,054 --> 00:10:13,929
+That doesn't mean everyone who uses it
+
+317
+00:10:13,929 --> 00:10:14,619
+is in trouble.
+
+318
+00:10:14,799 --> 00:10:17,310
+Plenty of people use it for convenience
+
+319
+00:10:17,310 --> 00:10:19,049
+and pay everything on time.
+
+320
+00:10:19,229 --> 00:10:20,968
+But it does mean that for a
+
+321
+00:10:20,968 --> 00:10:22,320
+large group of users,
+
+322
+00:10:22,320 --> 00:10:24,961
+buy now, pay later isn't replacing credit
+
+323
+00:10:24,961 --> 00:10:25,347
+cards.
+
+324
+00:10:25,527 --> 00:10:26,467
+It's adding to them.
+
+325
+00:10:26,647 --> 00:10:29,051
+More debt, spread across more places.
+
+326
+00:10:29,401 --> 00:10:32,410
+And the Federal Reserve's household survey has
+
+327
+00:10:32,410 --> 00:10:34,765
+found that a meaningful share of buy
+
+328
+00:10:34,765 --> 00:10:37,448
+now, pay later users reported paying late
+
+329
+00:10:37,448 --> 00:10:38,363
+at least once.
+
+330
+00:10:38,543 --> 00:10:41,029
+When people who already carry other debts
+
+331
+00:10:41,029 --> 00:10:42,787
+start missing small payments,
+
+332
+00:10:42,787 --> 00:10:44,545
+it's often a sign of a bigger
+
+333
+00:10:44,545 --> 00:10:46,485
+squeeze in the household budget.
+
+334
+00:10:46,665 --> 00:10:48,978
+The small late payment is the warning
+
+335
+00:10:48,978 --> 00:10:50,728
+light, not the real problem.
+
+336
+00:10:51,079 --> 00:10:52,588
+Regulators have noticed.
+
+337
+00:10:52,768 --> 00:10:55,354
+The CFPB has published several reports on
+
+338
+00:10:55,354 --> 00:10:56,553
+buy now, pay later,
+
+339
+00:10:56,553 --> 00:10:58,445
+and the rules that apply to it
+
+340
+00:10:58,445 --> 00:11:00,905
+have been debated and changed more than
+
+341
+00:11:00,905 --> 00:11:02,230
+once in recent years.
+
+342
+00:11:02,410 --> 00:11:04,982
+Other countries have also moved to regulate
+
+343
+00:11:04,982 --> 00:11:05,939
+it more closely.
+
+344
+00:11:06,119 --> 00:11:08,597
+For you, the practical lesson is that
+
+345
+00:11:08,597 --> 00:11:11,475
+protections can vary by provider and change
+
+346
+00:11:11,475 --> 00:11:12,145
+over time.
+
+347
+00:11:12,325 --> 00:11:13,797
+Don't assume a buy now,
+
+348
+00:11:13,797 --> 00:11:15,909
+pay later loan gives you the same
+
+349
+00:11:15,909 --> 00:11:17,445
+rights as a credit card.
+
+350
+00:11:17,625 --> 00:11:20,144
+Read the dispute and refund terms.
+
+351
+00:11:20,495 --> 00:11:22,816
+So the numbers show a product that's
+
+352
+00:11:22,816 --> 00:11:25,330
+huge, growing, and used most heavily by
+
+353
+00:11:25,330 --> 00:11:27,135
+people with the least slack.
+
+354
+00:11:27,315 --> 00:11:29,289
+Now let's look at why it changes
+
+355
+00:11:29,289 --> 00:11:30,090
+how we spend.
+
+356
+00:11:30,441 --> 00:11:31,451
+Angle two.
+
+357
+00:11:31,631 --> 00:11:32,757
+The psychology.
+
+358
+00:11:32,937 --> 00:11:35,550
+Seven reasons splitting a price makes us
+
+359
+00:11:35,550 --> 00:11:36,269
+spend more.
+
+360
+00:11:36,619 --> 00:11:37,896
+Reason number seven.
+
+361
+00:11:38,076 --> 00:11:39,608
+The smaller number wins.
+
+362
+00:11:39,959 --> 00:11:42,148
+When a two hundred dollar jacket is
+
+363
+00:11:42,148 --> 00:11:44,650
+shown as four payments of fifty dollars,
+
+364
+00:11:44,650 --> 00:11:46,402
+your brain anchors on fifty.
+
+365
+00:11:46,582 --> 00:11:48,347
+Fifty feels affordable.
+
+366
+00:11:48,527 --> 00:11:50,233
+Two hundred might make you pause.
+
+367
+00:11:50,413 --> 00:11:52,329
+It's the same jacket and the same
+
+368
+00:11:52,329 --> 00:11:54,361
+total, but the number you see first
+
+369
+00:11:54,361 --> 00:11:55,580
+changes the decision.
+
+370
+00:11:55,760 --> 00:11:57,931
+Marketers have known this for a long
+
+371
+00:11:57,931 --> 00:11:58,233
+time.
+
+372
+00:11:58,413 --> 00:12:00,879
+It's the same reason gym memberships are
+
+373
+00:12:00,879 --> 00:12:02,974
+priced per day and cars are priced
+
+374
+00:12:02,974 --> 00:12:03,591
+per month.
+
+375
+00:12:03,941 --> 00:12:06,982
+Researchers who study pricing call this partitioning.
+
+376
+00:12:07,162 --> 00:12:09,370
+When a price is broken into parts,
+
+377
+00:12:09,370 --> 00:12:11,772
+people often underestimate the total.
+
+378
+00:12:11,952 --> 00:12:12,841
+With buy now,
+
+379
+00:12:12,841 --> 00:12:15,510
+pay later, the partition is right there
+
+380
+00:12:15,510 --> 00:12:16,468
+on the button.
+
+381
+00:12:16,648 --> 00:12:19,067
+Pay four interest free payments of fifty
+
+382
+00:12:19,067 --> 00:12:19,550
+dollars.
+
+383
+00:12:19,730 --> 00:12:21,940
+The two hundred is technically shown,
+
+384
+00:12:21,940 --> 00:12:23,434
+but it's not what sticks.
+
+385
+00:12:23,784 --> 00:12:26,311
+Try this: before using a split payment,
+
+386
+00:12:26,311 --> 00:12:28,126
+say the full price out loud.
+
+387
+00:12:28,306 --> 00:12:30,047
+Not four payments of fifty.
+
+388
+00:12:30,227 --> 00:12:31,504
+Two hundred dollars.
+
+389
+00:12:31,684 --> 00:12:33,420
+Then ask whether you'd buy it at
+
+390
+00:12:33,420 --> 00:12:34,668
+that price, paid today.
+
+391
+00:12:34,848 --> 00:12:36,368
+If the answer is yes,
+
+392
+00:12:36,368 --> 00:12:38,540
+the split is just convenience.
+
+393
+00:12:38,720 --> 00:12:40,062
+If the answer is no,
+
+394
+00:12:40,062 --> 00:12:42,342
+the split is doing the persuading.
+
+395
+00:12:42,693 --> 00:12:43,807
+Reason number eight.
+
+396
+00:12:43,987 --> 00:12:45,438
+It doesn't feel like debt.
+
+397
+00:12:45,789 --> 00:12:47,727
+Most people know credit cards are debt.
+
+398
+00:12:47,907 --> 00:12:48,736
+But buy now,
+
+399
+00:12:48,736 --> 00:12:50,531
+pay later feels different.
+
+400
+00:12:50,711 --> 00:12:52,195
+There's no plastic card,
+
+401
+00:12:52,195 --> 00:12:53,864
+often no hard credit check,
+
+402
+00:12:53,864 --> 00:12:55,657
+and the language is friendly.
+
+403
+00:12:55,837 --> 00:12:58,403
+Plans, installments, splitting.
+
+404
+00:12:58,583 --> 00:13:00,952
+Many users don't think of themselves as
+
+405
+00:13:00,952 --> 00:13:01,985
+borrowers at all.
+
+406
+00:13:02,165 --> 00:13:03,975
+And if you don't think it's debt,
+
+407
+00:13:03,975 --> 00:13:05,731
+you don't treat it with the same
+
+408
+00:13:05,731 --> 00:13:06,170
+caution.
+
+409
+00:13:06,520 --> 00:13:08,348
+But legally and practically,
+
+410
+00:13:08,348 --> 00:13:09,132
+it's a loan.
+
+411
+00:13:09,312 --> 00:13:11,495
+You receive something now and promise to
+
+412
+00:13:11,495 --> 00:13:12,423
+pay for it later.
+
+413
+00:13:12,603 --> 00:13:13,709
+If you don't pay,
+
+414
+00:13:13,709 --> 00:13:15,206
+there are consequences:
+
+415
+00:13:15,206 --> 00:13:18,199
+fees, collections, and possibly credit damage.
+
+416
+00:13:18,379 --> 00:13:21,038
+The friendly language doesn't change the obligation.
+
+417
+00:13:21,218 --> 00:13:23,287
+It just makes it easier to say
+
+418
+00:13:23,287 --> 00:13:23,563
+yes.
+
+419
+00:13:23,914 --> 00:13:25,980
+Try this: rename it in your head.
+
+420
+00:13:26,160 --> 00:13:27,993
+Every time you see the button,
+
+421
+00:13:27,993 --> 00:13:29,643
+read it as take out a loan.
+
+422
+00:13:29,823 --> 00:13:31,890
+Take out a loan for these headphones.
+
+423
+00:13:32,070 --> 00:13:33,788
+Take out a loan for this dinner.
+
+424
+00:13:33,968 --> 00:13:35,236
+It sounds dramatic,
+
+425
+00:13:35,236 --> 00:13:36,905
+but it's simply accurate.
+
+426
+00:13:37,085 --> 00:13:38,948
+And it brings back the caution that
+
+427
+00:13:38,948 --> 00:13:40,545
+the friendly language removes.
+
+428
+00:13:40,895 --> 00:13:42,148
+Reason number nine.
+
+429
+00:13:42,328 --> 00:13:43,455
+Less pain of paying.
+
+430
+00:13:43,805 --> 00:13:44,942
+Paying hurts a little.
+
+431
+00:13:45,122 --> 00:13:47,375
+That small pain is actually useful.
+
+432
+00:13:47,555 --> 00:13:48,460
+It makes you think.
+
+433
+00:13:48,640 --> 00:13:51,617
+Researchers have shown that people often spend
+
+434
+00:13:51,617 --> 00:13:53,624
+more when the pain of paying is
+
+435
+00:13:53,624 --> 00:13:56,277
+reduced, for example by paying with cards
+
+436
+00:13:56,277 --> 00:13:57,313
+instead of cash.
+
+437
+00:13:57,493 --> 00:13:59,683
+Buy now, pay later reduces it even
+
+438
+00:13:59,683 --> 00:14:00,198
+further.
+
+439
+00:14:00,378 --> 00:14:01,962
+You pay only a quarter today,
+
+440
+00:14:01,962 --> 00:14:04,202
+and the rest happens automatically later,
+
+441
+00:14:04,202 --> 00:14:06,333
+when the excitement of buying has moved
+
+442
+00:14:06,333 --> 00:14:06,497
+on.
+
+443
+00:14:06,847 --> 00:14:09,140
+This also separates the joy from the
+
+444
+00:14:09,140 --> 00:14:09,459
+cost.
+
+445
+00:14:09,639 --> 00:14:11,137
+You enjoy the purchase now.
+
+446
+00:14:11,317 --> 00:14:13,054
+The payments arrive in two,
+
+447
+00:14:13,054 --> 00:14:14,276
+four and six weeks,
+
+448
+00:14:14,276 --> 00:14:16,979
+when you might be enjoying something else,
+
+449
+00:14:16,979 --> 00:14:18,909
+also bought with a split plan.
+
+450
+00:14:19,089 --> 00:14:21,763
+The cost and the pleasure never meet,
+
+451
+00:14:21,763 --> 00:14:23,931
+so the cost never feels as big
+
+452
+00:14:23,931 --> 00:14:24,581
+as it is.
+
+453
+00:14:24,931 --> 00:14:26,601
+Try this: if you do use a
+
+454
+00:14:26,601 --> 00:14:29,340
+split plan, put every future payment date
+
+455
+00:14:29,340 --> 00:14:31,746
+in your calendar with the item name.
+
+456
+00:14:31,926 --> 00:14:33,604
+Payment three of four,
+
+457
+00:14:33,604 --> 00:14:35,664
+jacket, forty five dollars.
+
+458
+00:14:35,844 --> 00:14:37,331
+When the reminder appears,
+
+459
+00:14:37,331 --> 00:14:39,675
+you reconnect the cost with the purchase.
+
+460
+00:14:39,855 --> 00:14:41,039
+It's a small habit,
+
+461
+00:14:41,039 --> 00:14:43,220
+and it makes the real price visible
+
+462
+00:14:43,220 --> 00:14:43,594
+again.
+
+463
+00:14:43,944 --> 00:14:45,128
+Reason number ten.
+
+464
+00:14:45,308 --> 00:14:46,225
+Bigger carts.
+
+465
+00:14:46,575 --> 00:14:48,123
+When the total is split,
+
+466
+00:14:48,123 --> 00:14:50,574
+a more expensive option starts to look
+
+467
+00:14:50,574 --> 00:14:51,219
+reachable.
+
+468
+00:14:51,399 --> 00:14:53,561
+The one hundred fifty dollar shoes feel
+
+469
+00:14:53,561 --> 00:14:55,224
+like they cost the same as the
+
+470
+00:14:55,224 --> 00:14:56,555
+one hundred dollar ones,
+
+471
+00:14:56,555 --> 00:14:58,606
+because the split payments are only a
+
+472
+00:14:58,606 --> 00:14:59,549
+little different.
+
+473
+00:14:59,729 --> 00:15:02,459
+Merchants report larger average orders when split
+
+474
+00:15:02,459 --> 00:15:03,630
+payments are offered.
+
+475
+00:15:03,810 --> 00:15:05,630
+That's one of the main reasons they
+
+476
+00:15:05,630 --> 00:15:06,306
+pay the fees.
+
+477
+00:15:06,656 --> 00:15:08,646
+Try this: when you see a split
+
+478
+00:15:08,646 --> 00:15:11,432
+payment option, decide what you were going
+
+479
+00:15:11,432 --> 00:15:13,622
+to buy before you saw the button.
+
+480
+00:15:13,802 --> 00:15:15,728
+Then stick to that item and that
+
+481
+00:15:15,728 --> 00:15:16,089
+price.
+
+482
+00:15:16,269 --> 00:15:18,068
+The button can change how you pay.
+
+483
+00:15:18,248 --> 00:15:19,885
+It shouldn't change what you buy.
+
+484
+00:15:20,236 --> 00:15:23,347
+This works for subscriptions and memberships too.
+
+485
+00:15:23,527 --> 00:15:25,776
+Many offers now show a monthly price
+
+486
+00:15:25,776 --> 00:15:27,650
+for things you used to pay for
+
+487
+00:15:27,650 --> 00:15:27,962
+once.
+
+488
+00:15:28,142 --> 00:15:30,661
+The smaller number always looks friendlier.
+
+489
+00:15:30,841 --> 00:15:33,107
+Always convert it back to the yearly
+
+490
+00:15:33,107 --> 00:15:34,051
+or total price,
+
+491
+00:15:34,051 --> 00:15:35,625
+and decide based on that.
+
+492
+00:15:35,975 --> 00:15:37,217
+Reason number eleven.
+
+493
+00:15:37,397 --> 00:15:38,593
+Instant approval.
+
+494
+00:15:38,943 --> 00:15:40,812
+Traditional loans have friction.
+
+495
+00:15:40,992 --> 00:15:43,859
+Applications, waiting, maybe a call from the
+
+496
+00:15:43,859 --> 00:15:44,185
+bank.
+
+497
+00:15:44,365 --> 00:15:46,478
+That friction gives you time to reconsider.
+
+498
+00:15:46,658 --> 00:15:49,292
+Buy now, pay later approval often takes
+
+499
+00:15:49,292 --> 00:15:51,116
+seconds, right at checkout.
+
+500
+00:15:51,296 --> 00:15:53,511
+There's no pause between I want this
+
+501
+00:15:53,511 --> 00:15:54,372
+and it's mine.
+
+502
+00:15:54,552 --> 00:15:56,637
+Speed is great for convenience,
+
+503
+00:15:56,637 --> 00:15:59,057
+and dangerous for impulse purchases.
+
+504
+00:15:59,407 --> 00:16:01,334
+Late night shopping makes it worse.
+
+505
+00:16:01,514 --> 00:16:04,090
+Tired, scrolling, a little bored,
+
+506
+00:16:04,090 --> 00:16:06,197
+and one tap away from a new
+
+507
+00:16:06,197 --> 00:16:06,587
+plan.
+
+508
+00:16:06,767 --> 00:16:09,724
+Many impulse purchases happen exactly in those
+
+509
+00:16:09,724 --> 00:16:10,239
+moments.
+
+510
+00:16:10,419 --> 00:16:12,799
+Try this: create a personal rule.
+
+511
+00:16:12,979 --> 00:16:15,730
+No split payment purchases after nine p.
+
+512
+00:16:15,910 --> 00:16:16,131
+m.
+
+513
+00:16:16,311 --> 00:16:17,746
+If you still want it in the
+
+514
+00:16:17,746 --> 00:16:18,703
+morning, go ahead.
+
+515
+00:16:19,053 --> 00:16:21,038
+You can also add your own friction.
+
+516
+00:16:21,218 --> 00:16:23,069
+Use a separate debit card with a
+
+517
+00:16:23,069 --> 00:16:25,268
+set weekly amount for online shopping,
+
+518
+00:16:25,268 --> 00:16:27,524
+so you physically can't spend more than
+
+519
+00:16:27,524 --> 00:16:28,219
+you planned.
+
+520
+00:16:28,399 --> 00:16:30,515
+Or log out of shopping apps after
+
+521
+00:16:30,515 --> 00:16:31,092
+each use.
+
+522
+00:16:31,272 --> 00:16:33,082
+The few extra seconds it takes to
+
+523
+00:16:33,082 --> 00:16:34,838
+log back in are often enough for
+
+524
+00:16:34,838 --> 00:16:36,648
+your better judgment to catch up.
+
+525
+00:16:36,998 --> 00:16:38,298
+Reason number twelve.
+
+526
+00:16:38,478 --> 00:16:39,639
+It's normal now.
+
+527
+00:16:39,989 --> 00:16:42,160
+Social media is full of hauls and
+
+528
+00:16:42,160 --> 00:16:45,188
+outfits, sometimes bought with split payments,
+
+529
+00:16:45,188 --> 00:16:47,360
+and the option appears on so many
+
+530
+00:16:47,360 --> 00:16:49,597
+stores that it starts to feel like
+
+531
+00:16:49,597 --> 00:16:51,111
+the default way to pay.
+
+532
+00:16:51,291 --> 00:16:53,359
+When something is everywhere,
+
+533
+00:16:53,359 --> 00:16:54,786
+we assume it's safe.
+
+534
+00:16:54,966 --> 00:16:56,956
+When friends use it casually,
+
+535
+00:16:56,956 --> 00:16:58,878
+it feels responsible enough.
+
+536
+00:16:59,228 --> 00:17:01,489
+But being normal doesn't make something right
+
+537
+00:17:01,489 --> 00:17:02,293
+for your budget.
+
+538
+00:17:02,473 --> 00:17:05,639
+Remember, the CFPB found many users already
+
+539
+00:17:05,639 --> 00:17:07,848
+had high levels of other debt.
+
+540
+00:17:08,028 --> 00:17:10,036
+Normal can mean that many people are
+
+541
+00:17:10,036 --> 00:17:10,594
+stretched.
+
+542
+00:17:10,774 --> 00:17:13,243
+Try this: follow your own numbers,
+
+543
+00:17:13,243 --> 00:17:14,187
+not the feed.
+
+544
+00:17:14,367 --> 00:17:17,098
+If your monthly split payments ever exceed
+
+545
+00:17:17,098 --> 00:17:18,788
+what you'd put in savings,
+
+546
+00:17:18,788 --> 00:17:19,894
+something is off.
+
+547
+00:17:20,244 --> 00:17:23,138
+It's also worth remembering that some creators
+
+548
+00:17:23,138 --> 00:17:25,655
+earn commissions on what they recommend,
+
+549
+00:17:25,655 --> 00:17:28,235
+and promoted posts don't always look like
+
+550
+00:17:28,235 --> 00:17:28,487
+ads.
+
+551
+00:17:28,667 --> 00:17:29,644
+That's not wrong,
+
+552
+00:17:29,644 --> 00:17:31,656
+but it means the person telling you
+
+553
+00:17:31,656 --> 00:17:33,438
+to buy may benefit when you do.
+
+554
+00:17:33,618 --> 00:17:34,768
+Enjoy the content.
+
+555
+00:17:34,948 --> 00:17:36,376
+Make your own decisions.
+
+556
+00:17:36,726 --> 00:17:38,293
+Reason number thirteen.
+
+557
+00:17:38,473 --> 00:17:39,587
+Losing track.
+
+558
+00:17:39,938 --> 00:17:41,737
+When debts live in one place,
+
+559
+00:17:41,737 --> 00:17:43,971
+like a single credit card statement,
+
+560
+00:17:43,971 --> 00:17:45,336
+you can see the total.
+
+561
+00:17:45,516 --> 00:17:48,054
+Buy now, pay later spreads debt across
+
+562
+00:17:48,054 --> 00:17:50,926
+different apps, each with its own schedule.
+
+563
+00:17:51,106 --> 00:17:53,696
+Your brain counts each one as small.
+
+564
+00:17:53,876 --> 00:17:55,362
+Nobody adds them up.
+
+565
+00:17:55,542 --> 00:17:58,024
+And if payments come out automatically from
+
+566
+00:17:58,024 --> 00:17:58,947
+your debit card,
+
+567
+00:17:58,947 --> 00:18:00,910
+they can pull money you needed for
+
+568
+00:18:00,910 --> 00:18:01,718
+rent or bills.
+
+569
+00:18:02,068 --> 00:18:04,477
+This can trigger overdraft fees at your
+
+570
+00:18:04,477 --> 00:18:06,269
+bank, on top of any late fees
+
+571
+00:18:06,269 --> 00:18:07,257
+from the lender.
+
+572
+00:18:07,437 --> 00:18:09,562
+Two fees for one small payment.
+
+573
+00:18:09,742 --> 00:18:11,264
+Try this: once a week,
+
+574
+00:18:11,264 --> 00:18:12,578
+open every buy now,
+
+575
+00:18:12,578 --> 00:18:14,722
+pay later app you use and write
+
+576
+00:18:14,722 --> 00:18:16,936
+down the total you owe and every
+
+577
+00:18:16,936 --> 00:18:18,458
+due date in one place,
+
+578
+00:18:18,458 --> 00:18:20,187
+a note on your phone or a
+
+579
+00:18:20,187 --> 00:18:21,294
+simple calendar.
+
+580
+00:18:21,474 --> 00:18:22,194
+One total.
+
+581
+00:18:22,374 --> 00:18:23,279
+One list.
+
+582
+00:18:23,630 --> 00:18:25,267
+When you write the total down,
+
+583
+00:18:25,267 --> 00:18:27,287
+compare it with your monthly savings.
+
+584
+00:18:27,467 --> 00:18:29,590
+If you owe more in split payments
+
+585
+00:18:29,590 --> 00:18:31,198
+than you save each month,
+
+586
+00:18:31,198 --> 00:18:33,385
+that's a clear signal to pause new
+
+587
+00:18:33,385 --> 00:18:35,315
+plans until the list is empty.
+
+588
+00:18:35,495 --> 00:18:37,778
+Most people who do this exercise once
+
+589
+00:18:37,778 --> 00:18:39,690
+say it changes how they use the
+
+590
+00:18:39,690 --> 00:18:40,615
+button forever.
+
+591
+00:18:40,965 --> 00:18:42,272
+Before the playbook,
+
+592
+00:18:42,272 --> 00:18:43,449
+a quick self test.
+
+593
+00:18:43,629 --> 00:18:43,780
+One.
+
+594
+00:18:43,960 --> 00:18:45,639
+Do you have more than one buy
+
+595
+00:18:45,639 --> 00:18:47,838
+now, pay later plan running right now?
+
+596
+00:18:48,018 --> 00:18:48,296
+Two.
+
+597
+00:18:48,476 --> 00:18:50,250
+Have you used it for food,
+
+598
+00:18:50,250 --> 00:18:52,911
+groceries or takeout in the last month?
+
+599
+00:18:53,091 --> 00:18:53,556
+Three.
+
+600
+00:18:53,736 --> 00:18:55,303
+Do you know the total you owe
+
+601
+00:18:55,303 --> 00:18:56,168
+across all apps,
+
+602
+00:18:56,168 --> 00:18:57,033
+without looking?
+
+603
+00:18:57,383 --> 00:18:57,917
+Four.
+
+604
+00:18:58,097 --> 00:19:00,284
+Have you ever moved money between accounts
+
+605
+00:19:00,284 --> 00:19:01,533
+to cover an installment?
+
+606
+00:19:01,713 --> 00:19:02,120
+Five.
+
+607
+00:19:02,300 --> 00:19:03,887
+Have you paid a late fee or
+
+608
+00:19:03,887 --> 00:19:05,945
+an overdraft fee because of a plan?
+
+609
+00:19:06,125 --> 00:19:06,961
+And six.
+
+610
+00:19:07,141 --> 00:19:08,828
+Would you have bought the last thing
+
+611
+00:19:08,828 --> 00:19:10,093
+you split if you had to pay
+
+612
+00:19:10,093 --> 00:19:11,077
+the full price today?
+
+613
+00:19:11,257 --> 00:19:13,363
+If you answered yes to the first
+
+614
+00:19:13,363 --> 00:19:15,206
+five, or no to the last one,
+
+615
+00:19:15,206 --> 00:19:16,194
+more than once,
+
+616
+00:19:16,194 --> 00:19:18,629
+the playbook that follows is for you.
+
+617
+00:19:18,979 --> 00:19:20,047
+Quick pause.
+
+618
+00:19:20,227 --> 00:19:22,003
+If you just counted how many plans
+
+619
+00:19:22,003 --> 00:19:23,414
+you have running right now,
+
+620
+00:19:23,414 --> 00:19:24,302
+you're not alone.
+
+621
+00:19:24,482 --> 00:19:26,495
+Subscribe to the channel if this is
+
+622
+00:19:26,495 --> 00:19:26,955
+helping.
+
+623
+00:19:27,135 --> 00:19:28,831
+It's free, and it helps me keep
+
+624
+00:19:28,831 --> 00:19:30,362
+making these videos for you.
+
+625
+00:19:30,542 --> 00:19:31,680
+Now the playbook.
+
+626
+00:19:32,030 --> 00:19:33,017
+Angle three.
+
+627
+00:19:33,197 --> 00:19:33,986
+The playbook.
+
+628
+00:19:34,166 --> 00:19:35,063
+When buy now,
+
+629
+00:19:35,063 --> 00:19:36,305
+pay later is fine,
+
+630
+00:19:36,305 --> 00:19:37,685
+when it's dangerous,
+
+631
+00:19:37,685 --> 00:19:38,996
+and how to get out.
+
+632
+00:19:39,346 --> 00:19:41,389
+Rule one, the golden rule.
+
+633
+00:19:41,569 --> 00:19:42,605
+Only use buy now,
+
+634
+00:19:42,605 --> 00:19:44,860
+pay later for something you could pay
+
+635
+00:19:44,860 --> 00:19:45,958
+for in full today,
+
+636
+00:19:45,958 --> 00:19:47,664
+with money you already have.
+
+637
+00:19:47,844 --> 00:19:49,300
+If you can afford it now,
+
+638
+00:19:49,300 --> 00:19:51,455
+splitting it is just a timing choice.
+
+639
+00:19:51,635 --> 00:19:52,412
+If you can't,
+
+640
+00:19:52,412 --> 00:19:53,967
+the plan is a loan you may
+
+641
+00:19:53,967 --> 00:19:55,222
+not be able to repay.
+
+642
+00:19:55,402 --> 00:19:57,604
+This one rule eliminates most of the
+
+643
+00:19:57,604 --> 00:19:57,910
+risk.
+
+644
+00:19:58,260 --> 00:19:59,165
+Rule two.
+
+645
+00:19:59,345 --> 00:20:00,529
+One plan at a time.
+
+646
+00:20:00,709 --> 00:20:01,569
+Never stack.
+
+647
+00:20:01,749 --> 00:20:03,229
+If you have a plan running,
+
+648
+00:20:03,229 --> 00:20:05,092
+finish it before starting another.
+
+649
+00:20:05,272 --> 00:20:07,121
+This keeps the total visible and the
+
+650
+00:20:07,121 --> 00:20:07,943
+schedule simple.
+
+651
+00:20:08,123 --> 00:20:08,982
+Rule three.
+
+652
+00:20:09,162 --> 00:20:10,810
+Never for consumables.
+
+653
+00:20:10,990 --> 00:20:12,800
+Food, takeout, groceries,
+
+654
+00:20:12,800 --> 00:20:15,623
+and everyday items are gone long before
+
+655
+00:20:15,623 --> 00:20:16,853
+the payments end.
+
+656
+00:20:17,033 --> 00:20:18,981
+Paying later for a meal you ate
+
+657
+00:20:18,981 --> 00:20:20,866
+weeks ago is a sign the budget
+
+658
+00:20:20,866 --> 00:20:23,129
+needs attention, not a payment plan.
+
+659
+00:20:23,479 --> 00:20:24,280
+Rule four.
+
+660
+00:20:24,460 --> 00:20:25,911
+Know the type of plan.
+
+661
+00:20:26,091 --> 00:20:27,932
+Pay in four with no interest is
+
+662
+00:20:27,932 --> 00:20:30,663
+very different from a twelve month installment
+
+663
+00:20:30,663 --> 00:20:31,792
+loan with interest.
+
+664
+00:20:31,972 --> 00:20:34,108
+Read the APR before you tap.
+
+665
+00:20:34,288 --> 00:20:35,298
+Rule five.
+
+666
+00:20:35,478 --> 00:20:36,650
+Pay from the right account.
+
+667
+00:20:36,830 --> 00:20:38,872
+If payments come from a debit card,
+
+668
+00:20:38,872 --> 00:20:40,796
+make sure the money will be there
+
+669
+00:20:40,796 --> 00:20:41,788
+on each due date.
+
+670
+00:20:41,968 --> 00:20:44,743
+Many people prefer to set reminders and
+
+671
+00:20:44,743 --> 00:20:46,949
+pay manually, or pay off early.
+
+672
+00:20:47,299 --> 00:20:48,320
+Rule six.
+
+673
+00:20:48,500 --> 00:20:49,673
+Turn off the button.
+
+674
+00:20:49,853 --> 00:20:52,168
+Some apps and browsers let you hide
+
+675
+00:20:52,168 --> 00:20:53,954
+or disable payment options,
+
+676
+00:20:53,954 --> 00:20:56,204
+and you can remove saved accounts.
+
+677
+00:20:56,384 --> 00:20:58,264
+Less temptation at checkout.
+
+678
+00:20:58,444 --> 00:20:59,292
+Rule seven.
+
+679
+00:20:59,472 --> 00:21:00,703
+Keep one list.
+
+680
+00:21:00,883 --> 00:21:02,827
+Every plan, every due date,
+
+681
+00:21:02,827 --> 00:21:04,772
+every amount, in one place.
+
+682
+00:21:04,952 --> 00:21:06,322
+Review it weekly.
+
+683
+00:21:06,672 --> 00:21:07,450
+Rule eight.
+
+684
+00:21:07,630 --> 00:21:08,503
+If you use it,
+
+685
+00:21:08,503 --> 00:21:10,625
+use it for planned purchases only.
+
+686
+00:21:10,805 --> 00:21:12,452
+Something you budgeted for,
+
+687
+00:21:12,452 --> 00:21:14,343
+at a price you decided ahead of
+
+688
+00:21:14,343 --> 00:21:14,648
+time.
+
+689
+00:21:14,828 --> 00:21:16,999
+A new fridge when the old one
+
+690
+00:21:16,999 --> 00:21:19,695
+dies, paid in four with no interest,
+
+691
+00:21:19,695 --> 00:21:22,166
+from money you already set aside,
+
+692
+00:21:22,166 --> 00:21:23,663
+is a reasonable use.
+
+693
+00:21:23,843 --> 00:21:26,177
+An impulse outfit at midnight is not.
+
+694
+00:21:26,527 --> 00:21:28,408
+The golden rule of buy now,
+
+695
+00:21:28,408 --> 00:21:29,104
+pay later.
+
+696
+00:21:29,284 --> 00:21:30,972
+Only split what you could pay for
+
+697
+00:21:30,972 --> 00:21:31,687
+in full today.
+
+698
+00:21:32,038 --> 00:21:34,872
+And if you're already juggling several plans,
+
+699
+00:21:34,872 --> 00:21:36,258
+here's how to get out,
+
+700
+00:21:36,258 --> 00:21:37,076
+step by step.
+
+701
+00:21:37,427 --> 00:21:38,205
+Step one.
+
+702
+00:21:38,385 --> 00:21:39,279
+Stop adding.
+
+703
+00:21:39,459 --> 00:21:41,710
+No new plans until all current ones
+
+704
+00:21:41,710 --> 00:21:42,547
+are finished.
+
+705
+00:21:42,727 --> 00:21:45,446
+Remove saved payment methods from your shopping
+
+706
+00:21:45,446 --> 00:21:46,198
+apps for now.
+
+707
+00:21:46,378 --> 00:21:47,319
+Step two.
+
+708
+00:21:47,499 --> 00:21:48,532
+Make the list.
+
+709
+00:21:48,712 --> 00:21:49,735
+Open every app,
+
+710
+00:21:49,735 --> 00:21:52,533
+write every remaining payment and date in
+
+711
+00:21:52,533 --> 00:21:54,238
+one place, and add it up.
+
+712
+00:21:54,418 --> 00:21:56,609
+Knowing the real total is uncomfortable,
+
+713
+00:21:56,609 --> 00:21:58,087
+but it's the turning point.
+
+714
+00:21:58,437 --> 00:21:59,331
+Step three.
+
+715
+00:21:59,511 --> 00:22:00,985
+Protect the essentials.
+
+716
+00:22:01,165 --> 00:22:05,507
+Rent, utilities, food and transportation come first.
+
+717
+00:22:05,687 --> 00:22:08,183
+If a payment date clashes with rent,
+
+718
+00:22:08,183 --> 00:22:10,817
+contact the lender before the due date
+
+719
+00:22:10,817 --> 00:22:12,688
+and ask about rescheduling.
+
+720
+00:22:12,868 --> 00:22:15,281
+Many providers let you move a payment
+
+721
+00:22:15,281 --> 00:22:17,303
+date or offer hardship options.
+
+722
+00:22:17,483 --> 00:22:19,677
+Ask early, not after you've missed it.
+
+723
+00:22:20,028 --> 00:22:21,096
+Step four.
+
+724
+00:22:21,276 --> 00:22:23,320
+Clear the smallest plans first,
+
+725
+00:22:23,320 --> 00:22:24,968
+if the costs are similar.
+
+726
+00:22:25,148 --> 00:22:27,779
+Finishing a plan entirely reduces the number
+
+727
+00:22:27,779 --> 00:22:28,557
+of due dates,
+
+728
+00:22:28,557 --> 00:22:30,590
+which lowers your risk of a missed
+
+729
+00:22:30,590 --> 00:22:31,069
+payment.
+
+730
+00:22:31,249 --> 00:22:33,417
+Any plan that charges interest should move
+
+731
+00:22:33,417 --> 00:22:34,604
+to the top of the list.
+
+732
+00:22:34,784 --> 00:22:35,829
+Step five.
+
+733
+00:22:36,009 --> 00:22:37,456
+Build a small cushion,
+
+734
+00:22:37,456 --> 00:22:39,692
+even two or three hundred dollars,
+
+735
+00:22:39,692 --> 00:22:41,993
+so a surprise doesn't push you back
+
+736
+00:22:41,993 --> 00:22:43,834
+to splitting everyday costs.
+
+737
+00:22:44,184 --> 00:22:45,449
+And step six.
+
+738
+00:22:45,629 --> 00:22:47,080
+Look at the bigger picture.
+
+739
+00:22:47,260 --> 00:22:49,880
+If you've been using split payments to
+
+740
+00:22:49,880 --> 00:22:51,466
+cover regular expenses,
+
+741
+00:22:51,466 --> 00:22:53,742
+the real issue is the gap between
+
+742
+00:22:53,742 --> 00:22:55,120
+income and spending.
+
+743
+00:22:55,300 --> 00:22:57,367
+Use the same tools from my video
+
+744
+00:22:57,367 --> 00:22:59,305
+on why most people stay broke:
+
+745
+00:22:59,305 --> 00:23:00,726
+find your real number,
+
+746
+00:23:00,726 --> 00:23:01,630
+cut the leaks,
+
+747
+00:23:01,630 --> 00:23:03,439
+and build a starter cushion.
+
+748
+00:23:03,619 --> 00:23:05,001
+The plans are a symptom.
+
+749
+00:23:05,181 --> 00:23:06,469
+The budget is the cure.
+
+750
+00:23:06,819 --> 00:23:08,953
+Let's walk through one month in the
+
+751
+00:23:08,953 --> 00:23:11,148
+life of someone using several plans,
+
+752
+00:23:11,148 --> 00:23:12,917
+so you can see how quickly it
+
+753
+00:23:12,917 --> 00:23:13,344
+builds.
+
+754
+00:23:13,694 --> 00:23:14,251
+Day one.
+
+755
+00:23:14,431 --> 00:23:17,832
+Paycheck arrives, two thousand dollars after taxes
+
+756
+00:23:17,832 --> 00:23:18,785
+for two weeks.
+
+757
+00:23:18,965 --> 00:23:19,890
+Rent comes out,
+
+758
+00:23:19,890 --> 00:23:21,988
+plus the car payment and the phone
+
+759
+00:23:21,988 --> 00:23:22,297
+bill.
+
+760
+00:23:22,477 --> 00:23:24,683
+About seven hundred dollars is left for
+
+761
+00:23:24,683 --> 00:23:25,588
+everything else.
+
+762
+00:23:25,768 --> 00:23:27,022
+Day three.
+
+763
+00:23:27,202 --> 00:23:29,929
+A forty dollar installment for sneakers bought
+
+764
+00:23:29,929 --> 00:23:30,581
+last month.
+
+765
+00:23:30,761 --> 00:23:31,666
+Day five.
+
+766
+00:23:31,846 --> 00:23:34,609
+A sixty dollar installment for a jacket.
+
+767
+00:23:34,789 --> 00:23:35,556
+Day seven.
+
+768
+00:23:35,736 --> 00:23:38,965
+A thirty dollar installment for groceries split
+
+769
+00:23:38,965 --> 00:23:39,927
+two weeks ago.
+
+770
+00:23:40,277 --> 00:23:40,973
+Day ten.
+
+771
+00:23:41,153 --> 00:23:43,540
+A ninety dollar installment for a new
+
+772
+00:23:43,540 --> 00:23:45,797
+phone accessory bundle and earbuds.
+
+773
+00:23:45,977 --> 00:23:46,813
+Day twelve.
+
+774
+00:23:46,993 --> 00:23:49,901
+A seventy five dollar installment for concert
+
+775
+00:23:49,901 --> 00:23:50,418
+tickets.
+
+776
+00:23:50,598 --> 00:23:52,386
+Nothing seems big on its own.
+
+777
+00:23:52,566 --> 00:23:54,310
+But by the end of two weeks,
+
+778
+00:23:54,310 --> 00:23:56,739
+close to three hundred dollars has gone
+
+779
+00:23:56,739 --> 00:23:57,860
+to past purchases.
+
+780
+00:23:58,040 --> 00:24:00,617
+That's three hundred dollars that can't be
+
+781
+00:24:00,617 --> 00:24:02,519
+used for this week's groceries,
+
+782
+00:24:02,519 --> 00:24:03,439
+gas or savings.
+
+783
+00:24:03,789 --> 00:24:05,542
+So what happens next?
+
+784
+00:24:05,722 --> 00:24:08,578
+The person splits this week's groceries too,
+
+785
+00:24:08,578 --> 00:24:10,331
+because the account is low.
+
+786
+00:24:10,511 --> 00:24:12,682
+And now next month has another plan.
+
+787
+00:24:12,862 --> 00:24:14,557
+This is how the loop forms.
+
+788
+00:24:14,737 --> 00:24:17,380
+Past spending crowds out present needs,
+
+789
+00:24:17,380 --> 00:24:19,007
+which creates new plans,
+
+790
+00:24:19,007 --> 00:24:20,972
+which crowd out future needs.
+
+791
+00:24:21,152 --> 00:24:23,281
+It's the paycheck to paycheck loop,
+
+792
+00:24:23,281 --> 00:24:25,227
+just broken into smaller pieces.
+
+793
+00:24:25,577 --> 00:24:27,207
+The way out is the same as
+
+794
+00:24:27,207 --> 00:24:28,085
+any debt loop.
+
+795
+00:24:28,265 --> 00:24:29,558
+Stop the new plans,
+
+796
+00:24:29,558 --> 00:24:31,192
+let the old ones finish,
+
+797
+00:24:31,192 --> 00:24:33,439
+and build even a small cushion so
+
+798
+00:24:33,439 --> 00:24:36,299
+the next week doesn't depend on splitting.
+
+799
+00:24:36,479 --> 00:24:38,371
+It might take one or two tight
+
+800
+00:24:38,371 --> 00:24:38,812
+months.
+
+801
+00:24:38,992 --> 00:24:41,289
+Then the money that went to installments
+
+802
+00:24:41,289 --> 00:24:42,150
+is yours again.
+
+803
+00:24:42,500 --> 00:24:44,371
+If what you love about buy now,
+
+804
+00:24:44,371 --> 00:24:46,422
+pay later is spreading out a cost,
+
+805
+00:24:46,422 --> 00:24:48,293
+there are better ways to do it.
+
+806
+00:24:48,473 --> 00:24:50,614
+The best one is old fashioned:
+
+807
+00:24:50,614 --> 00:24:51,399
+save first.
+
+808
+00:24:51,579 --> 00:24:53,631
+Create a savings bucket for the thing
+
+809
+00:24:53,631 --> 00:24:55,184
+you want and add to it every
+
+810
+00:24:55,184 --> 00:24:55,573
+payday.
+
+811
+00:24:55,753 --> 00:24:56,861
+When it's full,
+
+812
+00:24:56,861 --> 00:24:57,378
+buy it.
+
+813
+00:24:57,558 --> 00:24:59,057
+You get the same small,
+
+814
+00:24:59,057 --> 00:25:02,314
+regular payments, just before the purchase instead
+
+815
+00:25:02,314 --> 00:25:03,096
+of after it.
+
+816
+00:25:03,446 --> 00:25:05,837
+Saving first has three advantages.
+
+817
+00:25:06,017 --> 00:25:08,267
+No risk of late fees or credit
+
+818
+00:25:08,267 --> 00:25:08,792
+damage.
+
+819
+00:25:08,972 --> 00:25:10,404
+Time to change your mind,
+
+820
+00:25:10,404 --> 00:25:12,408
+because many things you want today,
+
+821
+00:25:12,408 --> 00:25:14,011
+you won't want in six weeks.
+
+822
+00:25:14,191 --> 00:25:16,228
+And sometimes, while you save,
+
+823
+00:25:16,228 --> 00:25:17,315
+the price drops,
+
+824
+00:25:17,315 --> 00:25:19,148
+or a better option appears.
+
+825
+00:25:19,328 --> 00:25:22,531
+Saving first turns impulse purchases into planned
+
+826
+00:25:22,531 --> 00:25:22,858
+ones.
+
+827
+00:25:23,208 --> 00:25:25,160
+For bigger necessary costs,
+
+828
+00:25:25,160 --> 00:25:26,896
+plan with sinking funds,
+
+829
+00:25:26,896 --> 00:25:29,210
+like we covered in other videos.
+
+830
+00:25:29,390 --> 00:25:31,931
+A little each month for car repairs,
+
+831
+00:25:31,931 --> 00:25:34,684
+holidays, appliances and medical costs.
+
+832
+00:25:34,864 --> 00:25:36,401
+When the expense comes,
+
+833
+00:25:36,401 --> 00:25:37,604
+it's already paid.
+
+834
+00:25:37,784 --> 00:25:39,753
+And if you truly need to borrow,
+
+835
+00:25:39,753 --> 00:25:41,660
+compare the total cost of a buy
+
+836
+00:25:41,660 --> 00:25:43,935
+now, pay later plan with options like
+
+837
+00:25:43,935 --> 00:25:45,166
+a credit union loan,
+
+838
+00:25:45,166 --> 00:25:47,196
+and pick the cheapest one you can
+
+839
+00:25:47,196 --> 00:25:48,303
+comfortably repay.
+
+840
+00:25:48,653 --> 00:25:50,499
+Let's see two shoppers.
+
+841
+00:25:50,679 --> 00:25:52,125
+Emma, twenty four,
+
+842
+00:25:52,125 --> 00:25:53,170
+used buy now,
+
+843
+00:25:53,170 --> 00:25:55,741
+pay later for almost everything.
+
+844
+00:25:55,921 --> 00:25:57,318
+Shoes, a jacket,
+
+845
+00:25:57,318 --> 00:25:59,414
+a phone, a weekend trip,
+
+846
+00:25:59,414 --> 00:26:01,772
+even groceries a few times.
+
+847
+00:26:01,952 --> 00:26:03,473
+Each plan seemed small.
+
+848
+00:26:03,653 --> 00:26:04,636
+Then one month,
+
+849
+00:26:04,636 --> 00:26:06,405
+her hours at work were cut.
+
+850
+00:26:06,585 --> 00:26:09,049
+Suddenly she had about four hundred dollars
+
+851
+00:26:09,049 --> 00:26:11,169
+of installments due within two weeks,
+
+852
+00:26:11,169 --> 00:26:12,889
+and not enough in her account.
+
+853
+00:26:13,239 --> 00:26:14,451
+One payment bounced,
+
+854
+00:26:14,451 --> 00:26:16,269
+leading to a late fee from the
+
+855
+00:26:16,269 --> 00:26:18,450
+lender and an overdraft fee from her
+
+856
+00:26:18,450 --> 00:26:18,753
+bank.
+
+857
+00:26:18,933 --> 00:26:21,043
+She started using her credit card to
+
+858
+00:26:21,043 --> 00:26:22,684
+cover the next installments,
+
+859
+00:26:22,684 --> 00:26:23,914
+which added interest.
+
+860
+00:26:24,094 --> 00:26:25,922
+It took her about five months,
+
+861
+00:26:25,922 --> 00:26:27,445
+a second job on weekends,
+
+862
+00:26:27,445 --> 00:26:29,029
+and a lot of stress to get
+
+863
+00:26:29,029 --> 00:26:29,272
+out.
+
+864
+00:26:29,452 --> 00:26:32,006
+Looking back, no single purchase was the
+
+865
+00:26:32,006 --> 00:26:32,517
+problem.
+
+866
+00:26:32,697 --> 00:26:33,742
+The stack was.
+
+867
+00:26:34,092 --> 00:26:35,740
+Now Chris, twenty nine.
+
+868
+00:26:35,920 --> 00:26:37,032
+He uses buy now,
+
+869
+00:26:37,032 --> 00:26:39,186
+pay later once or twice a year,
+
+870
+00:26:39,186 --> 00:26:41,895
+only for planned purchases he could pay
+
+871
+00:26:41,895 --> 00:26:42,729
+for in full,
+
+872
+00:26:42,729 --> 00:26:44,605
+like a new laptop for work.
+
+873
+00:26:44,785 --> 00:26:46,858
+He chooses zero interest plans,
+
+874
+00:26:46,858 --> 00:26:49,266
+pays from an account with a cushion,
+
+875
+00:26:49,266 --> 00:26:50,938
+and often pays off early.
+
+876
+00:26:51,118 --> 00:26:53,219
+For him, it's a free short term
+
+877
+00:26:53,219 --> 00:26:55,727
+loan, and the merchant pays the cost.
+
+878
+00:26:56,077 --> 00:26:57,006
+Same product.
+
+879
+00:26:57,186 --> 00:26:59,426
+Two completely different outcomes.
+
+880
+00:26:59,606 --> 00:27:01,015
+Chris uses buy now,
+
+881
+00:27:01,015 --> 00:27:02,497
+pay later as a tool.
+
+882
+00:27:02,677 --> 00:27:04,442
+Emma used it as a budget.
+
+883
+00:27:04,622 --> 00:27:06,515
+The difference wasn't income,
+
+884
+00:27:06,515 --> 00:27:07,559
+or intelligence.
+
+885
+00:27:07,739 --> 00:27:08,854
+It was one rule.
+
+886
+00:27:09,034 --> 00:27:10,655
+Only split what you could pay for
+
+887
+00:27:10,655 --> 00:27:10,949
+today.
+
+888
+00:27:11,300 --> 00:27:13,714
+Let me answer the questions people ask
+
+889
+00:27:13,714 --> 00:27:15,111
+me most about buy now,
+
+890
+00:27:15,111 --> 00:27:15,746
+pay later.
+
+891
+00:27:16,097 --> 00:27:16,933
+Question one.
+
+892
+00:27:17,113 --> 00:27:17,976
+Does buy now,
+
+893
+00:27:17,976 --> 00:27:20,166
+pay later affect my credit score?
+
+894
+00:27:20,346 --> 00:27:22,239
+It depends on the provider and the
+
+895
+00:27:22,239 --> 00:27:22,517
+plan.
+
+896
+00:27:22,697 --> 00:27:25,028
+Some don't report short plans at all,
+
+897
+00:27:25,028 --> 00:27:26,666
+some report certain loans,
+
+898
+00:27:26,666 --> 00:27:29,123
+and some report missed payments or send
+
+899
+00:27:29,123 --> 00:27:30,383
+them to collections.
+
+900
+00:27:30,563 --> 00:27:33,103
+And reporting practices are changing,
+
+901
+00:27:33,103 --> 00:27:36,055
+as credit bureaus and scoring companies add
+
+902
+00:27:36,055 --> 00:27:36,879
+these loans.
+
+903
+00:27:37,059 --> 00:27:39,044
+The safest approach is to assume a
+
+904
+00:27:39,044 --> 00:27:41,145
+missed payment can hurt your credit.
+
+905
+00:27:41,496 --> 00:27:42,390
+Question two.
+
+906
+00:27:42,570 --> 00:27:44,230
+Is it better than a credit card?
+
+907
+00:27:44,410 --> 00:27:46,911
+If you'd otherwise carry a credit card
+
+908
+00:27:46,911 --> 00:27:48,622
+balance at twenty percent,
+
+909
+00:27:48,622 --> 00:27:50,860
+a true zero interest plan that you
+
+910
+00:27:50,860 --> 00:27:52,572
+pay on time can cost less.
+
+911
+00:27:52,752 --> 00:27:55,703
+But credit cards offer a single statement,
+
+912
+00:27:55,703 --> 00:27:56,687
+a clear total,
+
+913
+00:27:56,687 --> 00:27:59,497
+and often stronger purchase protections.
+
+914
+00:27:59,677 --> 00:28:01,639
+And a card paid in full each
+
+915
+00:28:01,639 --> 00:28:03,601
+month is also interest free.
+
+916
+00:28:03,781 --> 00:28:06,260
+For people who pay cards in full,
+
+917
+00:28:06,260 --> 00:28:08,588
+buy now, pay later adds little.
+
+918
+00:28:08,938 --> 00:28:09,971
+Question three.
+
+919
+00:28:10,151 --> 00:28:11,451
+What about returns?
+
+920
+00:28:11,631 --> 00:28:13,245
+Returns can get complicated.
+
+921
+00:28:13,425 --> 00:28:14,718
+If you return an item,
+
+922
+00:28:14,718 --> 00:28:16,657
+you usually need to make sure the
+
+923
+00:28:16,657 --> 00:28:19,067
+store processes the refund and the lender
+
+924
+00:28:19,067 --> 00:28:20,066
+updates the plan.
+
+925
+00:28:20,246 --> 00:28:21,543
+Until that happens,
+
+926
+00:28:21,543 --> 00:28:23,044
+payments may continue.
+
+927
+00:28:23,224 --> 00:28:25,473
+Keep receipts and check the app to
+
+928
+00:28:25,473 --> 00:28:27,656
+make sure the plan is canceled or
+
+929
+00:28:27,656 --> 00:28:28,251
+adjusted.
+
+930
+00:28:28,601 --> 00:28:29,471
+Question four.
+
+931
+00:28:29,651 --> 00:28:32,403
+Is it okay for big necessary purchases?
+
+932
+00:28:32,583 --> 00:28:33,535
+Sometimes.
+
+933
+00:28:33,715 --> 00:28:35,921
+If your washing machine breaks and you
+
+934
+00:28:35,921 --> 00:28:37,720
+have the money but want to keep
+
+935
+00:28:37,720 --> 00:28:39,636
+your cushion intact a bit longer,
+
+936
+00:28:39,636 --> 00:28:41,900
+a zero interest plan can be reasonable.
+
+937
+00:28:42,080 --> 00:28:43,966
+If the plan charges interest,
+
+938
+00:28:43,966 --> 00:28:45,917
+compare it with other options,
+
+939
+00:28:45,917 --> 00:28:47,543
+like a credit union loan,
+
+940
+00:28:47,543 --> 00:28:49,104
+and choose the cheapest.
+
+941
+00:28:49,454 --> 00:28:50,394
+Question five.
+
+942
+00:28:50,574 --> 00:28:52,409
+What's the biggest warning sign?
+
+943
+00:28:52,589 --> 00:28:53,630
+Using buy now,
+
+944
+00:28:53,630 --> 00:28:57,127
+pay later for everyday spending like groceries,
+
+945
+00:28:57,127 --> 00:28:58,243
+gas or takeout.
+
+946
+00:28:58,423 --> 00:29:00,865
+When basic costs need to be split,
+
+947
+00:29:00,865 --> 00:29:03,380
+the budget is already under strain.
+
+948
+00:29:03,560 --> 00:29:05,338
+That's the moment to pause new plans
+
+949
+00:29:05,338 --> 00:29:06,869
+and look at the bigger picture.
+
+950
+00:29:07,219 --> 00:29:08,217
+Question seven.
+
+951
+00:29:08,397 --> 00:29:09,299
+Can buy now,
+
+952
+00:29:09,299 --> 00:29:11,404
+pay later help build credit?
+
+953
+00:29:11,584 --> 00:29:14,101
+Possibly, as more lenders report on time
+
+954
+00:29:14,101 --> 00:29:17,122
+payments and scoring models start counting them.
+
+955
+00:29:17,302 --> 00:29:19,129
+But it's a slow and uncertain way
+
+956
+00:29:19,129 --> 00:29:20,015
+to build credit,
+
+957
+00:29:20,015 --> 00:29:21,621
+and missed payments can hurt.
+
+958
+00:29:21,801 --> 00:29:24,045
+A simpler path for most people is
+
+959
+00:29:24,045 --> 00:29:26,084
+a basic credit card used for a
+
+960
+00:29:26,084 --> 00:29:27,376
+small regular bill,
+
+961
+00:29:27,376 --> 00:29:29,824
+paid in full every month on autopay.
+
+962
+00:29:30,174 --> 00:29:31,079
+Question eight.
+
+963
+00:29:31,259 --> 00:29:33,643
+What if a payment fails because my
+
+964
+00:29:33,643 --> 00:29:34,835
+account is empty?
+
+965
+00:29:35,015 --> 00:29:37,186
+Contact the provider right away.
+
+966
+00:29:37,366 --> 00:29:39,721
+Many will let you retry or reschedule
+
+967
+00:29:39,721 --> 00:29:42,395
+the payment, and acting quickly can reduce
+
+968
+00:29:42,395 --> 00:29:44,750
+fees and keep it from being reported.
+
+969
+00:29:44,930 --> 00:29:47,119
+Then move the remaining due dates into
+
+970
+00:29:47,119 --> 00:29:49,307
+your calendar, and make sure the money
+
+971
+00:29:49,307 --> 00:29:51,150
+is there for each one before you
+
+972
+00:29:51,150 --> 00:29:52,186
+buy anything else.
+
+973
+00:29:52,537 --> 00:29:53,942
+And question six.
+
+974
+00:29:54,122 --> 00:29:55,722
+How do I talk to my teenager
+
+975
+00:29:55,722 --> 00:29:57,094
+or young adult about it?
+
+976
+00:29:57,274 --> 00:29:59,921
+Show them the math with real examples.
+
+977
+00:30:00,101 --> 00:30:02,053
+Add up a typical month of split
+
+978
+00:30:02,053 --> 00:30:02,620
+payments.
+
+979
+00:30:02,800 --> 00:30:04,277
+Explain that it's a loan,
+
+980
+00:30:04,277 --> 00:30:06,109
+even if the app looks friendly.
+
+981
+00:30:06,289 --> 00:30:07,694
+And share the golden rule.
+
+982
+00:30:07,874 --> 00:30:10,290
+Many young people have never had anyone
+
+983
+00:30:10,290 --> 00:30:12,830
+explain it, and a ten minute conversation
+
+984
+00:30:12,830 --> 00:30:14,689
+can save them years of stress.
+
+985
+00:30:15,039 --> 00:30:17,152
+One last thought before the recap.
+
+986
+00:30:17,332 --> 00:30:19,048
+Buy now, pay later isn't evil,
+
+987
+00:30:19,048 --> 00:30:20,879
+and the people who use it aren't
+
+988
+00:30:20,879 --> 00:30:21,337
+foolish.
+
+989
+00:30:21,517 --> 00:30:24,100
+It's a well designed product that solves
+
+990
+00:30:24,100 --> 00:30:25,068
+a real problem,
+
+991
+00:30:25,068 --> 00:30:27,845
+wanting something now and paying gradually.
+
+992
+00:30:28,025 --> 00:30:30,160
+The danger is that it solves that
+
+993
+00:30:30,160 --> 00:30:32,942
+problem by borrowing from your future self,
+
+994
+00:30:32,942 --> 00:30:34,171
+a little at a time,
+
+995
+00:30:34,171 --> 00:30:36,047
+in a way that's easy to miss.
+
+996
+00:30:36,227 --> 00:30:38,305
+Your future self deserves a say.
+
+997
+00:30:38,485 --> 00:30:40,379
+Give them one by checking the total
+
+998
+00:30:40,379 --> 00:30:41,190
+before you tap.
+
+999
+00:30:41,541 --> 00:30:42,319
+Quick recap.
+
+1000
+00:30:42,499 --> 00:30:43,974
+The numbers: buy now,
+
+1001
+00:30:43,974 --> 00:30:46,434
+pay later grew more than tenfold in
+
+1002
+00:30:46,434 --> 00:30:49,315
+two years, merchants pay because it makes
+
+1003
+00:30:49,315 --> 00:30:50,580
+people spend more,
+
+1004
+00:30:50,580 --> 00:30:53,602
+late fees and longer interest bearing plans
+
+1005
+00:30:53,602 --> 00:30:54,656
+add real costs,
+
+1006
+00:30:54,656 --> 00:30:57,678
+many users stack loans across several apps,
+
+1007
+00:30:57,678 --> 00:31:00,067
+and the debt is often invisible to
+
+1008
+00:31:00,067 --> 00:31:01,051
+other lenders.
+
+1009
+00:31:01,402 --> 00:31:04,361
+The psychology: the smaller number wins,
+
+1010
+00:31:04,361 --> 00:31:06,284
+it doesn't feel like debt,
+
+1011
+00:31:06,284 --> 00:31:07,763
+less pain of paying,
+
+1012
+00:31:07,763 --> 00:31:10,056
+bigger carts, instant approval,
+
+1013
+00:31:10,056 --> 00:31:13,755
+social normalization and losing track across apps.
+
+1014
+00:31:14,105 --> 00:31:15,285
+And the playbook:
+
+1015
+00:31:15,285 --> 00:31:17,785
+only split what you could pay today,
+
+1016
+00:31:17,785 --> 00:31:19,104
+one plan at a time,
+
+1017
+00:31:19,104 --> 00:31:20,632
+never for consumables,
+
+1018
+00:31:20,632 --> 00:31:21,952
+know the plan type,
+
+1019
+00:31:21,952 --> 00:31:23,826
+pay from the right account,
+
+1020
+00:31:23,826 --> 00:31:25,215
+turn off the button,
+
+1021
+00:31:25,215 --> 00:31:26,187
+keep one list,
+
+1022
+00:31:26,187 --> 00:31:28,826
+and use it only for planned purchases.
+
+1023
+00:31:29,006 --> 00:31:30,332
+If you're stacked,
+
+1024
+00:31:30,332 --> 00:31:32,468
+stop adding, list everything,
+
+1025
+00:31:32,468 --> 00:31:35,636
+protect essentials, clear plans one by one,
+
+1026
+00:31:35,636 --> 00:31:37,551
+and fix the bigger budget.
+
+1027
+00:31:37,901 --> 00:31:39,556
+If you want the full plan for
+
+1028
+00:31:39,556 --> 00:31:41,497
+getting out of every kind of debt,
+
+1029
+00:31:41,497 --> 00:31:42,982
+and building wealth after,
+
+1030
+00:31:42,982 --> 00:31:44,124
+it's in my playbook.
+
+1031
+00:31:44,304 --> 00:31:45,999
+The link is in the description.
+
+1032
+00:31:46,179 --> 00:31:47,981
+And watch my video on how credit
+
+1033
+00:31:47,981 --> 00:31:49,952
+card companies make money from you.
+
+1034
+00:31:50,132 --> 00:31:52,129
+It's the other half of this story.
+
+1035
+00:31:52,309 --> 00:31:53,598
+I'm Ryan Rover.
+
+1036
+00:31:53,778 --> 00:31:55,055
+See you in the next one.
