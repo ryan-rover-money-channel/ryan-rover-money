@@ -1,0 +1,4183 @@
+1
+00:00:00,000 --> 00:00:01,753
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,933 --> 00:00:04,446
+There's a number in personal finance that
+
+3
+00:00:04,446 --> 00:00:06,101
+quietly changes everything.
+
+4
+00:00:06,281 --> 00:00:08,069
+It's not a million dollars.
+
+5
+00:00:08,249 --> 00:00:10,234
+It's not even one hundred thousand.
+
+6
+00:00:10,414 --> 00:00:12,051
+It's ten thousand dollars.
+
+7
+00:00:12,231 --> 00:00:14,746
+When people finally get their first ten
+
+8
+00:00:14,746 --> 00:00:17,067
+thousand dollars saved and invested,
+
+9
+00:00:17,067 --> 00:00:18,164
+something shifts.
+
+10
+00:00:18,344 --> 00:00:19,532
+The math changes,
+
+11
+00:00:19,532 --> 00:00:21,141
+the psychology changes,
+
+12
+00:00:21,141 --> 00:00:23,868
+and the next ten thousand starts coming
+
+13
+00:00:23,868 --> 00:00:24,358
+faster.
+
+14
+00:00:24,538 --> 00:00:26,359
+Today I'm going to show you why,
+
+15
+00:00:26,359 --> 00:00:28,009
+and exactly how to get there.
+
+16
+00:00:28,359 --> 00:00:30,425
+Here's the rule in one sentence.
+
+17
+00:00:30,605 --> 00:00:32,956
+Your first ten thousand dollars is the
+
+18
+00:00:32,956 --> 00:00:35,432
+hardest, and every ten thousand after it
+
+19
+00:00:35,432 --> 00:00:36,236
+comes faster.
+
+20
+00:00:36,416 --> 00:00:38,995
+Investing five hundred dollars a month at
+
+21
+00:00:38,995 --> 00:00:41,386
+a seven percent average yearly return,
+
+22
+00:00:41,386 --> 00:00:44,091
+the first ten thousand takes about nineteen
+
+23
+00:00:44,091 --> 00:00:44,531
+months.
+
+24
+00:00:44,711 --> 00:00:47,161
+The tenth ten thousand takes about nine.
+
+25
+00:00:47,511 --> 00:00:48,544
+Why does that happen?
+
+26
+00:00:48,724 --> 00:00:49,836
+Because at first,
+
+27
+00:00:49,836 --> 00:00:52,126
+you're doing all the work yourself.
+
+28
+00:00:52,306 --> 00:00:54,129
+Every dollar in the account is a
+
+29
+00:00:54,129 --> 00:00:55,155
+dollar you earned,
+
+30
+00:00:55,155 --> 00:00:56,067
+saved and moved.
+
+31
+00:00:56,247 --> 00:00:58,440
+But once the balance gets bigger,
+
+32
+00:00:58,440 --> 00:01:00,566
+the money itself starts helping.
+
+33
+00:01:00,746 --> 00:01:02,617
+Growth that was a few dollars a
+
+34
+00:01:02,617 --> 00:01:03,884
+month becomes dozens,
+
+35
+00:01:03,884 --> 00:01:04,728
+then hundreds.
+
+36
+00:01:04,908 --> 00:01:07,307
+Ten thousand dollars is roughly where most
+
+37
+00:01:07,307 --> 00:01:09,535
+people first start to notice that help,
+
+38
+00:01:09,535 --> 00:01:11,249
+and that's why it feels like a
+
+39
+00:01:11,249 --> 00:01:12,048
+turning point.
+
+40
+00:01:12,399 --> 00:01:14,720
+We'll look at this from three angles.
+
+41
+00:01:14,900 --> 00:01:16,352
+First, the numbers.
+
+42
+00:01:16,532 --> 00:01:18,980
+What ten thousand dollars really does,
+
+43
+00:01:18,980 --> 00:01:21,171
+how fast the next milestones come,
+
+44
+00:01:21,171 --> 00:01:23,233
+and what happens when it sits in
+
+45
+00:01:23,233 --> 00:01:24,264
+the wrong place.
+
+46
+00:01:24,444 --> 00:01:26,441
+Second, the psychology.
+
+47
+00:01:26,621 --> 00:01:29,209
+Why the first ten thousand feels impossible,
+
+48
+00:01:29,209 --> 00:01:31,209
+and what changes in your head once
+
+49
+00:01:31,209 --> 00:01:31,915
+you have it.
+
+50
+00:01:32,095 --> 00:01:33,674
+And third, the playbook.
+
+51
+00:01:33,854 --> 00:01:35,654
+A step by step plan to reach
+
+52
+00:01:35,654 --> 00:01:37,198
+your first ten thousand,
+
+53
+00:01:37,198 --> 00:01:38,870
+protect it, and repeat it.
+
+54
+00:01:39,050 --> 00:01:42,242
+Quick reminder, all growth examples here are
+
+55
+00:01:42,242 --> 00:01:44,274
+illustrations, not promises.
+
+56
+00:01:44,623 --> 00:01:46,226
+Let's start with the numbers.
+
+57
+00:01:46,406 --> 00:01:48,164
+And the first lesson is what ten
+
+58
+00:01:48,164 --> 00:01:50,307
+thousand dollars actually does for you.
+
+59
+00:01:50,657 --> 00:01:51,597
+Our numbers.
+
+60
+00:01:51,777 --> 00:01:55,010
+All growth examples use monthly compounding with
+
+61
+00:01:55,010 --> 00:01:57,098
+a stated average yearly return,
+
+62
+00:01:57,098 --> 00:01:58,580
+usually seven percent.
+
+63
+00:01:58,760 --> 00:02:00,381
+These are illustrations,
+
+64
+00:02:00,381 --> 00:02:03,284
+not predictions, because real markets go up
+
+65
+00:02:03,284 --> 00:02:03,892
+and down.
+
+66
+00:02:04,072 --> 00:02:07,126
+Emergency savings data comes from the Federal
+
+67
+00:02:07,126 --> 00:02:11,131
+Reserve's Survey of Household Economics and Decisionmaking.
+
+68
+00:02:11,311 --> 00:02:13,527
+Credit card rates come from the Federal
+
+69
+00:02:13,527 --> 00:02:13,981
+Reserve.
+
+70
+00:02:14,161 --> 00:02:16,321
+Account rules come from the IRS.
+
+71
+00:02:16,501 --> 00:02:17,867
+This is education,
+
+72
+00:02:17,867 --> 00:02:19,461
+not financial advice.
+
+73
+00:02:19,812 --> 00:02:20,589
+Angle one.
+
+74
+00:02:20,769 --> 00:02:21,570
+The numbers.
+
+75
+00:02:21,750 --> 00:02:24,528
+Seven lessons about what ten thousand dollars
+
+76
+00:02:24,528 --> 00:02:25,268
+really does.
+
+77
+00:02:25,619 --> 00:02:26,756
+Lesson number one.
+
+78
+00:02:26,936 --> 00:02:28,426
+At ten thousand dollars,
+
+79
+00:02:28,426 --> 00:02:29,792
+your money gets a job.
+
+80
+00:02:30,142 --> 00:02:32,585
+At a seven percent average yearly return,
+
+81
+00:02:32,585 --> 00:02:35,444
+ten thousand dollars earns roughly seven hundred
+
+82
+00:02:35,444 --> 00:02:36,516
+dollars in a year.
+
+83
+00:02:36,696 --> 00:02:38,511
+That's about fifty eight dollars a month
+
+84
+00:02:38,511 --> 00:02:39,645
+that you didn't work for.
+
+85
+00:02:39,825 --> 00:02:41,787
+It won't change your life by itself.
+
+86
+00:02:41,967 --> 00:02:42,903
+But it's a real,
+
+87
+00:02:42,903 --> 00:02:45,535
+small paycheck coming from your money instead
+
+88
+00:02:45,535 --> 00:02:46,588
+of from your time.
+
+89
+00:02:46,768 --> 00:02:48,019
+And for most people,
+
+90
+00:02:48,019 --> 00:02:50,083
+it's the first time that has ever
+
+91
+00:02:50,083 --> 00:02:50,646
+happened.
+
+92
+00:02:50,996 --> 00:02:53,049
+Compare that to one thousand dollars,
+
+93
+00:02:53,049 --> 00:02:55,381
+which earns roughly seventy dollars a year
+
+94
+00:02:55,381 --> 00:02:56,324
+at the same rate.
+
+95
+00:02:56,504 --> 00:02:58,954
+Seventy dollars is easy to ignore.
+
+96
+00:02:59,134 --> 00:03:00,678
+Seven hundred is not.
+
+97
+00:03:00,858 --> 00:03:02,321
+It's a car payment,
+
+98
+00:03:02,321 --> 00:03:03,476
+a utility bill,
+
+99
+00:03:03,476 --> 00:03:04,632
+a weekend trip.
+
+100
+00:03:04,812 --> 00:03:07,603
+Ten thousand is roughly where investment growth
+
+101
+00:03:07,603 --> 00:03:09,622
+goes from invisible to noticeable,
+
+102
+00:03:09,622 --> 00:03:11,760
+and noticing it changes how you feel
+
+103
+00:03:11,760 --> 00:03:12,532
+about saving.
+
+104
+00:03:12,882 --> 00:03:15,643
+And remember, that seven hundred dollars doesn't
+
+105
+00:03:15,643 --> 00:03:16,621
+have to be spent.
+
+106
+00:03:16,801 --> 00:03:18,252
+If you leave it invested,
+
+107
+00:03:18,252 --> 00:03:20,226
+it earns its own growth next year.
+
+108
+00:03:20,406 --> 00:03:22,577
+Your money's job is to hire more
+
+109
+00:03:22,577 --> 00:03:25,630
+workers, and those workers hire more workers.
+
+110
+00:03:25,810 --> 00:03:28,616
+That's compounding, and ten thousand dollars is
+
+111
+00:03:28,616 --> 00:03:30,884
+when the hiring really starts to show.
+
+112
+00:03:31,234 --> 00:03:32,000
+Try this.
+
+113
+00:03:32,180 --> 00:03:34,656
+Calculate seven percent of whatever you have
+
+114
+00:03:34,656 --> 00:03:35,500
+invested today.
+
+115
+00:03:35,680 --> 00:03:37,613
+That's roughly what your money might earn
+
+116
+00:03:37,613 --> 00:03:38,838
+for you in a typical year.
+
+117
+00:03:39,018 --> 00:03:39,935
+Write it down.
+
+118
+00:03:40,115 --> 00:03:42,213
+Watching that number grow can become one
+
+119
+00:03:42,213 --> 00:03:44,205
+of the most motivating numbers in your
+
+120
+00:03:44,205 --> 00:03:44,992
+financial life.
+
+121
+00:03:45,341 --> 00:03:46,607
+Lesson number two.
+
+122
+00:03:46,787 --> 00:03:49,277
+Each ten thousand comes faster than the
+
+123
+00:03:49,277 --> 00:03:49,597
+last.
+
+124
+00:03:49,946 --> 00:03:52,868
+Let's follow one person investing five hundred
+
+125
+00:03:52,868 --> 00:03:55,028
+dollars a month at a seven percent
+
+126
+00:03:55,028 --> 00:03:56,425
+average yearly return.
+
+127
+00:03:56,605 --> 00:03:59,151
+The first ten thousand takes about nineteen
+
+128
+00:03:59,151 --> 00:03:59,565
+months.
+
+129
+00:03:59,745 --> 00:04:02,439
+The second ten thousand takes about eighteen.
+
+130
+00:04:02,619 --> 00:04:04,488
+The third, about fifteen.
+
+131
+00:04:04,668 --> 00:04:06,318
+By the fifth ten thousand,
+
+132
+00:04:06,318 --> 00:04:08,030
+it's about fourteen months,
+
+133
+00:04:08,030 --> 00:04:09,997
+and the timing keeps shrinking.
+
+134
+00:04:10,347 --> 00:04:12,066
+Here's that journey on one chart.
+
+135
+00:04:12,246 --> 00:04:14,123
+Five hundred dollars a month,
+
+136
+00:04:14,123 --> 00:04:15,223
+for eleven years,
+
+137
+00:04:15,223 --> 00:04:17,877
+at a seven percent average yearly return.
+
+138
+00:04:18,057 --> 00:04:20,201
+Watch how the green line pulls away
+
+139
+00:04:20,201 --> 00:04:21,487
+from the dotted line,
+
+140
+00:04:21,487 --> 00:04:23,264
+which is the money you put in
+
+141
+00:04:23,264 --> 00:04:23,815
+yourself.
+
+142
+00:04:24,165 --> 00:04:26,102
+By the time this person goes from
+
+143
+00:04:26,102 --> 00:04:28,919
+ninety thousand to one hundred thousand dollars,
+
+144
+00:04:28,919 --> 00:04:31,208
+that ten thousand takes only about nine
+
+145
+00:04:31,208 --> 00:04:31,619
+months.
+
+146
+00:04:31,799 --> 00:04:33,773
+Same five hundred dollars a month.
+
+147
+00:04:33,953 --> 00:04:34,777
+Same effort.
+
+148
+00:04:34,957 --> 00:04:36,492
+But the money already in the account
+
+149
+00:04:36,492 --> 00:04:37,728
+is doing more and more of the
+
+150
+00:04:37,728 --> 00:04:38,069
+lifting.
+
+151
+00:04:38,249 --> 00:04:40,608
+The whole journey to one hundred thousand
+
+152
+00:04:40,608 --> 00:04:42,161
+takes roughly eleven years.
+
+153
+00:04:42,511 --> 00:04:44,095
+This is why Charlie Munger,
+
+154
+00:04:44,095 --> 00:04:46,090
+Warren Buffett's longtime partner,
+
+155
+00:04:46,090 --> 00:04:48,789
+reportedly said the first one hundred thousand
+
+156
+00:04:48,789 --> 00:04:50,079
+is a pain in the neck,
+
+157
+00:04:50,079 --> 00:04:51,370
+but you have to do it.
+
+158
+00:04:51,550 --> 00:04:54,388
+The early stretch feels slow because compounding
+
+159
+00:04:54,388 --> 00:04:56,043
+hasn't had time to help yet.
+
+160
+00:04:56,223 --> 00:04:58,241
+The first ten thousand is the first
+
+161
+00:04:58,241 --> 00:04:59,683
+sign that help is coming.
+
+162
+00:05:00,032 --> 00:05:00,845
+Try this.
+
+163
+00:05:01,025 --> 00:05:03,095
+Make a simple milestone chart,
+
+164
+00:05:03,095 --> 00:05:05,164
+ten thousand, twenty thousand,
+
+165
+00:05:05,164 --> 00:05:06,958
+thirty thousand and so on.
+
+166
+00:05:07,138 --> 00:05:08,594
+Put the date you hit each one
+
+167
+00:05:08,594 --> 00:05:09,146
+next to it.
+
+168
+00:05:09,326 --> 00:05:11,844
+Over time, you'll see the gaps between
+
+169
+00:05:11,844 --> 00:05:14,361
+dates shrink, and that visual proof is
+
+170
+00:05:14,361 --> 00:05:14,957
+powerful.
+
+171
+00:05:15,307 --> 00:05:16,538
+Lesson number three.
+
+172
+00:05:16,718 --> 00:05:18,088
+The crossover point.
+
+173
+00:05:18,439 --> 00:05:21,034
+There's a moment in every investing journey
+
+174
+00:05:21,034 --> 00:05:22,363
+that feels like magic.
+
+175
+00:05:22,543 --> 00:05:24,622
+It's the year when your investment growth
+
+176
+00:05:24,622 --> 00:05:26,245
+is bigger than the money you put
+
+177
+00:05:26,245 --> 00:05:26,397
+in.
+
+178
+00:05:26,577 --> 00:05:28,857
+For our five hundred dollars a month
+
+179
+00:05:28,857 --> 00:05:31,642
+investor, that's six thousand dollars a year
+
+180
+00:05:31,642 --> 00:05:32,719
+in contributions.
+
+181
+00:05:32,899 --> 00:05:34,016
+At seven percent,
+
+182
+00:05:34,016 --> 00:05:36,776
+growth reaches six thousand dollars a year
+
+183
+00:05:36,776 --> 00:05:38,748
+when the balance is in the low
+
+184
+00:05:38,748 --> 00:05:39,865
+eighty thousands.
+
+185
+00:05:40,215 --> 00:05:41,341
+In this example,
+
+186
+00:05:41,341 --> 00:05:43,384
+that takes roughly ten years.
+
+187
+00:05:43,564 --> 00:05:44,583
+After the crossover,
+
+188
+00:05:44,583 --> 00:05:46,416
+your money is earning more each year
+
+189
+00:05:46,416 --> 00:05:47,384
+than you're saving.
+
+190
+00:05:47,564 --> 00:05:48,528
+If you kept going,
+
+191
+00:05:48,528 --> 00:05:50,188
+the gap would widen every year.
+
+192
+00:05:50,368 --> 00:05:53,415
+Eventually, contributions become a small part of
+
+193
+00:05:53,415 --> 00:05:55,828
+the story, and growth becomes the main
+
+194
+00:05:55,828 --> 00:05:56,463
+character.
+
+195
+00:05:56,813 --> 00:05:59,727
+Of course, real markets don't deliver seven
+
+196
+00:05:59,727 --> 00:06:01,015
+percent every year.
+
+197
+00:06:01,195 --> 00:06:02,684
+Some years are up a lot,
+
+198
+00:06:02,684 --> 00:06:03,552
+some are down.
+
+199
+00:06:03,732 --> 00:06:05,220
+But over long periods,
+
+200
+00:06:05,220 --> 00:06:06,844
+the pattern is the same.
+
+201
+00:06:07,024 --> 00:06:08,855
+The balance has to grow before the
+
+202
+00:06:08,855 --> 00:06:09,717
+growth can grow.
+
+203
+00:06:09,897 --> 00:06:12,102
+And ten thousand dollars is the first
+
+204
+00:06:12,102 --> 00:06:13,829
+real step on that road to the
+
+205
+00:06:13,829 --> 00:06:14,425
+crossover.
+
+206
+00:06:14,775 --> 00:06:15,622
+Try this.
+
+207
+00:06:15,802 --> 00:06:18,948
+Divide your yearly contributions by seven percent.
+
+208
+00:06:19,128 --> 00:06:21,836
+That's roughly the balance where your crossover
+
+209
+00:06:21,836 --> 00:06:22,240
+begins.
+
+210
+00:06:22,420 --> 00:06:24,718
+If you invest six thousand a year,
+
+211
+00:06:24,718 --> 00:06:26,948
+it's around eighty five thousand.
+
+212
+00:06:27,128 --> 00:06:28,897
+Now you have a clear long term
+
+213
+00:06:28,897 --> 00:06:29,310
+target.
+
+214
+00:06:29,660 --> 00:06:30,926
+Lesson number four.
+
+215
+00:06:31,106 --> 00:06:34,090
+Where your ten thousand sits matters enormously.
+
+216
+00:06:34,439 --> 00:06:37,270
+Imagine you leave ten thousand dollars alone
+
+217
+00:06:37,270 --> 00:06:38,364
+for thirty years.
+
+218
+00:06:38,544 --> 00:06:39,500
+At two percent,
+
+219
+00:06:39,500 --> 00:06:42,368
+roughly what some savings accounts have paid,
+
+220
+00:06:42,368 --> 00:06:44,662
+it grows to about eighteen thousand.
+
+221
+00:06:44,842 --> 00:06:45,817
+At four percent,
+
+222
+00:06:45,817 --> 00:06:47,524
+about thirty three thousand.
+
+223
+00:06:47,704 --> 00:06:48,920
+At seven percent,
+
+224
+00:06:48,920 --> 00:06:50,781
+about eighty one thousand.
+
+225
+00:06:50,961 --> 00:06:52,010
+At ten percent,
+
+226
+00:06:52,010 --> 00:06:53,968
+almost two hundred thousand.
+
+227
+00:06:54,318 --> 00:06:56,152
+Same ten thousand dollars.
+
+228
+00:06:56,332 --> 00:06:57,690
+Same thirty years.
+
+229
+00:06:57,870 --> 00:07:00,041
+The only difference is the average return.
+
+230
+00:07:00,221 --> 00:07:01,854
+That's a gap of more than one
+
+231
+00:07:01,854 --> 00:07:04,612
+hundred sixty thousand dollars between the lowest
+
+232
+00:07:04,612 --> 00:07:05,794
+and highest examples.
+
+233
+00:07:05,974 --> 00:07:08,664
+Of course, higher returns usually come with
+
+234
+00:07:08,664 --> 00:07:09,853
+more ups and downs,
+
+235
+00:07:09,853 --> 00:07:12,293
+so this isn't about chasing the highest
+
+236
+00:07:12,293 --> 00:07:12,731
+number.
+
+237
+00:07:12,911 --> 00:07:14,990
+It's about matching the money to its
+
+238
+00:07:14,990 --> 00:07:15,221
+job.
+
+239
+00:07:15,572 --> 00:07:17,468
+Money you'll need in the next year
+
+240
+00:07:17,468 --> 00:07:19,922
+or two belongs somewhere safe and available,
+
+241
+00:07:19,922 --> 00:07:21,818
+like a high yield savings account.
+
+242
+00:07:21,998 --> 00:07:24,372
+Money you won't touch for decades usually
+
+243
+00:07:24,372 --> 00:07:26,978
+belongs in diversified long term investments.
+
+244
+00:07:27,158 --> 00:07:29,707
+The mistake is leaving decades long money
+
+245
+00:07:29,707 --> 00:07:32,255
+in places designed for short term safety.
+
+246
+00:07:32,606 --> 00:07:33,395
+Try this.
+
+247
+00:07:33,575 --> 00:07:36,071
+Split your savings into two labels.
+
+248
+00:07:36,251 --> 00:07:37,913
+Need it within three years,
+
+249
+00:07:37,913 --> 00:07:39,760
+and won't need it for ten plus
+
+250
+00:07:39,760 --> 00:07:40,129
+years.
+
+251
+00:07:40,309 --> 00:07:42,346
+Then check whether each pile is sitting
+
+252
+00:07:42,346 --> 00:07:43,862
+in the right kind of account.
+
+253
+00:07:44,212 --> 00:07:45,558
+Lesson number five.
+
+254
+00:07:45,738 --> 00:07:48,200
+Idle cash slowly loses value.
+
+255
+00:07:48,550 --> 00:07:51,181
+If inflation averages three percent a year,
+
+256
+00:07:51,181 --> 00:07:53,445
+ten thousand dollars kept in cash for
+
+257
+00:07:53,445 --> 00:07:55,709
+twenty years will buy only what about
+
+258
+00:07:55,709 --> 00:07:58,035
+fifty five hundred dollars buys today.
+
+259
+00:07:58,215 --> 00:08:00,543
+The number on the screen still says
+
+260
+00:08:00,543 --> 00:08:01,408
+ten thousand.
+
+261
+00:08:01,588 --> 00:08:03,285
+But what it can buy has nearly
+
+262
+00:08:03,285 --> 00:08:04,246
+been cut in half.
+
+263
+00:08:04,597 --> 00:08:06,731
+This is the hidden cost of playing
+
+264
+00:08:06,731 --> 00:08:08,300
+it too safe for too long.
+
+265
+00:08:08,480 --> 00:08:11,109
+Cash feels safe because the number never
+
+266
+00:08:11,109 --> 00:08:11,766
+goes down.
+
+267
+00:08:11,946 --> 00:08:13,931
+But inflation is a slow leak.
+
+268
+00:08:14,111 --> 00:08:16,276
+You don't notice it month to month,
+
+269
+00:08:16,276 --> 00:08:18,440
+only when you look back years later
+
+270
+00:08:18,440 --> 00:08:20,543
+and realize everything costs more.
+
+271
+00:08:20,893 --> 00:08:22,692
+That doesn't mean cash is bad.
+
+272
+00:08:22,872 --> 00:08:25,195
+You need cash for emergencies and near
+
+273
+00:08:25,195 --> 00:08:25,867
+term goals.
+
+274
+00:08:26,047 --> 00:08:28,307
+It just means long term money needs
+
+275
+00:08:28,307 --> 00:08:30,697
+to grow faster than inflation to keep
+
+276
+00:08:30,697 --> 00:08:31,794
+its buying power.
+
+277
+00:08:31,974 --> 00:08:35,518
+Otherwise, you're getting poorer slowly while feeling
+
+278
+00:08:35,518 --> 00:08:35,852
+safe.
+
+279
+00:08:36,203 --> 00:08:37,027
+Try this.
+
+280
+00:08:37,207 --> 00:08:38,927
+Look up the current yield on your
+
+281
+00:08:38,927 --> 00:08:39,761
+savings account.
+
+282
+00:08:39,941 --> 00:08:42,372
+If it's well below the recent inflation
+
+283
+00:08:42,372 --> 00:08:44,928
+rate, consider whether some of that money
+
+284
+00:08:44,928 --> 00:08:46,361
+belongs somewhere else.
+
+285
+00:08:46,712 --> 00:08:48,047
+Lesson number six.
+
+286
+00:08:48,227 --> 00:08:50,804
+Ten thousand dollars is a powerful shield.
+
+287
+00:08:51,154 --> 00:08:54,573
+The Federal Reserve's Survey of Household Economics
+
+288
+00:08:54,573 --> 00:08:58,193
+and Decisionmaking regularly asks Americans how they'd
+
+289
+00:08:58,193 --> 00:09:01,277
+cover a four hundred dollar emergency expense.
+
+290
+00:09:01,457 --> 00:09:02,516
+In recent years,
+
+291
+00:09:02,516 --> 00:09:04,766
+only around six in ten adults said
+
+292
+00:09:04,766 --> 00:09:06,883
+they'd cover it with cash or its
+
+293
+00:09:06,883 --> 00:09:07,611
+equivalent.
+
+294
+00:09:07,791 --> 00:09:09,600
+Many others said they'd borrow,
+
+295
+00:09:09,600 --> 00:09:11,818
+sell something or couldn't cover it at
+
+296
+00:09:11,818 --> 00:09:12,052
+all.
+
+297
+00:09:12,401 --> 00:09:15,356
+Now imagine having ten thousand dollars set
+
+298
+00:09:15,356 --> 00:09:15,768
+aside.
+
+299
+00:09:15,948 --> 00:09:17,057
+A car repair,
+
+300
+00:09:17,057 --> 00:09:18,337
+a medical bill,
+
+301
+00:09:18,337 --> 00:09:19,873
+a sudden job loss.
+
+302
+00:09:20,053 --> 00:09:22,357
+Instead of reaching for a credit card
+
+303
+00:09:22,357 --> 00:09:24,039
+at twenty percent interest,
+
+304
+00:09:24,039 --> 00:09:25,347
+you handle it calmly.
+
+305
+00:09:25,527 --> 00:09:29,695
+Ten thousand dollars turns emergencies into inconveniences.
+
+306
+00:09:30,044 --> 00:09:32,053
+It also protects your investments.
+
+307
+00:09:32,233 --> 00:09:34,770
+People without cash reserves often have to
+
+308
+00:09:34,770 --> 00:09:36,884
+sell investments at the worst time,
+
+309
+00:09:36,884 --> 00:09:38,515
+like during a market crash,
+
+310
+00:09:38,515 --> 00:09:39,965
+to pay unexpected bills.
+
+311
+00:09:40,145 --> 00:09:42,477
+A cash cushion lets your long term
+
+312
+00:09:42,477 --> 00:09:45,288
+money stay invested and keep compounding.
+
+313
+00:09:45,639 --> 00:09:46,591
+Try this.
+
+314
+00:09:46,771 --> 00:09:50,228
+Figure out your essential monthly expenses,
+
+315
+00:09:50,228 --> 00:09:52,238
+housing, food, utilities,
+
+316
+00:09:52,238 --> 00:09:54,329
+insurance, transportation.
+
+317
+00:09:54,509 --> 00:09:55,948
+Multiply by three.
+
+318
+00:09:56,128 --> 00:09:58,868
+That's a solid starting emergency fund target.
+
+319
+00:09:59,219 --> 00:10:00,565
+Lesson number seven.
+
+320
+00:10:00,745 --> 00:10:02,614
+The rule works in reverse too.
+
+321
+00:10:02,964 --> 00:10:05,833
+Ten thousand dollars invested at seven percent
+
+322
+00:10:05,833 --> 00:10:08,202
+can earn about seven hundred dollars a
+
+323
+00:10:08,202 --> 00:10:08,514
+year.
+
+324
+00:10:08,694 --> 00:10:11,082
+But ten thousand dollars of credit card
+
+325
+00:10:11,082 --> 00:10:13,226
+debt at twenty two percent can cost
+
+326
+00:10:13,226 --> 00:10:15,675
+about two thousand two hundred dollars a
+
+327
+00:10:15,675 --> 00:10:16,717
+year in interest.
+
+328
+00:10:16,897 --> 00:10:19,311
+Same number, very different direction.
+
+329
+00:10:19,661 --> 00:10:22,004
+Credit card rates in the United States
+
+330
+00:10:22,004 --> 00:10:24,532
+have been above twenty percent on average
+
+331
+00:10:24,532 --> 00:10:25,518
+in recent years,
+
+332
+00:10:25,518 --> 00:10:27,614
+according to Federal Reserve data.
+
+333
+00:10:27,794 --> 00:10:28,654
+At that rate,
+
+334
+00:10:28,654 --> 00:10:31,099
+a balance grows much faster than most
+
+335
+00:10:31,099 --> 00:10:31,893
+investments.
+
+336
+00:10:32,073 --> 00:10:33,941
+And if you only pay the minimum,
+
+337
+00:10:33,941 --> 00:10:35,925
+the balance can take many years to
+
+338
+00:10:35,925 --> 00:10:36,275
+clear.
+
+339
+00:10:36,625 --> 00:10:37,968
+So for many people,
+
+340
+00:10:37,968 --> 00:10:40,795
+the real ten thousand dollar rule starts
+
+341
+00:10:40,795 --> 00:10:41,502
+with debt.
+
+342
+00:10:41,682 --> 00:10:44,081
+Getting from minus ten thousand to zero
+
+343
+00:10:44,081 --> 00:10:46,234
+is just as powerful as getting from
+
+344
+00:10:46,234 --> 00:10:47,526
+zero to ten thousand,
+
+345
+00:10:47,526 --> 00:10:48,880
+and often more urgent.
+
+346
+00:10:49,060 --> 00:10:51,297
+Every dollar of high interest debt you
+
+347
+00:10:51,297 --> 00:10:53,415
+pay off is a guaranteed return equal
+
+348
+00:10:53,415 --> 00:10:54,122
+to its rate.
+
+349
+00:10:54,471 --> 00:10:55,284
+Try this.
+
+350
+00:10:55,464 --> 00:10:57,916
+Add up every high interest balance you
+
+351
+00:10:57,916 --> 00:10:58,239
+have.
+
+352
+00:10:58,419 --> 00:10:59,329
+If it's large,
+
+353
+00:10:59,329 --> 00:11:02,320
+your first milestone isn't ten thousand saved.
+
+354
+00:11:02,500 --> 00:11:03,614
+It's zero owed.
+
+355
+00:11:03,964 --> 00:11:04,963
+That's angle one.
+
+356
+00:11:05,143 --> 00:11:06,821
+Your money gets a job,
+
+357
+00:11:06,821 --> 00:11:08,346
+milestones speed up,
+
+358
+00:11:08,346 --> 00:11:09,871
+the crossover point,
+
+359
+00:11:09,871 --> 00:11:11,167
+where money sits,
+
+360
+00:11:11,167 --> 00:11:13,607
+inflation, the emergency shield,
+
+361
+00:11:13,607 --> 00:11:15,209
+and the reverse rule.
+
+362
+00:11:15,389 --> 00:11:16,631
+Now angle two.
+
+363
+00:11:16,811 --> 00:11:17,879
+The psychology.
+
+364
+00:11:18,229 --> 00:11:20,810
+Getting to ten thousand dollars isn't mainly
+
+365
+00:11:20,810 --> 00:11:21,689
+a math problem.
+
+366
+00:11:21,869 --> 00:11:23,251
+It's a behavior problem.
+
+367
+00:11:23,431 --> 00:11:25,456
+Plenty of people earn enough to save
+
+368
+00:11:25,456 --> 00:11:26,357
+it but never do.
+
+369
+00:11:26,537 --> 00:11:28,467
+And plenty of people who save it
+
+370
+00:11:28,467 --> 00:11:29,613
+end up spending it.
+
+371
+00:11:29,793 --> 00:11:30,628
+In this angle,
+
+372
+00:11:30,628 --> 00:11:32,894
+we'll look at seven mental forces that
+
+373
+00:11:32,894 --> 00:11:35,219
+decide whether you reach your first ten
+
+374
+00:11:35,219 --> 00:11:37,247
+thousand, and whether you keep it.
+
+375
+00:11:37,596 --> 00:11:38,827
+Lesson number eight.
+
+376
+00:11:39,007 --> 00:11:41,178
+Early progress feels invisible.
+
+377
+00:11:41,528 --> 00:11:44,231
+When you're saving your first ten thousand,
+
+378
+00:11:44,231 --> 00:11:45,174
+growth is tiny.
+
+379
+00:11:45,354 --> 00:11:46,273
+In the first year,
+
+380
+00:11:46,273 --> 00:11:48,264
+you might earn a couple hundred dollars
+
+381
+00:11:48,264 --> 00:11:48,825
+in returns.
+
+382
+00:11:49,005 --> 00:11:51,319
+Almost everything in the account is money
+
+383
+00:11:51,319 --> 00:11:52,616
+you put there yourself.
+
+384
+00:11:52,796 --> 00:11:54,571
+It can feel like you're just moving
+
+385
+00:11:54,571 --> 00:11:56,244
+money from one pocket to another.
+
+386
+00:11:56,594 --> 00:11:58,382
+That's why so many people give up
+
+387
+00:11:58,382 --> 00:11:58,707
+early.
+
+388
+00:11:58,887 --> 00:12:00,538
+They don't see results quickly,
+
+389
+00:12:00,538 --> 00:12:02,243
+so they assume it isn't working.
+
+390
+00:12:02,423 --> 00:12:04,872
+But slow early progress isn't failure.
+
+391
+00:12:05,052 --> 00:12:07,258
+It's simply how compounding works.
+
+392
+00:12:07,438 --> 00:12:09,710
+Results stay quiet for a while,
+
+393
+00:12:09,710 --> 00:12:10,736
+then get loud.
+
+394
+00:12:11,085 --> 00:12:12,749
+The trick is to measure what you
+
+395
+00:12:12,749 --> 00:12:13,373
+can control.
+
+396
+00:12:13,553 --> 00:12:14,783
+Your savings rate.
+
+397
+00:12:14,963 --> 00:12:16,217
+Your consistency.
+
+398
+00:12:16,397 --> 00:12:18,121
+The number of months in a row
+
+399
+00:12:18,121 --> 00:12:18,893
+you invested.
+
+400
+00:12:19,073 --> 00:12:20,903
+Those numbers move right away,
+
+401
+00:12:20,903 --> 00:12:22,916
+even when the balance seems slow.
+
+402
+00:12:23,266 --> 00:12:24,033
+Try this.
+
+403
+00:12:24,213 --> 00:12:25,982
+Track your months in a row of
+
+404
+00:12:25,982 --> 00:12:27,324
+saving, like a streak.
+
+405
+00:12:27,504 --> 00:12:29,898
+Many people find that not wanting to
+
+406
+00:12:29,898 --> 00:12:32,425
+break a streak is a stronger motivator
+
+407
+00:12:32,425 --> 00:12:34,354
+than watching a slow balance.
+
+408
+00:12:34,704 --> 00:12:36,016
+Lesson number nine.
+
+409
+00:12:36,196 --> 00:12:38,321
+We speed up as goals get close.
+
+410
+00:12:38,670 --> 00:12:41,619
+Psychologists call it the goal gradient effect.
+
+411
+00:12:41,799 --> 00:12:43,357
+In a well known study,
+
+412
+00:12:43,357 --> 00:12:44,985
+researchers Ran Kivetz,
+
+413
+00:12:44,985 --> 00:12:47,958
+Oleg Urminsky and Yuhuang Zheng found that
+
+414
+00:12:47,958 --> 00:12:51,214
+coffee shop customers with reward cards bought
+
+415
+00:12:51,214 --> 00:12:53,763
+coffee more often as they got closer
+
+416
+00:12:53,763 --> 00:12:54,895
+to a free drink.
+
+417
+00:12:55,075 --> 00:12:56,768
+The closer the finish line,
+
+418
+00:12:56,768 --> 00:12:58,210
+the harder people push.
+
+419
+00:12:58,560 --> 00:13:00,801
+The same study found something clever.
+
+420
+00:13:00,981 --> 00:13:03,820
+Cards that started with two stamps already
+
+421
+00:13:03,820 --> 00:13:06,592
+filled in got completed faster than cards
+
+422
+00:13:06,592 --> 00:13:08,958
+with fewer total stamps but no head
+
+423
+00:13:08,958 --> 00:13:09,364
+start.
+
+424
+00:13:09,544 --> 00:13:12,114
+Feeling like you've already made progress makes
+
+425
+00:13:12,114 --> 00:13:13,700
+you more motivated to finish.
+
+426
+00:13:14,049 --> 00:13:16,718
+That's why ten thousand dollars works so
+
+427
+00:13:16,718 --> 00:13:17,718
+well as a goal.
+
+428
+00:13:17,898 --> 00:13:19,862
+It's big enough to matter but close
+
+429
+00:13:19,862 --> 00:13:21,265
+enough to feel reachable.
+
+430
+00:13:21,445 --> 00:13:24,255
+One million dollars feels like a fantasy.
+
+431
+00:13:24,435 --> 00:13:26,617
+Ten thousand feels like a project.
+
+432
+00:13:26,967 --> 00:13:27,780
+Try this.
+
+433
+00:13:27,960 --> 00:13:30,199
+Break your ten thousand into ten blocks
+
+434
+00:13:30,199 --> 00:13:31,118
+of one thousand.
+
+435
+00:13:31,298 --> 00:13:32,920
+Color in a block each time you
+
+436
+00:13:32,920 --> 00:13:33,353
+hit one.
+
+437
+00:13:33,533 --> 00:13:35,214
+You'll start at block one,
+
+438
+00:13:35,214 --> 00:13:37,219
+not zero, the moment you have a
+
+439
+00:13:37,219 --> 00:13:38,189
+thousand saved.
+
+440
+00:13:38,539 --> 00:13:39,746
+Lesson number ten.
+
+441
+00:13:39,926 --> 00:13:42,794
+Reaching ten thousand creates a temptation.
+
+442
+00:13:43,143 --> 00:13:44,525
+Here's a strange thing.
+
+443
+00:13:44,705 --> 00:13:46,837
+Many people work hard to save ten
+
+444
+00:13:46,837 --> 00:13:48,582
+thousand dollars, and then,
+
+445
+00:13:48,582 --> 00:13:50,649
+almost as soon as they reach it,
+
+446
+00:13:50,649 --> 00:13:52,135
+they spend a big chunk.
+
+447
+00:13:52,315 --> 00:13:53,258
+A newer car,
+
+448
+00:13:53,258 --> 00:13:55,299
+a vacation, a big upgrade.
+
+449
+00:13:55,479 --> 00:13:57,115
+Having the money makes it feel like
+
+450
+00:13:57,115 --> 00:13:59,171
+they can afford things they couldn't before.
+
+451
+00:13:59,521 --> 00:14:02,517
+Researchers sometimes call this a wealth effect.
+
+452
+00:14:02,697 --> 00:14:04,195
+When people feel richer,
+
+453
+00:14:04,195 --> 00:14:05,692
+they tend to spend more.
+
+454
+00:14:05,872 --> 00:14:07,338
+And ten thousand dollars,
+
+455
+00:14:07,338 --> 00:14:08,981
+sitting in a single account,
+
+456
+00:14:08,981 --> 00:14:10,681
+can feel like a lot of money,
+
+457
+00:14:10,681 --> 00:14:12,910
+even though it's really just the start
+
+458
+00:14:12,910 --> 00:14:13,848
+of a foundation.
+
+459
+00:14:14,199 --> 00:14:16,295
+The fix is to decide in advance
+
+460
+00:14:16,295 --> 00:14:18,256
+what the ten thousand is for,
+
+461
+00:14:18,256 --> 00:14:19,609
+before you reach it.
+
+462
+00:14:19,789 --> 00:14:21,604
+If it's your emergency fund,
+
+463
+00:14:21,604 --> 00:14:22,900
+it's not a car fund.
+
+464
+00:14:23,080 --> 00:14:24,804
+If it's your investing base,
+
+465
+00:14:24,804 --> 00:14:26,343
+it's not a vacation fund.
+
+466
+00:14:26,523 --> 00:14:29,024
+Rules made in advance are much easier
+
+467
+00:14:29,024 --> 00:14:29,564
+to keep.
+
+468
+00:14:29,915 --> 00:14:30,774
+Try this.
+
+469
+00:14:30,954 --> 00:14:32,684
+Give your ten thousand a name.
+
+470
+00:14:32,864 --> 00:14:35,440
+Freedom fund, foundation fund,
+
+471
+00:14:35,440 --> 00:14:37,415
+never broke again fund.
+
+472
+00:14:37,595 --> 00:14:40,152
+It's surprisingly harder to spend money you've
+
+473
+00:14:40,152 --> 00:14:40,486
+named.
+
+474
+00:14:40,836 --> 00:14:41,857
+Quick pause.
+
+475
+00:14:42,037 --> 00:14:44,087
+If this is changing how you think
+
+476
+00:14:44,087 --> 00:14:45,950
+about your first ten thousand,
+
+477
+00:14:45,950 --> 00:14:48,249
+please subscribe to Ryan Rover Money.
+
+478
+00:14:48,429 --> 00:14:50,220
+It's free, and it helps us keep
+
+479
+00:14:50,220 --> 00:14:50,971
+making these.
+
+480
+00:14:51,151 --> 00:14:52,835
+Now, lesson eleven.
+
+481
+00:14:53,184 --> 00:14:54,624
+Lesson number eleven.
+
+482
+00:14:54,804 --> 00:14:56,882
+Use mental accounting on purpose.
+
+483
+00:14:57,232 --> 00:15:00,818
+Nobel prize winning economist Richard Thaler described
+
+484
+00:15:00,818 --> 00:15:03,142
+something called mental accounting.
+
+485
+00:15:03,322 --> 00:15:06,146
+People treat money differently depending on where
+
+486
+00:15:06,146 --> 00:15:07,817
+it came from or what label it
+
+487
+00:15:07,817 --> 00:15:08,047
+has.
+
+488
+00:15:08,227 --> 00:15:10,712
+A tax refund feels like bonus money.
+
+489
+00:15:10,892 --> 00:15:13,423
+A salary feels like serious money.
+
+490
+00:15:13,603 --> 00:15:15,571
+Logically, a dollar is a dollar,
+
+491
+00:15:15,571 --> 00:15:17,724
+but our brains don't work that way.
+
+492
+00:15:18,074 --> 00:15:20,544
+Usually mental accounting causes mistakes,
+
+493
+00:15:20,544 --> 00:15:22,720
+like blowing a refund on things you'd
+
+494
+00:15:22,720 --> 00:15:24,425
+never buy with your paycheck.
+
+495
+00:15:24,605 --> 00:15:26,189
+But you can flip it into an
+
+496
+00:15:26,189 --> 00:15:26,776
+advantage.
+
+497
+00:15:26,956 --> 00:15:29,739
+Separate accounts with clear labels make money
+
+498
+00:15:29,739 --> 00:15:31,856
+harder to spend and easier to grow.
+
+499
+00:15:32,205 --> 00:15:35,071
+Many banks let you open several savings
+
+500
+00:15:35,071 --> 00:15:36,541
+accounts or buckets,
+
+501
+00:15:36,541 --> 00:15:38,231
+each with its own name.
+
+502
+00:15:38,411 --> 00:15:39,972
+One for emergencies,
+
+503
+00:15:39,972 --> 00:15:41,768
+one for a down payment,
+
+504
+00:15:41,768 --> 00:15:42,939
+one for travel.
+
+505
+00:15:43,119 --> 00:15:44,931
+When each dollar has a job,
+
+506
+00:15:44,931 --> 00:15:47,279
+you're much less likely to raid the
+
+507
+00:15:47,279 --> 00:15:48,285
+important ones.
+
+508
+00:15:48,636 --> 00:15:49,611
+Try this.
+
+509
+00:15:49,791 --> 00:15:51,992
+Open a separate savings account for your
+
+510
+00:15:51,992 --> 00:15:53,367
+ten thousand dollar goal,
+
+511
+00:15:53,367 --> 00:15:55,403
+ideally at a different bank from your
+
+512
+00:15:55,403 --> 00:15:56,339
+checking account.
+
+513
+00:15:56,519 --> 00:15:58,347
+Out of sight really does help keep
+
+514
+00:15:58,347 --> 00:15:59,154
+it out of mind.
+
+515
+00:15:59,504 --> 00:16:00,735
+Lesson number twelve.
+
+516
+00:16:00,915 --> 00:16:03,330
+Losses hurt more than gains feel good.
+
+517
+00:16:03,680 --> 00:16:07,551
+Psychologists Daniel Kahneman and Amos Tversky showed
+
+518
+00:16:07,551 --> 00:16:10,326
+that losses tend to feel roughly twice
+
+519
+00:16:10,326 --> 00:16:12,956
+as painful as equal gains feel good.
+
+520
+00:16:13,136 --> 00:16:15,814
+Losing one thousand dollars hurts much more
+
+521
+00:16:15,814 --> 00:16:18,616
+than gaining one thousand dollars feels nice.
+
+522
+00:16:18,965 --> 00:16:21,134
+This matters when you first invest your
+
+523
+00:16:21,134 --> 00:16:21,856
+ten thousand.
+
+524
+00:16:22,036 --> 00:16:23,553
+Markets fall sometimes,
+
+525
+00:16:23,553 --> 00:16:25,993
+and a ten percent drop means watching
+
+526
+00:16:25,993 --> 00:16:28,631
+one thousand dollars disappear on paper.
+
+527
+00:16:28,811 --> 00:16:29,982
+For a new investor,
+
+528
+00:16:29,982 --> 00:16:31,399
+that can feel terrible,
+
+529
+00:16:31,399 --> 00:16:33,372
+and some people sell in a panic,
+
+530
+00:16:33,372 --> 00:16:34,604
+locking in the loss.
+
+531
+00:16:34,954 --> 00:16:36,789
+Expect it before it happens.
+
+532
+00:16:36,969 --> 00:16:39,231
+Market drops are a normal part of
+
+533
+00:16:39,231 --> 00:16:40,603
+long term investing.
+
+534
+00:16:40,783 --> 00:16:44,290
+Historically, broad markets have recovered from past
+
+535
+00:16:44,290 --> 00:16:45,572
+declines over time,
+
+536
+00:16:45,572 --> 00:16:48,539
+though there's no guarantee and recovery can
+
+537
+00:16:48,539 --> 00:16:49,281
+take years.
+
+538
+00:16:49,461 --> 00:16:51,783
+Knowing that in advance makes panic less
+
+539
+00:16:51,783 --> 00:16:52,190
+likely.
+
+540
+00:16:52,539 --> 00:16:53,364
+Try this.
+
+541
+00:16:53,544 --> 00:16:55,443
+Write a note to your future self
+
+542
+00:16:55,443 --> 00:16:55,680
+now.
+
+543
+00:16:55,860 --> 00:16:57,616
+When my investments drop,
+
+544
+00:16:57,616 --> 00:16:58,739
+I will not sell.
+
+545
+00:16:58,919 --> 00:17:00,777
+I invested for the long term.
+
+546
+00:17:00,957 --> 00:17:02,736
+Read it the next time the market
+
+547
+00:17:02,736 --> 00:17:03,070
+falls.
+
+548
+00:17:03,419 --> 00:17:04,929
+Lesson number thirteen.
+
+549
+00:17:05,109 --> 00:17:07,048
+Ten thousand changes who you are.
+
+550
+00:17:07,397 --> 00:17:09,844
+Something deeper happens when you reach ten
+
+551
+00:17:09,844 --> 00:17:10,811
+thousand dollars.
+
+552
+00:17:10,991 --> 00:17:13,388
+You stop seeing yourself as someone who's
+
+553
+00:17:13,388 --> 00:17:14,265
+bad with money.
+
+554
+00:17:14,445 --> 00:17:16,488
+You become someone who saves.
+
+555
+00:17:16,668 --> 00:17:18,340
+Someone who invests.
+
+556
+00:17:18,520 --> 00:17:20,813
+That change in identity often matters more
+
+557
+00:17:20,813 --> 00:17:21,631
+than the money.
+
+558
+00:17:21,981 --> 00:17:24,913
+Habit writer James Clear argues that lasting
+
+559
+00:17:24,913 --> 00:17:27,112
+change often comes from identity,
+
+560
+00:17:27,112 --> 00:17:28,112
+not just goals.
+
+561
+00:17:28,292 --> 00:17:30,140
+Instead of I want to save money,
+
+562
+00:17:30,140 --> 00:17:32,162
+the thought becomes I'm the kind of
+
+563
+00:17:32,162 --> 00:17:33,144
+person who saves.
+
+564
+00:17:33,324 --> 00:17:35,345
+Every deposit is a small vote for
+
+565
+00:17:35,345 --> 00:17:36,448
+that new identity.
+
+566
+00:17:36,797 --> 00:17:38,968
+And once you believe you're a saver,
+
+567
+00:17:38,968 --> 00:17:40,234
+decisions get easier.
+
+568
+00:17:40,414 --> 00:17:42,593
+You don't agonize over every purchase,
+
+569
+00:17:42,593 --> 00:17:44,829
+because the choice already fits who you
+
+570
+00:17:44,829 --> 00:17:45,058
+are.
+
+571
+00:17:45,238 --> 00:17:47,293
+That's why the first ten thousand is
+
+572
+00:17:47,293 --> 00:17:47,978
+so powerful.
+
+573
+00:17:48,158 --> 00:17:48,971
+It's proof.
+
+574
+00:17:49,320 --> 00:17:50,156
+Try this.
+
+575
+00:17:50,336 --> 00:17:52,429
+Finish this sentence and say it out
+
+576
+00:17:52,429 --> 00:17:52,728
+loud.
+
+577
+00:17:52,908 --> 00:17:54,046
+I am someone who...
+
+578
+00:17:54,226 --> 00:17:55,886
+Make it about the money habits you
+
+579
+00:17:55,886 --> 00:17:56,130
+want.
+
+580
+00:17:56,310 --> 00:17:58,028
+Then act like that person this week.
+
+581
+00:17:58,378 --> 00:17:59,806
+Lesson number fourteen.
+
+582
+00:17:59,986 --> 00:18:02,319
+Don't compare your chapter one to someone's
+
+583
+00:18:02,319 --> 00:18:03,133
+chapter twenty.
+
+584
+00:18:03,482 --> 00:18:05,906
+Social media makes it look like everyone
+
+585
+00:18:05,906 --> 00:18:07,360
+has more money than you.
+
+586
+00:18:07,540 --> 00:18:09,668
+New cars, big houses,
+
+587
+00:18:09,668 --> 00:18:10,884
+fancy trips.
+
+588
+00:18:11,064 --> 00:18:13,347
+Ten thousand dollars can feel small next
+
+589
+00:18:13,347 --> 00:18:13,804
+to that.
+
+590
+00:18:13,984 --> 00:18:16,203
+But what you see online is spending,
+
+591
+00:18:16,203 --> 00:18:18,669
+not saving, and spending is often funded
+
+592
+00:18:18,669 --> 00:18:19,162
+by debt.
+
+593
+00:18:19,511 --> 00:18:21,655
+Thomas Stanley and William Danko,
+
+594
+00:18:21,655 --> 00:18:23,538
+in The Millionaire Next Door,
+
+595
+00:18:23,538 --> 00:18:26,591
+found that many millionaires they studied lived
+
+596
+00:18:26,591 --> 00:18:28,085
+well below their means,
+
+597
+00:18:28,085 --> 00:18:30,553
+and that many high earners with flashy
+
+598
+00:18:30,553 --> 00:18:33,281
+lifestyles had surprisingly little wealth.
+
+599
+00:18:33,461 --> 00:18:35,664
+Looking rich and being rich are often
+
+600
+00:18:35,664 --> 00:18:36,677
+different things.
+
+601
+00:18:37,026 --> 00:18:39,812
+The person with ten thousand dollars invested
+
+602
+00:18:39,812 --> 00:18:41,235
+and no debt may be in a
+
+603
+00:18:41,235 --> 00:18:43,773
+much better position than a neighbor with
+
+604
+00:18:43,773 --> 00:18:45,444
+a new truck and a big loan.
+
+605
+00:18:45,624 --> 00:18:47,920
+Your progress only needs to beat your
+
+606
+00:18:47,920 --> 00:18:50,651
+own past, not someone else's highlight reel.
+
+607
+00:18:51,000 --> 00:18:51,860
+Try this.
+
+608
+00:18:52,040 --> 00:18:54,043
+Compare your net worth today with your
+
+609
+00:18:54,043 --> 00:18:55,256
+net worth one year ago.
+
+610
+00:18:55,436 --> 00:18:58,106
+That's the only comparison that really matters.
+
+611
+00:18:58,455 --> 00:18:59,442
+That's angle two.
+
+612
+00:18:59,622 --> 00:19:02,249
+Invisible progress, the goal gradient,
+
+613
+00:19:02,249 --> 00:19:03,494
+the spending trap,
+
+614
+00:19:03,494 --> 00:19:05,775
+mental accounting, loss aversion,
+
+615
+00:19:05,775 --> 00:19:08,748
+the identity shift and the comparison trap.
+
+616
+00:19:08,928 --> 00:19:10,066
+Now angle three.
+
+617
+00:19:10,246 --> 00:19:10,989
+The playbook.
+
+618
+00:19:11,338 --> 00:19:13,546
+Here's a practical plan to reach your
+
+619
+00:19:13,546 --> 00:19:15,156
+first ten thousand dollars,
+
+620
+00:19:15,156 --> 00:19:16,528
+keep it, and repeat it.
+
+621
+00:19:16,708 --> 00:19:18,078
+Six moves.
+
+622
+00:19:18,258 --> 00:19:20,236
+You can start most of them this
+
+623
+00:19:20,236 --> 00:19:22,277
+week, and none of them require a
+
+624
+00:19:22,277 --> 00:19:24,383
+high income, just a plan and some
+
+625
+00:19:24,383 --> 00:19:24,957
+patience.
+
+626
+00:19:25,307 --> 00:19:26,898
+Move number fifteen.
+
+627
+00:19:27,078 --> 00:19:28,889
+Pick a monthly number and a date.
+
+628
+00:19:29,239 --> 00:19:31,817
+A goal without a deadline is a
+
+629
+00:19:31,817 --> 00:19:32,246
+wish.
+
+630
+00:19:32,426 --> 00:19:34,995
+So pick your monthly amount and calculate
+
+631
+00:19:34,995 --> 00:19:36,060
+your finish date.
+
+632
+00:19:36,240 --> 00:19:38,790
+At a seven percent average yearly return,
+
+633
+00:19:38,790 --> 00:19:41,339
+three hundred dollars a month reaches ten
+
+634
+00:19:41,339 --> 00:19:43,578
+thousand in about thirty one months.
+
+635
+00:19:43,758 --> 00:19:45,613
+Five hundred dollars a month,
+
+636
+00:19:45,613 --> 00:19:47,020
+about nineteen months.
+
+637
+00:19:47,200 --> 00:19:48,506
+Eight hundred dollars,
+
+638
+00:19:48,506 --> 00:19:49,813
+about thirteen months.
+
+639
+00:19:50,162 --> 00:19:52,355
+If those numbers feel too high,
+
+640
+00:19:52,355 --> 00:19:53,982
+start smaller and grow.
+
+641
+00:19:54,162 --> 00:19:56,151
+Even one hundred dollars a month is
+
+642
+00:19:56,151 --> 00:19:56,832
+a beginning.
+
+643
+00:19:57,012 --> 00:19:59,290
+The important thing is that the money
+
+644
+00:19:59,290 --> 00:20:01,321
+moves automatically, every month,
+
+645
+00:20:01,321 --> 00:20:03,353
+before you have a chance to spend
+
+646
+00:20:03,353 --> 00:20:03,537
+it.
+
+647
+00:20:03,887 --> 00:20:07,447
+Many people find money by reviewing subscriptions,
+
+648
+00:20:07,447 --> 00:20:10,366
+insurance, phone plans and food spending.
+
+649
+00:20:10,546 --> 00:20:12,678
+Cutting a few hundred dollars a month
+
+650
+00:20:12,678 --> 00:20:14,925
+from expenses you barely notice can cut
+
+651
+00:20:14,925 --> 00:20:16,827
+a year or more off your timeline.
+
+652
+00:20:17,176 --> 00:20:18,047
+Try this.
+
+653
+00:20:18,227 --> 00:20:20,389
+Write your ten thousand dollar date on
+
+654
+00:20:20,389 --> 00:20:22,323
+a sticky note and put it somewhere
+
+655
+00:20:22,323 --> 00:20:23,290
+you'll see daily,
+
+656
+00:20:23,290 --> 00:20:25,623
+like your bathroom mirror or your laptop.
+
+657
+00:20:25,972 --> 00:20:27,551
+Move number sixteen.
+
+658
+00:20:27,731 --> 00:20:29,008
+Capture windfalls.
+
+659
+00:20:29,358 --> 00:20:30,983
+Tax refunds, bonuses,
+
+660
+00:20:30,983 --> 00:20:32,452
+raises, cash gifts,
+
+661
+00:20:32,452 --> 00:20:35,547
+money from selling things you don't use.
+
+662
+00:20:35,727 --> 00:20:38,100
+These windfalls can shortcut your path to
+
+663
+00:20:38,100 --> 00:20:40,069
+ten thousand dollars dramatically.
+
+664
+00:20:40,249 --> 00:20:42,403
+A single tax refund can be worth
+
+665
+00:20:42,403 --> 00:20:44,626
+several months of regular saving.
+
+666
+00:20:44,975 --> 00:20:47,137
+A simple rule many people use is
+
+667
+00:20:47,137 --> 00:20:49,029
+to save at least half of any
+
+668
+00:20:49,029 --> 00:20:51,326
+windfall before spending the rest.
+
+669
+00:20:51,506 --> 00:20:53,514
+That way, you still get to enjoy
+
+670
+00:20:53,514 --> 00:20:54,204
+some of it,
+
+671
+00:20:54,204 --> 00:20:56,150
+but your future self gets a big
+
+672
+00:20:56,150 --> 00:20:56,777
+boost too.
+
+673
+00:20:57,127 --> 00:20:59,546
+Raises are the most powerful windfall,
+
+674
+00:20:59,546 --> 00:21:00,819
+because they repeat.
+
+675
+00:21:00,999 --> 00:21:03,662
+If you raise your automatic savings each
+
+676
+00:21:03,662 --> 00:21:05,126
+time your pay goes up,
+
+677
+00:21:05,126 --> 00:21:07,655
+your lifestyle grows a little and your
+
+678
+00:21:07,655 --> 00:21:08,919
+savings grow a lot,
+
+679
+00:21:08,919 --> 00:21:11,448
+without ever feeling like a sacrifice.
+
+680
+00:21:11,798 --> 00:21:12,623
+Try this.
+
+681
+00:21:12,803 --> 00:21:15,058
+Decide right now what percentage of your
+
+682
+00:21:15,058 --> 00:21:17,258
+next windfall goes to your ten thousand
+
+683
+00:21:17,258 --> 00:21:17,934
+dollar goal.
+
+684
+00:21:18,114 --> 00:21:20,647
+Deciding before the money arrives is the
+
+685
+00:21:20,647 --> 00:21:20,901
+key.
+
+686
+00:21:21,250 --> 00:21:22,667
+Move number seventeen.
+
+687
+00:21:22,847 --> 00:21:24,738
+Build your ten thousand in the right
+
+688
+00:21:24,738 --> 00:21:25,053
+order.
+
+689
+00:21:25,402 --> 00:21:27,144
+Here's a common sequence.
+
+690
+00:21:27,324 --> 00:21:29,859
+First, a starter emergency fund of about
+
+691
+00:21:29,859 --> 00:21:31,190
+one thousand dollars.
+
+692
+00:21:31,370 --> 00:21:34,055
+Second, if your employer offers a retirement
+
+693
+00:21:34,055 --> 00:21:36,495
+match, contribute enough to get the full
+
+694
+00:21:36,495 --> 00:21:39,058
+match, because it's an immediate return on
+
+695
+00:21:39,058 --> 00:21:39,729
+your money.
+
+696
+00:21:40,080 --> 00:21:42,640
+Third, pay off high interest debt like
+
+697
+00:21:42,640 --> 00:21:43,516
+credit cards.
+
+698
+00:21:43,696 --> 00:21:46,335
+Fourth, build your emergency fund up to
+
+699
+00:21:46,335 --> 00:21:49,176
+three to six months of essential expenses.
+
+700
+00:21:49,356 --> 00:21:52,276
+Fifth, invest more for the long term,
+
+701
+00:21:52,276 --> 00:21:54,565
+for example in an IRA and low
+
+702
+00:21:54,565 --> 00:21:56,380
+cost broad index funds.
+
+703
+00:21:56,730 --> 00:21:59,161
+Your exact order may differ depending on
+
+704
+00:21:59,161 --> 00:22:00,073
+your situation.
+
+705
+00:22:00,253 --> 00:22:01,728
+But the principle holds.
+
+706
+00:22:01,908 --> 00:22:03,522
+Protect yourself first,
+
+707
+00:22:03,522 --> 00:22:04,644
+grab free money,
+
+708
+00:22:04,644 --> 00:22:06,399
+eliminate expensive debt,
+
+709
+00:22:06,399 --> 00:22:08,855
+then let long term investing do the
+
+710
+00:22:08,855 --> 00:22:09,837
+heavy lifting.
+
+711
+00:22:10,188 --> 00:22:11,000
+Try this.
+
+712
+00:22:11,180 --> 00:22:13,073
+Figure out which step you're on today.
+
+713
+00:22:13,253 --> 00:22:15,585
+Then focus only on that step until
+
+714
+00:22:15,585 --> 00:22:16,271
+it's done.
+
+715
+00:22:16,622 --> 00:22:18,026
+Move number eighteen.
+
+716
+00:22:18,206 --> 00:22:19,832
+Protect your ten thousand.
+
+717
+00:22:20,182 --> 00:22:21,134
+Once you have it,
+
+718
+00:22:21,134 --> 00:22:22,422
+the goal is to keep it.
+
+719
+00:22:22,602 --> 00:22:24,562
+That means making it a little harder
+
+720
+00:22:24,562 --> 00:22:25,052
+to spend.
+
+721
+00:22:25,232 --> 00:22:26,366
+A separate bank,
+
+722
+00:22:26,366 --> 00:22:27,997
+no debit card attached,
+
+723
+00:22:27,997 --> 00:22:30,266
+and no link on your main banking
+
+724
+00:22:30,266 --> 00:22:30,549
+app.
+
+725
+00:22:30,729 --> 00:22:34,363
+Small barriers stop impulse spending surprisingly well.
+
+726
+00:22:34,714 --> 00:22:37,059
+Protecting it also means insurance.
+
+727
+00:22:37,239 --> 00:22:40,091
+Health, auto, renters or home insurance,
+
+728
+00:22:40,091 --> 00:22:42,301
+and for people with dependents,
+
+729
+00:22:42,301 --> 00:22:44,797
+often life and disability coverage.
+
+730
+00:22:44,977 --> 00:22:47,443
+Insurance stops one bad event from wiping
+
+731
+00:22:47,443 --> 00:22:48,646
+out years of saving.
+
+732
+00:22:48,996 --> 00:22:51,173
+And it means avoiding scams and get
+
+733
+00:22:51,173 --> 00:22:52,293
+rich quick offers.
+
+734
+00:22:52,473 --> 00:22:55,227
+People with savings are exactly who scammers
+
+735
+00:22:55,227 --> 00:22:55,666
+target.
+
+736
+00:22:55,846 --> 00:22:58,861
+If someone promises guaranteed high returns with
+
+737
+00:22:58,861 --> 00:23:01,186
+no risk, that's a major warning sign.
+
+738
+00:23:01,536 --> 00:23:02,348
+Try this.
+
+739
+00:23:02,528 --> 00:23:05,211
+Check that your savings account is FDIC
+
+740
+00:23:05,211 --> 00:23:07,687
+insured, or NCUA insured at a credit
+
+741
+00:23:07,687 --> 00:23:10,644
+union, and set up two factor authentication
+
+742
+00:23:10,644 --> 00:23:12,501
+on your financial accounts.
+
+743
+00:23:12,852 --> 00:23:14,222
+Move number nineteen.
+
+744
+00:23:14,402 --> 00:23:17,107
+Start the next ten thousand immediately.
+
+745
+00:23:17,457 --> 00:23:20,234
+The biggest mistake after reaching ten thousand
+
+746
+00:23:20,234 --> 00:23:21,416
+dollars is stopping.
+
+747
+00:23:21,596 --> 00:23:23,079
+People hit the goal,
+
+748
+00:23:23,079 --> 00:23:26,860
+celebrate, and then the automatic transfers quietly
+
+749
+00:23:26,860 --> 00:23:27,157
+end.
+
+750
+00:23:27,337 --> 00:23:29,886
+But this is exactly when momentum matters
+
+751
+00:23:29,886 --> 00:23:32,436
+most, because the next ten thousand comes
+
+752
+00:23:32,436 --> 00:23:33,803
+faster than the first.
+
+753
+00:23:34,154 --> 00:23:36,479
+Keep your automatic contributions running,
+
+754
+00:23:36,479 --> 00:23:38,139
+and point the new money at the
+
+755
+00:23:38,139 --> 00:23:38,693
+next goal.
+
+756
+00:23:38,873 --> 00:23:41,015
+If your emergency fund is full,
+
+757
+00:23:41,015 --> 00:23:43,157
+send it to long term investing.
+
+758
+00:23:43,337 --> 00:23:45,359
+The habit you built for your first
+
+759
+00:23:45,359 --> 00:23:47,857
+ten thousand is now your biggest financial
+
+760
+00:23:47,857 --> 00:23:48,213
+asset.
+
+761
+00:23:48,564 --> 00:23:50,862
+Celebrate, but celebrate small.
+
+762
+00:23:51,042 --> 00:23:53,302
+A nice dinner or a small treat
+
+763
+00:23:53,302 --> 00:23:53,980
+is great.
+
+764
+00:23:54,160 --> 00:23:56,534
+Just make sure the celebration doesn't cost
+
+765
+00:23:56,534 --> 00:23:58,190
+a big chunk of what you worked
+
+766
+00:23:58,190 --> 00:23:59,129
+so hard to build.
+
+767
+00:23:59,479 --> 00:24:00,315
+Try this.
+
+768
+00:24:00,495 --> 00:24:02,165
+The day you hit ten thousand,
+
+769
+00:24:02,165 --> 00:24:03,548
+set your next milestone.
+
+770
+00:24:03,728 --> 00:24:05,133
+Twenty five thousand.
+
+771
+00:24:05,313 --> 00:24:06,242
+Fifty thousand.
+
+772
+00:24:06,422 --> 00:24:07,850
+One hundred thousand.
+
+773
+00:24:08,030 --> 00:24:09,701
+Write the new date down right away.
+
+774
+00:24:10,052 --> 00:24:11,282
+Move number twenty.
+
+775
+00:24:11,462 --> 00:24:13,740
+Raise your savings rate a little every
+
+776
+00:24:13,740 --> 00:24:14,040
+year.
+
+777
+00:24:14,390 --> 00:24:17,998
+Economists Richard Thaler and Shlomo Benartzi designed
+
+778
+00:24:17,998 --> 00:24:20,404
+a program called Save More Tomorrow.
+
+779
+00:24:20,584 --> 00:24:23,059
+Employees agreed in advance to raise their
+
+780
+00:24:23,059 --> 00:24:25,534
+retirement savings rate each time they got
+
+781
+00:24:25,534 --> 00:24:26,005
+a raise.
+
+782
+00:24:26,185 --> 00:24:27,179
+In their study,
+
+783
+00:24:27,179 --> 00:24:30,888
+average savings rates for participants rose dramatically
+
+784
+00:24:30,888 --> 00:24:32,014
+over a few years.
+
+785
+00:24:32,364 --> 00:24:34,362
+The beauty of this approach is that
+
+786
+00:24:34,362 --> 00:24:35,789
+you never feel a pay cut.
+
+787
+00:24:35,969 --> 00:24:37,683
+Your take home pay still rises,
+
+788
+00:24:37,683 --> 00:24:39,454
+just a little less than it would
+
+789
+00:24:39,454 --> 00:24:39,730
+have.
+
+790
+00:24:39,910 --> 00:24:42,980
+Meanwhile, your savings rate climbs steadily,
+
+791
+00:24:42,980 --> 00:24:45,027
+and so does your speed to each
+
+792
+00:24:45,027 --> 00:24:45,982
+new milestone.
+
+793
+00:24:46,333 --> 00:24:49,792
+Many retirement plans offer an automatic increase
+
+794
+00:24:49,792 --> 00:24:52,474
+feature, often called auto escalation.
+
+795
+00:24:52,654 --> 00:24:53,444
+If yours does,
+
+796
+00:24:53,444 --> 00:24:54,967
+turning it on is one of the
+
+797
+00:24:54,967 --> 00:24:57,449
+simplest wealth building moves you can make.
+
+798
+00:24:57,800 --> 00:24:58,612
+Try this.
+
+799
+00:24:58,792 --> 00:25:01,042
+Raise your savings by one percent of
+
+800
+00:25:01,042 --> 00:25:02,166
+your income today,
+
+801
+00:25:02,166 --> 00:25:03,853
+and set a reminder to do it
+
+802
+00:25:03,853 --> 00:25:04,853
+again in a year.
+
+803
+00:25:05,203 --> 00:25:07,155
+Now, a lot of you are thinking,
+
+804
+00:25:07,155 --> 00:25:08,352
+that's great, Ryan,
+
+805
+00:25:08,352 --> 00:25:10,241
+but where do I find the money?
+
+806
+00:25:10,421 --> 00:25:11,629
+Let's get practical.
+
+807
+00:25:11,809 --> 00:25:14,213
+Here are five common places people find
+
+808
+00:25:14,213 --> 00:25:16,371
+money for their first ten thousand.
+
+809
+00:25:16,722 --> 00:25:17,407
+Place one.
+
+810
+00:25:17,587 --> 00:25:18,840
+Recurring bills.
+
+811
+00:25:19,020 --> 00:25:20,577
+Phone plans, insurance,
+
+812
+00:25:20,577 --> 00:25:23,623
+internet and subscriptions are often set once
+
+813
+00:25:23,623 --> 00:25:24,570
+and forgotten.
+
+814
+00:25:24,750 --> 00:25:27,125
+Many people save fifty to two hundred
+
+815
+00:25:27,125 --> 00:25:29,822
+dollars a month just by calling providers,
+
+816
+00:25:29,822 --> 00:25:33,096
+comparing quotes and canceling services they rarely
+
+817
+00:25:33,096 --> 00:25:33,353
+use.
+
+818
+00:25:33,533 --> 00:25:35,248
+That money can go straight into an
+
+819
+00:25:35,248 --> 00:25:37,366
+automatic transfer, and you won't miss it,
+
+820
+00:25:37,366 --> 00:25:39,535
+because you weren't really using it anyway.
+
+821
+00:25:39,886 --> 00:25:40,780
+Place two.
+
+822
+00:25:40,960 --> 00:25:41,203
+Food.
+
+823
+00:25:41,383 --> 00:25:42,762
+For many households,
+
+824
+00:25:42,762 --> 00:25:45,175
+food is one of the biggest flexible
+
+825
+00:25:45,175 --> 00:25:45,795
+expenses.
+
+826
+00:25:45,975 --> 00:25:48,007
+Cooking a few more meals at home,
+
+827
+00:25:48,007 --> 00:25:50,593
+planning a weekly grocery list and cutting
+
+828
+00:25:50,593 --> 00:25:52,749
+food waste can free up a surprising
+
+829
+00:25:52,749 --> 00:25:55,212
+amount of money without making life feel
+
+830
+00:25:55,212 --> 00:25:55,704
+smaller.
+
+831
+00:25:55,884 --> 00:25:58,626
+Even redirecting one or two takeout orders
+
+832
+00:25:58,626 --> 00:26:00,389
+a week adds up over a year.
+
+833
+00:26:00,739 --> 00:26:01,482
+Place three.
+
+834
+00:26:01,662 --> 00:26:02,776
+Transportation.
+
+835
+00:26:02,956 --> 00:26:04,971
+Cars are expensive to buy,
+
+836
+00:26:04,971 --> 00:26:06,985
+insure, fuel and maintain.
+
+837
+00:26:07,165 --> 00:26:09,587
+Keeping a reliable car a few years
+
+838
+00:26:09,587 --> 00:26:11,581
+longer instead of upgrading,
+
+839
+00:26:11,581 --> 00:26:13,861
+or avoiding a large car payment,
+
+840
+00:26:13,861 --> 00:26:16,211
+can free up hundreds of dollars a
+
+841
+00:26:16,211 --> 00:26:16,639
+month.
+
+842
+00:26:16,819 --> 00:26:17,875
+For some people,
+
+843
+00:26:17,875 --> 00:26:20,516
+that single decision is the fastest road
+
+844
+00:26:20,516 --> 00:26:22,101
+to ten thousand dollars.
+
+845
+00:26:22,451 --> 00:26:23,194
+Place four.
+
+846
+00:26:23,374 --> 00:26:24,384
+Extra income.
+
+847
+00:26:24,564 --> 00:26:27,858
+Overtime, freelancing, a weekend side job,
+
+848
+00:26:27,858 --> 00:26:30,682
+or selling things you no longer use.
+
+849
+00:26:30,862 --> 00:26:32,702
+The key is to send extra income
+
+850
+00:26:32,702 --> 00:26:35,075
+straight to your goal instead of letting
+
+851
+00:26:35,075 --> 00:26:37,271
+it blend into your everyday spending.
+
+852
+00:26:37,451 --> 00:26:39,649
+Extra income that's saved can cut your
+
+853
+00:26:39,649 --> 00:26:40,632
+timeline in half.
+
+854
+00:26:40,982 --> 00:26:41,783
+Place five.
+
+855
+00:26:41,963 --> 00:26:42,775
+Your raise.
+
+856
+00:26:42,955 --> 00:26:44,771
+The next time your pay goes up,
+
+857
+00:26:44,771 --> 00:26:46,761
+send at least half of the increase
+
+858
+00:26:46,761 --> 00:26:48,811
+to savings before you ever get used
+
+859
+00:26:48,811 --> 00:26:49,689
+to spending it.
+
+860
+00:26:49,869 --> 00:26:52,327
+Your lifestyle still improves a little,
+
+861
+00:26:52,327 --> 00:26:54,785
+and your ten thousand dollar date moves
+
+862
+00:26:54,785 --> 00:26:55,605
+a lot closer.
+
+863
+00:26:55,955 --> 00:26:57,916
+Let's put this all together with a
+
+864
+00:26:57,916 --> 00:26:59,589
+simple example of two people.
+
+865
+00:26:59,939 --> 00:27:01,854
+Meet Alex and Jordan.
+
+866
+00:27:02,034 --> 00:27:03,427
+Both are twenty eight.
+
+867
+00:27:03,607 --> 00:27:05,465
+Both earn the same salary.
+
+868
+00:27:05,645 --> 00:27:07,954
+Both spend two years saving their first
+
+869
+00:27:07,954 --> 00:27:09,198
+ten thousand dollars.
+
+870
+00:27:09,378 --> 00:27:10,624
+On the day they hit it,
+
+871
+00:27:10,624 --> 00:27:12,141
+they make different choices.
+
+872
+00:27:12,321 --> 00:27:14,650
+Alex buys a newer car with the
+
+873
+00:27:14,650 --> 00:27:17,291
+ten thousand as a down payment and
+
+874
+00:27:17,291 --> 00:27:18,300
+stops saving.
+
+875
+00:27:18,480 --> 00:27:20,956
+Jordan leaves the money invested and keeps
+
+876
+00:27:20,956 --> 00:27:23,078
+saving four hundred dollars a month.
+
+877
+00:27:23,428 --> 00:27:24,558
+Ten years later,
+
+878
+00:27:24,558 --> 00:27:26,817
+Alex has a car that's worth much
+
+879
+00:27:26,817 --> 00:27:28,088
+less than it cost,
+
+880
+00:27:28,088 --> 00:27:30,278
+and probably a car payment too.
+
+881
+00:27:30,458 --> 00:27:32,793
+Jordan, at a seven percent average yearly
+
+882
+00:27:32,793 --> 00:27:35,470
+return, would have roughly eighty nine thousand
+
+883
+00:27:35,470 --> 00:27:35,926
+dollars.
+
+884
+00:27:36,106 --> 00:27:37,220
+Same income.
+
+885
+00:27:37,400 --> 00:27:38,817
+Same starting point.
+
+886
+00:27:38,997 --> 00:27:41,076
+One decision on the day they reached
+
+887
+00:27:41,076 --> 00:27:43,676
+ten thousand dollars made all the difference.
+
+888
+00:27:44,026 --> 00:27:46,510
+And Jordan didn't do anything extraordinary.
+
+889
+00:27:46,690 --> 00:27:47,956
+No stock picking.
+
+890
+00:27:48,136 --> 00:27:49,819
+No side hustle empire.
+
+891
+00:27:49,999 --> 00:27:52,552
+Just kept the first ten thousand invested
+
+892
+00:27:52,552 --> 00:27:54,109
+and kept the habit going.
+
+893
+00:27:54,289 --> 00:27:56,780
+That's the ten thousand dollar rule in
+
+894
+00:27:56,780 --> 00:27:57,435
+real life.
+
+895
+00:27:57,615 --> 00:27:58,985
+It's not about the number.
+
+896
+00:27:59,165 --> 00:28:00,686
+It's about what you do once you
+
+897
+00:28:00,686 --> 00:28:01,127
+reach it.
+
+898
+00:28:01,478 --> 00:28:02,572
+In your twenties,
+
+899
+00:28:02,572 --> 00:28:05,405
+ten thousand dollars invested has decades to
+
+900
+00:28:05,405 --> 00:28:05,727
+grow.
+
+901
+00:28:05,907 --> 00:28:08,104
+Left alone for forty years at seven
+
+902
+00:28:08,104 --> 00:28:10,867
+percent, it could become roughly one hundred
+
+903
+00:28:10,867 --> 00:28:12,311
+sixty thousand dollars,
+
+904
+00:28:12,311 --> 00:28:14,069
+without adding another cent.
+
+905
+00:28:14,249 --> 00:28:16,621
+It's the most powerful ten thousand you'll
+
+906
+00:28:16,621 --> 00:28:17,186
+ever save.
+
+907
+00:28:17,536 --> 00:28:19,551
+In your thirties and forties,
+
+908
+00:28:19,551 --> 00:28:22,469
+ten thousand is often your emergency fund,
+
+909
+00:28:22,469 --> 00:28:25,387
+your safety net while juggling a mortgage,
+
+910
+00:28:25,387 --> 00:28:26,638
+kids and a career.
+
+911
+00:28:26,818 --> 00:28:29,584
+Building it protects everything else you're working
+
+912
+00:28:29,584 --> 00:28:32,025
+toward, and lets your retirement savings keep
+
+913
+00:28:32,025 --> 00:28:33,436
+compounding uninterrupted.
+
+914
+00:28:33,786 --> 00:28:35,641
+In your fifties and sixties,
+
+915
+00:28:35,641 --> 00:28:37,827
+ten thousand might be one of many
+
+916
+00:28:37,827 --> 00:28:40,345
+milestones, or it might be your first.
+
+917
+00:28:40,525 --> 00:28:42,325
+Either way, it's not too late.
+
+918
+00:28:42,505 --> 00:28:45,064
+Higher incomes later in life can make
+
+919
+00:28:45,064 --> 00:28:46,656
+milestones come faster,
+
+920
+00:28:46,656 --> 00:28:49,700
+and retirement accounts allow extra catch up
+
+921
+00:28:49,700 --> 00:28:52,536
+contributions for people fifty and older.
+
+922
+00:28:52,716 --> 00:28:55,166
+Check the current limits with the IRS.
+
+923
+00:28:55,516 --> 00:28:56,282
+Question one.
+
+924
+00:28:56,462 --> 00:28:58,757
+Should my first ten thousand be cash
+
+925
+00:28:58,757 --> 00:28:59,713
+or investments?
+
+926
+00:28:59,893 --> 00:29:00,951
+For many people,
+
+927
+00:29:00,951 --> 00:29:03,596
+the first several thousand works best as
+
+928
+00:29:03,596 --> 00:29:05,778
+an emergency fund in a high yield
+
+929
+00:29:05,778 --> 00:29:06,836
+savings account.
+
+930
+00:29:07,016 --> 00:29:08,880
+Once you have a few months of
+
+931
+00:29:08,880 --> 00:29:11,837
+expenses saved, additional money can go toward
+
+932
+00:29:11,837 --> 00:29:13,122
+long term investing.
+
+933
+00:29:13,473 --> 00:29:14,425
+Question two.
+
+934
+00:29:14,605 --> 00:29:17,007
+Is ten thousand dollars enough to start
+
+935
+00:29:17,007 --> 00:29:17,623
+investing?
+
+936
+00:29:17,803 --> 00:29:20,334
+You can start investing with much less.
+
+937
+00:29:20,514 --> 00:29:23,351
+Many brokerages have no minimums and offer
+
+938
+00:29:23,351 --> 00:29:24,566
+fractional shares.
+
+939
+00:29:24,746 --> 00:29:26,834
+Ten thousand is a milestone,
+
+940
+00:29:26,834 --> 00:29:28,101
+not an entry fee.
+
+941
+00:29:28,452 --> 00:29:29,473
+Question three.
+
+942
+00:29:29,653 --> 00:29:31,837
+What if I have debt and no
+
+943
+00:29:31,837 --> 00:29:32,509
+savings?
+
+944
+00:29:32,689 --> 00:29:34,695
+A common approach is to build a
+
+945
+00:29:34,695 --> 00:29:36,960
+small starter emergency fund first,
+
+946
+00:29:36,960 --> 00:29:38,708
+maybe one thousand dollars,
+
+947
+00:29:38,708 --> 00:29:41,555
+then attack high interest debt aggressively,
+
+948
+00:29:41,555 --> 00:29:44,079
+then build your full emergency fund and
+
+949
+00:29:44,079 --> 00:29:44,532
+invest.
+
+950
+00:29:44,882 --> 00:29:45,950
+Question four.
+
+951
+00:29:46,130 --> 00:29:47,442
+How long should it take?
+
+952
+00:29:47,622 --> 00:29:50,095
+It depends on your income and expenses.
+
+953
+00:29:50,275 --> 00:29:52,293
+At three hundred dollars a month,
+
+954
+00:29:52,293 --> 00:29:53,943
+about two and a half years.
+
+955
+00:29:54,123 --> 00:29:55,136
+At five hundred,
+
+956
+00:29:55,136 --> 00:29:56,654
+about a year and a half.
+
+957
+00:29:56,834 --> 00:29:58,425
+Faster with windfalls.
+
+958
+00:29:58,605 --> 00:30:00,521
+What matters most is that you start.
+
+959
+00:30:00,871 --> 00:30:01,927
+Question five.
+
+960
+00:30:02,107 --> 00:30:04,019
+What if I reach ten thousand and
+
+961
+00:30:04,019 --> 00:30:05,811
+then need to spend some of it?
+
+962
+00:30:05,991 --> 00:30:06,745
+That's okay.
+
+963
+00:30:06,925 --> 00:30:08,545
+If it's your emergency fund,
+
+964
+00:30:08,545 --> 00:30:10,339
+that's literally what it's for.
+
+965
+00:30:10,519 --> 00:30:12,671
+Use it, then rebuild it with the
+
+966
+00:30:12,671 --> 00:30:14,083
+same automatic habit.
+
+967
+00:30:14,263 --> 00:30:16,771
+A fund that gets used and refilled
+
+968
+00:30:16,771 --> 00:30:18,025
+is doing its job.
+
+969
+00:30:18,205 --> 00:30:20,062
+The goal isn't to never touch it.
+
+970
+00:30:20,242 --> 00:30:22,052
+The goal is to never need a
+
+971
+00:30:22,052 --> 00:30:24,399
+credit card for an emergency again.
+
+972
+00:30:24,749 --> 00:30:25,782
+Question six.
+
+973
+00:30:25,962 --> 00:30:28,507
+Should couples aim for ten thousand each
+
+974
+00:30:28,507 --> 00:30:29,271
+or together?
+
+975
+00:30:29,451 --> 00:30:31,657
+It depends on how you share finances.
+
+976
+00:30:31,837 --> 00:30:34,972
+Many couples start with one shared emergency
+
+977
+00:30:34,972 --> 00:30:38,178
+fund, then build separate or joint investment
+
+978
+00:30:38,178 --> 00:30:38,605
+goals.
+
+979
+00:30:38,785 --> 00:30:41,013
+What matters most is that you agree
+
+980
+00:30:41,013 --> 00:30:41,777
+on the plan,
+
+981
+00:30:41,777 --> 00:30:43,495
+talk about money regularly,
+
+982
+00:30:43,495 --> 00:30:45,914
+and celebrate the milestones together.
+
+983
+00:30:46,264 --> 00:30:47,216
+Mistake one.
+
+984
+00:30:47,396 --> 00:30:49,219
+Waiting until you earn more.
+
+985
+00:30:49,399 --> 00:30:51,497
+Most people think they'll save once they
+
+986
+00:30:51,497 --> 00:30:52,127
+get a raise.
+
+987
+00:30:52,307 --> 00:30:54,640
+But spending tends to rise with income.
+
+988
+00:30:54,820 --> 00:30:57,254
+The habit matters more than the amount,
+
+989
+00:30:57,254 --> 00:30:59,125
+so start saving something now,
+
+990
+00:30:59,125 --> 00:31:00,498
+and increase it later.
+
+991
+00:31:00,848 --> 00:31:02,055
+Mistake two.
+
+992
+00:31:02,235 --> 00:31:04,585
+Keeping all ten thousand in a checking
+
+993
+00:31:04,585 --> 00:31:05,080
+account.
+
+994
+00:31:05,260 --> 00:31:06,771
+It's too easy to spend,
+
+995
+00:31:06,771 --> 00:31:09,335
+and it usually earns little or nothing.
+
+996
+00:31:09,515 --> 00:31:11,564
+Move it to a high yield savings
+
+997
+00:31:11,564 --> 00:31:14,010
+account or invest it according to its
+
+998
+00:31:14,010 --> 00:31:14,275
+job.
+
+999
+00:31:14,625 --> 00:31:15,635
+Mistake three.
+
+1000
+00:31:15,815 --> 00:31:18,148
+Treating the milestone like a finish line.
+
+1001
+00:31:18,328 --> 00:31:20,453
+Ten thousand dollars is the beginning.
+
+1002
+00:31:20,633 --> 00:31:22,750
+The people who build real wealth are
+
+1003
+00:31:22,750 --> 00:31:24,690
+the ones who keep going after the
+
+1004
+00:31:24,690 --> 00:31:27,277
+first milestone, when momentum is finally on
+
+1005
+00:31:27,277 --> 00:31:27,924
+their side.
+
+1006
+00:31:28,274 --> 00:31:29,377
+Mistake four.
+
+1007
+00:31:29,557 --> 00:31:32,508
+Chasing a faster ten thousand with risky
+
+1008
+00:31:32,508 --> 00:31:32,877
+bets.
+
+1009
+00:31:33,057 --> 00:31:34,549
+When the goal feels slow,
+
+1010
+00:31:34,549 --> 00:31:36,459
+it's tempting to gamble on a hot
+
+1011
+00:31:36,459 --> 00:31:38,189
+stock or a trendy coin to get
+
+1012
+00:31:38,189 --> 00:31:39,025
+there quicker.
+
+1013
+00:31:39,205 --> 00:31:41,353
+But big losses can push you right
+
+1014
+00:31:41,353 --> 00:31:42,200
+back to zero.
+
+1015
+00:31:42,380 --> 00:31:45,055
+Steady saving gets you to ten thousand
+
+1016
+00:31:45,055 --> 00:31:45,689
+reliably.
+
+1017
+00:31:45,869 --> 00:31:47,947
+Gambling only gets you there by luck.
+
+1018
+00:31:48,297 --> 00:31:49,133
+Quick recap.
+
+1019
+00:31:49,313 --> 00:31:51,228
+Angle one, the numbers.
+
+1020
+00:31:51,408 --> 00:31:52,995
+Your money gets a job,
+
+1021
+00:31:52,995 --> 00:31:55,231
+each ten thousand comes faster,
+
+1022
+00:31:55,231 --> 00:31:56,673
+the crossover point,
+
+1023
+00:31:56,673 --> 00:31:57,899
+where money sits,
+
+1024
+00:31:57,899 --> 00:32:00,207
+inflation, the emergency shield,
+
+1025
+00:32:00,207 --> 00:32:02,298
+and the reverse rule of debt.
+
+1026
+00:32:02,649 --> 00:32:04,820
+Angle two, the psychology.
+
+1027
+00:32:05,000 --> 00:32:07,577
+Invisible progress, the goal gradient,
+
+1028
+00:32:07,577 --> 00:32:08,797
+the spending trap,
+
+1029
+00:32:08,797 --> 00:32:11,035
+mental accounting, loss aversion,
+
+1030
+00:32:11,035 --> 00:32:13,951
+the identity shift and the comparison trap.
+
+1031
+00:32:14,301 --> 00:32:16,054
+Angle three, the playbook.
+
+1032
+00:32:16,234 --> 00:32:17,958
+Pick your number and date,
+
+1033
+00:32:17,958 --> 00:32:20,875
+capture windfalls, build in the right order,
+
+1034
+00:32:20,875 --> 00:32:23,527
+protect it, start the next ten thousand,
+
+1035
+00:32:23,527 --> 00:32:25,185
+and raise the bar slowly.
+
+1036
+00:32:25,535 --> 00:32:27,632
+Your first ten thousand dollars is the
+
+1037
+00:32:27,632 --> 00:32:29,343
+hardest money you'll ever save.
+
+1038
+00:32:29,523 --> 00:32:31,725
+But it's also the money that changes
+
+1039
+00:32:31,725 --> 00:32:32,948
+everything after it.
+
+1040
+00:32:33,128 --> 00:32:34,770
+If you want my full step by
+
+1041
+00:32:34,770 --> 00:32:36,655
+step plan, it's in my playbook,
+
+1042
+00:32:36,655 --> 00:32:38,236
+linked in the description.
+
+1043
+00:32:38,416 --> 00:32:39,782
+Tell me in the comments,
+
+1044
+00:32:39,782 --> 00:32:41,888
+what's your ten thousand dollar date?
+
+1045
+00:32:42,068 --> 00:32:43,252
+I'm Ryan Rover.
+
+1046
+00:32:43,432 --> 00:32:44,593
+See you in the next one.
