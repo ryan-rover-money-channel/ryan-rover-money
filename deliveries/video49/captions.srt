@@ -1,0 +1,4175 @@
+1
+00:00:00,000 --> 00:00:02,124
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,304 --> 00:00:04,440
+Everyone wants to get rich faster.
+
+3
+00:00:04,620 --> 00:00:05,352
+That's human.
+
+4
+00:00:05,532 --> 00:00:07,934
+And there's an entire industry built on
+
+5
+00:00:07,934 --> 00:00:08,550
+that wish.
+
+6
+00:00:08,730 --> 00:00:10,317
+Courses, apps, coins,
+
+7
+00:00:10,317 --> 00:00:14,172
+trading bots, secret systems and opportunities that
+
+8
+00:00:14,172 --> 00:00:16,288
+are only open for a few more
+
+9
+00:00:16,288 --> 00:00:16,741
+hours.
+
+10
+00:00:16,921 --> 00:00:19,678
+Today, fifteen get rich quick schemes,
+
+11
+00:00:19,678 --> 00:00:21,709
+how each one actually works,
+
+12
+00:00:21,709 --> 00:00:23,957
+and why almost all of them fail
+
+13
+00:00:23,957 --> 00:00:25,408
+the people who join.
+
+14
+00:00:25,759 --> 00:00:28,327
+According to the Federal Trade Commission,
+
+15
+00:00:28,327 --> 00:00:31,385
+Americans reported losing more than twelve billion
+
+16
+00:00:31,385 --> 00:00:33,771
+dollars to fraud in twenty twenty four,
+
+17
+00:00:33,771 --> 00:00:36,462
+and investment scams were the single biggest
+
+18
+00:00:36,462 --> 00:00:37,624
+category of losses.
+
+19
+00:00:37,974 --> 00:00:40,135
+Here's the key idea of this whole
+
+20
+00:00:40,135 --> 00:00:40,528
+video.
+
+21
+00:00:40,708 --> 00:00:42,667
+Most get rich quick schemes have the
+
+22
+00:00:42,667 --> 00:00:43,320
+same secret.
+
+23
+00:00:43,500 --> 00:00:45,468
+The person getting rich is the one
+
+24
+00:00:45,468 --> 00:00:46,568
+selling the scheme,
+
+25
+00:00:46,568 --> 00:00:47,842
+not the one buying it.
+
+26
+00:00:48,022 --> 00:00:50,449
+The course seller gets rich from courses.
+
+27
+00:00:50,629 --> 00:00:52,614
+The promoter gets rich from the coin.
+
+28
+00:00:52,794 --> 00:00:54,314
+The person at the top of the
+
+29
+00:00:54,314 --> 00:00:56,486
+pyramid gets rich from the people below.
+
+30
+00:00:56,666 --> 00:00:57,915
+Once you see that,
+
+31
+00:00:57,915 --> 00:00:59,441
+you see it everywhere.
+
+32
+00:00:59,791 --> 00:01:02,409
+We'll look at fifteen schemes from three
+
+33
+00:01:02,409 --> 00:01:02,867
+angles.
+
+34
+00:01:03,047 --> 00:01:04,521
+Angle one, the numbers:
+
+35
+00:01:04,521 --> 00:01:05,802
+the classic schemes,
+
+36
+00:01:05,802 --> 00:01:08,492
+and the math that dooms most participants.
+
+37
+00:01:08,672 --> 00:01:10,457
+Angle two, the psychology:
+
+38
+00:01:10,457 --> 00:01:12,723
+the modern schemes that use hype,
+
+39
+00:01:12,723 --> 00:01:15,058
+gurus and the fear of missing out.
+
+40
+00:01:15,238 --> 00:01:16,279
+And angle three,
+
+41
+00:01:16,279 --> 00:01:18,688
+the playbook: the newest scams of the
+
+42
+00:01:18,688 --> 00:01:21,487
+internet age, and a checklist that protects
+
+43
+00:01:21,487 --> 00:01:22,854
+you from all of them.
+
+44
+00:01:23,204 --> 00:01:26,361
+Number eleven is costing Americans billions every
+
+45
+00:01:26,361 --> 00:01:28,616
+year, and most victims never saw it
+
+46
+00:01:28,616 --> 00:01:29,067
+coming.
+
+47
+00:01:29,247 --> 00:01:30,930
+Let's start with the classics.
+
+48
+00:01:31,280 --> 00:01:33,243
+Every number here comes from a named
+
+49
+00:01:33,243 --> 00:01:33,625
+source.
+
+50
+00:01:33,805 --> 00:01:36,426
+Fraud losses come from the Federal Trade
+
+51
+00:01:36,426 --> 00:01:39,637
+Commission's Consumer Sentinel data and the FBI's
+
+52
+00:01:39,637 --> 00:01:41,734
+Internet Crime Complaint Center.
+
+53
+00:01:41,914 --> 00:01:44,640
+Research on day trading and multi level
+
+54
+00:01:44,640 --> 00:01:48,344
+marketing comes from published academic and nonprofit
+
+55
+00:01:48,344 --> 00:01:48,904
+studies.
+
+56
+00:01:49,084 --> 00:01:51,668
+Lottery odds come from the official game
+
+57
+00:01:51,668 --> 00:01:52,056
+rules.
+
+58
+00:01:52,236 --> 00:01:54,129
+This video is education,
+
+59
+00:01:54,129 --> 00:01:56,497
+not financial or legal advice.
+
+60
+00:01:56,677 --> 00:01:58,498
+If you think you've been scammed,
+
+61
+00:01:58,498 --> 00:02:00,043
+report it to the FTC and the
+
+62
+00:02:00,043 --> 00:02:00,264
+FBI.
+
+63
+00:02:00,614 --> 00:02:02,804
+If you think only gullible people fall
+
+64
+00:02:02,804 --> 00:02:04,361
+for get rich quick schemes,
+
+65
+00:02:04,361 --> 00:02:05,629
+consider Isaac Newton.
+
+66
+00:02:05,809 --> 00:02:08,595
+One of the greatest scientists in history.
+
+67
+00:02:08,775 --> 00:02:10,130
+In seventeen twenty,
+
+68
+00:02:10,130 --> 00:02:12,636
+he invested in the South Sea Company,
+
+69
+00:02:12,636 --> 00:02:15,413
+a British trading company whose stock was
+
+70
+00:02:15,413 --> 00:02:16,496
+soaring on hype.
+
+71
+00:02:16,676 --> 00:02:18,886
+He reportedly sold early for a profit,
+
+72
+00:02:18,886 --> 00:02:21,038
+then watched the price keep climbing,
+
+73
+00:02:21,038 --> 00:02:22,899
+and bought back in near the top.
+
+74
+00:02:23,249 --> 00:02:24,421
+The bubble burst.
+
+75
+00:02:24,601 --> 00:02:26,022
+The stock collapsed,
+
+76
+00:02:26,022 --> 00:02:28,792
+and Newton reportedly lost a large sum.
+
+77
+00:02:28,972 --> 00:02:31,143
+A famous line is often attributed to
+
+78
+00:02:31,143 --> 00:02:33,555
+him: that he could calculate the motions
+
+79
+00:02:33,555 --> 00:02:34,942
+of the heavenly bodies,
+
+80
+00:02:34,942 --> 00:02:36,751
+but not the madness of people.
+
+81
+00:02:36,931 --> 00:02:39,213
+Whether he said it exactly that way
+
+82
+00:02:39,213 --> 00:02:40,844
+or not, the lesson stuck.
+
+83
+00:02:41,024 --> 00:02:44,367
+Intelligence doesn't protect you from crowd psychology.
+
+84
+00:02:44,718 --> 00:02:46,970
+Every generation has its own version.
+
+85
+00:02:47,150 --> 00:02:49,356
+Railway mania in the eighteen forties.
+
+86
+00:02:49,536 --> 00:02:51,765
+Florida land in the nineteen twenties.
+
+87
+00:02:51,945 --> 00:02:54,337
+Dot com stocks around two thousand.
+
+88
+00:02:54,517 --> 00:02:55,724
+Meme coins today.
+
+89
+00:02:55,904 --> 00:02:57,576
+The technology changes.
+
+90
+00:02:57,756 --> 00:02:59,079
+The human emotions,
+
+91
+00:02:59,079 --> 00:03:01,517
+greed, envy and the fear of missing
+
+92
+00:03:01,517 --> 00:03:03,398
+out, stay exactly the same.
+
+93
+00:03:03,749 --> 00:03:04,550
+Angle one.
+
+94
+00:03:04,730 --> 00:03:05,985
+The classic schemes,
+
+95
+00:03:05,985 --> 00:03:08,182
+and the math that dooms most people
+
+96
+00:03:08,182 --> 00:03:08,747
+who join.
+
+97
+00:03:09,097 --> 00:03:10,095
+Scheme number one.
+
+98
+00:03:10,275 --> 00:03:11,366
+The Ponzi scheme.
+
+99
+00:03:11,717 --> 00:03:13,938
+A Ponzi scheme promises steady,
+
+100
+00:03:13,938 --> 00:03:17,091
+high returns, but there's no real investment
+
+101
+00:03:17,091 --> 00:03:17,951
+behind them.
+
+102
+00:03:18,131 --> 00:03:20,602
+Early investors are paid with money from
+
+103
+00:03:20,602 --> 00:03:21,591
+newer investors.
+
+104
+00:03:21,771 --> 00:03:23,954
+It's named after Charles Ponzi,
+
+105
+00:03:23,954 --> 00:03:26,278
+who ran one in Boston in nineteen
+
+106
+00:03:26,278 --> 00:03:29,658
+twenty, promising fifty percent returns in forty
+
+107
+00:03:29,658 --> 00:03:30,362
+five days.
+
+108
+00:03:30,542 --> 00:03:32,037
+The returns looked real,
+
+109
+00:03:32,037 --> 00:03:34,589
+because early investors really were paid,
+
+110
+00:03:34,589 --> 00:03:36,208
+with other people's money.
+
+111
+00:03:36,558 --> 00:03:39,309
+The biggest Ponzi scheme in history was
+
+112
+00:03:39,309 --> 00:03:40,791
+run by Bernie Madoff,
+
+113
+00:03:40,791 --> 00:03:42,978
+a respected Wall Street figure.
+
+114
+00:03:43,158 --> 00:03:45,255
+For decades, he reported smooth,
+
+115
+00:03:45,255 --> 00:03:47,221
+reliable gains to his clients.
+
+116
+00:03:47,401 --> 00:03:49,702
+When it collapsed in two thousand eight,
+
+117
+00:03:49,702 --> 00:03:52,405
+the reported account balances were around sixty
+
+118
+00:03:52,405 --> 00:03:53,612
+five billion dollars,
+
+119
+00:03:53,612 --> 00:03:54,820
+much of it fictional.
+
+120
+00:03:55,000 --> 00:03:58,878
+Charities, retirees and families lost life savings.
+
+121
+00:03:59,228 --> 00:04:01,526
+The math is simple and brutal.
+
+122
+00:04:01,706 --> 00:04:04,418
+A Ponzi scheme needs ever more new
+
+123
+00:04:04,418 --> 00:04:06,571
+money to pay old investors.
+
+124
+00:04:06,751 --> 00:04:09,255
+Eventually, new money slows down,
+
+125
+00:04:09,255 --> 00:04:10,848
+withdrawals speed up,
+
+126
+00:04:10,848 --> 00:04:12,138
+and it collapses.
+
+127
+00:04:12,318 --> 00:04:13,917
+The people who join late,
+
+128
+00:04:13,917 --> 00:04:15,261
+which is most people,
+
+129
+00:04:15,261 --> 00:04:15,580
+lose.
+
+130
+00:04:15,760 --> 00:04:17,989
+Real investments go up and down.
+
+131
+00:04:18,169 --> 00:04:20,998
+Suspiciously smooth returns that never have a
+
+132
+00:04:20,998 --> 00:04:22,758
+bad year are a warning sign,
+
+133
+00:04:22,758 --> 00:04:23,638
+not a feature.
+
+134
+00:04:23,988 --> 00:04:25,276
+Scheme number two.
+
+135
+00:04:25,456 --> 00:04:28,065
+Pyramid schemes and the problem with many
+
+136
+00:04:28,065 --> 00:04:30,100
+multi level marketing companies.
+
+137
+00:04:30,451 --> 00:04:32,840
+A pyramid scheme pays people mainly for
+
+138
+00:04:32,840 --> 00:04:35,780
+recruiting others, not for selling real products
+
+139
+00:04:35,780 --> 00:04:36,882
+to real customers.
+
+140
+00:04:37,062 --> 00:04:37,922
+It's illegal.
+
+141
+00:04:38,102 --> 00:04:39,843
+Multi level marketing,
+
+142
+00:04:39,843 --> 00:04:42,377
+or MLM, is legal when it's built
+
+143
+00:04:42,377 --> 00:04:44,673
+around genuine product sales.
+
+144
+00:04:44,853 --> 00:04:47,114
+But many MLMs reward recruiting heavily,
+
+145
+00:04:47,114 --> 00:04:49,658
+and the structure means most participants are
+
+146
+00:04:49,658 --> 00:04:50,449
+at the bottom.
+
+147
+00:04:50,799 --> 00:04:53,050
+A survey by the AARP Foundation in
+
+148
+00:04:53,050 --> 00:04:55,766
+twenty eighteen found that nearly half of
+
+149
+00:04:55,766 --> 00:04:58,282
+MLM participants said they lost money,
+
+150
+00:04:58,282 --> 00:05:00,998
+and about another quarter said they broke
+
+151
+00:05:00,998 --> 00:05:01,329
+even.
+
+152
+00:05:01,509 --> 00:05:04,644
+The Federal Trade Commission has warned that
+
+153
+00:05:04,644 --> 00:05:05,571
+in many MLMs,
+
+154
+00:05:05,571 --> 00:05:08,777
+the vast majority of participants make little
+
+155
+00:05:08,777 --> 00:05:09,633
+or no money,
+
+156
+00:05:09,633 --> 00:05:12,768
+after counting what they spend on inventory,
+
+157
+00:05:12,768 --> 00:05:13,908
+fees and events.
+
+158
+00:05:14,259 --> 00:05:15,698
+The math is the problem.
+
+159
+00:05:15,878 --> 00:05:18,241
+If each person needs to recruit five
+
+160
+00:05:18,241 --> 00:05:20,539
+people, who each recruit five more,
+
+161
+00:05:20,539 --> 00:05:22,246
+you run out of people in a
+
+162
+00:05:22,246 --> 00:05:24,609
+surprisingly small number of levels.
+
+163
+00:05:24,789 --> 00:05:26,209
+By level ten or so,
+
+164
+00:05:26,209 --> 00:05:28,899
+you'd need millions of new recruits.
+
+165
+00:05:29,079 --> 00:05:30,936
+The people near the top can earn
+
+166
+00:05:30,936 --> 00:05:31,285
+a lot.
+
+167
+00:05:31,465 --> 00:05:33,926
+Everyone else is chasing a shrinking pool.
+
+168
+00:05:34,276 --> 00:05:37,829
+Try this: before joining any business opportunity,
+
+169
+00:05:37,829 --> 00:05:41,382
+ask for the company's income disclosure statement,
+
+170
+00:05:41,382 --> 00:05:43,088
+which many MLMs publish.
+
+171
+00:05:43,268 --> 00:05:45,816
+Look at what the typical participant earns,
+
+172
+00:05:45,816 --> 00:05:47,238
+not the top one percent.
+
+173
+00:05:47,418 --> 00:05:49,067
+Then subtract your costs.
+
+174
+00:05:49,247 --> 00:05:51,058
+That's your realistic outcome.
+
+175
+00:05:51,408 --> 00:05:54,035
+If every person recruits five new people,
+
+176
+00:05:54,035 --> 00:05:56,214
+the number needed doubles quickly.
+
+177
+00:05:56,394 --> 00:05:57,690
+By the tenth level,
+
+178
+00:05:57,690 --> 00:06:00,351
+a pyramid would need nearly ten million
+
+179
+00:06:00,351 --> 00:06:00,829
+people.
+
+180
+00:06:01,179 --> 00:06:02,444
+Scheme number three.
+
+181
+00:06:02,624 --> 00:06:03,344
+The lottery.
+
+182
+00:06:03,694 --> 00:06:05,145
+The lottery isn't a scam.
+
+183
+00:06:05,325 --> 00:06:07,718
+It's legal, the odds are published,
+
+184
+00:06:07,718 --> 00:06:10,247
+and some of the money supports public
+
+185
+00:06:10,247 --> 00:06:10,863
+programs.
+
+186
+00:06:11,043 --> 00:06:12,967
+But it's the most popular get rich
+
+187
+00:06:12,967 --> 00:06:14,212
+quick plan in America.
+
+188
+00:06:14,392 --> 00:06:16,087
+And the odds are extraordinary.
+
+189
+00:06:16,267 --> 00:06:18,696
+The odds of winning the Powerball jackpot
+
+190
+00:06:18,696 --> 00:06:20,770
+are about one in two hundred ninety
+
+191
+00:06:20,770 --> 00:06:23,435
+two million, according to the game's official
+
+192
+00:06:23,435 --> 00:06:23,791
+rules.
+
+193
+00:06:24,141 --> 00:06:26,570
+On average, lotteries pay out less than
+
+194
+00:06:26,570 --> 00:06:27,380
+they take in.
+
+195
+00:06:27,560 --> 00:06:30,151
+That's how they fund prizes and public
+
+196
+00:06:30,151 --> 00:06:30,764
+programs.
+
+197
+00:06:30,944 --> 00:06:32,797
+So for players as a group,
+
+198
+00:06:32,797 --> 00:06:35,077
+the expected return is negative.
+
+199
+00:06:35,257 --> 00:06:36,573
+Someone has to win,
+
+200
+00:06:36,573 --> 00:06:39,067
+but the typical player loses most of
+
+201
+00:06:39,067 --> 00:06:40,175
+what they spend,
+
+202
+00:06:40,175 --> 00:06:41,283
+year after year.
+
+203
+00:06:41,633 --> 00:06:43,374
+Here's the uncomfortable part.
+
+204
+00:06:43,554 --> 00:06:46,272
+Studies have found that lower income households
+
+205
+00:06:46,272 --> 00:06:48,297
+often spend a larger share of their
+
+206
+00:06:48,297 --> 00:06:49,800
+income on lottery tickets.
+
+207
+00:06:49,980 --> 00:06:52,506
+The lottery sells hope most effectively to
+
+208
+00:06:52,506 --> 00:06:54,612
+people who feel they have few other
+
+209
+00:06:54,612 --> 00:06:54,973
+paths.
+
+210
+00:06:55,323 --> 00:06:57,250
+Try this: if you play for fun,
+
+211
+00:06:57,250 --> 00:06:59,498
+set a small monthly limit and treat
+
+212
+00:06:59,498 --> 00:07:00,783
+it as entertainment,
+
+213
+00:07:00,783 --> 00:07:02,068
+like a movie ticket.
+
+214
+00:07:02,248 --> 00:07:04,839
+And consider investing the same amount on
+
+215
+00:07:04,839 --> 00:07:05,534
+a schedule.
+
+216
+00:07:05,714 --> 00:07:08,149
+Twenty dollars a week invested for thirty
+
+217
+00:07:08,149 --> 00:07:10,465
+years at a seven percent average return
+
+218
+00:07:10,465 --> 00:07:12,959
+could grow to roughly one hundred thousand
+
+219
+00:07:12,959 --> 00:07:13,434
+dollars.
+
+220
+00:07:13,614 --> 00:07:14,752
+Not a jackpot.
+
+221
+00:07:14,932 --> 00:07:16,221
+But much more likely.
+
+222
+00:07:16,571 --> 00:07:17,906
+Scheme number four.
+
+223
+00:07:18,086 --> 00:07:19,731
+Day trading as a way to get
+
+224
+00:07:19,731 --> 00:07:20,036
+rich.
+
+225
+00:07:20,387 --> 00:07:23,358
+Day trading means buying and selling stocks,
+
+226
+00:07:23,358 --> 00:07:26,195
+options or currencies within the same day,
+
+227
+00:07:26,195 --> 00:07:28,897
+trying to profit from small price moves.
+
+228
+00:07:29,077 --> 00:07:31,301
+Apps have made it free and easy,
+
+229
+00:07:31,301 --> 00:07:34,013
+and social media is full of screenshots
+
+230
+00:07:34,013 --> 00:07:34,847
+of big wins.
+
+231
+00:07:35,027 --> 00:07:36,768
+But the research is sobering.
+
+232
+00:07:37,119 --> 00:07:39,548
+One well known study of day traders
+
+233
+00:07:39,548 --> 00:07:42,462
+in Brazil, by researchers Fernando Chague,
+
+234
+00:07:42,462 --> 00:07:45,169
+Rodrigo De Losso and Bruno Giovannetti,
+
+235
+00:07:45,169 --> 00:07:47,876
+followed people who day traded for more
+
+236
+00:07:47,876 --> 00:07:49,541
+than three hundred days.
+
+237
+00:07:49,721 --> 00:07:51,856
+They found that about ninety seven percent
+
+238
+00:07:51,856 --> 00:07:52,415
+lost money.
+
+239
+00:07:52,595 --> 00:07:54,632
+Only a tiny fraction earned more than
+
+240
+00:07:54,632 --> 00:07:56,008
+the minimum wage from it.
+
+241
+00:07:56,358 --> 00:07:57,774
+Why do most lose?
+
+242
+00:07:57,954 --> 00:08:01,622
+You're competing against professional firms with faster
+
+243
+00:08:01,622 --> 00:08:04,223
+computers, better data and lower costs.
+
+244
+00:08:04,403 --> 00:08:06,443
+Every trade can have costs,
+
+245
+00:08:06,443 --> 00:08:09,163
+like spreads and taxes on short term
+
+246
+00:08:09,163 --> 00:08:09,616
+gains.
+
+247
+00:08:09,796 --> 00:08:11,955
+And emotions, fear and greed,
+
+248
+00:08:11,955 --> 00:08:14,487
+make people sell low and buy high.
+
+249
+00:08:14,667 --> 00:08:16,825
+Day trading is a contest where most
+
+250
+00:08:16,825 --> 00:08:18,243
+players are outmatched.
+
+251
+00:08:18,593 --> 00:08:20,493
+Try this: if you want to learn
+
+252
+00:08:20,493 --> 00:08:23,026
+about markets, start with a small amount
+
+253
+00:08:23,026 --> 00:08:24,483
+you can afford to lose,
+
+254
+00:08:24,483 --> 00:08:26,637
+and keep your real long term money
+
+255
+00:08:26,637 --> 00:08:28,600
+in diversified, low cost funds.
+
+256
+00:08:28,780 --> 00:08:30,592
+Separate the hobby from the plan.
+
+257
+00:08:30,942 --> 00:08:33,196
+In a study of Brazilian day traders
+
+258
+00:08:33,196 --> 00:08:35,901
+who persisted for over three hundred days,
+
+259
+00:08:35,901 --> 00:08:38,349
+about ninety seven percent lost money.
+
+260
+00:08:38,699 --> 00:08:39,918
+Scheme number five.
+
+261
+00:08:40,098 --> 00:08:41,851
+Sports betting as income.
+
+262
+00:08:42,201 --> 00:08:45,413
+Since a twenty eighteen Supreme Court decision
+
+263
+00:08:45,413 --> 00:08:48,346
+allowed states to legalize sports betting,
+
+264
+00:08:48,346 --> 00:08:50,721
+it has exploded across much of the
+
+265
+00:08:50,721 --> 00:08:51,280
+country.
+
+266
+00:08:51,460 --> 00:08:53,070
+Apps offer promotions,
+
+267
+00:08:53,070 --> 00:08:54,755
+live bets during games,
+
+268
+00:08:54,755 --> 00:08:56,951
+and parlays with huge payouts.
+
+269
+00:08:57,131 --> 00:08:58,613
+Some people see it as a way
+
+270
+00:08:58,613 --> 00:09:00,423
+to make money from what they know
+
+271
+00:09:00,423 --> 00:09:01,137
+about sports.
+
+272
+00:09:01,487 --> 00:09:04,325
+But sportsbooks build an edge into the
+
+273
+00:09:04,325 --> 00:09:06,342
+odds, often called the vig,
+
+274
+00:09:06,342 --> 00:09:07,686
+or the house edge.
+
+275
+00:09:07,866 --> 00:09:09,704
+To break even on standard bets,
+
+276
+00:09:09,704 --> 00:09:11,483
+you need to win more than half
+
+277
+00:09:11,483 --> 00:09:12,847
+the time, consistently.
+
+278
+00:09:13,027 --> 00:09:14,918
+Very few people can do that over
+
+279
+00:09:14,918 --> 00:09:15,686
+the long run.
+
+280
+00:09:15,866 --> 00:09:18,554
+And sportsbooks can limit accounts that win
+
+281
+00:09:18,554 --> 00:09:19,117
+too much.
+
+282
+00:09:19,467 --> 00:09:22,623
+Researchers have begun studying the financial effects
+
+283
+00:09:22,623 --> 00:09:24,053
+of legal sports betting.
+
+284
+00:09:24,233 --> 00:09:26,984
+Some early studies found signs of higher
+
+285
+00:09:26,984 --> 00:09:29,805
+debt and financial stress in states after
+
+286
+00:09:29,805 --> 00:09:31,318
+betting was legalized,
+
+287
+00:09:31,318 --> 00:09:33,451
+particularly among younger men.
+
+288
+00:09:33,631 --> 00:09:35,834
+It's entertainment with a cost,
+
+289
+00:09:35,834 --> 00:09:37,184
+not an income plan.
+
+290
+00:09:37,534 --> 00:09:39,075
+Try this: if you bet,
+
+291
+00:09:39,075 --> 00:09:41,645
+set a strict monthly budget for it,
+
+292
+00:09:41,645 --> 00:09:43,333
+like any entertainment,
+
+293
+00:09:43,333 --> 00:09:45,022
+and never chase losses.
+
+294
+00:09:45,202 --> 00:09:47,754
+And if betting stops feeling like fun,
+
+295
+00:09:47,754 --> 00:09:50,372
+the national problem gambling helpline,
+
+296
+00:09:50,372 --> 00:09:52,118
+one eight hundred GAMBLER,
+
+297
+00:09:52,118 --> 00:09:54,200
+offers free, confidential help.
+
+298
+00:09:54,550 --> 00:09:55,885
+Those are the classics.
+
+299
+00:09:56,065 --> 00:09:58,514
+The modern ones use something more powerful
+
+300
+00:09:58,514 --> 00:09:59,083
+than math.
+
+301
+00:09:59,263 --> 00:10:00,854
+They use your emotions.
+
+302
+00:10:01,204 --> 00:10:02,121
+Angle two.
+
+303
+00:10:02,301 --> 00:10:03,415
+The psychology.
+
+304
+00:10:03,595 --> 00:10:05,865
+Five modern schemes built on hype,
+
+305
+00:10:05,865 --> 00:10:08,135
+gurus and the fear of missing out.
+
+306
+00:10:08,485 --> 00:10:09,947
+Scheme number six.
+
+307
+00:10:10,127 --> 00:10:11,254
+The pump and dump.
+
+308
+00:10:11,604 --> 00:10:12,961
+In a pump and dump,
+
+309
+00:10:12,961 --> 00:10:15,532
+promoters buy a cheap stock or coin,
+
+310
+00:10:15,532 --> 00:10:17,246
+then hype it everywhere.
+
+311
+00:10:17,426 --> 00:10:19,616
+Social media, chat groups,
+
+312
+00:10:19,616 --> 00:10:21,048
+paid influencers.
+
+313
+00:10:21,228 --> 00:10:23,387
+The price shoots up as new buyers
+
+314
+00:10:23,387 --> 00:10:23,910
+pile in.
+
+315
+00:10:24,090 --> 00:10:25,737
+Then the promoters sell,
+
+316
+00:10:25,737 --> 00:10:27,109
+or dump, at the top.
+
+317
+00:10:27,289 --> 00:10:28,323
+The price crashes,
+
+318
+00:10:28,323 --> 00:10:30,910
+and the latecomers are left holding something
+
+319
+00:10:30,910 --> 00:10:31,944
+worth very little.
+
+320
+00:10:32,295 --> 00:10:34,631
+This used to happen with penny stocks
+
+321
+00:10:34,631 --> 00:10:36,904
+through phone calls and spam emails.
+
+322
+00:10:37,084 --> 00:10:39,854
+Today it happens with small crypto tokens
+
+323
+00:10:39,854 --> 00:10:42,894
+and thinly traded stocks through social media
+
+324
+00:10:42,894 --> 00:10:44,178
+and messaging apps.
+
+325
+00:10:44,358 --> 00:10:47,331
+The Securities and Exchange Commission has brought
+
+326
+00:10:47,331 --> 00:10:50,186
+many cases against people running these schemes.
+
+327
+00:10:50,536 --> 00:10:53,067
+The psychology is fear of missing out.
+
+328
+00:10:53,247 --> 00:10:54,554
+You see the price rising,
+
+329
+00:10:54,554 --> 00:10:55,966
+you see people celebrating,
+
+330
+00:10:55,966 --> 00:10:57,692
+and you jump in because you don't
+
+331
+00:10:57,692 --> 00:10:59,208
+want to be the one who missed
+
+332
+00:10:59,208 --> 00:10:59,365
+it.
+
+333
+00:10:59,545 --> 00:11:01,769
+But by the time something is everywhere,
+
+334
+00:11:01,769 --> 00:11:03,994
+the early buyers are often getting ready
+
+335
+00:11:03,994 --> 00:11:04,828
+to sell to you.
+
+336
+00:11:05,178 --> 00:11:07,479
+Try this: if someone is urging you
+
+337
+00:11:07,479 --> 00:11:09,307
+to buy something right now,
+
+338
+00:11:09,307 --> 00:11:10,390
+before it moons,
+
+339
+00:11:10,390 --> 00:11:12,353
+ask, why are they telling me?
+
+340
+00:11:12,533 --> 00:11:13,841
+If they already own it,
+
+341
+00:11:13,841 --> 00:11:15,319
+they benefit when you buy.
+
+342
+00:11:15,499 --> 00:11:16,630
+That's a conflict,
+
+343
+00:11:16,630 --> 00:11:18,390
+and sometimes it's a scheme.
+
+344
+00:11:18,740 --> 00:11:20,005
+Scheme number seven.
+
+345
+00:11:20,185 --> 00:11:21,369
+Joining a mania.
+
+346
+00:11:21,720 --> 00:11:23,960
+Manias aren't always scams.
+
+347
+00:11:24,140 --> 00:11:27,363
+Sometimes there's a real technology or asset
+
+348
+00:11:27,363 --> 00:11:28,169
+underneath.
+
+349
+00:11:28,349 --> 00:11:31,028
+But when prices rise mostly because people
+
+350
+00:11:31,028 --> 00:11:32,751
+expect them to keep rising,
+
+351
+00:11:32,751 --> 00:11:34,409
+it can turn into a bubble.
+
+352
+00:11:34,589 --> 00:11:36,357
+History is full of them,
+
+353
+00:11:36,357 --> 00:11:39,376
+from tulip bulbs in the sixteen hundreds,
+
+354
+00:11:39,376 --> 00:11:42,174
+to dot com stocks around two thousand,
+
+355
+00:11:42,174 --> 00:11:44,605
+to the NFT craze of twenty twenty
+
+356
+00:11:44,605 --> 00:11:44,899
+one.
+
+357
+00:11:45,249 --> 00:11:46,694
+In twenty twenty one,
+
+358
+00:11:46,694 --> 00:11:48,483
+some digital collectibles,
+
+359
+00:11:48,483 --> 00:11:50,891
+NFTs, sold for millions of dollars.
+
+360
+00:11:51,071 --> 00:11:52,727
+Within a couple of years,
+
+361
+00:11:52,727 --> 00:11:55,575
+trading volumes had collapsed and many NFTs
+
+362
+00:11:55,575 --> 00:11:57,892
+were worth a tiny fraction of their
+
+363
+00:11:57,892 --> 00:11:58,687
+peak prices.
+
+364
+00:11:58,867 --> 00:12:00,879
+The people who bought near the top,
+
+365
+00:12:00,879 --> 00:12:03,179
+often with money they couldn't afford to
+
+366
+00:12:03,179 --> 00:12:04,788
+lose, took the biggest hits.
+
+367
+00:12:05,139 --> 00:12:08,018
+The psychological driver is social proof.
+
+368
+00:12:08,198 --> 00:12:10,687
+When everyone around you is making money,
+
+369
+00:12:10,687 --> 00:12:12,447
+it feels foolish not to join.
+
+370
+00:12:12,627 --> 00:12:15,405
+Your neighbor, your coworker and your cousin
+
+371
+00:12:15,405 --> 00:12:17,236
+are all bragging about gains.
+
+372
+00:12:17,416 --> 00:12:19,239
+Nobody brags about losses,
+
+373
+00:12:19,239 --> 00:12:21,062
+so you only hear one side.
+
+374
+00:12:21,412 --> 00:12:23,160
+Try this: when you hear about a
+
+375
+00:12:23,160 --> 00:12:25,303
+new thing that's making everyone rich,
+
+376
+00:12:25,303 --> 00:12:27,220
+write down the date and the price,
+
+377
+00:12:27,220 --> 00:12:29,701
+and wait three months before doing anything.
+
+378
+00:12:29,881 --> 00:12:31,950
+You'll learn more from watching than from
+
+379
+00:12:31,950 --> 00:12:32,505
+jumping in.
+
+380
+00:12:32,855 --> 00:12:33,958
+Scheme number eight.
+
+381
+00:12:34,138 --> 00:12:35,415
+The trading course.
+
+382
+00:12:35,765 --> 00:12:37,611
+You've seen the ads.
+
+383
+00:12:37,791 --> 00:12:39,980
+A young person with a sports car,
+
+384
+00:12:39,980 --> 00:12:41,373
+a beach and a laptop,
+
+385
+00:12:41,373 --> 00:12:44,292
+promising to teach you their trading system.
+
+386
+00:12:44,472 --> 00:12:45,881
+For a few hundred or a few
+
+387
+00:12:45,881 --> 00:12:48,211
+thousand dollars, you can learn the secret.
+
+388
+00:12:48,391 --> 00:12:51,012
+Often with a monthly membership for signals
+
+389
+00:12:51,012 --> 00:12:52,535
+and a private chat group.
+
+390
+00:12:52,886 --> 00:12:54,441
+Here's the question to ask.
+
+391
+00:12:54,621 --> 00:12:56,691
+If the system reliably made lots of
+
+392
+00:12:56,691 --> 00:12:58,464
+money, why would they sell it?
+
+393
+00:12:58,644 --> 00:12:59,826
+The honest answer,
+
+394
+00:12:59,826 --> 00:13:00,746
+in many cases,
+
+395
+00:13:00,746 --> 00:13:03,044
+is that the course is the business.
+
+396
+00:13:03,224 --> 00:13:06,461
+Selling courses to thousands of people produces
+
+397
+00:13:06,461 --> 00:13:10,318
+steady income, while trading produces uncertain results.
+
+398
+00:13:10,668 --> 00:13:13,856
+Regulators have taken action against some trading
+
+399
+00:13:13,856 --> 00:13:16,914
+educators for misleading claims about earnings.
+
+400
+00:13:17,094 --> 00:13:19,073
+And the lifestyle in the ads is
+
+401
+00:13:19,073 --> 00:13:20,159
+sometimes rented.
+
+402
+00:13:20,339 --> 00:13:21,496
+The car, the house,
+
+403
+00:13:21,496 --> 00:13:22,835
+the private jet photo.
+
+404
+00:13:23,015 --> 00:13:24,478
+The goal is to make you feel
+
+405
+00:13:24,478 --> 00:13:25,627
+that success is close,
+
+406
+00:13:25,627 --> 00:13:27,247
+and that the course is the only
+
+407
+00:13:27,247 --> 00:13:28,135
+thing in the way.
+
+408
+00:13:28,485 --> 00:13:31,369
+Try this: before buying any course that
+
+409
+00:13:31,369 --> 00:13:34,772
+promises income, search the person's name with
+
+410
+00:13:34,772 --> 00:13:36,325
+words like complaint,
+
+411
+00:13:36,325 --> 00:13:37,657
+lawsuit or refund.
+
+412
+00:13:37,837 --> 00:13:40,743
+And remember, real investing education,
+
+413
+00:13:40,743 --> 00:13:42,680
+like how index funds work,
+
+414
+00:13:42,680 --> 00:13:45,586
+is available for free from sources like
+
+415
+00:13:45,586 --> 00:13:48,344
+the SEC's investor education website.
+
+416
+00:13:48,694 --> 00:13:49,855
+Scheme number nine.
+
+417
+00:13:50,035 --> 00:13:51,230
+The free seminar.
+
+418
+00:13:51,581 --> 00:13:53,723
+Free real estate seminars,
+
+419
+00:13:53,723 --> 00:13:55,536
+free wealth workshops,
+
+420
+00:13:55,536 --> 00:13:56,608
+free dinners.
+
+421
+00:13:56,788 --> 00:13:58,866
+They usually end with an upsell.
+
+422
+00:13:59,046 --> 00:14:00,584
+A mentoring program,
+
+423
+00:14:00,584 --> 00:14:03,662
+an advanced course or a coaching package
+
+424
+00:14:03,662 --> 00:14:05,508
+that can cost thousands,
+
+425
+00:14:05,508 --> 00:14:08,508
+sometimes tens of thousands of dollars.
+
+426
+00:14:08,688 --> 00:14:10,348
+The free event is the funnel.
+
+427
+00:14:10,699 --> 00:14:13,217
+The most famous example may be Trump
+
+428
+00:14:13,217 --> 00:14:16,715
+University, which offered real estate seminars and
+
+429
+00:14:16,715 --> 00:14:18,744
+expensive mentoring packages.
+
+430
+00:14:18,924 --> 00:14:20,206
+Former students sued,
+
+431
+00:14:20,206 --> 00:14:21,670
+saying they were misled,
+
+432
+00:14:21,670 --> 00:14:23,927
+and in twenty sixteen a settlement of
+
+433
+00:14:23,927 --> 00:14:26,367
+twenty five million dollars was reached,
+
+434
+00:14:26,367 --> 00:14:28,503
+without an admission of wrongdoing.
+
+435
+00:14:28,683 --> 00:14:31,634
+Many other seminar companies have faced similar
+
+436
+00:14:31,634 --> 00:14:33,454
+complaints and legal actions.
+
+437
+00:14:33,805 --> 00:14:37,248
+Seminars use a powerful set of persuasion
+
+438
+00:14:37,248 --> 00:14:37,752
+tools.
+
+439
+00:14:37,932 --> 00:14:39,997
+Free food creates a feeling that you
+
+440
+00:14:39,997 --> 00:14:40,800
+owe something.
+
+441
+00:14:40,980 --> 00:14:43,499
+Limited time discounts create urgency.
+
+442
+00:14:43,679 --> 00:14:46,338
+Success stories create social proof.
+
+443
+00:14:46,518 --> 00:14:48,642
+And the high price itself makes the
+
+444
+00:14:48,642 --> 00:14:49,978
+product feel valuable.
+
+445
+00:14:50,328 --> 00:14:52,376
+Try this: go to any free seminar
+
+446
+00:14:52,376 --> 00:14:54,681
+with your credit cards left at home.
+
+447
+00:14:54,861 --> 00:14:56,998
+Take notes, then wait at least a
+
+448
+00:14:56,998 --> 00:14:58,867
+week before buying anything.
+
+449
+00:14:59,047 --> 00:15:00,606
+If it's truly valuable,
+
+450
+00:15:00,606 --> 00:15:02,437
+it will still be available.
+
+451
+00:15:02,787 --> 00:15:03,878
+Scheme number ten.
+
+452
+00:15:04,058 --> 00:15:06,229
+The easy passive income business.
+
+453
+00:15:06,579 --> 00:15:08,926
+Dropshipping, print on demand,
+
+454
+00:15:08,926 --> 00:15:10,804
+automated online stores,
+
+455
+00:15:10,804 --> 00:15:13,777
+affiliate empires, YouTube automation.
+
+456
+00:15:13,957 --> 00:15:15,833
+Sellers promise that you can set it
+
+457
+00:15:15,833 --> 00:15:17,602
+up once and earn while you sleep.
+
+458
+00:15:17,782 --> 00:15:21,037
+Some people really do build real businesses
+
+459
+00:15:21,037 --> 00:15:21,718
+this way.
+
+460
+00:15:21,898 --> 00:15:23,743
+But it's almost never fast,
+
+461
+00:15:23,743 --> 00:15:24,835
+easy or passive.
+
+462
+00:15:25,186 --> 00:15:27,866
+Real online businesses need marketing,
+
+463
+00:15:27,866 --> 00:15:30,265
+customer service, product quality,
+
+464
+00:15:30,265 --> 00:15:32,593
+returns, and constant adjustment.
+
+465
+00:15:32,773 --> 00:15:35,431
+Advertising costs can eat the profits.
+
+466
+00:15:35,611 --> 00:15:37,004
+Competition is fierce,
+
+467
+00:15:37,004 --> 00:15:39,473
+because the same course taught the same
+
+468
+00:15:39,473 --> 00:15:42,005
+strategy to thousands of other people at
+
+469
+00:15:42,005 --> 00:15:42,891
+the same time.
+
+470
+00:15:43,241 --> 00:15:45,609
+The scheme isn't the business model itself.
+
+471
+00:15:45,789 --> 00:15:47,762
+It's the promise that it's easy,
+
+472
+00:15:47,762 --> 00:15:50,229
+and the expensive course or software you
+
+473
+00:15:50,229 --> 00:15:51,339
+need to buy first.
+
+474
+00:15:51,519 --> 00:15:54,331
+The people reliably earning passive income are
+
+475
+00:15:54,331 --> 00:15:56,348
+often the ones selling the dream.
+
+476
+00:15:56,699 --> 00:15:58,803
+Try this: if you want to start
+
+477
+00:15:58,803 --> 00:16:00,136
+an online business,
+
+478
+00:16:00,136 --> 00:16:01,679
+start small and cheap.
+
+479
+00:16:01,859 --> 00:16:04,232
+Test one idea with your own effort
+
+480
+00:16:04,232 --> 00:16:06,954
+and a small budget before paying anyone
+
+481
+00:16:06,954 --> 00:16:07,862
+for a system.
+
+482
+00:16:08,042 --> 00:16:10,495
+Real businesses grow from real customers,
+
+483
+00:16:10,495 --> 00:16:11,931
+not from course modules.
+
+484
+00:16:12,281 --> 00:16:13,326
+Quick pause.
+
+485
+00:16:13,506 --> 00:16:15,785
+If this video might protect someone you
+
+486
+00:16:15,785 --> 00:16:17,596
+love from one of these schemes,
+
+487
+00:16:17,596 --> 00:16:18,707
+share it with them.
+
+488
+00:16:18,887 --> 00:16:20,689
+And subscribe to the channel if it's
+
+489
+00:16:20,689 --> 00:16:21,290
+helping you.
+
+490
+00:16:21,470 --> 00:16:23,467
+It's free, and it helps me keep
+
+491
+00:16:23,467 --> 00:16:24,756
+making these videos.
+
+492
+00:16:24,936 --> 00:16:26,509
+Now, the newest scams,
+
+493
+00:16:26,509 --> 00:16:28,512
+and how to protect yourself.
+
+494
+00:16:28,862 --> 00:16:29,756
+Angle three.
+
+495
+00:16:29,936 --> 00:16:31,862
+Five scams of the internet age,
+
+496
+00:16:31,862 --> 00:16:33,976
+and the checklist that stops them.
+
+497
+00:16:34,326 --> 00:16:35,614
+Scheme number eleven.
+
+498
+00:16:35,794 --> 00:16:36,781
+Pig butchering.
+
+499
+00:16:37,131 --> 00:16:38,414
+The name is ugly,
+
+500
+00:16:38,414 --> 00:16:39,847
+and so is the scam.
+
+501
+00:16:40,027 --> 00:16:42,415
+It often starts with a wrong number
+
+502
+00:16:42,415 --> 00:16:44,394
+text, a dating app match or a
+
+503
+00:16:44,394 --> 00:16:46,645
+friendly message on social media.
+
+504
+00:16:46,825 --> 00:16:48,349
+Over weeks or months,
+
+505
+00:16:48,349 --> 00:16:50,163
+the scammer builds trust,
+
+506
+00:16:50,163 --> 00:16:51,469
+sometimes romance.
+
+507
+00:16:51,649 --> 00:16:53,938
+Then they mention how they've been making
+
+508
+00:16:53,938 --> 00:16:55,390
+money investing in crypto,
+
+509
+00:16:55,390 --> 00:16:56,618
+and offer to show you.
+
+510
+00:16:56,968 --> 00:16:59,119
+They direct you to a fake investment
+
+511
+00:16:59,119 --> 00:17:00,613
+platform that looks real.
+
+512
+00:17:00,793 --> 00:17:02,173
+You invest a little,
+
+513
+00:17:02,173 --> 00:17:04,450
+and the platform shows big gains.
+
+514
+00:17:04,630 --> 00:17:07,308
+You might even withdraw a small amount,
+
+515
+00:17:07,308 --> 00:17:08,613
+which builds trust.
+
+516
+00:17:08,793 --> 00:17:10,035
+So you invest more.
+
+517
+00:17:10,215 --> 00:17:12,708
+When you try to withdraw the larger
+
+518
+00:17:12,708 --> 00:17:14,774
+sum, there are suddenly fees,
+
+519
+00:17:14,774 --> 00:17:15,985
+taxes or excuses.
+
+520
+00:17:16,165 --> 00:17:17,941
+Then the person disappears.
+
+521
+00:17:18,292 --> 00:17:21,377
+The FBI's Internet Crime Complaint Center has
+
+522
+00:17:21,377 --> 00:17:23,503
+reported that investment fraud,
+
+523
+00:17:23,503 --> 00:17:25,971
+much of it involving cryptocurrency,
+
+524
+00:17:25,971 --> 00:17:29,056
+causes billions of dollars in reported losses
+
+525
+00:17:29,056 --> 00:17:31,525
+every year, more than any other type
+
+526
+00:17:31,525 --> 00:17:32,827
+of crime it tracks.
+
+527
+00:17:33,007 --> 00:17:35,996
+Victims include people of every age and
+
+528
+00:17:35,996 --> 00:17:37,222
+education level.
+
+529
+00:17:37,572 --> 00:17:40,182
+Try this: never invest through a platform
+
+530
+00:17:40,182 --> 00:17:43,110
+recommended by someone you've only met online,
+
+531
+00:17:43,110 --> 00:17:45,211
+no matter how long you've talked.
+
+532
+00:17:45,391 --> 00:17:47,698
+Never send money to someone you haven't
+
+533
+00:17:47,698 --> 00:17:48,526
+met in person.
+
+534
+00:17:48,706 --> 00:17:50,930
+And if you've been targeted,
+
+535
+00:17:50,930 --> 00:17:53,710
+report it at the FBI's IC3 website.
+
+536
+00:17:54,060 --> 00:17:55,337
+Scheme number twelve.
+
+537
+00:17:55,517 --> 00:17:56,956
+The AI trading bot.
+
+538
+00:17:57,307 --> 00:18:00,108
+Every new technology brings new scams that
+
+539
+00:18:00,108 --> 00:18:00,975
+use its name.
+
+540
+00:18:01,155 --> 00:18:03,605
+Today, it's artificial intelligence.
+
+541
+00:18:03,785 --> 00:18:06,138
+Ads promise an AI trading bot that
+
+542
+00:18:06,138 --> 00:18:08,284
+makes guaranteed daily profits,
+
+543
+00:18:08,284 --> 00:18:11,053
+or a quantum algorithm that never loses.
+
+544
+00:18:11,233 --> 00:18:14,440
+Regulators, including the SEC and the Commodity
+
+545
+00:18:14,440 --> 00:18:16,283
+Futures Trading Commission,
+
+546
+00:18:16,283 --> 00:18:19,081
+have warned investors about these claims.
+
+547
+00:18:19,432 --> 00:18:21,712
+Some of these are simply Ponzi schemes
+
+548
+00:18:21,712 --> 00:18:22,973
+with modern branding.
+
+549
+00:18:23,153 --> 00:18:25,534
+Others are fake platforms that never invest
+
+550
+00:18:25,534 --> 00:18:26,531
+your money at all.
+
+551
+00:18:26,711 --> 00:18:29,797
+Many use deepfake videos of celebrities or
+
+552
+00:18:29,797 --> 00:18:32,957
+famous investors appearing to endorse them.
+
+553
+00:18:33,308 --> 00:18:34,923
+The truth is that if an AI
+
+554
+00:18:34,923 --> 00:18:37,658
+system reliably produced guaranteed profits,
+
+555
+00:18:37,658 --> 00:18:39,771
+its owners would have no reason to
+
+556
+00:18:39,771 --> 00:18:41,511
+sell it to you for a monthly
+
+557
+00:18:41,511 --> 00:18:41,760
+fee.
+
+558
+00:18:41,940 --> 00:18:44,362
+Big financial firms do use algorithms,
+
+559
+00:18:44,362 --> 00:18:46,466
+but they don't guarantee profits,
+
+560
+00:18:46,466 --> 00:18:49,080
+and they don't advertise on social media.
+
+561
+00:18:49,430 --> 00:18:51,897
+Try this: whenever you see the words
+
+562
+00:18:51,897 --> 00:18:54,091
+guaranteed and returns together,
+
+563
+00:18:54,091 --> 00:18:54,433
+stop.
+
+564
+00:18:54,613 --> 00:18:57,484
+Legitimate investments always carry risk,
+
+565
+00:18:57,484 --> 00:18:59,165
+and honest firms say so.
+
+566
+00:18:59,515 --> 00:19:01,105
+Scheme number thirteen.
+
+567
+00:19:01,285 --> 00:19:03,572
+The guaranteed high yield investment.
+
+568
+00:19:03,923 --> 00:19:06,430
+This scheme often targets retirees.
+
+569
+00:19:06,610 --> 00:19:08,033
+A promissory note,
+
+570
+00:19:08,033 --> 00:19:10,801
+a private fund or a special program
+
+571
+00:19:10,801 --> 00:19:13,726
+that promises ten or twelve percent a
+
+572
+00:19:13,726 --> 00:19:16,177
+year, guaranteed, with no risk.
+
+573
+00:19:16,357 --> 00:19:18,951
+It's often sold by a friendly agent,
+
+574
+00:19:18,951 --> 00:19:19,816
+at a church,
+
+575
+00:19:19,816 --> 00:19:22,626
+a club, or through a trusted community.
+
+576
+00:19:22,977 --> 00:19:26,046
+The SEC and state securities regulators have
+
+577
+00:19:26,046 --> 00:19:29,464
+repeatedly warned about promissory note fraud and
+
+578
+00:19:29,464 --> 00:19:31,208
+unregistered investments.
+
+579
+00:19:31,388 --> 00:19:34,048
+Often, the investment isn't registered,
+
+580
+00:19:34,048 --> 00:19:35,821
+the seller isn't licensed,
+
+581
+00:19:35,821 --> 00:19:38,071
+and the returns are paid from new
+
+582
+00:19:38,071 --> 00:19:41,140
+investors' money, a Ponzi scheme in disguise.
+
+583
+00:19:41,491 --> 00:19:44,454
+Try this: before investing in anything,
+
+584
+00:19:44,454 --> 00:19:47,569
+check the seller on FINRA BrokerCheck and
+
+585
+00:19:47,569 --> 00:19:51,749
+the SEC's Investment Adviser Public Disclosure website,
+
+586
+00:19:51,749 --> 00:19:52,508
+both free.
+
+587
+00:19:52,688 --> 00:19:55,497
+And check whether the investment is registered
+
+588
+00:19:55,497 --> 00:19:57,755
+with the SEC or your state securities
+
+589
+00:19:57,755 --> 00:19:58,366
+regulator.
+
+590
+00:19:58,716 --> 00:20:00,150
+And remember that safe,
+
+591
+00:20:00,150 --> 00:20:02,958
+insured products already exist for people who
+
+592
+00:20:02,958 --> 00:20:03,894
+want stability.
+
+593
+00:20:04,074 --> 00:20:07,799
+Treasury bonds, FDIC insured savings accounts and
+
+594
+00:20:07,799 --> 00:20:09,623
+certificates of deposit.
+
+595
+00:20:09,803 --> 00:20:11,963
+They won't pay ten percent guaranteed.
+
+596
+00:20:12,143 --> 00:20:13,605
+That's exactly the point.
+
+597
+00:20:13,785 --> 00:20:16,433
+Real safety comes with modest returns.
+
+598
+00:20:16,613 --> 00:20:19,024
+If someone offers both high returns and
+
+599
+00:20:19,024 --> 00:20:22,302
+total safety, they're offering something that doesn't
+
+600
+00:20:22,302 --> 00:20:22,673
+exist.
+
+601
+00:20:23,023 --> 00:20:24,509
+Scheme number fourteen.
+
+602
+00:20:24,689 --> 00:20:27,173
+Gifting circles and blessing looms.
+
+603
+00:20:27,524 --> 00:20:30,200
+These schemes spread through friends and social
+
+604
+00:20:30,200 --> 00:20:30,542
+media.
+
+605
+00:20:30,722 --> 00:20:31,708
+You give money,
+
+606
+00:20:31,708 --> 00:20:34,336
+say one hundred or one thousand dollars,
+
+607
+00:20:34,336 --> 00:20:36,241
+to someone at the center of a
+
+608
+00:20:36,241 --> 00:20:36,701
+circle.
+
+609
+00:20:36,881 --> 00:20:38,257
+Then you recruit others,
+
+610
+00:20:38,257 --> 00:20:40,378
+and eventually you move to the center
+
+611
+00:20:40,378 --> 00:20:42,613
+and receive gifts worth many times what
+
+612
+00:20:42,613 --> 00:20:43,244
+you put in.
+
+613
+00:20:43,594 --> 00:20:45,774
+It's a pyramid scheme dressed up as
+
+614
+00:20:45,774 --> 00:20:47,332
+community and generosity.
+
+615
+00:20:47,512 --> 00:20:49,338
+The math is the same as scheme
+
+616
+00:20:49,338 --> 00:20:50,008
+number two.
+
+617
+00:20:50,188 --> 00:20:52,380
+The circles need endless new members,
+
+618
+00:20:52,380 --> 00:20:54,453
+and most people who join lose their
+
+619
+00:20:54,453 --> 00:20:54,809
+money.
+
+620
+00:20:54,989 --> 00:20:57,262
+Regulators have warned that calling it a
+
+621
+00:20:57,262 --> 00:20:58,797
+gift doesn't make it legal.
+
+622
+00:20:59,147 --> 00:21:02,054
+Try this: if an opportunity requires you
+
+623
+00:21:02,054 --> 00:21:04,234
+to recruit others to get paid,
+
+624
+00:21:04,234 --> 00:21:07,069
+and there's no real product being sold,
+
+625
+00:21:07,069 --> 00:21:07,796
+walk away.
+
+626
+00:21:07,976 --> 00:21:10,140
+And gently warn the friend who invited
+
+627
+00:21:10,140 --> 00:21:10,368
+you.
+
+628
+00:21:10,548 --> 00:21:11,964
+They may be a victim too.
+
+629
+00:21:12,314 --> 00:21:15,100
+These circles can also damage friendships for
+
+630
+00:21:15,100 --> 00:21:15,471
+years.
+
+631
+00:21:15,651 --> 00:21:17,223
+When the circle collapses,
+
+632
+00:21:17,223 --> 00:21:19,882
+the people who recruited their friends often
+
+633
+00:21:19,882 --> 00:21:21,816
+feel responsible for the losses.
+
+634
+00:21:21,996 --> 00:21:23,107
+The money is gone,
+
+635
+00:21:23,107 --> 00:21:24,342
+and so is the trust.
+
+636
+00:21:24,522 --> 00:21:26,847
+It's one more reason why schemes that
+
+637
+00:21:26,847 --> 00:21:28,922
+run on friendship are so harmful.
+
+638
+00:21:29,272 --> 00:21:30,816
+Scheme number fifteen.
+
+639
+00:21:30,996 --> 00:21:32,203
+The recovery scam.
+
+640
+00:21:32,553 --> 00:21:34,236
+This is one of the cruelest.
+
+641
+00:21:34,416 --> 00:21:36,755
+After someone loses money to a scam,
+
+642
+00:21:36,755 --> 00:21:39,418
+they're contacted by a person claiming to
+
+643
+00:21:39,418 --> 00:21:40,198
+be a lawyer,
+
+644
+00:21:40,198 --> 00:21:42,926
+an investigator or even a government agent
+
+645
+00:21:42,926 --> 00:21:44,745
+who can recover their money,
+
+646
+00:21:44,745 --> 00:21:45,980
+for an upfront fee.
+
+647
+00:21:46,160 --> 00:21:47,851
+It's often the same scammers,
+
+648
+00:21:47,851 --> 00:21:48,901
+or their partners,
+
+649
+00:21:48,901 --> 00:21:50,943
+targeting the victim a second time.
+
+650
+00:21:51,293 --> 00:21:53,665
+The FTC and FBI have warned that
+
+651
+00:21:53,665 --> 00:21:57,447
+legitimate government agencies don't charge fees to
+
+652
+00:21:57,447 --> 00:21:58,856
+recover lost money,
+
+653
+00:21:58,856 --> 00:22:01,822
+and won't contact you asking for payment
+
+654
+00:22:01,822 --> 00:22:02,860
+in gift cards,
+
+655
+00:22:02,860 --> 00:22:04,714
+crypto or wire transfers.
+
+656
+00:22:05,064 --> 00:22:08,147
+Try this: if you've lost money to
+
+657
+00:22:08,147 --> 00:22:11,231
+a scam, report it directly to the
+
+658
+00:22:11,231 --> 00:22:14,128
+FTC at report fraud dot FTC dot
+
+659
+00:22:14,128 --> 00:22:16,557
+gov, and to the FBI's IC3.
+
+660
+00:22:16,737 --> 00:22:18,943
+Contact your bank immediately.
+
+661
+00:22:19,123 --> 00:22:21,661
+And be extremely skeptical of anyone who
+
+662
+00:22:21,661 --> 00:22:23,946
+contacts you offering to get it back
+
+663
+00:22:23,946 --> 00:22:24,580
+for a fee.
+
+664
+00:22:24,930 --> 00:22:26,604
+And if you've been scammed,
+
+665
+00:22:26,604 --> 00:22:27,658
+please know this.
+
+666
+00:22:27,838 --> 00:22:29,524
+It is not your fault that someone
+
+667
+00:22:29,524 --> 00:22:30,137
+lied to you.
+
+668
+00:22:30,317 --> 00:22:33,041
+Scammers are professionals who do this all
+
+669
+00:22:33,041 --> 00:22:33,300
+day.
+
+670
+00:22:33,480 --> 00:22:37,098
+Reporting helps investigators find patterns and sometimes
+
+671
+00:22:37,098 --> 00:22:39,701
+recover money, and talking about it helps
+
+672
+00:22:39,701 --> 00:22:41,224
+protect the next person.
+
+673
+00:22:41,575 --> 00:22:44,006
+Here's the checklist that catches nearly every
+
+674
+00:22:44,006 --> 00:22:45,116
+scheme in this video.
+
+675
+00:22:45,296 --> 00:22:46,608
+Ten red flags.
+
+676
+00:22:46,788 --> 00:22:48,721
+If you see two or more,
+
+677
+00:22:48,721 --> 00:22:49,562
+walk away.
+
+678
+00:22:49,913 --> 00:22:50,830
+Red flag one.
+
+679
+00:22:51,010 --> 00:22:53,835
+Guaranteed high returns with little or no
+
+680
+00:22:53,835 --> 00:22:54,179
+risk.
+
+681
+00:22:54,359 --> 00:22:55,532
+Red flag two.
+
+682
+00:22:55,712 --> 00:22:57,233
+Pressure to act right now.
+
+683
+00:22:57,413 --> 00:22:58,713
+Red flag three.
+
+684
+00:22:58,893 --> 00:23:01,424
+You make money mainly by recruiting others.
+
+685
+00:23:01,604 --> 00:23:02,765
+Red flag four.
+
+686
+00:23:02,945 --> 00:23:04,575
+Payment by gift card,
+
+687
+00:23:04,575 --> 00:23:07,368
+wire transfer or crypto to a person.
+
+688
+00:23:07,719 --> 00:23:08,914
+Red flag five.
+
+689
+00:23:09,094 --> 00:23:11,399
+The seller isn't registered or licensed,
+
+690
+00:23:11,399 --> 00:23:13,645
+and you can't find them on BrokerCheck.
+
+691
+00:23:13,825 --> 00:23:15,195
+Red flag six.
+
+692
+00:23:15,375 --> 00:23:17,909
+Returns that are suspiciously smooth,
+
+693
+00:23:17,909 --> 00:23:18,731
+every month.
+
+694
+00:23:18,911 --> 00:23:20,118
+Red flag seven.
+
+695
+00:23:20,298 --> 00:23:22,292
+You can't clearly explain how the money
+
+696
+00:23:22,292 --> 00:23:22,701
+is made.
+
+697
+00:23:23,052 --> 00:23:24,201
+Red flag eight.
+
+698
+00:23:24,381 --> 00:23:26,512
+You were contacted out of the blue,
+
+699
+00:23:26,512 --> 00:23:27,609
+especially online.
+
+700
+00:23:27,789 --> 00:23:28,915
+Red flag nine.
+
+701
+00:23:29,095 --> 00:23:31,928
+Celebrity endorsements you can't verify.
+
+702
+00:23:32,108 --> 00:23:33,361
+And red flag ten.
+
+703
+00:23:33,541 --> 00:23:35,551
+Fees appear when you try to withdraw
+
+704
+00:23:35,551 --> 00:23:36,165
+your money.
+
+705
+00:23:36,345 --> 00:23:37,873
+If you see any of these,
+
+706
+00:23:37,873 --> 00:23:40,037
+stop and talk to someone you trust
+
+707
+00:23:40,037 --> 00:23:42,011
+before sending a single dollar.
+
+708
+00:23:42,361 --> 00:23:43,881
+Guaranteed returns.
+
+709
+00:23:44,061 --> 00:23:44,572
+Pressure.
+
+710
+00:23:44,752 --> 00:23:45,333
+Recruiting.
+
+711
+00:23:45,513 --> 00:23:47,382
+Gift cards or crypto.
+
+712
+00:23:47,562 --> 00:23:48,793
+Unlicensed seller.
+
+713
+00:23:48,973 --> 00:23:50,273
+Smooth returns.
+
+714
+00:23:50,453 --> 00:23:51,475
+Unclear model.
+
+715
+00:23:51,655 --> 00:23:53,129
+Unsolicited contact.
+
+716
+00:23:53,309 --> 00:23:54,551
+Fake celebrities.
+
+717
+00:23:54,731 --> 00:23:55,869
+Withdrawal fees.
+
+718
+00:23:56,220 --> 00:23:58,229
+So if get rich quick doesn't work,
+
+719
+00:23:58,229 --> 00:23:58,820
+what does?
+
+720
+00:23:59,000 --> 00:24:00,370
+The answer is boring.
+
+721
+00:24:00,550 --> 00:24:02,373
+And that's exactly why it works.
+
+722
+00:24:02,723 --> 00:24:03,895
+Get rich slowly.
+
+723
+00:24:04,075 --> 00:24:05,422
+Spend less than you earn.
+
+724
+00:24:05,602 --> 00:24:07,181
+Build an emergency fund.
+
+725
+00:24:07,361 --> 00:24:08,975
+Avoid high interest debt.
+
+726
+00:24:09,155 --> 00:24:11,812
+Invest consistently in diversified,
+
+727
+00:24:11,812 --> 00:24:12,951
+low cost funds,
+
+728
+00:24:12,951 --> 00:24:14,925
+and hold them for decades.
+
+729
+00:24:15,105 --> 00:24:17,876
+Increase your income through skills and career
+
+730
+00:24:17,876 --> 00:24:18,298
+growth.
+
+731
+00:24:18,478 --> 00:24:19,813
+None of it is exciting.
+
+732
+00:24:19,993 --> 00:24:22,111
+All of it is available to ordinary
+
+733
+00:24:22,111 --> 00:24:22,547
+people.
+
+734
+00:24:22,897 --> 00:24:24,693
+Five hundred dollars a month,
+
+735
+00:24:24,693 --> 00:24:27,296
+invested at a seven percent average yearly
+
+736
+00:24:27,296 --> 00:24:28,783
+return for thirty years.
+
+737
+00:24:28,963 --> 00:24:31,246
+You'd put in one hundred eighty thousand
+
+738
+00:24:31,246 --> 00:24:31,703
+dollars.
+
+739
+00:24:31,883 --> 00:24:33,307
+That's the slow path,
+
+740
+00:24:33,307 --> 00:24:35,681
+and it's far more reliable than any
+
+741
+00:24:35,681 --> 00:24:36,155
+scheme.
+
+742
+00:24:36,506 --> 00:24:38,057
+That's an illustration,
+
+743
+00:24:38,057 --> 00:24:39,002
+not a promise.
+
+744
+00:24:39,182 --> 00:24:40,710
+Markets go up and down,
+
+745
+00:24:40,710 --> 00:24:42,305
+and there are bad years.
+
+746
+00:24:42,485 --> 00:24:44,845
+But notice that this path doesn't need
+
+747
+00:24:44,845 --> 00:24:45,838
+you to be lucky,
+
+748
+00:24:45,838 --> 00:24:46,583
+to be early,
+
+749
+00:24:46,583 --> 00:24:47,825
+or to find a secret.
+
+750
+00:24:48,005 --> 00:24:50,548
+It just needs time and consistency.
+
+751
+00:24:50,728 --> 00:24:52,898
+Every scheme in this video is selling
+
+752
+00:24:52,898 --> 00:24:55,186
+you a shortcut around those two things.
+
+753
+00:24:55,366 --> 00:24:56,190
+There isn't one.
+
+754
+00:24:56,541 --> 00:24:58,514
+Let's do some quick math on the
+
+755
+00:24:58,514 --> 00:25:00,042
+returns schemes promise,
+
+756
+00:25:00,042 --> 00:25:02,206
+because it exposes them instantly.
+
+757
+00:25:02,557 --> 00:25:04,820
+Many scams promise one percent a day.
+
+758
+00:25:05,000 --> 00:25:06,150
+It sounds modest.
+
+759
+00:25:06,330 --> 00:25:07,305
+One percent.
+
+760
+00:25:07,485 --> 00:25:09,511
+But compounded daily for a year,
+
+761
+00:25:09,511 --> 00:25:11,791
+one percent a day turns one thousand
+
+762
+00:25:11,791 --> 00:25:15,020
+dollars into roughly thirty seven thousand dollars.
+
+763
+00:25:15,200 --> 00:25:16,994
+If that were real and repeatable,
+
+764
+00:25:16,994 --> 00:25:19,006
+a few thousand dollars would make you
+
+765
+00:25:19,006 --> 00:25:20,854
+one of the richest people on Earth
+
+766
+00:25:20,854 --> 00:25:21,887
+within a few years.
+
+767
+00:25:22,067 --> 00:25:23,298
+That's how you know it isn't.
+
+768
+00:25:23,648 --> 00:25:27,039
+Charles Ponzi promised fifty percent in forty
+
+769
+00:25:27,039 --> 00:25:27,792
+five days.
+
+770
+00:25:27,972 --> 00:25:30,616
+Some modern schemes promise ten percent a
+
+771
+00:25:30,616 --> 00:25:31,003
+month.
+
+772
+00:25:31,183 --> 00:25:33,755
+Compare that with the long run average
+
+773
+00:25:33,755 --> 00:25:35,312
+of broad stock markets,
+
+774
+00:25:35,312 --> 00:25:37,613
+often cited at around seven to ten
+
+775
+00:25:37,613 --> 00:25:39,779
+percent a year before inflation,
+
+776
+00:25:39,779 --> 00:25:42,081
+with plenty of bad years along the
+
+777
+00:25:42,081 --> 00:25:42,351
+way.
+
+778
+00:25:42,531 --> 00:25:44,630
+When someone promises in a month what
+
+779
+00:25:44,630 --> 00:25:47,127
+the market historically delivered in a year,
+
+780
+00:25:47,127 --> 00:25:47,864
+with no risk,
+
+781
+00:25:47,864 --> 00:25:50,020
+the numbers are telling you the truth.
+
+782
+00:25:50,370 --> 00:25:52,703
+One percent a day sounds small.
+
+783
+00:25:52,883 --> 00:25:54,183
+Compounded for a year,
+
+784
+00:25:54,183 --> 00:25:56,488
+it would turn one thousand dollars into
+
+785
+00:25:56,488 --> 00:25:58,142
+about thirty seven thousand.
+
+786
+00:25:58,322 --> 00:26:00,575
+That's why no real investment offers it.
+
+787
+00:26:00,925 --> 00:26:02,213
+Here's a simple rule.
+
+788
+00:26:02,393 --> 00:26:04,664
+If the promised return is far above
+
+789
+00:26:04,664 --> 00:26:07,519
+what the broad stock market has historically
+
+790
+00:26:07,519 --> 00:26:09,855
+earned, and the seller says the risk
+
+791
+00:26:09,855 --> 00:26:10,829
+is low or zero,
+
+792
+00:26:10,829 --> 00:26:12,970
+one of those two claims is false.
+
+793
+00:26:13,150 --> 00:26:13,986
+Usually both.
+
+794
+00:26:14,336 --> 00:26:16,031
+Let's talk about why smart,
+
+795
+00:26:16,031 --> 00:26:18,794
+careful people still fall for these schemes.
+
+796
+00:26:18,974 --> 00:26:20,518
+It's not about intelligence.
+
+797
+00:26:20,868 --> 00:26:22,098
+First, trust.
+
+798
+00:26:22,278 --> 00:26:24,623
+Most schemes spread through people we trust.
+
+799
+00:26:24,803 --> 00:26:26,858
+A friend, a church member,
+
+800
+00:26:26,858 --> 00:26:29,071
+a coworker, a family member,
+
+801
+00:26:29,071 --> 00:26:32,154
+or someone we've been talking to online
+
+802
+00:26:32,154 --> 00:26:33,023
+for months.
+
+803
+00:26:33,203 --> 00:26:35,374
+Scammers call this affinity fraud.
+
+804
+00:26:35,554 --> 00:26:38,051
+They target communities where trust is high
+
+805
+00:26:38,051 --> 00:26:39,444
+and questions feel rude.
+
+806
+00:26:39,794 --> 00:26:41,071
+Second, stress.
+
+807
+00:26:41,251 --> 00:26:43,156
+People facing money problems,
+
+808
+00:26:43,156 --> 00:26:45,717
+retirement worries or a big life change
+
+809
+00:26:45,717 --> 00:26:47,885
+are more likely to take risks for
+
+810
+00:26:47,885 --> 00:26:48,739
+a big payoff.
+
+811
+00:26:48,919 --> 00:26:51,009
+Scammers look for those moments.
+
+812
+00:26:51,189 --> 00:26:52,733
+A layoff, a divorce,
+
+813
+00:26:52,733 --> 00:26:54,354
+the loss of a spouse,
+
+814
+00:26:54,354 --> 00:26:57,133
+or the fear that savings won't last.
+
+815
+00:26:57,484 --> 00:26:59,306
+Third, small wins.
+
+816
+00:26:59,486 --> 00:27:01,240
+Many schemes let you win early.
+
+817
+00:27:01,420 --> 00:27:03,769
+A small withdrawal that works,
+
+818
+00:27:03,769 --> 00:27:05,883
+a first trade that profits,
+
+819
+00:27:05,883 --> 00:27:07,997
+a few weeks of gains on the
+
+820
+00:27:07,997 --> 00:27:08,780
+dashboard.
+
+821
+00:27:08,960 --> 00:27:10,917
+Those wins create confidence,
+
+822
+00:27:10,917 --> 00:27:13,616
+and confidence leads to bigger deposits.
+
+823
+00:27:13,796 --> 00:27:14,841
+Fourth, shame.
+
+824
+00:27:15,021 --> 00:27:16,821
+Once people have lost money,
+
+825
+00:27:16,821 --> 00:27:18,236
+they often keep going,
+
+826
+00:27:18,236 --> 00:27:19,651
+hoping to win it back,
+
+827
+00:27:19,651 --> 00:27:22,416
+or stay silent because they're embarrassed.
+
+828
+00:27:22,596 --> 00:27:23,827
+Both help the scammer.
+
+829
+00:27:24,177 --> 00:27:26,487
+One last thought on what actually works.
+
+830
+00:27:26,667 --> 00:27:28,873
+The slow path has a hidden benefit.
+
+831
+00:27:29,053 --> 00:27:31,715
+It doesn't require you to watch screens,
+
+832
+00:27:31,715 --> 00:27:33,778
+chase tips, or trust strangers.
+
+833
+00:27:33,958 --> 00:27:36,378
+It runs quietly in the background while
+
+834
+00:27:36,378 --> 00:27:37,556
+you live your life,
+
+835
+00:27:37,556 --> 00:27:39,790
+work, and spend time with people you
+
+836
+00:27:39,790 --> 00:27:40,100
+love.
+
+837
+00:27:40,280 --> 00:27:42,122
+A scheme asks for your money and
+
+838
+00:27:42,122 --> 00:27:42,985
+your attention.
+
+839
+00:27:43,165 --> 00:27:45,421
+The slow path asks only for your
+
+840
+00:27:45,421 --> 00:27:46,056
+patience.
+
+841
+00:27:46,406 --> 00:27:47,588
+What if it's not you,
+
+842
+00:27:47,588 --> 00:27:49,614
+but someone you love who's caught in
+
+843
+00:27:49,614 --> 00:27:50,121
+a scheme?
+
+844
+00:27:50,301 --> 00:27:51,369
+Here's how to help,
+
+845
+00:27:51,369 --> 00:27:52,832
+without pushing them away.
+
+846
+00:27:53,182 --> 00:27:54,831
+Start with curiosity,
+
+847
+00:27:54,831 --> 00:27:55,852
+not judgment.
+
+848
+00:27:56,032 --> 00:27:57,146
+Ask questions.
+
+849
+00:27:57,326 --> 00:27:58,406
+How does it make money?
+
+850
+00:27:58,586 --> 00:28:00,026
+Have you been able to withdraw?
+
+851
+00:28:00,206 --> 00:28:01,645
+Who else is involved?
+
+852
+00:28:01,825 --> 00:28:04,245
+People defend their decisions when they feel
+
+853
+00:28:04,245 --> 00:28:04,740
+attacked.
+
+854
+00:28:04,920 --> 00:28:07,091
+They think more clearly when they're asked
+
+855
+00:28:07,091 --> 00:28:07,660
+to explain.
+
+856
+00:28:08,010 --> 00:28:09,635
+Then look things up together.
+
+857
+00:28:09,815 --> 00:28:12,205
+Search the company name with the word
+
+858
+00:28:12,205 --> 00:28:13,368
+scam or complaint.
+
+859
+00:28:13,548 --> 00:28:16,671
+Check BrokerCheck and the SEC's website.
+
+860
+00:28:16,851 --> 00:28:18,592
+Look for regulator warnings.
+
+861
+00:28:18,772 --> 00:28:21,084
+Finding the evidence together is much more
+
+862
+00:28:21,084 --> 00:28:23,230
+powerful than being told they're wrong.
+
+863
+00:28:23,581 --> 00:28:25,113
+Suggest a simple test.
+
+864
+00:28:25,293 --> 00:28:27,990
+Try to withdraw a meaningful amount of
+
+865
+00:28:27,990 --> 00:28:28,416
+money.
+
+866
+00:28:28,596 --> 00:28:32,025
+Legitimate investments let you take your money
+
+867
+00:28:32,025 --> 00:28:33,963
+out, sometimes with clear,
+
+868
+00:28:33,963 --> 00:28:36,572
+disclosed fees or tax consequences.
+
+869
+00:28:36,752 --> 00:28:38,560
+If withdrawals are blocked,
+
+870
+00:28:38,560 --> 00:28:40,702
+delayed or require new payments,
+
+871
+00:28:40,702 --> 00:28:43,514
+that's often the moment people realize the
+
+872
+00:28:43,514 --> 00:28:43,916
+truth.
+
+873
+00:28:44,266 --> 00:28:45,088
+And stay close,
+
+874
+00:28:45,088 --> 00:28:47,006
+even if they don't listen at first.
+
+875
+00:28:47,186 --> 00:28:49,778
+Many victims say they were too embarrassed
+
+876
+00:28:49,778 --> 00:28:50,889
+to admit the loss.
+
+877
+00:28:51,069 --> 00:28:52,667
+If they know you won't say I
+
+878
+00:28:52,667 --> 00:28:53,352
+told you so,
+
+879
+00:28:53,352 --> 00:28:55,293
+they're more likely to come to you
+
+880
+00:28:55,293 --> 00:28:57,234
+before they send the next payment.
+
+881
+00:28:57,584 --> 00:28:59,430
+Let's finish with two neighbors.
+
+882
+00:28:59,610 --> 00:29:00,759
+Gary, fifty eight,
+
+883
+00:29:00,759 --> 00:29:03,505
+received a friendly message from someone he
+
+884
+00:29:03,505 --> 00:29:04,207
+met online.
+
+885
+00:29:04,387 --> 00:29:05,435
+Over two months,
+
+886
+00:29:05,435 --> 00:29:06,744
+they became friends.
+
+887
+00:29:06,924 --> 00:29:09,136
+Then she showed him a crypto platform
+
+888
+00:29:09,136 --> 00:29:11,347
+where she'd been earning big returns.
+
+889
+00:29:11,527 --> 00:29:13,907
+Gary started with five thousand dollars.
+
+890
+00:29:14,087 --> 00:29:15,899
+The app showed gains every week.
+
+891
+00:29:16,249 --> 00:29:17,396
+He invested more,
+
+892
+00:29:17,396 --> 00:29:20,231
+eventually much of his retirement savings.
+
+893
+00:29:20,411 --> 00:29:22,049
+When he tried to withdraw,
+
+894
+00:29:22,049 --> 00:29:24,317
+the platform asked for a tax payment
+
+895
+00:29:24,317 --> 00:29:24,695
+first.
+
+896
+00:29:24,875 --> 00:29:25,746
+Then another fee.
+
+897
+00:29:25,926 --> 00:29:27,830
+Then his friend stopped answering.
+
+898
+00:29:28,010 --> 00:29:29,956
+Gary lost most of what he put
+
+899
+00:29:29,956 --> 00:29:30,158
+in.
+
+900
+00:29:30,338 --> 00:29:32,963
+He was embarrassed and didn't tell anyone
+
+901
+00:29:32,963 --> 00:29:35,333
+for months, which is very common with
+
+902
+00:29:35,333 --> 00:29:36,166
+scam victims.
+
+903
+00:29:36,516 --> 00:29:37,898
+His neighbor, Linda,
+
+904
+00:29:37,898 --> 00:29:39,418
+got a similar message.
+
+905
+00:29:39,598 --> 00:29:40,701
+But she had a rule.
+
+906
+00:29:40,881 --> 00:29:43,336
+Never invest with someone I haven't met
+
+907
+00:29:43,336 --> 00:29:45,792
+in person, and never through a platform
+
+908
+00:29:45,792 --> 00:29:46,988
+someone else picks.
+
+909
+00:29:47,168 --> 00:29:48,818
+She looked up the platform,
+
+910
+00:29:48,818 --> 00:29:50,713
+found warnings about it online,
+
+911
+00:29:50,713 --> 00:29:52,241
+and reported the account.
+
+912
+00:29:52,421 --> 00:29:54,216
+Then she told Gary about it,
+
+913
+00:29:54,216 --> 00:29:55,690
+too late for his money,
+
+914
+00:29:55,690 --> 00:29:57,484
+but in time to stop him from
+
+915
+00:29:57,484 --> 00:30:00,240
+paying a recovery scammer who contacted him
+
+916
+00:30:00,240 --> 00:30:00,560
+next.
+
+917
+00:30:00,910 --> 00:30:02,895
+The difference wasn't intelligence.
+
+918
+00:30:03,075 --> 00:30:04,476
+Gary was a smart,
+
+919
+00:30:04,476 --> 00:30:05,548
+educated man.
+
+920
+00:30:05,728 --> 00:30:08,021
+The difference was a rule decided in
+
+921
+00:30:08,021 --> 00:30:10,441
+advance, before emotions got involved.
+
+922
+00:30:10,621 --> 00:30:12,154
+That's the real protection.
+
+923
+00:30:12,334 --> 00:30:14,087
+Not being clever in the moment.
+
+924
+00:30:14,267 --> 00:30:16,268
+Having rules that make the decision for
+
+925
+00:30:16,268 --> 00:30:16,473
+you.
+
+926
+00:30:16,823 --> 00:30:19,284
+Notice something else about Gary's story.
+
+927
+00:30:19,464 --> 00:30:21,378
+The scam didn't feel like a scam
+
+928
+00:30:21,378 --> 00:30:22,993
+at any point along the way.
+
+929
+00:30:23,173 --> 00:30:24,641
+It felt like friendship,
+
+930
+00:30:24,641 --> 00:30:26,475
+then like a lucky opportunity,
+
+931
+00:30:26,475 --> 00:30:28,920
+then like a temporary problem with fees.
+
+932
+00:30:29,100 --> 00:30:30,331
+Every step was small.
+
+933
+00:30:30,511 --> 00:30:32,810
+That's how most people lose large amounts.
+
+934
+00:30:32,990 --> 00:30:34,610
+Not in one big decision,
+
+935
+00:30:34,610 --> 00:30:36,568
+but in a series of small ones
+
+936
+00:30:36,568 --> 00:30:38,458
+that each seemed reasonable.
+
+937
+00:30:38,808 --> 00:30:40,967
+Let me answer a few questions people
+
+938
+00:30:40,967 --> 00:30:42,407
+ask about these schemes.
+
+939
+00:30:42,757 --> 00:30:43,546
+Question one.
+
+940
+00:30:43,726 --> 00:30:45,096
+Is crypto a scam?
+
+941
+00:30:45,276 --> 00:30:47,921
+Crypto itself is a technology and an
+
+942
+00:30:47,921 --> 00:30:50,713
+asset class, and some people invest in
+
+943
+00:30:50,713 --> 00:30:51,741
+it as a small,
+
+944
+00:30:51,741 --> 00:30:54,239
+high risk part of their portfolio.
+
+945
+00:30:54,419 --> 00:30:56,763
+But crypto is also used in many
+
+946
+00:30:56,763 --> 00:30:59,938
+scams, because transfers are fast and hard
+
+947
+00:30:59,938 --> 00:31:00,770
+to reverse.
+
+948
+00:31:00,950 --> 00:31:03,164
+Be very careful about who you're dealing
+
+949
+00:31:03,164 --> 00:31:05,157
+with, and never invest more than you
+
+950
+00:31:05,157 --> 00:31:06,209
+can afford to lose.
+
+951
+00:31:06,559 --> 00:31:07,371
+Question two.
+
+952
+00:31:07,551 --> 00:31:09,827
+Are all MLMs pyramid schemes?
+
+953
+00:31:10,007 --> 00:31:10,994
+Not legally.
+
+954
+00:31:11,174 --> 00:31:14,030
+Some sell real products to real customers.
+
+955
+00:31:14,210 --> 00:31:16,462
+But many participants still lose money.
+
+956
+00:31:16,642 --> 00:31:18,337
+Read the income disclosure,
+
+957
+00:31:18,337 --> 00:31:19,655
+count all your costs,
+
+958
+00:31:19,655 --> 00:31:21,726
+and be very cautious if the pitch
+
+959
+00:31:21,726 --> 00:31:24,174
+is more about recruiting than about the
+
+960
+00:31:24,174 --> 00:31:24,676
+product.
+
+961
+00:31:25,027 --> 00:31:26,060
+Question three.
+
+962
+00:31:26,240 --> 00:31:28,225
+What if I already lost money?
+
+963
+00:31:28,405 --> 00:31:30,283
+First, stop sending money,
+
+964
+00:31:30,283 --> 00:31:32,666
+no matter what fees are demanded.
+
+965
+00:31:32,846 --> 00:31:34,541
+Contact your bank right away.
+
+966
+00:31:34,721 --> 00:31:37,460
+Report the scam to the FTC and
+
+967
+00:31:37,460 --> 00:31:38,738
+the FBI's IC3.
+
+968
+00:31:38,918 --> 00:31:41,298
+Save every message and receipt.
+
+969
+00:31:41,478 --> 00:31:43,498
+And talk to someone you trust.
+
+970
+00:31:43,678 --> 00:31:45,575
+Shame keeps victims quiet,
+
+971
+00:31:45,575 --> 00:31:47,544
+and silence helps scammers.
+
+972
+00:31:47,895 --> 00:31:48,881
+Question four.
+
+973
+00:31:49,061 --> 00:31:50,710
+How do I protect my parents?
+
+974
+00:31:50,890 --> 00:31:53,274
+Talk about scams openly and often,
+
+975
+00:31:53,274 --> 00:31:54,466
+without judgment.
+
+976
+00:31:54,646 --> 00:31:56,296
+Share specific examples,
+
+977
+00:31:56,296 --> 00:31:58,152
+like the wrong number text.
+
+978
+00:31:58,332 --> 00:31:59,995
+Agree on a family rule:
+
+979
+00:31:59,995 --> 00:32:02,960
+no big money moves without a conversation
+
+980
+00:32:02,960 --> 00:32:03,394
+first.
+
+981
+00:32:03,574 --> 00:32:06,465
+And consider setting up account alerts together.
+
+982
+00:32:06,815 --> 00:32:07,813
+Question five.
+
+983
+00:32:07,993 --> 00:32:10,056
+How can I tell a real investment
+
+984
+00:32:10,056 --> 00:32:11,604
+adviser from a fake one?
+
+985
+00:32:11,784 --> 00:32:14,704
+Look them up on FINRA BrokerCheck and
+
+986
+00:32:14,704 --> 00:32:18,808
+the SEC's Investment Adviser Public Disclosure site.
+
+987
+00:32:18,988 --> 00:32:20,718
+Ask if they're a fiduciary.
+
+988
+00:32:20,898 --> 00:32:22,697
+Ask where your money will be held.
+
+989
+00:32:22,877 --> 00:32:25,654
+Legitimate advisers usually use a well known
+
+990
+00:32:25,654 --> 00:32:28,747
+independent custodian, a separate firm that holds
+
+991
+00:32:28,747 --> 00:32:31,146
+your assets, so they can't simply take
+
+992
+00:32:31,146 --> 00:32:31,840
+your money.
+
+993
+00:32:32,020 --> 00:32:33,819
+If the answer is send it to
+
+994
+00:32:33,819 --> 00:32:35,352
+me directly, walk away.
+
+995
+00:32:35,703 --> 00:32:36,852
+Question six.
+
+996
+00:32:37,032 --> 00:32:38,890
+What's the single best protection?
+
+997
+00:32:39,070 --> 00:32:40,428
+A waiting period.
+
+998
+00:32:40,608 --> 00:32:42,623
+Most scams depend on speed,
+
+999
+00:32:42,623 --> 00:32:44,713
+because time lets you think,
+
+1000
+00:32:44,713 --> 00:32:45,832
+ask and search.
+
+1001
+00:32:46,012 --> 00:32:48,568
+Make a personal rule that any investment
+
+1002
+00:32:48,568 --> 00:32:50,741
+over a small amount waits at least
+
+1003
+00:32:50,741 --> 00:32:53,361
+one week, and gets discussed with someone
+
+1004
+00:32:53,361 --> 00:32:54,000
+you trust.
+
+1005
+00:32:54,180 --> 00:32:55,805
+Scammers hate that rule.
+
+1006
+00:32:55,985 --> 00:32:57,750
+Honest people don't mind it at all.
+
+1007
+00:32:58,101 --> 00:32:59,424
+And question seven.
+
+1008
+00:32:59,604 --> 00:33:01,479
+Is there any legitimate way to get
+
+1009
+00:33:01,479 --> 00:33:02,031
+rich fast?
+
+1010
+00:33:02,211 --> 00:33:04,155
+Some people do get rich fast,
+
+1011
+00:33:04,155 --> 00:33:06,166
+through a successful business,
+
+1012
+00:33:06,166 --> 00:33:07,574
+a rare skill or luck.
+
+1013
+00:33:07,754 --> 00:33:09,396
+But these are exceptions,
+
+1014
+00:33:09,396 --> 00:33:11,957
+usually after years of work nobody saw.
+
+1015
+00:33:12,137 --> 00:33:13,279
+For most people,
+
+1016
+00:33:13,279 --> 00:33:15,277
+the reliable path is slower,
+
+1017
+00:33:15,277 --> 00:33:17,989
+and it works better than any shortcut.
+
+1018
+00:33:18,339 --> 00:33:19,151
+Quick recap.
+
+1019
+00:33:19,331 --> 00:33:21,579
+The classics: Ponzi schemes,
+
+1020
+00:33:21,579 --> 00:33:23,426
+pyramids and many MLMs,
+
+1021
+00:33:23,426 --> 00:33:26,959
+the lottery, day trading and sports betting.
+
+1022
+00:33:27,139 --> 00:33:28,801
+The modern hype schemes:
+
+1023
+00:33:28,801 --> 00:33:30,048
+the pump and dump,
+
+1024
+00:33:30,048 --> 00:33:32,126
+the mania, the trading course,
+
+1025
+00:33:32,126 --> 00:33:34,827
+the free seminar and the passive income
+
+1026
+00:33:34,827 --> 00:33:35,243
+dream.
+
+1027
+00:33:35,593 --> 00:33:37,710
+And the internet age scams:
+
+1028
+00:33:37,710 --> 00:33:40,219
+pig butchering, AI trading bots,
+
+1029
+00:33:40,219 --> 00:33:42,415
+guaranteed high yield notes,
+
+1030
+00:33:42,415 --> 00:33:45,159
+gifting circles and recovery scams.
+
+1031
+00:33:45,339 --> 00:33:47,034
+One truth connects them all.
+
+1032
+00:33:47,214 --> 00:33:48,731
+In a get rich quick scheme,
+
+1033
+00:33:48,731 --> 00:33:50,865
+the person getting rich is usually the
+
+1034
+00:33:50,865 --> 00:33:51,707
+one selling it.
+
+1035
+00:33:52,058 --> 00:33:53,317
+If you want the real,
+
+1036
+00:33:53,317 --> 00:33:55,897
+slow and reliable plan for building wealth,
+
+1037
+00:33:55,897 --> 00:33:57,096
+it's in my playbook.
+
+1038
+00:33:57,276 --> 00:33:58,797
+The link is in the description.
+
+1039
+00:33:58,977 --> 00:34:01,011
+And watch my video on twenty money
+
+1040
+00:34:01,011 --> 00:34:02,507
+myths that keep you poor.
+
+1041
+00:34:02,687 --> 00:34:04,916
+Many of these schemes start with one
+
+1042
+00:34:04,916 --> 00:34:05,845
+of those myths.
+
+1043
+00:34:06,025 --> 00:34:07,371
+I'm Ryan Rover.
+
+1044
+00:34:07,551 --> 00:34:08,782
+See you in the next one.
