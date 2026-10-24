@@ -1,0 +1,1142 @@
+{
+ "id": "video59",
+ "angle": "30 money rules for 2027: numbers, psychology, action",
+ "length_scale": 1.25,
+ "title": "30 Money Rules to Live By in 2027",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. A new year is coming, and with it, a fresh start for your money. But instead of vague resolutions that fade by February, I want to give you something better: thirty simple money rules to live by in 2027. Rules you can remember, rules you can follow, and rules that work whether you earn thirty thousand dollars or three hundred thousand.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Why rules instead of goals? Because goals tell you where you want to go, but rules tell you what to do every day. Rules remove decisions. When you already know your rule, you don't have to think about it in the moment, when emotions are high and willpower is low.",
+   "query": "Rule book on desk",
+   "caption": "RULES REMOVE DECISIONS",
+   "cuts": 8,
+   "short_hook": "30 money rules to live by in 2027"
+  },
+  {
+   "text": "We'll go through these thirty rules in three groups, three angles. First, ten rules about the numbers: the targets and ratios that keep your finances healthy. Second, ten rules about the psychology: how to think and behave with money. And third, ten action rules: the playbook of habits that protect and grow what you have.",
+   "query": "Three stacks of cards",
+   "caption": "THREE ANGLES, 30 RULES",
+   "cuts": 5
+  },
+  {
+   "text": "Stay for rule fifteen. It could protect you from one of the fastest growing threats to your money. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every January, millions of people make financial resolutions. Save more. Spend less. Pay off debt. And by spring, many have quietly given up. The problem isn't motivation. It's that resolutions are vague, and vague goals give your brain nothing specific to do.",
+   "query": "New year resolutions list",
+   "caption": "RESOLUTIONS FADE",
+   "cuts": 3,
+   "chapter": "Why rules beat resolutions"
+  },
+  {
+   "text": "Psychologists call specific plans implementation intentions. Research by psychologist Peter Gollwitzer and others found that people who decide in advance exactly what they'll do in a specific situation are more likely to follow through. When X happens, I do Y. Money rules work the same way.",
+   "query": "If then plan",
+   "caption": "WHEN X, I DO Y",
+   "cuts": 3
+  },
+  {
+   "text": "When a raise arrives, half goes to savings. When I want something over one hundred dollars, I wait forty eight hours. When the market drops, I keep investing. Each rule is a decision made once, calmly, that protects you in hundreds of future moments.",
+   "query": "Calm decision",
+   "caption": "DECIDE ONCE",
+   "cuts": 3
+  },
+  {
+   "text": "Guidelines in this video come from widely used sources, including the Federal Reserve, the Consumer Financial Protection Bureau, the Federal Trade Commission, the IRS and Fidelity. Growth examples are stated math and are illustrations, not promises. These rules are general guidelines, not personal advice, and your situation may call for different numbers.",
+   "query": "Government buildings",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. Ten rules about the numbers.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Rule 1. Keep 3 to 6 months of essentials in cash.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Keep 3 to 6 months of essentials in cash",
+    "sub": "your financial airbag"
+   },
+   "caption": "RULE 1",
+   "cuts": 1,
+   "chapter": "Rule 1. Keep 3 to 6 months of essentials in cash",
+   "short_hook": "10 money numbers everyone should know"
+  },
+  {
+   "text": "Rule one. Keep three to six months of essential expenses in a high yield savings account. In recent Federal Reserve surveys, more than a third of American adults said they couldn't cover a four hundred dollar emergency with cash. An emergency fund is what keeps surprises from becoming debt.",
+   "query": "Emergency fund jar",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "If you're starting from zero, start with five hundred dollars, then one thousand, then one month. Every stage protects you more than the last. In 2027, make this your first priority if you don't have it yet.",
+   "query": "Staircase stages",
+   "caption": "START WITH $500",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: open a separate high yield savings account if you don't have one, name it Emergency Fund, and set an automatic transfer for the day after payday. Then put a share of your tax refund in it this spring. Those two moves alone can get many people to their first thousand dollars.",
+   "query": "Savings account and calendar",
+   "caption": "2027: OPEN, AUTOMATE, REFUND",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 2. Save at least 15% for retirement.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Save at least 15% for retirement",
+    "sub": "including the match"
+   },
+   "caption": "RULE 2",
+   "cuts": 1,
+   "chapter": "Rule 2. Save at least 15% for retirement"
+  },
+  {
+   "text": "Rule two. Save at least fifteen percent of your gross income for retirement, including any employer match. It's one of the most common guidelines from retirement planners. If you start late, aim higher.",
+   "query": "Fifteen percent sign",
+   "caption": "15% OR MORE",
+   "cuts": 3
+  },
+  {
+   "text": "If fifteen percent isn't possible yet, raise your contribution by one percent every few months. Many workplace plans offer automatic increases. Turn them on, and in a couple of years you'll get there without feeling a sudden pinch.",
+   "query": "Percentage stairs",
+   "caption": "ONE PERCENT AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: log into your retirement plan in January and write down your current contribution rate. If it's below fifteen percent, raise it by at least one or two points now, and schedule another increase for July. If you get a raise this year, send half of it to your retirement contribution.",
+   "query": "Retirement plan login",
+   "caption": "2027: RAISE IT IN JANUARY",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 3. Never leave the match on the table.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Never leave the match on the table",
+    "sub": "it's part of your pay"
+   },
+   "caption": "RULE 3",
+   "cuts": 1,
+   "chapter": "Rule 3. Never leave the match on the table"
+  },
+  {
+   "text": "Rule three. If your employer matches retirement contributions, always contribute enough to get the full match. On a sixty thousand dollar salary, a four percent match is twenty four hundred dollars a year. Not taking it is turning down a raise.",
+   "query": "401k match illustration",
+   "caption": "FREE MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Check your plan's match formula and vesting schedule this month. If you're not getting the full match, fixing it might be the single highest return move you make all year.",
+   "query": "Benefits portal login",
+   "caption": "CHECK IT THIS MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: if you change jobs this year, ask about the match during the offer process, and enroll on day one. Some employers have waiting periods or require you to opt in. Don't let months of free money slip by because of paperwork.",
+   "query": "New job paperwork",
+   "caption": "2027: ENROLL ON DAY ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 4. Pay off any debt above about 8%.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Pay off any debt above about 8%",
+    "sub": "a guaranteed return"
+   },
+   "caption": "RULE 4",
+   "cuts": 1,
+   "chapter": "Rule 4. Pay off any debt above about 8%"
+  },
+  {
+   "text": "Rule four. Treat debt above roughly eight percent interest as an emergency. Credit card rates have often averaged above twenty percent in recent years, according to Federal Reserve data. Paying off a twenty two percent card is like earning a guaranteed twenty two percent return.",
+   "query": "Credit card interest",
+   "caption": "ABOVE 8% = PRIORITY",
+   "cuts": 3
+  },
+  {
+   "text": "List your debts by interest rate, pay minimums on all of them, and attack the highest rate first. When one is gone, roll its payment into the next.",
+   "query": "Debt list ranked",
+   "caption": "HIGHEST RATE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: write every debt on one page with its balance, rate and minimum payment. Circle the highest rate. That's your target for the year. Set an automatic extra payment toward it, even fifty dollars a month, and add any windfalls.",
+   "query": "Debt list one page",
+   "caption": "2027: CIRCLE THE TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 5. Keep housing around 30% of gross income or less.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Keep housing around 30% of gross income or less",
+    "sub": "the biggest lever"
+   },
+   "caption": "RULE 5",
+   "cuts": 1,
+   "chapter": "Rule 5. Keep housing around 30% of gross income or less"
+  },
+  {
+   "text": "Rule five. A common guideline is to keep housing costs at or below about thirty percent of gross income. Housing is usually the largest expense in any budget, around a third of household spending in BLS data. Getting this one decision right makes every other goal easier.",
+   "query": "House with percentage",
+   "caption": "~30% OR LESS",
+   "cuts": 3
+  },
+  {
+   "text": "In expensive cities, that may not be possible right away. If so, look for ways to bring it down over time: a roommate, a cheaper unit at renewal, or a smaller home. Every hundred dollars saved on housing is twelve hundred a year.",
+   "query": "Roommates apartment",
+   "caption": "BRING IT DOWN OVER TIME",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: if your lease is up this year, compare at least three alternatives before renewing, and use them to negotiate. If you own, check whether your property taxes and insurance have risen and shop your homeowners policy. Small housing savings repeat every single month.",
+   "query": "Lease renewal document",
+   "caption": "2027: SHOP BEFORE RENEWING",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 6. Use the rule of 72.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Use the rule of 72",
+    "sub": "know how fast money doubles"
+   },
+   "caption": "RULE 6",
+   "cuts": 1,
+   "chapter": "Rule 6. Use the rule of 72"
+  },
+  {
+   "text": "Rule six. Divide seventy two by an interest rate to estimate how many years it takes money to double. At seven percent, money doubles in about ten years. At ten percent, about seven years.",
+   "query": "Rule of 72 formula",
+   "caption": "72 \u00f7 RATE = YEARS TO DOUBLE",
+   "cuts": 3
+  },
+  {
+   "text": "It works for debt too. At twenty two percent credit card interest, an unpaid balance can roughly double in about three and a half years if interest keeps compounding. Knowing this one number helps you understand both sides of compounding.",
+   "query": "Debt doubling",
+   "caption": "IT WORKS FOR DEBT TOO",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: use the rule of seventy two on your own accounts. What rate is your savings account earning, and how long until it doubles? What rate is your credit card charging? Seeing those two numbers side by side is often the push people need to move money to the right place.",
+   "query": "Two numbers compared",
+   "caption": "2027: RUN YOUR NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 7. Keep investment fees as low as possible.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Keep investment fees as low as possible",
+    "sub": "small fees, big costs"
+   },
+   "caption": "RULE 7",
+   "cuts": 1,
+   "chapter": "Rule 7. Keep investment fees as low as possible"
+  },
+  {
+   "text": "Rule seven. Pay attention to the expense ratio, the yearly fee on a fund. Many broad index funds charge well under a quarter of a percent. Some actively managed funds charge one percent or more.",
+   "query": "Fund fees comparison",
+   "caption": "WATCH THE EXPENSE RATIO",
+   "cuts": 3
+  },
+  {
+   "text": "The difference adds up. Investing five hundred dollars a month for thirty years, a six percent net return could grow to about five hundred two thousand dollars. A five percent net return, the same investment with one percent more in fees, about four hundred sixteen thousand. That one percent costs roughly eighty six thousand dollars.",
+   "query": "Two growth curves fees",
+   "caption": "1% IN FEES = ~$86K",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: look up the expense ratio of every fund you own. It's listed on your account website or the fund's page. If any fund charges much more than a comparable index fund, consider whether it's worth it. Check for account fees too, like advisory fees or maintenance charges.",
+   "query": "Fund details page",
+   "caption": "2027: LOOK UP YOUR FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Five hundred dollars a month for thirty years, at a six percent net return versus five percent after an extra one percent in fees.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "6% net",
+     "big": "~$502K",
+     "sub": "low fee fund"
+    },
+    "right": {
+     "label": "5% net",
+     "big": "~$416K",
+     "sub": "1% more in fees"
+    },
+    "note": "Illustration. Returns are not guaranteed."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Rule 8. Keep total car costs under control.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Keep total car costs under control",
+    "sub": "cars are the quiet wealth killer"
+   },
+   "caption": "RULE 8",
+   "cuts": 1,
+   "chapter": "Rule 8. Keep total car costs under control"
+  },
+  {
+   "text": "Rule eight. A popular guideline is the twenty four ten rule: put at least twenty percent down, finance for no more than four years, and keep total car costs, including payment, insurance and gas, under ten percent of gross income. Many people use a looser version, but the idea is the same.",
+   "query": "Car dealership",
+   "caption": "THE 20/4/10 RULE",
+   "cuts": 3
+  },
+  {
+   "text": "Cars lose value quickly, especially in the first few years. Buying a reliable used car and keeping it for a long time is one of the most consistent wealth building habits there is.",
+   "query": "Reliable used car",
+   "caption": "BUY RELIABLE, KEEP IT LONG",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: if your car is paid off and reliable, keep driving it and send the old payment amount to savings. If you need a car, set a total budget before you shop, get financing quotes from a credit union before visiting the dealer, and focus on the total price, not the monthly payment.",
+   "query": "Credit union auto loan",
+   "caption": "2027: TOTAL PRICE, NOT PAYMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 9. Know your number: 25 times spending.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Know your number: 25 times spending",
+    "sub": "what enough looks like"
+   },
+   "caption": "RULE 9",
+   "cuts": 1,
+   "chapter": "Rule 9. Know your number: 25 times spending"
+  },
+  {
+   "text": "Rule nine. Know roughly how much you need to be financially independent. Based on the four percent rule from William Bengen's 1994 research, a common estimate is twenty five times your yearly spending. Spend forty thousand a year, and your number is about one million dollars.",
+   "query": "Calculator target number",
+   "caption": "SPENDING \u00d7 25",
+   "cuts": 3
+  },
+  {
+   "text": "It's a rough guideline, and early retirees often use a more cautious multiple. But knowing your number turns retirement from a vague worry into a concrete target.",
+   "query": "Target on wall",
+   "caption": "A CONCRETE TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: add up your spending for 2026, multiply by twenty five, and write the number down. Then compare it with what you have invested today. The gap tells you how far you have to go, and the savings rate table can tell you roughly how long it will take.",
+   "query": "Notebook number written",
+   "caption": "2027: WRITE YOUR NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 10. Check your net worth once a year.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Check your net worth once a year",
+    "sub": "the scoreboard that matters"
+   },
+   "caption": "RULE 10",
+   "cuts": 1,
+   "chapter": "Rule 10. Check your net worth once a year"
+  },
+  {
+   "text": "Rule ten. Once a year, add up what you own and subtract what you owe. That's your net worth, the single best measure of financial progress. Fidelity suggests rough retirement savings targets of about one times your salary by thirty, three times by forty, and six times by fifty.",
+   "query": "Net worth chart",
+   "caption": "ONCE A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Don't panic if you're behind. Watch the direction. A net worth that rises every year, even slowly, means your plan is working.",
+   "query": "Rising line chart",
+   "caption": "WATCH THE DIRECTION",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: pick a date, like New Year's Day or your birthday, and calculate your net worth every year on that date. Keep a simple list going back year after year. Over a decade, that list becomes one of the most motivating documents you own.",
+   "query": "Yearly list net worth",
+   "caption": "2027: PICK A DATE",
+   "cuts": 3
+  },
+  {
+   "text": "Angle two. Ten rules about how to think and behave with money.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Rule 11. Pay yourself first.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Pay yourself first",
+    "sub": "the future gets paid before the present"
+   },
+   "caption": "RULE 11",
+   "cuts": 1,
+   "chapter": "Rule 11. Pay yourself first",
+   "short_hook": "10 money mindset rules that change everything"
+  },
+  {
+   "text": "Rule eleven. Before you pay for anything else, pay your future. Set up automatic transfers to savings and investing on payday. What's left is yours to spend. This flips the usual order, where people save whatever happens to be left over, which is often nothing.",
+   "query": "Paycheck arrows to savings",
+   "caption": "FUTURE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "This rule works because it doesn't rely on discipline. Once it's set, it happens whether you're motivated or not.",
+   "query": "Automatic transfer",
+   "caption": "NO DISCIPLINE REQUIRED",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: set up your transfers so they happen the same day your pay arrives, and give each one a clear job: emergency fund, investing, sinking funds. Then forget about them. Check once a month that they ran.",
+   "query": "Payday transfers list",
+   "caption": "2027: SAME DAY AS PAYDAY",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 12. Spend extravagantly on what you love, cut mercilessly on what you don't.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Spend extravagantly on what you love, cut mercilessly on what you don't",
+    "sub": "conscious spending"
+   },
+   "caption": "RULE 12",
+   "cuts": 1,
+   "chapter": "Rule 12. Spend extravagantly on what you love, cut mercilessly on what you don't"
+  },
+  {
+   "text": "Rule twelve. This idea, popularized by author Ramit Sethi, is called conscious spending. Identify the two or three things that bring you real joy, and spend on them without guilt. Then cut costs ruthlessly everywhere else.",
+   "query": "Happy person hobby",
+   "caption": "LOVE IT OR CUT IT",
+   "cuts": 3
+  },
+  {
+   "text": "This is how people save a lot without feeling deprived. They aren't spending less on everything. They're spending more on what matters and nothing on what doesn't.",
+   "query": "Balanced scale",
+   "caption": "NOT DEPRIVED",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: write down your three favorite ways to spend money, the ones that truly make your life better. Then look at your last three months of spending and circle everything that didn't make you happier. That's where your cuts come from, painlessly.",
+   "query": "List of favorites",
+   "caption": "2027: NAME YOUR THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 13. Wait 48 hours before big purchases.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Wait 48 hours before big purchases",
+    "sub": "let the impulse pass"
+   },
+   "caption": "RULE 13",
+   "cuts": 1,
+   "chapter": "Rule 13. Wait 48 hours before big purchases"
+  },
+  {
+   "text": "Rule thirteen. For any non essential purchase above a set amount, say one hundred dollars, wait forty eight hours. For very large purchases, wait thirty days. Many impulse urges fade once the moment passes.",
+   "query": "Shopping cart wait timer",
+   "caption": "48 HOURS",
+   "cuts": 3
+  },
+  {
+   "text": "Remove saved cards from shopping apps and unsubscribe from sale emails. Adding a little friction gives your rational brain time to catch up with your emotional brain.",
+   "query": "Unsubscribe emails",
+   "caption": "ADD FRICTION",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: keep a wish list. When you want something, add it to the list with the date and price. Review the list every couple of weeks. Many people find that most items no longer feel important, and the few that remain are the ones truly worth buying.",
+   "query": "Wish list on phone",
+   "caption": "2027: KEEP A WISH LIST",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 14. Don't compare your finances to social media.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Don't compare your finances to social media",
+    "sub": "you only see the highlights"
+   },
+   "caption": "RULE 14",
+   "cuts": 1,
+   "chapter": "Rule 14. Don't compare your finances to social media"
+  },
+  {
+   "text": "Rule fourteen. Online, you see vacations, new cars and renovations. You don't see the credit card statements, the loans, or the stress. Comparing your behind the scenes with someone else's highlight reel will make you feel poor and push you to overspend.",
+   "query": "Social media phone scrolling",
+   "caption": "HIGHLIGHTS ONLY",
+   "cuts": 3
+  },
+  {
+   "text": "Measure your progress against your own past. Is your savings rate higher than last year? Is your debt lower? That's the only comparison that matters.",
+   "query": "Person running own race",
+   "caption": "YOU VS. YOU",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: unfollow accounts that make you feel you need to buy things, and follow a few that teach you about money. Your feed shapes your wants more than you think. Change the feed, and you change the wants.",
+   "query": "Unfollow button",
+   "caption": "2027: CHANGE YOUR FEED",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 15. If it sounds too good to be true, it is.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "If it sounds too good to be true, it is",
+    "sub": "scams are exploding"
+   },
+   "caption": "RULE 15",
+   "cuts": 1,
+   "chapter": "Rule 15. If it sounds too good to be true, it is"
+  },
+  {
+   "text": "Rule fifteen. According to the Federal Trade Commission, consumers reported losing more than twelve billion dollars to fraud in 2024, and investment scams were the largest category of losses. Scammers use fake investment platforms, romance scams, impersonation of banks and government agencies, and promises of guaranteed returns.",
+   "query": "Scam warning phone",
+   "caption": "$12 BILLION+ LOST TO FRAUD",
+   "cuts": 3
+  },
+  {
+   "text": "Protect yourself with simple rules. No legitimate investment guarantees high returns with no risk. Never send money to someone you've only met online. Never pay with gift cards or crypto because someone says it's urgent. And when in doubt, hang up and call the official number yourself.",
+   "query": "Hang up phone",
+   "caption": "HANG UP AND VERIFY",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: talk to older family members about scams, since criminals often target them. Agree on a family code word for emergencies, so a fake call claiming a relative is in trouble can be checked. And set up account alerts for large transactions on every bank and card account.",
+   "query": "Family conversation",
+   "caption": "2027: A FAMILY CODE WORD",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 16. Time in the market beats timing the market.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Time in the market beats timing the market",
+    "sub": "stay invested"
+   },
+   "caption": "RULE 16",
+   "cuts": 1,
+   "chapter": "Rule 16. Time in the market beats timing the market"
+  },
+  {
+   "text": "Rule sixteen. Trying to jump in and out of the market to avoid drops usually backfires. Some of the market's best days have historically come shortly after its worst days. Investors who sell in a panic often miss the recovery.",
+   "query": "Market chart rebound",
+   "caption": "STAY INVESTED",
+   "cuts": 3
+  },
+  {
+   "text": "Invest regularly, in good markets and bad. When prices fall, your regular contributions simply buy more shares.",
+   "query": "Buying shares regularly",
+   "caption": "KEEP BUYING",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: write down your plan for the next market drop before it happens. For example: when the market falls twenty percent, I keep my contributions the same and do not sell. Having it in writing makes it much easier to follow when headlines get scary.",
+   "query": "Written plan market drop",
+   "caption": "2027: WRITE YOUR DROP PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 17. Never invest in what you can't explain.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Never invest in what you can't explain",
+    "sub": "understand it first"
+   },
+   "caption": "RULE 17",
+   "cuts": 1,
+   "chapter": "Rule 17. Never invest in what you can't explain"
+  },
+  {
+   "text": "Rule seventeen. If you can't explain how an investment makes money in two sentences, don't buy it. Complexity often hides high fees, high risk, or both.",
+   "query": "Confusing chart",
+   "caption": "EXPLAIN IT IN 2 SENTENCES",
+   "cuts": 3
+  },
+  {
+   "text": "Broad index funds are easy to explain: you own a small piece of many companies, and you share in their growth. That simplicity is a feature, not a weakness.",
+   "query": "Simple pie chart",
+   "caption": "SIMPLE IS A FEATURE",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: if someone pitches you an investment, ask three questions. How does it make money? What are all the fees? What happens if I need my money back? If the answers are vague or pressured, walk away.",
+   "query": "Three questions list",
+   "caption": "2027: ASK THREE QUESTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 18. Automate every good decision.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Automate every good decision",
+    "sub": "systems beat willpower"
+   },
+   "caption": "RULE 18",
+   "cuts": 1,
+   "chapter": "Rule 18. Automate every good decision"
+  },
+  {
+   "text": "Rule eighteen. Automate savings, investing, bill payments, and contribution increases. Every decision you automate is one you never have to make again when you're tired, busy or tempted.",
+   "query": "Gears automation",
+   "caption": "SYSTEMS BEAT WILLPOWER",
+   "cuts": 3
+  },
+  {
+   "text": "Researchers Richard Thaler and Shlomo Benartzi showed with their Save More Tomorrow program that automatic, pre committed increases helped workers raise their savings rates dramatically. Automation works with human nature, not against it.",
+   "query": "Save More Tomorrow chart",
+   "caption": "IT WORKS WITH HUMAN NATURE",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: make a list of every money task you still do manually, like transferring savings, paying bills or investing. Automate one per week for the next month. By February, your money will mostly run itself.",
+   "query": "Automation checklist",
+   "caption": "2027: ONE PER WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 19. Let your lifestyle rise slower than your income.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Let your lifestyle rise slower than your income",
+    "sub": "beat lifestyle creep"
+   },
+   "caption": "RULE 19",
+   "cuts": 1,
+   "chapter": "Rule 19. Let your lifestyle rise slower than your income"
+  },
+  {
+   "text": "Rule nineteen. When you get a raise, send at least half of it to savings and investing. Enjoy the other half. Your life still improves, but your savings rate climbs every year.",
+   "query": "Split raise jar",
+   "caption": "HALF OF EVERY RAISE",
+   "cuts": 3
+  },
+  {
+   "text": "Lifestyle creep is how people with good incomes stay stuck. Each upgrade feels small, but together they lock in high fixed costs. This rule keeps you moving forward.",
+   "query": "Spending creeping",
+   "caption": "AVOID THE CREEP",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: before your next raise arrives, decide exactly how much will go to savings and how much to your lifestyle. Write it down. Once the money hits your account, it's much harder to decide calmly.",
+   "query": "Decision written in advance",
+   "caption": "2027: DECIDE BEFORE IT ARRIVES",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 20. Money is a tool, not a scoreboard.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Money is a tool, not a scoreboard",
+    "sub": "use it for a good life"
+   },
+   "caption": "RULE 20",
+   "cuts": 1,
+   "chapter": "Rule 20. Money is a tool, not a scoreboard"
+  },
+  {
+   "text": "Rule twenty. The goal isn't the biggest number. It's a life with security, freedom and meaning. Use money to buy time, experiences, health and peace of mind.",
+   "query": "Family enjoying time",
+   "caption": "A TOOL FOR A GOOD LIFE",
+   "cuts": 3
+  },
+  {
+   "text": "Research by psychologists including Elizabeth Dunn has suggested that spending on experiences, on others, and on buying back time can increase happiness more than spending on more stuff. Keep that in mind when you plan your spending.",
+   "query": "Friends experience",
+   "caption": "EXPERIENCES AND TIME",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: plan one experience you'll pay for in cash this year, something that truly matters to you. A trip, a class, a family event. Put it in a sinking fund. Money becomes much more meaningful when it's connected to the life you want.",
+   "query": "Family trip planning",
+   "caption": "2027: PLAN ONE EXPERIENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If these rules are useful, subscribe to the channel. It's free, and it helps me keep making these videos for you all year. Now, the last ten. The action rules.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. Ten action rules. The habits that protect and grow your money.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Rule 21. Check your credit reports regularly.",
+   "card": {
+    "type": "list",
+    "n": 21,
+    "title": "Check your credit reports regularly",
+    "sub": "catch errors and fraud"
+   },
+   "caption": "RULE 21",
+   "cuts": 1,
+   "chapter": "Rule 21. Check your credit reports regularly",
+   "short_hook": "10 money habits to start in 2027"
+  },
+  {
+   "text": "Rule twenty one. You can check your credit reports from the three major bureaus for free at annualcreditreport dot com, the official site. Look for accounts you don't recognize and errors in your payment history.",
+   "query": "Credit report website",
+   "caption": "FREE REPORTS",
+   "cuts": 3
+  },
+  {
+   "text": "Errors happen, and they can raise your borrowing costs. Disputing them is free. And unfamiliar accounts can be an early warning of identity theft.",
+   "query": "Dispute letter",
+   "caption": "DISPUTE ERRORS",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: put a reminder in your calendar to check one bureau every four months, or all three at once a couple of times a year. It takes about fifteen minutes and costs nothing.",
+   "query": "Calendar reminders",
+   "caption": "2027: SET A REMINDER",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 22. Freeze your credit.",
+   "card": {
+    "type": "list",
+    "n": 22,
+    "title": "Freeze your credit",
+    "sub": "free protection"
+   },
+   "caption": "RULE 22",
+   "cuts": 1,
+   "chapter": "Rule 22. Freeze your credit"
+  },
+  {
+   "text": "Rule twenty two. A credit freeze stops new lenders from accessing your credit report, which makes it much harder for criminals to open accounts in your name. Under federal law, freezing and unfreezing your credit with each bureau is free.",
+   "query": "Lock on credit card",
+   "caption": "FREEZE IS FREE",
+   "cuts": 3
+  },
+  {
+   "text": "You can temporarily lift the freeze when you apply for a loan or a new card. It takes a few minutes online, and it's one of the best protections available.",
+   "query": "Laptop unlock",
+   "caption": "LIFT IT WHEN NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: freeze your credit at all three major bureaus this month. Save the logins or PINs somewhere secure. Consider doing the same for your children, since child identity theft can go undetected for years.",
+   "query": "Three bureau logos",
+   "caption": "2027: ALL THREE BUREAUS",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 23. Insure against catastrophe, not inconvenience.",
+   "card": {
+    "type": "list",
+    "n": 23,
+    "title": "Insure against catastrophe, not inconvenience",
+    "sub": "protect what matters"
+   },
+   "caption": "RULE 23",
+   "cuts": 1,
+   "chapter": "Rule 23. Insure against catastrophe, not inconvenience"
+  },
+  {
+   "text": "Rule twenty three. Insurance is for events that would wreck your finances: serious illness, disability, death of an earner, a house fire, a major lawsuit. Make sure those are covered with health, disability, term life if others depend on you, home or renters, and adequate liability coverage.",
+   "query": "Insurance documents",
+   "caption": "COVER THE CATASTROPHES",
+   "cuts": 3
+  },
+  {
+   "text": "For small risks, like a phone screen or a minor car dent, extended warranties and low deductibles often cost more than they're worth. Your emergency fund can cover those.",
+   "query": "Extended warranty offer",
+   "caption": "SKIP THE SMALL STUFF",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: review each insurance policy once this year. Is your deductible right for your emergency fund? Is your liability coverage enough? Do you still need every add on? Many people find savings and gaps at the same time.",
+   "query": "Insurance review",
+   "caption": "2027: REVIEW EACH POLICY",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 24. Name your beneficiaries and have a will.",
+   "card": {
+    "type": "list",
+    "n": 24,
+    "title": "Name your beneficiaries and have a will",
+    "sub": "protect the people you love"
+   },
+   "caption": "RULE 24",
+   "cuts": 1,
+   "chapter": "Rule 24. Name your beneficiaries and have a will"
+  },
+  {
+   "text": "Rule twenty four. Make sure every retirement account and life insurance policy has up to date beneficiaries. In many cases, beneficiary designations can override what a will says.",
+   "query": "Beneficiary form",
+   "caption": "UPDATE BENEFICIARIES",
+   "cuts": 3
+  },
+  {
+   "text": "And have at least a basic will, especially if you have children. It's one of the kindest things you can do for your family, and it often costs far less than people expect.",
+   "query": "Signing will",
+   "caption": "HAVE A WILL",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: log into every account with a beneficiary option, including retirement plans, IRAs, life insurance and bank accounts that allow payable on death designations. Make sure the names are current. Life changes like marriage, divorce and new children are the most common reasons they go out of date.",
+   "query": "Beneficiary forms",
+   "caption": "2027: CHECK EVERY ACCOUNT",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 25. Always negotiate.",
+   "card": {
+    "type": "list",
+    "n": 25,
+    "title": "Always negotiate",
+    "sub": "the ask costs nothing"
+   },
+   "caption": "RULE 25",
+   "cuts": 1,
+   "chapter": "Rule 25. Always negotiate"
+  },
+  {
+   "text": "Rule twenty five. Negotiate your salary, your rent renewal, your insurance, your internet bill, and large purchases. Not every negotiation works, but asking politely costs nothing.",
+   "query": "Negotiation handshake",
+   "caption": "ASK",
+   "cuts": 3
+  },
+  {
+   "text": "Salary matters most. A raise compounds into future raises and retirement contributions for the rest of your career. Research typical pay for your role, bring evidence of your results, and ask.",
+   "query": "Salary research laptop",
+   "caption": "SALARY FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: pick three bills to negotiate in the first quarter: for example internet, phone and car insurance. Call, ask for a better rate or a loyalty discount, and mention competitor prices. Even one success can save hundreds over the year.",
+   "query": "Phone call negotiation",
+   "caption": "2027: THREE CALLS",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 26. Use tax advantaged accounts first.",
+   "card": {
+    "type": "list",
+    "n": 26,
+    "title": "Use tax advantaged accounts first",
+    "sub": "keep more of your money"
+   },
+   "caption": "RULE 26",
+   "cuts": 1,
+   "chapter": "Rule 26. Use tax advantaged accounts first"
+  },
+  {
+   "text": "Rule twenty six. Before investing in a regular brokerage account, use tax advantaged accounts: your workplace plan, an IRA, and a health savings account if you qualify. Check the IRS website for the 2027 contribution limits, since they're adjusted for inflation.",
+   "query": "IRS website",
+   "caption": "TAX ADVANTAGES FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Over decades, the tax savings can add up to tens of thousands of dollars or more. It's one of the simplest ways to make your money grow faster without taking more risk.",
+   "query": "Tax savings growth",
+   "caption": "GROW FASTER, SAME RISK",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: if you're eligible for an IRA, consider contributing early in the year rather than at the deadline, so your money has more time to grow. And if you have a high deductible health plan, check whether you're using your health savings account fully.",
+   "query": "IRA contribution early",
+   "caption": "2027: CONTRIBUTE EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 27. Review subscriptions twice a year.",
+   "card": {
+    "type": "list",
+    "n": 27,
+    "title": "Review subscriptions twice a year",
+    "sub": "stop the silent leaks"
+   },
+   "caption": "RULE 27",
+   "cuts": 1,
+   "chapter": "Rule 27. Review subscriptions twice a year"
+  },
+  {
+   "text": "Rule twenty seven. In a 2022 survey by C plus R Research, people underestimated their monthly subscription spending by more than half. Twice a year, list every recurring charge and cancel what you don't use.",
+   "query": "Subscriptions list phone",
+   "caption": "TWICE A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Put the reviews on your calendar, for example in January and July. And rotate streaming services instead of keeping them all at once.",
+   "query": "Calendar January July",
+   "caption": "JANUARY AND JULY",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: when you sign up for a free trial, set a calendar reminder for the day before it ends. Many subscriptions start as free trials that people simply forget to cancel.",
+   "query": "Free trial reminder",
+   "caption": "2027: TRIAL REMINDERS",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 28. Build sinking funds for predictable costs.",
+   "card": {
+    "type": "list",
+    "n": 28,
+    "title": "Build sinking funds for predictable costs",
+    "sub": "no more surprise bills"
+   },
+   "caption": "RULE 28",
+   "cuts": 1,
+   "chapter": "Rule 28. Build sinking funds for predictable costs"
+  },
+  {
+   "text": "Rule twenty eight. Car repairs, holidays, birthdays and annual bills aren't emergencies. They're predictable, just irregular. Set aside a small amount every month in separate savings buckets for each one.",
+   "query": "Labeled savings buckets",
+   "caption": "PLAN THE IRREGULAR",
+   "cuts": 3
+  },
+  {
+   "text": "Sinking funds protect your emergency fund and your budget. When the bill arrives, the money is already there.",
+   "query": "Calm bill payment",
+   "caption": "THE MONEY IS WAITING",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: list every irregular expense you had in 2026. Add them up and divide by twelve. That's your monthly sinking fund total. Set it up as an automatic transfer and split it into buckets.",
+   "query": "List of 2026 expenses",
+   "caption": "2027: LIST LAST YEAR'S",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 29. Talk about money with the people you share life with.",
+   "card": {
+    "type": "list",
+    "n": 29,
+    "title": "Talk about money with the people you share life with",
+    "sub": "one team"
+   },
+   "caption": "RULE 29",
+   "cuts": 1,
+   "chapter": "Rule 29. Talk about money with the people you share life with"
+  },
+  {
+   "text": "Rule twenty nine. If you have a partner, talk about money regularly: goals, debts, spending, and fears. Money is one of the most commonly reported sources of stress in relationships. Regular, calm conversations prevent bigger conflicts later.",
+   "query": "Couple money talk",
+   "caption": "TALK REGULARLY",
+   "cuts": 3
+  },
+  {
+   "text": "Try a monthly money date: thirty minutes, a quick review, and one decision for the month ahead. End it with something fun.",
+   "query": "Money date coffee",
+   "caption": "A MONTHLY MONEY DATE",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: schedule your first money date in January. Bring three things: a list of accounts and balances, your top goal for the year, and one thing you'd love to spend on. Start with goals, not blame.",
+   "query": "Couple at table planning",
+   "caption": "2027: FIRST DATE IN JANUARY",
+   "cuts": 3
+  },
+  {
+   "text": "Rule 30. Invest in yourself every year.",
+   "card": {
+    "type": "list",
+    "n": 30,
+    "title": "Invest in yourself every year",
+    "sub": "your biggest asset"
+   },
+   "caption": "RULE 30",
+   "cuts": 1,
+   "chapter": "Rule 30. Invest in yourself every year"
+  },
+  {
+   "text": "Rule thirty. For most people, their ability to earn is their biggest financial asset. Every year, invest in it: a new skill, a certification, a course, better health, or stronger relationships in your field.",
+   "query": "Person studying course",
+   "caption": "YOUR BIGGEST ASSET",
+   "cuts": 3
+  },
+  {
+   "text": "A skill that raises your income by even a few thousand dollars a year can be worth more than almost any investment decision. And unlike the market, it's something you control.",
+   "query": "Career growth",
+   "caption": "SOMETHING YOU CONTROL",
+   "cuts": 3
+  },
+  {
+   "text": "How to apply it in 2027: choose one skill that would make you more valuable at work and commit to learning it this year. Ask your employer about training budgets or tuition help. Many companies offer them, and many employees never use them.",
+   "query": "Training budget form",
+   "caption": "2027: ONE SKILL THIS YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Notice how the action rules work together. Checking your reports, freezing your credit and naming beneficiaries protect what you have. Negotiating, tax advantages and investing in yourself grow it. Sinking funds, subscription reviews and money conversations keep the whole system running smoothly. None of them takes long. Together, they make your finances far more resilient.",
+   "query": "Interlocking gears",
+   "caption": "THEY WORK TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple way to roll these rules out over the year. January: rules two, eleven and eighteen. Raise your retirement contribution, pay yourself first, and automate. February: rules twenty one and twenty two. Check and freeze your credit. March: rules four and twenty five. Target your highest rate debt and negotiate three bills.",
+   "query": "Calendar January to March",
+   "caption": "JANUARY TO MARCH",
+   "cuts": 3,
+   "chapter": "A month by month plan for 2027"
+  },
+  {
+   "text": "April: rule one, using your tax refund to build your emergency fund. May: rules seven and twenty six, fees and tax advantaged accounts. June: rules twenty three and twenty four, insurance and beneficiaries. July: rule twenty seven, the mid year subscription review.",
+   "query": "Calendar April to July",
+   "caption": "APRIL TO JULY",
+   "cuts": 3
+  },
+  {
+   "text": "August: rule twenty eight, sinking funds for the holidays. September: rule thirty, pick a skill. October: rule sixteen, write your market drop plan. November: rule twelve, plan spending you love for the holidays. And December: rules nine and ten, your number and your net worth. By the end of the year, all thirty rules are part of your life.",
+   "query": "Calendar August to December",
+   "caption": "AUGUST TO DECEMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Let's imagine one person following these rules for a year. Carmen earns fifty eight thousand dollars and starts 2027 with about eight hundred dollars in savings, a three thousand dollar credit card balance, and a five percent retirement contribution with a five percent match she wasn't fully getting.",
+   "query": "Young woman at desk January",
+   "caption": "CARMEN IN JANUARY",
+   "cuts": 3,
+   "chapter": "What a year of rules can do",
+   "short_hook": "What one year of following money rules can do"
+  },
+  {
+   "text": "In January, she raises her contribution to get the full match and automates everything. In March, she negotiates her internet and insurance, saving about sixty dollars a month. In April, she puts most of her tax refund toward the card. By summer, the card is gone, and its payment flows into her emergency fund.",
+   "query": "Credit card paid off",
+   "caption": "CARMEN BY SUMMER",
+   "cuts": 3
+  },
+  {
+   "text": "By December, Carmen has about four thousand dollars in her emergency fund, no credit card debt, a higher retirement balance, frozen credit, updated beneficiaries, and a clear yearly net worth number. Nothing dramatic happened. She just followed a handful of rules, month after month.",
+   "query": "Woman confident December",
+   "caption": "CARMEN IN DECEMBER",
+   "cuts": 3
+  },
+  {
+   "text": "This is an illustration, not a promise. But it shows how simple rules, applied consistently, can change a financial life in a single year. And the second year is usually easier than the first, because the systems are already in place.",
+   "query": "Second year easier path",
+   "caption": "YEAR TWO IS EASIER",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Which rule matters most? If you only follow one, make it rule eleven, pay yourself first, with automation. It quietly powers most of the others.",
+   "query": "Number one trophy",
+   "caption": "THE MOST IMPORTANT RULE",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question two. What if I can't follow a rule because of my situation? That's fine. These are guidelines, not laws. If your housing is above thirty percent or you can't save fifteen percent yet, focus on moving in the right direction. Progress beats perfection.",
+   "query": "Direction arrow",
+   "caption": "PROGRESS BEATS PERFECTION",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What if my partner doesn't want to follow these rules? Start with the ones you can do on your own, like your own retirement contribution, your credit freeze and your subscriptions. Share results, not lectures. When a partner sees the emergency fund grow or a debt disappear, they're often more willing to join in.",
+   "query": "Couple different views",
+   "caption": "A PARTNER WHO ISN'T ON BOARD",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. How do I remember all thirty? You don't need to. Print the list, or save it on your phone, and review it once a month during your money check. Over time, the rules you use most become automatic, and you'll only need the list for the rest.",
+   "query": "Printed list on fridge",
+   "caption": "HOW TO REMEMBER THEM",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. Are these rules different for 2027 than for any other year? Mostly not. Good money rules are timeless. What changes each year are the details: contribution limits, interest rates, tax rules, and new types of scams. Check the official sources each year for the latest numbers.",
+   "query": "Timeless clock",
+   "caption": "TIMELESS RULES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's recap all thirty. The numbers. One: three to six months of essentials in cash. Two: save fifteen percent for retirement. Three: never leave the match on the table. Four: pay off debt above about eight percent. Five: housing around thirty percent or less.",
+   "query": "Checklist rules 1 to 5",
+   "caption": "RULES 1 TO 5",
+   "cuts": 3,
+   "chapter": "Recap: all 30 rules",
+   "short_hook": "All 30 money rules in 60 seconds"
+  },
+  {
+   "text": "Six: use the rule of seventy two. Seven: keep investment fees low. Eight: keep car costs under control. Nine: know your number, twenty five times spending. Ten: check your net worth once a year.",
+   "query": "Checklist rules 6 to 10",
+   "caption": "RULES 6 TO 10",
+   "cuts": 3
+  },
+  {
+   "text": "The psychology. Eleven: pay yourself first. Twelve: spend on what you love, cut what you don't. Thirteen: wait forty eight hours. Fourteen: don't compare to social media. Fifteen: if it sounds too good to be true, it is.",
+   "query": "Checklist rules 11 to 15",
+   "caption": "RULES 11 TO 15",
+   "cuts": 3
+  },
+  {
+   "text": "Sixteen: time in the market beats timing. Seventeen: never invest in what you can't explain. Eighteen: automate every good decision. Nineteen: let lifestyle rise slower than income. Twenty: money is a tool, not a scoreboard.",
+   "query": "Checklist rules 16 to 20",
+   "caption": "RULES 16 TO 20",
+   "cuts": 3
+  },
+  {
+   "text": "The action rules. Twenty one: check your credit reports. Twenty two: freeze your credit. Twenty three: insure against catastrophe. Twenty four: name beneficiaries and have a will. Twenty five: always negotiate.",
+   "query": "Checklist rules 21 to 25",
+   "caption": "RULES 21 TO 25",
+   "cuts": 3
+  },
+  {
+   "text": "Twenty six: use tax advantaged accounts first. Twenty seven: review subscriptions twice a year. Twenty eight: build sinking funds. Twenty nine: talk about money with your partner. And thirty: invest in yourself every year.",
+   "query": "Checklist rules 26 to 30",
+   "caption": "RULES 26 TO 30",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought. Rules can sound restrictive, but these thirty do the opposite. They free you from having to make the same hard decisions again and again. They protect you from scams, debt and panic. And they leave you with more money, more time and more choices. That's what a good year with money really looks like. Here's to making 2027 that year, for you and the people you love.",
+   "query": "Fireworks new year celebration",
+   "caption": "HERE'S TO 2027",
+   "cuts": 3
+  },
+  {
+   "text": "And if you only remember three rules from today, remember these. Pay yourself first. Never leave the match on the table. And if it sounds too good to be true, it is.",
+   "query": "Three highlighted rules",
+   "caption": "IF YOU REMEMBER THREE",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need to follow all thirty at once. Pick three for January, three for February, and so on. By the end of 2027, you'll have built a money system most people never do. And watch my final video in this series: the complete playbook from broke to one million dollars. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

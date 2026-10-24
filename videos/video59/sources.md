@@ -1,0 +1,12 @@
+- Federal Reserve, Economic Well-Being of U.S. Households (SHED), $400 emergency question
+- Federal Reserve, G.19 Consumer Credit (credit card interest rates)
+- Federal Trade Commission, Consumer Sentinel Network data on fraud losses (2024)
+- U.S. Bureau of Labor Statistics, Consumer Expenditure Survey (housing share)
+- William P. Bengen, Determining Withdrawal Rates Using Historical Data (1994)
+- Fidelity, retirement savings guidelines by age
+- Ramit Sethi, I Will Teach You to Be Rich (conscious spending)
+- Richard H. Thaler and Shlomo Benartzi, Save More Tomorrow (2004)
+- Elizabeth Dunn and Michael Norton, Happy Money (2013)
+- AnnualCreditReport.com and FTC guidance on free credit freezes
+- C+R Research, subscription spending survey (2022)
+- IRS, annual contribution limits for 401(k), IRA and HSA
