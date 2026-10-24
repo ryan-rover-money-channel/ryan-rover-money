@@ -1,0 +1,4147 @@
+1
+00:00:00,000 --> 00:00:02,054
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,234 --> 00:00:04,771
+Walk through any parking lot in America
+
+3
+00:00:04,771 --> 00:00:07,243
+and you'll see thousands of beautiful,
+
+4
+00:00:07,243 --> 00:00:07,958
+shiny cars.
+
+5
+00:00:08,138 --> 00:00:09,485
+Here's what you won't see.
+
+6
+00:00:09,665 --> 00:00:11,116
+The loan behind each one.
+
+7
+00:00:11,296 --> 00:00:13,887
+Americans now owe around one point six
+
+8
+00:00:13,887 --> 00:00:16,001
+trillion dollars on auto loans,
+
+9
+00:00:16,001 --> 00:00:18,320
+and the average new car payment is
+
+10
+00:00:18,320 --> 00:00:20,774
+higher than many people's rent was a
+
+11
+00:00:20,774 --> 00:00:21,525
+decade ago.
+
+12
+00:00:21,705 --> 00:00:24,195
+Today, we're talking about the car payment
+
+13
+00:00:24,195 --> 00:00:24,491
+trap.
+
+14
+00:00:24,840 --> 00:00:27,198
+Auto loan balances in the United States
+
+15
+00:00:27,198 --> 00:00:29,738
+are around one point six trillion dollars,
+
+16
+00:00:29,738 --> 00:00:32,156
+according to the Federal Reserve Bank of
+
+17
+00:00:32,156 --> 00:00:32,700
+New York.
+
+18
+00:00:32,880 --> 00:00:35,223
+That's more than Americans owe on credit
+
+19
+00:00:35,223 --> 00:00:35,574
+cards.
+
+20
+00:00:35,923 --> 00:00:38,454
+Cars are necessary for most Americans.
+
+21
+00:00:38,634 --> 00:00:40,580
+You need one to get to work,
+
+22
+00:00:40,580 --> 00:00:41,970
+take kids to school,
+
+23
+00:00:41,970 --> 00:00:43,220
+and buy groceries.
+
+24
+00:00:43,400 --> 00:00:45,795
+That's exactly why the car trap is
+
+25
+00:00:45,795 --> 00:00:46,640
+so powerful.
+
+26
+00:00:46,820 --> 00:00:49,606
+It hides inside something you genuinely need.
+
+27
+00:00:49,786 --> 00:00:51,588
+And the gap between the car you
+
+28
+00:00:51,588 --> 00:00:53,449
+need and the car you're sold can
+
+29
+00:00:53,449 --> 00:00:55,833
+quietly cost you hundreds of thousands of
+
+30
+00:00:55,833 --> 00:00:57,228
+dollars over a lifetime.
+
+31
+00:00:57,578 --> 00:00:59,807
+We'll look at it from three angles.
+
+32
+00:00:59,987 --> 00:01:01,358
+First, the numbers:
+
+33
+00:01:01,358 --> 00:01:02,946
+what cars really cost,
+
+34
+00:01:02,946 --> 00:01:04,317
+beyond the sticker.
+
+35
+00:01:04,497 --> 00:01:06,045
+Second, the psychology:
+
+36
+00:01:06,045 --> 00:01:08,400
+how dealers and our own brains turn
+
+37
+00:01:08,400 --> 00:01:10,890
+a sensible purchase into a seven year
+
+38
+00:01:10,890 --> 00:01:11,428
+payment.
+
+39
+00:01:11,608 --> 00:01:13,290
+And third, the playbook:
+
+40
+00:01:13,290 --> 00:01:14,060
+how to buy,
+
+41
+00:01:14,060 --> 00:01:16,162
+finance and keep a car the way
+
+42
+00:01:16,162 --> 00:01:17,843
+wealthy people often do.
+
+43
+00:01:18,193 --> 00:01:19,745
+And stay for the part about the
+
+44
+00:01:19,745 --> 00:01:21,548
+hundred thousand dollar car payment.
+
+45
+00:01:21,728 --> 00:01:23,419
+It's not a car that costs one
+
+46
+00:01:23,419 --> 00:01:24,410
+hundred thousand.
+
+47
+00:01:24,590 --> 00:01:26,343
+It's a much more ordinary story.
+
+48
+00:01:26,523 --> 00:01:28,113
+Let's start with the numbers.
+
+49
+00:01:28,464 --> 00:01:30,592
+Every number here comes from a named
+
+50
+00:01:30,592 --> 00:01:31,006
+source.
+
+51
+00:01:31,186 --> 00:01:33,441
+Auto debt totals come from the Federal
+
+52
+00:01:33,441 --> 00:01:34,925
+Reserve Bank of New York.
+
+53
+00:01:35,105 --> 00:01:38,249
+Typical payments, prices and loan terms come
+
+54
+00:01:38,249 --> 00:01:41,250
+from industry research firms like Edmunds,
+
+55
+00:01:41,250 --> 00:01:43,394
+Experian and Kelley Blue Book.
+
+56
+00:01:43,574 --> 00:01:46,602
+Total ownership costs come from AAA's yearly
+
+57
+00:01:46,602 --> 00:01:48,323
+Your Driving Costs study.
+
+58
+00:01:48,503 --> 00:01:50,988
+These numbers change every quarter,
+
+59
+00:01:50,988 --> 00:01:53,402
+so treat them as recent snapshots,
+
+60
+00:01:53,402 --> 00:01:54,609
+not exact quotes.
+
+61
+00:01:54,789 --> 00:01:56,322
+And this is education,
+
+62
+00:01:56,322 --> 00:01:57,785
+not financial advice.
+
+63
+00:01:58,135 --> 00:02:00,662
+Car loans are almost as old as
+
+64
+00:02:00,662 --> 00:02:01,083
+cars.
+
+65
+00:02:01,263 --> 00:02:02,885
+In the nineteen twenties,
+
+66
+00:02:02,885 --> 00:02:05,933
+as cars became affordable to ordinary families,
+
+67
+00:02:05,933 --> 00:02:08,722
+companies began offering installment plans,
+
+68
+00:02:08,722 --> 00:02:10,668
+so people could pay over time.
+
+69
+00:02:10,848 --> 00:02:13,526
+General Motors created its own finance arm
+
+70
+00:02:13,526 --> 00:02:14,865
+in nineteen nineteen.
+
+71
+00:02:15,045 --> 00:02:16,351
+Within a few years,
+
+72
+00:02:16,351 --> 00:02:18,276
+a large share of new cars in
+
+73
+00:02:18,276 --> 00:02:20,339
+America were bought on credit.
+
+74
+00:02:20,519 --> 00:02:22,880
+The car payment was born almost as
+
+75
+00:02:22,880 --> 00:02:24,478
+soon as the car itself.
+
+76
+00:02:24,828 --> 00:02:27,672
+For decades, loans were relatively short.
+
+77
+00:02:27,852 --> 00:02:29,924
+Three year loans were common for a
+
+78
+00:02:29,924 --> 00:02:30,534
+long time.
+
+79
+00:02:30,714 --> 00:02:33,101
+As prices rose faster than incomes,
+
+80
+00:02:33,101 --> 00:02:36,647
+lenders stretched terms to keep payments manageable.
+
+81
+00:02:36,827 --> 00:02:38,465
+Four years, then five,
+
+82
+00:02:38,465 --> 00:02:40,847
+then six, and now seven years or
+
+83
+00:02:40,847 --> 00:02:42,411
+more for some buyers.
+
+84
+00:02:42,591 --> 00:02:45,302
+Each step made expensive cars feel affordable,
+
+85
+00:02:45,302 --> 00:02:47,189
+without making them any cheaper.
+
+86
+00:02:47,539 --> 00:02:48,749
+At the same time,
+
+87
+00:02:48,749 --> 00:02:49,675
+cars changed.
+
+88
+00:02:49,855 --> 00:02:51,078
+They became safer,
+
+89
+00:02:51,078 --> 00:02:53,456
+more comfortable and more reliable,
+
+90
+00:02:53,456 --> 00:02:54,476
+which is great.
+
+91
+00:02:54,656 --> 00:02:57,019
+But they also became more expensive,
+
+92
+00:02:57,019 --> 00:02:59,777
+and the most popular vehicles shifted from
+
+93
+00:02:59,777 --> 00:03:02,469
+smaller sedans to larger trucks and SUVs.
+
+94
+00:03:02,649 --> 00:03:05,788
+Many automakers reduced or dropped their cheapest
+
+95
+00:03:05,788 --> 00:03:06,237
+models.
+
+96
+00:03:06,417 --> 00:03:09,175
+So today's buyer often faces fewer low
+
+97
+00:03:09,175 --> 00:03:12,152
+cost choices, and a bigger default price.
+
+98
+00:03:12,502 --> 00:03:13,210
+Angle one.
+
+99
+00:03:13,390 --> 00:03:14,191
+The numbers.
+
+100
+00:03:14,371 --> 00:03:16,751
+Let's see what a car actually costs.
+
+101
+00:03:17,101 --> 00:03:17,890
+Number one.
+
+102
+00:03:18,070 --> 00:03:19,185
+The payment itself.
+
+103
+00:03:19,535 --> 00:03:22,262
+According to industry data from firms like
+
+104
+00:03:22,262 --> 00:03:23,625
+Edmunds and Experian,
+
+105
+00:03:23,625 --> 00:03:25,963
+the average monthly payment on a new
+
+106
+00:03:25,963 --> 00:03:28,430
+car loan has been around seven hundred
+
+107
+00:03:28,430 --> 00:03:30,378
+fifty dollars in recent years.
+
+108
+00:03:30,558 --> 00:03:33,077
+Used car payments have averaged around five
+
+109
+00:03:33,077 --> 00:03:34,482
+hundred dollars or more.
+
+110
+00:03:34,662 --> 00:03:36,660
+And a growing share of new car
+
+111
+00:03:36,660 --> 00:03:38,724
+buyers, close to one in five in
+
+112
+00:03:38,724 --> 00:03:40,055
+some recent reports,
+
+113
+00:03:40,055 --> 00:03:42,585
+have taken on payments of one thousand
+
+114
+00:03:42,585 --> 00:03:44,183
+dollars a month or more.
+
+115
+00:03:44,533 --> 00:03:46,030
+Think about what that means.
+
+116
+00:03:46,210 --> 00:03:48,383
+Seven hundred fifty dollars a month is
+
+117
+00:03:48,383 --> 00:03:50,042
+nine thousand dollars a year.
+
+118
+00:03:50,222 --> 00:03:53,080
+For a household earning sixty thousand dollars
+
+119
+00:03:53,080 --> 00:03:55,193
+before taxes, that can be close to
+
+120
+00:03:55,193 --> 00:03:56,870
+one fifth of take home pay,
+
+121
+00:03:56,870 --> 00:03:57,989
+just for the loan.
+
+122
+00:03:58,169 --> 00:03:59,952
+Before gas, insurance,
+
+123
+00:03:59,952 --> 00:04:02,627
+repairs, registration or parking.
+
+124
+00:04:02,977 --> 00:04:04,892
+And here's the important part.
+
+125
+00:04:05,072 --> 00:04:07,264
+A car payment isn't like a mortgage,
+
+126
+00:04:07,264 --> 00:04:10,125
+where you're often building equity in something
+
+127
+00:04:10,125 --> 00:04:11,585
+that may hold its value.
+
+128
+00:04:11,765 --> 00:04:14,981
+A car is almost always losing value.
+
+129
+00:04:15,161 --> 00:04:17,089
+You're making a big payment on something
+
+130
+00:04:17,089 --> 00:04:19,016
+that's shrinking every month you own it.
+
+131
+00:04:19,366 --> 00:04:20,225
+Number two.
+
+132
+00:04:20,405 --> 00:04:21,101
+The price.
+
+133
+00:04:21,452 --> 00:04:23,661
+Kelley Blue Book data shows the average
+
+134
+00:04:23,661 --> 00:04:25,474
+price paid for a new vehicle has
+
+135
+00:04:25,474 --> 00:04:28,081
+been close to fifty thousand dollars recently.
+
+136
+00:04:28,261 --> 00:04:30,502
+Trucks and SUVs have become the most
+
+137
+00:04:30,502 --> 00:04:32,930
+popular vehicles, and they tend to cost
+
+138
+00:04:32,930 --> 00:04:33,242
+more.
+
+139
+00:04:33,422 --> 00:04:36,280
+Features that used to be luxury options,
+
+140
+00:04:36,280 --> 00:04:39,496
+like big screens and advanced safety systems,
+
+141
+00:04:39,496 --> 00:04:41,711
+are now standard in many trims.
+
+142
+00:04:42,061 --> 00:04:43,674
+Compare that with incomes.
+
+143
+00:04:43,854 --> 00:04:46,262
+The median household income in the United
+
+144
+00:04:46,262 --> 00:04:48,553
+States, according to the Census Bureau,
+
+145
+00:04:48,553 --> 00:04:50,902
+has been around eighty thousand dollars.
+
+146
+00:04:51,082 --> 00:04:53,314
+So the typical new car now costs
+
+147
+00:04:53,314 --> 00:04:56,036
+well over half of a typical household's
+
+148
+00:04:56,036 --> 00:04:57,990
+yearly income, before taxes.
+
+149
+00:04:58,170 --> 00:05:00,748
+Many planners suggest your total car costs
+
+150
+00:05:00,748 --> 00:05:02,775
+should be a much smaller share of
+
+151
+00:05:02,775 --> 00:05:04,125
+your budget than that.
+
+152
+00:05:04,476 --> 00:05:05,346
+Number three.
+
+153
+00:05:05,526 --> 00:05:06,327
+The loan term.
+
+154
+00:05:06,678 --> 00:05:08,992
+To make big prices fit into monthly
+
+155
+00:05:08,992 --> 00:05:11,240
+budgets, loans have gotten longer.
+
+156
+00:05:11,420 --> 00:05:12,508
+Six year loans,
+
+157
+00:05:12,508 --> 00:05:13,885
+seventy two months,
+
+158
+00:05:13,885 --> 00:05:14,973
+are now common.
+
+159
+00:05:15,153 --> 00:05:16,380
+Seven year loans,
+
+160
+00:05:16,380 --> 00:05:17,752
+eighty four months,
+
+161
+00:05:17,752 --> 00:05:19,774
+have become more common too.
+
+162
+00:05:19,954 --> 00:05:22,500
+A longer loan lowers the monthly payment,
+
+163
+00:05:22,500 --> 00:05:25,294
+which makes an expensive car feel affordable.
+
+164
+00:05:25,645 --> 00:05:28,025
+But longer loans have two big costs.
+
+165
+00:05:28,205 --> 00:05:29,881
+First, more total interest,
+
+166
+00:05:29,881 --> 00:05:32,117
+because you're borrowing for longer.
+
+167
+00:05:32,297 --> 00:05:34,378
+Second, you can owe more than the
+
+168
+00:05:34,378 --> 00:05:36,206
+car is worth for much longer,
+
+169
+00:05:36,206 --> 00:05:38,665
+because the car loses value faster than
+
+170
+00:05:38,665 --> 00:05:40,053
+you pay down the loan.
+
+171
+00:05:40,233 --> 00:05:42,523
+That gap is called negative equity,
+
+172
+00:05:42,523 --> 00:05:44,093
+and we'll get to it in a
+
+173
+00:05:44,093 --> 00:05:44,552
+moment.
+
+174
+00:05:44,902 --> 00:05:47,601
+Same forty thousand dollar loan at seven
+
+175
+00:05:47,601 --> 00:05:48,141
+percent.
+
+176
+00:05:48,321 --> 00:05:49,305
+Over five years,
+
+177
+00:05:49,305 --> 00:05:51,826
+the payment is about seven hundred ninety
+
+178
+00:05:51,826 --> 00:05:54,410
+dollars and the total interest about seven
+
+179
+00:05:54,410 --> 00:05:55,763
+thousand five hundred.
+
+180
+00:05:55,943 --> 00:05:57,076
+Over seven years,
+
+181
+00:05:57,076 --> 00:05:59,608
+the payment drops to about six hundred
+
+182
+00:05:59,608 --> 00:06:02,207
+five dollars, but the interest rises to
+
+183
+00:06:02,207 --> 00:06:04,406
+about ten thousand seven hundred.
+
+184
+00:06:04,757 --> 00:06:05,453
+Number four.
+
+185
+00:06:05,633 --> 00:06:06,852
+The interest rate.
+
+186
+00:06:07,203 --> 00:06:09,350
+When interest rates were near zero,
+
+187
+00:06:09,350 --> 00:06:10,639
+car loans were cheap.
+
+188
+00:06:10,819 --> 00:06:11,875
+In recent years,
+
+189
+00:06:11,875 --> 00:06:13,129
+rates have climbed.
+
+190
+00:06:13,309 --> 00:06:16,028
+New car loans have often averaged around
+
+191
+00:06:16,028 --> 00:06:18,611
+seven percent, and used car loans have
+
+192
+00:06:18,611 --> 00:06:20,786
+often been in the double digits.
+
+193
+00:06:20,966 --> 00:06:23,510
+Borrowers with lower credit scores can pay
+
+194
+00:06:23,510 --> 00:06:26,235
+far more, sometimes fifteen to twenty percent
+
+195
+00:06:26,235 --> 00:06:26,841
+or higher.
+
+196
+00:06:27,191 --> 00:06:28,113
+At those rates,
+
+197
+00:06:28,113 --> 00:06:30,449
+the same car can cost wildly different
+
+198
+00:06:30,449 --> 00:06:30,941
+amounts.
+
+199
+00:06:31,121 --> 00:06:33,579
+A thirty thousand dollar used car loan
+
+200
+00:06:33,579 --> 00:06:35,972
+at seven percent for five years costs
+
+201
+00:06:35,972 --> 00:06:38,689
+about five thousand six hundred dollars in
+
+202
+00:06:38,689 --> 00:06:39,271
+interest.
+
+203
+00:06:39,451 --> 00:06:40,642
+At fifteen percent,
+
+204
+00:06:40,642 --> 00:06:43,212
+it's about twelve thousand eight hundred.
+
+205
+00:06:43,392 --> 00:06:44,344
+Same car.
+
+206
+00:06:44,524 --> 00:06:46,428
+More than double the interest.
+
+207
+00:06:46,608 --> 00:06:49,142
+Your credit score is literally priced into
+
+208
+00:06:49,142 --> 00:06:49,685
+your car.
+
+209
+00:06:50,035 --> 00:06:50,952
+Number five.
+
+210
+00:06:51,132 --> 00:06:52,269
+Depreciation.
+
+211
+00:06:52,449 --> 00:06:54,586
+The cost nobody sends you a bill
+
+212
+00:06:54,586 --> 00:06:54,853
+for.
+
+213
+00:06:55,202 --> 00:06:58,008
+Depreciation is the value a car loses
+
+214
+00:06:58,008 --> 00:06:58,767
+over time.
+
+215
+00:06:58,947 --> 00:07:01,560
+It's often the single biggest cost of
+
+216
+00:07:01,560 --> 00:07:02,761
+owning a new car,
+
+217
+00:07:02,761 --> 00:07:04,810
+bigger than gas or insurance.
+
+218
+00:07:04,990 --> 00:07:07,204
+A common estimate is that many new
+
+219
+00:07:07,204 --> 00:07:09,809
+cars lose around twenty percent of their
+
+220
+00:07:09,809 --> 00:07:11,372
+value in the first year,
+
+221
+00:07:11,372 --> 00:07:13,521
+and roughly half or more in about
+
+222
+00:07:13,521 --> 00:07:15,735
+five years, though it varies a lot
+
+223
+00:07:15,735 --> 00:07:16,321
+by model.
+
+224
+00:07:16,671 --> 00:07:18,601
+On a fifty thousand dollar car,
+
+225
+00:07:18,601 --> 00:07:21,029
+losing twenty percent in the first year
+
+226
+00:07:21,029 --> 00:07:22,523
+is ten thousand dollars.
+
+227
+00:07:22,703 --> 00:07:24,966
+That's almost two hundred dollars a week,
+
+228
+00:07:24,966 --> 00:07:27,009
+gone, just for the privilege of being
+
+229
+00:07:27,009 --> 00:07:27,893
+the first owner.
+
+230
+00:07:28,073 --> 00:07:29,535
+You never see it on a bill.
+
+231
+00:07:29,715 --> 00:07:31,691
+You only find out when you sell
+
+232
+00:07:31,691 --> 00:07:32,455
+or trade in.
+
+233
+00:07:32,805 --> 00:07:34,768
+This is why many wealthy people buy
+
+234
+00:07:34,768 --> 00:07:36,451
+cars that are a few years old.
+
+235
+00:07:36,631 --> 00:07:38,562
+The first owner has already paid for
+
+236
+00:07:38,562 --> 00:07:40,172
+the steepest part of the drop.
+
+237
+00:07:40,352 --> 00:07:41,841
+You still get a reliable,
+
+238
+00:07:41,841 --> 00:07:43,806
+modern car, and you skip the most
+
+239
+00:07:43,806 --> 00:07:45,414
+expensive part of the ride.
+
+240
+00:07:45,763 --> 00:07:46,820
+Number six.
+
+241
+00:07:47,000 --> 00:07:48,753
+The full cost of owning.
+
+242
+00:07:49,103 --> 00:07:52,233
+AAA calculates the total yearly cost of
+
+243
+00:07:52,233 --> 00:07:53,597
+owning a new car,
+
+244
+00:07:53,597 --> 00:07:56,326
+including depreciation, insurance,
+
+245
+00:07:56,326 --> 00:07:59,135
+fuel, maintenance, finance charges,
+
+246
+00:07:59,135 --> 00:08:00,980
+registration and taxes.
+
+247
+00:08:01,160 --> 00:08:02,102
+In recent years,
+
+248
+00:08:02,102 --> 00:08:04,337
+its estimate has been more than eleven
+
+249
+00:08:04,337 --> 00:08:06,573
+thousand dollars a year for an average
+
+250
+00:08:06,573 --> 00:08:09,044
+new vehicle driven fifteen thousand miles.
+
+251
+00:08:09,224 --> 00:08:11,348
+That's roughly nine hundred to one thousand
+
+252
+00:08:11,348 --> 00:08:12,138
+dollars a month.
+
+253
+00:08:12,487 --> 00:08:14,889
+So when someone says their car payment
+
+254
+00:08:14,889 --> 00:08:16,406
+is five hundred dollars,
+
+255
+00:08:16,406 --> 00:08:18,618
+the real cost is often double that.
+
+256
+00:08:18,798 --> 00:08:21,632
+Car insurance alone has risen sharply in
+
+257
+00:08:21,632 --> 00:08:23,616
+recent years in many states.
+
+258
+00:08:23,796 --> 00:08:27,127
+Bigger, more expensive cars usually mean bigger
+
+259
+00:08:27,127 --> 00:08:29,254
+insurance bills, bigger tires,
+
+260
+00:08:29,254 --> 00:08:31,168
+and more expensive repairs.
+
+261
+00:08:31,518 --> 00:08:33,723
+Insurance deserves its own warning.
+
+262
+00:08:33,903 --> 00:08:34,958
+In recent years,
+
+263
+00:08:34,958 --> 00:08:37,925
+car insurance premiums have risen much faster
+
+264
+00:08:37,925 --> 00:08:40,496
+than general inflation in many parts of
+
+265
+00:08:40,496 --> 00:08:41,287
+the country.
+
+266
+00:08:41,467 --> 00:08:43,827
+Modern cars are full of sensors,
+
+267
+00:08:43,827 --> 00:08:45,449
+cameras and computers,
+
+268
+00:08:45,449 --> 00:08:48,915
+which makes even small accidents more expensive
+
+269
+00:08:48,915 --> 00:08:49,652
+to repair.
+
+270
+00:08:49,832 --> 00:08:53,211
+And repair costs feed directly into premiums.
+
+271
+00:08:53,391 --> 00:08:55,994
+Some drivers have seen their insurance rise
+
+272
+00:08:55,994 --> 00:08:57,810
+by hundreds of dollars a year,
+
+273
+00:08:57,810 --> 00:08:59,324
+even with a clean record.
+
+274
+00:08:59,674 --> 00:09:01,612
+Try this simple exercise.
+
+275
+00:09:01,792 --> 00:09:03,707
+Add up everything your car cost you
+
+276
+00:09:03,707 --> 00:09:04,254
+last year.
+
+277
+00:09:04,434 --> 00:09:06,742
+Payments, insurance, fuel,
+
+278
+00:09:06,742 --> 00:09:09,848
+maintenance, repairs, registration,
+
+279
+00:09:09,848 --> 00:09:11,446
+parking and tolls.
+
+280
+00:09:11,626 --> 00:09:13,658
+Then divide by the miles you drove.
+
+281
+00:09:13,838 --> 00:09:16,726
+Many people discover they're paying sixty,
+
+282
+00:09:16,726 --> 00:09:19,202
+eighty cents or more for every mile.
+
+283
+00:09:19,382 --> 00:09:21,311
+Once you know your cost per mile,
+
+284
+00:09:21,311 --> 00:09:23,592
+every trip and every car decision looks
+
+285
+00:09:23,592 --> 00:09:24,177
+different.
+
+286
+00:09:24,527 --> 00:09:25,798
+According to AAA,
+
+287
+00:09:25,798 --> 00:09:28,492
+owning an average new car costs more
+
+288
+00:09:28,492 --> 00:09:31,185
+than eleven thousand dollars a year,
+
+289
+00:09:31,185 --> 00:09:33,131
+once you add depreciation,
+
+290
+00:09:33,131 --> 00:09:35,301
+insurance, fuel, maintenance,
+
+291
+00:09:35,301 --> 00:09:36,647
+interest and fees.
+
+292
+00:09:36,998 --> 00:09:37,973
+Number seven.
+
+293
+00:09:38,153 --> 00:09:39,209
+Negative equity.
+
+294
+00:09:39,560 --> 00:09:42,642
+Negative equity, also called being upside down
+
+295
+00:09:42,642 --> 00:09:45,055
+or underwater, means you owe more on
+
+296
+00:09:45,055 --> 00:09:47,199
+your loan than the car is worth.
+
+297
+00:09:47,379 --> 00:09:49,841
+With long loans and fast depreciation,
+
+298
+00:09:49,841 --> 00:09:51,396
+it's become very common.
+
+299
+00:09:51,576 --> 00:09:53,995
+Edmunds has reported that around a quarter
+
+300
+00:09:53,995 --> 00:09:55,895
+or more of new car buyers trading
+
+301
+00:09:55,895 --> 00:09:57,622
+in a vehicle owed more than it
+
+302
+00:09:57,622 --> 00:10:00,214
+was worth, often by several thousand dollars.
+
+303
+00:10:00,564 --> 00:10:02,556
+What do people do with that negative
+
+304
+00:10:02,556 --> 00:10:02,944
+equity?
+
+305
+00:10:03,124 --> 00:10:05,244
+Very often, they roll it into the
+
+306
+00:10:05,244 --> 00:10:05,887
+next loan.
+
+307
+00:10:06,067 --> 00:10:07,971
+The dealer adds the old debt to
+
+308
+00:10:07,971 --> 00:10:09,016
+the new car loan.
+
+309
+00:10:09,196 --> 00:10:11,208
+Now you start your new car already
+
+310
+00:10:11,208 --> 00:10:13,635
+deeply underwater, with a bigger loan and
+
+311
+00:10:13,635 --> 00:10:14,641
+a bigger payment.
+
+312
+00:10:14,821 --> 00:10:16,462
+And if you trade in again in
+
+313
+00:10:16,462 --> 00:10:17,166
+a few years,
+
+314
+00:10:17,166 --> 00:10:18,397
+the hole gets deeper.
+
+315
+00:10:18,747 --> 00:10:21,712
+Negative equity is also dangerous if the
+
+316
+00:10:21,712 --> 00:10:23,565
+car is totaled or stolen.
+
+317
+00:10:23,745 --> 00:10:26,139
+Insurance pays what the car is worth,
+
+318
+00:10:26,139 --> 00:10:27,239
+not what you owe.
+
+319
+00:10:27,419 --> 00:10:28,742
+Without gap insurance,
+
+320
+00:10:28,742 --> 00:10:30,546
+you could be left paying off a
+
+321
+00:10:30,546 --> 00:10:32,169
+loan on a car you no longer
+
+322
+00:10:32,169 --> 00:10:32,470
+have.
+
+323
+00:10:32,820 --> 00:10:33,655
+Number eight.
+
+324
+00:10:33,835 --> 00:10:35,159
+The opportunity cost.
+
+325
+00:10:35,339 --> 00:10:38,009
+Here's the hundred thousand dollar car payment
+
+326
+00:10:38,009 --> 00:10:38,648
+I promised.
+
+327
+00:10:38,998 --> 00:10:41,081
+Opportunity cost is what you give up
+
+328
+00:10:41,081 --> 00:10:43,107
+by choosing one thing over another.
+
+329
+00:10:43,287 --> 00:10:46,003
+Imagine the difference between a seven hundred
+
+330
+00:10:46,003 --> 00:10:48,247
+fifty dollar payment and a more modest
+
+331
+00:10:48,247 --> 00:10:50,549
+three hundred fifty dollar payment on a
+
+332
+00:10:50,549 --> 00:10:51,612
+reliable used car.
+
+333
+00:10:51,792 --> 00:10:53,440
+That's four hundred dollars a month.
+
+334
+00:10:53,791 --> 00:10:56,329
+Now imagine you invest that four hundred
+
+335
+00:10:56,329 --> 00:10:57,598
+dollars every month,
+
+336
+00:10:57,598 --> 00:11:00,200
+at a seven percent average yearly return,
+
+337
+00:11:00,200 --> 00:11:01,279
+for thirty years.
+
+338
+00:11:01,459 --> 00:11:03,064
+The math says it could grow to
+
+339
+00:11:03,064 --> 00:11:05,418
+nearly four hundred ninety thousand dollars.
+
+340
+00:11:05,598 --> 00:11:07,065
+Even over fifteen years,
+
+341
+00:11:07,065 --> 00:11:09,204
+it could be over one hundred twenty
+
+342
+00:11:09,204 --> 00:11:09,754
+thousand.
+
+343
+00:11:09,934 --> 00:11:11,846
+That's the real price of the nicer
+
+344
+00:11:11,846 --> 00:11:12,071
+car.
+
+345
+00:11:12,251 --> 00:11:13,156
+Not the sticker.
+
+346
+00:11:13,336 --> 00:11:14,938
+The future it replaces.
+
+347
+00:11:15,289 --> 00:11:17,306
+Four hundred dollars a month,
+
+348
+00:11:17,306 --> 00:11:19,602
+the gap between a big car payment
+
+349
+00:11:19,602 --> 00:11:20,785
+and a modest one,
+
+350
+00:11:20,785 --> 00:11:23,289
+invested at seven percent a year for
+
+351
+00:11:23,289 --> 00:11:24,193
+thirty years.
+
+352
+00:11:24,373 --> 00:11:26,296
+You'd put in one hundred forty four
+
+353
+00:11:26,296 --> 00:11:27,229
+thousand dollars.
+
+354
+00:11:27,580 --> 00:11:29,160
+That's an illustration,
+
+355
+00:11:29,160 --> 00:11:30,122
+not a promise.
+
+356
+00:11:30,302 --> 00:11:31,893
+Markets go up and down.
+
+357
+00:11:32,073 --> 00:11:34,131
+But it shows why many self made
+
+358
+00:11:34,131 --> 00:11:36,322
+millionaires drive ordinary cars.
+
+359
+00:11:36,502 --> 00:11:38,097
+It's not that they can't afford a
+
+360
+00:11:38,097 --> 00:11:38,580
+nicer one.
+
+361
+00:11:38,760 --> 00:11:40,703
+It's that they know what the nicer
+
+362
+00:11:40,703 --> 00:11:41,674
+one really costs.
+
+363
+00:11:42,025 --> 00:11:44,579
+And here's the part that worries economists.
+
+364
+00:11:44,759 --> 00:11:47,368
+When people stretch for big car payments,
+
+365
+00:11:47,368 --> 00:11:49,659
+there's less room for anything to go
+
+366
+00:11:49,659 --> 00:11:50,041
+wrong.
+
+367
+00:11:50,221 --> 00:11:53,977
+Credit agencies have reported rising delinquencies on
+
+368
+00:11:53,977 --> 00:11:57,449
+auto loans, especially among borrowers with lower
+
+369
+00:11:57,449 --> 00:11:58,441
+credit scores.
+
+370
+00:11:58,621 --> 00:12:01,362
+Missing car payments can lead to repossession,
+
+371
+00:12:01,362 --> 00:12:03,209
+which damages credit for years,
+
+372
+00:12:03,209 --> 00:12:05,653
+and often leaves people still owing money
+
+373
+00:12:05,653 --> 00:12:07,619
+after the car is sold at auction.
+
+374
+00:12:07,969 --> 00:12:09,606
+So the numbers are clear.
+
+375
+00:12:09,786 --> 00:12:11,354
+But if they're so clear,
+
+376
+00:12:11,354 --> 00:12:13,315
+why do so many people fall in?
+
+377
+00:12:13,495 --> 00:12:14,482
+That's angle two.
+
+378
+00:12:14,832 --> 00:12:15,876
+Angle two.
+
+379
+00:12:16,056 --> 00:12:17,229
+The psychology.
+
+380
+00:12:17,409 --> 00:12:19,699
+Six ways the car buying process,
+
+381
+00:12:19,699 --> 00:12:21,059
+and our own brains,
+
+382
+00:12:21,059 --> 00:12:22,634
+push us into the trap.
+
+383
+00:12:22,984 --> 00:12:24,168
+Trick number nine.
+
+384
+00:12:24,348 --> 00:12:25,869
+The monthly payment question.
+
+385
+00:12:26,219 --> 00:12:28,294
+Walk into many dealerships and one of
+
+386
+00:12:28,294 --> 00:12:29,584
+the first questions is,
+
+387
+00:12:29,584 --> 00:12:31,884
+what monthly payment are you looking for?
+
+388
+00:12:32,064 --> 00:12:33,144
+It sounds helpful.
+
+389
+00:12:33,324 --> 00:12:34,457
+But once you answer,
+
+390
+00:12:34,457 --> 00:12:36,778
+the conversation can shift from the price
+
+391
+00:12:36,778 --> 00:12:38,194
+of the car to the size of
+
+392
+00:12:38,194 --> 00:12:38,874
+the payment.
+
+393
+00:12:39,054 --> 00:12:41,320
+And almost any car can fit almost
+
+394
+00:12:41,320 --> 00:12:43,519
+any payment, if the loan is long
+
+395
+00:12:43,519 --> 00:12:43,999
+enough.
+
+396
+00:12:44,350 --> 00:12:46,439
+Say you answer five hundred dollars.
+
+397
+00:12:46,619 --> 00:12:48,831
+The dealer can stretch the loan,
+
+398
+00:12:48,831 --> 00:12:50,629
+adjust the trade in value,
+
+399
+00:12:50,629 --> 00:12:51,942
+add a few products,
+
+400
+00:12:51,942 --> 00:12:54,085
+and still land at five hundred.
+
+401
+00:12:54,265 --> 00:12:55,727
+You feel like you got what you
+
+402
+00:12:55,727 --> 00:12:56,215
+asked for.
+
+403
+00:12:56,395 --> 00:12:57,538
+But the total cost,
+
+404
+00:12:57,538 --> 00:12:59,463
+the thing that actually matters,
+
+405
+00:12:59,463 --> 00:13:01,689
+might be thousands of dollars higher.
+
+406
+00:13:02,040 --> 00:13:04,649
+Try this: when asked about payments,
+
+407
+00:13:04,649 --> 00:13:06,896
+say, I'm focused on the out the
+
+408
+00:13:06,896 --> 00:13:07,694
+door price.
+
+409
+00:13:07,874 --> 00:13:10,416
+That's the total price including taxes and
+
+410
+00:13:10,416 --> 00:13:10,718
+fees.
+
+411
+00:13:10,898 --> 00:13:12,454
+Negotiate that first.
+
+412
+00:13:12,634 --> 00:13:15,118
+Financing is a separate conversation.
+
+413
+00:13:15,469 --> 00:13:16,606
+Trick number ten.
+
+414
+00:13:16,786 --> 00:13:18,621
+Juggling four numbers at once.
+
+415
+00:13:18,971 --> 00:13:21,325
+Car deals involve four main numbers:
+
+416
+00:13:21,325 --> 00:13:22,698
+the price of the car,
+
+417
+00:13:22,698 --> 00:13:24,463
+the value of your trade in,
+
+418
+00:13:24,463 --> 00:13:25,575
+the down payment,
+
+419
+00:13:25,575 --> 00:13:27,144
+and the monthly payment.
+
+420
+00:13:27,324 --> 00:13:30,690
+Some salespeople have traditionally used a worksheet
+
+421
+00:13:30,690 --> 00:13:33,473
+sometimes called the four square to discuss
+
+422
+00:13:33,473 --> 00:13:34,638
+all four together.
+
+423
+00:13:34,818 --> 00:13:36,440
+When everything moves at once,
+
+424
+00:13:36,440 --> 00:13:38,278
+it's very hard to see where you're
+
+425
+00:13:38,278 --> 00:13:40,008
+gaining and where you're losing.
+
+426
+00:13:40,358 --> 00:13:42,390
+A great trade in value can be
+
+427
+00:13:42,390 --> 00:13:44,142
+offset by a higher price.
+
+428
+00:13:44,322 --> 00:13:46,434
+A lower price can be offset by
+
+429
+00:13:46,434 --> 00:13:47,701
+a worse loan rate.
+
+430
+00:13:47,881 --> 00:13:50,126
+Confusion helps the side that does this
+
+431
+00:13:50,126 --> 00:13:50,702
+every day.
+
+432
+00:13:50,882 --> 00:13:53,513
+Try this: negotiate one number at a
+
+433
+00:13:53,513 --> 00:13:53,889
+time.
+
+434
+00:13:54,069 --> 00:13:56,171
+First the out the door price.
+
+435
+00:13:56,351 --> 00:13:58,498
+Then, separately, your trade in.
+
+436
+00:13:58,678 --> 00:13:59,758
+Then financing.
+
+437
+00:13:59,938 --> 00:14:01,088
+Never all at once.
+
+438
+00:14:01,438 --> 00:14:02,889
+Trick number eleven.
+
+439
+00:14:03,069 --> 00:14:03,835
+The add ons.
+
+440
+00:14:04,185 --> 00:14:05,640
+After you agree on a car,
+
+441
+00:14:05,640 --> 00:14:08,027
+you're often taken to the finance office.
+
+442
+00:14:08,207 --> 00:14:09,577
+That's where add ons appear.
+
+443
+00:14:09,757 --> 00:14:13,419
+Extended warranties, paint and fabric protection,
+
+444
+00:14:13,419 --> 00:14:14,988
+tire and wheel plans,
+
+445
+00:14:14,988 --> 00:14:16,781
+gap insurance, and more.
+
+446
+00:14:16,961 --> 00:14:18,192
+Some can be useful.
+
+447
+00:14:18,372 --> 00:14:20,861
+But they're often priced with big markups,
+
+448
+00:14:20,861 --> 00:14:23,291
+and they're usually rolled into the loan,
+
+449
+00:14:23,291 --> 00:14:25,187
+so you pay interest on them too.
+
+450
+00:14:25,538 --> 00:14:27,376
+Gap insurance, for example,
+
+451
+00:14:27,376 --> 00:14:29,146
+can be smart if you have a
+
+452
+00:14:29,146 --> 00:14:31,528
+small down payment and a long loan.
+
+453
+00:14:31,708 --> 00:14:33,676
+But it's often cheaper through your own
+
+454
+00:14:33,676 --> 00:14:35,493
+auto insurer than at the dealership.
+
+455
+00:14:35,673 --> 00:14:38,955
+Extended warranties can sometimes be bought later,
+
+456
+00:14:38,955 --> 00:14:40,398
+or from other sources.
+
+457
+00:14:40,578 --> 00:14:42,313
+Try this: before you go,
+
+458
+00:14:42,313 --> 00:14:44,480
+decide which add ons you want,
+
+459
+00:14:44,480 --> 00:14:46,720
+if any, and get outside quotes.
+
+460
+00:14:46,900 --> 00:14:47,761
+In the office,
+
+461
+00:14:47,761 --> 00:14:48,683
+you can say no,
+
+462
+00:14:48,683 --> 00:14:50,035
+and you can walk away.
+
+463
+00:14:50,385 --> 00:14:51,522
+Trick number twelve.
+
+464
+00:14:51,702 --> 00:14:52,457
+Identity.
+
+465
+00:14:52,807 --> 00:14:54,827
+Cars aren't just transportation.
+
+466
+00:14:55,007 --> 00:14:55,924
+They're identity.
+
+467
+00:14:56,104 --> 00:14:58,584
+Car ads rarely talk about cost per
+
+468
+00:14:58,584 --> 00:14:58,948
+mile.
+
+469
+00:14:59,128 --> 00:15:00,477
+They show freedom,
+
+470
+00:15:00,477 --> 00:15:02,426
+power, adventure, success.
+
+471
+00:15:02,606 --> 00:15:03,719
+And for many people,
+
+472
+00:15:03,719 --> 00:15:05,390
+the car in the driveway is the
+
+473
+00:15:05,390 --> 00:15:07,617
+most visible signal of how they're doing
+
+474
+00:15:07,617 --> 00:15:08,062
+in life.
+
+475
+00:15:08,242 --> 00:15:10,317
+That makes cars a perfect target for
+
+476
+00:15:10,317 --> 00:15:11,470
+comparison spending.
+
+477
+00:15:11,820 --> 00:15:14,071
+The tricky part is that this signal
+
+478
+00:15:14,071 --> 00:15:15,036
+is often false.
+
+479
+00:15:15,216 --> 00:15:17,839
+A new luxury SUV might mean someone
+
+480
+00:15:17,839 --> 00:15:18,664
+is wealthy.
+
+481
+00:15:18,844 --> 00:15:20,673
+Or it might mean they have an
+
+482
+00:15:20,673 --> 00:15:23,070
+eighty four month loan and no savings.
+
+483
+00:15:23,250 --> 00:15:26,477
+Thomas Stanley's research on millionaires found many
+
+484
+00:15:26,477 --> 00:15:27,780
+of them drove modest,
+
+485
+00:15:27,780 --> 00:15:28,463
+older cars.
+
+486
+00:15:28,643 --> 00:15:31,159
+The flashiest car on the street is
+
+487
+00:15:31,159 --> 00:15:33,379
+not a reliable sign of wealth.
+
+488
+00:15:33,559 --> 00:15:35,587
+Try this: decide what you want your
+
+489
+00:15:35,587 --> 00:15:37,441
+money to say about you in twenty
+
+490
+00:15:37,441 --> 00:15:39,527
+years, not in the parking lot today.
+
+491
+00:15:39,877 --> 00:15:41,328
+Trick number thirteen.
+
+492
+00:15:41,508 --> 00:15:42,866
+The new car feeling.
+
+493
+00:15:43,217 --> 00:15:45,132
+A new car feels amazing.
+
+494
+00:15:45,312 --> 00:15:47,339
+The smell, the technology,
+
+495
+00:15:47,339 --> 00:15:48,586
+the smooth ride.
+
+496
+00:15:48,766 --> 00:15:51,760
+But psychologists have long studied how quickly
+
+497
+00:15:51,760 --> 00:15:53,480
+people adapt to new things.
+
+498
+00:15:53,660 --> 00:15:55,692
+It's called hedonic adaptation.
+
+499
+00:15:55,872 --> 00:15:58,192
+Within months, the new car becomes just
+
+500
+00:15:58,192 --> 00:15:58,728
+your car.
+
+501
+00:15:58,908 --> 00:16:00,405
+The excitement fades.
+
+502
+00:16:00,585 --> 00:16:01,572
+The payment doesn't.
+
+503
+00:16:01,923 --> 00:16:04,209
+That's how many people end up trading
+
+504
+00:16:04,209 --> 00:16:06,002
+in after three or four years,
+
+505
+00:16:06,002 --> 00:16:07,609
+chasing the feeling again,
+
+506
+00:16:07,609 --> 00:16:10,019
+often while still underwater on the old
+
+507
+00:16:10,019 --> 00:16:10,328
+loan.
+
+508
+00:16:10,508 --> 00:16:11,809
+The trap repeats.
+
+509
+00:16:11,989 --> 00:16:13,632
+Try this: before buying,
+
+510
+00:16:13,632 --> 00:16:15,959
+imagine the car two years from now
+
+511
+00:16:15,959 --> 00:16:18,629
+with a few scratches and coffee stains.
+
+512
+00:16:18,809 --> 00:16:20,342
+Is it still worth the payment?
+
+513
+00:16:20,522 --> 00:16:22,147
+If the answer is yes,
+
+514
+00:16:22,147 --> 00:16:22,612
+great.
+
+515
+00:16:22,792 --> 00:16:25,339
+If it's only exciting when it's new,
+
+516
+00:16:25,339 --> 00:16:25,764
+pause.
+
+517
+00:16:26,114 --> 00:16:27,669
+Trick number fourteen.
+
+518
+00:16:27,849 --> 00:16:30,020
+Thinking everyone has a car payment.
+
+519
+00:16:30,371 --> 00:16:32,741
+Many people believe a car payment is
+
+520
+00:16:32,741 --> 00:16:34,782
+a permanent part of adult life,
+
+521
+00:16:34,782 --> 00:16:35,967
+like a phone bill.
+
+522
+00:16:36,147 --> 00:16:38,120
+As soon as one loan ends,
+
+523
+00:16:38,120 --> 00:16:39,699
+the next one starts.
+
+524
+00:16:39,879 --> 00:16:41,573
+But that belief is one of the
+
+525
+00:16:41,573 --> 00:16:43,618
+most expensive in personal finance.
+
+526
+00:16:43,798 --> 00:16:45,599
+The years after a loan ends,
+
+527
+00:16:45,599 --> 00:16:47,787
+when you still have a reliable car
+
+528
+00:16:47,787 --> 00:16:48,752
+and no payment,
+
+529
+00:16:48,752 --> 00:16:50,682
+are where real savings happen.
+
+530
+00:16:51,033 --> 00:16:52,609
+If you keep a car for ten
+
+531
+00:16:52,609 --> 00:16:53,995
+years instead of five,
+
+532
+00:16:53,995 --> 00:16:55,130
+and it's reliable,
+
+533
+00:16:55,130 --> 00:16:57,274
+you might enjoy five years with no
+
+534
+00:16:57,274 --> 00:16:58,219
+payment at all.
+
+535
+00:16:58,399 --> 00:17:00,645
+Even with higher repair costs in later
+
+536
+00:17:00,645 --> 00:17:03,009
+years, those payment free years can free
+
+537
+00:17:03,009 --> 00:17:04,901
+up tens of thousands of dollars.
+
+538
+00:17:05,081 --> 00:17:07,053
+Try this: when your loan ends,
+
+539
+00:17:07,053 --> 00:17:08,894
+keep paying the same amount,
+
+540
+00:17:08,894 --> 00:17:09,946
+but to yourself,
+
+541
+00:17:09,946 --> 00:17:11,327
+in a savings account.
+
+542
+00:17:11,507 --> 00:17:13,424
+That becomes the cash for your next
+
+543
+00:17:13,424 --> 00:17:13,643
+car.
+
+544
+00:17:13,993 --> 00:17:15,049
+Quick pause.
+
+545
+00:17:15,229 --> 00:17:16,983
+If this is changing how you look
+
+546
+00:17:16,983 --> 00:17:18,573
+at that car in your driveway,
+
+547
+00:17:18,573 --> 00:17:19,943
+subscribe to the channel.
+
+548
+00:17:20,123 --> 00:17:21,904
+It's free, and it helps me keep
+
+549
+00:17:21,904 --> 00:17:23,513
+making these videos for you.
+
+550
+00:17:23,693 --> 00:17:24,993
+Now, the playbook.
+
+551
+00:17:25,344 --> 00:17:26,214
+Angle three.
+
+552
+00:17:26,394 --> 00:17:27,195
+The playbook.
+
+553
+00:17:27,375 --> 00:17:28,490
+Ten moves to buy,
+
+554
+00:17:28,490 --> 00:17:30,916
+finance and own a car without falling
+
+555
+00:17:30,916 --> 00:17:31,834
+into the trap.
+
+556
+00:17:32,184 --> 00:17:35,010
+Many planners use a simple guideline called
+
+557
+00:17:35,010 --> 00:17:36,653
+the twenty four ten rule.
+
+558
+00:17:36,833 --> 00:17:38,888
+Put at least twenty percent down.
+
+559
+00:17:39,068 --> 00:17:41,251
+Finance for no more than four years.
+
+560
+00:17:41,431 --> 00:17:43,756
+And keep total car costs under ten
+
+561
+00:17:43,756 --> 00:17:45,738
+percent of your gross income.
+
+562
+00:17:46,089 --> 00:17:46,762
+Move one.
+
+563
+00:17:46,942 --> 00:17:48,959
+Use the twenty four ten rule as
+
+564
+00:17:48,959 --> 00:17:49,740
+a guardrail.
+
+565
+00:17:49,920 --> 00:17:50,842
+It's not a law,
+
+566
+00:17:50,842 --> 00:17:52,747
+and in some places it's hard to
+
+567
+00:17:52,747 --> 00:17:55,144
+follow, especially with today's prices.
+
+568
+00:17:55,324 --> 00:17:56,730
+But the further you are from it,
+
+569
+00:17:56,730 --> 00:17:57,960
+the more risk you're taking.
+
+570
+00:17:58,140 --> 00:17:59,881
+If a car only fits with zero
+
+571
+00:17:59,881 --> 00:18:01,186
+down and seven years,
+
+572
+00:18:01,186 --> 00:18:03,425
+that's a sign it's too expensive for
+
+573
+00:18:03,425 --> 00:18:04,792
+your budget right now.
+
+574
+00:18:05,143 --> 00:18:05,979
+Move two.
+
+575
+00:18:06,159 --> 00:18:08,086
+Know the full cost before you shop.
+
+576
+00:18:08,266 --> 00:18:09,479
+Add the payment,
+
+577
+00:18:09,479 --> 00:18:12,968
+insurance, fuel, maintenance and registration.
+
+578
+00:18:13,148 --> 00:18:15,159
+Call your insurer and get a quote
+
+579
+00:18:15,159 --> 00:18:17,293
+for the exact model before you buy.
+
+580
+00:18:17,473 --> 00:18:19,695
+Some models cost much more to insure
+
+581
+00:18:19,695 --> 00:18:22,165
+than others, and that surprise can wreck
+
+582
+00:18:22,165 --> 00:18:22,720
+a budget.
+
+583
+00:18:23,071 --> 00:18:23,941
+Move three.
+
+584
+00:18:24,121 --> 00:18:26,862
+Consider buying a reliable used car,
+
+585
+00:18:26,862 --> 00:18:28,080
+a few years old.
+
+586
+00:18:28,260 --> 00:18:30,376
+You skip the steepest part of the
+
+587
+00:18:30,376 --> 00:18:33,069
+depreciation, and many modern cars can run
+
+588
+00:18:33,069 --> 00:18:35,762
+well past one hundred fifty thousand miles
+
+589
+00:18:35,762 --> 00:18:36,724
+with good care.
+
+590
+00:18:36,904 --> 00:18:39,683
+Have an independent mechanic inspect it before
+
+591
+00:18:39,683 --> 00:18:40,166
+you buy.
+
+592
+00:18:40,346 --> 00:18:42,881
+That inspection often costs less than one
+
+593
+00:18:42,881 --> 00:18:45,292
+car payment and can save you thousands.
+
+594
+00:18:45,643 --> 00:18:46,420
+Move four.
+
+595
+00:18:46,600 --> 00:18:48,731
+Get pre approved for a loan before
+
+596
+00:18:48,731 --> 00:18:50,549
+you walk into the dealership,
+
+597
+00:18:50,549 --> 00:18:52,742
+ideally from a credit union or your
+
+598
+00:18:52,742 --> 00:18:53,056
+bank.
+
+599
+00:18:53,236 --> 00:18:54,524
+Now you know your rate.
+
+600
+00:18:54,704 --> 00:18:56,327
+If the dealer can beat it,
+
+601
+00:18:56,327 --> 00:18:56,701
+great.
+
+602
+00:18:56,881 --> 00:18:58,901
+If not, you have a backup.
+
+603
+00:18:59,081 --> 00:19:00,789
+This one move takes away a lot
+
+604
+00:19:00,789 --> 00:19:03,122
+of the dealer's power over the financing.
+
+605
+00:19:03,472 --> 00:19:04,342
+Move five.
+
+606
+00:19:04,522 --> 00:19:06,461
+Negotiate the out the door price,
+
+607
+00:19:06,461 --> 00:19:08,400
+in writing, by email if possible.
+
+608
+00:19:08,580 --> 00:19:10,459
+Contact several dealers,
+
+609
+00:19:10,459 --> 00:19:13,043
+ask for their best total price on
+
+610
+00:19:13,043 --> 00:19:14,140
+the exact car,
+
+611
+00:19:14,140 --> 00:19:15,627
+including all fees.
+
+612
+00:19:15,807 --> 00:19:16,736
+Let them compete.
+
+613
+00:19:16,916 --> 00:19:18,167
+This takes some time,
+
+614
+00:19:18,167 --> 00:19:19,953
+but it can save more money per
+
+615
+00:19:19,953 --> 00:19:22,335
+hour than almost anything else you'll do
+
+616
+00:19:22,335 --> 00:19:22,930
+that year.
+
+617
+00:19:23,280 --> 00:19:24,533
+Move six.
+
+618
+00:19:24,713 --> 00:19:26,606
+Handle your trade in separately.
+
+619
+00:19:26,786 --> 00:19:29,287
+Get offers from online buyers and other
+
+620
+00:19:29,287 --> 00:19:31,595
+dealers first, so you know what it's
+
+621
+00:19:31,595 --> 00:19:32,428
+really worth.
+
+622
+00:19:32,608 --> 00:19:35,313
+Sometimes selling privately gets you more.
+
+623
+00:19:35,493 --> 00:19:36,260
+Move seven.
+
+624
+00:19:36,440 --> 00:19:38,251
+Say no in the finance office to
+
+625
+00:19:38,251 --> 00:19:40,120
+anything you didn't plan to buy.
+
+626
+00:19:40,300 --> 00:19:41,819
+You can always ask for time to
+
+627
+00:19:41,819 --> 00:19:42,123
+think.
+
+628
+00:19:42,473 --> 00:19:43,343
+Move eight.
+
+629
+00:19:43,523 --> 00:19:45,346
+Keep your car for a long time.
+
+630
+00:19:45,526 --> 00:19:47,258
+Maintain it on schedule,
+
+631
+00:19:47,258 --> 00:19:48,557
+follow the manual,
+
+632
+00:19:48,557 --> 00:19:51,516
+fix small problems before they become big
+
+633
+00:19:51,516 --> 00:19:51,877
+ones.
+
+634
+00:19:52,057 --> 00:19:54,325
+The longer you drive a reliable car
+
+635
+00:19:54,325 --> 00:19:55,621
+after it's paid off,
+
+636
+00:19:55,621 --> 00:19:57,955
+the more money stays in your pocket.
+
+637
+00:19:58,305 --> 00:19:59,024
+Move nine.
+
+638
+00:19:59,204 --> 00:20:00,888
+Pay yourself a car payment.
+
+639
+00:20:01,068 --> 00:20:02,383
+When your loan ends,
+
+640
+00:20:02,383 --> 00:20:04,158
+or right now if you have no
+
+641
+00:20:04,158 --> 00:20:06,459
+loan, send a set amount every month
+
+642
+00:20:06,459 --> 00:20:07,511
+into a car fund.
+
+643
+00:20:07,691 --> 00:20:09,696
+When it's time for the next car,
+
+644
+00:20:09,696 --> 00:20:10,760
+you can pay cash,
+
+645
+00:20:10,760 --> 00:20:12,452
+or make a big down payment.
+
+646
+00:20:12,632 --> 00:20:14,471
+That's how you leave the payment cycle
+
+647
+00:20:14,471 --> 00:20:14,907
+for good.
+
+648
+00:20:15,257 --> 00:20:17,957
+Paying yourself three hundred fifty dollars a
+
+649
+00:20:17,957 --> 00:20:19,217
+month for five years,
+
+650
+00:20:19,217 --> 00:20:21,496
+at a modest four percent savings rate,
+
+651
+00:20:21,496 --> 00:20:24,196
+builds roughly twenty three thousand dollars.
+
+652
+00:20:24,376 --> 00:20:26,327
+That's a solid used car,
+
+653
+00:20:26,327 --> 00:20:26,977
+in cash.
+
+654
+00:20:27,327 --> 00:20:28,464
+And move ten.
+
+655
+00:20:28,644 --> 00:20:30,611
+If you're already underwater,
+
+656
+00:20:30,611 --> 00:20:31,628
+stop the cycle.
+
+657
+00:20:31,808 --> 00:20:34,346
+Don't roll the negative equity into another
+
+658
+00:20:34,346 --> 00:20:34,641
+loan.
+
+659
+00:20:34,821 --> 00:20:36,747
+Keep the car and pay extra toward
+
+660
+00:20:36,747 --> 00:20:39,024
+the principal until you're above water.
+
+661
+00:20:39,204 --> 00:20:40,789
+Check if you can refinance at a
+
+662
+00:20:40,789 --> 00:20:41,352
+lower rate.
+
+663
+00:20:41,532 --> 00:20:44,344
+Or, if the payment is truly unaffordable,
+
+664
+00:20:44,344 --> 00:20:48,186
+consider selling privately and buying something cheaper,
+
+665
+00:20:48,186 --> 00:20:50,518
+covering the gap with savings or a
+
+666
+00:20:50,518 --> 00:20:51,272
+small loan.
+
+667
+00:20:51,452 --> 00:20:52,474
+It hurts once.
+
+668
+00:20:52,654 --> 00:20:54,860
+Rolling it forward hurts for years.
+
+669
+00:20:55,210 --> 00:20:56,243
+Ten moves.
+
+670
+00:20:56,423 --> 00:20:58,484
+A guardrail, the full cost,
+
+671
+00:20:58,484 --> 00:21:00,621
+slightly used, pre approval,
+
+672
+00:21:00,621 --> 00:21:02,071
+out the door price,
+
+673
+00:21:02,071 --> 00:21:03,597
+trade in separately,
+
+674
+00:21:03,597 --> 00:21:04,895
+say no to extras,
+
+675
+00:21:04,895 --> 00:21:05,887
+keep it long,
+
+676
+00:21:05,887 --> 00:21:08,711
+pay yourself, and never roll the hole
+
+677
+00:21:08,711 --> 00:21:09,322
+forward.
+
+678
+00:21:09,672 --> 00:21:11,580
+Let me share a pattern I see
+
+679
+00:21:11,580 --> 00:21:14,716
+again and again in how financially comfortable
+
+680
+00:21:14,716 --> 00:21:16,011
+people handle cars.
+
+681
+00:21:16,191 --> 00:21:17,549
+It's not glamorous.
+
+682
+00:21:17,729 --> 00:21:18,530
+That's the point.
+
+683
+00:21:18,880 --> 00:21:21,340
+First, they decide the budget before they
+
+684
+00:21:21,340 --> 00:21:22,781
+fall in love with a car.
+
+685
+00:21:22,961 --> 00:21:24,674
+The number comes from their plan,
+
+686
+00:21:24,674 --> 00:21:25,817
+not from the showroom.
+
+687
+00:21:25,997 --> 00:21:28,173
+They know what share of their income
+
+688
+00:21:28,173 --> 00:21:29,564
+goes to transportation,
+
+689
+00:21:29,564 --> 00:21:31,559
+and they shop inside that number,
+
+690
+00:21:31,559 --> 00:21:34,158
+even if they could technically afford more.
+
+691
+00:21:34,509 --> 00:21:36,923
+Second, they think in total cost,
+
+692
+00:21:36,923 --> 00:21:38,386
+not monthly payment.
+
+693
+00:21:38,566 --> 00:21:40,746
+They ask what the car will cost
+
+694
+00:21:40,746 --> 00:21:42,856
+them over the next five or ten
+
+695
+00:21:42,856 --> 00:21:45,950
+years, including depreciation and insurance.
+
+696
+00:21:46,130 --> 00:21:48,447
+A car that's cheaper per month but
+
+697
+00:21:48,447 --> 00:21:50,900
+loses value faster can easily be the
+
+698
+00:21:50,900 --> 00:21:52,400
+more expensive choice.
+
+699
+00:21:52,750 --> 00:21:55,849
+Third, they buy reliability over status.
+
+700
+00:21:56,029 --> 00:21:59,777
+Models with strong reliability records and reasonable
+
+701
+00:21:59,777 --> 00:22:00,697
+repair costs.
+
+702
+00:22:00,877 --> 00:22:02,928
+They're not trying to impress anyone at
+
+703
+00:22:02,928 --> 00:22:03,559
+a stoplight.
+
+704
+00:22:03,739 --> 00:22:05,958
+And fourth, they drive the car for
+
+705
+00:22:05,958 --> 00:22:06,741
+a long time,
+
+706
+00:22:06,741 --> 00:22:09,091
+often until it's genuinely worn out,
+
+707
+00:22:09,091 --> 00:22:11,506
+and they bank the payment free years.
+
+708
+00:22:11,686 --> 00:22:12,963
+That's not being cheap.
+
+709
+00:22:13,143 --> 00:22:15,469
+It's choosing where money creates the most
+
+710
+00:22:15,469 --> 00:22:15,801
+value.
+
+711
+00:22:16,152 --> 00:22:17,638
+And here's the honest truth.
+
+712
+00:22:17,818 --> 00:22:20,552
+Plenty of wealthy people do love cars,
+
+713
+00:22:20,552 --> 00:22:22,566
+and some buy expensive ones.
+
+714
+00:22:22,746 --> 00:22:24,023
+The difference is the order.
+
+715
+00:22:24,203 --> 00:22:25,719
+They build wealth first,
+
+716
+00:22:25,719 --> 00:22:27,614
+and buy the fun car with money
+
+717
+00:22:27,614 --> 00:22:29,635
+that's already working for them,
+
+718
+00:22:29,635 --> 00:22:30,519
+often in cash.
+
+719
+00:22:30,699 --> 00:22:32,413
+Most people do it the other way
+
+720
+00:22:32,413 --> 00:22:32,800
+around.
+
+721
+00:22:32,980 --> 00:22:34,570
+They buy the fun car first,
+
+722
+00:22:34,570 --> 00:22:35,276
+with a loan,
+
+723
+00:22:35,276 --> 00:22:37,160
+and hope the wealth comes later.
+
+724
+00:22:37,510 --> 00:22:40,041
+The car trap doesn't hit everyone equally.
+
+725
+00:22:40,221 --> 00:22:43,118
+Borrowers with lower credit scores often pay
+
+726
+00:22:43,118 --> 00:22:44,896
+much higher interest rates,
+
+727
+00:22:44,896 --> 00:22:47,991
+sometimes double or triple what prime borrowers
+
+728
+00:22:47,991 --> 00:22:48,255
+pay.
+
+729
+00:22:48,435 --> 00:22:50,457
+That means the people with the least
+
+730
+00:22:50,457 --> 00:22:52,423
+room in their budgets often pay the
+
+731
+00:22:52,423 --> 00:22:53,659
+most for the same car.
+
+732
+00:22:53,839 --> 00:22:56,078
+Some buy here pay here lots charge
+
+733
+00:22:56,078 --> 00:22:58,843
+very high rates and can repossess quickly.
+
+734
+00:22:59,193 --> 00:23:01,793
+Young drivers are another group at risk.
+
+735
+00:23:01,973 --> 00:23:04,454
+Their first car loan often comes before
+
+736
+00:23:04,454 --> 00:23:05,981
+they've built a cushion,
+
+737
+00:23:05,981 --> 00:23:08,080
+with high insurance costs on top.
+
+738
+00:23:08,260 --> 00:23:10,300
+A big payment at twenty two can
+
+739
+00:23:10,300 --> 00:23:11,747
+delay everything else,
+
+740
+00:23:11,747 --> 00:23:14,313
+moving out, building an emergency fund,
+
+741
+00:23:14,313 --> 00:23:15,365
+investing early.
+
+742
+00:23:15,545 --> 00:23:16,530
+If you're young,
+
+743
+00:23:16,530 --> 00:23:18,682
+the best car is usually a reliable,
+
+744
+00:23:18,682 --> 00:23:20,897
+boring one that leaves room for your
+
+745
+00:23:20,897 --> 00:23:21,327
+future.
+
+746
+00:23:21,677 --> 00:23:23,341
+If you're in either group,
+
+747
+00:23:23,341 --> 00:23:25,901
+the most powerful step isn't finding the
+
+748
+00:23:25,901 --> 00:23:26,669
+perfect car.
+
+749
+00:23:26,849 --> 00:23:29,466
+It's improving your credit before you borrow,
+
+750
+00:23:29,466 --> 00:23:30,397
+if you can wait,
+
+751
+00:23:30,397 --> 00:23:32,258
+and keeping the loan as small as
+
+752
+00:23:32,258 --> 00:23:32,782
+possible.
+
+753
+00:23:32,962 --> 00:23:34,658
+Even a few months of on time
+
+754
+00:23:34,658 --> 00:23:36,112
+payments on other bills,
+
+755
+00:23:36,112 --> 00:23:37,566
+and lower card balances,
+
+756
+00:23:37,566 --> 00:23:38,777
+can move your score,
+
+757
+00:23:38,777 --> 00:23:39,626
+and your rate,
+
+758
+00:23:39,626 --> 00:23:41,019
+in the right direction.
+
+759
+00:23:41,369 --> 00:23:43,453
+Here's a simple checklist for the day
+
+760
+00:23:43,453 --> 00:23:44,410
+you actually buy.
+
+761
+00:23:44,590 --> 00:23:46,123
+Screenshot this part.
+
+762
+00:23:46,473 --> 00:23:47,309
+Before you go.
+
+763
+00:23:47,489 --> 00:23:49,473
+Know your budget and the full monthly
+
+764
+00:23:49,473 --> 00:23:49,741
+cost.
+
+765
+00:23:49,921 --> 00:23:51,929
+Have your pre approval letter.
+
+766
+00:23:52,109 --> 00:23:54,296
+Have your trade in offers from other
+
+767
+00:23:54,296 --> 00:23:54,722
+buyers.
+
+768
+00:23:54,902 --> 00:23:57,368
+Have the insurance quote for the exact
+
+769
+00:23:57,368 --> 00:23:57,758
+model.
+
+770
+00:23:57,938 --> 00:23:59,452
+And have a written out the door
+
+771
+00:23:59,452 --> 00:24:01,014
+price from at least two dealers.
+
+772
+00:24:01,194 --> 00:24:02,482
+If you have all five,
+
+773
+00:24:02,482 --> 00:24:04,689
+you're already ahead of most buyers.
+
+774
+00:24:05,039 --> 00:24:06,083
+At the dealership.
+
+775
+00:24:06,263 --> 00:24:08,284
+Test drive the exact car.
+
+776
+00:24:08,464 --> 00:24:10,373
+Confirm the out the door price in
+
+777
+00:24:10,373 --> 00:24:12,051
+writing before anything else.
+
+778
+00:24:12,231 --> 00:24:13,671
+Then discuss your trade in.
+
+779
+00:24:13,851 --> 00:24:16,358
+Then financing, comparing their rate with your
+
+780
+00:24:16,358 --> 00:24:17,067
+pre approval.
+
+781
+00:24:17,247 --> 00:24:19,278
+Read every line of the contract,
+
+782
+00:24:19,278 --> 00:24:21,564
+and make sure the numbers match what
+
+783
+00:24:21,564 --> 00:24:22,262
+you agreed.
+
+784
+00:24:22,442 --> 00:24:24,908
+Mistakes happen, and they rarely happen in
+
+785
+00:24:24,908 --> 00:24:25,554
+your favor.
+
+786
+00:24:25,904 --> 00:24:27,250
+In the finance office.
+
+787
+00:24:27,430 --> 00:24:29,299
+Bring your list of add ons you
+
+788
+00:24:29,299 --> 00:24:30,109
+want, if any,
+
+789
+00:24:30,109 --> 00:24:31,355
+with outside prices.
+
+790
+00:24:31,535 --> 00:24:32,637
+For everything else,
+
+791
+00:24:32,637 --> 00:24:34,402
+a polite no thank you is enough.
+
+792
+00:24:34,582 --> 00:24:36,960
+Watch for products that appear in the
+
+793
+00:24:36,960 --> 00:24:39,145
+paperwork without being discussed.
+
+794
+00:24:39,325 --> 00:24:41,531
+And remember, you can always leave.
+
+795
+00:24:41,711 --> 00:24:43,795
+A dealer who pressures you to sign
+
+796
+00:24:43,795 --> 00:24:45,635
+right now is giving you a very
+
+797
+00:24:45,635 --> 00:24:47,167
+good reason to walk away.
+
+798
+00:24:47,518 --> 00:24:48,156
+And after.
+
+799
+00:24:48,336 --> 00:24:49,962
+Set up autopay on the loan.
+
+800
+00:24:50,142 --> 00:24:50,864
+If you can,
+
+801
+00:24:50,864 --> 00:24:52,244
+round the payment up,
+
+802
+00:24:52,244 --> 00:24:54,674
+even by twenty five or fifty dollars,
+
+803
+00:24:54,674 --> 00:24:56,908
+so the extra goes to principal and
+
+804
+00:24:56,908 --> 00:24:58,025
+you finish early.
+
+805
+00:24:58,205 --> 00:25:00,817
+Put your maintenance schedule in your calendar.
+
+806
+00:25:00,997 --> 00:25:02,486
+And open your car fund,
+
+807
+00:25:02,486 --> 00:25:04,881
+so your next car starts saving itself
+
+808
+00:25:04,881 --> 00:25:05,269
+today.
+
+809
+00:25:05,620 --> 00:25:08,545
+Let's compare two drivers over ten years.
+
+810
+00:25:08,725 --> 00:25:10,432
+Mike loves new cars.
+
+811
+00:25:10,612 --> 00:25:12,590
+Every four years or so he trades
+
+812
+00:25:12,590 --> 00:25:13,641
+in for a new one,
+
+813
+00:25:13,641 --> 00:25:16,422
+usually rolling a little negative equity into
+
+814
+00:25:16,422 --> 00:25:17,288
+the next loan.
+
+815
+00:25:17,468 --> 00:25:20,021
+His payment hovers around seven hundred fifty
+
+816
+00:25:20,021 --> 00:25:20,928
+dollars a month,
+
+817
+00:25:20,928 --> 00:25:22,460
+and he's never without one.
+
+818
+00:25:22,810 --> 00:25:23,709
+Over ten years,
+
+819
+00:25:23,709 --> 00:25:26,227
+Mike pays about ninety thousand dollars in
+
+820
+00:25:26,227 --> 00:25:28,085
+car payments, and at the end he
+
+821
+00:25:28,085 --> 00:25:30,423
+owns a car worth maybe thirty thousand,
+
+822
+00:25:30,423 --> 00:25:32,341
+with a loan balance still on it.
+
+823
+00:25:32,521 --> 00:25:34,872
+His insurance has been higher too,
+
+824
+00:25:34,872 --> 00:25:37,914
+because newer, more expensive cars cost more
+
+825
+00:25:37,914 --> 00:25:38,605
+to insure.
+
+826
+00:25:38,955 --> 00:25:41,209
+Sarah buys a reliable three year old
+
+827
+00:25:41,209 --> 00:25:42,963
+car with a four year loan at
+
+828
+00:25:42,963 --> 00:25:45,154
+about four hundred dollars a month.
+
+829
+00:25:45,334 --> 00:25:46,528
+When the loan ends,
+
+830
+00:25:46,528 --> 00:25:48,977
+she keeps paying four hundred dollars a
+
+831
+00:25:48,977 --> 00:25:51,175
+month, but into her own savings and
+
+832
+00:25:51,175 --> 00:25:51,929
+investments.
+
+833
+00:25:52,109 --> 00:25:54,097
+She drives the same car for ten
+
+834
+00:25:54,097 --> 00:25:56,598
+years, with some bigger repair bills in
+
+835
+00:25:56,598 --> 00:25:57,624
+the later years.
+
+836
+00:25:57,974 --> 00:25:59,007
+Over ten years,
+
+837
+00:25:59,007 --> 00:26:02,106
+Sarah pays about nineteen thousand dollars in
+
+838
+00:26:02,106 --> 00:26:03,070
+loan payments.
+
+839
+00:26:03,250 --> 00:26:04,557
+For the last six years,
+
+840
+00:26:04,557 --> 00:26:06,659
+her four hundred dollars a month goes
+
+841
+00:26:06,659 --> 00:26:07,796
+to her own accounts,
+
+842
+00:26:07,796 --> 00:26:10,353
+about twenty nine thousand dollars before any
+
+843
+00:26:10,353 --> 00:26:10,750
+growth.
+
+844
+00:26:10,930 --> 00:26:13,669
+Even after setting aside several thousand for
+
+845
+00:26:13,669 --> 00:26:16,043
+repairs, the gap between Mike and Sarah
+
+846
+00:26:16,043 --> 00:26:18,478
+can easily reach fifty to sixty thousand
+
+847
+00:26:18,478 --> 00:26:18,965
+dollars.
+
+848
+00:26:19,145 --> 00:26:20,143
+Same decade.
+
+849
+00:26:20,323 --> 00:26:21,194
+Same need.
+
+850
+00:26:21,374 --> 00:26:22,929
+Very different results.
+
+851
+00:26:23,280 --> 00:26:24,383
+And notice.
+
+852
+00:26:24,563 --> 00:26:26,559
+Sarah didn't drive a junk car.
+
+853
+00:26:26,739 --> 00:26:27,982
+She didn't suffer.
+
+854
+00:26:28,162 --> 00:26:30,467
+She simply let someone else pay the
+
+855
+00:26:30,467 --> 00:26:32,245
+steep part of depreciation,
+
+856
+00:26:32,245 --> 00:26:33,562
+kept her car longer,
+
+857
+00:26:33,562 --> 00:26:36,196
+and turned her old payment into savings.
+
+858
+00:26:36,376 --> 00:26:38,384
+Mike didn't do anything crazy either.
+
+859
+00:26:38,564 --> 00:26:40,492
+He just followed what felt normal.
+
+860
+00:26:40,672 --> 00:26:41,670
+That's the car trap.
+
+861
+00:26:41,850 --> 00:26:43,394
+Normal is expensive.
+
+862
+00:26:43,745 --> 00:26:45,846
+Here's one more way to see it.
+
+863
+00:26:46,026 --> 00:26:48,121
+If Sarah invests her freed up four
+
+864
+00:26:48,121 --> 00:26:50,400
+hundred dollars a month for those six
+
+865
+00:26:50,400 --> 00:26:52,865
+years at a seven percent average return,
+
+866
+00:26:52,865 --> 00:26:55,021
+it could grow to around thirty five
+
+867
+00:26:55,021 --> 00:26:56,069
+thousand dollars.
+
+868
+00:26:56,249 --> 00:26:58,044
+And if she keeps going after the
+
+869
+00:26:58,044 --> 00:27:00,568
+decade ends, that habit keeps compounding for
+
+870
+00:27:00,568 --> 00:27:01,747
+the rest of her life,
+
+871
+00:27:01,747 --> 00:27:03,822
+while Mike is still choosing his next
+
+872
+00:27:03,822 --> 00:27:04,271
+payment.
+
+873
+00:27:04,451 --> 00:27:06,216
+The car didn't make the difference.
+
+874
+00:27:06,396 --> 00:27:08,033
+The payment free years did.
+
+875
+00:27:08,383 --> 00:27:10,204
+So if you take one thing from
+
+876
+00:27:10,204 --> 00:27:11,900
+this story, let it be this.
+
+877
+00:27:12,080 --> 00:27:14,366
+The goal isn't to never enjoy a
+
+878
+00:27:14,366 --> 00:27:15,029
+nice car.
+
+879
+00:27:15,209 --> 00:27:17,198
+It's to spend fewer years of your
+
+880
+00:27:17,198 --> 00:27:18,704
+life making car payments.
+
+881
+00:27:18,884 --> 00:27:20,926
+Every payment free year is a raise
+
+882
+00:27:20,926 --> 00:27:22,007
+you give yourself.
+
+883
+00:27:22,357 --> 00:27:24,624
+Let me answer the questions people ask
+
+884
+00:27:24,624 --> 00:27:26,234
+me most about car payments.
+
+885
+00:27:26,585 --> 00:27:27,571
+Question one.
+
+886
+00:27:27,751 --> 00:27:29,458
+Is leasing better than buying?
+
+887
+00:27:29,638 --> 00:27:31,950
+Leasing can make sense for some people,
+
+888
+00:27:31,950 --> 00:27:33,669
+like those who want a new car
+
+889
+00:27:33,669 --> 00:27:36,040
+every few years and drive limited miles,
+
+890
+00:27:36,040 --> 00:27:37,463
+or some business owners.
+
+891
+00:27:37,643 --> 00:27:40,868
+But leasing usually means a permanent payment,
+
+892
+00:27:40,868 --> 00:27:43,181
+and fees for extra miles or wear.
+
+893
+00:27:43,361 --> 00:27:45,927
+For most people trying to build wealth,
+
+894
+00:27:45,927 --> 00:27:48,295
+buying a reliable car and keeping it
+
+895
+00:27:48,295 --> 00:27:50,335
+for a long time costs less over
+
+896
+00:27:50,335 --> 00:27:50,664
+time.
+
+897
+00:27:51,014 --> 00:27:51,861
+Question two.
+
+898
+00:27:52,041 --> 00:27:53,794
+Should I pay cash for a car?
+
+899
+00:27:53,974 --> 00:27:56,176
+If you can pay cash without draining
+
+900
+00:27:56,176 --> 00:27:57,399
+your emergency fund,
+
+901
+00:27:57,399 --> 00:27:58,990
+it's often a great choice.
+
+902
+00:27:59,170 --> 00:28:00,748
+No interest, no lender,
+
+903
+00:28:00,748 --> 00:28:02,943
+and no risk of being underwater.
+
+904
+00:28:03,123 --> 00:28:04,993
+But don't empty your savings for a
+
+905
+00:28:04,993 --> 00:28:05,213
+car.
+
+906
+00:28:05,393 --> 00:28:07,419
+A car paid in cash with no
+
+907
+00:28:07,419 --> 00:28:09,445
+emergency fund is fragile.
+
+908
+00:28:09,625 --> 00:28:10,752
+Keep the cushion,
+
+909
+00:28:10,752 --> 00:28:11,947
+then use the rest.
+
+910
+00:28:12,297 --> 00:28:13,272
+Question three.
+
+911
+00:28:13,452 --> 00:28:16,261
+What about zero percent financing deals?
+
+912
+00:28:16,441 --> 00:28:18,587
+Sometimes they're genuinely good,
+
+913
+00:28:18,587 --> 00:28:21,318
+especially on new cars from manufacturers.
+
+914
+00:28:21,498 --> 00:28:23,568
+But they're often only for buyers with
+
+915
+00:28:23,568 --> 00:28:25,911
+excellent credit, and sometimes you have to
+
+916
+00:28:25,911 --> 00:28:27,437
+give up a cash rebate to get
+
+917
+00:28:27,437 --> 00:28:27,709
+them.
+
+918
+00:28:27,889 --> 00:28:29,480
+Do the math both ways.
+
+919
+00:28:29,660 --> 00:28:31,926
+A rebate plus a low credit union
+
+920
+00:28:31,926 --> 00:28:34,547
+rate can sometimes beat zero percent.
+
+921
+00:28:34,898 --> 00:28:35,884
+Question four.
+
+922
+00:28:36,064 --> 00:28:37,794
+How long should a car last?
+
+923
+00:28:37,974 --> 00:28:39,924
+It depends on the model and how
+
+924
+00:28:39,924 --> 00:28:40,930
+you care for it,
+
+925
+00:28:40,930 --> 00:28:43,257
+but many modern cars can run reliably
+
+926
+00:28:43,257 --> 00:28:45,521
+for well over ten years with regular
+
+927
+00:28:45,521 --> 00:28:46,275
+maintenance.
+
+928
+00:28:46,455 --> 00:28:47,446
+A useful rule:
+
+929
+00:28:47,446 --> 00:28:50,843
+when annual repair costs regularly approach what
+
+930
+00:28:50,843 --> 00:28:53,320
+a year of payments on a replacement
+
+931
+00:28:53,320 --> 00:28:55,867
+would be, or the car becomes unsafe,
+
+932
+00:28:55,867 --> 00:28:58,344
+it's time to consider replacing it.
+
+933
+00:28:58,694 --> 00:28:59,669
+Question five.
+
+934
+00:28:59,849 --> 00:29:01,590
+Is an electric vehicle cheaper?
+
+935
+00:29:01,770 --> 00:29:02,494
+It can be,
+
+936
+00:29:02,494 --> 00:29:03,941
+depending on prices,
+
+937
+00:29:03,941 --> 00:29:07,269
+incentives, electricity costs and how much you
+
+938
+00:29:07,269 --> 00:29:07,703
+drive.
+
+939
+00:29:07,883 --> 00:29:09,996
+Fuel and maintenance can be lower.
+
+940
+00:29:10,176 --> 00:29:11,538
+But purchase prices,
+
+941
+00:29:11,538 --> 00:29:14,467
+insurance and depreciation can be higher on
+
+942
+00:29:14,467 --> 00:29:15,284
+some models.
+
+943
+00:29:15,464 --> 00:29:17,453
+Run the full cost numbers for your
+
+944
+00:29:17,453 --> 00:29:19,617
+situation, the same way you would for
+
+945
+00:29:19,617 --> 00:29:20,085
+any car.
+
+946
+00:29:20,436 --> 00:29:21,956
+And question six.
+
+947
+00:29:22,136 --> 00:29:24,296
+My payment is already too high.
+
+948
+00:29:24,476 --> 00:29:25,602
+What do I do today?
+
+949
+00:29:25,782 --> 00:29:27,476
+First, look at refinancing,
+
+950
+00:29:27,476 --> 00:29:30,235
+especially if your credit has improved since
+
+951
+00:29:30,235 --> 00:29:30,925
+you bought.
+
+952
+00:29:31,105 --> 00:29:33,596
+Second, put any extra money toward the
+
+953
+00:29:33,596 --> 00:29:34,252
+principal.
+
+954
+00:29:34,432 --> 00:29:37,398
+Third, cut other costs temporarily to protect
+
+955
+00:29:37,398 --> 00:29:38,716
+your emergency fund.
+
+956
+00:29:38,896 --> 00:29:41,203
+And fourth, if it's truly unworkable,
+
+957
+00:29:41,203 --> 00:29:42,824
+talk to your lender early,
+
+958
+00:29:42,824 --> 00:29:44,445
+before you miss a payment.
+
+959
+00:29:44,625 --> 00:29:47,359
+Lenders usually prefer a solution to a
+
+960
+00:29:47,359 --> 00:29:48,294
+repossession.
+
+961
+00:29:48,644 --> 00:29:49,596
+Question seven.
+
+962
+00:29:49,776 --> 00:29:51,250
+I have a growing family.
+
+963
+00:29:51,430 --> 00:29:53,311
+Don't I need a big new SUV?
+
+964
+00:29:53,491 --> 00:29:54,951
+You might need more space,
+
+965
+00:29:54,951 --> 00:29:56,242
+and that's a real need.
+
+966
+00:29:56,422 --> 00:29:58,602
+But space doesn't have to mean new
+
+967
+00:29:58,602 --> 00:29:59,244
+or luxury.
+
+968
+00:29:59,424 --> 00:30:01,896
+A three to five year old minivan
+
+969
+00:30:01,896 --> 00:30:04,446
+or midsize SUV can carry a family
+
+970
+00:30:04,446 --> 00:30:06,146
+safely for a lot less.
+
+971
+00:30:06,326 --> 00:30:07,972
+Safety ratings are public,
+
+972
+00:30:07,972 --> 00:30:10,378
+so you can compare used models easily.
+
+973
+00:30:10,558 --> 00:30:12,088
+Buy the space you need,
+
+974
+00:30:12,088 --> 00:30:13,019
+not the badge.
+
+975
+00:30:13,369 --> 00:30:14,286
+Question eight.
+
+976
+00:30:14,466 --> 00:30:15,940
+How much should I put down?
+
+977
+00:30:16,120 --> 00:30:17,768
+More is generally better,
+
+978
+00:30:17,768 --> 00:30:19,548
+because it lowers the loan,
+
+979
+00:30:19,548 --> 00:30:21,986
+the interest and the risk of negative
+
+980
+00:30:21,986 --> 00:30:22,448
+equity.
+
+981
+00:30:22,628 --> 00:30:24,787
+Twenty percent is a common target.
+
+982
+00:30:24,967 --> 00:30:26,955
+If you can't put anything down,
+
+983
+00:30:26,955 --> 00:30:29,327
+that's a signal to consider a cheaper
+
+984
+00:30:29,327 --> 00:30:30,930
+car, or to save for a few
+
+985
+00:30:30,930 --> 00:30:32,084
+more months first.
+
+986
+00:30:32,264 --> 00:30:34,330
+A few months of patience can save
+
+987
+00:30:34,330 --> 00:30:35,457
+years of payments.
+
+988
+00:30:35,807 --> 00:30:37,455
+And one bonus question.
+
+989
+00:30:37,635 --> 00:30:39,446
+What about buying a car with a
+
+990
+00:30:39,446 --> 00:30:40,050
+co signer?
+
+991
+00:30:40,230 --> 00:30:42,219
+Co signing means the other person is
+
+992
+00:30:42,219 --> 00:30:44,263
+fully responsible for the debt if you
+
+993
+00:30:44,263 --> 00:30:44,816
+don't pay.
+
+994
+00:30:44,996 --> 00:30:47,834
+It can damage relationships and credit on
+
+995
+00:30:47,834 --> 00:30:48,595
+both sides.
+
+996
+00:30:48,775 --> 00:30:50,319
+If a car only works with a
+
+997
+00:30:50,319 --> 00:30:52,041
+co signer, it might be a sign
+
+998
+00:30:52,041 --> 00:30:53,941
+to choose a cheaper car for now.
+
+999
+00:30:54,292 --> 00:30:55,081
+Quick recap.
+
+1000
+00:30:55,261 --> 00:30:58,194
+The numbers: around one point six trillion
+
+1001
+00:30:58,194 --> 00:30:59,661
+dollars in auto debt,
+
+1002
+00:30:59,661 --> 00:31:02,943
+payments around seven hundred fifty dollars for
+
+1003
+00:31:02,943 --> 00:31:05,807
+new cars, prices close to fifty thousand,
+
+1004
+00:31:05,807 --> 00:31:07,693
+longer loans, higher rates,
+
+1005
+00:31:07,693 --> 00:31:11,045
+fast depreciation, and full ownership costs over
+
+1006
+00:31:11,045 --> 00:31:13,210
+eleven thousand dollars a year.
+
+1007
+00:31:13,390 --> 00:31:14,846
+Plus negative equity,
+
+1008
+00:31:14,846 --> 00:31:17,620
+and the hidden opportunity cost of every
+
+1009
+00:31:17,620 --> 00:31:18,522
+extra dollar.
+
+1010
+00:31:18,872 --> 00:31:21,906
+The psychology: the monthly payment question,
+
+1011
+00:31:21,906 --> 00:31:23,930
+juggling four numbers at once,
+
+1012
+00:31:23,930 --> 00:31:25,481
+finance office add ons,
+
+1013
+00:31:25,481 --> 00:31:26,627
+cars as identity,
+
+1014
+00:31:26,627 --> 00:31:28,448
+the fading new car feeling,
+
+1015
+00:31:28,448 --> 00:31:30,876
+and thinking everyone has a payment.
+
+1016
+00:31:31,227 --> 00:31:32,622
+And the playbook:
+
+1017
+00:31:32,622 --> 00:31:35,002
+use the twenty four ten rule,
+
+1018
+00:31:35,002 --> 00:31:36,561
+know the full cost,
+
+1019
+00:31:36,561 --> 00:31:38,038
+buy slightly used,
+
+1020
+00:31:38,038 --> 00:31:39,434
+get pre approved,
+
+1021
+00:31:39,434 --> 00:31:42,142
+negotiate the out the door price,
+
+1022
+00:31:42,142 --> 00:31:44,440
+handle trade ins separately,
+
+1023
+00:31:44,440 --> 00:31:45,753
+skip the extras,
+
+1024
+00:31:45,753 --> 00:31:47,230
+keep the car long,
+
+1025
+00:31:47,230 --> 00:31:49,446
+pay yourself a car payment,
+
+1026
+00:31:49,446 --> 00:31:52,647
+and never roll negative equity forward.
+
+1027
+00:31:52,997 --> 00:31:54,825
+If you want the full plan for
+
+1028
+00:31:54,825 --> 00:31:56,402
+every big money decision,
+
+1029
+00:31:56,402 --> 00:31:57,285
+not just cars,
+
+1030
+00:31:57,285 --> 00:31:58,546
+it's in my playbook.
+
+1031
+00:31:58,726 --> 00:32:00,317
+The link is in the description.
+
+1032
+00:32:00,497 --> 00:32:02,388
+And watch my video on how credit
+
+1033
+00:32:02,388 --> 00:32:04,456
+card companies make money from you.
+
+1034
+00:32:04,636 --> 00:32:06,369
+The same tricks show up in a
+
+1035
+00:32:06,369 --> 00:32:07,236
+lot of places.
+
+1036
+00:32:07,416 --> 00:32:08,740
+I'm Ryan Rover.
+
+1037
+00:32:08,920 --> 00:32:10,069
+See you in the next one.
