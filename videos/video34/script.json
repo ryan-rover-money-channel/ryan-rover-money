@@ -1,0 +1,981 @@
+{
+ "id": "video34",
+ "angle": "index funds explained in 20 lessons, from 3 angles: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "Index Funds Explained: Why Boring Investing Wins",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. What if the best investing strategy for most people was also the most boring one? No stock picking. No watching the news. No guessing what the market will do next. Just buying the whole market, cheaply, and holding it for decades. That's what an index fund does. And today I'm going to show you why boring investing beats most of the experts, from three different angles.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Here's the headline. In recent SPIVA reports from S and P Dow Jones Indices, roughly nine out of ten actively managed large company U.S. stock funds trailed the S and P five hundred over fifteen years. The professionals, with all their research, mostly lost to a simple index.",
+   "card": {
+    "type": "stat",
+    "label": "Active large-cap funds that trailed the S&P 500",
+    "big": "~9 in 10",
+    "sub": "over 15 years, recent SPIVA U.S. scorecards"
+   },
+   "caption": "",
+   "cuts": 1,
+   "short_hook": "Warren Buffett bet a million dollars on the most boring investment there is."
+  },
+  {
+   "text": "That sounds unbelievable, so let's be careful about what it means. These are professional fund managers, with teams of analysts, expensive data and years of experience. Many of them are genuinely smart. But after fees and trading costs, most of them still end up behind a fund that simply buys every company in the index and does almost nothing. Over long periods, doing less has usually won.",
+   "query": "Fund managers in office",
+   "caption": "THE PROS MOSTLY LOST",
+   "cuts": 5
+  },
+  {
+   "text": "We'll explore this from three angles. First, the numbers. What an index fund is, why costs matter so much, and how the math of averages works in your favor. Second, the psychology. Why boring is so hard for humans, and why that's exactly why it works. And third, the playbook. How to actually start investing in index funds, step by step. Quick reminder, this is education, not financial advice, and past results don't guarantee future returns.",
+   "query": "Three paths in a park",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the numbers. And first, what exactly is an index fund?",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Our numbers. Fund performance comparisons come from S and P Dow Jones Indices' SPIVA scorecards. Fee data comes from the Investment Company Institute. Warren Buffett's bet and advice come from his Berkshire Hathaway shareholder letters. Investor behavior data comes from Morningstar's Mind the Gap research. Growth examples use monthly compounding at a stated average yearly return, as illustrations, not promises.",
+   "query": "Financial reports on desk",
+   "caption": "OUR NUMBERS",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Seven lessons about how index funds actually work, and why the math favors them.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Lesson number one. An index fund buys the whole market, or a big slice of it.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "What an index fund is",
+    "sub": "buy the whole market"
+   },
+   "caption": "LESSON 1",
+   "cuts": 1,
+   "chapter": "1. What an index fund is"
+  },
+  {
+   "text": "An index is just a list of companies, chosen by a set of rules. The S and P five hundred, for example, tracks about five hundred of the largest publicly traded companies in the United States. An index fund simply buys all the companies on that list, in roughly the same proportions, so its performance follows the index.",
+   "query": "List of company names",
+   "caption": "AN INDEX IS A LIST",
+   "cuts": 3
+  },
+  {
+   "text": "So when you buy one share of an S and P five hundred index fund, you own a tiny piece of hundreds of companies at once. Technology companies, banks, retailers, health care, energy. One purchase gives you a slice of a large part of the American economy, instead of betting on a single business.",
+   "query": "Pie chart of sectors",
+   "caption": "ONE SHARE, HUNDREDS OF COMPANIES",
+   "cuts": 3
+  },
+  {
+   "text": "There are index funds for almost everything. Total U.S. stock market funds hold thousands of companies, large and small. International index funds hold companies outside the United States. Bond index funds hold thousands of bonds. The idea is always the same. Don't try to pick winners. Own the whole haystack.",
+   "query": "Haystack in field",
+   "caption": "OWN THE HAYSTACK",
+   "cuts": 3
+  },
+  {
+   "text": "Index funds come as mutual funds or as exchange traded funds, usually called ETFs. ETFs trade during the day like stocks, while mutual funds trade once a day at the closing price. For a long term investor, either can work well. The fund's cost and what it holds matter far more than the format.",
+   "query": "Brokerage app showing ETF",
+   "caption": "MUTUAL FUND OR ETF",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number two. The idea Wall Street laughed at.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Bogle's folly",
+    "sub": "the idea everyone laughed at"
+   },
+   "caption": "LESSON 2",
+   "cuts": 1,
+   "chapter": "2. Bogle's folly"
+  },
+  {
+   "text": "In 1975, John Bogle founded Vanguard. The next year, his company launched one of the first index mutual funds available to ordinary investors, tracking the S and P five hundred. Critics mocked it. Some called it Bogle's folly. Why would anyone settle for average returns, they asked, when you could hire a manager to beat the market?",
+   "query": "Vintage newspaper",
+   "caption": "BOGLE'S FOLLY",
+   "cuts": 3
+  },
+  {
+   "text": "Bogle's answer was simple arithmetic. Before costs, all investors together earn the market's return, because together they are the market. After costs, the average investor must earn less than the market. So a fund that charges very little and simply matches the market should beat most investors who pay more, over time.",
+   "query": "Simple math on chalkboard",
+   "caption": "THE ARITHMETIC",
+   "cuts": 3
+  },
+  {
+   "text": "It took decades, but Bogle's idea won. According to Morningstar, by early 2024, assets in passive funds in the United States, mostly index funds, had overtaken assets in actively managed funds. The folly became the mainstream.",
+   "query": "Graph lines crossing",
+   "caption": "THE FOLLY WON",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Next time someone tells you they have a strategy to beat the market, ask a simple question. Have you beaten a low cost index fund over the last fifteen years, after all fees? Most people, and most professionals, can't say yes.",
+   "query": "Two people talking",
+   "caption": "ASK THIS QUESTION",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number three. Costs matter more than almost anything.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Costs are everything",
+    "sub": "the fee that compounds"
+   },
+   "caption": "LESSON 3",
+   "cuts": 1,
+   "chapter": "3. Costs are everything"
+  },
+  {
+   "text": "Every fund charges a yearly fee called an expense ratio. According to the Investment Company Institute, in recent years the average index equity mutual fund charged around five hundredths of a percent, while the average actively managed equity fund charged around sixty five hundredths of a percent. That difference sounds tiny. It isn't.",
+   "query": "Fee table on document",
+   "caption": "0.05% VS 0.65%",
+   "cuts": 3,
+   "short_hook": "A tiny fee can cost you two hundred thousand dollars. Here's the math."
+  },
+  {
+   "text": "Imagine investing five hundred dollars a month for forty years with a seven percent average yearly return before fees. With a five hundredths of a percent fee, you'd end with roughly one point two nine million dollars. With a sixty five hundredths of a percent fee, roughly one point one million. That's around two hundred thousand dollars lost to fees.",
+   "query": "Two stacks of money",
+   "caption": "ABOUT $200,000 LOST TO FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Why so much? Because fees compound too. Every dollar taken in fees is a dollar that never grows again, along with all the growth it would have earned for decades. And unlike returns, fees are guaranteed. You pay them in good years and bad.",
+   "query": "Coins slipping through fingers",
+   "caption": "FEES COMPOUND TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Look up the expense ratio of every fund you own. It's listed on the fund's page. If any are above half a percent, check whether a low cost index fund covers the same part of the market.",
+   "query": "Person checking fund page",
+   "caption": "CHECK YOUR EXPENSE RATIOS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number four. Why most professionals lose to the index.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Why the pros lose",
+    "sub": "the math of beating average"
+   },
+   "caption": "LESSON 4",
+   "cuts": 1,
+   "chapter": "4. Why the pros lose"
+  },
+  {
+   "text": "It's not that fund managers are bad at their jobs. It's that beating the market is incredibly hard. Every time a professional buys a stock, another professional is usually selling it. They can't both be right. Together, they're competing against each other, and the competition is fierce.",
+   "query": "Traders on trading floor",
+   "caption": "PROS COMPETE WITH PROS",
+   "cuts": 3
+  },
+  {
+   "text": "Then come the costs. Active funds pay for research, analysts and frequent trading. Those costs come out of returns every year. So even a manager who picks slightly better stocks than average can end up behind the index once costs are subtracted.",
+   "query": "Calculator subtracting costs",
+   "caption": "COSTS DRAG RETURNS",
+   "cuts": 3
+  },
+  {
+   "text": "And even the funds that do win often don't keep winning. S and P Dow Jones Indices also publishes persistence scorecards, which track whether top performing funds stay on top. Historically, relatively few do. Picking last year's winning fund is no guarantee of picking next year's.",
+   "query": "Trophy falling over",
+   "caption": "WINNERS RARELY REPEAT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If you're paying for an actively managed fund, compare its fifteen year return after fees with a similar index fund. Numbers usually settle the debate quickly.",
+   "query": "Comparison chart on laptop",
+   "caption": "COMPARE 15 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number five. Diversification you get almost for free.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Diversification for free",
+    "sub": "no single point of failure"
+   },
+   "caption": "LESSON 5",
+   "cuts": 1,
+   "chapter": "5. Diversification for free"
+  },
+  {
+   "text": "When you own one company's stock, your money depends on that one business. If it fails, you can lose everything you put in. History is full of companies that once seemed unstoppable and later collapsed or disappeared.",
+   "query": "Closed store with sign",
+   "caption": "ONE COMPANY CAN FAIL",
+   "cuts": 3
+  },
+  {
+   "text": "An index fund spreads your money across hundreds or thousands of companies. If one fails, it's a tiny piece of the fund. Meanwhile, the companies that grow into giants automatically become bigger parts of the index. You don't need to know in advance which ones they'll be.",
+   "query": "Many small boats in harbor",
+   "caption": "WINNERS GROW AUTOMATICALLY",
+   "cuts": 3
+  },
+  {
+   "text": "Research by Hendrik Bessembinder found that a small share of stocks created most of the U.S. stock market's long term wealth, while many individual stocks did worse than safe Treasury bills over their lifetimes. Owning the whole market is the easiest way to make sure you own the rare big winners.",
+   "query": "Few tall bars on chart",
+   "caption": "A FEW STOCKS DO MOST OF THE WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If most of your investments are in one or two stocks, especially your employer's, think about whether you'd be okay if that company had a terrible decade. If the answer is no, an index fund can spread that risk.",
+   "query": "Person thinking at desk",
+   "caption": "TOO MUCH IN ONE STOCK?",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number six. Index funds are often tax efficient.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Taxes and turnover",
+    "sub": "less trading, fewer taxes"
+   },
+   "caption": "LESSON 6",
+   "cuts": 1,
+   "chapter": "6. Taxes and turnover"
+  },
+  {
+   "text": "When a fund sells investments at a profit, it may have to distribute capital gains to its shareholders. In a regular taxable brokerage account, you can owe taxes on those distributions, even if you didn't sell a single share yourself.",
+   "query": "Tax form close up",
+   "caption": "FUNDS CAN CREATE TAXES",
+   "cuts": 3
+  },
+  {
+   "text": "Active funds often trade a lot, which can create more of these taxable gains. Index funds usually trade much less, because they only change holdings when the index changes. Less trading usually means fewer taxable distributions.",
+   "query": "Low turnover illustration",
+   "caption": "LESS TRADING, FEWER TAXES",
+   "cuts": 3
+  },
+  {
+   "text": "Many index ETFs are especially tax efficient because of how ETF shares are created and redeemed. That's one reason they're popular for taxable accounts. In retirement accounts like a four oh one k or IRA, this matters less, because growth there is tax deferred or tax free.",
+   "query": "ETF on screen",
+   "caption": "ETFS CAN BE EVEN MORE EFFICIENT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If you invest in a regular taxable account, check your funds' history of capital gains distributions. Low distributions mean more of your money stays invested and compounding.",
+   "query": "Person reviewing statement",
+   "caption": "CHECK DISTRIBUTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number seven. Boring doesn't mean risk free.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "The market's long run",
+    "sub": "boring, not risk free"
+   },
+   "caption": "LESSON 7",
+   "cuts": 1,
+   "chapter": "7. The market's long run"
+  },
+  {
+   "text": "Here's an honest warning. An index fund follows the market, and that includes the bad times. In 2008, the S and P five hundred fell by more than a third. In early 2020, it dropped sharply in a matter of weeks. An index fund doesn't avoid these drops. It goes through them.",
+   "query": "Red market chart crash",
+   "caption": "IT FALLS WITH THE MARKET",
+   "cuts": 3
+  },
+  {
+   "text": "Historically, the broad U.S. market has recovered from its past crashes and gone on to new highs, though recoveries sometimes took years. That's why index funds work best for money you won't need for a long time, often five years or more.",
+   "query": "Chart recovering upward",
+   "caption": "RECOVERIES TAKE TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Bond index funds and cash can balance the ups and downs for money you need sooner, or for people who can't stomach big drops. Many investors hold a mix, more stocks when they're young, more bonds as they get closer to needing the money.",
+   "query": "Balanced scale",
+   "caption": "MIX STOCKS AND BONDS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Ask yourself honestly. If my investments fell thirty percent next year, would I sell? If yes, you may want more bonds in your mix, so you can stay invested through the hard times.",
+   "query": "Person reflecting",
+   "caption": "KNOW YOUR LIMIT",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle one. What an index fund is, Bogle's folly, costs, why the pros lose, diversification, taxes, and boring but not risk free. Now angle two. The psychology.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "If index funds are so effective, why doesn't everyone just buy them and relax? Because human brains crave excitement, control and stories. Index investing offers none of that. In this angle, we'll look at seven psychological reasons boring investing is hard, and why getting past them is where the real returns come from.",
+   "query": "Brain illustration",
+   "caption": "WHY BORING IS HARD",
+   "cuts": 3,
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Lesson number eight. Our brains want excitement.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "The excitement trap",
+    "sub": "boring feels wrong"
+   },
+   "caption": "LESSON 8",
+   "cuts": 1,
+   "chapter": "8. The excitement trap"
+  },
+  {
+   "text": "Picking stocks feels exciting. Researching a company, buying it, watching it jump. It's like a game. Buying an index fund and leaving it alone feels like doing nothing. And many people assume that doing nothing must be a mistake.",
+   "query": "Person excited at trading screen",
+   "caption": "STOCK PICKING FEELS FUN",
+   "cuts": 3
+  },
+  {
+   "text": "Economist Paul Samuelson reportedly said investing should be more like watching paint dry or watching grass grow. If you want excitement, he suggested, take eight hundred dollars and go to Las Vegas. His point was that excitement is often a sign of risk, not skill.",
+   "query": "Paint drying on wall",
+   "caption": "LIKE WATCHING PAINT DRY",
+   "cuts": 3
+  },
+  {
+   "text": "That doesn't mean you can never pick a stock. But it helps to separate your money. Keep your serious, long term money in boring index funds, and if you want some fun, use a small amount you can afford to lose.",
+   "query": "Two jars labeled",
+   "caption": "SEPARATE FUN MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. If you enjoy stock picking, cap it at five percent of your investments. Then compare its results to your index funds after a few years. The comparison is often eye opening.",
+   "query": "Five percent on screen",
+   "caption": "CAP IT AT 5%",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number nine. Overconfidence costs money.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Overconfidence",
+    "sub": "everyone thinks they're above average"
+   },
+   "caption": "LESSON 9",
+   "cuts": 1,
+   "chapter": "9. Overconfidence"
+  },
+  {
+   "text": "Most people believe they're above average drivers, and many investors believe they're above average stock pickers. But by definition, not everyone can be above average. Overconfidence leads people to trade more, take bigger risks and pay more in costs.",
+   "query": "Confident person with sunglasses",
+   "caption": "EVERYONE THINKS THEY'RE ABOVE AVERAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Brad Barber and Terrance Odean studied tens of thousands of household brokerage accounts. They found that the investors who traded the most earned noticeably lower returns than those who traded the least. Their paper's title says it all. Trading is hazardous to your wealth.",
+   "query": "Research paper",
+   "caption": "TRADING IS HAZARDOUS",
+   "cuts": 3
+  },
+  {
+   "text": "Index investing is a kind of humility. It accepts that you probably can't predict which stocks will win, and turns that humility into an advantage. You stop competing in a game that's very hard to win, and simply collect the market's return.",
+   "query": "Humble person smiling",
+   "caption": "HUMILITY AS A STRATEGY",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write down every investment decision you make this year, with the reason. A year later, check how they turned out. Most people find their predictions were far less reliable than they felt.",
+   "query": "Investment journal",
+   "caption": "KEEP A DECISION JOURNAL",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number ten. Investors often earn less than their own funds.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "The behavior gap",
+    "sub": "good funds, bad timing"
+   },
+   "caption": "LESSON 10",
+   "cuts": 1,
+   "chapter": "10. The behavior gap"
+  },
+  {
+   "text": "Here's something surprising. Morningstar's Mind the Gap research compares the returns funds report with the returns their investors actually receive. Investors often earn less than the funds they own, because they buy after prices rise and sell after prices fall. In recent studies, that gap was roughly one percentage point a year.",
+   "query": "Gap between two lines",
+   "caption": "THE BEHAVIOR GAP",
+   "cuts": 3,
+   "short_hook": "Most investors earn less than the funds they own. Here's why."
+  },
+  {
+   "text": "One percentage point might not sound like much, but over decades it's enormous. One hundred thousand dollars growing at seven percent a year for thirty years becomes roughly seven hundred sixty thousand. At six percent, roughly five hundred seventy thousand. Bad timing can cost almost two hundred thousand dollars.",
+   "query": "Two growth curves",
+   "caption": "BAD TIMING IS EXPENSIVE",
+   "cuts": 3
+  },
+  {
+   "text": "Index funds don't fix this by themselves. You can buy and sell an index fund at the wrong times too. The advantage comes when you pair index funds with automatic investing and a commitment to hold. The fund is boring, and your behavior has to be boring too.",
+   "query": "Automatic investment confirmation",
+   "caption": "BORING FUND, BORING BEHAVIOR",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Set up automatic monthly investing, and decide in advance that you'll only review your portfolio once or twice a year. Fewer looks usually mean fewer mistakes.",
+   "query": "Calendar with two review dates",
+   "caption": "LOOK LESS OFTEN",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If boring investing is starting to make sense, please subscribe to Ryan Rover Money. It's free, and it helps us keep making these. Now, lesson eleven.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Lesson number eleven. Ignore most financial news.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Headlines and noise",
+    "sub": "the news isn't a plan"
+   },
+   "caption": "LESSON 11",
+   "cuts": 1,
+   "chapter": "11. Headlines and noise"
+  },
+  {
+   "text": "Financial news is designed to keep you watching. Markets soar, markets plunge, experts predict a crash, other experts predict a boom. Every day there's a new reason to act. But for a long term index investor, most of it is noise.",
+   "query": "Breaking news on TV",
+   "caption": "NEWS IS NOISE",
+   "cuts": 3
+  },
+  {
+   "text": "Predictions are especially unreliable. Market forecasts from experts have a long history of being wrong, in both directions. If someone could reliably predict the market, they probably wouldn't be telling you on television.",
+   "query": "Crystal ball",
+   "caption": "PREDICTIONS ARE UNRELIABLE",
+   "cuts": 3
+  },
+  {
+   "text": "The index investor's advantage is not needing to know what happens next. You own the whole market, so whatever happens, you get the market's result. That frees you from needing to react to every headline.",
+   "query": "Calm person reading book",
+   "caption": "YOU DON'T NEED TO KNOW",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Unfollow or mute the market news sources that make you anxious. Replace them with one or two good books about long term investing.",
+   "query": "Phone unfollow button",
+   "caption": "MUTE THE NOISE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number twelve. Fear of missing out.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Fear of missing out",
+    "sub": "chasing the hot thing"
+   },
+   "caption": "LESSON 12",
+   "cuts": 1,
+   "chapter": "12. Fear of missing out"
+  },
+  {
+   "text": "Every few years there's a new hot investment. A sector, a coin, a single stock everyone's talking about. Index investors watch other people brag about huge gains and feel left behind. That feeling is called fear of missing out, and it pushes people to abandon good plans.",
+   "query": "People cheering at screen",
+   "caption": "FEAR OF MISSING OUT",
+   "cuts": 3
+  },
+  {
+   "text": "The hot investment sometimes does keep rising for a while. But many manias end painfully, and the people who join late often buy near the top. Meanwhile, the index investor already owns many of the companies that become truly big, without having to guess.",
+   "query": "Bubble popping",
+   "caption": "MANIAS OFTEN END BADLY",
+   "cuts": 3
+  },
+  {
+   "text": "Remember, you only hear about the winners. The people who lost money on the last hot thing rarely post about it. Your picture of how everyone else is doing is badly biased.",
+   "query": "Social media highlight reel",
+   "caption": "YOU ONLY SEE WINNERS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. When you feel the urge to chase something hot, wait thirty days before acting. Most urges fade, and the ones that don't deserve careful thought.",
+   "query": "Thirty day calendar",
+   "caption": "WAIT 30 DAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number thirteen. Average returns create above average results.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Average is extraordinary",
+    "sub": "the paradox of settling"
+   },
+   "caption": "LESSON 13",
+   "cuts": 1,
+   "chapter": "13. Average is extraordinary"
+  },
+  {
+   "text": "Many people hate the idea of settling for average returns. But here's the paradox. Because most active investors trail the market after costs, simply earning the market's return puts you ahead of most of them over long periods.",
+   "query": "Podium with medals",
+   "caption": "AVERAGE BEATS MOST",
+   "cuts": 3
+  },
+  {
+   "text": "Think of it like a marathon where most runners carry heavy backpacks full of fees, trading costs and bad timing. You run at an average pace, but with no backpack. You end up finishing ahead of most of the field.",
+   "query": "Marathon runners",
+   "caption": "NO BACKPACK",
+   "cuts": 3
+  },
+  {
+   "text": "And average returns, compounded for decades, can be life changing. Three hundred dollars a month for thirty years at a seven percent average yearly return grows to roughly three hundred sixty six thousand dollars. No genius required.",
+   "query": "Growing savings chart",
+   "caption": "AVERAGE CAN BE LIFE CHANGING",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Stop measuring yourself against the best investor you've heard of. Measure yourself against what you'd have if you did nothing at all. That's the real comparison.",
+   "query": "Person comparing notes",
+   "caption": "THE REAL COMPARISON",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson number fourteen. Fewer decisions, better results.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "The power of not deciding",
+    "sub": "fewer decisions, better results"
+   },
+   "caption": "LESSON 14",
+   "cuts": 1,
+   "chapter": "14. The power of not deciding"
+  },
+  {
+   "text": "Every investing decision is a chance to make a mistake. Which stock, when to buy, when to sell, which manager, which strategy. Index investing removes most of those decisions. You choose a few funds and a mix, and then keep buying.",
+   "query": "Fork in the road",
+   "caption": "EVERY DECISION IS A RISK",
+   "cuts": 3
+  },
+  {
+   "text": "Fewer decisions also means less stress. You don't have to research companies every weekend or worry about every earnings report. Your time and attention are freed up for your career, your family and your life.",
+   "query": "Family having picnic",
+   "caption": "LESS STRESS",
+   "cuts": 3
+  },
+  {
+   "text": "That's why many index investors use something like a three fund portfolio, a U.S. stock index fund, an international stock index fund and a bond index fund. Or even a single target date fund that handles the mix automatically.",
+   "query": "Three jars",
+   "caption": "THE THREE FUND PORTFOLIO",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write down your investing plan on one page. Which funds, what percentages, how much each month. If your plan doesn't fit on one page, it may be too complicated.",
+   "query": "One page plan",
+   "caption": "ONE PAGE PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "That's angle two. The excitement trap, overconfidence, the behavior gap, headlines, fear of missing out, the paradox of average and the power of not deciding. Now angle three. The playbook.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Let's turn this into action. Six moves to start investing in index funds the right way. You can do most of them in an afternoon, and then let time and consistency do the rest.",
+   "query": "Toolbox on table",
+   "caption": "SIX MOVES",
+   "cuts": 3,
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Move number fifteen. Pick the right account first.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Pick the right account",
+    "sub": "where your funds live"
+   },
+   "caption": "LESSON 15",
+   "cuts": 1,
+   "chapter": "15. Pick the right account"
+  },
+  {
+   "text": "Before you choose a fund, choose where it lives. If your employer offers a four oh one k with a match, that's often the best place to start, because the match is an immediate return. Most plans offer at least one low cost index fund.",
+   "query": "Employee benefits paperwork",
+   "caption": "START WITH THE MATCH",
+   "cuts": 3
+  },
+  {
+   "text": "Next, many people open an IRA, either traditional or Roth, at a low cost brokerage. Roth IRA contributions are made with after tax money, but qualified withdrawals in retirement are tax free. There are income limits and yearly contribution limits, so check the current rules on the IRS website.",
+   "query": "IRA account opening",
+   "caption": "THEN AN IRA",
+   "cuts": 3
+  },
+  {
+   "text": "After that, a regular taxable brokerage account gives you flexibility with no contribution limits. Index ETFs are often a good fit there because of their tax efficiency.",
+   "query": "Brokerage account screen",
+   "caption": "THEN A TAXABLE ACCOUNT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Log into your employer's retirement plan and find the list of investment options. Look for the words index, S and P five hundred, total market or target date, and check each fund's expense ratio.",
+   "query": "Retirement plan fund list",
+   "caption": "FIND THE INDEX OPTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Move number sixteen. Choose broad, cheap funds.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Choose simple funds",
+    "sub": "broad and cheap"
+   },
+   "caption": "LESSON 16",
+   "cuts": 1,
+   "chapter": "16. Choose simple funds"
+  },
+  {
+   "text": "Look for funds that cover a big part of the market, like a total U.S. stock market fund, an S and P five hundred fund or a total world stock fund. The broader the fund, the less you depend on any single company or sector.",
+   "query": "World map with markets",
+   "caption": "BROAD MARKET FUNDS",
+   "cuts": 3
+  },
+  {
+   "text": "Then compare costs. Many broad index funds charge less than one tenth of one percent a year. Between two funds that track the same index, the cheaper one usually comes out ahead over time.",
+   "query": "Two fund cards compared",
+   "caption": "CHEAPER USUALLY WINS",
+   "cuts": 3
+  },
+  {
+   "text": "If you want maximum simplicity, consider a target date fund. You pick the fund with the year closest to your expected retirement, and it holds a mix of stock and bond index funds that gradually becomes more conservative. Just check its expense ratio, because target date fund costs vary.",
+   "query": "Target date fund brochure",
+   "caption": "TARGET DATE FUNDS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Choose no more than three funds to start. Simple portfolios are easier to stick with, and sticking with it is what matters most.",
+   "query": "Three simple icons",
+   "caption": "THREE FUNDS OR FEWER",
+   "cuts": 3
+  },
+  {
+   "text": "Move number seventeen. Automate your contributions.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Automate it",
+    "sub": "set it and mostly forget it"
+   },
+   "caption": "LESSON 17",
+   "cuts": 1,
+   "chapter": "17. Automate it"
+  },
+  {
+   "text": "Set up automatic investments on payday, every month. When the money moves before you see it, you're not tempted to spend it, and you're not tempted to wait for the perfect moment to buy.",
+   "query": "Calendar with payday",
+   "caption": "AUTOMATE ON PAYDAY",
+   "cuts": 3,
+   "short_hook": "The secret to index funds isn't which one you pick. It's this."
+  },
+  {
+   "text": "Investing a fixed amount on a regular schedule is often called dollar cost averaging. When prices are high, your money buys fewer shares. When prices are low, it buys more. You don't need to time anything.",
+   "query": "Shares bought at different prices",
+   "caption": "DOLLAR COST AVERAGING",
+   "cuts": 3
+  },
+  {
+   "text": "Also turn on automatic dividend reinvestment. Index funds pay dividends from the companies they own, and reinvesting them buys more shares, which keeps compounding running.",
+   "query": "Dividend reinvestment toggle",
+   "caption": "REINVEST DIVIDENDS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Set up your automatic investment today, even if it's small. Then add a reminder to increase it whenever your pay goes up.",
+   "query": "Phone reminder",
+   "caption": "START TODAY",
+   "cuts": 3
+  },
+  {
+   "text": "Move number eighteen. Rebalance once a year.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Rebalance once a year",
+    "sub": "keep your mix"
+   },
+   "caption": "LESSON 18",
+   "cuts": 1,
+   "chapter": "18. Rebalance once a year"
+  },
+  {
+   "text": "Over time, your mix drifts. If stocks grow faster than bonds, your portfolio becomes riskier than you planned. Rebalancing means selling a little of what grew and buying a little of what lagged, to get back to your target.",
+   "query": "Balance scale tipping",
+   "caption": "YOUR MIX DRIFTS",
+   "cuts": 3
+  },
+  {
+   "text": "Once a year is plenty for most people. Some people rebalance only when their mix drifts more than five percentage points from the target. Either approach is fine. What matters is having a rule.",
+   "query": "Annual calendar reminder",
+   "caption": "ONCE A YEAR IS PLENTY",
+   "cuts": 3
+  },
+  {
+   "text": "In retirement accounts, rebalancing usually doesn't trigger taxes. In taxable accounts, you can often rebalance just by directing new money into whatever is underweight, which avoids selling.",
+   "query": "New money arrow",
+   "caption": "USE NEW MONEY TO REBALANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Pick a date, like your birthday, and make it your yearly portfolio check. Rebalance if needed, then leave it alone for another year.",
+   "query": "Birthday cake calendar",
+   "caption": "YOUR BIRTHDAY CHECKUP",
+   "cuts": 3
+  },
+  {
+   "text": "Move number nineteen. Stay the course.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Stay the course",
+    "sub": "the hardest move"
+   },
+   "caption": "LESSON 19",
+   "cuts": 1,
+   "chapter": "19. Stay the course"
+  },
+  {
+   "text": "Bogle's favorite advice was two words. Stay the course. It sounds easy, but it's the hardest part of index investing. When markets crash, every instinct tells you to sell. When markets boom, every instinct tells you to chase.",
+   "query": "Ship on stormy sea",
+   "caption": "STAY THE COURSE",
+   "cuts": 3
+  },
+  {
+   "text": "The investors who do best with index funds are often the ones who do the least. They keep buying through crashes, don't chase booms and let decades of compounding work.",
+   "query": "Calm sailor at helm",
+   "caption": "DO THE LEAST",
+   "cuts": 3
+  },
+  {
+   "text": "It helps to have a written plan and an emergency fund. The plan reminds you why you invested. The emergency fund means you never have to sell investments in a downturn to pay a surprise bill.",
+   "query": "Written plan and emergency jar",
+   "caption": "PLAN PLUS CUSHION",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Write one sentence at the top of your investing plan. I will not sell my index funds because of the news. Read it when the market feels scary.",
+   "query": "Handwritten sentence",
+   "caption": "ONE SENTENCE RULE",
+   "cuts": 3
+  },
+  {
+   "text": "Move number twenty. Let time do the heavy lifting.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Let time do the work",
+    "sub": "decades, not days"
+   },
+   "caption": "LESSON 20",
+   "cuts": 1,
+   "chapter": "20. Let time do the work"
+  },
+  {
+   "text": "Index investing is a decades long strategy. The returns you see in any single year can be wildly different from the long term average. But over twenty, thirty or forty years, the ups and downs tend to smooth out, and compounding takes over.",
+   "query": "Long road into distance",
+   "caption": "DECADES, NOT DAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Five hundred dollars a month for forty years at a seven percent average yearly return grows to roughly one point three million dollars before fees. You'd contribute two hundred forty thousand. The rest would be growth. That's what patience can do.",
+   "query": "Growing money tree",
+   "caption": "ABOUT $1.3 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "And the beauty is, it doesn't require you to be brilliant. It requires you to start, keep costs low, keep contributing and not panic. Ordinary people with ordinary incomes have built real wealth this way.",
+   "query": "Ordinary family at home",
+   "caption": "NO GENIUS REQUIRED",
+   "cuts": 3
+  },
+  {
+   "text": "Try this. Calculate what your current monthly investment could become in thirty years at seven percent. Let that number remind you why boring is worth it.",
+   "query": "Calculator on desk",
+   "caption": "SEE YOUR NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Let's make this really concrete. Here's what getting started with index funds can look like, in a single afternoon.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Getting started in one afternoon"
+  },
+  {
+   "text": "Hour one. Check your workplace plan. Log into your four oh one k or similar plan, find out whether your employer offers a match, and make sure you contribute at least enough to get the full match. Then look at the fund list and find the lowest cost broad index fund or target date fund. Switching your contributions there usually takes just a few clicks.",
+   "query": "Person at laptop with coffee",
+   "caption": "HOUR ONE: YOUR WORK PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Hour two. Open an IRA at a low cost brokerage, if you're eligible. You'll need basic personal information and your bank details. Then fund it with whatever amount you can, even a small one. Choose a broad index fund or ETF, or a single target date fund if you want everything handled in one place.",
+   "query": "Online account sign up form",
+   "caption": "HOUR TWO: OPEN AN IRA",
+   "cuts": 3
+  },
+  {
+   "text": "Hour three. Automate. Set a monthly automatic transfer from your bank to your IRA, scheduled right after payday, and set it to buy your chosen fund automatically if your brokerage allows it. Turn on dividend reinvestment. Then write your one page plan, and put a yearly review on your calendar.",
+   "query": "Automation settings screen",
+   "caption": "HOUR THREE: AUTOMATE",
+   "cuts": 3
+  },
+  {
+   "text": "That's it. Three hours, and you've built a system that can run for decades. You'll want to raise contributions over time and check in once or twice a year. But the hard part, getting started, is done. Most people spend more time choosing a new phone than building the investing system that could fund their retirement.",
+   "query": "Person relaxing on couch",
+   "caption": "THREE HOURS, DECADES OF RESULTS",
+   "cuts": 3
+  },
+  {
+   "text": "In your twenties and thirties, time is your biggest asset. Many young investors hold mostly stock index funds, because they have decades to ride out market drops. This is also when small monthly amounts have the longest time to compound.",
+   "query": "Young professional at desk",
+   "caption": "20s AND 30s: MOSTLY STOCKS",
+   "cuts": 3,
+   "chapter": "Index funds at every age"
+  },
+  {
+   "text": "In your forties and fifties, many investors gradually add bond index funds to reduce the size of potential drops. Income is often higher, so this is a great time to increase contributions and use catch up contributions once you turn fifty.",
+   "query": "Middle aged couple reviewing plan",
+   "caption": "40s AND 50s: ADD BALANCE",
+   "cuts": 3
+  },
+  {
+   "text": "In your sixties and beyond, many people hold a bigger share of bonds and cash, so they can cover several years of spending without selling stocks in a downturn. But even in retirement, some stock exposure often helps money keep growing faster than inflation over a retirement that can last decades.",
+   "query": "Retired couple walking",
+   "caption": "60s AND BEYOND: PROTECT AND GROW",
+   "cuts": 3
+  },
+  {
+   "text": "Let's end with one of the most famous bets in investing history.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The million dollar bet"
+  },
+  {
+   "text": "In 2007, Warren Buffett offered a bet. He wagered that over ten years, a simple low cost S and P five hundred index fund would beat a group of hedge funds picked by professionals, after fees. A firm called Protege Partners took the bet, choosing five funds of hedge funds. The money would go to charity.",
+   "query": "Two people shaking hands",
+   "caption": "THE BET",
+   "cuts": 3,
+   "short_hook": "A hedge fund bet against an index fund for ten years. Here's who won."
+  },
+  {
+   "text": "The bet ran from 2008 through 2017. It started badly for the index fund, because 2008 brought a huge market crash. But over the full ten years, according to Buffett's shareholder letter, the index fund returned about seven percent a year, while the hedge fund picks averaged about two percent a year.",
+   "query": "Chart comparing two lines",
+   "caption": "7% VS 2% A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Buffett won, and the money went to Girls Incorporated of Omaha. His lesson was clear. High fees and complexity often work against investors. In fact, Buffett has written that his instructions for money left to his wife call for ninety percent in a very low cost S and P five hundred index fund, and ten percent in short term government bonds.",
+   "query": "Charity check",
+   "caption": "BUFFETT'S OWN ADVICE",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Is an S and P five hundred fund enough on its own? Many investors use it as their core holding. Others prefer a total market fund for even broader coverage, plus international stocks for global diversification. Both approaches are reasonable. The key is low costs and broad diversification.",
+   "query": "Fund comparison chart",
+   "caption": "IS ONE FUND ENOUGH?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question two. Are index funds safe? They're diversified, but they still go up and down with the market, sometimes sharply. They're best for long term money. For money you need within a few years, safer options like high yield savings or short term bonds usually make more sense.",
+   "query": "Safety helmet and chart",
+   "caption": "ARE THEY SAFE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. How much money do I need to start? Often very little. Many brokerages have no account minimums and allow fractional shares, so you can start with a small amount. Some index mutual funds do have minimums, but ETFs typically don't.",
+   "query": "Small investment on phone",
+   "caption": "HOW MUCH TO START?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Isn't the market too high right now? People have asked that question at almost every point in history. Nobody can reliably predict short term moves. Regular automatic investing spreads your purchases over time, so you don't have to guess.",
+   "query": "Person looking at chart worried",
+   "caption": "IS THE MARKET TOO HIGH?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. What if everyone buys index funds? Some people worry that if everyone indexes, markets stop working. In reality, plenty of active traders and investors are still setting prices every day. It's a debate among economists, but for an individual investor, it's not a reason to avoid index funds.",
+   "query": "Crowd of people",
+   "caption": "WHAT IF EVERYONE INDEXES?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. Should I pick individual stocks too? You can, but it's not necessary. Many successful investors own only index funds for their entire lives. If you enjoy picking stocks, keep it to a small share of your money, and be honest with yourself about whether it's beating your index funds over time.",
+   "query": "Stock picking on tablet",
+   "caption": "SHOULD I PICK STOCKS TOO?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. What about international index funds? U.S. stocks have performed very well in recent decades, but there have been long periods when international stocks did better. Many investors hold some international index funds for diversification. Total world funds include both in one fund.",
+   "query": "Globe with markets",
+   "caption": "WHAT ABOUT INTERNATIONAL?",
+   "cuts": 3
+  },
+  {
+   "text": "Question eight. Do index funds pay dividends? Yes. Stock index funds collect dividends from the companies they own and pass them on to shareholders, usually every quarter. You can take them as cash or reinvest them automatically. For long term money, reinvesting is usually the better choice, because those dividends buy more shares that pay even more dividends later.",
+   "query": "Dividend payment notification",
+   "caption": "DO THEY PAY DIVIDENDS?",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one. Buying an expensive index fund. Not all index funds are cheap. Some charge far more than others for nearly the same holdings. Always compare expense ratios before buying. A fund tracking the S and P five hundred at half a percent a year is doing the same job as one charging a few hundredths of a percent, and you'd be paying many times more for it, every year, for decades.",
+   "query": "Price tags compared",
+   "caption": "MISTAKE 1: HIGH FEES",
+   "cuts": 3,
+   "chapter": "Four index fund mistakes"
+  },
+  {
+   "text": "Mistake two. Owning too many overlapping funds. Five different large company U.S. funds often hold mostly the same stocks. That adds complexity without adding real diversification. It can also make your mix harder to understand and rebalance. Check the top holdings of each fund you own. If they look nearly identical, you can probably simplify.",
+   "query": "Overlapping circles",
+   "caption": "MISTAKE 2: OVERLAP",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three. Trading index funds like stocks. Buying and selling based on news defeats the purpose. The power comes from holding for years. Every trade is a chance to sell low, buy high and pay taxes in a taxable account. The best index investors often go months without logging in.",
+   "query": "Person frantically trading",
+   "caption": "MISTAKE 3: OVERTRADING",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake four. Stopping contributions during a crash. That's when your monthly money buys the most shares. Many long term investors see crashes as sales. When the price of something you plan to own for thirty years drops, your monthly contribution buys more of it. Stopping right then means missing the cheapest shares you may ever get.",
+   "query": "Sale sign in store",
+   "caption": "MISTAKE 4: STOPPING IN A CRASH",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Angle one, the numbers. What an index fund is, Bogle's folly, costs, why the pros lose, diversification, taxes, and boring but not risk free.",
+   "query": "Checklist on clipboard",
+   "caption": "THE NUMBERS: 1 TO 7",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "Angle two, the psychology. The excitement trap, overconfidence, the behavior gap, headlines, fear of missing out, the paradox of average and the power of not deciding.",
+   "query": "Person thinking",
+   "caption": "THE PSYCHOLOGY: 8 TO 14",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three, the playbook. Pick the right account, choose simple funds, automate, rebalance once a year, stay the course, and let time do the work.",
+   "query": "Notebook with plan",
+   "caption": "THE PLAYBOOK: 15 TO 20",
+   "cuts": 3
+  },
+  {
+   "text": "Boring investing isn't exciting, and that's exactly the point. Own the market, keep costs low, keep buying, and give it decades. If you want my full step by step plan, it's in my playbook, linked in the description. Tell me in the comments, what index fund are you starting with? I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+- S&P Dow Jones Indices, SPIVA U.S. Scorecards and Persistence Scorecards
+- Investment Company Institute, Investment Company Fact Book: expense ratios of index and active equity funds
+- Morningstar: U.S. passive fund assets overtaking active (early 2024)
+- Morningstar, Mind the Gap: investor returns vs fund returns
+- John C. Bogle, The Little Book of Common Sense Investing; Vanguard history (1975, first index fund 1976)
+- Warren Buffett, Berkshire Hathaway shareholder letters (2013 instructions; 2017 bet results)
+- Barber and Odean, Trading Is Hazardous to Your Wealth (Journal of Finance, 2000)
+- Hendrik Bessembinder, Do Stocks Outperform Treasury Bills? (Journal of Financial Economics, 2018)
+- IRS, IRA and Roth IRA rules and limits
+- Growth examples: monthly compounding at stated average yearly returns (illustrations, not promises)
