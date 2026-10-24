@@ -1,0 +1,985 @@
+{
+ "id": "video57",
+ "angle": "the complete budget system: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "The Complete Budget System That Actually Works",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Most people have tried to budget at least once. They download an app, make a spreadsheet, set strict limits, and three weeks later, it's abandoned. If that's you, the problem probably wasn't you. It was the system. Today, I'll show you a complete budget system built to survive real life, and why it works when others fail.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Budgets fail for predictable reasons. They're too strict, too complicated, or they depend on willpower every single day. They ignore irregular bills, so the first car repair blows them up. And they make people feel guilty, which is a terrible long term motivator.",
+   "query": "Abandoned budget spreadsheet",
+   "caption": "WHY BUDGETS FAIL",
+   "cuts": 8,
+   "short_hook": "Your budget didn't fail because of you. It was the system."
+  },
+  {
+   "text": "A budget that actually works does the opposite. It's simple. It runs mostly on autopilot. It plans for irregular costs. And it includes real money for fun, so you don't feel deprived. The goal isn't to track every penny forever. It's to make good money decisions the default.",
+   "query": "Simple organized desk",
+   "caption": "WHAT WORKS INSTEAD",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at this from three angles. First, the numbers: where the average household's money actually goes, and how popular budget rules divide it. Second, the psychology: why our brains fight budgets, and how to work with them instead. And third, the playbook: a twelve step system you can set up this weekend.",
+   "query": "Three paths map",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Stay for the sample budgets near the end. I'll show the system at three different income levels. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Household spending data comes from the Bureau of Labor Statistics Consumer Expenditure Survey. The fifty thirty twenty rule comes from the book All Your Worth by Elizabeth Warren and Amelia Warren Tyagi, published in 2005. Subscription spending comes from a 2022 survey by C plus R Research. Behavioral research comes from published studies, which we name as we go. This is education, not financial advice.",
+   "query": "Bureau of Labor Statistics building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Where does the money actually go?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "According to the BLS Consumer Expenditure Survey, the average American household spent around seventy seven thousand dollars in 2023. Housing was the biggest category by far, around a third of all spending. Transportation came next, around seventeen percent. Food was around thirteen percent.",
+   "query": "Pie chart household spending",
+   "caption": "~$77,000 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Together, housing, transportation and food make up around six of every ten dollars a typical household spends. Then come healthcare, personal insurance and pensions, entertainment, and everything else. That's why the biggest budget wins almost always come from the big three, not from coffee.",
+   "query": "House car groceries",
+   "caption": "THE BIG THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Housing, transportation and food make up around six of every ten dollars the average U.S. household spends, according to the BLS Consumer Expenditure Survey.",
+   "card": {
+    "type": "stat",
+    "label": "share of spending on the big three",
+    "big": "~60%",
+    "sub": "housing, transportation and food (BLS CES)"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Now let's look at a popular framework. In their 2005 book All Your Worth, Elizabeth Warren and her daughter Amelia Warren Tyagi suggested dividing after tax income into three parts. Fifty percent for needs. Thirty percent for wants. And twenty percent for savings and debt payments. It became known as the fifty thirty twenty rule.",
+   "query": "All Your Worth book",
+   "caption": "THE 50/30/20 RULE",
+   "cuts": 3
+  },
+  {
+   "text": "On a take home pay of five thousand dollars a month, that's twenty five hundred for needs, like housing, utilities, groceries, insurance and minimum debt payments. Fifteen hundred for wants, like dining out, hobbies and travel. And one thousand for savings, investing and extra debt payments.",
+   "query": "Three jars money",
+   "caption": "$2,500 / $1,500 / $1,000",
+   "cuts": 3
+  },
+  {
+   "text": "The fifty thirty twenty rule on five thousand dollars of monthly take home pay.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "needs (50%)",
+     "big": "$2,500",
+     "sub": "housing, utilities, groceries, insurance"
+    },
+    "right": {
+     "label": "savings (20%)",
+     "big": "$1,000",
+     "sub": "investing, emergency fund, extra debt"
+    },
+    "note": "Wants get the other 30%: $1,500."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "It's a useful starting point. But in high cost cities, needs can easily exceed fifty percent. And if you want to retire early or catch up, twenty percent for savings may not be enough. So think of fifty thirty twenty as a starting map, not a law.",
+   "query": "Map with flexible route",
+   "caption": "A MAP, NOT A LAW",
+   "cuts": 3
+  },
+  {
+   "text": "Now the hidden leaks. In a 2022 survey by C plus R Research, people estimated they spent around eighty six dollars a month on subscriptions. When they actually added them up, the average was about two hundred nineteen dollars. That's more than two and a half times what they thought.",
+   "query": "Subscription apps on phone",
+   "caption": "$86 GUESSED, $219 ACTUAL",
+   "cuts": 3
+  },
+  {
+   "text": "Two hundred nineteen dollars a month is over twenty six hundred dollars a year. Invested instead at seven percent for twenty years, that could grow to over a hundred thousand dollars. Not every subscription is a waste. But the ones you forgot about are pure leakage.",
+   "query": "Money leaking from pipe",
+   "caption": "$2,600 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "And then there are irregular expenses: car repairs, holiday gifts, annual insurance premiums, back to school costs, vet bills. They don't show up every month, so most budgets ignore them. Then they arrive, and the budget breaks. In many households, these irregular costs can add up to several thousand dollars a year.",
+   "query": "Car repair bill surprised",
+   "caption": "THE IRREGULAR EXPENSES",
+   "cuts": 3
+  },
+  {
+   "text": "Here's what a working budget can be worth. Say the system helps you find three hundred dollars a month: some from subscriptions, some from food, some from a cheaper insurance policy. Invest that three hundred dollars a month at a seven percent average yearly return for thirty years, and it could grow to roughly three hundred sixty six thousand dollars.",
+   "query": "Small savings growing into large",
+   "caption": "$300 A MONTH = ~$366K",
+   "cuts": 3
+  },
+  {
+   "text": "Three hundred dollars a month found in a budget, invested at seven percent a year for thirty years.",
+   "card": {
+    "type": "growth",
+    "monthly": 300,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That's the real reason to budget. Not to feel restricted, but to redirect money from things you don't care about to a future you do. Three hundred dollars a month of forgotten spending, turned into a six figure investment. That's the power of giving every dollar a job.",
+   "query": "Future home and family",
+   "caption": "REDIRECT, DON'T RESTRICT",
+   "cuts": 3
+  },
+  {
+   "text": "And the benefits aren't only financial. Many people report that having a clear plan reduces money stress and arguments at home. When you know the bills are covered and the future is funded, everyday spending decisions become much lighter.",
+   "query": "Relaxed family at home",
+   "caption": "LESS STRESS",
+   "cuts": 3
+  },
+  {
+   "text": "So the numbers tell us three things. Focus on the big three. Watch for silent leaks. And plan for irregular costs. Now, why do our brains make this so hard? Angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Five reasons your brain fights your budget, and how to work with it.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Reason one. Restriction backfires. Research on dieting by psychologists Janet Polivy and Peter Herman described what's sometimes called the what the hell effect. When strict dieters broke their rules, many gave up and ate even more. Budgets work the same way. Go over once, and it's tempting to abandon the whole thing.",
+   "query": "Broken diet plan donut",
+   "caption": "REASON 1: WHAT THE HELL",
+   "cuts": 3,
+   "short_hook": "5 reasons your brain fights your budget"
+  },
+  {
+   "text": "The fix is to build in flexibility. Include a real fun money category. Add a buffer for small surprises. And when you overspend, adjust next week instead of declaring failure. A budget is a plan, not a test.",
+   "query": "Flexible rubber band",
+   "caption": "THE FIX: FLEXIBILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Reason two. Decision fatigue. Every purchase becomes a small decision when you're trying to budget manually. Is this okay? Can I afford this? Making dozens of those choices every day is exhausting. Eventually, people stop deciding and just spend.",
+   "query": "Tired person shopping",
+   "caption": "REASON 2: DECISION FATIGUE",
+   "cuts": 3
+  },
+  {
+   "text": "The fix is automation and simple limits. When bills, savings and investing happen automatically on payday, the only decision left is how to spend a fixed weekly amount. One decision, not a hundred.",
+   "query": "Automatic payments",
+   "caption": "THE FIX: AUTOMATE",
+   "cuts": 3
+  },
+  {
+   "text": "Reason three. Mental accounting. Economist Richard Thaler, who later won a Nobel Prize, showed that people treat money differently depending on which mental bucket it's in. A tax refund feels like free money. A bonus feels like fun money. But a dollar is a dollar.",
+   "query": "Richard Thaler economics",
+   "caption": "REASON 3: MENTAL ACCOUNTING",
+   "cuts": 3
+  },
+  {
+   "text": "The fix is to use mental accounting on purpose. Create separate accounts for separate jobs: bills, spending, savings, investing. When the spending account is empty, you're done for the week. The buckets do the work for you.",
+   "query": "Separate labeled jars",
+   "caption": "THE FIX: REAL BUCKETS",
+   "cuts": 3
+  },
+  {
+   "text": "Reason four. Out of sight, out of mind. Card payments and phone wallets make spending almost invisible. Some studies suggest people may be willing to spend more when paying by card than with cash. When money doesn't feel real, it disappears faster.",
+   "query": "Tap to pay phone",
+   "caption": "REASON 4: INVISIBLE MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "The fix is visibility without obsession. A weekly ten minute check of your spending account is enough. Some people use cash envelopes for categories they overspend in, like eating out. Seeing the balance shrink makes spending feel real again.",
+   "query": "Cash envelopes",
+   "caption": "THE FIX: WEEKLY CHECK",
+   "cuts": 3
+  },
+  {
+   "text": "And reason five. Shame. Many people avoid looking at their money because it makes them feel bad. But avoidance makes problems grow. The fix is to treat your budget like data, not a judgment. Numbers are information. They tell you what to adjust next.",
+   "query": "Person hiding from bills",
+   "caption": "REASON 5: SHAME",
+   "cuts": 3
+  },
+  {
+   "text": "So what mindset works? Think of your budget as a spending plan that gives every dollar a job, including the job of making you happy. People who stick with budgets usually describe them as giving freedom, not taking it away. They spend without guilt, because they know the important things are already covered.",
+   "query": "Happy person spending guilt free",
+   "caption": "A PLAN FOR FREEDOM",
+   "cuts": 3,
+   "chapter": "The mindset that makes budgets stick"
+  },
+  {
+   "text": "And think in systems, not willpower. A good system makes the right choice the easy choice. Willpower runs out. Systems keep running.",
+   "query": "Gears running smoothly",
+   "caption": "SYSTEMS BEAT WILLPOWER",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three. The playbook. Twelve steps to build a budget system that actually works. You can set most of this up in one weekend.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Step one. Look back at ninety days of spending.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Track 90 days of spending",
+    "sub": "see the truth"
+   },
+   "caption": "STEP 1",
+   "cuts": 1,
+   "chapter": "Step 1. Track 90 days of spending",
+   "short_hook": "The 12-step budget system that actually works"
+  },
+  {
+   "text": "Download three months of bank and credit card statements. Sort every transaction into simple categories: housing, transportation, food, utilities, insurance, debt, subscriptions, shopping, fun, and other. Don't judge. Just sort.",
+   "query": "Bank statements sorted",
+   "caption": "THREE MONTHS OF TRUTH",
+   "cuts": 3
+  },
+  {
+   "text": "Ninety days gives you a much more realistic average than one month. Most people find at least one category that's far higher than they thought. That's your first opportunity.",
+   "query": "Highlighted category",
+   "caption": "FIND THE SURPRISE",
+   "cuts": 3
+  },
+  {
+   "text": "A tip that helps many people. As you sort, mark each transaction with a simple face: happy if you're glad you spent it, neutral, or unhappy if you regret it. The unhappy ones are your easiest cuts, because you won't miss them. The happy ones are what your fun money should protect.",
+   "query": "Smiley faces on receipts",
+   "caption": "HAPPY, NEUTRAL, REGRET",
+   "cuts": 3
+  },
+  {
+   "text": "Step two. Calculate your true monthly costs.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Calculate your true monthly costs",
+    "sub": "include the irregular"
+   },
+   "caption": "STEP 2",
+   "cuts": 1,
+   "chapter": "Step 2. Calculate your true monthly costs"
+  },
+  {
+   "text": "List every irregular expense you can think of for a full year: car registration, insurance premiums, holidays, birthdays, annual subscriptions, medical costs, car maintenance, home repairs. Estimate each one, add them up, and divide by twelve.",
+   "query": "Annual expenses list",
+   "caption": "LIST THE IRREGULAR",
+   "cuts": 3
+  },
+  {
+   "text": "If your irregular costs total thirty six hundred dollars a year, that's three hundred dollars a month. Add that to your regular monthly bills, and you have your true monthly cost. This one number fixes most broken budgets.",
+   "query": "Calculator divide twelve",
+   "caption": "$3,600 \u00f7 12 = $300",
+   "cuts": 3
+  },
+  {
+   "text": "Don't forget costs that come every two, three or five years, like new tires, a laptop, or a major appliance. Divide those by the number of months until you expect them. A one thousand two hundred dollar laptop every four years is twenty five dollars a month. Small monthly amounts make big future costs painless.",
+   "query": "Laptop and tires",
+   "caption": "MULTI YEAR COSTS TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Step three. Choose your framework.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Choose your framework",
+    "sub": "a starting map"
+   },
+   "caption": "STEP 3",
+   "cuts": 1,
+   "chapter": "Step 3. Choose your framework"
+  },
+  {
+   "text": "Pick a simple starting structure. Fifty thirty twenty is a good default. If you're catching up or paying off debt, try sixty twenty twenty: sixty for needs, twenty for wants, twenty for savings. Or seventy twenty ten if your housing costs are very high, with a plan to improve it.",
+   "query": "Framework options chart",
+   "caption": "PICK A STARTING MAP",
+   "cuts": 3
+  },
+  {
+   "text": "Some people prefer zero based budgeting, where every dollar of income is assigned a job until nothing is left unassigned. It takes more effort, but it gives you full control. Choose whatever you'll actually stick with.",
+   "query": "Zero based budget sheet",
+   "caption": "OR ZERO BASED",
+   "cuts": 3
+  },
+  {
+   "text": "Whatever framework you choose, write down your three percentages and put them somewhere visible. When a new expense comes up, you can ask a simple question: which bucket does this come from, and is there room? That question alone prevents many impulse decisions.",
+   "query": "Percentages on sticky note",
+   "caption": "WRITE IT DOWN",
+   "cuts": 3
+  },
+  {
+   "text": "Step four. Set up four accounts.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Set up four accounts",
+    "sub": "one job each"
+   },
+   "caption": "STEP 4",
+   "cuts": 1,
+   "chapter": "Step 4. Set up four accounts"
+  },
+  {
+   "text": "Here's the core of the system. Account one: Bills, a checking account for fixed expenses like rent, utilities, insurance and loan payments. Account two: Spending, a separate checking account or card for day to day purchases. Account three: Savings, a high yield savings account with buckets for your emergency fund and sinking funds. Account four: Investing, your retirement and brokerage accounts.",
+   "query": "Four accounts diagram",
+   "caption": "BILLS, SPENDING, SAVINGS, INVESTING",
+   "cuts": 3
+  },
+  {
+   "text": "Many banks and credit unions offer free checking and savings accounts, and many let you create multiple savings buckets inside one account. Setting this up usually takes an hour or two.",
+   "query": "Opening bank account online",
+   "caption": "AN HOUR OR TWO",
+   "cuts": 3
+  },
+  {
+   "text": "Why separate accounts instead of one big account with a spreadsheet? Because separation makes the rules physical. When your bills money lives in a different account, you can't accidentally spend it on dinner. Your spending balance is the truth, at a glance, with no math required.",
+   "query": "Separate bank cards",
+   "caption": "WHY SEPARATE ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Step five. Automate the payday flow.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Automate the payday flow",
+    "sub": "money moves itself"
+   },
+   "caption": "STEP 5",
+   "cuts": 1,
+   "chapter": "Step 5. Automate the payday flow"
+  },
+  {
+   "text": "When your paycheck lands, automatic transfers move money where it belongs. Retirement contributions come out before the paycheck. Then a set amount goes to Bills, a set amount to Savings, and a set amount to Investing. What's left goes to Spending.",
+   "query": "Money flowing automatically",
+   "caption": "THE PAYDAY FLOW",
+   "cuts": 3
+  },
+  {
+   "text": "Set all your fixed bills to autopay from the Bills account. Now your bills, savings and investing happen without a single decision. The only thing you manage is your spending account.",
+   "query": "Autopay settings",
+   "caption": "BILLS ON AUTOPAY",
+   "cuts": 3
+  },
+  {
+   "text": "Time the transfers for the day after payday, so the money is always there. And if you're paid twice a month, split each transfer in half. Within a month or two, you'll stop thinking about bills at all, which is exactly the point.",
+   "query": "Calendar payday arrows",
+   "caption": "THE DAY AFTER PAYDAY",
+   "cuts": 3
+  },
+  {
+   "text": "Step six. Use a weekly spending number.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Use a weekly spending number",
+    "sub": "one number to watch"
+   },
+   "caption": "STEP 6",
+   "cuts": 1,
+   "chapter": "Step 6. Use a weekly spending number"
+  },
+  {
+   "text": "Take your monthly spending money and divide it into weekly amounts. If you have one thousand dollars a month for groceries, gas, eating out and fun, that's about two hundred thirty dollars a week. That's your only number to watch.",
+   "query": "Weekly allowance",
+   "caption": "ONE WEEKLY NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Some people transfer the weekly amount every Monday. When it's gone, they wait until next week. It's simple, flexible, and you can see at a glance whether you're on track.",
+   "query": "Monday transfer calendar",
+   "caption": "EVERY MONDAY",
+   "cuts": 3
+  },
+  {
+   "text": "Why weekly instead of monthly? Because a month is long, and it's easy to overspend in the first two weeks and struggle in the last two. A weekly number gives you a fresh start every Monday, and it's small enough that you can feel it.",
+   "query": "Monday fresh start",
+   "caption": "WHY WEEKLY WORKS",
+   "cuts": 3
+  },
+  {
+   "text": "Step seven. Build sinking funds.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Build sinking funds",
+    "sub": "no more surprise bills"
+   },
+   "caption": "STEP 7",
+   "cuts": 1,
+   "chapter": "Step 7. Build sinking funds"
+  },
+  {
+   "text": "Inside your Savings account, create buckets for each irregular expense: car repairs, holidays, insurance, medical, gifts, travel. Each month, a fixed amount goes to each one automatically. When the bill comes, the money is already waiting.",
+   "query": "Labeled savings buckets",
+   "caption": "A BUCKET FOR EACH",
+   "cuts": 3
+  },
+  {
+   "text": "This is the step that turns budget breaking surprises into planned expenses. A seven hundred dollar car repair becomes a withdrawal, not a crisis.",
+   "query": "Calm person paying car repair",
+   "caption": "SURPRISES BECOME PLANS",
+   "cuts": 3
+  },
+  {
+   "text": "Start with your three biggest irregular costs, often car maintenance, holidays and insurance. Add more buckets as you go. Many people say sinking funds are the single change that made their budget finally work.",
+   "query": "Three buckets filling",
+   "caption": "START WITH THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Step eight. Build your emergency fund.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Build your emergency fund",
+    "sub": "the true unexpected"
+   },
+   "caption": "STEP 8",
+   "cuts": 1,
+   "chapter": "Step 8. Build your emergency fund"
+  },
+  {
+   "text": "Sinking funds cover expected irregular costs. The emergency fund covers the truly unexpected: a job loss, a medical emergency, a major repair. Start with one thousand dollars, then build toward three to six months of essential expenses.",
+   "query": "Emergency fund jar",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Keep it in the Savings account, separate from your sinking funds, and only use it for real emergencies. Then refill it.",
+   "query": "Refill savings",
+   "caption": "USE IT, THEN REFILL IT",
+   "cuts": 3
+  },
+  {
+   "text": "Give the emergency fund some distance. Some people keep it at a separate bank from their everyday accounts, so it's available within a day or two but not one tap away. That small bit of friction protects it from non emergencies.",
+   "query": "Separate bank building",
+   "caption": "A LITTLE DISTANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Step nine. Do a ten minute weekly check.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Do a ten minute weekly check",
+    "sub": "small corrections"
+   },
+   "caption": "STEP 9",
+   "cuts": 1,
+   "chapter": "Step 9. Do a ten minute weekly check"
+  },
+  {
+   "text": "Once a week, look at your spending account balance and recent transactions. Are you on track? Any surprises? Any subscriptions you forgot? Ten minutes is enough.",
+   "query": "Phone banking app quick check",
+   "caption": "10 MINUTES A WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "This small habit catches problems early, when they're easy to fix. Many people pair it with something pleasant, like a Sunday coffee.",
+   "query": "Sunday coffee laptop",
+   "caption": "PAIR IT WITH COFFEE",
+   "cuts": 3
+  },
+  {
+   "text": "During the check, also look for anything unusual: a charge you don't recognize, a price increase on a subscription, or a fee. Catching these early can save money and protect you from fraud.",
+   "query": "Unusual charge highlighted",
+   "caption": "SPOT THE UNUSUAL",
+   "cuts": 3
+  },
+  {
+   "text": "Step ten. Hold a monthly money meeting.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Hold a monthly money meeting",
+    "sub": "big picture"
+   },
+   "caption": "STEP 10",
+   "cuts": 1,
+   "chapter": "Step 10. Hold a monthly money meeting"
+  },
+  {
+   "text": "Once a month, look at the big picture. Did your automatic transfers run? Are your sinking funds growing? How's your emergency fund? Is there anything coming next month, like a birthday or a trip?",
+   "query": "Monthly calendar review",
+   "caption": "ONCE A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "If you have a partner, do this together. Keep it short, positive and focused on goals, not blame. Many couples end it with something fun, like ordering their favorite takeout from the fun budget.",
+   "query": "Couple reviewing budget",
+   "caption": "TOGETHER, NOT BLAME",
+   "cuts": 3
+  },
+  {
+   "text": "Use the meeting to celebrate progress too. A sinking fund that covered a repair, a debt paid off, an emergency fund milestone. Money conversations don't have to be stressful. They can be the moment you see your plan working.",
+   "query": "Couple celebrating",
+   "caption": "CELEBRATE PROGRESS",
+   "cuts": 3
+  },
+  {
+   "text": "Step eleven. Handle overspending without guilt.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Handle overspending without guilt",
+    "sub": "adjust, don't quit"
+   },
+   "caption": "STEP 11",
+   "cuts": 1,
+   "chapter": "Step 11. Handle overspending without guilt"
+  },
+  {
+   "text": "You will overspend sometimes. Everyone does. When it happens, move money from another category, reduce next week's spending a bit, or adjust the category if it was unrealistic.",
+   "query": "Adjusting budget lines",
+   "caption": "ADJUST, DON'T QUIT",
+   "cuts": 3
+  },
+  {
+   "text": "What you don't do is abandon the system. One bad week doesn't ruin a budget. Quitting does.",
+   "query": "Person continuing path",
+   "caption": "ONE BAD WEEK IS FINE",
+   "cuts": 3
+  },
+  {
+   "text": "If one category goes over every single month, that's not a willpower problem. It's a planning problem. Raise that category and lower another one. The budget should fit your real life, not an imaginary one.",
+   "query": "Adjusting sliders",
+   "caption": "FIX THE PLAN, NOT YOU",
+   "cuts": 3
+  },
+  {
+   "text": "Step twelve. Do an annual reset.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Do an annual reset",
+    "sub": "a fresh start"
+   },
+   "caption": "STEP 12",
+   "cuts": 1,
+   "chapter": "Step 12. Do an annual reset"
+  },
+  {
+   "text": "Once a year, review everything. Update your irregular expenses list. Raise your savings and investing transfers, especially after raises. Cancel subscriptions you don't use. Shop around for insurance, phone and internet.",
+   "query": "New year planning",
+   "caption": "ONCE A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "This yearly reset often finds hundreds or even thousands of dollars in savings, and keeps your budget aligned with your life.",
+   "query": "Savings found",
+   "caption": "FIND HUNDREDS",
+   "cuts": 3
+  },
+  {
+   "text": "A good time for the reset is early January, or right after your yearly raise. Pick a date, put it on your calendar, and treat it like an appointment. One afternoon a year can keep the whole system healthy.",
+   "query": "Calendar annual appointment",
+   "caption": "PUT IT ON THE CALENDAR",
+   "cuts": 3
+  },
+  {
+   "text": "Budgeting isn't new. For generations, many families used the envelope system. On payday, cash went into labeled envelopes: rent, groceries, coal, clothing. When an envelope was empty, spending in that category stopped. It was simple, visual, and it worked without any technology.",
+   "query": "Vintage cash envelopes",
+   "caption": "THE ENVELOPE SYSTEM",
+   "cuts": 3,
+   "chapter": "A short history of budgeting"
+  },
+  {
+   "text": "In 1970, a manager at Texas Instruments named Peter Pyhrr described zero based budgeting for businesses. Instead of starting from last year's budget, every expense had to be justified from zero. The idea later spread to personal finance: every dollar gets a job.",
+   "query": "1970s corporate office",
+   "caption": "1970: ZERO BASED",
+   "cuts": 3
+  },
+  {
+   "text": "In 2005, Elizabeth Warren and Amelia Warren Tyagi popularized the fifty thirty twenty rule as a simpler alternative. And in the 2000s and 2010s, budgeting apps began linking bank accounts and categorizing spending automatically.",
+   "query": "Budget app smartphone",
+   "caption": "RULES AND APPS",
+   "cuts": 3
+  },
+  {
+   "text": "The four account system in this video borrows from all of them. The envelope idea of separate buckets. The zero based idea of giving every dollar a job. The simplicity of fifty thirty twenty. And modern automation, so it runs without daily effort.",
+   "query": "Combining ideas puzzle",
+   "caption": "THE BEST OF EACH",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this system is helping you, subscribe to the channel. It's free, and it helps me keep making these videos for you. Now, the sample budgets.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Let's see the system at three income levels. First, three thousand dollars a month of take home pay, a single person. Bills account: fourteen hundred, including rent with a roommate, utilities, phone, insurance and a small loan payment. Savings: two hundred fifty for sinking funds and one hundred fifty for the emergency fund.",
+   "query": "Small apartment budget",
+   "caption": "$3,000 A MONTH",
+   "cuts": 3,
+   "chapter": "The system at three incomes",
+   "short_hook": "The same budget system at $3,000, $5,000 and $8,000 a month"
+  },
+  {
+   "text": "Investing: one hundred fifty to a Roth IRA, plus a workplace match through payroll. Spending: about one thousand fifty, or roughly two hundred forty a week for groceries, gas, fun and everything else. It's tight, but every dollar has a job, and the future is funded.",
+   "query": "Weekly spending envelope",
+   "caption": "~$240 A WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Second, five thousand dollars a month, a couple with no kids. Bills: twenty three hundred, including rent, utilities, insurance and one car payment. Savings: four hundred for sinking funds and three hundred for the emergency fund. Investing: six hundred in IRAs, plus retirement plans through payroll.",
+   "query": "Couple apartment budget",
+   "caption": "$5,000 A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "Spending: about fourteen hundred, around three hundred twenty a week for groceries, gas, dining out and fun. That's about eighteen percent going to the emergency fund and investing from take home pay alone, plus the payroll contributions.",
+   "query": "Couple shopping groceries",
+   "caption": "~$320 A WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Third, eight thousand dollars a month, a family of four. Bills: thirty nine hundred, including mortgage, utilities, insurance, childcare and a car payment. Savings: six hundred for sinking funds and four hundred for the emergency fund. Investing: one thousand, plus a small 529 contribution and payroll retirement contributions.",
+   "query": "Family home budget",
+   "caption": "$8,000 A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "Spending: about two thousand, around four hundred sixty a week for groceries, gas, kids' activities and fun. Same four accounts. Same automatic flow. Same weekly number. The amounts change. The system doesn't.",
+   "query": "Family dinner table",
+   "caption": "~$460 A WEEK",
+   "cuts": 3
+  },
+  {
+   "text": "Same four accounts, same payday flow, same weekly spending number, whether you bring home three thousand, five thousand or eight thousand a month.",
+   "card": {
+    "type": "stat",
+    "label": "the four account system",
+    "big": "SAME SYSTEM",
+    "size": 120,
+    "sub": "bills, spending, savings, investing"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Let's compare two people. Nina downloads a detailed budget app, sets thirty categories, and tracks every coffee. For two weeks, she's motivated. Then a busy month hits. She stops logging. Her categories fall out of date. By month two, she feels guilty and deletes the app.",
+   "query": "Woman frustrated with app",
+   "caption": "NINA: 30 CATEGORIES",
+   "cuts": 3,
+   "chapter": "Two budgeters",
+   "short_hook": "She tracked every penny. He used one number. Guess who stuck with it."
+  },
+  {
+   "text": "Tom sets up four accounts and automates everything. His only rule is a weekly spending number of two hundred eighty dollars. Some weeks he goes over, so the next week he eats at home more. He spends ten minutes on Sunday checking. A year later, he's still doing it, his emergency fund is full, and he's investing more than ever.",
+   "query": "Man relaxed checking phone",
+   "caption": "TOM: ONE NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Nina didn't fail because she lacked discipline. She chose a system that needed too much of it. When she switches to the four account approach, she finds it far easier. The best budget isn't the most detailed one. It's the one you'll keep using.",
+   "query": "Woman relieved simple system",
+   "caption": "THE BEST BUDGET IS THE ONE YOU KEEP",
+   "cuts": 3
+  },
+  {
+   "text": "Here's the lesson from Nina and Tom. Detail feels productive, but it often isn't sustainable. If you love tracking, track. If you don't, let the account structure do the work. Either way, the goal is the same: bills covered, future funded, and spending money you can enjoy without worry. Choose the version you'll still be using a year from now.",
+   "query": "Two paths same destination",
+   "caption": "CHOOSE WHAT YOU'LL KEEP",
+   "cuts": 3
+  },
+  {
+   "text": "What if your income changes every month, like freelancers, gig workers, salespeople on commission, or seasonal workers? The system still works, with one change. Add a fifth account: a holding tank.",
+   "query": "Freelancer laptop",
+   "caption": "IRREGULAR INCOME",
+   "cuts": 3,
+   "chapter": "Budgeting with irregular income"
+  },
+  {
+   "text": "All income goes into the holding tank first. Then, on the same day each month, you pay yourself a fixed salary from it, based on a conservative estimate of your income. That salary flows into the four accounts as usual. In good months, the tank grows. In slow months, it keeps your salary steady.",
+   "query": "Water tank reservoir",
+   "caption": "PAY YOURSELF A SALARY",
+   "cuts": 3
+  },
+  {
+   "text": "Aim to build the holding tank to at least one or two months of your salary, on top of your emergency fund. And if you're self employed, set aside money for taxes in a separate bucket, since you may need to make quarterly estimated payments to the IRS.",
+   "query": "Tax bucket savings",
+   "caption": "AND A TAX BUCKET",
+   "cuts": 3
+  },
+  {
+   "text": "Couples have extra challenges: different spending styles, different incomes, and sometimes different goals. A common approach is yours, mine and ours. Shared bills, savings and investing come from a joint system. Each person also gets personal spending money with no questions asked.",
+   "query": "Couple three accounts",
+   "caption": "YOURS, MINE AND OURS",
+   "cuts": 3,
+   "chapter": "Budgeting as a couple"
+  },
+  {
+   "text": "How much each person contributes can be equal, or proportional to income. There's no single right answer. What matters is that it feels fair to both of you. The monthly money meeting keeps everything transparent.",
+   "query": "Scale balance fair",
+   "caption": "EQUAL OR PROPORTIONAL",
+   "cuts": 3
+  },
+  {
+   "text": "Which tool should you use? Honestly, any of them can work. Budgeting apps can link your accounts and categorize spending automatically, though some charge a fee. A simple spreadsheet is free and fully customizable. And cash envelopes work well for people who overspend with cards.",
+   "query": "App spreadsheet envelopes",
+   "caption": "ANY TOOL CAN WORK",
+   "cuts": 3,
+   "chapter": "Apps, spreadsheets or envelopes?"
+  },
+  {
+   "text": "The four account system works with all of them, because most of the work is done by the account structure and automation, not by tracking. The tool is just a window. The system is the engine.",
+   "query": "Engine and window",
+   "caption": "THE SYSTEM IS THE ENGINE",
+   "cuts": 3
+  },
+  {
+   "text": "Now, if your budget doesn't balance yet, where do you find the money? Here's a quick category by category guide, from biggest to smallest impact.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Where to find money, category by category"
+  },
+  {
+   "text": "Housing. It's usually the biggest lever. Options include a roommate, a cheaper unit at your next lease, negotiating rent, or refinancing a mortgage if rates and fees make sense. Even a two hundred dollar monthly reduction is twenty four hundred a year.",
+   "query": "Apartment for rent sign",
+   "caption": "HOUSING",
+   "cuts": 3
+  },
+  {
+   "text": "Transportation. Keep cars longer, avoid large payments, compare insurance quotes every year or two, and consider whether a household really needs two cars. For some people, public transit or biking for some trips can save a surprising amount.",
+   "query": "Car insurance comparison",
+   "caption": "TRANSPORTATION",
+   "cuts": 3
+  },
+  {
+   "text": "Food. Plan meals, cook in batches, shop with a list, and limit delivery apps, whose fees and markups can add up fast. You don't have to stop eating out. Just decide in advance how much of your weekly number goes to it.",
+   "query": "Meal planning groceries",
+   "caption": "FOOD",
+   "cuts": 3
+  },
+  {
+   "text": "Insurance. Shop your auto and home or renters insurance regularly. Consider higher deductibles if you have a solid emergency fund, which can lower premiums. And make sure you're not paying for coverage you don't need.",
+   "query": "Insurance quote comparison",
+   "caption": "INSURANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Phone, internet and utilities. Call your providers and ask about cheaper plans or promotions. Many people overpay for phone data or internet speed they don't use. Prepaid phone plans can cost much less than traditional contracts.",
+   "query": "Phone bill",
+   "caption": "PHONE AND INTERNET",
+   "cuts": 3
+  },
+  {
+   "text": "Subscriptions. List every recurring charge from the last three months. Cancel what you don't use. Rotate streaming services instead of keeping them all at once. Remember, the average person in that survey underestimated their subscriptions by more than half.",
+   "query": "Canceling subscriptions",
+   "caption": "SUBSCRIPTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "And banking fees. Overdraft fees, monthly maintenance fees and ATM fees are pure waste. Many banks and credit unions offer free accounts with no minimums. Switching can save hundreds of dollars a year.",
+   "query": "Bank fees statement",
+   "caption": "BANK FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one: making the budget too tight. A budget with no fun money and no buffer usually collapses within weeks. Plan for a life you actually want to live.",
+   "query": "Overly tight belt",
+   "caption": "MISTAKE 1: TOO TIGHT",
+   "cuts": 3,
+   "chapter": "Common budgeting mistakes"
+  },
+  {
+   "text": "Mistake two: forgetting irregular expenses. This is the number one reason budgets break. Sinking funds solve it.",
+   "query": "Holiday gifts bill",
+   "caption": "MISTAKE 2: IRREGULAR COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three: too many categories. Thirty categories means thirty decisions. Most people do better with a handful of buckets and one weekly spending number.",
+   "query": "Complicated spreadsheet",
+   "caption": "MISTAKE 3: TOO COMPLEX",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake four: budgeting on gross pay. Your budget should be built on take home pay, after taxes and payroll deductions, because that's the money that actually reaches your account.",
+   "query": "Gross versus net pay",
+   "caption": "MISTAKE 4: GROSS PAY",
+   "cuts": 3
+  },
+  {
+   "text": "And mistake five: never updating it. Life changes. Raises, moves, kids, new goals. Your budget should change too. The monthly meeting and the annual reset keep it current.",
+   "query": "Outdated calendar",
+   "caption": "MISTAKE 5: NEVER UPDATING",
+   "cuts": 3
+  },
+  {
+   "text": "Let's go back to Tom and see what one year of the system did. In month one, he discovered he was spending about one hundred eighty dollars a month on subscriptions and food delivery fees he barely noticed. He cut about half of it.",
+   "query": "Man reviewing statements",
+   "caption": "MONTH ONE",
+   "cuts": 3,
+   "chapter": "Tom's first year"
+  },
+  {
+   "text": "By month three, his sinking funds covered a surprise car repair and a friend's wedding without touching a credit card. By month six, his emergency fund reached one month of expenses. And by month twelve, he raised his investing transfer by one hundred dollars a month after a raise.",
+   "query": "Progress chart months",
+   "caption": "MONTHS 3 TO 12",
+   "cuts": 3
+  },
+  {
+   "text": "Nothing dramatic happened. No extreme cuts. No windfall. Just a system that quietly moved money to the right places every payday. That's what a budget that works looks like.",
+   "query": "Calm steady progress",
+   "caption": "NOTHING DRAMATIC",
+   "cuts": 3
+  },
+  {
+   "text": "If you already have a budget that works, look for three upgrades. Automate anything still manual. Add sinking funds if you don't have them. And raise your savings and investing transfers by at least one percent of income this year.",
+   "query": "Upgrade arrows",
+   "caption": "THREE UPGRADES",
+   "cuts": 3,
+   "chapter": "Already budgeting?"
+  },
+  {
+   "text": "Then consider simplifying. Many experienced budgeters find that once their habits are solid, they can track less and automate more. The goal is a system that takes less time every year, not more.",
+   "query": "Simplified desk",
+   "caption": "TRACK LESS, AUTOMATE MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Here's how to set everything up in one weekend. Saturday morning: download ninety days of statements and sort them. Saturday afternoon: list irregular expenses and calculate your true monthly costs.",
+   "query": "Weekend planning coffee",
+   "caption": "SATURDAY",
+   "cuts": 3,
+   "chapter": "Your setup weekend"
+  },
+  {
+   "text": "Sunday morning: open any accounts you need and create your savings buckets. Sunday afternoon: set up the automatic transfers for payday and autopay for bills. Then write your weekly spending number on a sticky note. You're done.",
+   "query": "Sticky note weekly number",
+   "caption": "SUNDAY",
+   "cuts": 3
+  },
+  {
+   "text": "Objection one. I don't earn enough to budget. Actually, a budget matters most when money is tight, because every dollar counts. Even if your savings are small at first, the system prevents overdrafts, late fees and surprise debt, which can save hundreds of dollars a year.",
+   "query": "Small paycheck",
+   "caption": "I DON'T EARN ENOUGH",
+   "cuts": 3,
+   "chapter": "But Ryan, what about..."
+  },
+  {
+   "text": "Objection two. I earn plenty, I don't need a budget. Many high earners still live paycheck to paycheck, because spending tends to rise with income. A simple automated system makes sure a high income actually becomes wealth.",
+   "query": "High earner stressed",
+   "caption": "I EARN PLENTY",
+   "cuts": 3
+  },
+  {
+   "text": "And objection three. Budgeting takes too much time. The system in this video takes a weekend to set up, ten minutes a week, about thirty minutes a month, and one afternoon a year. That's less time than most people spend scrolling on a single day.",
+   "query": "Clock small time",
+   "caption": "IT TAKES TOO LONG",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions people ask me most about budgeting.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. What if my needs are more than fifty percent? That's common, especially in expensive cities. Start where you are, and look for one big change over time, like a roommate, a cheaper apartment at your next lease, or a lower cost car. Meanwhile, keep savings going, even if it's ten percent instead of twenty.",
+   "query": "Expensive city rent",
+   "caption": "NEEDS OVER 50%?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Should I budget with credit cards? If you pay the full balance every month, cards can work fine and may earn rewards. But if you've ever carried a balance or overspent with them, using a debit card for your spending account can make the system much safer.",
+   "query": "Credit card versus debit card",
+   "caption": "CREDIT CARDS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. How do I budget for fun without guilt? Make fun a real line in your budget. When the money is planned, spending it is part of the plan, not a failure. Many people find they enjoy fun money more when it's guilt free.",
+   "query": "Friends at concert",
+   "caption": "FUN WITHOUT GUILT",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. What if I'm paying off debt? Put minimum payments in the Bills account, and send extra payments from Savings or directly from your paycheck. Keep a small emergency fund while you pay down debt, so surprises don't create new debt.",
+   "query": "Debt payoff tracker",
+   "caption": "PAYING OFF DEBT?",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. How long until it feels easy? For many people, about three months. The first month is setup and surprises. The second month you adjust. By the third month, the system often runs quietly in the background.",
+   "query": "Calendar three months",
+   "caption": "ABOUT 3 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. Should I use the fifty thirty twenty rule exactly? Use it as a starting point. If you have high interest debt or want to retire early, you may want more than twenty percent going to savings and debt. If you live in an expensive city, needs may be higher for a while. Adjust it to your goals.",
+   "query": "Adjusting pie chart",
+   "caption": "50/30/20 EXACTLY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. What about kids' expenses? Give them their own sinking funds: school supplies, activities, birthdays, clothing. Kids' costs are often irregular, so sinking funds make them much easier to handle.",
+   "query": "Kids school supplies",
+   "caption": "KIDS' EXPENSES",
+   "cuts": 3
+  },
+  {
+   "text": "And question eight. Is it ever okay to stop budgeting? Some people with strong habits and plenty of margin move to a simpler approach: automate savings and investing first, pay bills automatically, and spend the rest freely. That's still a budget. It's just one that runs itself.",
+   "query": "Relaxed person automatic",
+   "caption": "STOP BUDGETING?",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. The big three, housing, transportation and food, are around six of every ten dollars. Subscriptions and irregular costs are silent budget breakers. And our brains fight strict budgets, so build in flexibility, automation and real buckets.",
+   "query": "Checklist clipboard",
+   "caption": "THE NUMBERS AND PSYCHOLOGY",
+   "cuts": 3,
+   "chapter": "Recap: the 12 steps",
+   "short_hook": "The budget system that actually works, in 60 seconds"
+  },
+  {
+   "text": "The twelve steps. Track ninety days. Calculate your true monthly costs. Choose a framework. Set up four accounts. Automate the payday flow. Use a weekly spending number. Build sinking funds. Build your emergency fund. Do a ten minute weekly check. Hold a monthly money meeting. Handle overspending without guilt. And do an annual reset.",
+   "query": "Staircase twelve steps",
+   "caption": "THE 12 STEPS",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought. The perfect budget doesn't exist. The one that works is the one that fits your life, runs mostly on its own, and gets a little better every year. Start simple, automate what you can, and give yourself permission to adjust. That's how a budget turns into a habit, and a habit turns into wealth.",
+   "query": "Sunrise new start",
+   "caption": "START SIMPLE",
+   "cuts": 3
+  },
+  {
+   "text": "And remember why you're doing this. Not for the spreadsheet. For the emergency that doesn't become a crisis. For the trip you can pay for in cash. For the retirement that arrives on your terms. Every dollar with a job is a step toward that life.",
+   "query": "Family enjoying trip",
+   "caption": "REMEMBER WHY",
+   "cuts": 3
+  },
+  {
+   "text": "This weekend, do steps one and two. Download ninety days of statements, and calculate your true monthly costs. Then set up the four accounts. And watch my video on building an emergency fund from zero. It's the first bucket this system fills. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}
