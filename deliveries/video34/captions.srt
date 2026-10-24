@@ -1,0 +1,4087 @@
+1
+00:00:00,000 --> 00:00:01,869
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,049 --> 00:00:04,439
+What if the best investing strategy for
+
+3
+00:00:04,439 --> 00:00:06,645
+most people was also the most boring
+
+4
+00:00:06,645 --> 00:00:06,890
+one?
+
+5
+00:00:07,070 --> 00:00:08,231
+No stock picking.
+
+6
+00:00:08,411 --> 00:00:09,607
+No watching the news.
+
+7
+00:00:09,787 --> 00:00:11,646
+No guessing what the market will do
+
+8
+00:00:11,646 --> 00:00:11,912
+next.
+
+9
+00:00:12,092 --> 00:00:13,879
+Just buying the whole market,
+
+10
+00:00:13,879 --> 00:00:16,097
+cheaply, and holding it for decades.
+
+11
+00:00:16,277 --> 00:00:17,995
+That's what an index fund does.
+
+12
+00:00:18,175 --> 00:00:20,033
+And today I'm going to show you
+
+13
+00:00:20,033 --> 00:00:22,309
+why boring investing beats most of the
+
+14
+00:00:22,309 --> 00:00:24,526
+experts, from three different angles.
+
+15
+00:00:24,876 --> 00:00:25,920
+Here's the headline.
+
+16
+00:00:26,100 --> 00:00:28,630
+In recent SPIVA reports from S and
+
+17
+00:00:28,630 --> 00:00:30,119
+P Dow Jones Indices,
+
+18
+00:00:30,119 --> 00:00:33,095
+roughly nine out of ten actively managed
+
+19
+00:00:33,095 --> 00:00:34,285
+large company U.
+
+20
+00:00:34,465 --> 00:00:34,849
+S.
+
+21
+00:00:35,029 --> 00:00:37,359
+stock funds trailed the S and P
+
+22
+00:00:37,359 --> 00:00:39,765
+five hundred over fifteen years.
+
+23
+00:00:39,945 --> 00:00:42,954
+The professionals, with all their research,
+
+24
+00:00:42,954 --> 00:00:45,054
+mostly lost to a simple index.
+
+25
+00:00:45,403 --> 00:00:46,973
+That sounds unbelievable,
+
+26
+00:00:46,973 --> 00:00:49,044
+so let's be careful about what it
+
+27
+00:00:49,044 --> 00:00:49,421
+means.
+
+28
+00:00:49,601 --> 00:00:52,334
+These are professional fund managers,
+
+29
+00:00:52,334 --> 00:00:54,033
+with teams of analysts,
+
+30
+00:00:54,033 --> 00:00:56,915
+expensive data and years of experience.
+
+31
+00:00:57,095 --> 00:00:59,092
+Many of them are genuinely smart.
+
+32
+00:00:59,272 --> 00:01:01,405
+But after fees and trading costs,
+
+33
+00:01:01,405 --> 00:01:03,474
+most of them still end up behind
+
+34
+00:01:03,474 --> 00:01:05,866
+a fund that simply buys every company
+
+35
+00:01:05,866 --> 00:01:08,258
+in the index and does almost nothing.
+
+36
+00:01:08,438 --> 00:01:09,766
+Over long periods,
+
+37
+00:01:09,766 --> 00:01:11,758
+doing less has usually won.
+
+38
+00:01:12,108 --> 00:01:14,639
+We'll explore this from three angles.
+
+39
+00:01:14,819 --> 00:01:16,247
+First, the numbers.
+
+40
+00:01:16,427 --> 00:01:17,960
+What an index fund is,
+
+41
+00:01:17,960 --> 00:01:19,701
+why costs matter so much,
+
+42
+00:01:19,701 --> 00:01:22,070
+and how the math of averages works
+
+43
+00:01:22,070 --> 00:01:23,045
+in your favor.
+
+44
+00:01:23,225 --> 00:01:25,292
+Second, the psychology.
+
+45
+00:01:25,472 --> 00:01:27,648
+Why boring is so hard for humans,
+
+46
+00:01:27,648 --> 00:01:30,023
+and why that's exactly why it works.
+
+47
+00:01:30,203 --> 00:01:31,770
+And third, the playbook.
+
+48
+00:01:31,950 --> 00:01:34,884
+How to actually start investing in index
+
+49
+00:01:34,884 --> 00:01:36,350
+funds, step by step.
+
+50
+00:01:36,530 --> 00:01:38,899
+Quick reminder, this is education,
+
+51
+00:01:38,899 --> 00:01:40,362
+not financial advice,
+
+52
+00:01:40,362 --> 00:01:43,705
+and past results don't guarantee future returns.
+
+53
+00:01:44,055 --> 00:01:45,611
+Let's start with the numbers.
+
+54
+00:01:45,791 --> 00:01:48,209
+And first, what exactly is an index
+
+55
+00:01:48,209 --> 00:01:48,554
+fund?
+
+56
+00:01:48,904 --> 00:01:49,694
+Our numbers.
+
+57
+00:01:49,874 --> 00:01:53,219
+Fund performance comparisons come from S and
+
+58
+00:01:53,219 --> 00:01:56,108
+P Dow Jones Indices' SPIVA scorecards.
+
+59
+00:01:56,288 --> 00:01:58,961
+Fee data comes from the Investment Company
+
+60
+00:01:58,961 --> 00:01:59,597
+Institute.
+
+61
+00:01:59,777 --> 00:02:02,084
+Warren Buffett's bet and advice come from
+
+62
+00:02:02,084 --> 00:02:04,503
+his Berkshire Hathaway shareholder letters.
+
+63
+00:02:04,683 --> 00:02:07,955
+Investor behavior data comes from Morningstar's Mind
+
+64
+00:02:07,955 --> 00:02:09,025
+the Gap research.
+
+65
+00:02:09,205 --> 00:02:12,221
+Growth examples use monthly compounding at a
+
+66
+00:02:12,221 --> 00:02:14,208
+stated average yearly return,
+
+67
+00:02:14,208 --> 00:02:16,333
+as illustrations, not promises.
+
+68
+00:02:16,683 --> 00:02:17,403
+Angle one.
+
+69
+00:02:17,583 --> 00:02:18,384
+The numbers.
+
+70
+00:02:18,564 --> 00:02:21,500
+Seven lessons about how index funds actually
+
+71
+00:02:21,500 --> 00:02:23,835
+work, and why the math favors them.
+
+72
+00:02:24,185 --> 00:02:25,393
+Lesson number one.
+
+73
+00:02:25,573 --> 00:02:28,044
+An index fund buys the whole market,
+
+74
+00:02:28,044 --> 00:02:29,485
+or a big slice of it.
+
+75
+00:02:29,835 --> 00:02:31,710
+An index is just a list of
+
+76
+00:02:31,710 --> 00:02:34,305
+companies, chosen by a set of rules.
+
+77
+00:02:34,485 --> 00:02:36,117
+The S and P five hundred,
+
+78
+00:02:36,117 --> 00:02:38,792
+for example, tracks about five hundred of
+
+79
+00:02:38,792 --> 00:02:41,664
+the largest publicly traded companies in the
+
+80
+00:02:41,664 --> 00:02:42,577
+United States.
+
+81
+00:02:42,757 --> 00:02:44,900
+An index fund simply buys all the
+
+82
+00:02:44,900 --> 00:02:46,393
+companies on that list,
+
+83
+00:02:46,393 --> 00:02:48,471
+in roughly the same proportions,
+
+84
+00:02:48,471 --> 00:02:50,873
+so its performance follows the index.
+
+85
+00:02:51,222 --> 00:02:53,083
+So when you buy one share of
+
+86
+00:02:53,083 --> 00:02:55,011
+an S and P five hundred index
+
+87
+00:02:55,011 --> 00:02:56,938
+fund, you own a tiny piece of
+
+88
+00:02:56,938 --> 00:02:58,931
+hundreds of companies at once.
+
+89
+00:02:59,111 --> 00:03:01,437
+Technology companies, banks,
+
+90
+00:03:01,437 --> 00:03:03,348
+retailers, health care,
+
+91
+00:03:03,348 --> 00:03:03,930
+energy.
+
+92
+00:03:04,110 --> 00:03:06,342
+One purchase gives you a slice of
+
+93
+00:03:06,342 --> 00:03:08,845
+a large part of the American economy,
+
+94
+00:03:08,845 --> 00:03:11,552
+instead of betting on a single business.
+
+95
+00:03:11,901 --> 00:03:14,386
+There are index funds for almost everything.
+
+96
+00:03:14,566 --> 00:03:15,576
+Total U.
+
+97
+00:03:15,756 --> 00:03:16,104
+S.
+
+98
+00:03:16,284 --> 00:03:19,567
+stock market funds hold thousands of companies,
+
+99
+00:03:19,567 --> 00:03:20,685
+large and small.
+
+100
+00:03:20,865 --> 00:03:24,286
+International index funds hold companies outside the
+
+101
+00:03:24,286 --> 00:03:25,207
+United States.
+
+102
+00:03:25,387 --> 00:03:28,428
+Bond index funds hold thousands of bonds.
+
+103
+00:03:28,608 --> 00:03:30,652
+The idea is always the same.
+
+104
+00:03:30,832 --> 00:03:32,248
+Don't try to pick winners.
+
+105
+00:03:32,428 --> 00:03:33,903
+Own the whole haystack.
+
+106
+00:03:34,252 --> 00:03:37,072
+Index funds come as mutual funds or
+
+107
+00:03:37,072 --> 00:03:39,085
+as exchange traded funds,
+
+108
+00:03:39,085 --> 00:03:40,696
+usually called ETFs.
+
+109
+00:03:40,876 --> 00:03:43,448
+ETFs trade during the day like stocks,
+
+110
+00:03:43,448 --> 00:03:45,817
+while mutual funds trade once a day
+
+111
+00:03:45,817 --> 00:03:47,238
+at the closing price.
+
+112
+00:03:47,418 --> 00:03:48,996
+For a long term investor,
+
+113
+00:03:48,996 --> 00:03:50,321
+either can work well.
+
+114
+00:03:50,501 --> 00:03:52,310
+The fund's cost and what it holds
+
+115
+00:03:52,310 --> 00:03:54,065
+matter far more than the format.
+
+116
+00:03:54,414 --> 00:03:55,564
+Lesson number two.
+
+117
+00:03:55,744 --> 00:03:58,019
+The idea Wall Street laughed at.
+
+118
+00:03:58,369 --> 00:04:02,607
+In 1975, John Bogle founded Vanguard.
+
+119
+00:04:02,787 --> 00:04:03,717
+The next year,
+
+120
+00:04:03,717 --> 00:04:06,174
+his company launched one of the first
+
+121
+00:04:06,174 --> 00:04:09,562
+index mutual funds available to ordinary investors,
+
+122
+00:04:09,562 --> 00:04:11,820
+tracking the S and P five hundred.
+
+123
+00:04:12,000 --> 00:04:13,033
+Critics mocked it.
+
+124
+00:04:13,213 --> 00:04:15,291
+Some called it Bogle's folly.
+
+125
+00:04:15,471 --> 00:04:17,883
+Why would anyone settle for average returns,
+
+126
+00:04:17,883 --> 00:04:19,692
+they asked, when you could hire a
+
+127
+00:04:19,692 --> 00:04:21,172
+manager to beat the market?
+
+128
+00:04:21,521 --> 00:04:24,273
+Bogle's answer was simple arithmetic.
+
+129
+00:04:24,453 --> 00:04:27,252
+Before costs, all investors together earn the
+
+130
+00:04:27,252 --> 00:04:30,113
+market's return, because together they are the
+
+131
+00:04:30,113 --> 00:04:30,548
+market.
+
+132
+00:04:30,728 --> 00:04:33,630
+After costs, the average investor must earn
+
+133
+00:04:33,630 --> 00:04:35,047
+less than the market.
+
+134
+00:04:35,227 --> 00:04:37,522
+So a fund that charges very little
+
+135
+00:04:37,522 --> 00:04:40,290
+and simply matches the market should beat
+
+136
+00:04:40,290 --> 00:04:42,180
+most investors who pay more,
+
+137
+00:04:42,180 --> 00:04:42,855
+over time.
+
+138
+00:04:43,204 --> 00:04:44,414
+It took decades,
+
+139
+00:04:44,414 --> 00:04:46,002
+but Bogle's idea won.
+
+140
+00:04:46,182 --> 00:04:48,170
+According to Morningstar,
+
+141
+00:04:48,170 --> 00:04:49,283
+by early 2024,
+
+142
+00:04:49,283 --> 00:04:52,224
+assets in passive funds in the United
+
+143
+00:04:52,224 --> 00:04:54,370
+States, mostly index funds,
+
+144
+00:04:54,370 --> 00:04:58,106
+had overtaken assets in actively managed funds.
+
+145
+00:04:58,286 --> 00:05:00,062
+The folly became the mainstream.
+
+146
+00:05:00,412 --> 00:05:01,156
+Try this.
+
+147
+00:05:01,336 --> 00:05:03,536
+Next time someone tells you they have
+
+148
+00:05:03,536 --> 00:05:05,321
+a strategy to beat the market,
+
+149
+00:05:05,321 --> 00:05:06,630
+ask a simple question.
+
+150
+00:05:06,810 --> 00:05:08,927
+Have you beaten a low cost index
+
+151
+00:05:08,927 --> 00:05:11,111
+fund over the last fifteen years,
+
+152
+00:05:11,111 --> 00:05:12,104
+after all fees?
+
+153
+00:05:12,284 --> 00:05:14,766
+Most people, and most professionals,
+
+154
+00:05:14,766 --> 00:05:15,732
+can't say yes.
+
+155
+00:05:16,081 --> 00:05:17,300
+Lesson number three.
+
+156
+00:05:17,480 --> 00:05:20,174
+Costs matter more than almost anything.
+
+157
+00:05:20,523 --> 00:05:23,211
+Every fund charges a yearly fee called
+
+158
+00:05:23,211 --> 00:05:24,413
+an expense ratio.
+
+159
+00:05:24,593 --> 00:05:27,644
+According to the Investment Company Institute,
+
+160
+00:05:27,644 --> 00:05:30,297
+in recent years the average index equity
+
+161
+00:05:30,297 --> 00:05:33,282
+mutual fund charged around five hundredths of
+
+162
+00:05:33,282 --> 00:05:36,267
+a percent, while the average actively managed
+
+163
+00:05:36,267 --> 00:05:39,450
+equity fund charged around sixty five hundredths
+
+164
+00:05:39,450 --> 00:05:40,313
+of a percent.
+
+165
+00:05:40,493 --> 00:05:41,863
+That difference sounds tiny.
+
+166
+00:05:42,043 --> 00:05:42,716
+It isn't.
+
+167
+00:05:43,066 --> 00:05:45,902
+Imagine investing five hundred dollars a month
+
+168
+00:05:45,902 --> 00:05:48,122
+for forty years with a seven percent
+
+169
+00:05:48,122 --> 00:05:50,218
+average yearly return before fees.
+
+170
+00:05:50,398 --> 00:05:52,652
+With a five hundredths of a percent
+
+171
+00:05:52,652 --> 00:05:55,035
+fee, you'd end with roughly one point
+
+172
+00:05:55,035 --> 00:05:56,644
+two nine million dollars.
+
+173
+00:05:56,824 --> 00:05:59,143
+With a sixty five hundredths of a
+
+174
+00:05:59,143 --> 00:06:02,165
+percent fee, roughly one point one million.
+
+175
+00:06:02,345 --> 00:06:05,182
+That's around two hundred thousand dollars lost
+
+176
+00:06:05,182 --> 00:06:05,665
+to fees.
+
+177
+00:06:06,015 --> 00:06:07,107
+Why so much?
+
+178
+00:06:07,287 --> 00:06:09,272
+Because fees compound too.
+
+179
+00:06:09,452 --> 00:06:11,370
+Every dollar taken in fees is a
+
+180
+00:06:11,370 --> 00:06:13,225
+dollar that never grows again,
+
+181
+00:06:13,225 --> 00:06:15,328
+along with all the growth it would
+
+182
+00:06:15,328 --> 00:06:16,813
+have earned for decades.
+
+183
+00:06:16,993 --> 00:06:18,333
+And unlike returns,
+
+184
+00:06:18,333 --> 00:06:19,744
+fees are guaranteed.
+
+185
+00:06:19,924 --> 00:06:21,635
+You pay them in good years and
+
+186
+00:06:21,635 --> 00:06:21,863
+bad.
+
+187
+00:06:22,213 --> 00:06:23,073
+Try this.
+
+188
+00:06:23,253 --> 00:06:25,697
+Look up the expense ratio of every
+
+189
+00:06:25,697 --> 00:06:26,631
+fund you own.
+
+190
+00:06:26,811 --> 00:06:28,727
+It's listed on the fund's page.
+
+191
+00:06:28,907 --> 00:06:31,041
+If any are above half a percent,
+
+192
+00:06:31,041 --> 00:06:33,376
+check whether a low cost index fund
+
+193
+00:06:33,376 --> 00:06:35,710
+covers the same part of the market.
+
+194
+00:06:36,060 --> 00:06:37,314
+Lesson number four.
+
+195
+00:06:37,494 --> 00:06:40,072
+Why most professionals lose to the index.
+
+196
+00:06:40,421 --> 00:06:42,627
+It's not that fund managers are bad
+
+197
+00:06:42,627 --> 00:06:43,510
+at their jobs.
+
+198
+00:06:43,690 --> 00:06:46,117
+It's that beating the market is incredibly
+
+199
+00:06:46,117 --> 00:06:46,406
+hard.
+
+200
+00:06:46,586 --> 00:06:48,933
+Every time a professional buys a stock,
+
+201
+00:06:48,933 --> 00:06:51,521
+another professional is usually selling it.
+
+202
+00:06:51,701 --> 00:06:53,036
+They can't both be right.
+
+203
+00:06:53,216 --> 00:06:56,206
+Together, they're competing against each other,
+
+204
+00:06:56,206 --> 00:06:58,115
+and the competition is fierce.
+
+205
+00:06:58,465 --> 00:06:59,870
+Then come the costs.
+
+206
+00:07:00,050 --> 00:07:02,111
+Active funds pay for research,
+
+207
+00:07:02,111 --> 00:07:04,172
+analysts and frequent trading.
+
+208
+00:07:04,352 --> 00:07:06,520
+Those costs come out of returns every
+
+209
+00:07:06,520 --> 00:07:06,813
+year.
+
+210
+00:07:06,993 --> 00:07:09,501
+So even a manager who picks slightly
+
+211
+00:07:09,501 --> 00:07:12,078
+better stocks than average can end up
+
+212
+00:07:12,078 --> 00:07:15,074
+behind the index once costs are subtracted.
+
+213
+00:07:15,423 --> 00:07:17,121
+And even the funds that do win
+
+214
+00:07:17,121 --> 00:07:18,535
+often don't keep winning.
+
+215
+00:07:18,715 --> 00:07:21,174
+S and P Dow Jones Indices also
+
+216
+00:07:21,174 --> 00:07:23,879
+publishes persistence scorecards,
+
+217
+00:07:23,879 --> 00:07:27,568
+which track whether top performing funds stay
+
+218
+00:07:27,568 --> 00:07:28,142
+on top.
+
+219
+00:07:28,322 --> 00:07:30,644
+Historically, relatively few do.
+
+220
+00:07:30,824 --> 00:07:33,018
+Picking last year's winning fund is no
+
+221
+00:07:33,018 --> 00:07:34,922
+guarantee of picking next year's.
+
+222
+00:07:35,272 --> 00:07:36,062
+Try this.
+
+223
+00:07:36,242 --> 00:07:38,804
+If you're paying for an actively managed
+
+224
+00:07:38,804 --> 00:07:41,559
+fund, compare its fifteen year return after
+
+225
+00:07:41,559 --> 00:07:43,545
+fees with a similar index fund.
+
+226
+00:07:43,725 --> 00:07:46,023
+Numbers usually settle the debate quickly.
+
+227
+00:07:46,373 --> 00:07:47,813
+Lesson number five.
+
+228
+00:07:47,993 --> 00:07:50,478
+Diversification you get almost for free.
+
+229
+00:07:50,827 --> 00:07:52,864
+When you own one company's stock,
+
+230
+00:07:52,864 --> 00:07:55,332
+your money depends on that one business.
+
+231
+00:07:55,512 --> 00:07:56,330
+If it fails,
+
+232
+00:07:56,330 --> 00:07:58,716
+you can lose everything you put in.
+
+233
+00:07:58,896 --> 00:08:01,668
+History is full of companies that once
+
+234
+00:08:01,668 --> 00:08:05,607
+seemed unstoppable and later collapsed or disappeared.
+
+235
+00:08:05,957 --> 00:08:08,662
+An index fund spreads your money across
+
+236
+00:08:08,662 --> 00:08:11,089
+hundreds or thousands of companies.
+
+237
+00:08:11,269 --> 00:08:12,283
+If one fails,
+
+238
+00:08:12,283 --> 00:08:14,624
+it's a tiny piece of the fund.
+
+239
+00:08:14,804 --> 00:08:17,802
+Meanwhile, the companies that grow into giants
+
+240
+00:08:17,802 --> 00:08:20,865
+automatically become bigger parts of the index.
+
+241
+00:08:21,045 --> 00:08:22,772
+You don't need to know in advance
+
+242
+00:08:22,772 --> 00:08:23,924
+which ones they'll be.
+
+243
+00:08:24,273 --> 00:08:27,206
+Research by Hendrik Bessembinder found that a
+
+244
+00:08:27,206 --> 00:08:29,618
+small share of stocks created most of
+
+245
+00:08:29,618 --> 00:08:30,009
+the U.
+
+246
+00:08:30,189 --> 00:08:30,595
+S.
+
+247
+00:08:30,775 --> 00:08:33,078
+stock market's long term wealth,
+
+248
+00:08:33,078 --> 00:08:36,172
+while many individual stocks did worse than
+
+249
+00:08:36,172 --> 00:08:39,123
+safe Treasury bills over their lifetimes.
+
+250
+00:08:39,303 --> 00:08:41,307
+Owning the whole market is the easiest
+
+251
+00:08:41,307 --> 00:08:42,783
+way to make sure you own the
+
+252
+00:08:42,783 --> 00:08:43,680
+rare big winners.
+
+253
+00:08:44,029 --> 00:08:44,854
+Try this.
+
+254
+00:08:45,034 --> 00:08:47,052
+If most of your investments are in
+
+255
+00:08:47,052 --> 00:08:48,121
+one or two stocks,
+
+256
+00:08:48,121 --> 00:08:49,724
+especially your employer's,
+
+257
+00:08:49,724 --> 00:08:51,861
+think about whether you'd be okay if
+
+258
+00:08:51,861 --> 00:08:53,939
+that company had a terrible decade.
+
+259
+00:08:54,119 --> 00:08:55,419
+If the answer is no,
+
+260
+00:08:55,419 --> 00:08:57,694
+an index fund can spread that risk.
+
+261
+00:08:58,044 --> 00:08:59,531
+Lesson number six.
+
+262
+00:08:59,711 --> 00:09:02,137
+Index funds are often tax efficient.
+
+263
+00:09:02,486 --> 00:09:04,417
+When a fund sells investments at a
+
+264
+00:09:04,417 --> 00:09:06,745
+profit, it may have to distribute capital
+
+265
+00:09:06,745 --> 00:09:08,222
+gains to its shareholders.
+
+266
+00:09:08,402 --> 00:09:10,894
+In a regular taxable brokerage account,
+
+267
+00:09:10,894 --> 00:09:13,514
+you can owe taxes on those distributions,
+
+268
+00:09:13,514 --> 00:09:15,559
+even if you didn't sell a single
+
+269
+00:09:15,559 --> 00:09:16,517
+share yourself.
+
+270
+00:09:16,867 --> 00:09:19,080
+Active funds often trade a lot,
+
+271
+00:09:19,080 --> 00:09:21,791
+which can create more of these taxable
+
+272
+00:09:21,791 --> 00:09:22,220
+gains.
+
+273
+00:09:22,400 --> 00:09:24,680
+Index funds usually trade much less,
+
+274
+00:09:24,680 --> 00:09:27,341
+because they only change holdings when the
+
+275
+00:09:27,341 --> 00:09:28,228
+index changes.
+
+276
+00:09:28,408 --> 00:09:32,007
+Less trading usually means fewer taxable distributions.
+
+277
+00:09:32,356 --> 00:09:35,003
+Many index ETFs are especially tax efficient
+
+278
+00:09:35,003 --> 00:09:37,229
+because of how ETF shares are created
+
+279
+00:09:37,229 --> 00:09:38,010
+and redeemed.
+
+280
+00:09:38,190 --> 00:09:40,812
+That's one reason they're popular for taxable
+
+281
+00:09:40,812 --> 00:09:41,337
+accounts.
+
+282
+00:09:41,517 --> 00:09:44,242
+In retirement accounts like a four oh
+
+283
+00:09:44,242 --> 00:09:45,200
+one k or IRA,
+
+284
+00:09:45,200 --> 00:09:46,526
+this matters less,
+
+285
+00:09:46,526 --> 00:09:49,399
+because growth there is tax deferred or
+
+286
+00:09:49,399 --> 00:09:50,062
+tax free.
+
+287
+00:09:50,411 --> 00:09:51,178
+Try this.
+
+288
+00:09:51,358 --> 00:09:53,638
+If you invest in a regular taxable
+
+289
+00:09:53,638 --> 00:09:56,657
+account, check your funds' history of capital
+
+290
+00:09:56,657 --> 00:09:57,999
+gains distributions.
+
+291
+00:09:58,179 --> 00:10:00,902
+Low distributions mean more of your money
+
+292
+00:10:00,902 --> 00:10:02,962
+stays invested and compounding.
+
+293
+00:10:03,311 --> 00:10:04,635
+Lesson number seven.
+
+294
+00:10:04,815 --> 00:10:06,742
+Boring doesn't mean risk free.
+
+295
+00:10:07,092 --> 00:10:08,462
+Here's an honest warning.
+
+296
+00:10:08,642 --> 00:10:11,136
+An index fund follows the market,
+
+297
+00:10:11,136 --> 00:10:13,553
+and that includes the bad times.
+
+298
+00:10:13,733 --> 00:10:15,642
+In 2008, the S and P five
+
+299
+00:10:15,642 --> 00:10:18,238
+hundred fell by more than a third.
+
+300
+00:10:18,418 --> 00:10:19,587
+In early 2020,
+
+301
+00:10:19,587 --> 00:10:22,341
+it dropped sharply in a matter of
+
+302
+00:10:22,341 --> 00:10:22,841
+weeks.
+
+303
+00:10:23,021 --> 00:10:25,808
+An index fund doesn't avoid these drops.
+
+304
+00:10:25,988 --> 00:10:27,068
+It goes through them.
+
+305
+00:10:27,417 --> 00:10:29,356
+Historically, the broad U.
+
+306
+00:10:29,536 --> 00:10:29,908
+S.
+
+307
+00:10:30,088 --> 00:10:32,779
+market has recovered from its past crashes
+
+308
+00:10:32,779 --> 00:10:34,381
+and gone on to new highs,
+
+309
+00:10:34,381 --> 00:10:36,880
+though recoveries sometimes took years.
+
+310
+00:10:37,060 --> 00:10:39,341
+That's why index funds work best for
+
+311
+00:10:39,341 --> 00:10:41,306
+money you won't need for a long
+
+312
+00:10:41,306 --> 00:10:43,271
+time, often five years or more.
+
+313
+00:10:43,620 --> 00:10:46,043
+Bond index funds and cash can balance
+
+314
+00:10:46,043 --> 00:10:48,073
+the ups and downs for money you
+
+315
+00:10:48,073 --> 00:10:50,430
+need sooner, or for people who can't
+
+316
+00:10:50,430 --> 00:10:51,608
+stomach big drops.
+
+317
+00:10:51,788 --> 00:10:53,388
+Many investors hold a mix,
+
+318
+00:10:53,388 --> 00:10:55,295
+more stocks when they're young,
+
+319
+00:10:55,295 --> 00:10:57,264
+more bonds as they get closer to
+
+320
+00:10:57,264 --> 00:10:58,371
+needing the money.
+
+321
+00:10:58,720 --> 00:10:59,684
+Try this.
+
+322
+00:10:59,864 --> 00:11:01,547
+Ask yourself honestly.
+
+323
+00:11:01,727 --> 00:11:04,421
+If my investments fell thirty percent next
+
+324
+00:11:04,421 --> 00:11:05,640
+year, would I sell?
+
+325
+00:11:05,820 --> 00:11:07,808
+If yes, you may want more bonds
+
+326
+00:11:07,808 --> 00:11:08,577
+in your mix,
+
+327
+00:11:08,577 --> 00:11:10,885
+so you can stay invested through the
+
+328
+00:11:10,885 --> 00:11:11,590
+hard times.
+
+329
+00:11:11,940 --> 00:11:12,950
+That's angle one.
+
+330
+00:11:13,130 --> 00:11:14,821
+What an index fund is,
+
+331
+00:11:14,821 --> 00:11:16,435
+Bogle's folly, costs,
+
+332
+00:11:16,435 --> 00:11:17,818
+why the pros lose,
+
+333
+00:11:17,818 --> 00:11:21,430
+diversification, taxes, and boring but not risk
+
+334
+00:11:21,430 --> 00:11:21,815
+free.
+
+335
+00:11:21,995 --> 00:11:23,272
+Now angle two.
+
+336
+00:11:23,452 --> 00:11:24,474
+The psychology.
+
+337
+00:11:24,823 --> 00:11:26,979
+If index funds are so effective,
+
+338
+00:11:26,979 --> 00:11:29,539
+why doesn't everyone just buy them and
+
+339
+00:11:29,539 --> 00:11:29,943
+relax?
+
+340
+00:11:30,123 --> 00:11:32,748
+Because human brains crave excitement,
+
+341
+00:11:32,748 --> 00:11:34,129
+control and stories.
+
+342
+00:11:34,309 --> 00:11:36,352
+Index investing offers none of that.
+
+343
+00:11:36,532 --> 00:11:37,408
+In this angle,
+
+344
+00:11:37,408 --> 00:11:40,412
+we'll look at seven psychological reasons boring
+
+345
+00:11:40,412 --> 00:11:41,538
+investing is hard,
+
+346
+00:11:41,538 --> 00:11:43,666
+and why getting past them is where
+
+347
+00:11:43,666 --> 00:11:45,356
+the real returns come from.
+
+348
+00:11:45,705 --> 00:11:46,890
+Lesson number eight.
+
+349
+00:11:47,070 --> 00:11:48,823
+Our brains want excitement.
+
+350
+00:11:49,172 --> 00:11:51,134
+Picking stocks feels exciting.
+
+351
+00:11:51,314 --> 00:11:52,745
+Researching a company,
+
+352
+00:11:52,745 --> 00:11:54,565
+buying it, watching it jump.
+
+353
+00:11:54,745 --> 00:11:55,686
+It's like a game.
+
+354
+00:11:55,866 --> 00:11:58,291
+Buying an index fund and leaving it
+
+355
+00:11:58,291 --> 00:12:00,440
+alone feels like doing nothing.
+
+356
+00:12:00,620 --> 00:12:02,847
+And many people assume that doing nothing
+
+357
+00:12:02,847 --> 00:12:03,824
+must be a mistake.
+
+358
+00:12:04,174 --> 00:12:07,889
+Economist Paul Samuelson reportedly said investing should
+
+359
+00:12:07,889 --> 00:12:10,104
+be more like watching paint dry or
+
+360
+00:12:10,104 --> 00:12:11,407
+watching grass grow.
+
+361
+00:12:11,587 --> 00:12:13,000
+If you want excitement,
+
+362
+00:12:13,000 --> 00:12:15,702
+he suggested, take eight hundred dollars and
+
+363
+00:12:15,702 --> 00:12:16,684
+go to Las Vegas.
+
+364
+00:12:16,864 --> 00:12:19,301
+His point was that excitement is often
+
+365
+00:12:19,301 --> 00:12:20,263
+a sign of risk,
+
+366
+00:12:20,263 --> 00:12:20,904
+not skill.
+
+367
+00:12:21,254 --> 00:12:22,964
+That doesn't mean you can never pick
+
+368
+00:12:22,964 --> 00:12:23,344
+a stock.
+
+369
+00:12:23,524 --> 00:12:25,428
+But it helps to separate your money.
+
+370
+00:12:25,608 --> 00:12:26,809
+Keep your serious,
+
+371
+00:12:26,809 --> 00:12:29,344
+long term money in boring index funds,
+
+372
+00:12:29,344 --> 00:12:31,012
+and if you want some fun,
+
+373
+00:12:31,012 --> 00:12:33,213
+use a small amount you can afford
+
+374
+00:12:33,213 --> 00:12:33,747
+to lose.
+
+375
+00:12:34,096 --> 00:12:34,828
+Try this.
+
+376
+00:12:35,008 --> 00:12:36,775
+If you enjoy stock picking,
+
+377
+00:12:36,775 --> 00:12:38,739
+cap it at five percent of your
+
+378
+00:12:38,739 --> 00:12:39,524
+investments.
+
+379
+00:12:39,704 --> 00:12:42,010
+Then compare its results to your index
+
+380
+00:12:42,010 --> 00:12:43,466
+funds after a few years.
+
+381
+00:12:43,646 --> 00:12:45,956
+The comparison is often eye opening.
+
+382
+00:12:46,306 --> 00:12:47,444
+Lesson number nine.
+
+383
+00:12:47,624 --> 00:12:49,633
+Overconfidence costs money.
+
+384
+00:12:49,982 --> 00:12:53,009
+Most people believe they're above average drivers,
+
+385
+00:12:53,009 --> 00:12:55,915
+and many investors believe they're above average
+
+386
+00:12:55,915 --> 00:12:56,763
+stock pickers.
+
+387
+00:12:56,943 --> 00:12:57,988
+But by definition,
+
+388
+00:12:57,988 --> 00:12:59,961
+not everyone can be above average.
+
+389
+00:13:00,141 --> 00:13:03,476
+Overconfidence leads people to trade more,
+
+390
+00:13:03,476 --> 00:13:06,097
+take bigger risks and pay more in
+
+391
+00:13:06,097 --> 00:13:06,573
+costs.
+
+392
+00:13:06,923 --> 00:13:09,720
+Brad Barber and Terrance Odean studied tens
+
+393
+00:13:09,720 --> 00:13:12,647
+of thousands of household brokerage accounts.
+
+394
+00:13:12,827 --> 00:13:14,880
+They found that the investors who traded
+
+395
+00:13:14,880 --> 00:13:17,189
+the most earned noticeably lower returns than
+
+396
+00:13:17,189 --> 00:13:18,574
+those who traded the least.
+
+397
+00:13:18,754 --> 00:13:20,623
+Their paper's title says it all.
+
+398
+00:13:20,803 --> 00:13:22,998
+Trading is hazardous to your wealth.
+
+399
+00:13:23,347 --> 00:13:26,122
+Index investing is a kind of humility.
+
+400
+00:13:26,302 --> 00:13:29,122
+It accepts that you probably can't predict
+
+401
+00:13:29,122 --> 00:13:30,599
+which stocks will win,
+
+402
+00:13:30,599 --> 00:13:33,419
+and turns that humility into an advantage.
+
+403
+00:13:33,599 --> 00:13:35,640
+You stop competing in a game that's
+
+404
+00:13:35,640 --> 00:13:36,631
+very hard to win,
+
+405
+00:13:36,631 --> 00:13:38,905
+and simply collect the market's return.
+
+406
+00:13:39,254 --> 00:13:39,928
+Try this.
+
+407
+00:13:40,108 --> 00:13:42,495
+Write down every investment decision you make
+
+408
+00:13:42,495 --> 00:13:43,927
+this year, with the reason.
+
+409
+00:13:44,107 --> 00:13:44,889
+A year later,
+
+410
+00:13:44,889 --> 00:13:46,453
+check how they turned out.
+
+411
+00:13:46,633 --> 00:13:49,170
+Most people find their predictions were far
+
+412
+00:13:49,170 --> 00:13:50,882
+less reliable than they felt.
+
+413
+00:13:51,231 --> 00:13:52,474
+Lesson number ten.
+
+414
+00:13:52,654 --> 00:13:55,188
+Investors often earn less than their own
+
+415
+00:13:55,188 --> 00:13:55,568
+funds.
+
+416
+00:13:55,917 --> 00:13:57,554
+Here's something surprising.
+
+417
+00:13:57,734 --> 00:14:00,478
+Morningstar's Mind the Gap research compares the
+
+418
+00:14:00,478 --> 00:14:02,936
+returns funds report with the returns their
+
+419
+00:14:02,936 --> 00:14:04,480
+investors actually receive.
+
+420
+00:14:04,660 --> 00:14:07,237
+Investors often earn less than the funds
+
+421
+00:14:07,237 --> 00:14:09,750
+they own, because they buy after prices
+
+422
+00:14:09,750 --> 00:14:11,812
+rise and sell after prices fall.
+
+423
+00:14:11,992 --> 00:14:13,217
+In recent studies,
+
+424
+00:14:13,217 --> 00:14:16,008
+that gap was roughly one percentage point
+
+425
+00:14:16,008 --> 00:14:16,485
+a year.
+
+426
+00:14:16,834 --> 00:14:19,288
+One percentage point might not sound like
+
+427
+00:14:19,288 --> 00:14:21,502
+much, but over decades it's enormous.
+
+428
+00:14:21,682 --> 00:14:24,264
+One hundred thousand dollars growing at seven
+
+429
+00:14:24,264 --> 00:14:26,501
+percent a year for thirty years becomes
+
+430
+00:14:26,501 --> 00:14:28,624
+roughly seven hundred sixty thousand.
+
+431
+00:14:28,804 --> 00:14:29,849
+At six percent,
+
+432
+00:14:29,849 --> 00:14:32,496
+roughly five hundred seventy thousand.
+
+433
+00:14:32,676 --> 00:14:35,123
+Bad timing can cost almost two hundred
+
+434
+00:14:35,123 --> 00:14:36,217
+thousand dollars.
+
+435
+00:14:36,567 --> 00:14:39,122
+Index funds don't fix this by themselves.
+
+436
+00:14:39,302 --> 00:14:41,162
+You can buy and sell an index
+
+437
+00:14:41,162 --> 00:14:42,959
+fund at the wrong times too.
+
+438
+00:14:43,139 --> 00:14:45,518
+The advantage comes when you pair index
+
+439
+00:14:45,518 --> 00:14:48,386
+funds with automatic investing and a commitment
+
+440
+00:14:48,386 --> 00:14:48,874
+to hold.
+
+441
+00:14:49,054 --> 00:14:50,114
+The fund is boring,
+
+442
+00:14:50,114 --> 00:14:52,012
+and your behavior has to be boring
+
+443
+00:14:52,012 --> 00:14:52,235
+too.
+
+444
+00:14:52,585 --> 00:14:53,526
+Try this.
+
+445
+00:14:53,706 --> 00:14:56,119
+Set up automatic monthly investing,
+
+446
+00:14:56,119 --> 00:14:58,739
+and decide in advance that you'll only
+
+447
+00:14:58,739 --> 00:15:01,291
+review your portfolio once or twice a
+
+448
+00:15:01,291 --> 00:15:01,635
+year.
+
+449
+00:15:01,815 --> 00:15:04,242
+Fewer looks usually mean fewer mistakes.
+
+450
+00:15:04,591 --> 00:15:05,578
+Quick pause.
+
+451
+00:15:05,758 --> 00:15:08,219
+If boring investing is starting to make
+
+452
+00:15:08,219 --> 00:15:10,994
+sense, please subscribe to Ryan Rover Money.
+
+453
+00:15:11,174 --> 00:15:13,039
+It's free, and it helps us keep
+
+454
+00:15:13,039 --> 00:15:13,821
+making these.
+
+455
+00:15:14,001 --> 00:15:15,580
+Now, lesson eleven.
+
+456
+00:15:15,930 --> 00:15:17,184
+Lesson number eleven.
+
+457
+00:15:17,364 --> 00:15:19,233
+Ignore most financial news.
+
+458
+00:15:19,583 --> 00:15:21,939
+Financial news is designed to keep you
+
+459
+00:15:21,939 --> 00:15:22,498
+watching.
+
+460
+00:15:22,678 --> 00:15:25,038
+Markets soar, markets plunge,
+
+461
+00:15:25,038 --> 00:15:26,992
+experts predict a crash,
+
+462
+00:15:26,992 --> 00:15:29,353
+other experts predict a boom.
+
+463
+00:15:29,533 --> 00:15:31,428
+Every day there's a new reason to
+
+464
+00:15:31,428 --> 00:15:31,658
+act.
+
+465
+00:15:31,838 --> 00:15:34,040
+But for a long term index investor,
+
+466
+00:15:34,040 --> 00:15:35,298
+most of it is noise.
+
+467
+00:15:35,647 --> 00:15:38,178
+Predictions are especially unreliable.
+
+468
+00:15:38,358 --> 00:15:41,249
+Market forecasts from experts have a long
+
+469
+00:15:41,249 --> 00:15:42,870
+history of being wrong,
+
+470
+00:15:42,870 --> 00:15:44,210
+in both directions.
+
+471
+00:15:44,390 --> 00:15:46,937
+If someone could reliably predict the market,
+
+472
+00:15:46,937 --> 00:15:49,201
+they probably wouldn't be telling you on
+
+473
+00:15:49,201 --> 00:15:49,823
+television.
+
+474
+00:15:50,173 --> 00:15:53,014
+The index investor's advantage is not needing
+
+475
+00:15:53,014 --> 00:15:54,655
+to know what happens next.
+
+476
+00:15:54,835 --> 00:15:56,385
+You own the whole market,
+
+477
+00:15:56,385 --> 00:15:57,626
+so whatever happens,
+
+478
+00:15:57,626 --> 00:15:59,363
+you get the market's result.
+
+479
+00:15:59,543 --> 00:16:01,470
+That frees you from needing to react
+
+480
+00:16:01,470 --> 00:16:02,434
+to every headline.
+
+481
+00:16:02,783 --> 00:16:03,701
+Try this.
+
+482
+00:16:03,881 --> 00:16:06,420
+Unfollow or mute the market news sources
+
+483
+00:16:06,420 --> 00:16:07,816
+that make you anxious.
+
+484
+00:16:07,996 --> 00:16:10,277
+Replace them with one or two good
+
+485
+00:16:10,277 --> 00:16:12,489
+books about long term investing.
+
+486
+00:16:12,839 --> 00:16:14,267
+Lesson number twelve.
+
+487
+00:16:14,447 --> 00:16:15,817
+Fear of missing out.
+
+488
+00:16:16,167 --> 00:16:17,944
+Every few years there's a new hot
+
+489
+00:16:17,944 --> 00:16:18,536
+investment.
+
+490
+00:16:18,716 --> 00:16:20,007
+A sector, a coin,
+
+491
+00:16:20,007 --> 00:16:23,046
+a single stock everyone's talking about.
+
+492
+00:16:23,226 --> 00:16:26,266
+Index investors watch other people brag about
+
+493
+00:16:26,266 --> 00:16:28,428
+huge gains and feel left behind.
+
+494
+00:16:28,608 --> 00:16:31,109
+That feeling is called fear of missing
+
+495
+00:16:31,109 --> 00:16:33,479
+out, and it pushes people to abandon
+
+496
+00:16:33,479 --> 00:16:34,204
+good plans.
+
+497
+00:16:34,553 --> 00:16:37,303
+The hot investment sometimes does keep rising
+
+498
+00:16:37,303 --> 00:16:38,036
+for a while.
+
+499
+00:16:38,216 --> 00:16:40,190
+But many manias end painfully,
+
+500
+00:16:40,190 --> 00:16:42,427
+and the people who join late often
+
+501
+00:16:42,427 --> 00:16:43,545
+buy near the top.
+
+502
+00:16:43,725 --> 00:16:46,890
+Meanwhile, the index investor already owns many
+
+503
+00:16:46,890 --> 00:16:49,516
+of the companies that become truly big,
+
+504
+00:16:49,516 --> 00:16:51,133
+without having to guess.
+
+505
+00:16:51,482 --> 00:16:53,851
+Remember, you only hear about the winners.
+
+506
+00:16:54,031 --> 00:16:55,845
+The people who lost money on the
+
+507
+00:16:55,845 --> 00:16:57,885
+last hot thing rarely post about it.
+
+508
+00:16:58,065 --> 00:17:00,371
+Your picture of how everyone else is
+
+509
+00:17:00,371 --> 00:17:01,780
+doing is badly biased.
+
+510
+00:17:02,130 --> 00:17:02,931
+Try this.
+
+511
+00:17:03,111 --> 00:17:04,990
+When you feel the urge to chase
+
+512
+00:17:04,990 --> 00:17:07,779
+something hot, wait thirty days before acting.
+
+513
+00:17:07,959 --> 00:17:08,893
+Most urges fade,
+
+514
+00:17:08,893 --> 00:17:11,172
+and the ones that don't deserve careful
+
+515
+00:17:11,172 --> 00:17:11,639
+thought.
+
+516
+00:17:11,989 --> 00:17:13,487
+Lesson number thirteen.
+
+517
+00:17:13,667 --> 00:17:16,697
+Average returns create above average results.
+
+518
+00:17:17,047 --> 00:17:19,572
+Many people hate the idea of settling
+
+519
+00:17:19,572 --> 00:17:20,937
+for average returns.
+
+520
+00:17:21,117 --> 00:17:22,580
+But here's the paradox.
+
+521
+00:17:22,760 --> 00:17:25,892
+Because most active investors trail the market
+
+522
+00:17:25,892 --> 00:17:29,092
+after costs, simply earning the market's return
+
+523
+00:17:29,092 --> 00:17:31,135
+puts you ahead of most of them
+
+524
+00:17:31,135 --> 00:17:32,361
+over long periods.
+
+525
+00:17:32,711 --> 00:17:35,014
+Think of it like a marathon where
+
+526
+00:17:35,014 --> 00:17:37,944
+most runners carry heavy backpacks full of
+
+527
+00:17:37,944 --> 00:17:40,386
+fees, trading costs and bad timing.
+
+528
+00:17:40,566 --> 00:17:42,348
+You run at an average pace,
+
+529
+00:17:42,348 --> 00:17:43,735
+but with no backpack.
+
+530
+00:17:43,915 --> 00:17:45,754
+You end up finishing ahead of most
+
+531
+00:17:45,754 --> 00:17:46,458
+of the field.
+
+532
+00:17:46,807 --> 00:17:48,153
+And average returns,
+
+533
+00:17:48,153 --> 00:17:49,701
+compounded for decades,
+
+534
+00:17:49,701 --> 00:17:51,115
+can be life changing.
+
+535
+00:17:51,295 --> 00:17:53,607
+Three hundred dollars a month for thirty
+
+536
+00:17:53,607 --> 00:17:55,861
+years at a seven percent average yearly
+
+537
+00:17:55,861 --> 00:17:58,347
+return grows to roughly three hundred sixty
+
+538
+00:17:58,347 --> 00:17:59,561
+six thousand dollars.
+
+539
+00:17:59,741 --> 00:18:01,297
+No genius required.
+
+540
+00:18:01,646 --> 00:18:02,494
+Try this.
+
+541
+00:18:02,674 --> 00:18:05,728
+Stop measuring yourself against the best investor
+
+542
+00:18:05,728 --> 00:18:06,726
+you've heard of.
+
+543
+00:18:06,906 --> 00:18:09,009
+Measure yourself against what you'd have if
+
+544
+00:18:09,009 --> 00:18:10,133
+you did nothing at all.
+
+545
+00:18:10,313 --> 00:18:11,962
+That's the real comparison.
+
+546
+00:18:12,312 --> 00:18:13,856
+Lesson number fourteen.
+
+547
+00:18:14,036 --> 00:18:16,382
+Fewer decisions, better results.
+
+548
+00:18:16,731 --> 00:18:19,180
+Every investing decision is a chance to
+
+549
+00:18:19,180 --> 00:18:20,121
+make a mistake.
+
+550
+00:18:20,301 --> 00:18:22,060
+Which stock, when to buy,
+
+551
+00:18:22,060 --> 00:18:22,974
+when to sell,
+
+552
+00:18:22,974 --> 00:18:25,085
+which manager, which strategy.
+
+553
+00:18:25,265 --> 00:18:28,144
+Index investing removes most of those decisions.
+
+554
+00:18:28,324 --> 00:18:30,034
+You choose a few funds and a
+
+555
+00:18:30,034 --> 00:18:31,621
+mix, and then keep buying.
+
+556
+00:18:31,971 --> 00:18:34,955
+Fewer decisions also means less stress.
+
+557
+00:18:35,135 --> 00:18:37,663
+You don't have to research companies every
+
+558
+00:18:37,663 --> 00:18:40,371
+weekend or worry about every earnings report.
+
+559
+00:18:40,551 --> 00:18:42,603
+Your time and attention are freed up
+
+560
+00:18:42,603 --> 00:18:43,516
+for your career,
+
+561
+00:18:43,516 --> 00:18:44,998
+your family and your life.
+
+562
+00:18:45,347 --> 00:18:48,543
+That's why many index investors use something
+
+563
+00:18:48,543 --> 00:18:50,532
+like a three fund portfolio,
+
+564
+00:18:50,532 --> 00:18:50,816
+a U.
+
+565
+00:18:50,996 --> 00:18:51,321
+S.
+
+566
+00:18:51,501 --> 00:18:52,866
+stock index fund,
+
+567
+00:18:52,866 --> 00:18:55,998
+an international stock index fund and a
+
+568
+00:18:55,998 --> 00:18:57,282
+bond index fund.
+
+569
+00:18:57,462 --> 00:18:59,339
+Or even a single target date fund
+
+570
+00:18:59,339 --> 00:19:01,329
+that handles the mix automatically.
+
+571
+00:19:01,678 --> 00:19:02,526
+Try this.
+
+572
+00:19:02,706 --> 00:19:05,150
+Write down your investing plan on one
+
+573
+00:19:05,150 --> 00:19:05,481
+page.
+
+574
+00:19:05,661 --> 00:19:07,757
+Which funds, what percentages,
+
+575
+00:19:07,757 --> 00:19:09,155
+how much each month.
+
+576
+00:19:09,335 --> 00:19:11,329
+If your plan doesn't fit on one
+
+577
+00:19:11,329 --> 00:19:13,387
+page, it may be too complicated.
+
+578
+00:19:13,737 --> 00:19:14,678
+That's angle two.
+
+579
+00:19:14,858 --> 00:19:16,316
+The excitement trap,
+
+580
+00:19:16,316 --> 00:19:18,722
+overconfidence, the behavior gap,
+
+581
+00:19:18,722 --> 00:19:20,982
+headlines, fear of missing out,
+
+582
+00:19:20,982 --> 00:19:23,606
+the paradox of average and the power
+
+583
+00:19:23,606 --> 00:19:24,773
+of not deciding.
+
+584
+00:19:24,953 --> 00:19:26,149
+Now angle three.
+
+585
+00:19:26,329 --> 00:19:27,083
+The playbook.
+
+586
+00:19:27,433 --> 00:19:28,989
+Let's turn this into action.
+
+587
+00:19:29,169 --> 00:19:31,573
+Six moves to start investing in index
+
+588
+00:19:31,573 --> 00:19:32,873
+funds the right way.
+
+589
+00:19:33,053 --> 00:19:34,718
+You can do most of them in
+
+590
+00:19:34,718 --> 00:19:36,960
+an afternoon, and then let time and
+
+591
+00:19:36,960 --> 00:19:38,498
+consistency do the rest.
+
+592
+00:19:38,847 --> 00:19:40,252
+Move number fifteen.
+
+593
+00:19:40,432 --> 00:19:41,930
+Pick the right account first.
+
+594
+00:19:42,279 --> 00:19:43,854
+Before you choose a fund,
+
+595
+00:19:43,854 --> 00:19:45,240
+choose where it lives.
+
+596
+00:19:45,420 --> 00:19:47,477
+If your employer offers a four oh
+
+597
+00:19:47,477 --> 00:19:48,661
+one k with a match,
+
+598
+00:19:48,661 --> 00:19:50,968
+that's often the best place to start,
+
+599
+00:19:50,968 --> 00:19:53,524
+because the match is an immediate return.
+
+600
+00:19:53,704 --> 00:19:56,096
+Most plans offer at least one low
+
+601
+00:19:56,096 --> 00:19:57,256
+cost index fund.
+
+602
+00:19:57,606 --> 00:20:00,173
+Next, many people open an IRA,
+
+603
+00:20:00,173 --> 00:20:02,484
+either traditional or Roth,
+
+604
+00:20:02,484 --> 00:20:04,538
+at a low cost brokerage.
+
+605
+00:20:04,718 --> 00:20:07,824
+Roth IRA contributions are made with after
+
+606
+00:20:07,824 --> 00:20:11,523
+tax money, but qualified withdrawals in retirement
+
+607
+00:20:11,523 --> 00:20:12,485
+are tax free.
+
+608
+00:20:12,665 --> 00:20:15,868
+There are income limits and yearly contribution
+
+609
+00:20:15,868 --> 00:20:18,389
+limits, so check the current rules on
+
+610
+00:20:18,389 --> 00:20:19,480
+the IRS website.
+
+611
+00:20:19,829 --> 00:20:22,918
+After that, a regular taxable brokerage account
+
+612
+00:20:22,918 --> 00:20:26,203
+gives you flexibility with no contribution limits.
+
+613
+00:20:26,383 --> 00:20:28,715
+Index ETFs are often a good fit
+
+614
+00:20:28,715 --> 00:20:31,573
+there because of their tax efficiency.
+
+615
+00:20:31,922 --> 00:20:32,782
+Try this.
+
+616
+00:20:32,962 --> 00:20:35,624
+Log into your employer's retirement plan and
+
+617
+00:20:35,624 --> 00:20:37,803
+find the list of investment options.
+
+618
+00:20:37,983 --> 00:20:39,851
+Look for the words index,
+
+619
+00:20:39,851 --> 00:20:41,420
+S and P five hundred,
+
+620
+00:20:41,420 --> 00:20:43,513
+total market or target date,
+
+621
+00:20:43,513 --> 00:20:46,203
+and check each fund's expense ratio.
+
+622
+00:20:46,552 --> 00:20:48,027
+Move number sixteen.
+
+623
+00:20:48,207 --> 00:20:50,506
+Choose broad, cheap funds.
+
+624
+00:20:50,855 --> 00:20:52,666
+Look for funds that cover a big
+
+625
+00:20:52,666 --> 00:20:53,776
+part of the market,
+
+626
+00:20:53,776 --> 00:20:54,652
+like a total U.
+
+627
+00:20:54,832 --> 00:20:55,122
+S.
+
+628
+00:20:55,302 --> 00:20:56,706
+stock market fund,
+
+629
+00:20:56,706 --> 00:20:58,889
+an S and P five hundred fund
+
+630
+00:20:58,889 --> 00:21:01,072
+or a total world stock fund.
+
+631
+00:21:01,252 --> 00:21:02,600
+The broader the fund,
+
+632
+00:21:02,600 --> 00:21:04,718
+the less you depend on any single
+
+633
+00:21:04,718 --> 00:21:05,873
+company or sector.
+
+634
+00:21:06,223 --> 00:21:07,663
+Then compare costs.
+
+635
+00:21:07,843 --> 00:21:10,470
+Many broad index funds charge less than
+
+636
+00:21:10,470 --> 00:21:12,626
+one tenth of one percent a year.
+
+637
+00:21:12,806 --> 00:21:15,144
+Between two funds that track the same
+
+638
+00:21:15,144 --> 00:21:17,670
+index, the cheaper one usually comes out
+
+639
+00:21:17,670 --> 00:21:18,681
+ahead over time.
+
+640
+00:21:19,031 --> 00:21:21,124
+If you want maximum simplicity,
+
+641
+00:21:21,124 --> 00:21:23,014
+consider a target date fund.
+
+642
+00:21:23,194 --> 00:21:24,991
+You pick the fund with the year
+
+643
+00:21:24,991 --> 00:21:27,078
+closest to your expected retirement,
+
+644
+00:21:27,078 --> 00:21:28,643
+and it holds a mix of stock
+
+645
+00:21:28,643 --> 00:21:31,136
+and bond index funds that gradually becomes
+
+646
+00:21:31,136 --> 00:21:32,180
+more conservative.
+
+647
+00:21:32,360 --> 00:21:34,416
+Just check its expense ratio,
+
+648
+00:21:34,416 --> 00:21:36,969
+because target date fund costs vary.
+
+649
+00:21:37,318 --> 00:21:38,096
+Try this.
+
+650
+00:21:38,276 --> 00:21:40,388
+Choose no more than three funds to
+
+651
+00:21:40,388 --> 00:21:40,761
+start.
+
+652
+00:21:40,941 --> 00:21:43,580
+Simple portfolios are easier to stick with,
+
+653
+00:21:43,580 --> 00:21:45,789
+and sticking with it is what matters
+
+654
+00:21:45,789 --> 00:21:46,096
+most.
+
+655
+00:21:46,445 --> 00:21:47,769
+Move number seventeen.
+
+656
+00:21:47,949 --> 00:21:49,563
+Automate your contributions.
+
+657
+00:21:49,912 --> 00:21:52,629
+Set up automatic investments on payday,
+
+658
+00:21:52,629 --> 00:21:53,465
+every month.
+
+659
+00:21:53,645 --> 00:21:55,505
+When the money moves before you see
+
+660
+00:21:55,505 --> 00:21:57,365
+it, you're not tempted to spend it,
+
+661
+00:21:57,365 --> 00:21:59,171
+and you're not tempted to wait for
+
+662
+00:21:59,171 --> 00:22:00,553
+the perfect moment to buy.
+
+663
+00:22:00,903 --> 00:22:03,506
+Investing a fixed amount on a regular
+
+664
+00:22:03,506 --> 00:22:06,813
+schedule is often called dollar cost averaging.
+
+665
+00:22:06,993 --> 00:22:08,387
+When prices are high,
+
+666
+00:22:08,387 --> 00:22:10,313
+your money buys fewer shares.
+
+667
+00:22:10,493 --> 00:22:11,872
+When prices are low,
+
+668
+00:22:11,872 --> 00:22:12,769
+it buys more.
+
+669
+00:22:12,949 --> 00:22:14,365
+You don't need to time anything.
+
+670
+00:22:14,715 --> 00:22:18,001
+Also turn on automatic dividend reinvestment.
+
+671
+00:22:18,181 --> 00:22:20,793
+Index funds pay dividends from the companies
+
+672
+00:22:20,793 --> 00:22:23,167
+they own, and reinvesting them buys more
+
+673
+00:22:23,167 --> 00:22:25,542
+shares, which keeps compounding running.
+
+674
+00:22:25,891 --> 00:22:26,634
+Try this.
+
+675
+00:22:26,814 --> 00:22:29,227
+Set up your automatic investment today,
+
+676
+00:22:29,227 --> 00:22:30,402
+even if it's small.
+
+677
+00:22:30,582 --> 00:22:32,450
+Then add a reminder to increase it
+
+678
+00:22:32,450 --> 00:22:33,879
+whenever your pay goes up.
+
+679
+00:22:34,229 --> 00:22:35,774
+Move number eighteen.
+
+680
+00:22:35,954 --> 00:22:37,602
+Rebalance once a year.
+
+681
+00:22:37,952 --> 00:22:40,158
+Over time, your mix drifts.
+
+682
+00:22:40,338 --> 00:22:42,292
+If stocks grow faster than bonds,
+
+683
+00:22:42,292 --> 00:22:45,133
+your portfolio becomes riskier than you planned.
+
+684
+00:22:45,313 --> 00:22:47,827
+Rebalancing means selling a little of what
+
+685
+00:22:47,827 --> 00:22:49,743
+grew and buying a little of what
+
+686
+00:22:49,743 --> 00:22:51,838
+lagged, to get back to your target.
+
+687
+00:22:52,188 --> 00:22:53,855
+Once a year is plenty for most
+
+688
+00:22:53,855 --> 00:22:54,243
+people.
+
+689
+00:22:54,423 --> 00:22:56,779
+Some people rebalance only when their mix
+
+690
+00:22:56,779 --> 00:22:59,306
+drifts more than five percentage points from
+
+691
+00:22:59,306 --> 00:22:59,938
+the target.
+
+692
+00:23:00,118 --> 00:23:01,871
+Either approach is fine.
+
+693
+00:23:02,051 --> 00:23:03,967
+What matters is having a rule.
+
+694
+00:23:04,316 --> 00:23:05,808
+In retirement accounts,
+
+695
+00:23:05,808 --> 00:23:08,531
+rebalancing usually doesn't trigger taxes.
+
+696
+00:23:08,711 --> 00:23:10,039
+In taxable accounts,
+
+697
+00:23:10,039 --> 00:23:12,761
+you can often rebalance just by directing
+
+698
+00:23:12,761 --> 00:23:15,351
+new money into whatever is underweight,
+
+699
+00:23:15,351 --> 00:23:16,745
+which avoids selling.
+
+700
+00:23:17,094 --> 00:23:17,907
+Try this.
+
+701
+00:23:18,087 --> 00:23:18,752
+Pick a date,
+
+702
+00:23:18,752 --> 00:23:19,806
+like your birthday,
+
+703
+00:23:19,806 --> 00:23:22,023
+and make it your yearly portfolio check.
+
+704
+00:23:22,203 --> 00:23:23,441
+Rebalance if needed,
+
+705
+00:23:23,441 --> 00:23:25,732
+then leave it alone for another year.
+
+706
+00:23:26,082 --> 00:23:27,406
+Move number nineteen.
+
+707
+00:23:27,586 --> 00:23:28,596
+Stay the course.
+
+708
+00:23:28,946 --> 00:23:31,431
+Bogle's favorite advice was two words.
+
+709
+00:23:31,611 --> 00:23:32,621
+Stay the course.
+
+710
+00:23:32,801 --> 00:23:33,799
+It sounds easy,
+
+711
+00:23:33,799 --> 00:23:36,060
+but it's the hardest part of index
+
+712
+00:23:36,060 --> 00:23:36,725
+investing.
+
+713
+00:23:36,905 --> 00:23:38,080
+When markets crash,
+
+714
+00:23:38,080 --> 00:23:40,121
+every instinct tells you to sell.
+
+715
+00:23:40,301 --> 00:23:41,519
+When markets boom,
+
+716
+00:23:41,519 --> 00:23:43,819
+every instinct tells you to chase.
+
+717
+00:23:44,168 --> 00:23:46,421
+The investors who do best with index
+
+718
+00:23:46,421 --> 00:23:48,361
+funds are often the ones who do
+
+719
+00:23:48,361 --> 00:23:48,986
+the least.
+
+720
+00:23:49,166 --> 00:23:51,122
+They keep buying through crashes,
+
+721
+00:23:51,122 --> 00:23:53,256
+don't chase booms and let decades of
+
+722
+00:23:53,256 --> 00:23:54,263
+compounding work.
+
+723
+00:23:54,613 --> 00:23:56,454
+It helps to have a written plan
+
+724
+00:23:56,454 --> 00:23:57,760
+and an emergency fund.
+
+725
+00:23:57,940 --> 00:23:59,937
+The plan reminds you why you invested.
+
+726
+00:24:00,117 --> 00:24:02,490
+The emergency fund means you never have
+
+727
+00:24:02,490 --> 00:24:04,681
+to sell investments in a downturn to
+
+728
+00:24:04,681 --> 00:24:05,898
+pay a surprise bill.
+
+729
+00:24:06,248 --> 00:24:07,061
+Try this.
+
+730
+00:24:07,241 --> 00:24:09,013
+Write one sentence at the top of
+
+731
+00:24:09,013 --> 00:24:10,120
+your investing plan.
+
+732
+00:24:10,300 --> 00:24:12,007
+I will not sell my index funds
+
+733
+00:24:12,007 --> 00:24:13,145
+because of the news.
+
+734
+00:24:13,325 --> 00:24:15,264
+Read it when the market feels scary.
+
+735
+00:24:15,613 --> 00:24:16,751
+Move number twenty.
+
+736
+00:24:16,931 --> 00:24:18,580
+Let time do the heavy lifting.
+
+737
+00:24:18,929 --> 00:24:22,401
+Index investing is a decades long strategy.
+
+738
+00:24:22,581 --> 00:24:24,588
+The returns you see in any single
+
+739
+00:24:24,588 --> 00:24:26,838
+year can be wildly different from the
+
+740
+00:24:26,838 --> 00:24:27,933
+long term average.
+
+741
+00:24:28,113 --> 00:24:29,220
+But over twenty,
+
+742
+00:24:29,220 --> 00:24:30,743
+thirty or forty years,
+
+743
+00:24:30,743 --> 00:24:32,957
+the ups and downs tend to smooth
+
+744
+00:24:32,957 --> 00:24:35,172
+out, and compounding takes over.
+
+745
+00:24:35,521 --> 00:24:37,862
+Five hundred dollars a month for forty
+
+746
+00:24:37,862 --> 00:24:40,264
+years at a seven percent average yearly
+
+747
+00:24:40,264 --> 00:24:42,667
+return grows to roughly one point three
+
+748
+00:24:42,667 --> 00:24:44,391
+million dollars before fees.
+
+749
+00:24:44,571 --> 00:24:46,882
+You'd contribute two hundred forty thousand.
+
+750
+00:24:47,062 --> 00:24:48,374
+The rest would be growth.
+
+751
+00:24:48,554 --> 00:24:49,784
+That's what patience can do.
+
+752
+00:24:50,134 --> 00:24:51,080
+And the beauty is,
+
+753
+00:24:51,080 --> 00:24:53,130
+it doesn't require you to be brilliant.
+
+754
+00:24:53,310 --> 00:24:55,132
+It requires you to start,
+
+755
+00:24:55,132 --> 00:24:56,225
+keep costs low,
+
+756
+00:24:56,225 --> 00:24:58,557
+keep contributing and not panic.
+
+757
+00:24:58,737 --> 00:25:01,912
+Ordinary people with ordinary incomes have built
+
+758
+00:25:01,912 --> 00:25:03,300
+real wealth this way.
+
+759
+00:25:03,650 --> 00:25:04,347
+Try this.
+
+760
+00:25:04,527 --> 00:25:07,309
+Calculate what your current monthly investment could
+
+761
+00:25:07,309 --> 00:25:09,450
+become in thirty years at seven percent.
+
+762
+00:25:09,630 --> 00:25:11,707
+Let that number remind you why boring
+
+763
+00:25:11,707 --> 00:25:12,381
+is worth it.
+
+764
+00:25:12,731 --> 00:25:14,334
+Let's make this really concrete.
+
+765
+00:25:14,514 --> 00:25:17,125
+Here's what getting started with index funds
+
+766
+00:25:17,125 --> 00:25:17,956
+can look like,
+
+767
+00:25:17,956 --> 00:25:19,262
+in a single afternoon.
+
+768
+00:25:19,612 --> 00:25:20,344
+Hour one.
+
+769
+00:25:20,524 --> 00:25:21,940
+Check your workplace plan.
+
+770
+00:25:22,120 --> 00:25:23,770
+Log into your four oh one k
+
+771
+00:25:23,770 --> 00:25:24,748
+or similar plan,
+
+772
+00:25:24,748 --> 00:25:27,132
+find out whether your employer offers a
+
+773
+00:25:27,132 --> 00:25:29,455
+match, and make sure you contribute at
+
+774
+00:25:29,455 --> 00:25:31,594
+least enough to get the full match.
+
+775
+00:25:31,774 --> 00:25:33,916
+Then look at the fund list and
+
+776
+00:25:33,916 --> 00:25:36,557
+find the lowest cost broad index fund
+
+777
+00:25:36,557 --> 00:25:37,985
+or target date fund.
+
+778
+00:25:38,165 --> 00:25:41,298
+Switching your contributions there usually takes just
+
+779
+00:25:41,298 --> 00:25:42,066
+a few clicks.
+
+780
+00:25:42,416 --> 00:25:43,183
+Hour two.
+
+781
+00:25:43,363 --> 00:25:45,025
+Open an IRA at a low cost
+
+782
+00:25:45,025 --> 00:25:47,020
+brokerage, if you're eligible.
+
+783
+00:25:47,200 --> 00:25:50,010
+You'll need basic personal information and your
+
+784
+00:25:50,010 --> 00:25:50,787
+bank details.
+
+785
+00:25:50,967 --> 00:25:53,348
+Then fund it with whatever amount you
+
+786
+00:25:53,348 --> 00:25:54,764
+can, even a small one.
+
+787
+00:25:54,944 --> 00:25:57,392
+Choose a broad index fund or ETF,
+
+788
+00:25:57,392 --> 00:25:59,692
+or a single target date fund if
+
+789
+00:25:59,692 --> 00:26:02,734
+you want everything handled in one place.
+
+790
+00:26:03,084 --> 00:26:04,071
+Hour three.
+
+791
+00:26:04,251 --> 00:26:04,983
+Automate.
+
+792
+00:26:05,163 --> 00:26:07,577
+Set a monthly automatic transfer from your
+
+793
+00:26:07,577 --> 00:26:08,554
+bank to your IRA,
+
+794
+00:26:08,554 --> 00:26:10,221
+scheduled right after payday,
+
+795
+00:26:10,221 --> 00:26:11,888
+and set it to buy your chosen
+
+796
+00:26:11,888 --> 00:26:14,590
+fund automatically if your brokerage allows it.
+
+797
+00:26:14,770 --> 00:26:16,848
+Turn on dividend reinvestment.
+
+798
+00:26:17,028 --> 00:26:18,794
+Then write your one page plan,
+
+799
+00:26:18,794 --> 00:26:20,620
+and put a yearly review on your
+
+800
+00:26:20,620 --> 00:26:21,150
+calendar.
+
+801
+00:26:21,499 --> 00:26:21,894
+That's it.
+
+802
+00:26:22,074 --> 00:26:24,378
+Three hours, and you've built a system
+
+803
+00:26:24,378 --> 00:26:25,894
+that can run for decades.
+
+804
+00:26:26,074 --> 00:26:28,933
+You'll want to raise contributions over time
+
+805
+00:26:28,933 --> 00:26:30,753
+and check in once or twice a
+
+806
+00:26:30,753 --> 00:26:31,078
+year.
+
+807
+00:26:31,258 --> 00:26:32,414
+But the hard part,
+
+808
+00:26:32,414 --> 00:26:34,021
+getting started, is done.
+
+809
+00:26:34,201 --> 00:26:36,127
+Most people spend more time choosing a
+
+810
+00:26:36,127 --> 00:26:38,357
+new phone than building the investing system
+
+811
+00:26:38,357 --> 00:26:40,029
+that could fund their retirement.
+
+812
+00:26:40,379 --> 00:26:42,414
+In your twenties and thirties,
+
+813
+00:26:42,414 --> 00:26:44,245
+time is your biggest asset.
+
+814
+00:26:44,425 --> 00:26:47,334
+Many young investors hold mostly stock index
+
+815
+00:26:47,334 --> 00:26:49,978
+funds, because they have decades to ride
+
+816
+00:26:49,978 --> 00:26:51,101
+out market drops.
+
+817
+00:26:51,281 --> 00:26:53,558
+This is also when small monthly amounts
+
+818
+00:26:53,558 --> 00:26:55,542
+have the longest time to compound.
+
+819
+00:26:55,892 --> 00:26:57,758
+In your forties and fifties,
+
+820
+00:26:57,758 --> 00:27:00,756
+many investors gradually add bond index funds
+
+821
+00:27:00,756 --> 00:27:03,288
+to reduce the size of potential drops.
+
+822
+00:27:03,468 --> 00:27:04,963
+Income is often higher,
+
+823
+00:27:04,963 --> 00:27:06,653
+so this is a great time to
+
+824
+00:27:06,653 --> 00:27:10,098
+increase contributions and use catch up contributions
+
+825
+00:27:10,098 --> 00:27:11,398
+once you turn fifty.
+
+826
+00:27:11,747 --> 00:27:13,484
+In your sixties and beyond,
+
+827
+00:27:13,484 --> 00:27:15,670
+many people hold a bigger share of
+
+828
+00:27:15,670 --> 00:27:16,634
+bonds and cash,
+
+829
+00:27:16,634 --> 00:27:18,821
+so they can cover several years of
+
+830
+00:27:18,821 --> 00:27:21,778
+spending without selling stocks in a downturn.
+
+831
+00:27:21,958 --> 00:27:23,509
+But even in retirement,
+
+832
+00:27:23,509 --> 00:27:26,340
+some stock exposure often helps money keep
+
+833
+00:27:26,340 --> 00:27:29,508
+growing faster than inflation over a retirement
+
+834
+00:27:29,508 --> 00:27:30,991
+that can last decades.
+
+835
+00:27:31,340 --> 00:27:33,209
+Let's end with one of the most
+
+836
+00:27:33,209 --> 00:27:35,265
+famous bets in investing history.
+
+837
+00:27:35,614 --> 00:27:38,807
+In 2007, Warren Buffett offered a bet.
+
+838
+00:27:38,987 --> 00:27:41,186
+He wagered that over ten years,
+
+839
+00:27:41,186 --> 00:27:42,958
+a simple low cost S and P
+
+840
+00:27:42,958 --> 00:27:45,511
+five hundred index fund would beat a
+
+841
+00:27:45,511 --> 00:27:48,703
+group of hedge funds picked by professionals,
+
+842
+00:27:48,703 --> 00:27:49,483
+after fees.
+
+843
+00:27:49,663 --> 00:27:52,471
+A firm called Protege Partners took the
+
+844
+00:27:52,471 --> 00:27:55,351
+bet, choosing five funds of hedge funds.
+
+845
+00:27:55,531 --> 00:27:56,971
+The money would go to charity.
+
+846
+00:27:57,321 --> 00:28:00,909
+The bet ran from 2008 through 2017.
+
+847
+00:28:01,089 --> 00:28:03,678
+It started badly for the index fund,
+
+848
+00:28:03,678 --> 00:28:06,627
+because 2008 brought a huge market crash.
+
+849
+00:28:06,807 --> 00:28:08,472
+But over the full ten years,
+
+850
+00:28:08,472 --> 00:28:10,969
+according to Buffett's shareholder letter,
+
+851
+00:28:10,969 --> 00:28:13,526
+the index fund returned about seven percent
+
+852
+00:28:13,526 --> 00:28:15,548
+a year, while the hedge fund picks
+
+853
+00:28:15,548 --> 00:28:17,569
+averaged about two percent a year.
+
+854
+00:28:17,919 --> 00:28:20,320
+Buffett won, and the money went to
+
+855
+00:28:20,320 --> 00:28:22,296
+Girls Incorporated of Omaha.
+
+856
+00:28:22,476 --> 00:28:23,916
+His lesson was clear.
+
+857
+00:28:24,096 --> 00:28:27,176
+High fees and complexity often work against
+
+858
+00:28:27,176 --> 00:28:27,892
+investors.
+
+859
+00:28:28,072 --> 00:28:30,503
+In fact, Buffett has written that his
+
+860
+00:28:30,503 --> 00:28:33,065
+instructions for money left to his wife
+
+861
+00:28:33,065 --> 00:28:35,233
+call for ninety percent in a very
+
+862
+00:28:35,233 --> 00:28:37,138
+low cost S and P five hundred
+
+863
+00:28:37,138 --> 00:28:39,503
+index fund, and ten percent in short
+
+864
+00:28:39,503 --> 00:28:40,948
+term government bonds.
+
+865
+00:28:41,297 --> 00:28:42,191
+Question one.
+
+866
+00:28:42,371 --> 00:28:44,078
+Is an S and P five hundred
+
+867
+00:28:44,078 --> 00:28:45,587
+fund enough on its own?
+
+868
+00:28:45,767 --> 00:28:47,950
+Many investors use it as their core
+
+869
+00:28:47,950 --> 00:28:48,449
+holding.
+
+870
+00:28:48,629 --> 00:28:51,141
+Others prefer a total market fund for
+
+871
+00:28:51,141 --> 00:28:52,635
+even broader coverage,
+
+872
+00:28:52,635 --> 00:28:56,234
+plus international stocks for global diversification.
+
+873
+00:28:56,414 --> 00:28:58,306
+Both approaches are reasonable.
+
+874
+00:28:58,486 --> 00:29:00,652
+The key is low costs and broad
+
+875
+00:29:00,652 --> 00:29:01,807
+diversification.
+
+876
+00:29:02,156 --> 00:29:03,108
+Question two.
+
+877
+00:29:03,288 --> 00:29:04,798
+Are index funds safe?
+
+878
+00:29:04,978 --> 00:29:07,443
+They're diversified, but they still go up
+
+879
+00:29:07,443 --> 00:29:08,946
+and down with the market,
+
+880
+00:29:08,946 --> 00:29:10,028
+sometimes sharply.
+
+881
+00:29:10,208 --> 00:29:11,810
+They're best for long term money.
+
+882
+00:29:11,990 --> 00:29:14,019
+For money you need within a few
+
+883
+00:29:14,019 --> 00:29:16,897
+years, safer options like high yield savings
+
+884
+00:29:16,897 --> 00:29:19,318
+or short term bonds usually make more
+
+885
+00:29:19,318 --> 00:29:19,711
+sense.
+
+886
+00:29:20,060 --> 00:29:21,105
+Question three.
+
+887
+00:29:21,285 --> 00:29:22,786
+How much money do I need to
+
+888
+00:29:22,786 --> 00:29:23,120
+start?
+
+889
+00:29:23,300 --> 00:29:24,461
+Often very little.
+
+890
+00:29:24,641 --> 00:29:27,544
+Many brokerages have no account minimums and
+
+891
+00:29:27,544 --> 00:29:29,127
+allow fractional shares,
+
+892
+00:29:29,127 --> 00:29:31,040
+so you can start with a small
+
+893
+00:29:31,040 --> 00:29:31,502
+amount.
+
+894
+00:29:31,682 --> 00:29:34,553
+Some index mutual funds do have minimums,
+
+895
+00:29:34,553 --> 00:29:36,303
+but ETFs typically don't.
+
+896
+00:29:36,652 --> 00:29:37,651
+Question four.
+
+897
+00:29:37,831 --> 00:29:39,723
+Isn't the market too high right now?
+
+898
+00:29:39,903 --> 00:29:42,477
+People have asked that question at almost
+
+899
+00:29:42,477 --> 00:29:43,920
+every point in history.
+
+900
+00:29:44,100 --> 00:29:47,235
+Nobody can reliably predict short term moves.
+
+901
+00:29:47,415 --> 00:29:50,833
+Regular automatic investing spreads your purchases over
+
+902
+00:29:50,833 --> 00:29:52,883
+time, so you don't have to guess.
+
+903
+00:29:53,233 --> 00:29:54,174
+Question five.
+
+904
+00:29:54,354 --> 00:29:56,711
+What if everyone buys index funds?
+
+905
+00:29:56,891 --> 00:29:59,738
+Some people worry that if everyone indexes,
+
+906
+00:29:59,738 --> 00:30:01,128
+markets stop working.
+
+907
+00:30:01,308 --> 00:30:04,155
+In reality, plenty of active traders and
+
+908
+00:30:04,155 --> 00:30:07,357
+investors are still setting prices every day.
+
+909
+00:30:07,537 --> 00:30:09,657
+It's a debate among economists,
+
+910
+00:30:09,657 --> 00:30:11,777
+but for an individual investor,
+
+911
+00:30:11,777 --> 00:30:13,965
+it's not a reason to avoid index
+
+912
+00:30:13,965 --> 00:30:14,375
+funds.
+
+913
+00:30:14,725 --> 00:30:15,886
+Question six.
+
+914
+00:30:16,066 --> 00:30:18,156
+Should I pick individual stocks too?
+
+915
+00:30:18,336 --> 00:30:20,542
+You can, but it's not necessary.
+
+916
+00:30:20,722 --> 00:30:23,996
+Many successful investors own only index funds
+
+917
+00:30:23,996 --> 00:30:25,633
+for their entire lives.
+
+918
+00:30:25,813 --> 00:30:27,551
+If you enjoy picking stocks,
+
+919
+00:30:27,551 --> 00:30:29,227
+keep it to a small share of
+
+920
+00:30:29,227 --> 00:30:31,648
+your money, and be honest with yourself
+
+921
+00:30:31,648 --> 00:30:34,318
+about whether it's beating your index funds
+
+922
+00:30:34,318 --> 00:30:34,939
+over time.
+
+923
+00:30:35,288 --> 00:30:36,299
+Question seven.
+
+924
+00:30:36,479 --> 00:30:39,079
+What about international index funds?
+
+925
+00:30:39,259 --> 00:30:39,596
+U.
+
+926
+00:30:39,776 --> 00:30:40,147
+S.
+
+927
+00:30:40,327 --> 00:30:42,863
+stocks have performed very well in recent
+
+928
+00:30:42,863 --> 00:30:45,399
+decades, but there have been long periods
+
+929
+00:30:45,399 --> 00:30:47,688
+when international stocks did better.
+
+930
+00:30:47,868 --> 00:30:51,310
+Many investors hold some international index funds
+
+931
+00:30:51,310 --> 00:30:52,686
+for diversification.
+
+932
+00:30:52,866 --> 00:30:55,771
+Total world funds include both in one
+
+933
+00:30:55,771 --> 00:30:56,163
+fund.
+
+934
+00:30:56,513 --> 00:30:57,407
+Question eight.
+
+935
+00:30:57,587 --> 00:30:59,561
+Do index funds pay dividends?
+
+936
+00:30:59,741 --> 00:31:00,182
+Yes.
+
+937
+00:31:00,362 --> 00:31:03,163
+Stock index funds collect dividends from the
+
+938
+00:31:03,163 --> 00:31:05,391
+companies they own and pass them on
+
+939
+00:31:05,391 --> 00:31:07,874
+to shareholders, usually every quarter.
+
+940
+00:31:08,054 --> 00:31:09,685
+You can take them as cash or
+
+941
+00:31:09,685 --> 00:31:11,316
+reinvest them automatically.
+
+942
+00:31:11,496 --> 00:31:12,791
+For long term money,
+
+943
+00:31:12,791 --> 00:31:15,447
+reinvesting is usually the better choice,
+
+944
+00:31:15,447 --> 00:31:18,296
+because those dividends buy more shares that
+
+945
+00:31:18,296 --> 00:31:20,239
+pay even more dividends later.
+
+946
+00:31:20,588 --> 00:31:21,494
+Mistake one.
+
+947
+00:31:21,674 --> 00:31:23,752
+Buying an expensive index fund.
+
+948
+00:31:23,932 --> 00:31:25,639
+Not all index funds are cheap.
+
+949
+00:31:25,819 --> 00:31:27,922
+Some charge far more than others for
+
+950
+00:31:27,922 --> 00:31:29,383
+nearly the same holdings.
+
+951
+00:31:29,563 --> 00:31:32,663
+Always compare expense ratios before buying.
+
+952
+00:31:32,843 --> 00:31:34,667
+A fund tracking the S and P
+
+953
+00:31:34,667 --> 00:31:36,828
+five hundred at half a percent a
+
+954
+00:31:36,828 --> 00:31:38,786
+year is doing the same job as
+
+955
+00:31:38,786 --> 00:31:41,083
+one charging a few hundredths of a
+
+956
+00:31:41,083 --> 00:31:43,717
+percent, and you'd be paying many times
+
+957
+00:31:43,717 --> 00:31:44,527
+more for it,
+
+958
+00:31:44,527 --> 00:31:46,148
+every year, for decades.
+
+959
+00:31:46,498 --> 00:31:47,578
+Mistake two.
+
+960
+00:31:47,758 --> 00:31:49,987
+Owning too many overlapping funds.
+
+961
+00:31:50,167 --> 00:31:51,967
+Five different large company U.
+
+962
+00:31:52,147 --> 00:31:52,484
+S.
+
+963
+00:31:52,664 --> 00:31:55,229
+funds often hold mostly the same stocks.
+
+964
+00:31:55,409 --> 00:31:59,066
+That adds complexity without adding real diversification.
+
+965
+00:31:59,246 --> 00:32:01,234
+It can also make your mix harder
+
+966
+00:32:01,234 --> 00:32:02,973
+to understand and rebalance.
+
+967
+00:32:03,153 --> 00:32:05,280
+Check the top holdings of each fund
+
+968
+00:32:05,280 --> 00:32:05,766
+you own.
+
+969
+00:32:05,946 --> 00:32:07,967
+If they look nearly identical,
+
+970
+00:32:07,967 --> 00:32:09,719
+you can probably simplify.
+
+971
+00:32:10,068 --> 00:32:11,020
+Mistake three.
+
+972
+00:32:11,200 --> 00:32:13,348
+Trading index funds like stocks.
+
+973
+00:32:13,528 --> 00:32:15,922
+Buying and selling based on news defeats
+
+974
+00:32:15,922 --> 00:32:16,640
+the purpose.
+
+975
+00:32:16,820 --> 00:32:18,991
+The power comes from holding for years.
+
+976
+00:32:19,171 --> 00:32:21,412
+Every trade is a chance to sell
+
+977
+00:32:21,412 --> 00:32:23,581
+low, buy high and pay taxes in
+
+978
+00:32:23,581 --> 00:32:24,883
+a taxable account.
+
+979
+00:32:25,063 --> 00:32:27,660
+The best index investors often go months
+
+980
+00:32:27,660 --> 00:32:28,894
+without logging in.
+
+981
+00:32:29,244 --> 00:32:30,301
+Mistake four.
+
+982
+00:32:30,481 --> 00:32:33,325
+Stopping contributions during a crash.
+
+983
+00:32:33,505 --> 00:32:35,601
+That's when your monthly money buys the
+
+984
+00:32:35,601 --> 00:32:36,245
+most shares.
+
+985
+00:32:36,425 --> 00:32:39,233
+Many long term investors see crashes as
+
+986
+00:32:39,233 --> 00:32:39,665
+sales.
+
+987
+00:32:39,845 --> 00:32:41,969
+When the price of something you plan
+
+988
+00:32:41,969 --> 00:32:43,740
+to own for thirty years drops,
+
+989
+00:32:43,740 --> 00:32:46,218
+your monthly contribution buys more of it.
+
+990
+00:32:46,398 --> 00:32:48,764
+Stopping right then means missing the cheapest
+
+991
+00:32:48,764 --> 00:32:49,998
+shares you may ever get.
+
+992
+00:32:50,347 --> 00:32:51,160
+Quick recap.
+
+993
+00:32:51,340 --> 00:32:53,233
+Angle one, the numbers.
+
+994
+00:32:53,413 --> 00:32:55,128
+What an index fund is,
+
+995
+00:32:55,128 --> 00:32:56,766
+Bogle's folly, costs,
+
+996
+00:32:56,766 --> 00:32:58,170
+why the pros lose,
+
+997
+00:32:58,170 --> 00:33:01,835
+diversification, taxes, and boring but not risk
+
+998
+00:33:01,835 --> 00:33:02,225
+free.
+
+999
+00:33:02,574 --> 00:33:04,687
+Angle two, the psychology.
+
+1000
+00:33:04,867 --> 00:33:06,332
+The excitement trap,
+
+1001
+00:33:06,332 --> 00:33:08,749
+overconfidence, the behavior gap,
+
+1002
+00:33:08,749 --> 00:33:11,020
+headlines, fear of missing out,
+
+1003
+00:33:11,020 --> 00:33:13,657
+the paradox of average and the power
+
+1004
+00:33:13,657 --> 00:33:14,829
+of not deciding.
+
+1005
+00:33:15,178 --> 00:33:16,815
+Angle three, the playbook.
+
+1006
+00:33:16,995 --> 00:33:18,425
+Pick the right account,
+
+1007
+00:33:18,425 --> 00:33:19,668
+choose simple funds,
+
+1008
+00:33:19,668 --> 00:33:21,657
+automate, rebalance once a year,
+
+1009
+00:33:21,657 --> 00:33:22,651
+stay the course,
+
+1010
+00:33:22,651 --> 00:33:24,205
+and let time do the work.
+
+1011
+00:33:24,555 --> 00:33:26,638
+Boring investing isn't exciting,
+
+1012
+00:33:26,638 --> 00:33:28,526
+and that's exactly the point.
+
+1013
+00:33:28,706 --> 00:33:29,958
+Own the market,
+
+1014
+00:33:29,958 --> 00:33:31,211
+keep costs low,
+
+1015
+00:33:31,211 --> 00:33:33,965
+keep buying, and give it decades.
+
+1016
+00:33:34,145 --> 00:33:35,698
+If you want my full step by
+
+1017
+00:33:35,698 --> 00:33:37,480
+step plan, it's in my playbook,
+
+1018
+00:33:37,480 --> 00:33:38,975
+linked in the description.
+
+1019
+00:33:39,155 --> 00:33:40,414
+Tell me in the comments,
+
+1020
+00:33:40,414 --> 00:33:42,406
+what index fund are you starting with?
+
+1021
+00:33:42,586 --> 00:33:43,805
+I'm Ryan Rover.
+
+1022
+00:33:43,985 --> 00:33:45,250
+See you in the next one.
