@@ -1,0 +1,7 @@
+- William P. Bengen, Determining Withdrawal Rates Using Historical Data, Journal of Financial Planning (1994)
+- Cooley, Hubbard and Walz, Retirement Savings: Choosing a Withdrawal Rate That Is Sustainable (Trinity study, 1998)
+- Vicki Robin and Joe Dominguez, Your Money or Your Life (1992)
+- IRS, early withdrawal rules, Roth IRA, HSA, rule of 55 and substantially equal periodic payments
+- HealthCare.gov, marketplace coverage and premium tax credits
+- Social Security Administration, ssa.gov benefit estimates
+- Savings rate table and growth figures: stated illustrative math at a 5% return after inflation, target 25x spending
