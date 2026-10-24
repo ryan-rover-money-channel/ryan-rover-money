@@ -1,0 +1,9 @@
+- IRS: federal income tax brackets, long-term capital gains rates, net investment income tax
+- IRS: retirement accounts (401k, IRA, Roth), HSAs, tax-loss harvesting and wash sale rule, qualified charitable distributions
+- Social Security Administration: contribution and benefit base (2025 wage limit)
+- ProPublica, The Secret IRS Files (June 2021): 3.4% 'true tax rate' for the 25 richest Americans, 2014-2018
+- White House CEA and OMB (September 2021): estimated 8.2% average federal individual income tax rate for the 400 wealthiest families
+- Warren Buffett, Stop Coddling the Super-Rich (The New York Times, August 14, 2011)
+- Tax Cuts and Jobs Act of 2017: three-year holding period for carried interest
+- IRS: estate tax basic exclusion amount and step-up in basis rules
+- Not tax advice; rules and thresholds change yearly
