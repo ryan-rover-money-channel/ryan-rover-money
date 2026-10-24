@@ -1,0 +1,6 @@
+- U.S. Bureau of Labor Statistics, Consumer Expenditure Survey 2023 (average household spending and shares)
+- Elizabeth Warren and Amelia Warren Tyagi, All Your Worth (2005), the 50/30/20 rule
+- C+R Research, subscription spending survey (2022)
+- Janet Polivy and C. Peter Herman, research on dieting and disinhibition (the what-the-hell effect)
+- Richard H. Thaler, Mental Accounting Matters, Journal of Behavioral Decision Making (1999)
+- IRS, estimated taxes for self-employed workers

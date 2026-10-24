@@ -1,0 +1,9 @@
+- Federal Trade Commission, Consumer Sentinel Network data (reported fraud losses of $12.5 billion in 2024; investment scams the largest category)
+- FBI Internet Crime Complaint Center (IC3), annual Internet Crime Reports (investment fraud losses)
+- AARP Foundation, Multilevel Marketing: Research Study (2018)
+- FTC, Business Guidance Concerning Multi-Level Marketing
+- Chague, De Losso and Giovannetti, Day Trading for a Living? (2019)
+- Powerball official game rules (jackpot odds about 1 in 292.2 million)
+- SEC and CFTC investor alerts (pump and dump, AI trading claims, promissory notes); FINRA BrokerCheck
+- Bernard Madoff case (2008); Trump University settlement (2016); Murphy v. NCAA (2018)
+- Growth figures: stated illustrative math

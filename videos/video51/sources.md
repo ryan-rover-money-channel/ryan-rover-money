@@ -1,0 +1,7 @@
+- Ernest Hemingway, The Sun Also Rises (1926): gradually, then suddenly
+- Thaler and Benartzi, Save More Tomorrow, Journal of Political Economy (2004)
+- Lally et al., How are habits formed, European Journal of Social Psychology (2010): average about 66 days
+- BJ Fogg, Tiny Habits (2019); James Clear, Atomic Habits (2018)
+- Research on automatic enrollment in retirement plans (Madrian and Shea, 2001)
+- IRS, retirement plan contribution and catch-up rules (check current limits)
+- Growth and savings rate figures: stated illustrative math (7% nominal; 5% real for independence estimates)

@@ -1,0 +1,6 @@
+- U.S. Bureau of Labor Statistics, Consumer Expenditure Survey (spending by income level)
+- IRS, federal income tax brackets (marginal rates); Social Security and Medicare payroll taxes
+- IRS and U.S. Department of Labor, 401(k) plan rules (employer match, automatic increase features)
+- Thorstein Veblen, The Theory of the Leisure Class (1899): conspicuous consumption
+- Research on hedonic adaptation and on buying time and well-being
+- Raise, spending and growth figures: stated illustrative math

@@ -1,0 +1,988 @@
+{
+ "id": "video50",
+ "angle": "the cost of being poor: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "The Real Cost of Being Poor: 20 Hidden Fees",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Here's one of the most unfair truths in money. It's expensive to be poor. Not just hard. Expensive. People with the least money often pay the most for the same things. More fees, higher interest, higher prices, and even more time. Today, twenty hidden costs of being poor, and how to escape each one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Being poor comes with a hidden price list. Fees, interest and higher prices that people with savings simply never pay.",
+   "card": {
+    "type": "stat",
+    "label": "the hidden price list",
+    "big": "20 COSTS",
+    "sub": "that people with savings never pay"
+   },
+   "caption": "",
+   "cuts": 1,
+   "short_hook": "It's expensive to be poor. Here's the proof."
+  },
+  {
+   "text": "This isn't about blame. Most of these costs aren't caused by bad choices. They're built into a system that charges more to people with less cushion, lower credit scores or fewer options. But knowing exactly where those costs are hiding is powerful. Many of them can be avoided or reduced, sometimes with one phone call or one new account.",
+   "query": "Receipts and coins on table",
+   "caption": "NOT ABOUT BLAME",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at it from three angles. First, the numbers: the eight costs of banking and borrowing without a cushion. Second, the psychology and time costs: how scarcity drains not just money, but time and mental energy. And third, the playbook: the last five costs, and a step by step way to escape the poverty premium.",
+   "query": "Three paths walking",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Some of these costs add up to thousands of dollars a year. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Every number here comes from a named source. Banking data comes from the FDIC's National Survey of Unbanked and Underbanked Households. Payday and title loan data comes from the Consumer Financial Protection Bureau. Rules on credit union small loans come from the National Credit Union Administration. Medical debt data comes from the CFPB. Fees vary widely by company and state, so treat examples as typical, not exact. This is education, not financial advice.",
+   "query": "FDIC building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "The idea that the poor pay more isn't new. In the late eighteen hundreds and early nineteen hundreds, many coal mining and logging towns in America ran company stores. Workers were sometimes paid in scrip, a currency that could only be spent at the company's own store. Prices there were often higher than elsewhere, and workers could fall into debt to their employer.",
+   "query": "Historic coal mining town",
+   "caption": "THE COMPANY STORE",
+   "cuts": 3,
+   "chapter": "The company store"
+  },
+  {
+   "text": "The song Sixteen Tons, made famous by Tennessee Ernie Ford in the nineteen fifties, captured the feeling with one line: I owe my soul to the company store. Workers earned, spent at the store, owed the store, and worked to pay it back. The cycle was hard to escape.",
+   "query": "Vintage record player",
+   "caption": "I OWE MY SOUL",
+   "cuts": 3
+  },
+  {
+   "text": "Today's version is less obvious, but the structure is similar. When you have no cushion and few options, you often end up paying more to the businesses that serve people in exactly that situation. Fees, high interest and higher prices. Understanding that structure is the first step to stepping outside it.",
+   "query": "Modern storefront payday loans",
+   "caption": "TODAY'S VERSION",
+   "cuts": 3
+  },
+  {
+   "text": "Angle one. Eight costs of banking and borrowing when you don't have a cushion.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Cost number one. Overdraft fees.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Overdraft fees",
+    "sub": "a $35 sandwich"
+   },
+   "caption": "FEE 1",
+   "cuts": 1,
+   "chapter": "1. Overdraft fees"
+  },
+  {
+   "text": "When your balance is low, a single small purchase can trigger an overdraft fee, historically often around thirty five dollars at many banks. Buy a six dollar sandwich with eight dollars too little in your account, and the sandwich can effectively cost forty one dollars. Several small purchases on the same day can mean several fees.",
+   "query": "Sandwich and receipt",
+   "caption": "A $41 SANDWICH",
+   "cuts": 3
+  },
+  {
+   "text": "People with healthy balances rarely pay these fees. People living paycheck to paycheck can pay them again and again. The CFPB has found that a relatively small share of customers, usually those with low balances, pay the majority of overdraft fees.",
+   "query": "Bank fee notice",
+   "caption": "A SMALL GROUP PAYS MOST",
+   "cuts": 3
+  },
+  {
+   "text": "Many banks have reduced or eliminated overdraft fees in recent years, which is real progress. Try this: check whether your bank still charges them. If it does, turn off overdraft coverage for debit purchases, or move to an account that doesn't charge overdraft fees at all.",
+   "query": "Phone banking settings",
+   "caption": "TURN IT OFF",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number two. Paying to cash your own paycheck.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Check cashing fees",
+    "sub": "paying to get paid"
+   },
+   "caption": "FEE 2",
+   "cuts": 1,
+   "chapter": "2. Check cashing fees"
+  },
+  {
+   "text": "According to the FDIC, millions of American households don't have a bank account. They're called unbanked. In the FDIC's twenty twenty three survey, about four percent of households were unbanked, roughly five and a half million households. Many of them use check cashing stores to turn their paychecks into cash.",
+   "query": "Check cashing store sign",
+   "caption": "MILLIONS UNBANKED",
+   "cuts": 3
+  },
+  {
+   "text": "Check cashing stores charge a fee, often a percentage of the check. Pay a few percent on every paycheck, and over a year it can add up to hundreds of dollars, just to access money you already earned. Add money orders to pay bills, and the cost of handling money grows further.",
+   "query": "Money order counter",
+   "caption": "HUNDREDS A YEAR TO GET PAID",
+   "cuts": 3
+  },
+  {
+   "text": "Why do people stay unbanked? The FDIC survey found common reasons included not having enough money to meet minimum balance requirements, not trusting banks, and high or unpredictable fees. Those are fair concerns, and there are solutions.",
+   "query": "Person thinking at counter",
+   "caption": "WHY PEOPLE STAY UNBANKED",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: look for a Bank On certified account. These are low cost accounts offered by many banks and credit unions, meeting national standards, usually with low or no monthly fees and no overdraft fees. You can find them at the Bank On website.",
+   "query": "Credit union branch",
+   "caption": "BANK ON ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "According to the FDIC, about four percent of American households, roughly five and a half million, had no bank account in twenty twenty three.",
+   "card": {
+    "type": "stat",
+    "label": "unbanked households",
+    "big": "~5.6 MILLION",
+    "size": 160,
+    "sub": "FDIC National Survey, 2023"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Cost number three. Payday loans.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Payday loans",
+    "sub": "400% a year"
+   },
+   "caption": "FEE 3",
+   "cuts": 1,
+   "chapter": "3. Payday loans"
+  },
+  {
+   "text": "A payday loan is a small, short term loan, usually due on your next payday. According to the CFPB, a typical two week payday loan charges a fee of around fifteen dollars for every one hundred dollars borrowed. That sounds small. But as an annual percentage rate, it's almost four hundred percent.",
+   "query": "Payday loan store",
+   "caption": "~400% APR",
+   "cuts": 3
+  },
+  {
+   "text": "The real trap is the rollover. Many borrowers can't repay the full amount in two weeks, so they pay the fee and borrow again. The CFPB has found that most payday loan fees come from borrowers stuck in long sequences of loans. A four hundred dollar loan can turn into hundreds of dollars in fees over a few months.",
+   "query": "Calendar repeating payments",
+   "caption": "THE ROLLOVER TRAP",
+   "cuts": 3
+  },
+  {
+   "text": "Payday lending rules vary a lot by state. Some states ban high cost payday loans, others allow them. But everywhere, they're one of the most expensive forms of credit available.",
+   "query": "United States map",
+   "caption": "RULES VARY BY STATE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if you're a member of a federal credit union, ask about a payday alternative loan. These small loans are regulated by the National Credit Union Administration, with interest rates capped at twenty eight percent. Still not cheap, but a fraction of a payday loan.",
+   "query": "Credit union loan officer",
+   "caption": "PAYDAY ALTERNATIVE LOANS",
+   "cuts": 3
+  },
+  {
+   "text": "A typical payday loan costs fifteen dollars per one hundred borrowed for two weeks. That's close to four hundred percent a year. A federal credit union payday alternative loan is capped at twenty eight percent.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Payday loan",
+     "big": "~400%",
+     "sub": "APR, typical (CFPB)"
+    },
+    "right": {
+     "label": "Credit union PAL",
+     "big": "\u226428%",
+     "sub": "APR cap (NCUA)"
+    },
+    "note": "Sources: CFPB, National Credit Union Administration"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Cost number four. Rent to own.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Rent to own",
+    "sub": "paying double for a sofa"
+   },
+   "caption": "FEE 4",
+   "cuts": 1,
+   "chapter": "4. Rent to own"
+  },
+  {
+   "text": "Rent to own stores let you take home furniture, appliances or electronics with no credit check, for weekly or monthly payments. If you keep paying long enough, you own it. It sounds accessible. But the total cost can be two or even three times the regular retail price.",
+   "query": "Rent to own store",
+   "caption": "NO CREDIT CHECK",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine a TV that costs five hundred dollars at a regular store. On a rent to own plan, the total payments to own it could be over one thousand dollars. And if you miss payments, the store can take it back, and you keep none of what you've paid.",
+   "query": "Television living room",
+   "caption": "$500 TV, $1,000+ COST",
+   "cuts": 3
+  },
+  {
+   "text": "Rent to own contracts are also often structured so that the weekly payment looks tiny. Twenty or thirty dollars a week feels manageable. But multiply by the number of weeks in the contract, and the total tells a very different story. It's the same partitioned price trick we see with buy now, pay later, just older.",
+   "query": "Weekly payment calendar",
+   "caption": "THE WEEKLY PAYMENT TRICK",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: for things you truly need, look for used options, community buy nothing groups, or save for a few weeks and buy outright. For a temporary need, renting can make sense. For owning, it's one of the most expensive paths there is.",
+   "query": "Used furniture marketplace",
+   "caption": "USED OR SAVE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number five. The low credit score tax.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "The low credit tax",
+    "sub": "higher rates on everything"
+   },
+   "caption": "FEE 5",
+   "cuts": 1,
+   "chapter": "5. The low credit tax"
+  },
+  {
+   "text": "A lower credit score raises the price of almost everything you borrow. Car loans, credit cards, personal loans and mortgages all cost more. The difference between a high score and a low score can be the difference between a car loan at around seven percent and one at fifteen percent or more.",
+   "query": "Credit score gauge low",
+   "caption": "HIGHER RATES",
+   "cuts": 3
+  },
+  {
+   "text": "Low credit also affects things that aren't loans at all. Some landlords check credit before renting. Some employers review credit information for certain jobs, where allowed by law. And in many states, insurers use credit based scores. A low score quietly raises the cost of living in many directions at once.",
+   "query": "Rental application form",
+   "caption": "IT REACHES EVERYWHERE",
+   "cuts": 3
+  },
+  {
+   "text": "On a twenty thousand dollar car loan over five years, going from seven percent to fifteen percent adds roughly four thousand eight hundred dollars in extra interest. Same car. Same price. Thousands more, because of a number on a report.",
+   "query": "Car loan document",
+   "caption": "+$4,800 FOR THE SAME CAR",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: get your free credit reports at annual credit report dot com and dispute any errors. Pay every bill on time, even if it's just the minimum. And keep card balances low. Scores can improve faster than many people think, often within months.",
+   "query": "Credit report review",
+   "caption": "FIX ERRORS, PAY ON TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number six. Security deposits.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Deposits everywhere",
+    "sub": "paying upfront for trust"
+   },
+   "caption": "FEE 6",
+   "cuts": 1,
+   "chapter": "6. Deposits everywhere"
+  },
+  {
+   "text": "Without good credit, many companies ask for deposits. A bigger security deposit on an apartment. Deposits for electricity, gas, internet and phone service. Some landlords ask for extra months up front. That money is locked away, often when you can least afford it.",
+   "query": "Apartment keys and lease",
+   "caption": "PAY UPFRONT",
+   "cuts": 3
+  },
+  {
+   "text": "These deposits can add up to hundreds or even thousands of dollars, making it harder to move to a better or cheaper place. Someone with good credit simply signs and moves in.",
+   "query": "Moving boxes apartment",
+   "caption": "HARDER TO MOVE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: ask utilities whether they'll waive the deposit if you set up autopay, or after a period of on time payments. And ask landlords if they accept a letter showing on time rent history. Many have flexibility they don't advertise.",
+   "query": "Utility bill and phone",
+   "caption": "ASK FOR A WAIVER",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number seven. Prepaid card fees.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Prepaid card fees",
+    "sub": "fees to use your own money"
+   },
+   "caption": "FEE 7",
+   "cuts": 1,
+   "chapter": "7. Prepaid card fees"
+  },
+  {
+   "text": "Prepaid debit cards are popular with people who don't have bank accounts. But many have fees. Fees to buy the card, monthly fees, reload fees, ATM fees and even fees for checking your balance on some cards. Each one is small. Together, they can easily cost more than a basic bank account.",
+   "query": "Prepaid card rack store",
+   "caption": "FEES TO USE YOUR MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Since twenty nineteen, the CFPB's prepaid rule requires clear fee disclosures on prepaid cards, which makes comparison easier. Look for the short form disclosure on the package.",
+   "query": "Prepaid card packaging",
+   "caption": "READ THE FEE BOX",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: compare your yearly prepaid card fees with a Bank On certified account or a free online checking account. For many people, switching saves money right away.",
+   "query": "Comparison chart",
+   "caption": "COMPARE AND SWITCH",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number eight. Car title loans.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Title loans",
+    "sub": "risking the car you need"
+   },
+   "caption": "FEE 8",
+   "cuts": 1,
+   "chapter": "8. Title loans"
+  },
+  {
+   "text": "A car title loan lets you borrow against your car, using the title as collateral. Interest rates are often extremely high, and the loans are short. The CFPB found that about one in five single payment title loan sequences ended with the borrower's car being repossessed.",
+   "query": "Car title document",
+   "caption": "1 IN 5 LOSE THE CAR",
+   "cuts": 3
+  },
+  {
+   "text": "Losing the car can mean losing the ability to get to work, which makes everything worse. A loan meant to solve a short term problem can create a much bigger one.",
+   "query": "Person waiting at bus stop",
+   "caption": "NO CAR, NO JOB?",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: before a title loan, call your creditors and ask for a payment plan, check local assistance programs by dialing two one one, and ask a credit union about small loans. Almost any alternative is safer than risking your car.",
+   "query": "Phone dialing 211",
+   "caption": "TRY 211 FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "That's eight costs of banking and borrowing. Now the hidden costs that don't show up on any statement.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. Seven costs of time, energy and buying small.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Cost number nine. Buying in small quantities.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Buying small",
+    "sub": "the unit price penalty"
+   },
+   "caption": "FEE 9",
+   "cuts": 1,
+   "chapter": "9. Buying small",
+   "short_hook": "The boots theory: why cheap things cost more"
+  },
+  {
+   "text": "Buying in bulk is usually cheaper per unit. The big pack of toilet paper, the large bag of rice, the family size detergent. But bulk buying requires extra cash today, storage space, and often a car to get to a warehouse store. Without those, people buy small, and pay more per unit.",
+   "query": "Bulk products warehouse store",
+   "caption": "BULK IS CHEAPER",
+   "cuts": 3
+  },
+  {
+   "text": "Small differences per item add up across a whole year of groceries and household supplies. It's a quiet tax on not having extra cash or space.",
+   "query": "Small grocery bag",
+   "caption": "A QUIET TAX",
+   "cuts": 3
+  },
+  {
+   "text": "Location matters too. In some low income neighborhoods, there are fewer full size grocery stores, so people shop at convenience stores where prices are often higher and choices are fewer. Researchers call these areas food deserts. The same groceries can cost more simply because of where you live.",
+   "query": "Corner convenience store",
+   "caption": "WHERE YOU LIVE MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: check unit prices on shelf tags, which show the price per ounce or per count. Team up with a friend or neighbor to split bulk packs. And buy bulk only for things you use often and that don't spoil.",
+   "query": "Unit price label shelf",
+   "caption": "CHECK UNIT PRICES",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number ten. The boots theory.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "The boots theory",
+    "sub": "cheap things cost more"
+   },
+   "caption": "FEE 10",
+   "cuts": 1,
+   "chapter": "10. The boots theory"
+  },
+  {
+   "text": "The author Terry Pratchett described it through a character named Sam Vimes. A rich man buys good boots for fifty dollars that last ten years. A poor man can only afford ten dollar boots that last a season. Over ten years, the poor man spends far more on boots, and still has wet feet.",
+   "query": "Worn out boots",
+   "caption": "THE BOOTS THEORY",
+   "cuts": 3
+  },
+  {
+   "text": "It's fiction, but it describes something real. Cheaper versions of shoes, appliances, tools and cars often wear out faster. Without the cash to buy quality up front, people end up buying again and again.",
+   "query": "Broken cheap appliance",
+   "caption": "BUYING AGAIN AND AGAIN",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: for things you use daily, like shoes, a mattress or tools, look for quality used versions, which can offer durability at a lower price. And save in a sinking fund so the next replacement can be a better one.",
+   "query": "Quality used shoes",
+   "caption": "QUALITY USED",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number eleven. The time tax.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "The time tax",
+    "sub": "hours instead of dollars"
+   },
+   "caption": "FEE 11",
+   "cuts": 1,
+   "chapter": "11. The time tax"
+  },
+  {
+   "text": "Without a car, a trip to the grocery store, a job interview or a doctor's appointment can take hours by public transit. Without paid leave, a sick day means lost wages. Without a washer, laundry means hours at a laundromat. Being poor often costs time, and time is money you can't earn back.",
+   "query": "Long bus commute",
+   "caption": "HOURS, NOT DOLLARS",
+   "cuts": 3
+  },
+  {
+   "text": "There's also the paperwork. Applying for benefits, proving eligibility, waiting on hold, renewing documents. Researchers sometimes call this administrative burden. It falls hardest on the people with the least time and flexibility.",
+   "query": "Waiting room line",
+   "caption": "ADMINISTRATIVE BURDEN",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: batch errands, use online services when possible, and ask employers about flexible scheduling. Small time savings free up energy for the bigger moves that change your situation.",
+   "query": "Phone online appointment",
+   "caption": "BATCH AND MOVE ONLINE",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number twelve. The bandwidth tax.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "The bandwidth tax",
+    "sub": "scarcity drains the mind"
+   },
+   "caption": "FEE 12",
+   "cuts": 1,
+   "chapter": "12. The bandwidth tax"
+  },
+  {
+   "text": "Researchers Sendhil Mullainathan and Eldar Shafir described how scarcity uses up mental bandwidth. In one well known study, people facing money worries performed worse on cognitive tests, as if they had lost a night's sleep. Not because they were less capable, but because worry was taking up mental space.",
+   "query": "Stressed person thinking",
+   "caption": "WORRY TAKES SPACE",
+   "cuts": 3
+  },
+  {
+   "text": "That's important, because managing money with little cushion requires the most planning, comparing and remembering. The situation demands more bandwidth and leaves less of it. It's one of the cruelest parts of being poor.",
+   "query": "Juggling balls",
+   "caption": "MORE DEMAND, LESS BANDWIDTH",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: reduce the number of decisions you have to make. Automate bill payments when you can, set reminders for due dates, and use simple rules. Systems save bandwidth for the decisions that matter.",
+   "query": "Phone reminders calendar",
+   "caption": "SYSTEMS SAVE BANDWIDTH",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number thirteen. Late fee cascades.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Late fee cascades",
+    "sub": "one late bill becomes three"
+   },
+   "caption": "FEE 13",
+   "cuts": 1,
+   "chapter": "13. Late fee cascades"
+  },
+  {
+   "text": "When money is tight, one late bill can trigger others. A late rent payment means a late fee. Paying that fee makes the phone bill late. The phone bill late fee makes the card payment late. Each fee makes the next payment harder. Within a month, a small shortfall can become a pile of fees.",
+   "query": "Stack of overdue bills",
+   "caption": "ONE BECOMES THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Late payments can also be reported to credit bureaus once they're thirty days or more past due, which lowers your score, which raises your future borrowing costs. So a single tight month can echo for years, through higher interest on the next car loan or credit card.",
+   "query": "Credit report late mark",
+   "caption": "IT ECHOES FOR YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Late fees on rent, utilities, credit cards and loans can each be twenty five to fifty dollars or more. Three or four in one month can cost over one hundred dollars, often more than the original shortfall.",
+   "query": "Calculator fees",
+   "caption": "$100+ IN A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: when you know a payment will be late, call before the due date. Many landlords, utilities and lenders will waive a fee or agree to a short delay if you ask early. Calling after it's late is much harder.",
+   "query": "Person calling landlord",
+   "caption": "CALL BEFORE IT'S LATE",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number fourteen. Higher insurance costs.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Higher insurance costs",
+    "sub": "credit and coverage"
+   },
+   "caption": "FEE 14",
+   "cuts": 1,
+   "chapter": "14. Higher insurance costs"
+  },
+  {
+   "text": "In many states, insurers use credit based insurance scores to help set car and home insurance prices. That means people with lower credit can pay more for the same coverage. And to keep premiums affordable, many people choose high deductibles, which can be hard to pay when something actually happens.",
+   "query": "Car insurance documents",
+   "caption": "CREDIT AFFECTS PREMIUMS",
+   "cuts": 3
+  },
+  {
+   "text": "Then there's being uninsured. Without health insurance, a single emergency room visit can cost thousands of dollars. Without renter's insurance, a fire or theft can mean losing everything.",
+   "query": "Emergency room entrance",
+   "caption": "THE COST OF NO COVERAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: shop insurance every year, ask about discounts, and check if you qualify for subsidized health coverage through the official marketplace at health care dot gov, or Medicaid in your state. Renter's insurance is often surprisingly cheap.",
+   "query": "Healthcare marketplace website",
+   "caption": "SHOP AND CHECK SUBSIDIES",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number fifteen. Monthly account and ATM fees.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Account and ATM fees",
+    "sub": "small balances, big fees"
+   },
+   "caption": "FEE 15",
+   "cuts": 1,
+   "chapter": "15. Account and ATM fees"
+  },
+  {
+   "text": "Many accounts waive monthly fees if you keep a minimum balance. People with low balances pay those fees, and people with high balances don't. And without a nearby in network ATM, withdrawing cash can cost several dollars each time.",
+   "query": "ATM fee screen",
+   "caption": "FEES FOR LOW BALANCES",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: look for accounts with no monthly fees and no minimum balance, including many online banks and credit unions. Use in network ATMs, or get cash back at stores when buying something you already need.",
+   "query": "Cash back at register",
+   "caption": "NO FEE ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Some employers also offer pay cards instead of direct deposit. By law, they generally have to give you at least one way to get your full pay without a fee. Ask your employer or the card provider how to avoid fees, or ask to switch to direct deposit into your own account.",
+   "query": "Pay card employer",
+   "caption": "ASK ABOUT PAY CARDS",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this video might help someone you know, please share it with them. And subscribe to the channel if it's helping you. It's free, and it helps me keep making these videos. Now, the last five costs, and how to escape them all.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. The last five costs, and then the escape plan.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Cost number sixteen. Fines and fees that grow.",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Fines that grow",
+    "sub": "tickets become debts"
+   },
+   "caption": "FEE 16",
+   "cuts": 1,
+   "chapter": "16. Fines that grow",
+   "short_hook": "How to escape the poverty premium, step by step"
+  },
+  {
+   "text": "A parking ticket or traffic fine might be manageable at first. But if it isn't paid on time, many places add late fees, collection fees, and in some cases suspend driver's licenses. A one hundred dollar ticket can grow into several hundred dollars, and a suspended license can make it harder to work.",
+   "query": "Parking ticket windshield",
+   "caption": "TICKETS GROW",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: contact the court or agency early. Many offer payment plans, reduced fines based on income, or community service options. Some jurisdictions run amnesty programs. Ignoring it is the most expensive choice.",
+   "query": "Courthouse building",
+   "caption": "ASK FOR A PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "Also check whether a fine has turned into a license suspension without you knowing. Driving on a suspended license can lead to much bigger penalties. Many states have online tools to check your license status, and some have programs to restore licenses suspended only for unpaid fines.",
+   "query": "Driver license card",
+   "caption": "CHECK YOUR LICENSE",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number seventeen. Buy here, pay here car lots.",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Buy here, pay here cars",
+    "sub": "the most expensive cars"
+   },
+   "caption": "FEE 17",
+   "cuts": 1,
+   "chapter": "17. Buy here, pay here cars"
+  },
+  {
+   "text": "Buy here, pay here dealers sell used cars with in house financing, often without a credit check. For people with poor credit, they may seem like the only option. But interest rates can be very high, cars may be priced above their value, and some dealers repossess quickly when a payment is missed.",
+   "query": "Used car lot small",
+   "caption": "BUY HERE, PAY HERE",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: before visiting one, check with a credit union, even with imperfect credit. Some offer loans designed for rebuilding credit. And consider a cheaper car bought partly with savings, with an independent mechanic's inspection.",
+   "query": "Mechanic inspecting car",
+   "caption": "CREDIT UNION FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "And read the contract carefully. Look for the APR, the total of payments, and what happens if you're late. Some contracts allow the dealer to install devices that disable the car if a payment is missed. Know exactly what you're agreeing to before you sign.",
+   "query": "Car loan contract",
+   "caption": "READ THE TOTAL OF PAYMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number eighteen. Medical debt.",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Medical debt",
+    "sub": "the bill you didn't choose"
+   },
+   "caption": "FEE 18",
+   "cuts": 1,
+   "chapter": "18. Medical debt"
+  },
+  {
+   "text": "Medical debt is one of the most common kinds of debt in collections. The CFPB has estimated that medical bills on credit reports totaled around eighty eight billion dollars. People with less savings and less insurance are hit hardest, and medical debt can then damage their credit, raising the cost of everything else.",
+   "query": "Hospital bill paper",
+   "caption": "$88 BILLION ON REPORTS",
+   "cuts": 3
+  },
+  {
+   "text": "There's been some progress. The major credit bureaus stopped reporting paid medical collections, and medical collections under five hundred dollars, in recent years. And many nonprofit hospitals are required to have financial assistance policies.",
+   "query": "Hospital building",
+   "caption": "SOME PROGRESS",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: always ask for an itemized bill and check for errors. Ask the hospital about financial assistance or charity care, which you may qualify for even with a job. And ask for a payment plan with no interest before the bill goes to collections.",
+   "query": "Itemized medical bill review",
+   "caption": "ASK FOR ASSISTANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number nineteen. Missing out on employer benefits.",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Missing the match",
+    "sub": "the benefits gap"
+   },
+   "caption": "FEE 19",
+   "cuts": 1,
+   "chapter": "19. Missing the match"
+  },
+  {
+   "text": "When every dollar is needed for this week, saving for retirement can feel impossible. So many lower income workers don't contribute enough to get their employer's retirement match, which is essentially part of their pay left on the table. Some jobs don't offer retirement plans at all.",
+   "query": "Retirement plan enrollment form",
+   "caption": "LEAVING THE MATCH",
+   "cuts": 3
+  },
+  {
+   "text": "There's also the Saver's Credit, a federal tax credit for low and moderate income workers who contribute to retirement accounts. Many eligible people don't know it exists. The IRS has information on who qualifies.",
+   "query": "IRS tax credit form",
+   "caption": "THE SAVER'S CREDIT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: if your employer offers a match, try to contribute at least one percent, then increase it as you can. And check whether you qualify for the Saver's Credit when you file taxes.",
+   "query": "Paycheck with deduction",
+   "caption": "START WITH 1%",
+   "cuts": 3
+  },
+  {
+   "text": "Cost number twenty. Having no cushion at all.",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "No cushion",
+    "sub": "the cost behind all costs"
+   },
+   "caption": "FEE 20",
+   "cuts": 1,
+   "chapter": "20. No cushion"
+  },
+  {
+   "text": "This is the cost behind almost every other cost on this list. Without even a small emergency fund, every surprise turns into a fee, a high interest loan or a late payment. The cushion is what separates an inconvenience from a crisis.",
+   "query": "Empty savings jar",
+   "caption": "THE COST BEHIND ALL COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "Even a few hundred dollars can make a huge difference. It can stop an overdraft, avoid a payday loan, or cover a car repair. It's not a lot of money, but it breaks the chain of fees.",
+   "query": "Small savings envelope",
+   "caption": "A FEW HUNDRED DOLLARS",
+   "cuts": 3
+  },
+  {
+   "text": "Research supports this. Studies of emergency savings have found that even small amounts of liquid savings are linked to fewer missed bill payments and less use of high cost credit. A small cushion isn't just comforting. It changes outcomes.",
+   "query": "Research report document",
+   "caption": "SMALL SAVINGS, BIG EFFECT",
+   "cuts": 3
+  },
+  {
+   "text": "Try this: start with a goal of five hundred dollars. Save small amounts automatically, and put any windfalls, like tax refunds, straight into it. Keep it in a separate account so it doesn't get spent by accident.",
+   "query": "Separate savings account app",
+   "caption": "START WITH $500",
+   "cuts": 3
+  },
+  {
+   "text": "It's worth saying clearly. None of the twenty costs we've covered requires a bad decision. A low balance, an old car, a medical emergency or a gap between jobs can happen to anyone. That's why the escape plan focuses on building systems, a safe account, a small cushion and better credit, instead of on willpower. Systems keep working on the hard weeks, when willpower runs out.",
+   "query": "Gears working together",
+   "caption": "SYSTEMS OVER WILLPOWER",
+   "cuts": 3,
+   "chapter": "The escape plan"
+  },
+  {
+   "text": "So how do you escape the poverty premium? Here's a step by step plan. It starts small, on purpose.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Step one. Get a safe, low cost account. A Bank On certified account or a credit union account with no overdraft fees. This alone can save hundreds of dollars a year in check cashing, prepaid card and overdraft fees.",
+   "query": "Opening bank account",
+   "caption": "STEP 1: A SAFE ACCOUNT",
+   "cuts": 3
+  },
+  {
+   "text": "Step two. Build a starter cushion of five hundred dollars. Even ten or twenty dollars a week adds up. This is the wall that stops the cascade of fees. Step three. Replace the most expensive debt first. If you have a payday or title loan, look for a credit union alternative to pay it off.",
+   "query": "Savings jar growing",
+   "caption": "STEPS 2 AND 3",
+   "cuts": 3
+  },
+  {
+   "text": "Step four. Start building credit. A secured credit card, used for one small bill each month and paid in full, can build a score over time. Credit builder loans from credit unions are another option. Better credit lowers the cost of almost everything else.",
+   "query": "Secured credit card",
+   "caption": "STEP 4: BUILD CREDIT",
+   "cuts": 3
+  },
+  {
+   "text": "Step five. Claim what you're owed. Check eligibility for the Earned Income Tax Credit, the Saver's Credit, health insurance subsidies, and local assistance programs. Many eligible people never claim them. The IRS says about one in five eligible workers don't claim the Earned Income Tax Credit.",
+   "query": "Tax refund credit form",
+   "caption": "STEP 5: CLAIM WHAT YOU'RE OWED",
+   "cuts": 3
+  },
+  {
+   "text": "And step six. Grow income. A certification, a trade skill, a better paying role, or a side income with a clear goal. Cutting costs has limits. Raising income doesn't. And every dollar of new income, once the cushion is in place, can go toward the future instead of fees.",
+   "query": "Trade school training",
+   "caption": "STEP 6: GROW INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "The Earned Income Tax Credit can be worth thousands of dollars for working families. But according to the IRS, about one in five eligible workers don't claim it.",
+   "card": {
+    "type": "stat",
+    "label": "earned income tax credit",
+    "big": "1 IN 5",
+    "sub": "eligible workers don't claim it (IRS)"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Let's add up a realistic year for someone without a cushion, using modest numbers. Check cashing on paychecks, perhaps two hundred to three hundred dollars. A few overdraft fees, around one hundred dollars. Three late fees, about one hundred dollars. One payday loan rolled over twice, around one hundred eighty dollars in fees.",
+   "query": "Calculator and receipts",
+   "caption": "ADDING IT UP",
+   "cuts": 3,
+   "chapter": "What the poverty premium costs in a year"
+  },
+  {
+   "text": "Add higher interest on a car loan because of a lower credit score, maybe eight hundred to one thousand dollars a year. A higher insurance premium, a few hundred dollars. Prepaid card fees, rent to own markups, and buying small. Quickly, the total can reach two thousand to three thousand dollars a year, depending on the person.",
+   "query": "Bills stacked high",
+   "caption": "$2,000 TO $3,000 A YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Fees, interest and higher prices can add up to two to three thousand dollars a year for a household without a cushion. That money could have been the cushion.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Poverty premium",
+     "big": "$2-3K",
+     "sub": "a year, rough estimate"
+    },
+    "right": {
+     "label": "Could become",
+     "big": "A cushion",
+     "sub": "in a single year"
+    },
+    "note": "Illustration. Actual costs vary widely."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's the cruel irony. Two to three thousand dollars a year is more than enough to build a solid starter emergency fund. The money that's lost to the poverty premium is often exactly the money that could end it. That's why the first steps of the escape plan focus on stopping fees, not on cutting groceries.",
+   "query": "Broken chain",
+   "caption": "THE MONEY THAT COULD END IT",
+   "cuts": 3
+  },
+  {
+   "text": "If you only do five things from this video, do these. They usually save the most money for the least effort.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The five biggest quick wins"
+  },
+  {
+   "text": "Win one. Move to a no overdraft, low fee account. Win two. Never roll over a payday loan, and replace it with a credit union alternative if you can. Win three. Call before any bill is late, and ask for a fee waiver or a short delay.",
+   "query": "Checklist phone",
+   "caption": "WINS 1 TO 3",
+   "cuts": 3
+  },
+  {
+   "text": "Win four. File your taxes, even if your income is low, and check for the Earned Income Tax Credit. It can be worth thousands of dollars, and many eligible people miss it. Free help is available through the IRS's VITA program. And win five. Automate a tiny weekly savings transfer, even ten dollars, into a separate account. That's the seed of your cushion.",
+   "query": "Tax forms and coins",
+   "caption": "WINS 4 AND 5",
+   "cuts": 3
+  },
+  {
+   "text": "Let's see how much the poverty premium can cost in a year, with two neighbors earning the same income. Tanya cashes her paychecks at a check cashing store, uses a prepaid card, and has no savings. When her car broke down, she took a payday loan and rolled it over twice. She paid several overdraft and late fees during the year.",
+   "query": "Woman at check cashing store",
+   "caption": "TANYA: NO CUSHION",
+   "cuts": 3,
+   "chapter": "Two neighbors, same income",
+   "short_hook": "Same income, $2,000 a year difference. Here's why."
+  },
+  {
+   "text": "Add it up, and Tanya paid easily over one thousand dollars in fees and interest that year, possibly closer to two thousand. Not because she was careless. Because every surprise cost her extra, and she had no other options she knew about.",
+   "query": "Pile of receipts fees",
+   "caption": "$1,000 TO $2,000 IN FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Her neighbor Maria earns the same. But a friend told her about a credit union with a free account and no overdraft fees. Maria set up automatic savings of fifteen dollars a week, and built a cushion of about seven hundred dollars over the year. When her car broke down, she paid from savings and a small credit union loan.",
+   "query": "Woman at credit union counter",
+   "caption": "MARIA: THE CREDIT UNION",
+   "cuts": 3
+  },
+  {
+   "text": "Maria paid almost nothing in fees. Same income, same city, same kind of emergency. But a gap of over a thousand dollars a year. Over five years, that gap could be enough to build a real emergency fund, or start investing. The poverty premium is real. And for many people, small changes can cut it dramatically.",
+   "query": "Two paths split",
+   "caption": "SAME INCOME, DIFFERENT COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "Fast forward three years. Maria's cushion has grown to a full month of expenses. Her credit score is good enough for a normal car loan rate. She contributes to her employer's retirement plan and gets the match. Tanya, still paying the premium, is in a similar place to where she started, through no lack of effort. Then a coworker tells Tanya about the credit union. Within a year, her fees drop to almost nothing, and her own cushion begins.",
+   "query": "Two women talking at work",
+   "caption": "THREE YEARS LATER",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson isn't that one neighbor was smarter. It's that information is one of the most valuable things in personal finance. Maria heard about a better option first. That's why sharing what you learn matters. Someone you know might be paying the poverty premium right now, simply because nobody told them there's another way.",
+   "query": "Friends sharing information",
+   "caption": "SHARE WHAT YOU LEARN",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer a few questions people ask about the cost of being poor.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. I've been rejected by banks before. What can I do? Ask about second chance checking accounts, designed for people with past banking problems. Many banks and credit unions offer them. You can also request your ChexSystems report, a record banks use, to see why you were rejected and dispute errors.",
+   "query": "Bank rejection letter",
+   "caption": "REJECTED BEFORE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Are payday loans ever okay? They're one of the most expensive options available. Before using one, call creditors, ask your employer about a paycheck advance, look for credit union alternatives, and check local assistance through two one one. If you do use one, have a clear plan to repay it on the first due date, without rolling it over.",
+   "query": "Payday loan sign",
+   "caption": "ARE PAYDAY LOANS OKAY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. How long does it take to build credit? With a secured card or credit builder loan and on time payments, many people see a score within about six months, and improvement over a year or two. Consistency matters more than anything else.",
+   "query": "Credit score rising",
+   "caption": "HOW LONG FOR CREDIT?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Where can I get free help? Nonprofit credit counseling agencies, local credit unions, community action agencies and free tax preparation programs, like the IRS's VITA program, can all help. Dial two one one to find local services.",
+   "query": "Community center help desk",
+   "caption": "FREE HELP",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. What if I'm already behind on several bills? Make a list of everything you owe and when. Protect housing, utilities, food and transportation to work first. Then call each creditor, explain your situation and ask for a plan. A nonprofit credit counselor can help you prioritize and sometimes negotiate on your behalf, often for free or a small fee.",
+   "query": "List of bills on table",
+   "caption": "ALREADY BEHIND?",
+   "cuts": 3
+  },
+  {
+   "text": "And question six. Isn't this a system problem, not a personal one? Yes, a lot of it is. The poverty premium is built into how many products are priced. That's worth changing, and regulators and advocates are working on it. But while the system changes slowly, knowing these costs and the alternatives can put real money back in your pocket today.",
+   "query": "Capitol building",
+   "caption": "A SYSTEM PROBLEM?",
+   "cuts": 3
+  },
+  {
+   "text": "One more thought before the recap. If you're living with the poverty premium right now, you're dealing with a harder version of personal finance than most money advice assumes. The fact that you're watching a thirty minute video about it says a lot about your determination. Small steps count more here than anywhere else, because each fee you stop is money that stays with you, every single month.",
+   "query": "Determined person walking sunrise",
+   "caption": "SMALL STEPS COUNT MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. The banking and borrowing costs: overdraft fees, check cashing, payday loans, rent to own, the low credit tax, deposits, prepaid card fees and title loans. The time and energy costs: buying small, the boots theory, the time tax, the bandwidth tax, late fee cascades, higher insurance costs, and account fees.",
+   "query": "Checklist clipboard",
+   "caption": "THE FIRST 15",
+   "cuts": 3,
+   "chapter": "Recap: all 20 costs",
+   "short_hook": "20 hidden costs of being poor"
+  },
+  {
+   "text": "And the last five: fines that grow, buy here pay here cars, medical debt, missing employer benefits, and the cost behind all costs, having no cushion. The escape plan: a safe account, a five hundred dollar cushion, replace the worst debt, build credit, claim what you're owed, and grow your income.",
+   "query": "Stairs going up",
+   "caption": "THE LAST 5 AND THE ESCAPE",
+   "cuts": 3
+  },
+  {
+   "text": "If you want the full plan from zero to a real emergency fund and beyond, it's in my playbook. The link is in the description. And watch my video on why most people stay broke, and how to escape. It's the perfect next step after this one. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

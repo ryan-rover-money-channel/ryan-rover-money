@@ -1,0 +1,7 @@
+- Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit (auto loan balances around $1.6 trillion)
+- Edmunds and Experian, recent quarterly auto finance reports (average monthly payments, loan terms, negative equity on trade-ins)
+- Kelley Blue Book, average transaction price for new vehicles (close to $50,000)
+- AAA, Your Driving Costs (average yearly cost of owning a new vehicle, over $11,000)
+- U.S. Census Bureau, median household income
+- Thomas J. Stanley, research on millionaires' car choices (The Millionaire Next Door)
+- Loan, interest and growth figures: stated illustrative math

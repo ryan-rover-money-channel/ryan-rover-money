@@ -8,6 +8,9 @@ on:
         description: "check (test the credentials), upload (calendar) or lote (long videos 01-10 only)"
         required: true
         default: check
+      shorts:
+        description: "1 = also upload the Shorts listed in the calendar (2 per day, 20:00 and 00:00 UTC)"
+        required: false
       budget:
         description: "quota units to spend this run (default 9900; YouTube stops the run on its own if the real quota is hit)"
         required: false
@@ -26,6 +29,7 @@ jobs:
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       EBOOK_URL: ${{ vars.EBOOK_URL }}
       YT_BUDGET: ${{ inputs.budget || vars.YT_BUDGET }}
+      YT_SHORTS: ${{ inputs.shorts || vars.YT_SHORTS }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4

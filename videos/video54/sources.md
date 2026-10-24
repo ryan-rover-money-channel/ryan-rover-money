@@ -1,0 +1,8 @@
+- Growth figures: stated illustrative math at a 7% average yearly return
+- Federal Reserve, G.19 Consumer Credit (credit card interest rates)
+- Consumer Financial Protection Bureau, credit card and student loan guides
+- Federal Student Aid (studentaid.gov), repayment and forgiveness programs
+- IRS, 401(k) and Roth IRA rules and income limits
+- FICO, What's in my FICO Scores
+- Fidelity, retirement savings guidelines by age
+- U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics

@@ -1,0 +1,8 @@
+- Federal Reserve, Economic Well-Being of U.S. Households (SHED): share of adults who would cover a $400 expense with cash or its equivalent
+- Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit (credit card balances above $1 trillion)
+- Federal Reserve, G.19 Consumer Credit (credit card interest rates above 20%)
+- U.S. Bureau of Economic Analysis, Personal Saving Rate
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth under 35: $39,040)
+- Mullainathan and Shafir, Scarcity: Why Having Too Little Means So Much (2013)
+- Richard Thaler, mental accounting research; IRS catch-up contribution rules (check current limits)
+- Debt payoff and growth figures: stated illustrative math

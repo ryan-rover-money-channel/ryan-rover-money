@@ -1,0 +1,5 @@
+- Consumer Financial Protection Bureau, Buy Now, Pay Later: Market Trends and Consumer Impacts (2022): loans from five lenders grew from about $2 billion (2019) to over $24 billion (2021)
+- Consumer Financial Protection Bureau, Consumer Use of Buy Now, Pay Later and Other Unsecured Debt (2025): about 63% of borrowers had multiple simultaneous loans; about a third used multiple lenders; users more likely to carry other debt
+- Federal Reserve, Economic Well-Being of U.S. Households (SHED): BNPL use and late payments
+- Research on partitioned pricing and the pain of paying
+- Payment totals: stated illustrative math

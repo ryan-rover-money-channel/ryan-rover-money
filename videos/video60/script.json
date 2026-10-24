@@ -1,0 +1,911 @@
+{
+ "id": "video60",
+ "angle": "broke to $1 million: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "The Ryan Rover Money Playbook: From Broke to $1 Million",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. This is the video I've been building toward. Everything this channel teaches, in one place. The complete playbook from broke to one million dollars. Not through luck, not through a hot stock, and not through a six figure salary. Through nine stages that ordinary people can follow, one step at a time.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Let's be clear about what broke means. Maybe you have zero in savings. Maybe you have credit card debt and a car loan. Maybe your net worth is negative. That's where many people start. In fact, according to the Federal Reserve's Survey of Consumer Finances, a meaningful share of American families have negative net worth, meaning they owe more than they own.",
+   "query": "Empty wallet and bills",
+   "caption": "WHAT BROKE MEANS",
+   "cuts": 8,
+   "short_hook": "The complete playbook from broke to $1 million"
+  },
+  {
+   "text": "And one million dollars? It's not a magic number. But it's a powerful milestone. Invested and withdrawn carefully, using the four percent guideline, a million dollars could support around forty thousand dollars a year of spending, before Social Security. For many people, that's financial freedom.",
+   "query": "One million dollars milestone",
+   "caption": "WHY $1 MILLION",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at the whole journey from three angles. First, the numbers: how long it really takes, and why it speeds up. Second, the psychology: the mental challenges at each stage, and what keeps people going. And third, the playbook: nine stages, from broke to a million, with the exact moves for each.",
+   "query": "Three paths mountain",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Stay for the stage I call the long middle. It's where most people quit, and it's exactly where the magic starts. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Household data comes from the Federal Reserve's Survey of Consumer Finances and Survey of Household Economics and Decisionmaking. Retirement plan data comes from Fidelity and Vanguard reports. The four percent guideline comes from William Bengen's 1994 research. Growth examples use stated math at a seven percent average yearly return, an illustration, not a promise. This is education, not financial advice.",
+   "query": "Research documents desk",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. How long does it take to go from zero to a million?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Let's assume you've already cleared high interest debt and built your emergency fund, and now you're investing from zero. At a seven percent average yearly return, investing five hundred dollars a month, you could reach one million dollars in about thirty six years. At one thousand dollars a month, about twenty eight years.",
+   "query": "Long road timeline",
+   "caption": "$1,000 A MONTH = ~28 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "At fifteen hundred dollars a month, about twenty three years. And at two thousand dollars a month, about twenty years. Double your monthly investment, and you cut the timeline by roughly eight years. That's why growing your income and savings rate matters so much.",
+   "query": "Shorter road timeline",
+   "caption": "$2,000 A MONTH = ~20 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Years to reach one million dollars from zero, at a seven percent average yearly return.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "$1,000 a month",
+     "big": "~28 years",
+     "sub": "$330K contributed"
+    },
+    "right": {
+     "label": "$2,000 a month",
+     "big": "~20 years",
+     "sub": "$470K contributed"
+    },
+    "note": "Illustration at 7% a year. Returns are not guaranteed."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Now here's the most important chart in this video. Investing one thousand dollars a month at seven percent, the first one hundred thousand dollars takes about six point seven years. The second hundred thousand takes about four and a half years. The third, about three and a half.",
+   "query": "Bar chart shrinking",
+   "caption": "EACH $100K COMES FASTER",
+   "cuts": 3
+  },
+  {
+   "text": "And the tenth hundred thousand, the one that takes you from nine hundred thousand to a million, takes only about sixteen months. Same contribution every month. The difference is that your money is now doing most of the work. That's compounding.",
+   "query": "Snowball growing huge",
+   "caption": "THE LAST $100K: ~16 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Investing one thousand dollars a month at seven percent a year for thirty years.",
+   "card": {
+    "type": "growth",
+    "monthly": 1000,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "After thirty years at one thousand dollars a month, you could have about one point two two million dollars. You'd have contributed three hundred sixty thousand. The other roughly eight hundred sixty thousand is growth. In the later years, your portfolio can grow by more in a good year than you contribute in an entire decade.",
+   "query": "Portfolio growth more than contributions",
+   "caption": "~$860K OF GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "This is why Charlie Munger, Warren Buffett's longtime business partner, reportedly said the first hundred thousand is the hardest. At the start, it's all you. By the end, it's mostly your money. The hardest part of becoming a millionaire is the beginning.",
+   "query": "Charlie Munger portrait",
+   "caption": "THE FIRST $100K IS THE HARDEST",
+   "cuts": 3
+  },
+  {
+   "text": "How common is it? Fidelity has reported hundreds of thousands of 401k accounts with balances of one million dollars or more in recent years, and many of those savers had ordinary incomes and simply contributed for decades. Becoming a millionaire through steady investing is far more common than most people think.",
+   "query": "Fidelity report chart",
+   "caption": "401K MILLIONAIRES",
+   "cuts": 3
+  },
+  {
+   "text": "One more number to keep in mind: inflation. A million dollars in thirty years won't buy what a million buys today. At three percent inflation, it might buy what about four hundred thousand buys now. That's not a reason to give up. It's a reason to start sooner and keep increasing your contributions over time.",
+   "query": "Inflation shrinking dollar",
+   "caption": "INFLATION MATTERS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's put the milestones on a timeline. Investing one thousand dollars a month at seven percent, starting from zero: one hundred thousand dollars after about six point seven years. Two hundred fifty thousand after about thirteen years. Five hundred thousand after about twenty years. And one million after about twenty eight years.",
+   "query": "Milestone timeline",
+   "caption": "$100K, $250K, $500K, $1M",
+   "cuts": 3
+  },
+  {
+   "text": "Look at the gaps. It takes about thirteen years to reach the first quarter million. Then about seven years to double it to half a million. Then about eight years to double it again to a million, while you're contributing the same amount every month. Each doubling takes less of your own effort, because growth is carrying more of the load.",
+   "query": "Doubling chart",
+   "caption": "EACH DOUBLING TAKES LESS EFFORT",
+   "cuts": 3
+  },
+  {
+   "text": "And the stages before investing matter too. Clearing debt and building an emergency fund might take one to four years. Those years don't show up on the million dollar chart, but they're what make the chart possible. Without them, one emergency or one high interest balance can undo years of investing.",
+   "query": "Foundation under building",
+   "caption": "THE YEARS BEFORE THE CHART",
+   "cuts": 3
+  },
+  {
+   "text": "So the math works, and it accelerates. The hard part is staying in the game long enough. That's angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. What it feels like at each part of the journey, and how to keep going.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "At the beginning, the journey feels hopeless. You're paying off debt and saving small amounts. Your net worth might be negative. It's easy to think, this will never work for someone like me. The key here is quick wins: a first five hundred dollars, a first card paid off. Small wins prove the system works.",
+   "query": "Person at bottom of mountain",
+   "caption": "THE BEGINNING: HOPELESS",
+   "cuts": 3,
+   "short_hook": "Why the journey to $1 million feels slow, then sudden"
+  },
+  {
+   "text": "In the early building years, the problem is boredom. You're investing every month, but the balance barely moves. A market drop can wipe out a year of contributions. This is where the urge to do something exciting, like chasing a hot stock or crypto, is strongest. Resist it.",
+   "query": "Bored person watching chart",
+   "caption": "EARLY YEARS: BORING",
+   "cuts": 3
+  },
+  {
+   "text": "Then comes the long middle, roughly from one hundred thousand to five hundred thousand. Progress is real but slow. Life gets expensive: kids, homes, career changes. Lifestyle creep pulls hard. This is where most people stall. Not because they fail, but because they slowly stop increasing their savings.",
+   "query": "Long flat road",
+   "caption": "THE LONG MIDDLE",
+   "cuts": 3
+  },
+  {
+   "text": "And finally, the acceleration. After five hundred thousand, your money starts to grow faster than you can save. Good years can add more than your annual contributions. The challenge here is different: fear of losing what you've built, and the temptation to take big risks or stop too early.",
+   "query": "Rocket accelerating",
+   "caption": "THE ACCELERATION",
+   "cuts": 3
+  },
+  {
+   "text": "Notice that the hardest feelings come at the wrong times. Hopelessness hits when you've barely started, and that's when the system needs patience. Boredom hits when compounding is still small, and that's when it needs consistency. Fear hits when you have the most to lose, and that's when it needs calm. Knowing these feelings are coming makes them much easier to handle.",
+   "query": "Emotional journey map",
+   "caption": "THE FEELINGS ARE PREDICTABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Research in behavioral finance, including work by Daniel Kahneman and Amos Tversky on loss aversion, suggests that losses can feel roughly twice as painful as equal gains feel good. That's why market drops feel so much bigger than market rises. It's normal. The trick is not to let that feeling make your decisions.",
+   "query": "Loss aversion scale",
+   "caption": "LOSSES FEEL TWICE AS BIG",
+   "cuts": 3
+  },
+  {
+   "text": "So build rules for yourself in advance. When the market drops, I keep investing. When I get a raise, half goes to my future. When I feel like quitting, I read my why. Rules made in calm moments protect you in emotional ones.",
+   "query": "Written rules card",
+   "caption": "RULES MADE IN CALM MOMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Mindset one. Focus on the system, not the number. You can't control the market. You can control your savings rate, your fees, your behavior and your income growth. Put your energy there.",
+   "query": "Control dashboard",
+   "caption": "MINDSET 1: THE SYSTEM",
+   "cuts": 3,
+   "chapter": "Five mindset rules for the journey"
+  },
+  {
+   "text": "Mindset two. Measure yearly, not daily. Checking your balance every day makes market noise feel like a crisis. Check once a quarter. Measure progress once a year.",
+   "query": "Yearly calendar",
+   "caption": "MINDSET 2: YEARLY",
+   "cuts": 3
+  },
+  {
+   "text": "Mindset three. Celebrate milestones. Your first ten thousand. Your first hundred thousand. The year your portfolio grew more than you contributed. Celebrating keeps the journey meaningful.",
+   "query": "Celebration milestone",
+   "caption": "MINDSET 3: CELEBRATE",
+   "cuts": 3
+  },
+  {
+   "text": "Mindset four. Never interrupt compounding unnecessarily. Cashing out a retirement account when changing jobs, or selling everything in a crash, can set you back years. Protect the snowball.",
+   "query": "Snowball rolling",
+   "caption": "MINDSET 4: PROTECT THE SNOWBALL",
+   "cuts": 3
+  },
+  {
+   "text": "And mindset five. Remember why. A million dollars isn't the goal. Freedom is. Security for your family. Time for what matters. Write down your why and read it when the journey feels long.",
+   "query": "Handwritten why note",
+   "caption": "MINDSET 5: REMEMBER WHY",
+   "cuts": 3
+  },
+  {
+   "text": "In 1996, researchers Thomas Stanley and William Danko published The Millionaire Next Door. After surveying wealthy Americans, they found something surprising. Many millionaires didn't look rich. They lived in ordinary neighborhoods, drove ordinary cars, and had built their wealth slowly by spending less than they earned and investing the difference.",
+   "query": "Ordinary suburban house",
+   "caption": "THE MILLIONAIRE NEXT DOOR",
+   "cuts": 3,
+   "chapter": "Where the millionaire next door came from"
+  },
+  {
+   "text": "Since then, the tools for ordinary people have improved enormously. The 401k became widespread in the 1980s. Low cost index funds became easy to buy. Automatic enrollment became more common after the Pension Protection Act of 2006. Today, a regular worker can build a diversified portfolio for a tiny fraction of a percent in yearly fees.",
+   "query": "Timeline of investing tools",
+   "caption": "BETTER TOOLS THAN EVER",
+   "cuts": 3
+  },
+  {
+   "text": "That's why this playbook works. It's not a secret. It's the same pattern Stanley and Danko found decades ago, made easier by modern tools. Spend less than you earn. Avoid expensive debt. Invest steadily in low cost funds. And give it time.",
+   "query": "Simple pattern diagram",
+   "caption": "THE SAME PATTERN",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're on this journey, or ready to start, subscribe to the channel. It's free, and it's the best way to follow the whole playbook with me. Now, the nine stages.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Before the stages, here's a quick way to find where you are. Answer these questions in order. The first no is your stage.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Which stage are you in?"
+  },
+  {
+   "text": "Question one. In the last month, did your total debt go down rather than up, and are all your bills on autopay? If no, you're in stage one. Question two. Do you have at least one thousand dollars in a separate savings account? If no, you're in stage two.",
+   "query": "Quiz checklist",
+   "caption": "QUESTIONS 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Are you free of debt above about eight percent interest? If no, stage three. Question four. Do you have three to six months of essential expenses saved? If no, stage four. Question five. Are you investing at least fifteen percent, with at least ten thousand dollars invested? If no, stage five.",
+   "query": "Quiz checklist continued",
+   "caption": "QUESTIONS 3 TO 5",
+   "cuts": 3
+  },
+  {
+   "text": "After that, your stage is simply your invested balance. Under one hundred thousand, stage six. One hundred to five hundred thousand, stage seven. Five hundred thousand to one million, stage eight. Over a million, stage nine. Pause the video and find yours.",
+   "query": "Balance ranges chart",
+   "caption": "THEN IT'S YOUR BALANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three. The playbook. Nine stages from broke to one million dollars. Each stage has one main goal.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Stage 1. Stop the bleeding.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Stop the bleeding",
+    "sub": "from negative to stable"
+   },
+   "caption": "STAGE 1",
+   "cuts": 1,
+   "chapter": "Stage 1. Stop the bleeding",
+   "short_hook": "The 9 stages from broke to $1 million"
+  },
+  {
+   "text": "Stage one. Stop the bleeding. The goal is to stop going further behind. Track your spending for one month. Find the leaks: overdraft fees, unused subscriptions, late payments, high interest borrowing. Set up autopay for minimum payments so you never miss one.",
+   "query": "Plugging a leak",
+   "caption": "STOP GOING BACKWARD",
+   "cuts": 3
+  },
+  {
+   "text": "If you're using payday loans or carrying overdrafts, getting out of those comes first. The Consumer Financial Protection Bureau has reported that typical payday loans can carry annual percentage rates of almost four hundred percent. Escaping that cycle is the first big win.",
+   "query": "Payday loan sign",
+   "caption": "ESCAPE THE WORST DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need perfection at this stage. You need a month where you don't add new debt. That's the turning point.",
+   "query": "Calendar turning point",
+   "caption": "ONE MONTH WITH NO NEW DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage one is done? You've tracked a full month, every bill is on autopay for at least the minimum, and your total debt went down instead of up. The most common mistake here is waiting for a perfect plan before starting. Start messy. Fix it as you go.",
+   "query": "Checklist stage one done",
+   "caption": "DONE WHEN: DEBT STOPS GROWING",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 2. Build a $1,000 starter fund.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Build a $1,000 starter fund",
+    "sub": "the first shield"
+   },
+   "caption": "STAGE 2",
+   "cuts": 1,
+   "chapter": "Stage 2. Build a $1,000 starter fund"
+  },
+  {
+   "text": "Stage two. Build a starter emergency fund of one thousand dollars in a separate high yield savings account. Sell things you don't use, pick up an extra shift, or use a tax refund. Automate a transfer every payday.",
+   "query": "Emergency fund jar",
+   "caption": "$1,000 SHIELD",
+   "cuts": 3
+  },
+  {
+   "text": "This small cushion means the next car repair or medical bill doesn't go on a credit card. It breaks the cycle of every surprise becoming new debt.",
+   "query": "Car repair paid cash",
+   "caption": "BREAK THE CYCLE",
+   "cuts": 3
+  },
+  {
+   "text": "At the same time, if your employer offers a retirement match, contribute enough to get it, even now. The match is too valuable to skip.",
+   "query": "401k match form",
+   "caption": "AND GET THE MATCH",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage two is done? One thousand dollars sits in a separate account, and you've resisted using it for anything that isn't a real emergency. The common mistake is keeping it in checking, where it slowly disappears. Separate it, name it, and protect it.",
+   "query": "Separate savings account",
+   "caption": "DONE WHEN: $1,000 SEPARATE",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 3. Kill high interest debt.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Kill high interest debt",
+    "sub": "free your income"
+   },
+   "caption": "STAGE 3",
+   "cuts": 1,
+   "chapter": "Stage 3. Kill high interest debt"
+  },
+  {
+   "text": "Stage three. Pay off all high interest debt, usually anything above about eight percent. Credit cards, personal loans, store cards. List them by interest rate and attack the highest first, or by balance if you need quick wins.",
+   "query": "Debt list ranked",
+   "caption": "HIGHEST RATE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Every debt you pay off frees up its payment. Roll that payment into the next debt. By the end, you might be sending several hundred dollars a month at the last one.",
+   "query": "Snowball rolling payments",
+   "caption": "ROLL THE PAYMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "When this stage ends, something powerful happens. All those payments become money you can save and invest. Your income finally works for you.",
+   "query": "Money freed up",
+   "caption": "YOUR INCOME IS FREE",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage three is done? No balances above about eight percent interest remain, and you're not adding new ones. The common mistake is clearing the cards and then running them up again. Keep one card for small purchases you pay in full, and put the rest away.",
+   "query": "Credit cards put away",
+   "caption": "DONE WHEN: NO HIGH RATE DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 4. Build the full emergency fund.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Build the full emergency fund",
+    "sub": "three to six months"
+   },
+   "caption": "STAGE 4",
+   "cuts": 1,
+   "chapter": "Stage 4. Build the full emergency fund"
+  },
+  {
+   "text": "Stage four. Grow your emergency fund to three to six months of essential expenses. Send your old debt payments here first. This fund protects everything you'll build next.",
+   "query": "Full emergency fund",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "With this in place, a job loss or a big repair won't force you to sell investments at a bad time or borrow again. It's your foundation.",
+   "query": "Strong foundation",
+   "caption": "THE FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "At the end of stage four, your net worth may still be small. But your financial life is stable. That's a huge achievement that many people never reach.",
+   "query": "Stable calm person",
+   "caption": "STABILITY",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage four is done? Your essential expenses are covered for three to six months, and you have sinking funds for predictable irregular costs. The common mistake is investing the emergency fund to earn more. Keep it safe. Its job is protection, not growth.",
+   "query": "Emergency fund safe",
+   "caption": "DONE WHEN: 3 TO 6 MONTHS SAFE",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 5. Invest 15% and reach $10,000.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Invest 15% and reach $10,000",
+    "sub": "the engine starts"
+   },
+   "caption": "STAGE 5",
+   "cuts": 1,
+   "chapter": "Stage 5. Invest 15% and reach $10,000"
+  },
+  {
+   "text": "Stage five. Raise your retirement investing to at least fifteen percent of your income, including the match. Use low cost index funds or a target date fund. Open a Roth IRA if you qualify.",
+   "query": "Index funds screen",
+   "caption": "15% INVESTED",
+   "cuts": 3
+  },
+  {
+   "text": "Your first goal is ten thousand dollars invested. It might take a year or two. It will feel slow. But this is where the engine starts.",
+   "query": "Ten thousand milestone",
+   "caption": "FIRST $10,000",
+   "cuts": 3
+  },
+  {
+   "text": "Turn on automatic contribution increases if your plan offers them, so your rate rises by one percent each year without any effort.",
+   "query": "Automatic increase setting",
+   "caption": "AUTO INCREASES",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage five is done? Ten thousand dollars invested, fifteen percent going in automatically, and low cost funds you understand. The common mistake is constantly switching investments. Pick a simple, diversified mix and leave it alone.",
+   "query": "Simple portfolio",
+   "caption": "DONE WHEN: $10K AND 15%",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 6. Reach $100,000.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Reach $100,000",
+    "sub": "the hardest milestone"
+   },
+   "caption": "STAGE 6",
+   "cuts": 1,
+   "chapter": "Stage 6. Reach $100,000"
+  },
+  {
+   "text": "Stage six. Reach one hundred thousand dollars invested. At one thousand dollars a month, it takes about six to seven years from zero. This is the hardest milestone, because most of it comes from your own contributions.",
+   "query": "Hundred thousand milestone",
+   "caption": "$100,000",
+   "cuts": 3
+  },
+  {
+   "text": "Speed it up with income growth. Ask for raises, build skills, change jobs when it makes sense. Use the raise rule: half of every raise goes to investing.",
+   "query": "Career growth",
+   "caption": "GROW YOUR INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Avoid the big mistakes that reset progress: cashing out old 401k accounts, buying a car you can't afford, or panic selling in a downturn.",
+   "query": "Warning signs",
+   "caption": "AVOID THE RESETS",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage six is done? Your investments cross one hundred thousand dollars. Celebrate it. The common mistake here is lifestyle creep, raising spending as income grows until the savings rate quietly falls. Watch your rate every year.",
+   "query": "Celebration hundred thousand",
+   "caption": "DONE WHEN: $100K",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 7. The long middle: $100K to $500K.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "The long middle: $100K to $500K",
+    "sub": "where most people stall"
+   },
+   "caption": "STAGE 7",
+   "cuts": 1,
+   "chapter": "Stage 7. The long middle: $100K to $500K"
+  },
+  {
+   "text": "Stage seven. The long middle. From one hundred thousand to five hundred thousand. At one thousand a month, it takes roughly thirteen more years. Life gets busy and expensive. This is where discipline matters most.",
+   "query": "Long road middle",
+   "caption": "THE LONG MIDDLE",
+   "cuts": 3
+  },
+  {
+   "text": "Keep fixed costs under control as income rises. Buy a home you can comfortably afford, not the maximum the bank offers. Keep cars longer. Protect your savings rate from lifestyle creep.",
+   "query": "Modest home",
+   "caption": "PROTECT YOUR SAVINGS RATE",
+   "cuts": 3
+  },
+  {
+   "text": "And protect your family: term life insurance if people depend on you, disability insurance, a will, and updated beneficiaries. You now have something worth protecting.",
+   "query": "Family insurance",
+   "caption": "PROTECT WHAT YOU'VE BUILT",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage seven is done? Five hundred thousand dollars invested. The common mistake in this stage is a big lifestyle decision that permanently raises fixed costs, like an oversized house or two expensive car payments. One decision like that can add a decade to your journey.",
+   "query": "Oversized house warning",
+   "caption": "DONE WHEN: $500K",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 8. The acceleration: $500K to $1M.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "The acceleration: $500K to $1M",
+    "sub": "your money does the work"
+   },
+   "caption": "STAGE 8",
+   "cuts": 1,
+   "chapter": "Stage 8. The acceleration: $500K to $1M"
+  },
+  {
+   "text": "Stage eight. The acceleration. From five hundred thousand to a million. At one thousand a month and seven percent, this stage might take about eight years, less time than the long middle, even though the dollar gap is bigger.",
+   "query": "Rocket rising",
+   "caption": "THE ACCELERATION",
+   "cuts": 3
+  },
+  {
+   "text": "Now, investment growth can exceed your contributions. A seven percent year on six hundred thousand dollars is forty two thousand dollars of growth. Keep contributing, but let the money do the heavy lifting.",
+   "query": "Growth exceeds contributions",
+   "caption": "GROWTH > CONTRIBUTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "As you get closer, review your investment mix. Many people gradually add more stable assets, like bonds, as they approach the point where they'll need the money. A good plan reduces the risk of a big drop right before your goal.",
+   "query": "Balanced portfolio",
+   "caption": "REVIEW YOUR MIX",
+   "cuts": 3
+  },
+  {
+   "text": "How do you know stage eight is done? You cross one million. The common mistakes here are taking big risks to get there faster, or panicking in a downturn and selling near the bottom. At this stage, protecting what you've built matters as much as growing it.",
+   "query": "Steady hands portfolio",
+   "caption": "DONE WHEN: $1 MILLION",
+   "cuts": 3
+  },
+  {
+   "text": "Stage 9. Reach $1 million and protect it.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Reach $1 million and protect it",
+    "sub": "freedom"
+   },
+   "caption": "STAGE 9",
+   "cuts": 1,
+   "chapter": "Stage 9. Reach $1 million and protect it"
+  },
+  {
+   "text": "Stage nine. One million dollars. Using the four percent guideline, it could support around forty thousand dollars a year of spending, more with Social Security. You may be able to work by choice, cut back, or retire.",
+   "query": "One million celebration",
+   "caption": "$1,000,000",
+   "cuts": 3
+  },
+  {
+   "text": "Now the focus shifts to protection and planning. A sustainable withdrawal strategy, tax planning, healthcare, and estate planning. Many people benefit from a fee only fiduciary advisor at this stage.",
+   "query": "Advisor meeting",
+   "caption": "PROTECT AND PLAN",
+   "cuts": 3
+  },
+  {
+   "text": "And think about what the money is for. Freedom, family, giving, experiences. Reaching a million isn't the end of the journey. It's the beginning of a life with more choices.",
+   "query": "Family generations",
+   "caption": "WHAT IT'S FOR",
+   "cuts": 3
+  },
+  {
+   "text": "And what's the common mistake after a million? Stopping all planning. A million dollars without a withdrawal plan, tax strategy and healthcare plan can disappear faster than people expect. The playbook doesn't end. It changes from building to preserving and enjoying.",
+   "query": "Planning documents retirement",
+   "caption": "KEEP PLANNING",
+   "cuts": 3
+  },
+  {
+   "text": "Let's look at three paths. First, the early starter. Mia starts at twenty three with debt from college. She clears it by twenty six, builds her emergency fund, and invests fifteen percent of a modest salary, increasing it with each raise. By her late fifties, she could reach a million dollars on an ordinary career.",
+   "query": "Young woman graduate",
+   "caption": "MIA: THE EARLY STARTER",
+   "cuts": 3,
+   "chapter": "Three paths to a million",
+   "short_hook": "Three ordinary people, three paths to $1 million"
+  },
+  {
+   "text": "Second, the late starter. Andre is broke at thirty eight after a divorce. He rebuilds stage by stage, and by forty two he's investing two thousand dollars a month, about twenty five percent of his income. If he keeps it up, he could reach a million around sixty two, with his highest earning years doing the heavy lifting.",
+   "query": "Man in his forties rebuilding",
+   "caption": "ANDRE: THE LATE STARTER",
+   "cuts": 3
+  },
+  {
+   "text": "Third, the high saver. Grace and Luis, both thirty, share one paid off car, rent modestly, and invest forty percent of their combined income, about two thousand five hundred a month. At that pace, they could reach a million in under twenty years, by around fifty.",
+   "query": "Young couple modest apartment",
+   "caption": "GRACE AND LUIS: HIGH SAVERS",
+   "cuts": 3
+  },
+  {
+   "text": "Mia's biggest advantage was time. Starting in her twenties, even modest contributions had decades to compound. Her biggest challenge was patience. In her thirties, her balance felt small compared to friends' lifestyles. But by her late forties, her investments were growing by more each year than she contributed.",
+   "query": "Woman reviewing growing balance",
+   "caption": "MIA: TIME AND PATIENCE",
+   "cuts": 3
+  },
+  {
+   "text": "Andre's biggest advantage was income. Starting later, he used his peak earning years and catch up contributions after fifty to save aggressively. His biggest challenge was avoiding the urge to catch up with risky bets. He stuck to the plan, and the plan worked.",
+   "query": "Man calm investing",
+   "caption": "ANDRE: INCOME AND DISCIPLINE",
+   "cuts": 3
+  },
+  {
+   "text": "Grace and Luis's biggest advantage was their savings rate. Their biggest challenge was social pressure from friends who didn't understand why they lived modestly. Their answer was simple: we're buying our freedom early. By fifty, they may be able to work only on what they love.",
+   "query": "Couple confident",
+   "caption": "GRACE AND LUIS: FREEDOM EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "Different starting points. Different timelines. The same playbook. These are illustrations, not promises, and real returns will vary. But they show that a million dollars is reachable from very different lives.",
+   "query": "Three paths converge",
+   "caption": "THE SAME PLAYBOOK",
+   "cuts": 3
+  },
+  {
+   "text": "There are four things that can speed up the journey at every stage. Let's go through them.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The four accelerators"
+  },
+  {
+   "text": "Accelerator one: income growth. Every raise, promotion or job change that increases your pay, combined with the raise rule, adds fuel. Going from one thousand to two thousand dollars a month invested cuts the journey to a million from about twenty eight years to about twenty.",
+   "query": "Career promotion",
+   "caption": "1: INCOME GROWTH",
+   "cuts": 3
+  },
+  {
+   "text": "Accelerator two: the big three. Housing, transportation and food make up most of a typical budget. A cheaper home, longer lasting cars and more home cooking can free up hundreds of dollars a month, every month, for decades.",
+   "query": "House car groceries",
+   "caption": "2: THE BIG THREE",
+   "cuts": 3
+  },
+  {
+   "text": "Accelerator three: tax advantages. Using 401k plans, IRAs and health savings accounts lets more of your money compound. Over thirty years, the difference between taxed and tax advantaged growth can be very large.",
+   "query": "Tax advantaged accounts",
+   "caption": "3: TAX ADVANTAGES",
+   "cuts": 3
+  },
+  {
+   "text": "And accelerator four: low fees. A one percent difference in yearly fees can cost tens of thousands of dollars, sometimes more than a hundred thousand, over a long investing life. Low cost index funds keep more of the growth in your pocket.",
+   "query": "Low fee fund",
+   "caption": "4: LOW FEES",
+   "cuts": 3
+  },
+  {
+   "text": "Put all four accelerators together, and the effect is dramatic. A household that raises its income over time, keeps the big three modest, uses every tax advantaged account available, and pays low fees can often reach a million years earlier than one doing only one of those things. You don't need all four at once. Add one at a time, and let them stack.",
+   "query": "Four arrows stacking",
+   "caption": "LET THEM STACK",
+   "cuts": 3
+  },
+  {
+   "text": "Let's spend a moment on the long middle, because it's where the journey is won or lost. Between one hundred and five hundred thousand dollars, the progress is real, but it rarely feels exciting. Life is busy. The finish line is far away. And it's tempting to coast.",
+   "query": "Long road fatigue",
+   "caption": "WHERE IT'S WON OR LOST",
+   "cuts": 3,
+   "chapter": "Surviving the long middle"
+  },
+  {
+   "text": "Three habits help. First, raise your contribution every year, even by one percent. Second, track your net worth once a year and write it down, so you can see the progress you'd otherwise miss. Third, find people on the same path, a friend, a partner, or an online community, to keep you motivated.",
+   "query": "Friends talking money",
+   "caption": "THREE HABITS",
+   "cuts": 3
+  },
+  {
+   "text": "And give yourself rewards along the way. A trip when you hit two hundred fifty thousand. A nice dinner at three hundred thousand. The journey should include joy. That's what makes it sustainable.",
+   "query": "Couple on trip",
+   "caption": "REWARDS ALONG THE WAY",
+   "cuts": 3
+  },
+  {
+   "text": "Where you hold your investments matters as you approach a million. Traditional 401k and IRA withdrawals are generally taxed as income. Roth withdrawals can be tax free if the rules are met. Taxable brokerage accounts are taxed on dividends and gains, often at lower long term rates.",
+   "query": "Tax buckets",
+   "caption": "THREE TAX BUCKETS",
+   "cuts": 3,
+   "chapter": "Taxes and the road to a million"
+  },
+  {
+   "text": "Many people build a mix of all three, which gives flexibility later. In low income years, like early retirement or a career break, some people convert traditional money to Roth at a lower tax rate. A tax professional can help you plan this, especially in stages eight and nine.",
+   "query": "Tax professional",
+   "caption": "BUILD A MIX",
+   "cuts": 3
+  },
+  {
+   "text": "For couples, the journey works best as a team. Share the goal, agree on the savings rate, and hold a short monthly money meeting. When both people understand the plan, it's much easier to stay on track during expensive years.",
+   "query": "Couple planning together",
+   "caption": "A TEAM GOAL",
+   "cuts": 3,
+   "chapter": "Couples and families on the journey"
+  },
+  {
+   "text": "For families with kids, the timeline often stretches during the childcare years. That's normal. Keep at least the match going, protect the emergency fund, and raise contributions again when childcare costs fall. And put retirement before college savings, since kids can borrow for school and you can't borrow for retirement.",
+   "query": "Family with kids",
+   "caption": "FAMILIES",
+   "cuts": 3
+  },
+  {
+   "text": "And involve your kids in age appropriate ways. Show them the plan. Let them see you save and invest. Teaching them the playbook early may be the greatest financial gift you can give.",
+   "query": "Parent teaching child",
+   "caption": "TEACH THE NEXT GENERATION",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one: cashing out retirement accounts when changing jobs. Taxes, penalties and lost compounding can cost far more than the check you receive. Roll it over instead.",
+   "query": "Rollover form",
+   "caption": "MISTAKE 1: CASHING OUT",
+   "cuts": 3,
+   "chapter": "The biggest mistakes on the road to a million"
+  },
+  {
+   "text": "Mistake two: panic selling in a crash. Selling after a big drop locks in losses and often means missing the recovery.",
+   "query": "Panic selling",
+   "caption": "MISTAKE 2: PANIC SELLING",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three: chasing get rich quick schemes. Hot tips, leveraged bets and too good to be true promises have derailed more journeys than bad markets.",
+   "query": "Get rich quick ad",
+   "caption": "MISTAKE 3: GET RICH QUICK",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake four: lifestyle creep. Letting spending rise as fast as income keeps the savings rate flat and the finish line far away.",
+   "query": "Spending creeping",
+   "caption": "MISTAKE 4: LIFESTYLE CREEP",
+   "cuts": 3
+  },
+  {
+   "text": "And mistake five: never starting. Waiting for the perfect time, the perfect income or the perfect knowledge. The best time to start was years ago. The second best time is this week.",
+   "query": "Calendar today",
+   "caption": "MISTAKE 5: NEVER STARTING",
+   "cuts": 3
+  },
+  {
+   "text": "Here's your first week. Day one: calculate your net worth and find your stage. Day two: set up autopay for every minimum payment. Day three: open a separate high yield savings account and automate a transfer.",
+   "query": "Checklist first days",
+   "caption": "DAYS 1 TO 3",
+   "cuts": 3,
+   "chapter": "Your first week on the playbook"
+  },
+  {
+   "text": "Day four: check that you're getting your full employer match. Day five: list your debts by interest rate. Day six: cancel one subscription and redirect the money. Day seven: write your why on a card and put it somewhere you'll see it every day.",
+   "query": "Card with written why",
+   "caption": "DAYS 4 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "So what does a million dollars actually look like in retirement? Using the four percent guideline, it could support about forty thousand dollars a year of withdrawals, adjusted for inflation. Add Social Security, which for many retirees provides a significant share of income, and the total could support a comfortable middle class retirement in many parts of the country.",
+   "query": "Retired couple at home",
+   "caption": "~$40,000 A YEAR + SOCIAL SECURITY",
+   "cuts": 3,
+   "chapter": "What a million dollars actually buys"
+  },
+  {
+   "text": "For someone who retires early, a million might support a leaner lifestyle, or a combination of withdrawals and part time work. For someone in a high cost city, it might be a milestone on the way to a larger number. That's why your own number, twenty five times your spending, matters more than the round million.",
+   "query": "City versus small town",
+   "caption": "YOUR NUMBER MATTERS MORE",
+   "cuts": 3
+  },
+  {
+   "text": "And there's something money can't fully measure. People who reach financial independence often describe the biggest change as freedom from worry. The freedom to say no, to help family, to give, and to spend time on what matters. That's the real return on the playbook.",
+   "query": "Grandparents with grandchildren",
+   "caption": "FREEDOM FROM WORRY",
+   "cuts": 3
+  },
+  {
+   "text": "Objection one. A million dollars is impossible for someone like me. It might take longer than you'd like. But the math shows that steady investing on an ordinary income can get there over a career. And even if you reach half a million instead, you'll be far more secure than if you never started.",
+   "query": "Determined ordinary worker",
+   "caption": "IMPOSSIBLE FOR ME",
+   "cuts": 3,
+   "chapter": "But Ryan, what about..."
+  },
+  {
+   "text": "Objection two. The economy is different now. Housing and education are more expensive than they were for earlier generations. That's true. But investing is cheaper and easier than ever, with low cost funds and automatic contributions. Focus on what you control.",
+   "query": "Modern economy chart",
+   "caption": "THE ECONOMY IS DIFFERENT",
+   "cuts": 3
+  },
+  {
+   "text": "And objection three. I'd rather enjoy my money now. You can do both. The playbook includes fun money at every stage. It's not about sacrificing your life. It's about making sure your future self gets a good life too.",
+   "query": "Friends enjoying dinner",
+   "caption": "ENJOY IT NOW",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions I hear most about the journey to a million.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Can I really do this on an average salary? Yes, although it takes time. Many 401k millionaires have earned ordinary salaries and contributed steadily for decades. Your savings rate and time in the market matter more than your income.",
+   "query": "Ordinary worker",
+   "caption": "ON AN AVERAGE SALARY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Should I pay off my mortgage or invest? Once high interest debt is gone and your emergency fund is full, it depends on your mortgage rate and your peace of mind. Many people do some of both. Investing has historically offered higher long term returns than low mortgage rates, but a paid off home has real emotional value.",
+   "query": "Mortgage and investments",
+   "caption": "MORTGAGE OR INVEST?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What about real estate or a business? Both can build wealth, and many millionaires own them. But they also carry more risk, more work and less diversification. Many people build the core of their wealth through steady investing first, then add other assets if they want.",
+   "query": "Rental property and shop",
+   "caption": "REAL ESTATE OR BUSINESS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. What if the market crashes on the way? It probably will, several times. Historically, broad markets have recovered from every major crash, though some took years. Keep contributing. Falling prices mean you're buying more shares for the same money.",
+   "query": "Market crash recovery",
+   "caption": "WHAT IF IT CRASHES?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Is a million enough? It depends on your spending, where you live, and when you retire. For some people, it's more than enough. For others, it's a milestone on the way to a bigger number. Calculate your own number: about twenty five times your yearly spending.",
+   "query": "Calculator personal number",
+   "caption": "IS $1M ENOUGH?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. How long should each stage take? It varies widely. Stages one through four might take one to four years, depending on debt and income. Stage five might take one or two. Stages six to nine take most of the journey, often twenty to thirty years in total. Faster with higher savings rates.",
+   "query": "Timeline chart stages",
+   "caption": "HOW LONG EACH STAGE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. Do I need a financial advisor? Many people follow this playbook on their own with simple index funds. Others prefer help, especially later. If you hire one, look for a fee only fiduciary who is legally required to act in your best interest.",
+   "query": "Advisor meeting",
+   "caption": "AN ADVISOR?",
+   "cuts": 3
+  },
+  {
+   "text": "And question eight. What if I'm already past some stages? Great. Start at your current stage and keep going. And double check the earlier ones occasionally. Make sure your emergency fund is still sized right and no high interest debt has crept back.",
+   "query": "Person climbing stairs midway",
+   "caption": "ALREADY PAST SOME STAGES?",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. At one thousand dollars a month and seven percent, a million takes about twenty eight years, and each hundred thousand comes faster than the last. The journey feels hopeless, then boring, then long, then sudden. Focus on the system, measure yearly, celebrate milestones, protect the snowball, and remember why.",
+   "query": "Checklist clipboard",
+   "caption": "THE NUMBERS AND MINDSET",
+   "cuts": 3,
+   "chapter": "Recap: the 9 stages",
+   "short_hook": "Broke to $1 million: the 60-second playbook"
+  },
+  {
+   "text": "The nine stages. One: stop the bleeding. Two: build a one thousand dollar starter fund. Three: kill high interest debt. Four: build the full emergency fund. Five: invest fifteen percent and reach ten thousand. Six: reach one hundred thousand. Seven: the long middle. Eight: the acceleration. And nine: reach a million, and protect it.",
+   "query": "Nine stage staircase",
+   "caption": "THE 9 STAGES",
+   "cuts": 3
+  },
+  {
+   "text": "Before we finish, one last thought from me. When this channel started, the goal was simple: to make money less confusing and less scary for ordinary people. Every video has been one piece of this playbook. The numbers, the psychology, and the steps. Now you have the whole map.",
+   "query": "Map unfolded on table",
+   "caption": "THE WHOLE MAP",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need to be perfect. You don't need to be rich to start. You need to know which stage you're in, and take the next step. Then the next one. That's how ordinary people become millionaires. Slowly, then suddenly.",
+   "query": "Path to sunrise",
+   "caption": "SLOWLY, THEN SUDDENLY",
+   "cuts": 3
+  },
+  {
+   "text": "Figure out which stage you're in today. Then do one thing from that stage this week. That's how every millionaire's journey starts. Thank you for watching this channel and following the playbook with me. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+- Social Security Administration: benefits replace about 40% of an average worker's pre-retirement earnings
+- IRS Filing Season Statistics (average refund around $3,000 in recent seasons)
+- Consumer Financial Protection Bureau: credit scores, soft vs hard inquiries, credit utilization; AnnualCreditReport.com
+- Carlson, Kim, Lusardi and Camerer, Bankruptcy Rates among NFL Players with Short-Lived Income Spikes (NBER, 2015)
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996)
+- Rule of 72, inflation and growth figures: stated illustrative math

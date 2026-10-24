@@ -1,0 +1,909 @@
+{
+ "id": "video56",
+ "angle": "retire early on a normal income: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "How to Retire Early on a Normal Income",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. When people hear retire early, they usually picture tech millionaires or lottery winners. But some people with ordinary incomes, teachers, nurses, engineers, government workers, reach financial independence in their forties or early fifties. They don't win anything. They use one number most people never calculate. Today I'll show you that number, and the full plan.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Retiring early doesn't have to mean never working again. For most people, it means reaching financial independence: having enough invested that work becomes optional. You can keep working at something you love, work part time, start a business, or stop completely. The choice is yours.",
+   "query": "Person relaxing hammock",
+   "caption": "WORK BECOMES OPTIONAL",
+   "cuts": 8,
+   "short_hook": "You can retire early on a normal income. Here's the math."
+  },
+  {
+   "text": "This idea has a name: FIRE, which stands for Financial Independence, Retire Early. It became popular through books like Your Money or Your Life by Vicki Robin and Joe Dominguez, first published in 1992, and later through online communities and blogs. And its core math is surprisingly simple.",
+   "query": "Your Money or Your Life book",
+   "caption": "FIRE",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at this from three angles. First, the numbers: how much you need and how long it takes, based mostly on one thing. Second, the psychology: what makes this path work, and what makes people quit. And third, the playbook: twelve steps, plus how to handle healthcare and access your money before traditional retirement age.",
+   "query": "Three paths mountain",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Stay for the savings rate table. It might be the most important chart in personal finance. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "The four percent rule comes from financial planner William Bengen's 1994 research and the later Trinity study by professors at Trinity University. Growth examples use stated math at a five percent return after inflation, an illustration, not a promise. Retirement account and early withdrawal rules come from the IRS. Health insurance information comes from healthcare dot gov. This is education, not financial advice.",
+   "query": "Research papers on desk",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. How much do you need, and how long will it take?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Let's start with how much. In 1994, a financial planner named William Bengen studied historical U.S. market returns and asked: how much could a retiree withdraw each year, adjusted for inflation, without running out of money over thirty years? His answer was about four percent of the starting portfolio. That became known as the four percent rule.",
+   "query": "William Bengen research chart",
+   "caption": "THE 4% RULE",
+   "cuts": 3
+  },
+  {
+   "text": "Flip the four percent rule around, and you get the rule of twenty five. Multiply your yearly spending by twenty five, and that's a rough estimate of the portfolio you need. Spend forty thousand dollars a year? Twenty five times that is one million dollars. Spend thirty thousand? Seven hundred fifty thousand.",
+   "query": "Calculator multiply 25",
+   "caption": "THE RULE OF 25",
+   "cuts": 3
+  },
+  {
+   "text": "Multiply yearly spending by twenty five to estimate a financial independence number. Forty thousand a year means about one million dollars.",
+   "card": {
+    "type": "stat",
+    "label": "your FI number = yearly spending \u00d7 25",
+    "big": "$40K \u2192 $1M",
+    "sub": "based on the 4% rule (Bengen 1994, Trinity study)"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "An important caveat. The four percent rule was built around thirty year retirements. If you retire at forty five, your money may need to last fifty years. Many early retirees use a more cautious withdrawal rate, like three and a half percent, which means a portfolio closer to twenty eight or thirty times spending. We'll keep that in mind.",
+   "query": "Long timeline",
+   "caption": "EARLY RETIREES: BE MORE CAREFUL",
+   "cuts": 3
+  },
+  {
+   "text": "Now the big insight. Notice that your FI number depends on your spending, not your income. And the time it takes to get there depends mostly on your savings rate: the share of your take home pay you save. Not your salary. Your savings rate.",
+   "query": "Savings rate gauge",
+   "caption": "IT'S YOUR SAVINGS RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Here's why. When you save more, two things happen at once. You invest more each year. And you train yourself to live on less, which lowers the amount you need. Both sides of the equation move in your favor at the same time.",
+   "query": "Two arrows meeting",
+   "caption": "BOTH SIDES MOVE",
+   "cuts": 3,
+   "short_hook": "The most important chart in personal finance"
+  },
+  {
+   "text": "So here's the table. Assuming you start from zero, earn five percent a year after inflation, and need twenty five times your spending. Save ten percent of your take home pay, and it takes about fifty two years to reach financial independence. Save twenty percent, about thirty seven years. Save thirty percent, about twenty eight years.",
+   "query": "Savings rate table",
+   "caption": "10% = 52 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Save forty percent, and it takes about twenty two years. Save fifty percent, about seventeen years. Save sixty percent, about thirteen years. Your salary doesn't appear anywhere in that table. Someone earning fifty thousand and someone earning two hundred thousand, with the same savings rate, need about the same number of years.",
+   "query": "Savings rate table high",
+   "caption": "50% = 17 YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Years to financial independence from zero, by savings rate, at a five percent return after inflation and a target of twenty five times spending.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "save 20%",
+     "big": "~37 years",
+     "sub": "start at 25, done at ~62"
+    },
+    "right": {
+     "label": "save 50%",
+     "big": "~17 years",
+     "sub": "start at 25, done at ~42"
+    },
+    "note": "Illustration. Returns are not guaranteed."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Let's apply it. A household brings home fifty five hundred dollars a month after taxes. They spend thirty six hundred and save nineteen hundred, about thirty five percent. Their yearly spending is about forty three thousand dollars, so their FI number is around one point oh eight million.",
+   "query": "Couple budget meeting",
+   "caption": "A NORMAL HOUSEHOLD",
+   "cuts": 3
+  },
+  {
+   "text": "Investing nineteen hundred dollars a month at five percent after inflation, they could reach that number in about twenty four years. Start at thirty, and they could be financially independent around fifty four. Start at twenty five, around forty nine. On a normal income. With no inheritance and no lottery.",
+   "query": "Calendar fifty four",
+   "caption": "FI AROUND 49 TO 54",
+   "cuts": 3
+  },
+  {
+   "text": "Nineteen hundred dollars a month invested at five percent a year after inflation, for twenty four years.",
+   "card": {
+    "type": "growth",
+    "monthly": 1900,
+    "rate": 0.05,
+    "years": 24
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "And there are middle paths. Coast FI means saving enough early that, even if you stop contributing, your investments could grow to a full retirement by a traditional age. After that, you only need to cover current expenses, which lets you work less or take a lower stress job. Barista FI means covering part of your expenses from investments and the rest from part time work.",
+   "query": "Coffee shop part time work",
+   "caption": "COAST FI AND BARISTA FI",
+   "cuts": 3
+  },
+  {
+   "text": "So the math works on a normal income. But it requires a high savings rate. And that's where psychology comes in. Angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Six mindset shifts behind early retirement.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "Shift one. From money as stuff, to money as time. Your Money or Your Life suggested a powerful exercise: calculate your real hourly wage, after taxes, commuting and work costs. Then think of every purchase in hours of your life. A two thousand dollar upgrade might be eighty hours of work. Is it worth it?",
+   "query": "Clock and money",
+   "caption": "SHIFT 1: MONEY IS TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Shift two. From deprivation, to optimization. Successful early retirees usually don't feel deprived. They cut ruthlessly on things they don't care about and spend happily on things they do. One might drive an old car but travel every year. Another might cook at home but never skip a concert.",
+   "query": "Happy frugal person",
+   "caption": "SHIFT 2: OPTIMIZE",
+   "cuts": 3
+  },
+  {
+   "text": "Shift three. From normal, to intentional. Normal spending in America often includes a large car payment, a big house, and constant upgrades. Early retirement requires stepping away from normal. That can feel uncomfortable, especially when friends and family don't understand. Knowing your why makes it easier.",
+   "query": "Person walking different direction",
+   "caption": "SHIFT 3: NOT NORMAL",
+   "cuts": 3
+  },
+  {
+   "text": "Shift four. From retire from, to retire to. People who plan only to escape a job often struggle after leaving. Purpose, community and routine matter. Many early retirees end up doing meaningful work they choose, volunteering, or building something. Plan what you're retiring to.",
+   "query": "Volunteer helping community",
+   "caption": "SHIFT 4: RETIRE TO",
+   "cuts": 3
+  },
+  {
+   "text": "Shift five. From all or nothing, to progress. You don't need to save sixty percent to benefit. Going from ten to twenty five percent cuts roughly twenty years off the table. Every step up in savings rate buys you freedom, even if you never fully retire early.",
+   "query": "Progress steps",
+   "caption": "SHIFT 5: EVERY STEP COUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "And shift six. From someday, to F you money. Even before full independence, having a year or two of expenses saved changes your life. You can leave a toxic job, negotiate harder, or take a risk on a better opportunity. Freedom starts long before the finish line.",
+   "query": "Confident person leaving office",
+   "caption": "SHIFT 6: FREEDOM EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "There's another psychological benefit people rarely mention. Once you know your FI number and your timeline, money stops feeling endless and vague. You know what enough looks like. Many people say that simply having a finish line reduced their anxiety and made everyday spending decisions much easier, because every choice connected to a clear goal.",
+   "query": "Finish line ribbon",
+   "caption": "KNOWING WHAT ENOUGH IS",
+   "cuts": 3
+  },
+  {
+   "text": "And it changes how you see your job. Instead of feeling trapped, you can see each paycheck as buying a piece of your future freedom. Some people say their work became more enjoyable once they knew it had an end date they had chosen themselves.",
+   "query": "Person at work smiling",
+   "caption": "A CHOSEN END DATE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's be honest about why many people who try this quit. High savings rates require trade offs, and social pressure is real. Life events, like children, health problems or caring for parents, can slow progress. And market crashes can make the goal feel further away for a while.",
+   "query": "Obstacles on path",
+   "caption": "WHY PEOPLE QUIT",
+   "cuts": 3,
+   "chapter": "Why it's harder than it looks"
+  },
+  {
+   "text": "The people who succeed usually build flexibility into the plan. They don't need a perfect straight line. They accept slower years and faster years. They keep the big picture: a steadily rising savings rate and steady investing, over many years.",
+   "query": "Winding mountain road",
+   "caption": "FLEXIBILITY WINS",
+   "cuts": 3
+  },
+  {
+   "text": "The idea of retiring early by living below your means isn't new. But it took a clear form in 1992, when Vicki Robin and Joe Dominguez published Your Money or Your Life. Dominguez had left Wall Street in his early thirties and lived on the income from conservative investments. The book asked a simple question: is the money you earn worth the life energy you trade for it?",
+   "query": "1990s book cover desk",
+   "caption": "1992: YOUR MONEY OR YOUR LIFE",
+   "cuts": 3,
+   "chapter": "Where the FIRE idea came from"
+  },
+  {
+   "text": "In 1994, William Bengen published his withdrawal rate research. In 1998, three professors at Trinity University tested similar ideas with different portfolios. Together, these studies gave people a practical way to estimate how much was enough.",
+   "query": "Academic research library",
+   "caption": "1994 AND 1998: THE MATH",
+   "cuts": 3
+  },
+  {
+   "text": "Then in the 2000s and 2010s, blogs and online forums spread the idea to a new generation. Many bloggers showed their real budgets and savings rates. Some had high incomes. Many had ordinary ones. The common thread was always the same: a high savings rate, low cost investing, and time.",
+   "query": "Blog on laptop screen",
+   "caption": "THE INTERNET ERA",
+   "cuts": 3
+  },
+  {
+   "text": "Today, FIRE has many flavors. Lean FIRE, for people who want a minimal budget. Fat FIRE, for those who want a larger cushion. Coast FI and barista FI, for people who want a gentler path. The math is the same. Only the spending number changes.",
+   "query": "Different paths signpost",
+   "caption": "MANY FLAVORS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's try the most famous exercise from Your Money or Your Life. Start with your take home pay. Then subtract the costs of working: commuting, work clothes, lunches out, the extra takeout on tired nights. Then add up all the hours your job really takes, including the commute and recovery time.",
+   "query": "Commuter traffic",
+   "caption": "THE REAL COST OF WORK",
+   "cuts": 3,
+   "chapter": "Your real hourly wage"
+  },
+  {
+   "text": "Say you take home four thousand dollars a month and work forty five hours a week, plus five hours of commuting. That's about two hundred sixteen hours a month. Subtract four hundred dollars of work related costs, and your real wage is about sixteen dollars and seventy cents an hour.",
+   "query": "Calculator hourly wage",
+   "caption": "~$16.70 AN HOUR",
+   "cuts": 3
+  },
+  {
+   "text": "Now look at a purchase. A one thousand dollar phone upgrade costs about sixty hours of your life. A forty dollar dinner, about two and a half hours. Sometimes that's absolutely worth it. Sometimes it's not. Seeing price in hours makes the choice clearer.",
+   "query": "Phone price tag hours",
+   "caption": "PRICES IN HOURS",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If the idea of work becoming optional sounds good to you, subscribe to the channel. It's free, and it helps me keep making videos like this. Now, the twelve step plan.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Angle three. The playbook. Twelve steps to retire early on a normal income.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Step one. Calculate your real spending.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Calculate your real spending",
+    "sub": "the number that matters"
+   },
+   "caption": "STEP 1",
+   "cuts": 1,
+   "chapter": "Step 1. Calculate your real spending",
+   "short_hook": "12 steps to retire early on a normal income"
+  },
+  {
+   "text": "Look at the last twelve months of spending, including irregular costs like car repairs, gifts and travel. That yearly total is the foundation of your FI number. Many people underestimate it by twenty percent or more.",
+   "query": "Annual spending spreadsheet",
+   "caption": "TWELVE MONTHS OF REALITY",
+   "cuts": 3
+  },
+  {
+   "text": "Then multiply by twenty five, or by twenty eight to thirty if you plan to retire very early. That's your first estimate. It will change as your life changes, and that's okay.",
+   "query": "Target number written",
+   "caption": "YOUR FI NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Step two. Find your savings rate.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Find your savings rate",
+    "sub": "where you are now"
+   },
+   "caption": "STEP 2",
+   "cuts": 1,
+   "chapter": "Step 2. Find your savings rate"
+  },
+  {
+   "text": "Add up everything you save and invest in a year, including retirement contributions and your employer match. Divide by your take home pay plus those contributions. That's your savings rate. Many Americans save in the single digits.",
+   "query": "Savings rate calculation",
+   "caption": "YOUR STARTING RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Now pick a target. If you're at five percent, aim for fifteen this year. If you're at fifteen, aim for twenty five. Each step cuts years off your timeline.",
+   "query": "Target rising chart",
+   "caption": "PICK THE NEXT TARGET",
+   "cuts": 3
+  },
+  {
+   "text": "Step three. Cut the big three first.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Cut the big three first",
+    "sub": "housing, transport, food"
+   },
+   "caption": "STEP 3",
+   "cuts": 1,
+   "chapter": "Step 3. Cut the big three first"
+  },
+  {
+   "text": "Early retirees almost always have modest housing and transportation costs. A smaller home or a cheaper area, one reliable used car instead of two new ones, and cooking at home can raise your savings rate by ten to twenty percentage points.",
+   "query": "Small home old car",
+   "caption": "BIG LEVERS",
+   "cuts": 3
+  },
+  {
+   "text": "Small cuts help too, but they can't do the job alone. Cutting a few subscriptions might save a few hundred dollars a year. A cheaper apartment might save several thousand. Focus where the big money is.",
+   "query": "Scale small versus big",
+   "caption": "FOCUS ON BIG MONEY",
+   "cuts": 3
+  },
+  {
+   "text": "Step four. Kill high interest debt.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Kill high interest debt",
+    "sub": "no FI with 20% debt"
+   },
+   "caption": "STEP 4",
+   "cuts": 1,
+   "chapter": "Step 4. Kill high interest debt"
+  },
+  {
+   "text": "You can't build wealth quickly while paying twenty percent interest. Pay off credit cards and other high rate debt first, while still getting your employer match. Then roll those payments straight into investing.",
+   "query": "Credit card payoff",
+   "caption": "HIGH RATE DEBT FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Lower rate debts, like some mortgages or student loans, are a judgment call. Many early retirees keep paying them on schedule and invest the difference. Others prefer to be debt free before they leave work. Both can work.",
+   "query": "Mortgage document",
+   "caption": "LOW RATE: YOUR CHOICE",
+   "cuts": 3
+  },
+  {
+   "text": "Step five. Build a strong emergency fund.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Build a strong emergency fund",
+    "sub": "freedom's foundation"
+   },
+   "caption": "STEP 5",
+   "cuts": 1,
+   "chapter": "Step 5. Build a strong emergency fund"
+  },
+  {
+   "text": "Keep three to six months of expenses in high yield savings. With a high savings rate, a lower monthly spending number makes this easier to reach. It protects your investments from being sold at a bad time.",
+   "query": "Emergency fund jar",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "As you approach early retirement, many people build a larger cash buffer, sometimes one to two years of expenses, to avoid selling investments during a market downturn early in retirement.",
+   "query": "Cash buffer",
+   "caption": "BIGGER BUFFER LATER",
+   "cuts": 3
+  },
+  {
+   "text": "Step six. Max your tax advantages.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Max your tax advantages",
+    "sub": "keep more of every dollar"
+   },
+   "caption": "STEP 6",
+   "cuts": 1,
+   "chapter": "Step 6. Max your tax advantages"
+  },
+  {
+   "text": "Use your 401k, an IRA, and a health savings account if you qualify. Tax advantaged accounts let more of your money compound. For early retirees, a mix of traditional, Roth and taxable accounts gives flexibility later.",
+   "query": "Tax advantaged accounts",
+   "caption": "401K, IRA, HSA",
+   "cuts": 3
+  },
+  {
+   "text": "An HSA can be especially powerful. Contributions can be tax deductible, growth can be tax free, and withdrawals for qualified medical costs can be tax free too. Some early retirees pay medical costs out of pocket and let the HSA grow for decades.",
+   "query": "Health savings account card",
+   "caption": "THE HSA",
+   "cuts": 3
+  },
+  {
+   "text": "Step seven. Invest in low cost index funds.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Invest in low cost index funds",
+    "sub": "simple, diversified, cheap"
+   },
+   "caption": "STEP 7",
+   "cuts": 1,
+   "chapter": "Step 7. Invest in low cost index funds"
+  },
+  {
+   "text": "Most early retirees use broad index funds with very low fees. A total U.S. stock market fund, an international fund, and maybe a bond fund. Or a single target date fund. Low fees matter even more over a long horizon.",
+   "query": "Index fund screen",
+   "caption": "LOW COST INDEX FUNDS",
+   "cuts": 3
+  },
+  {
+   "text": "And then stay the course. Don't sell in crashes. Don't chase hot trends. The plan works because of time and consistency, not clever trading.",
+   "query": "Calm investor",
+   "caption": "STAY THE COURSE",
+   "cuts": 3
+  },
+  {
+   "text": "Step eight. Grow your income.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Grow your income",
+    "sub": "the accelerator"
+   },
+   "caption": "STEP 8",
+   "cuts": 1,
+   "chapter": "Step 8. Grow your income"
+  },
+  {
+   "text": "Raising income while keeping spending steady is the fastest way to increase your savings rate. A ten thousand dollar raise with no lifestyle change can add several percentage points to your savings rate in a single year.",
+   "query": "Promotion raise",
+   "caption": "RAISES, NOT UPGRADES",
+   "cuts": 3
+  },
+  {
+   "text": "Side income helps too, especially if it builds skills you can use after early retirement. Many early retirees keep a small business or freelance work for both income and purpose.",
+   "query": "Freelancer laptop",
+   "caption": "SIDE INCOME",
+   "cuts": 3
+  },
+  {
+   "text": "Step nine. Plan for healthcare.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Plan for healthcare",
+    "sub": "the big early retirement cost"
+   },
+   "caption": "STEP 9",
+   "cuts": 1,
+   "chapter": "Step 9. Plan for healthcare"
+  },
+  {
+   "text": "Medicare generally starts at sixty five. Retire before that, and you need another plan. Options include the Affordable Care Act marketplace at healthcare dot gov, a spouse's employer plan, or COBRA for a limited time after leaving a job.",
+   "query": "Healthcare marketplace website",
+   "caption": "BEFORE MEDICARE",
+   "cuts": 3
+  },
+  {
+   "text": "Marketplace premium subsidies are based on income, so early retirees with modest taxable income may qualify for help. Rules change, so check current details. Include healthcare clearly in your FI number. Underestimating it is one of the most common mistakes.",
+   "query": "Healthcare costs calculator",
+   "caption": "INCLUDE IT IN YOUR NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Step ten. Plan how to access your money before fifty nine and a half.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Plan access before 59 and a half",
+    "sub": "getting to your money"
+   },
+   "caption": "STEP 10",
+   "cuts": 1,
+   "chapter": "Step 10. Plan access before 59 and a half"
+  },
+  {
+   "text": "Retirement accounts generally have a ten percent penalty on early withdrawals before fifty nine and a half, with exceptions. Early retirees use several strategies. A taxable brokerage account has no age limits. Roth IRA contributions, not earnings, can generally be withdrawn anytime.",
+   "query": "Retirement account rules",
+   "caption": "TAXABLE AND ROTH",
+   "cuts": 3
+  },
+  {
+   "text": "Other strategies include a Roth conversion ladder, which converts traditional funds to Roth over time, the rule of fifty five for some 401k plans if you leave your job in or after the year you turn fifty five, and substantially equal periodic payments under IRS rules. These can be complex, so consider professional tax advice.",
+   "query": "Tax advisor meeting",
+   "caption": "CONVERSION LADDER AND MORE",
+   "cuts": 3
+  },
+  {
+   "text": "Step eleven. Test drive your retirement.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Test drive your retirement",
+    "sub": "before you quit"
+   },
+   "caption": "STEP 11",
+   "cuts": 1,
+   "chapter": "Step 11. Test drive your retirement"
+  },
+  {
+   "text": "Before leaving your job, live on your planned retirement budget for a year. Include healthcare costs. If it works comfortably, you've proven your number. If it doesn't, adjust before it's too late.",
+   "query": "Person living on budget",
+   "caption": "LIVE ON THE BUDGET FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Also test the time. Take a long vacation or a sabbatical if you can. Many people discover what they want to do with their free time, and what they miss about work.",
+   "query": "Sabbatical travel",
+   "caption": "TEST THE TIME TOO",
+   "cuts": 3
+  },
+  {
+   "text": "Step twelve. Stay flexible after you retire.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Stay flexible after you retire",
+    "sub": "the safety valve"
+   },
+   "caption": "STEP 12",
+   "cuts": 1,
+   "chapter": "Step 12. Stay flexible after you retire"
+  },
+  {
+   "text": "The early years of retirement carry the most risk. If markets fall sharply right after you retire, withdrawing too much can do lasting damage. This is called sequence of returns risk. Flexibility is your best defense.",
+   "query": "Market drop early retirement",
+   "caption": "SEQUENCE RISK",
+   "cuts": 3
+  },
+  {
+   "text": "Cut spending a little in bad years. Earn some part time income. Use your cash buffer instead of selling investments at low prices. Small adjustments can dramatically improve the odds that your money lasts.",
+   "query": "Part time work",
+   "caption": "SMALL ADJUSTMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's walk through a sample plan. Sam and Jess are both thirty, with a combined income of seventy thousand dollars. After taxes and retirement contributions, they bring home about forty six hundred a month. They contribute ten percent to their 401k plans, with a four percent match, so about eight hundred dollars a month is invested before the paycheck arrives.",
+   "query": "Young couple planning",
+   "caption": "SAM AND JESS",
+   "cuts": 3,
+   "chapter": "A sample plan on $70,000",
+   "short_hook": "How a $70,000 household could retire at 50"
+  },
+  {
+   "text": "They rent a modest two bedroom, share one paid off car, and cook most meals. Their spending is about thirty four hundred a month. That leaves twelve hundred a month to invest in IRAs and a taxable account. Total investing: about two thousand a month, roughly thirty seven percent of their take home pay plus contributions.",
+   "query": "Modest apartment couple",
+   "caption": "~37% SAVINGS RATE",
+   "cuts": 3
+  },
+  {
+   "text": "Their yearly spending is about forty one thousand dollars, so twenty five times that is about one million dollars. Investing two thousand a month at five percent after inflation, and using raises to keep their savings growing, they could reach financial independence in their early fifties. Maybe sooner, if their income grows faster than their spending.",
+   "query": "Growth chart reaching target",
+   "caption": "FI IN EARLY 50S",
+   "cuts": 3
+  },
+  {
+   "text": "Is that a sacrifice? In some ways. They don't have two new cars or a big house. But they travel once a year, eat out on weekends, and they're debt free. And they'll likely be free to choose what to do with their time ten or fifteen years before most of their friends.",
+   "query": "Couple traveling happy",
+   "caption": "WHAT THEY GET",
+   "cuts": 3
+  },
+  {
+   "text": "Early retirement looks different for everyone. Take a teacher who earns sixty thousand dollars. Through a state pension, a 403b and a Roth IRA, and by living modestly, she may be able to retire in her mid fifties with a pension covering part of her expenses. Pensions can be a powerful early retirement tool, depending on the plan's rules.",
+   "query": "Teacher in classroom",
+   "caption": "THE TEACHER",
+   "cuts": 3,
+   "chapter": "Three paths to early retirement"
+  },
+  {
+   "text": "Or a nurse who saves forty percent of a seventy five thousand dollar salary while working night shifts and living with a roommate for a few years. By her mid forties, she may reach coast FI, cut to part time work she enjoys, and let her portfolio grow until traditional retirement age.",
+   "query": "Nurse hospital hallway",
+   "caption": "THE NURSE: COAST FI",
+   "cuts": 3
+  },
+  {
+   "text": "Or an electrician who builds a small side business. Between his union pension, his savings and part time contracting work, he might stop full time work around fifty, and keep doing the jobs he enjoys a few days a month. That's barista FI in action.",
+   "query": "Electrician working",
+   "caption": "THE ELECTRICIAN: BARISTA FI",
+   "cuts": 3
+  },
+  {
+   "text": "None of these paths requires a six figure salary. All of them require a high savings rate, patience, and a plan for healthcare and income. These are illustrations, not promises. But the principles behind them are available to almost anyone.",
+   "query": "Three people different careers",
+   "caption": "NO SIX FIGURE SALARY NEEDED",
+   "cuts": 3
+  },
+  {
+   "text": "What these stories share is a combination of tools. A pension or part time work covers some expenses. Investments cover the rest. Social Security arrives later. Early retirement on a normal income usually isn't one big portfolio. It's several income sources fitted together, with a plan for the gaps.",
+   "query": "Puzzle pieces fitting",
+   "caption": "SEVERAL SOURCES TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "Let's be clear about the risks. Market risk: a major crash right after you retire can hurt. Inflation risk: prices can rise faster than expected. Healthcare risk: costs before Medicare can be high and unpredictable. And longevity risk: your money may need to last fifty years or more.",
+   "query": "Risk warning signs",
+   "caption": "THE FOUR RISKS",
+   "cuts": 3,
+   "chapter": "The risks to plan for"
+  },
+  {
+   "text": "Policy risk matters too. Tax laws, healthcare rules and retirement account rules can change. That's why many early retirees build in margins: a lower withdrawal rate, a cash buffer, some flexibility to earn income, and a mix of account types.",
+   "query": "Government building policy",
+   "caption": "RULES CAN CHANGE",
+   "cuts": 3
+  },
+  {
+   "text": "None of these risks means early retirement is impossible. It means plan carefully, keep options open, and don't cut your safety margins too thin. A plan that reaches FI two years later but with a stronger cushion is often the better plan.",
+   "query": "Safety net",
+   "caption": "BUILD IN MARGINS",
+   "cuts": 3
+  },
+  {
+   "text": "Of course, real life won't follow a spreadsheet exactly. Raises will come at different times, markets will rise and fall, and expenses will surprise them. But the structure, a high savings rate, low fixed costs and steady investing, gives them a strong chance of reaching freedom years ahead of the traditional schedule.",
+   "query": "Spreadsheet and real life",
+   "caption": "REAL LIFE VERSUS THE SPREADSHEET",
+   "cuts": 3
+  },
+  {
+   "text": "Reaching your number is only half the plan. The other half is withdrawing it wisely. A common approach is to hold a cash buffer of one to two years of spending, and refill it from investments when markets are doing well. In bad years, you spend from the buffer and give your investments time to recover.",
+   "query": "Bucket system diagram",
+   "caption": "THE BUCKET APPROACH",
+   "cuts": 3,
+   "chapter": "How the money actually comes out"
+  },
+  {
+   "text": "Another approach is a flexible withdrawal rule. Start around three and a half percent, and adjust. In strong years, take a small raise. In weak years, cut back slightly. Research on flexible withdrawal strategies suggests even modest adjustments can greatly improve the odds of the money lasting.",
+   "query": "Thermostat adjusting",
+   "caption": "FLEXIBLE WITHDRAWALS",
+   "cuts": 3
+  },
+  {
+   "text": "And taxes matter. Withdrawals from traditional accounts are usually taxed as income. Roth withdrawals can be tax free if the rules are met. Long term gains in taxable accounts are often taxed at lower rates. With low income in early retirement, some people pay very little tax by drawing carefully from each type of account.",
+   "query": "Tax buckets chart",
+   "caption": "TAX SMART WITHDRAWALS",
+   "cuts": 3
+  },
+  {
+   "text": "This is one area where a few hours with a tax professional can pay for itself many times over, especially when combining withdrawals, Roth conversions and healthcare subsidies, which all interact.",
+   "query": "Tax professional meeting",
+   "caption": "WORTH A PROFESSIONAL",
+   "cuts": 3
+  },
+  {
+   "text": "Your FI number depends on your spending, and where you live has a huge effect on spending. Housing costs can vary enormously between cities and states. A home that costs five hundred thousand dollars in one area might cost two hundred fifty thousand in another.",
+   "query": "Map housing prices",
+   "caption": "LOCATION CHANGES THE NUMBER",
+   "cuts": 3,
+   "chapter": "Where you live matters"
+  },
+  {
+   "text": "Some early retirees move to lower cost areas when they stop working, a strategy sometimes called geographic arbitrage. If your spending falls from fifty thousand to forty thousand a year, your FI number falls by about two hundred fifty thousand dollars. That could mean retiring years earlier.",
+   "query": "Moving truck small town",
+   "caption": "GEOGRAPHIC ARBITRAGE",
+   "cuts": 3
+  },
+  {
+   "text": "It's not for everyone. Family, friends and community matter a lot. But even a smaller move, like a cheaper neighborhood or a smaller home, can make a real difference.",
+   "query": "Community neighborhood",
+   "caption": "IT'S NOT FOR EVERYONE",
+   "cuts": 3
+  },
+  {
+   "text": "For couples, early retirement is a shared project. Both people need to agree on the goal, the trade offs and the timeline. Disagreements about spending are common. Talking early and often about what you each value helps avoid resentment.",
+   "query": "Couple talking at kitchen table",
+   "caption": "A SHARED PROJECT",
+   "cuts": 3,
+   "chapter": "Early retirement as a couple"
+  },
+  {
+   "text": "Some couples choose a staggered path. One partner leaves full time work first, maybe to care for children or start a business, while the other keeps working and provides health insurance. That can reduce risk and make the transition smoother.",
+   "query": "Couple different schedules",
+   "caption": "A STAGGERED PATH",
+   "cuts": 3
+  },
+  {
+   "text": "If you're within five years of your number, focus shifts from accumulation to preparation. Build your cash buffer. Plan healthcare. Map out which accounts you'll draw from first. And test drive your retirement budget, if you haven't yet.",
+   "query": "Countdown calendar",
+   "caption": "WITHIN FIVE YEARS",
+   "cuts": 3,
+   "chapter": "Already close?"
+  },
+  {
+   "text": "Also think about your investment mix. Some people reduce risk slightly as they approach early retirement, because a big drop just before or after they stop working can hurt the most. A balanced mix and a cash buffer can soften that risk.",
+   "query": "Balanced portfolio pie",
+   "caption": "REDUCE RISK A LITTLE",
+   "cuts": 3
+  },
+  {
+   "text": "Here's what to do this week. Day one: add up your last twelve months of spending. Day two: multiply by twenty five, and write that number down. Day three: calculate your current savings rate.",
+   "query": "Checklist days",
+   "caption": "DAYS 1 TO 3",
+   "cuts": 3,
+   "chapter": "Your first week checklist"
+  },
+  {
+   "text": "Day four: look at the savings rate table and find your current timeline. Day five: pick one big three change that would raise your savings rate by five percentage points. Day six: increase your retirement contribution by at least one percent. Day seven: write down what you'd do with your time if work were optional. That's your why.",
+   "query": "Person writing in journal",
+   "caption": "DAYS 4 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "Let's look at the most common mistakes, so you can avoid them. Mistake one: underestimating spending. People often forget irregular costs like roof repairs, new cars every ten or fifteen years, dental work, or helping family. Build these into your yearly number.",
+   "query": "Roof repair house",
+   "caption": "MISTAKE 1: FORGETTING COSTS",
+   "cuts": 3,
+   "chapter": "Mistakes early retirees make"
+  },
+  {
+   "text": "Mistake two: forgetting healthcare. Before Medicare, premiums and deductibles can be thousands of dollars a year. Price your real options before you quit, not after.",
+   "query": "Medical bills",
+   "caption": "MISTAKE 2: HEALTHCARE",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three: retiring right at the edge. If your plan only works with perfect returns and no surprises, it's too tight. A margin of safety, a little extra saved or a little flexibility in spending, protects you from bad luck.",
+   "query": "Person on cliff edge",
+   "caption": "MISTAKE 3: NO MARGIN",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake four: losing identity and community. Work gives many people structure, friends and a sense of purpose. Early retirees who thrive usually replace those things deliberately, with projects, groups, volunteering or part time work.",
+   "query": "Community group activity",
+   "caption": "MISTAKE 4: LOSING PURPOSE",
+   "cuts": 3
+  },
+  {
+   "text": "And mistake five: going too extreme. Some people cut spending so hard they burn out and abandon the plan. A sustainable savings rate you can keep for fifteen years beats an extreme one you quit after two.",
+   "query": "Burned out person",
+   "caption": "MISTAKE 5: TOO EXTREME",
+   "cuts": 3
+  },
+  {
+   "text": "So what do early retirees actually do all day? Surveys and interviews with people who've reached financial independence show a wide range. Many travel slowly, spend more time with family, exercise, cook, read, and learn new skills. Many also keep earning some money, often from work they find meaningful.",
+   "query": "Person gardening morning",
+   "caption": "A NORMAL DAY",
+   "cuts": 3,
+   "chapter": "What early retirement really looks like"
+  },
+  {
+   "text": "What changes most, they often say, isn't the activities. It's the feeling. Not needing a paycheck changes how you approach work, relationships and time. You say yes to the things you value and no to the things you don't. That freedom is the real goal.",
+   "query": "Person smiling calm sunrise",
+   "caption": "THE FEELING OF FREEDOM",
+   "cuts": 3
+  },
+  {
+   "text": "Objection one. I'd be bored. Some early retirees are, at first. But many find more purpose, not less, once they choose their work. The key is planning what you're retiring to. Volunteering, learning, creating, caring for family, or meaningful part time work.",
+   "query": "Person painting hobby",
+   "caption": "I'D BE BORED",
+   "cuts": 3,
+   "chapter": "But Ryan, what about..."
+  },
+  {
+   "text": "Objection two. It's only for people without kids. Many families pursue FI, though children add costs and usually slow the timeline. Families often focus on housing and transportation savings, use tax advantaged accounts fully, and aim for a slightly later but still early finish line.",
+   "query": "Family with kids",
+   "caption": "WHAT ABOUT KIDS?",
+   "cuts": 3
+  },
+  {
+   "text": "Objection three. It sounds miserable. It doesn't have to be. Saving thirty or forty percent while living well is possible when the big three are controlled. And even if you never retire early, a high savings rate gives you security, freedom and lower stress for the rest of your life.",
+   "query": "Happy friends dinner at home",
+   "caption": "SOUNDS MISERABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Objection four. What if the market crashes right after I retire? That's the sequence of returns risk we discussed. A cash buffer, a conservative withdrawal rate, and willingness to earn a little or spend a little less in bad years are the main defenses. Historical studies suggest plans with these safeguards have held up through severe downturns.",
+   "query": "Market crash chart",
+   "caption": "WHAT IF IT CRASHES?",
+   "cuts": 3
+  },
+  {
+   "text": "And objection five. I love my job. Wonderful. Financial independence doesn't require leaving it. It means you stay because you want to, not because you have to. Many people find they enjoy their work more once the pressure of needing the paycheck disappears.",
+   "query": "Happy person at work",
+   "caption": "I LOVE MY JOB",
+   "cuts": 3
+  },
+  {
+   "text": "How do people actually go from ten percent to thirty or forty percent? Usually not all at once. A common path looks like this. Year one: track spending and get the full match, reaching about fifteen percent. Year two: pay off a car loan and keep driving the car, redirecting the payment, reaching twenty percent.",
+   "query": "Progress chart step by step",
+   "caption": "YEAR 1 AND 2",
+   "cuts": 3,
+   "chapter": "Raising your savings rate in practice"
+  },
+  {
+   "text": "Year three: move to a cheaper apartment or take in a roommate, and send the savings to investments, reaching twenty eight percent. Year four: get a raise and send most of it to savings, reaching thirty three percent. Year five: cut a few recurring costs and add side income, reaching forty percent.",
+   "query": "Rising staircase",
+   "caption": "YEARS 3 TO 5",
+   "cuts": 3
+  },
+  {
+   "text": "Notice that none of those steps is extreme on its own. Each is one decision. But together, over five years, they can cut decades off the path to financial independence. That's how ordinary incomes become early retirements.",
+   "query": "Small decisions big result",
+   "caption": "ONE DECISION AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "And the effect compounds in a second way. Every year at a higher savings rate, you get more comfortable living on less. Many people say they don't miss the spending they cut, and they're surprised how much calmer they feel with a growing cushion.",
+   "query": "Calm person at home",
+   "caption": "YOU DON'T MISS IT",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions I hear most about early retirement.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Is the four percent rule still safe? It's a historical guideline, not a guarantee. Some researchers suggest lower starting rates for very long retirements or when valuations are high. Many early retirees use three to three and a half percent, plus flexibility, to improve their odds.",
+   "query": "Research chart",
+   "caption": "IS 4% SAFE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. What about Social Security? If you retire early, your benefits may be lower, because they're based on your highest thirty five years of earnings. But you'll likely still receive something later. Many early retirees treat Social Security as a bonus that reduces how much they need to withdraw later in life. You can check your estimate at ssa dot gov.",
+   "query": "Social Security website",
+   "caption": "SOCIAL SECURITY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Should I pay off my house before retiring early? It can lower your spending and your FI number, which many people like. But it ties up money that could be invested. Many early retirees aim to have their mortgage paid off around the time they retire, for peace of mind.",
+   "query": "Paid off house",
+   "caption": "PAY OFF THE HOUSE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Do I need a financial advisor? Not necessarily, but a fee only fiduciary or a tax professional can be very helpful for withdrawal strategies, Roth conversions and healthcare subsidies. Even one or two planning sessions can prevent costly mistakes.",
+   "query": "Advisor meeting",
+   "caption": "AN ADVISOR?",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. What if I start late? Even at forty or forty five, raising your savings rate to thirty or forty percent can significantly move your retirement date. You may not retire at forty five, but you could reach financial independence well before a traditional retirement age.",
+   "query": "Middle aged person planning",
+   "caption": "STARTING LATE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. What about the people who say early retirement is a myth? Some critics point out that many FIRE bloggers earn money from their blogs, so they never really stopped working. That's fair. But many people use the same principles quietly, to switch to work they love or cut back to part time. Financial independence is about options, not idleness.",
+   "query": "Debate discussion",
+   "caption": "IS IT A MYTH?",
+   "cuts": 3
+  },
+  {
+   "text": "And question seven. What's the single most important number? Your savings rate. It controls how fast you build your portfolio and how much you need. Raise it, keep it high, and give it time. Everything else is detail.",
+   "query": "Savings rate gauge high",
+   "caption": "THE ONE NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Your FI number is roughly twenty five times your yearly spending, or more if you retire very early. The time it takes depends mostly on your savings rate. Ten percent takes about fifty years. Fifty percent takes about seventeen.",
+   "query": "Checklist clipboard",
+   "caption": "THE NUMBERS",
+   "cuts": 3,
+   "chapter": "Recap: the 12 steps",
+   "short_hook": "Retire early on a normal income: the 60-second version"
+  },
+  {
+   "text": "The twelve steps. Calculate your real spending. Find your savings rate. Cut the big three. Kill high interest debt. Build a strong emergency fund. Max your tax advantages. Invest in low cost index funds. Grow your income. Plan for healthcare. Plan access before fifty nine and a half. Test drive your retirement. And stay flexible after you retire.",
+   "query": "Staircase twelve steps",
+   "caption": "THE 12 STEPS",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought. You don't have to decide today whether you want to retire at forty five, fifty five or never. Raising your savings rate gives you the option. And options, more than any number, are what financial freedom really feels like.",
+   "query": "Open road horizon",
+   "caption": "OPTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "This week, calculate two numbers: your yearly spending and your savings rate. Those two numbers tell you more about your future than your salary ever will. And watch my video on the complete budget system. It's how you raise that savings rate. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

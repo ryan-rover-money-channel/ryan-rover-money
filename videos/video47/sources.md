@@ -1,0 +1,8 @@
+- FDIC, Quarterly Banking Profile (industry net interest margin around 3%)
+- FDIC, National Rates and Rate Caps (national average savings rate)
+- Consumer Financial Protection Bureau, overdraft and NSF fee revenue (about $5.8 billion in 2023, down from over $12 billion in 2019)
+- Federal Reserve, Regulation II debit card interchange fee cap (Durbin amendment, Dodd-Frank Act)
+- Federal Reserve, FedNow Service (launched 2023)
+- FDIC deposit insurance ($250,000 per depositor, per insured bank, per ownership category); NCUA share insurance
+- Wells Fargo unauthorized accounts enforcement actions (2016); Silicon Valley Bank failure (March 2023)
+- Interest and growth figures: stated illustrative math

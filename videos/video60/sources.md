@@ -1,0 +1,7 @@
+- Federal Reserve, Survey of Consumer Finances (net worth distribution)
+- Federal Reserve, Economic Well-Being of U.S. Households (SHED)
+- Consumer Financial Protection Bureau, payday loan research
+- Fidelity, quarterly retirement analysis (401(k) millionaires)
+- Vanguard, How America Saves
+- William P. Bengen, Determining Withdrawal Rates Using Historical Data (1994)
+- Growth and milestone timelines: stated illustrative math at a 7% average yearly return

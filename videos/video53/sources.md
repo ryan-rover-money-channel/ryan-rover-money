@@ -1,0 +1,6 @@
+- U.S. Bureau of Labor Statistics, Usual Weekly Earnings of Wage and Salary Workers (median full-time earnings)
+- U.S. Bureau of Labor Statistics, Consumer Expenditure Survey (housing, transportation and food shares)
+- IRS, 401(k), IRA, Roth, HSA and Saver's Credit rules (check current limits)
+- Fidelity, quarterly retirement analysis (number of 401(k) millionaires)
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996)
+- Growth figures: stated illustrative math at a 7% average yearly return; salary growth illustration at 3% a year
