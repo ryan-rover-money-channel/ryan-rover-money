@@ -1,0 +1,11 @@
+- Federal Reserve, Economic Well-Being of U.S. Households (SHED): the $400 emergency question
+- Federal Reserve, G.19 Consumer Credit (credit card interest rates)
+- Kivetz, Urminsky and Zheng, The Goal-Gradient Hypothesis Resurrected (Journal of Marketing Research, 2006)
+- Richard Thaler, Mental Accounting Matters (Journal of Behavioral Decision Making, 1999)
+- Kahneman and Tversky, Prospect Theory (Econometrica, 1979)
+- Thaler and Benartzi, Save More Tomorrow (Journal of Political Economy, 2004)
+- Stanley and Danko, The Millionaire Next Door (1996)
+- James Clear, Atomic Habits (2018): identity-based habits
+- Charlie Munger's remark on the first $100,000 (widely reported)
+- IRS, catch-up contribution rules for age 50 and older
+- Growth examples: monthly compounding at stated average yearly returns (illustrations, not promises)
