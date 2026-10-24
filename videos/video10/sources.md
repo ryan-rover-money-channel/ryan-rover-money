@@ -1,0 +1,12 @@
+- U.S. Census Bureau, Income in the United States: 2024 (median household income about $83,730)
+- Federal Reserve, Survey of Consumer Finances 2022 (median family net worth $192,700; primary residence as largest asset for middle-wealth families)
+- Federal Reserve, Distributional Financial Accounts (top 10% hold about two thirds of household wealth)
+- Vanguard, How America Saves 2025 (average account balance about $148,000, median about $38,000 in 2024)
+- Kelley Blue Book, average new-vehicle transaction price; Edmunds, average new car payment above $700
+- Harvard Joint Center for Housing Studies, The State of the Nation's Housing (cost-burdened households)
+- Child Care Aware of America, child care price data (national average above $11,000 a year)
+- Federal Reserve Bank of Atlanta, Wage Growth Tracker (job switchers vs stayers)
+- Federal Reserve G.19 Consumer Credit (credit card interest rates above 20%)
+- DALBAR, Quantitative Analysis of Investor Behavior
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996)
+- Compound growth: stated illustrative math at 7% average yearly return, compounded monthly
