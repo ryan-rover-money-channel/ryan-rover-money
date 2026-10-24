@@ -408,7 +408,7 @@ help. Check current limits with the IRS.""",
 
 # ---------------- Story ----------------
 ch("Two beginners")
-short("Two beginners started investing the same year. Only one made money.")
+short("Two beginners started investing the same year. Only one did it right.")
 sc("""Imagine two beginners who both start investing three hundred dollars a month. The first one downloads a trading app, buys
 whatever is trending, checks constantly, sells during the first big drop and jumps back in after prices recover. After a few
 years, they've paid more in taxes, missed the rebound and feel that investing doesn't work.""",
