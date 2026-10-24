@@ -1,0 +1,4235 @@
+1
+00:00:00,000 --> 00:00:01,915
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,095 --> 00:00:03,651
+You've probably heard the quote.
+
+3
+00:00:03,831 --> 00:00:06,342
+Compound interest is the eighth wonder of
+
+4
+00:00:06,342 --> 00:00:06,954
+the world.
+
+5
+00:00:07,134 --> 00:00:08,386
+He who understands it,
+
+6
+00:00:08,386 --> 00:00:08,899
+earns it.
+
+7
+00:00:09,079 --> 00:00:10,108
+He who doesn't,
+
+8
+00:00:10,108 --> 00:00:10,658
+pays it.
+
+9
+00:00:10,838 --> 00:00:13,276
+It's usually credited to Albert Einstein.
+
+10
+00:00:13,456 --> 00:00:14,675
+Here's a fun fact.
+
+11
+00:00:14,855 --> 00:00:17,329
+There's no good evidence Einstein ever said
+
+12
+00:00:17,329 --> 00:00:17,502
+it.
+
+13
+00:00:17,682 --> 00:00:19,087
+But whoever said it was right.
+
+14
+00:00:19,267 --> 00:00:22,132
+Compound interest is the most powerful force
+
+15
+00:00:22,132 --> 00:00:23,435
+in personal finance.
+
+16
+00:00:23,615 --> 00:00:25,716
+It can make ordinary people wealthy,
+
+17
+00:00:25,716 --> 00:00:27,934
+and it can keep ordinary people broke.
+
+18
+00:00:28,114 --> 00:00:30,884
+Today, we're going to explain it completely,
+
+19
+00:00:30,884 --> 00:00:32,017
+in twenty lessons,
+
+20
+00:00:32,017 --> 00:00:33,906
+so it works for you instead of
+
+21
+00:00:33,906 --> 00:00:34,662
+against you.
+
+22
+00:00:35,012 --> 00:00:37,426
+Here's compound interest in one picture.
+
+23
+00:00:37,606 --> 00:00:39,867
+Would you rather have one million dollars
+
+24
+00:00:39,867 --> 00:00:41,908
+today, or a single penny that doubles
+
+25
+00:00:41,908 --> 00:00:43,342
+every day for thirty days?
+
+26
+00:00:43,522 --> 00:00:44,451
+On day thirty,
+
+27
+00:00:44,451 --> 00:00:46,640
+the penny is worth more than five
+
+28
+00:00:46,640 --> 00:00:47,701
+million dollars.
+
+29
+00:00:48,052 --> 00:00:50,550
+The penny puzzle shows the strange thing
+
+30
+00:00:50,550 --> 00:00:51,674
+about compounding.
+
+31
+00:00:51,854 --> 00:00:53,071
+For most of the month,
+
+32
+00:00:53,071 --> 00:00:54,454
+the penny looks pathetic.
+
+33
+00:00:54,634 --> 00:00:55,379
+On day ten,
+
+34
+00:00:55,379 --> 00:00:57,409
+it's worth about five dollars.
+
+35
+00:00:57,589 --> 00:00:58,526
+On day twenty,
+
+36
+00:00:58,526 --> 00:00:59,865
+about five thousand.
+
+37
+00:01:00,045 --> 00:01:01,229
+Then it explodes.
+
+38
+00:01:01,409 --> 00:01:03,370
+Most of the growth happens at the
+
+39
+00:01:03,370 --> 00:01:03,905
+very end.
+
+40
+00:01:04,085 --> 00:01:07,001
+That's exactly how compound interest works with
+
+41
+00:01:07,001 --> 00:01:09,359
+real money, just over years instead of
+
+42
+00:01:09,359 --> 00:01:09,670
+days.
+
+43
+00:01:09,850 --> 00:01:12,475
+The early years feel slow and almost
+
+44
+00:01:12,475 --> 00:01:13,205
+pointless.
+
+45
+00:01:13,385 --> 00:01:15,324
+The later years feel like magic.
+
+46
+00:01:15,504 --> 00:01:17,769
+And most people quit before the magic
+
+47
+00:01:17,769 --> 00:01:18,197
+starts.
+
+48
+00:01:18,548 --> 00:01:21,601
+We'll explain compounding from three angles.
+
+49
+00:01:21,781 --> 00:01:23,197
+First, the numbers.
+
+50
+00:01:23,377 --> 00:01:24,867
+How it actually works,
+
+51
+00:01:24,867 --> 00:01:26,493
+the rule of seventy two,
+
+52
+00:01:26,493 --> 00:01:29,608
+compounding frequency and the real math behind
+
+53
+00:01:29,608 --> 00:01:30,692
+famous examples.
+
+54
+00:01:30,872 --> 00:01:32,706
+Second, the psychology.
+
+55
+00:01:32,886 --> 00:01:35,884
+Why our brains struggle to understand exponential
+
+56
+00:01:35,884 --> 00:01:38,087
+growth, and how that costs us money.
+
+57
+00:01:38,267 --> 00:01:39,893
+And third, the playbook.
+
+58
+00:01:40,073 --> 00:01:41,904
+How to put compounding to work in
+
+59
+00:01:41,904 --> 00:01:43,514
+your life, and how to stop it
+
+60
+00:01:43,514 --> 00:01:44,624
+working against you.
+
+61
+00:01:44,804 --> 00:01:45,524
+Quick note.
+
+62
+00:01:45,704 --> 00:01:48,838
+Growth examples use stated returns like seven
+
+63
+00:01:48,838 --> 00:01:49,396
+percent.
+
+64
+00:01:49,576 --> 00:01:51,285
+Those are illustrations,
+
+65
+00:01:51,285 --> 00:01:52,211
+not promises.
+
+66
+00:01:52,561 --> 00:01:54,302
+Let's start at the very beginning.
+
+67
+00:01:54,482 --> 00:01:56,515
+What is compound interest,
+
+68
+00:01:56,515 --> 00:01:57,141
+exactly?
+
+69
+00:01:57,491 --> 00:01:58,477
+Our sources.
+
+70
+00:01:58,657 --> 00:02:01,531
+The Einstein quote's history comes from quote
+
+71
+00:02:01,531 --> 00:02:04,085
+researchers like the Quote Investigator,
+
+72
+00:02:04,085 --> 00:02:06,065
+which found no reliable source.
+
+73
+00:02:06,245 --> 00:02:09,841
+Benjamin Franklin's bequest comes from historical records
+
+74
+00:02:09,841 --> 00:02:12,112
+of the Franklin trusts in Boston and
+
+75
+00:02:12,112 --> 00:02:12,932
+Philadelphia.
+
+76
+00:02:13,112 --> 00:02:16,541
+Research on how people misunderstand compounding comes
+
+77
+00:02:16,541 --> 00:02:19,716
+from economists Victor Stango and Jonathan Zinman,
+
+78
+00:02:19,716 --> 00:02:22,828
+and from financial literacy research by Annamaria
+
+79
+00:02:22,828 --> 00:02:24,606
+Lusardi and Olivia Mitchell.
+
+80
+00:02:24,786 --> 00:02:26,982
+Credit card rates come from the Federal
+
+81
+00:02:26,982 --> 00:02:27,433
+Reserve.
+
+82
+00:02:27,613 --> 00:02:28,974
+This is education,
+
+83
+00:02:28,974 --> 00:02:30,562
+not financial advice.
+
+84
+00:02:30,912 --> 00:02:31,713
+Angle one.
+
+85
+00:02:31,893 --> 00:02:32,671
+The numbers.
+
+86
+00:02:32,851 --> 00:02:35,776
+Seven lessons on how compounding really works.
+
+87
+00:02:36,127 --> 00:02:37,230
+Lesson number one.
+
+88
+00:02:37,410 --> 00:02:40,393
+The difference between simple and compound interest.
+
+89
+00:02:40,744 --> 00:02:43,147
+Simple interest is paid only on your
+
+90
+00:02:43,147 --> 00:02:44,215
+original amount.
+
+91
+00:02:44,395 --> 00:02:46,555
+Put one thousand dollars in an account
+
+92
+00:02:46,555 --> 00:02:48,545
+paying ten percent simple interest,
+
+93
+00:02:48,545 --> 00:02:50,705
+and you earn one hundred dollars every
+
+94
+00:02:50,705 --> 00:02:50,989
+year.
+
+95
+00:02:51,169 --> 00:02:52,219
+After ten years,
+
+96
+00:02:52,219 --> 00:02:54,188
+you have two thousand dollars.
+
+97
+00:02:54,368 --> 00:02:57,700
+Steady, predictable, and kind of boring.
+
+98
+00:02:58,050 --> 00:03:00,811
+Compound interest is paid on your original
+
+99
+00:03:00,811 --> 00:03:03,638
+amount plus all the interest you've already
+
+100
+00:03:03,638 --> 00:03:04,098
+earned.
+
+101
+00:03:04,278 --> 00:03:06,602
+The same one thousand dollars at ten
+
+102
+00:03:06,602 --> 00:03:09,829
+percent compounded yearly becomes one thousand one
+
+103
+00:03:09,829 --> 00:03:11,313
+hundred after year one,
+
+104
+00:03:11,313 --> 00:03:13,508
+then one thousand two hundred ten,
+
+105
+00:03:13,508 --> 00:03:16,283
+then one thousand three hundred thirty one.
+
+106
+00:03:16,463 --> 00:03:17,392
+After ten years,
+
+107
+00:03:17,392 --> 00:03:19,888
+it's about two thousand five hundred ninety
+
+108
+00:03:19,888 --> 00:03:20,643
+four dollars.
+
+109
+00:03:20,823 --> 00:03:23,179
+Almost six hundred dollars more than simple
+
+110
+00:03:23,179 --> 00:03:24,933
+interest, without adding a cent.
+
+111
+00:03:25,283 --> 00:03:26,764
+Over longer periods,
+
+112
+00:03:26,764 --> 00:03:28,615
+the gap becomes enormous.
+
+113
+00:03:28,795 --> 00:03:29,914
+After thirty years,
+
+114
+00:03:29,914 --> 00:03:32,742
+simple interest gives you four thousand dollars.
+
+115
+00:03:32,922 --> 00:03:35,803
+Compound interest at ten percent gives you
+
+116
+00:03:35,803 --> 00:03:37,450
+over seventeen thousand.
+
+117
+00:03:37,630 --> 00:03:39,070
+Same starting money,
+
+118
+00:03:39,070 --> 00:03:39,789
+same rate.
+
+119
+00:03:39,969 --> 00:03:41,971
+The only difference is that the interest
+
+120
+00:03:41,971 --> 00:03:43,522
+itself starts earning interest.
+
+121
+00:03:43,872 --> 00:03:45,102
+Remember it this way.
+
+122
+00:03:45,282 --> 00:03:47,488
+Simple interest is a staircase.
+
+123
+00:03:47,668 --> 00:03:49,909
+Compound interest is a snowball.
+
+124
+00:03:50,089 --> 00:03:52,638
+The staircase climbs the same step every
+
+125
+00:03:52,638 --> 00:03:52,957
+year.
+
+126
+00:03:53,137 --> 00:03:55,786
+The snowball picks up more snow the
+
+127
+00:03:55,786 --> 00:03:56,921
+bigger it gets.
+
+128
+00:03:57,272 --> 00:03:58,375
+Lesson number two.
+
+129
+00:03:58,555 --> 00:03:59,983
+The rule of seventy two.
+
+130
+00:04:00,333 --> 00:04:02,995
+Here's the most useful shortcut in personal
+
+131
+00:04:02,995 --> 00:04:03,490
+finance.
+
+132
+00:04:03,670 --> 00:04:06,137
+Divide seventy two by your yearly return,
+
+133
+00:04:06,137 --> 00:04:08,183
+and you get roughly how many years
+
+134
+00:04:08,183 --> 00:04:09,928
+it takes for money to double.
+
+135
+00:04:10,108 --> 00:04:11,353
+At six percent,
+
+136
+00:04:11,353 --> 00:04:12,929
+about twelve years.
+
+137
+00:04:13,109 --> 00:04:14,358
+At eight percent,
+
+138
+00:04:14,358 --> 00:04:15,606
+about nine years.
+
+139
+00:04:15,786 --> 00:04:17,304
+At twelve percent,
+
+140
+00:04:17,304 --> 00:04:18,653
+about six years.
+
+141
+00:04:18,833 --> 00:04:19,933
+It's an estimate,
+
+142
+00:04:19,933 --> 00:04:22,781
+but it's remarkably close for typical rates.
+
+143
+00:04:23,131 --> 00:04:25,441
+The rule works for anything that grows
+
+144
+00:04:25,441 --> 00:04:26,474
+at a steady rate.
+
+145
+00:04:26,654 --> 00:04:29,232
+Investments, debt, even inflation.
+
+146
+00:04:29,412 --> 00:04:31,265
+At three percent inflation,
+
+147
+00:04:31,265 --> 00:04:34,079
+prices double in about twenty four years.
+
+148
+00:04:34,259 --> 00:04:37,198
+At twenty four percent credit card interest,
+
+149
+00:04:37,198 --> 00:04:39,669
+an unpaid balance can double in about
+
+150
+00:04:39,669 --> 00:04:40,470
+three years.
+
+151
+00:04:40,821 --> 00:04:42,504
+Now think in doublings.
+
+152
+00:04:42,684 --> 00:04:43,897
+At seven percent,
+
+153
+00:04:43,897 --> 00:04:46,608
+money doubles roughly every ten years.
+
+154
+00:04:46,788 --> 00:04:49,291
+Ten thousand dollars at age thirty could
+
+155
+00:04:49,291 --> 00:04:51,669
+become about twenty thousand at forty,
+
+156
+00:04:51,669 --> 00:04:53,170
+forty thousand at fifty,
+
+157
+00:04:53,170 --> 00:04:54,985
+and eighty thousand at sixty.
+
+158
+00:04:55,165 --> 00:04:57,589
+Each decade, the jump is bigger than
+
+159
+00:04:57,589 --> 00:04:58,195
+the last.
+
+160
+00:04:58,545 --> 00:04:59,404
+Try this.
+
+161
+00:04:59,584 --> 00:05:01,964
+Take your savings account rate and divide
+
+162
+00:05:01,964 --> 00:05:03,009
+seventy two by it.
+
+163
+00:05:03,189 --> 00:05:04,955
+If the answer is fifty years or
+
+164
+00:05:04,955 --> 00:05:06,950
+more, your money is barely growing.
+
+165
+00:05:07,130 --> 00:05:09,105
+Then try it with your credit card
+
+166
+00:05:09,105 --> 00:05:10,961
+rate, and see how fast debt can
+
+167
+00:05:10,961 --> 00:05:11,380
+double.
+
+168
+00:05:11,730 --> 00:05:13,320
+Here's the doubling in action.
+
+169
+00:05:13,500 --> 00:05:16,020
+Ten thousand dollars at a seven percent
+
+170
+00:05:16,020 --> 00:05:17,442
+average yearly return,
+
+171
+00:05:17,442 --> 00:05:19,897
+roughly doubles about every ten years.
+
+172
+00:05:20,077 --> 00:05:21,212
+After thirty years,
+
+173
+00:05:21,212 --> 00:05:23,542
+it's about eighty one thousand dollars,
+
+174
+00:05:23,542 --> 00:05:25,395
+without adding a single dollar.
+
+175
+00:05:25,745 --> 00:05:27,068
+Lesson number three.
+
+176
+00:05:27,248 --> 00:05:29,443
+How often interest compounds matters,
+
+177
+00:05:29,443 --> 00:05:29,976
+a little.
+
+178
+00:05:30,327 --> 00:05:32,406
+Interest can compound yearly,
+
+179
+00:05:32,406 --> 00:05:33,984
+monthly or even daily.
+
+180
+00:05:34,164 --> 00:05:35,904
+The more often it compounds,
+
+181
+00:05:35,904 --> 00:05:37,706
+the faster the balance grows,
+
+182
+00:05:37,706 --> 00:05:40,689
+because interest starts earning interest sooner.
+
+183
+00:05:40,869 --> 00:05:44,147
+Twelve percent compounded monthly is slightly more
+
+184
+00:05:44,147 --> 00:05:46,639
+than twelve percent compounded yearly.
+
+185
+00:05:46,989 --> 00:05:49,032
+That's why banks show two numbers.
+
+186
+00:05:49,212 --> 00:05:51,206
+The annual percentage rate,
+
+187
+00:05:51,206 --> 00:05:53,717
+or APR, is the simple yearly rate.
+
+188
+00:05:53,897 --> 00:05:55,962
+The annual percentage yield,
+
+189
+00:05:55,962 --> 00:05:59,133
+or APY, includes the effect of compounding.
+
+190
+00:05:59,313 --> 00:06:01,762
+On savings, compare APYs.
+
+191
+00:06:01,942 --> 00:06:04,748
+On debt, remember that the effective cost
+
+192
+00:06:04,748 --> 00:06:06,869
+can be a little higher than the
+
+193
+00:06:06,869 --> 00:06:09,059
+APR, because interest compounds.
+
+194
+00:06:09,410 --> 00:06:12,322
+Most credit cards calculate interest daily,
+
+195
+00:06:12,322 --> 00:06:14,421
+using a daily rate based on the
+
+196
+00:06:14,421 --> 00:06:14,692
+APR.
+
+197
+00:06:14,872 --> 00:06:16,850
+So a card at twenty four percent
+
+198
+00:06:16,850 --> 00:06:19,384
+charges roughly six and a half hundredths
+
+199
+00:06:19,384 --> 00:06:21,361
+of a percent every single day on
+
+200
+00:06:21,361 --> 00:06:24,081
+your balance, and that interest becomes part
+
+201
+00:06:24,081 --> 00:06:25,008
+of the balance.
+
+202
+00:06:25,358 --> 00:06:28,501
+In practice, frequency matters much less than
+
+203
+00:06:28,501 --> 00:06:29,479
+rate and time.
+
+204
+00:06:29,659 --> 00:06:32,155
+Don't obsess over daily versus monthly.
+
+205
+00:06:32,335 --> 00:06:34,482
+Focus on getting a good rate on
+
+206
+00:06:34,482 --> 00:06:36,422
+savings, a low rate on debt,
+
+207
+00:06:36,422 --> 00:06:38,430
+and as much time as possible.
+
+208
+00:06:38,781 --> 00:06:39,930
+Lesson number four.
+
+209
+00:06:40,110 --> 00:06:43,059
+Regular contributions supercharge compounding.
+
+210
+00:06:43,409 --> 00:06:45,893
+A single deposit compounds nicely.
+
+211
+00:06:46,073 --> 00:06:48,207
+But adding money every month is where
+
+212
+00:06:48,207 --> 00:06:49,707
+compounding really shines.
+
+213
+00:06:49,887 --> 00:06:52,252
+Each new deposit starts its own little
+
+214
+00:06:52,252 --> 00:06:52,813
+snowball.
+
+215
+00:06:52,993 --> 00:06:53,916
+Over the years,
+
+216
+00:06:53,916 --> 00:06:56,685
+you're rolling hundreds of snowballs at once.
+
+217
+00:06:57,035 --> 00:06:59,181
+Two hundred dollars a month for thirty
+
+218
+00:06:59,181 --> 00:07:01,383
+years at a seven percent average yearly
+
+219
+00:07:01,383 --> 00:07:03,698
+return grows to roughly two hundred forty
+
+220
+00:07:03,698 --> 00:07:04,941
+four thousand dollars.
+
+221
+00:07:05,121 --> 00:07:07,118
+You contribute seventy two thousand.
+
+222
+00:07:07,298 --> 00:07:09,792
+The other one hundred seventy two thousand
+
+223
+00:07:09,792 --> 00:07:10,386
+is growth.
+
+224
+00:07:10,736 --> 00:07:12,642
+Notice that in the early years,
+
+225
+00:07:12,642 --> 00:07:15,287
+your contributions are most of the balance.
+
+226
+00:07:15,467 --> 00:07:18,234
+Somewhere around year fifteen or twenty in
+
+227
+00:07:18,234 --> 00:07:21,068
+this example, yearly growth starts to rival
+
+228
+00:07:21,068 --> 00:07:22,584
+what you add each year.
+
+229
+00:07:22,764 --> 00:07:24,711
+After that, the money is doing more
+
+230
+00:07:24,711 --> 00:07:25,712
+work than you are.
+
+231
+00:07:26,062 --> 00:07:26,887
+Try this.
+
+232
+00:07:27,067 --> 00:07:30,064
+Set up an automatic monthly investment,
+
+233
+00:07:30,064 --> 00:07:30,910
+even small.
+
+234
+00:07:31,090 --> 00:07:32,671
+Then look up the year when your
+
+235
+00:07:32,671 --> 00:07:35,374
+yearly growth might exceed your yearly contributions.
+
+236
+00:07:35,554 --> 00:07:37,725
+That's a milestone worth celebrating.
+
+237
+00:07:38,075 --> 00:07:40,420
+Two hundred dollars a month for thirty
+
+238
+00:07:40,420 --> 00:07:42,889
+years, at a seven percent average yearly
+
+239
+00:07:42,889 --> 00:07:45,482
+return, grows to roughly two hundred forty
+
+240
+00:07:45,482 --> 00:07:46,840
+four thousand dollars.
+
+241
+00:07:47,020 --> 00:07:49,714
+Total contributed, seventy two thousand.
+
+242
+00:07:50,063 --> 00:07:51,550
+Lesson number five.
+
+243
+00:07:51,730 --> 00:07:54,377
+Benjamin Franklin's two hundred year experiment.
+
+244
+00:07:54,726 --> 00:07:57,777
+When Benjamin Franklin died in seventeen ninety,
+
+245
+00:07:57,777 --> 00:08:00,001
+he left one thousand pounds each to
+
+246
+00:08:00,001 --> 00:08:02,415
+the cities of Boston and Philadelphia,
+
+247
+00:08:02,415 --> 00:08:04,830
+with instructions to lend the money to
+
+248
+00:08:04,830 --> 00:08:07,245
+young tradesmen at interest and let it
+
+249
+00:08:07,245 --> 00:08:08,960
+grow for two hundred years.
+
+250
+00:08:09,140 --> 00:08:11,857
+It was a deliberate demonstration of compounding.
+
+251
+00:08:12,206 --> 00:08:14,427
+Part of the money was released after
+
+252
+00:08:14,427 --> 00:08:15,537
+one hundred years,
+
+253
+00:08:15,537 --> 00:08:16,955
+as Franklin instructed.
+
+254
+00:08:17,135 --> 00:08:18,424
+The rest kept growing.
+
+255
+00:08:18,604 --> 00:08:19,864
+By nineteen ninety,
+
+256
+00:08:19,864 --> 00:08:22,253
+the funds had grown into millions of
+
+257
+00:08:22,253 --> 00:08:22,783
+dollars.
+
+258
+00:08:22,963 --> 00:08:25,820
+Boston's fund was worth around five million,
+
+259
+00:08:25,820 --> 00:08:28,286
+and Philadelphia's around two million,
+
+260
+00:08:28,286 --> 00:08:30,428
+according to historical accounts.
+
+261
+00:08:30,779 --> 00:08:32,727
+The returns weren't spectacular,
+
+262
+00:08:32,727 --> 00:08:35,406
+and the funds faced management problems over
+
+263
+00:08:35,406 --> 00:08:36,258
+the centuries.
+
+264
+00:08:36,438 --> 00:08:37,960
+But even modest growth,
+
+265
+00:08:37,960 --> 00:08:39,547
+given two hundred years,
+
+266
+00:08:39,547 --> 00:08:41,466
+turned a gift into a fortune.
+
+267
+00:08:41,646 --> 00:08:43,201
+Time can make up for a lot.
+
+268
+00:08:43,552 --> 00:08:44,771
+The lesson for us.
+
+269
+00:08:44,951 --> 00:08:46,680
+We don't have two hundred years.
+
+270
+00:08:46,860 --> 00:08:48,753
+But we might have forty or fifty.
+
+271
+00:08:48,933 --> 00:08:51,429
+That's plenty of time for compounding to
+
+272
+00:08:51,429 --> 00:08:52,927
+do something remarkable.
+
+273
+00:08:53,277 --> 00:08:54,670
+Lesson number six.
+
+274
+00:08:54,850 --> 00:08:57,556
+Why most of Warren Buffett's fortune came
+
+275
+00:08:57,556 --> 00:08:58,414
+late in life.
+
+276
+00:08:58,763 --> 00:09:00,903
+Warren Buffett is one of the most
+
+277
+00:09:00,903 --> 00:09:02,978
+successful investors in history.
+
+278
+00:09:03,158 --> 00:09:05,584
+But as writer Morgan Housel points out
+
+279
+00:09:05,584 --> 00:09:07,308
+in The Psychology of Money,
+
+280
+00:09:07,308 --> 00:09:09,863
+the vast majority of Buffett's net worth
+
+281
+00:09:09,863 --> 00:09:12,864
+was accumulated after his sixty fifth birthday.
+
+282
+00:09:13,214 --> 00:09:16,009
+Buffett started investing as a child and
+
+283
+00:09:16,009 --> 00:09:16,987
+never stopped.
+
+284
+00:09:17,167 --> 00:09:18,518
+His skill matters,
+
+285
+00:09:18,518 --> 00:09:19,268
+of course.
+
+286
+00:09:19,448 --> 00:09:21,752
+But Housel argues the real secret is
+
+287
+00:09:21,752 --> 00:09:22,072
+time.
+
+288
+00:09:22,252 --> 00:09:24,637
+Buffett has been compounding for more than
+
+289
+00:09:24,637 --> 00:09:25,375
+eighty years.
+
+290
+00:09:25,726 --> 00:09:28,113
+Housel makes the point that if Buffett
+
+291
+00:09:28,113 --> 00:09:30,375
+had started at thirty and retired at
+
+292
+00:09:30,375 --> 00:09:31,820
+sixty, he'd be wealthy,
+
+293
+00:09:31,820 --> 00:09:33,516
+but nowhere near as famous.
+
+294
+00:09:33,696 --> 00:09:35,663
+The extra decades at both ends made
+
+295
+00:09:35,663 --> 00:09:36,505
+the difference.
+
+296
+00:09:36,856 --> 00:09:38,107
+For regular people,
+
+297
+00:09:38,107 --> 00:09:39,491
+the lesson is simple.
+
+298
+00:09:39,671 --> 00:09:41,516
+Start as early as you can,
+
+299
+00:09:41,516 --> 00:09:43,787
+and stay invested as long as you
+
+300
+00:09:43,787 --> 00:09:44,071
+can.
+
+301
+00:09:44,422 --> 00:09:45,768
+Lesson number seven.
+
+302
+00:09:45,948 --> 00:09:48,204
+Compounding works against you when you owe
+
+303
+00:09:48,204 --> 00:09:48,526
+money.
+
+304
+00:09:48,876 --> 00:09:51,282
+Everything we've said about growth applies to
+
+305
+00:09:51,282 --> 00:09:52,138
+debt in reverse.
+
+306
+00:09:52,318 --> 00:09:55,030
+The Federal Reserve reports average credit card
+
+307
+00:09:55,030 --> 00:09:57,685
+rates above twenty percent for accounts paying
+
+308
+00:09:57,685 --> 00:09:58,204
+interest.
+
+309
+00:09:58,384 --> 00:09:59,496
+At those rates,
+
+310
+00:09:59,496 --> 00:10:01,647
+unpaid balances grow quickly.
+
+311
+00:10:01,997 --> 00:10:04,194
+If you only make the minimum payment,
+
+312
+00:10:04,194 --> 00:10:05,917
+it can take many years to pay
+
+313
+00:10:05,917 --> 00:10:06,749
+off a balance,
+
+314
+00:10:06,749 --> 00:10:08,590
+and the total interest can be a
+
+315
+00:10:08,590 --> 00:10:10,669
+large share of the original amount.
+
+316
+00:10:10,849 --> 00:10:13,377
+Credit card statements are required to show
+
+317
+00:10:13,377 --> 00:10:13,670
+this.
+
+318
+00:10:14,021 --> 00:10:15,696
+This is why the quote ends the
+
+319
+00:10:15,696 --> 00:10:16,366
+way it does.
+
+320
+00:10:16,546 --> 00:10:17,856
+He who understands it,
+
+321
+00:10:17,856 --> 00:10:18,392
+earns it.
+
+322
+00:10:18,572 --> 00:10:19,556
+He who doesn't,
+
+323
+00:10:19,556 --> 00:10:20,081
+pays it.
+
+324
+00:10:20,431 --> 00:10:21,220
+Try this.
+
+325
+00:10:21,400 --> 00:10:23,495
+Find the minimum payment warning box on
+
+326
+00:10:23,495 --> 00:10:24,570
+your card statement.
+
+327
+00:10:24,750 --> 00:10:26,665
+It shows how long payoff takes at
+
+328
+00:10:26,665 --> 00:10:27,362
+the minimum.
+
+329
+00:10:27,712 --> 00:10:28,594
+That's angle one.
+
+330
+00:10:28,774 --> 00:10:30,500
+Simple versus compound,
+
+331
+00:10:30,500 --> 00:10:32,300
+the rule of seventy two,
+
+332
+00:10:32,300 --> 00:10:34,776
+frequency, monthly contributions,
+
+333
+00:10:34,776 --> 00:10:38,228
+Franklin's experiment, Buffett's late fortune,
+
+334
+00:10:38,228 --> 00:10:39,803
+and compounding debt.
+
+335
+00:10:39,983 --> 00:10:41,214
+Now angle two.
+
+336
+00:10:41,394 --> 00:10:42,520
+The psychology.
+
+337
+00:10:42,700 --> 00:10:44,987
+Why our brains get this so wrong.
+
+338
+00:10:45,338 --> 00:10:48,035
+Humans evolved in a world of straight
+
+339
+00:10:48,035 --> 00:10:48,472
+lines.
+
+340
+00:10:48,652 --> 00:10:50,275
+If you walk twice as far,
+
+341
+00:10:50,275 --> 00:10:52,158
+it takes about twice as long.
+
+342
+00:10:52,338 --> 00:10:54,467
+If you gather twice as many berries,
+
+343
+00:10:54,467 --> 00:10:56,123
+you have twice as much food.
+
+344
+00:10:56,303 --> 00:10:59,452
+Exponential growth is unnatural for our brains,
+
+345
+00:10:59,452 --> 00:11:03,002
+and that's why compounding surprises nearly everyone.
+
+346
+00:11:03,182 --> 00:11:04,033
+In this angle,
+
+347
+00:11:04,033 --> 00:11:06,405
+we'll look at seven ways our psychology
+
+348
+00:11:06,405 --> 00:11:08,289
+gets in the way of compounding,
+
+349
+00:11:08,289 --> 00:11:10,113
+and what to do about each one.
+
+350
+00:11:10,464 --> 00:11:11,625
+Lesson number eight.
+
+351
+00:11:11,805 --> 00:11:13,755
+Exponential growth bias.
+
+352
+00:11:14,105 --> 00:11:17,675
+Economists Victor Stango and Jonathan Zinman studied
+
+353
+00:11:17,675 --> 00:11:20,490
+what they called exponential growth bias.
+
+354
+00:11:20,670 --> 00:11:23,054
+When people are asked to estimate how
+
+355
+00:11:23,054 --> 00:11:25,567
+something grows at a steady percentage,
+
+356
+00:11:25,567 --> 00:11:27,886
+they tend to imagine a straight line
+
+357
+00:11:27,886 --> 00:11:29,110
+instead of a curve.
+
+358
+00:11:29,290 --> 00:11:32,470
+So they badly underestimate long term growth,
+
+359
+00:11:32,470 --> 00:11:34,236
+on both savings and debt.
+
+360
+00:11:34,587 --> 00:11:37,400
+Their research found that households with stronger
+
+361
+00:11:37,400 --> 00:11:39,313
+bias tended to borrow more at high
+
+362
+00:11:39,313 --> 00:11:40,438
+rates and save less.
+
+363
+00:11:40,618 --> 00:11:41,489
+That makes sense.
+
+364
+00:11:41,669 --> 00:11:43,727
+If you think a credit card balance
+
+365
+00:11:43,727 --> 00:11:45,906
+grows slowly, borrowing feels cheap.
+
+366
+00:11:46,086 --> 00:11:48,426
+If you think savings grow slowly,
+
+367
+00:11:48,426 --> 00:11:50,057
+saving feels pointless.
+
+368
+00:11:50,237 --> 00:11:53,543
+Underestimating compounding costs money on both sides
+
+369
+00:11:53,543 --> 00:11:54,417
+of the ledger.
+
+370
+00:11:54,767 --> 00:11:57,084
+The penny puzzle from the beginning works
+
+371
+00:11:57,084 --> 00:11:58,667
+because it shocks this bias.
+
+372
+00:11:58,847 --> 00:12:01,651
+Almost nobody guesses that a penny doubled
+
+373
+00:12:01,651 --> 00:12:03,921
+for thirty days ends up above five
+
+374
+00:12:03,921 --> 00:12:04,989
+million dollars.
+
+375
+00:12:05,169 --> 00:12:08,350
+Our intuition simply isn't built for doubling.
+
+376
+00:12:08,530 --> 00:12:10,144
+That's not a personal failing.
+
+377
+00:12:10,324 --> 00:12:12,172
+It's how human brains work,
+
+378
+00:12:12,172 --> 00:12:14,500
+which is why we need tools instead
+
+379
+00:12:14,500 --> 00:12:15,595
+of gut feelings.
+
+380
+00:12:15,945 --> 00:12:16,792
+Try this.
+
+381
+00:12:16,972 --> 00:12:20,210
+Before calculating, guess what one hundred dollars
+
+382
+00:12:20,210 --> 00:12:22,347
+a month becomes in forty years at
+
+383
+00:12:22,347 --> 00:12:23,253
+seven percent.
+
+384
+00:12:23,433 --> 00:12:24,559
+Write your guess down.
+
+385
+00:12:24,739 --> 00:12:26,283
+Then check it with a calculator.
+
+386
+00:12:26,463 --> 00:12:28,619
+The real answer is roughly two hundred
+
+387
+00:12:28,619 --> 00:12:29,923
+sixty thousand dollars.
+
+388
+00:12:30,103 --> 00:12:32,110
+Most people guess far too low,
+
+389
+00:12:32,110 --> 00:12:33,917
+and that gap is the cost of
+
+390
+00:12:33,917 --> 00:12:35,455
+straight line thinking.
+
+391
+00:12:35,806 --> 00:12:37,187
+Lesson number nine.
+
+392
+00:12:37,367 --> 00:12:38,249
+The boring middle.
+
+393
+00:12:38,600 --> 00:12:40,884
+In the first years of investing,
+
+394
+00:12:40,884 --> 00:12:41,955
+growth is tiny.
+
+395
+00:12:42,135 --> 00:12:44,364
+After five years of one hundred dollars
+
+396
+00:12:44,364 --> 00:12:45,793
+a month at seven percent,
+
+397
+00:12:45,793 --> 00:12:48,365
+you might have around seven thousand dollars,
+
+398
+00:12:48,365 --> 00:12:49,965
+and most of that is your own
+
+399
+00:12:49,965 --> 00:12:50,308
+money.
+
+400
+00:12:50,488 --> 00:12:52,278
+The growth part might be about a
+
+401
+00:12:52,278 --> 00:12:53,228
+thousand dollars.
+
+402
+00:12:53,408 --> 00:12:56,496
+It honestly feels like nothing is happening.
+
+403
+00:12:56,847 --> 00:12:58,588
+This is where many people quit.
+
+404
+00:12:58,768 --> 00:13:00,248
+They stop contributing,
+
+405
+00:13:00,248 --> 00:13:02,628
+cash out for something more exciting,
+
+406
+00:13:02,628 --> 00:13:05,072
+or switch strategies every few months.
+
+407
+00:13:05,252 --> 00:13:07,666
+They leave right before the curve starts
+
+408
+00:13:07,666 --> 00:13:10,020
+bending upward, which means they do all
+
+409
+00:13:10,020 --> 00:13:11,951
+the hard, slow work and miss the
+
+410
+00:13:11,951 --> 00:13:12,857
+rewarding part.
+
+411
+00:13:13,207 --> 00:13:14,635
+Think back to the penny.
+
+412
+00:13:14,815 --> 00:13:15,640
+On day ten,
+
+413
+00:13:15,640 --> 00:13:17,891
+it's worth about five dollars.
+
+414
+00:13:18,071 --> 00:13:19,008
+On day twenty,
+
+415
+00:13:19,008 --> 00:13:20,347
+about five thousand.
+
+416
+00:13:20,527 --> 00:13:21,397
+On day thirty,
+
+417
+00:13:21,397 --> 00:13:22,826
+more than five million.
+
+418
+00:13:23,006 --> 00:13:25,011
+If you'd judged the penny on day
+
+419
+00:13:25,011 --> 00:13:27,266
+ten, you'd have called it a failure.
+
+420
+00:13:27,446 --> 00:13:29,405
+The boring middle isn't a sign that
+
+421
+00:13:29,405 --> 00:13:30,860
+compounding isn't working.
+
+422
+00:13:31,040 --> 00:13:33,357
+It's a normal part of how compounding
+
+423
+00:13:33,357 --> 00:13:33,733
+works.
+
+424
+00:13:34,084 --> 00:13:34,943
+Try this.
+
+425
+00:13:35,123 --> 00:13:36,860
+For the first five years,
+
+426
+00:13:36,860 --> 00:13:39,223
+measure your success by the habit,
+
+427
+00:13:39,223 --> 00:13:40,336
+not the balance.
+
+428
+00:13:40,516 --> 00:13:43,488
+Did the automatic investment happen every month?
+
+429
+00:13:43,668 --> 00:13:44,987
+Did you raise it when you got
+
+430
+00:13:44,987 --> 00:13:45,351
+a raise?
+
+431
+00:13:45,531 --> 00:13:47,177
+If yes, you're winning,
+
+432
+00:13:47,177 --> 00:13:49,467
+even if the balance looks small.
+
+433
+00:13:49,647 --> 00:13:52,025
+The balance will take care of itself
+
+434
+00:13:52,025 --> 00:13:52,422
+later.
+
+435
+00:13:52,772 --> 00:13:54,118
+Lesson number ten.
+
+436
+00:13:54,298 --> 00:13:57,607
+Impatience leads people to chase faster returns.
+
+437
+00:13:57,958 --> 00:14:01,052
+Because normal compounding is slow at first,
+
+438
+00:14:01,052 --> 00:14:02,880
+people look for shortcuts.
+
+439
+00:14:03,060 --> 00:14:05,037
+Hot stocks, trendy coins,
+
+440
+00:14:05,037 --> 00:14:08,122
+leveraged bets, get rich quick schemes.
+
+441
+00:14:08,302 --> 00:14:10,883
+The promise of fast returns is especially
+
+442
+00:14:10,883 --> 00:14:13,968
+tempting when steady growth feels painfully slow.
+
+443
+00:14:14,148 --> 00:14:16,185
+And social media is full of people
+
+444
+00:14:16,185 --> 00:14:17,563
+showing off their wins,
+
+445
+00:14:17,563 --> 00:14:19,001
+but rarely their losses.
+
+446
+00:14:19,351 --> 00:14:21,489
+Here's the math that makes chasing so
+
+447
+00:14:21,489 --> 00:14:22,067
+dangerous.
+
+448
+00:14:22,247 --> 00:14:24,383
+Big losses destroy compounding.
+
+449
+00:14:24,563 --> 00:14:25,680
+Lose fifty percent,
+
+450
+00:14:25,680 --> 00:14:27,679
+and you need a one hundred percent
+
+451
+00:14:27,679 --> 00:14:29,442
+gain just to get back to where
+
+452
+00:14:29,442 --> 00:14:30,148
+you started.
+
+453
+00:14:30,328 --> 00:14:31,512
+Lose eighty percent,
+
+454
+00:14:31,512 --> 00:14:33,584
+and you need a four hundred percent
+
+455
+00:14:33,584 --> 00:14:33,881
+gain.
+
+456
+00:14:34,061 --> 00:14:36,746
+Avoiding large losses matters just as much
+
+457
+00:14:36,746 --> 00:14:38,280
+as earning good returns,
+
+458
+00:14:38,280 --> 00:14:38,983
+maybe more.
+
+459
+00:14:39,334 --> 00:14:42,211
+That's why so many successful long term
+
+460
+00:14:42,211 --> 00:14:44,203
+investors emphasize steady,
+
+461
+00:14:44,203 --> 00:14:47,449
+diversified investing over chasing big wins.
+
+462
+00:14:47,629 --> 00:14:50,709
+A portfolio that grows steadily without huge
+
+463
+00:14:50,709 --> 00:14:53,089
+crashes often ends up ahead of one
+
+464
+00:14:53,089 --> 00:14:54,839
+that soars and collapses.
+
+465
+00:14:55,019 --> 00:14:58,247
+Slow and steady compounding tends to beat
+
+466
+00:14:58,247 --> 00:14:59,349
+boom and bust.
+
+467
+00:14:59,700 --> 00:15:00,501
+Try this.
+
+468
+00:15:00,681 --> 00:15:03,592
+Keep your core long term investments boring
+
+469
+00:15:03,592 --> 00:15:06,300
+and diversified, like broad index funds.
+
+470
+00:15:06,480 --> 00:15:08,468
+If you really want to speculate,
+
+471
+00:15:08,468 --> 00:15:10,457
+set aside a small amount you can
+
+472
+00:15:10,457 --> 00:15:12,073
+afford to lose completely,
+
+473
+00:15:12,073 --> 00:15:13,750
+and never add to it after a
+
+474
+00:15:13,750 --> 00:15:14,061
+loss.
+
+475
+00:15:14,412 --> 00:15:15,503
+Quick pause.
+
+476
+00:15:15,683 --> 00:15:18,254
+If compounding is finally clicking for you,
+
+477
+00:15:18,254 --> 00:15:20,466
+please subscribe to Ryan Rover Money.
+
+478
+00:15:20,646 --> 00:15:22,540
+It's free, and it helps us keep
+
+479
+00:15:22,540 --> 00:15:24,617
+explaining money in plain English.
+
+480
+00:15:24,797 --> 00:15:26,527
+Now, lesson eleven.
+
+481
+00:15:26,877 --> 00:15:28,246
+Lesson number eleven.
+
+482
+00:15:28,426 --> 00:15:30,830
+Present bias works against compounding.
+
+483
+00:15:31,180 --> 00:15:33,042
+Compounding rewards patience,
+
+484
+00:15:33,042 --> 00:15:35,225
+but our brains are wired to prefer
+
+485
+00:15:35,225 --> 00:15:36,381
+rewards right now.
+
+486
+00:15:36,561 --> 00:15:39,255
+Spending one hundred dollars today on something
+
+487
+00:15:39,255 --> 00:15:41,319
+fun feels much more real than having
+
+488
+00:15:41,319 --> 00:15:43,898
+several hundred dollars more in thirty years.
+
+489
+00:15:44,078 --> 00:15:46,210
+Economists call this present bias,
+
+490
+00:15:46,210 --> 00:15:48,467
+and it's one of the strongest forces
+
+491
+00:15:48,467 --> 00:15:49,721
+in personal finance.
+
+492
+00:15:50,071 --> 00:15:53,334
+That's exactly why automatic investing works so
+
+493
+00:15:53,334 --> 00:15:53,681
+well.
+
+494
+00:15:53,861 --> 00:15:55,210
+You make the decision once,
+
+495
+00:15:55,210 --> 00:15:57,158
+when you're calm and thinking about the
+
+496
+00:15:57,158 --> 00:15:57,658
+long term.
+
+497
+00:15:57,838 --> 00:16:00,428
+After that, the money moves before present
+
+498
+00:16:00,428 --> 00:16:01,785
+bias ever gets a vote.
+
+499
+00:16:01,965 --> 00:16:03,728
+You don't have to win the battle
+
+500
+00:16:03,728 --> 00:16:05,270
+with temptation every month,
+
+501
+00:16:05,270 --> 00:16:06,702
+because there's no battle.
+
+502
+00:16:07,052 --> 00:16:09,745
+Picturing your future self also helps.
+
+503
+00:16:09,925 --> 00:16:12,691
+Research by Hal Hershfield and colleagues found
+
+504
+00:16:12,691 --> 00:16:15,280
+that people who viewed digitally aged images
+
+505
+00:16:15,280 --> 00:16:17,576
+of themselves were more willing to save
+
+506
+00:16:17,576 --> 00:16:18,458
+for the future.
+
+507
+00:16:18,638 --> 00:16:20,722
+When the future version of you feels
+
+508
+00:16:20,722 --> 00:16:21,822
+like a real person,
+
+509
+00:16:21,822 --> 00:16:24,079
+saving feels less like losing money and
+
+510
+00:16:24,079 --> 00:16:26,452
+more like helping someone you care about.
+
+511
+00:16:26,802 --> 00:16:27,545
+Try this.
+
+512
+00:16:27,725 --> 00:16:30,183
+Write down exactly what your investments are
+
+513
+00:16:30,183 --> 00:16:30,406
+for.
+
+514
+00:16:30,586 --> 00:16:31,834
+Not just retirement,
+
+515
+00:16:31,834 --> 00:16:33,268
+but something specific.
+
+516
+00:16:33,448 --> 00:16:35,445
+Freedom to leave a job you dislike.
+
+517
+00:16:35,625 --> 00:16:36,763
+A paid off home.
+
+518
+00:16:36,943 --> 00:16:38,580
+Retiring at sixty.
+
+519
+00:16:38,760 --> 00:16:41,171
+Specific goals make the future feel close
+
+520
+00:16:41,171 --> 00:16:42,348
+enough to fight for.
+
+521
+00:16:42,698 --> 00:16:44,021
+Lesson number twelve.
+
+522
+00:16:44,201 --> 00:16:47,011
+Interrupting compounding is very expensive.
+
+523
+00:16:47,361 --> 00:16:51,142
+Charlie Munger, Warren Buffett's longtime business partner,
+
+524
+00:16:51,142 --> 00:16:52,039
+put it simply.
+
+525
+00:16:52,219 --> 00:16:54,477
+The first rule of compounding is never
+
+526
+00:16:54,477 --> 00:16:56,260
+to interrupt it unnecessarily.
+
+527
+00:16:56,440 --> 00:16:57,646
+Cashing out early,
+
+528
+00:16:57,646 --> 00:16:59,857
+stopping contributions for years,
+
+529
+00:16:59,857 --> 00:17:02,202
+or panic selling during a crash all
+
+530
+00:17:02,202 --> 00:17:03,274
+break the chain,
+
+531
+00:17:03,274 --> 00:17:05,418
+and the chain is where the magic
+
+532
+00:17:05,418 --> 00:17:05,820
+lives.
+
+533
+00:17:06,171 --> 00:17:09,236
+Early withdrawals from retirement accounts are a
+
+534
+00:17:09,236 --> 00:17:10,513
+common interruption.
+
+535
+00:17:10,693 --> 00:17:13,636
+Depending on the account and your situation,
+
+536
+00:17:13,636 --> 00:17:17,114
+withdrawing before retirement age can trigger income
+
+537
+00:17:17,114 --> 00:17:18,452
+taxes and a penalty,
+
+538
+00:17:18,452 --> 00:17:20,927
+and the money withdrawn loses all its
+
+539
+00:17:20,927 --> 00:17:22,198
+future compounding.
+
+540
+00:17:22,378 --> 00:17:24,985
+A ten thousand dollar withdrawal at thirty
+
+541
+00:17:24,985 --> 00:17:27,282
+could cost far more than ten thousand
+
+542
+00:17:27,282 --> 00:17:28,648
+dollars by retirement.
+
+543
+00:17:28,998 --> 00:17:30,646
+Job changes are another.
+
+544
+00:17:30,826 --> 00:17:32,362
+When people leave a job,
+
+545
+00:17:32,362 --> 00:17:34,346
+many cash out their old four oh
+
+546
+00:17:34,346 --> 00:17:36,458
+one k instead of rolling it over,
+
+547
+00:17:36,458 --> 00:17:38,825
+especially when the balance is small.
+
+548
+00:17:39,005 --> 00:17:40,584
+It feels like free money.
+
+549
+00:17:40,764 --> 00:17:42,372
+But it often means taxes,
+
+550
+00:17:42,372 --> 00:17:45,331
+penalties, and starting the snowball over from
+
+551
+00:17:45,331 --> 00:17:45,652
+zero.
+
+552
+00:17:46,003 --> 00:17:46,780
+Try this.
+
+553
+00:17:46,960 --> 00:17:48,311
+If you change jobs,
+
+554
+00:17:48,311 --> 00:17:51,153
+roll your old retirement account into an
+
+555
+00:17:51,153 --> 00:17:53,427
+IRA or your new employer's plan.
+
+556
+00:17:53,607 --> 00:17:55,372
+And keep an emergency fund,
+
+557
+00:17:55,372 --> 00:17:57,857
+so a surprise expense never forces you
+
+558
+00:17:57,857 --> 00:17:59,099
+to break the chain.
+
+559
+00:17:59,449 --> 00:18:00,993
+Lesson number thirteen.
+
+560
+00:18:01,173 --> 00:18:03,495
+Most people misunderstand compounding.
+
+561
+00:18:03,845 --> 00:18:07,405
+Economists Annamaria Lusardi and Olivia Mitchell created
+
+562
+00:18:07,405 --> 00:18:10,776
+three simple questions to measure financial literacy.
+
+563
+00:18:10,956 --> 00:18:13,314
+One asks about compound interest,
+
+564
+00:18:13,314 --> 00:18:14,744
+one about inflation,
+
+565
+00:18:14,744 --> 00:18:16,888
+and one about diversification.
+
+566
+00:18:17,068 --> 00:18:18,910
+In surveys over many years,
+
+567
+00:18:18,910 --> 00:18:21,706
+a large share of American adults couldn't
+
+568
+00:18:21,706 --> 00:18:23,547
+answer all three correctly.
+
+569
+00:18:23,897 --> 00:18:26,564
+Their research found that people who answered
+
+570
+00:18:26,564 --> 00:18:28,817
+correctly were more likely to plan for
+
+571
+00:18:28,817 --> 00:18:31,722
+retirement, invest and avoid high cost borrowing.
+
+572
+00:18:31,902 --> 00:18:32,951
+In other words,
+
+573
+00:18:32,951 --> 00:18:36,728
+understanding concepts like compounding is linked with
+
+574
+00:18:36,728 --> 00:18:38,546
+better financial outcomes,
+
+575
+00:18:38,546 --> 00:18:40,505
+not just better test scores.
+
+576
+00:18:40,855 --> 00:18:43,747
+The encouraging part is that compounding isn't
+
+577
+00:18:43,747 --> 00:18:44,628
+hard to learn.
+
+578
+00:18:44,808 --> 00:18:46,448
+If you've watched this far,
+
+579
+00:18:46,448 --> 00:18:48,696
+you now understand more about it than
+
+580
+00:18:48,696 --> 00:18:50,032
+many adults ever will.
+
+581
+00:18:50,212 --> 00:18:52,937
+You know the difference between simple and
+
+582
+00:18:52,937 --> 00:18:55,727
+compound interest, the rule of seventy two,
+
+583
+00:18:55,727 --> 00:18:57,608
+and why time matters so much.
+
+584
+00:18:57,958 --> 00:18:58,910
+Try this.
+
+585
+00:18:59,090 --> 00:19:01,425
+Explain the rule of seventy two to
+
+586
+00:19:01,425 --> 00:19:03,966
+a friend, partner or child this week.
+
+587
+00:19:04,146 --> 00:19:05,945
+Teaching is one of the best ways
+
+588
+00:19:05,945 --> 00:19:07,181
+to remember something,
+
+589
+00:19:07,181 --> 00:19:09,598
+and you might change their financial future
+
+590
+00:19:09,598 --> 00:19:09,823
+too.
+
+591
+00:19:10,173 --> 00:19:11,960
+Lesson number fourteen.
+
+592
+00:19:12,140 --> 00:19:14,942
+Small differences in rate become huge over
+
+593
+00:19:14,942 --> 00:19:15,275
+time.
+
+594
+00:19:15,626 --> 00:19:17,414
+One percent sounds tiny.
+
+595
+00:19:17,594 --> 00:19:20,450
+But compounding magnifies small differences.
+
+596
+00:19:20,630 --> 00:19:23,392
+Over decades, a one percent difference in
+
+597
+00:19:23,392 --> 00:19:24,672
+your yearly return,
+
+598
+00:19:24,672 --> 00:19:26,490
+whether it comes from fees,
+
+599
+00:19:26,490 --> 00:19:28,646
+investment choices or idle cash,
+
+600
+00:19:28,646 --> 00:19:31,543
+can change your final balance dramatically.
+
+601
+00:19:31,893 --> 00:19:32,891
+Here's an example.
+
+602
+00:19:33,071 --> 00:19:35,451
+Five hundred dollars a month for forty
+
+603
+00:19:35,451 --> 00:19:37,894
+years at seven percent grows to roughly
+
+604
+00:19:37,894 --> 00:19:39,898
+one point three million dollars.
+
+605
+00:19:40,078 --> 00:19:41,096
+At six percent,
+
+606
+00:19:41,096 --> 00:19:42,794
+it's roughly one million.
+
+607
+00:19:42,974 --> 00:19:45,669
+That single percentage point is worth around
+
+608
+00:19:45,669 --> 00:19:48,547
+three hundred thousand dollars in this example.
+
+609
+00:19:48,898 --> 00:19:51,521
+That's why investment fees matter so much.
+
+610
+00:19:51,701 --> 00:19:53,352
+Unlike market returns,
+
+611
+00:19:53,352 --> 00:19:54,627
+fees are certain.
+
+612
+00:19:54,807 --> 00:19:56,205
+They come out every year,
+
+613
+00:19:56,205 --> 00:19:57,547
+in good markets and bad.
+
+614
+00:19:57,727 --> 00:19:59,853
+Choosing a fund with a fee of
+
+615
+00:19:59,853 --> 00:20:02,711
+one percent instead of a small fraction
+
+616
+00:20:02,711 --> 00:20:05,496
+of a percent is effectively choosing a
+
+617
+00:20:05,496 --> 00:20:07,329
+lower return for decades.
+
+618
+00:20:07,679 --> 00:20:08,491
+Try this.
+
+619
+00:20:08,671 --> 00:20:10,919
+List every fund you own and its
+
+620
+00:20:10,919 --> 00:20:11,934
+expense ratio.
+
+621
+00:20:12,114 --> 00:20:14,325
+If any are around one percent or
+
+622
+00:20:14,325 --> 00:20:17,504
+higher, check whether a lower cost alternative
+
+623
+00:20:17,504 --> 00:20:19,440
+exists in the same category.
+
+624
+00:20:19,790 --> 00:20:20,800
+That's angle two.
+
+625
+00:20:20,980 --> 00:20:22,679
+Straight line thinking,
+
+626
+00:20:22,679 --> 00:20:24,008
+the boring middle,
+
+627
+00:20:24,008 --> 00:20:25,855
+impatience, present bias,
+
+628
+00:20:25,855 --> 00:20:29,253
+interruptions, the literacy gap and small rate
+
+629
+00:20:29,253 --> 00:20:30,140
+differences.
+
+630
+00:20:30,320 --> 00:20:31,493
+Now angle three.
+
+631
+00:20:31,673 --> 00:20:32,508
+The playbook.
+
+632
+00:20:32,859 --> 00:20:35,111
+Now let's turn knowledge into action.
+
+633
+00:20:35,291 --> 00:20:37,581
+Here are six moves that put compounding
+
+634
+00:20:37,581 --> 00:20:38,520
+to work for you,
+
+635
+00:20:38,520 --> 00:20:40,399
+and stop it working against you.
+
+636
+00:20:40,579 --> 00:20:42,959
+None of them require a big income,
+
+637
+00:20:42,959 --> 00:20:45,270
+special skills or perfect timing.
+
+638
+00:20:45,450 --> 00:20:47,044
+They just require starting,
+
+639
+00:20:47,044 --> 00:20:49,525
+and then staying out of compounding's way.
+
+640
+00:20:49,875 --> 00:20:51,349
+Move number fifteen.
+
+641
+00:20:51,529 --> 00:20:53,851
+Start now, with whatever you have.
+
+642
+00:20:54,201 --> 00:20:57,258
+The single biggest factor in compounding is
+
+643
+00:20:57,258 --> 00:20:57,614
+time.
+
+644
+00:20:57,794 --> 00:20:59,409
+Every year you wait is a year
+
+645
+00:20:59,409 --> 00:21:01,024
+of growth you never get back,
+
+646
+00:21:01,024 --> 00:21:02,917
+and those early years are the ones
+
+647
+00:21:02,917 --> 00:21:04,365
+that compound the longest.
+
+648
+00:21:04,545 --> 00:21:06,792
+A dollar invested at twenty five has
+
+649
+00:21:06,792 --> 00:21:08,539
+roughly forty years to grow.
+
+650
+00:21:08,719 --> 00:21:11,220
+A dollar invested at fifty five has
+
+651
+00:21:11,220 --> 00:21:11,935
+about ten.
+
+652
+00:21:12,285 --> 00:21:13,295
+You don't need much.
+
+653
+00:21:13,475 --> 00:21:16,676
+Many brokerages offer accounts with no minimums
+
+654
+00:21:16,676 --> 00:21:19,605
+and fractional shares of broad index funds.
+
+655
+00:21:19,785 --> 00:21:22,401
+Fifty or one hundred dollars a month,
+
+656
+00:21:22,401 --> 00:21:24,805
+in a tax advantaged account like a
+
+657
+00:21:24,805 --> 00:21:26,502
+four oh one k or an IRA,
+
+658
+00:21:26,502 --> 00:21:27,633
+is a real start.
+
+659
+00:21:27,983 --> 00:21:30,251
+You can always increase the amount later,
+
+660
+00:21:30,251 --> 00:21:32,187
+when your income grows or debts are
+
+661
+00:21:32,187 --> 00:21:32,685
+paid off.
+
+662
+00:21:32,865 --> 00:21:34,281
+What you can never do is go
+
+663
+00:21:34,281 --> 00:21:35,488
+back and start earlier.
+
+664
+00:21:35,668 --> 00:21:37,432
+That's why the best time to start
+
+665
+00:21:37,432 --> 00:21:39,035
+is always as soon as possible.
+
+666
+00:21:39,386 --> 00:21:40,152
+Try this.
+
+667
+00:21:40,332 --> 00:21:42,380
+Open an account and set up your
+
+668
+00:21:42,380 --> 00:21:44,824
+first automatic investment this week,
+
+669
+00:21:44,824 --> 00:21:46,079
+even if it's small.
+
+670
+00:21:46,259 --> 00:21:49,118
+Then set a calendar reminder to increase
+
+671
+00:21:49,118 --> 00:21:50,334
+it in six months.
+
+672
+00:21:50,684 --> 00:21:52,135
+Move number sixteen.
+
+673
+00:21:52,315 --> 00:21:54,207
+Eliminate high interest debt.
+
+674
+00:21:54,558 --> 00:21:56,760
+Paying off a credit card at twenty
+
+675
+00:21:56,760 --> 00:21:59,545
+percent is like earning a guaranteed twenty
+
+676
+00:21:59,545 --> 00:22:03,172
+percent return, something no investment reliably offers.
+
+677
+00:22:03,352 --> 00:22:05,565
+Before compounding can work for you,
+
+678
+00:22:05,565 --> 00:22:07,715
+it helps to stop it working against
+
+679
+00:22:07,715 --> 00:22:07,961
+you.
+
+680
+00:22:08,312 --> 00:22:10,541
+A simple method is to list every
+
+681
+00:22:10,541 --> 00:22:12,073
+debt by interest rate,
+
+682
+00:22:12,073 --> 00:22:14,233
+pay the minimum on all of them,
+
+683
+00:22:14,233 --> 00:22:16,531
+and put every extra dollar on the
+
+684
+00:22:16,531 --> 00:22:17,437
+highest rate.
+
+685
+00:22:17,617 --> 00:22:18,932
+When that one's gone,
+
+686
+00:22:18,932 --> 00:22:21,123
+roll its payment into the next one.
+
+687
+00:22:21,303 --> 00:22:23,776
+Each payoff makes the next one faster.
+
+688
+00:22:24,126 --> 00:22:26,572
+Once the high interest debt is gone,
+
+689
+00:22:26,572 --> 00:22:30,105
+redirect those same monthly payments into investing.
+
+690
+00:22:30,285 --> 00:22:32,851
+Now the snowball rolls in your direction.
+
+691
+00:22:33,031 --> 00:22:34,948
+The money that used to compound for
+
+692
+00:22:34,948 --> 00:22:36,920
+the bank starts compounding for you.
+
+693
+00:22:37,270 --> 00:22:38,059
+Try this.
+
+694
+00:22:38,239 --> 00:22:40,726
+Stop adding new charges to any card
+
+695
+00:22:40,726 --> 00:22:42,361
+that carries a balance.
+
+696
+00:22:42,541 --> 00:22:44,599
+Use a debit card or cash for
+
+697
+00:22:44,599 --> 00:22:47,835
+everyday spending until the balance is gone.
+
+698
+00:22:48,185 --> 00:22:49,729
+Move number seventeen.
+
+699
+00:22:49,909 --> 00:22:52,266
+Reinvest dividends and interest.
+
+700
+00:22:52,616 --> 00:22:55,033
+Dividends and interest are the fuel of
+
+701
+00:22:55,033 --> 00:22:55,797
+compounding.
+
+702
+00:22:55,977 --> 00:22:58,084
+When a company pays a dividend and
+
+703
+00:22:58,084 --> 00:22:58,889
+you spend it,
+
+704
+00:22:58,889 --> 00:23:00,563
+the snowball stops growing.
+
+705
+00:23:00,743 --> 00:23:02,158
+When you reinvest it,
+
+706
+00:23:02,158 --> 00:23:03,507
+it buys more shares,
+
+707
+00:23:03,507 --> 00:23:05,192
+which pay more dividends,
+
+708
+00:23:05,192 --> 00:23:06,675
+which buy more shares.
+
+709
+00:23:07,026 --> 00:23:11,339
+Most brokerages let you automatically reinvest dividends,
+
+710
+00:23:11,339 --> 00:23:12,852
+often called a DRIP,
+
+711
+00:23:12,852 --> 00:23:15,652
+short for dividend reinvestment plan.
+
+712
+00:23:15,832 --> 00:23:17,030
+For long term money,
+
+713
+00:23:17,030 --> 00:23:18,647
+turning it on is one of the
+
+714
+00:23:18,647 --> 00:23:21,222
+easiest ways to keep compounding running at
+
+715
+00:23:21,222 --> 00:23:21,881
+full speed.
+
+716
+00:23:22,231 --> 00:23:24,552
+Historical data from S and P Dow
+
+717
+00:23:24,552 --> 00:23:28,179
+Jones Indices shows that reinvested dividends have
+
+718
+00:23:28,179 --> 00:23:30,646
+made up a significant share of the
+
+719
+00:23:30,646 --> 00:23:33,185
+S and P five hundred's total return
+
+720
+00:23:33,185 --> 00:23:34,491
+over long periods.
+
+721
+00:23:34,671 --> 00:23:37,190
+Investors who spent their dividends saw much
+
+722
+00:23:37,190 --> 00:23:39,651
+less growth than those who reinvested them.
+
+723
+00:23:40,002 --> 00:23:40,896
+Try this.
+
+724
+00:23:41,076 --> 00:23:43,577
+Log into your accounts and check that
+
+725
+00:23:43,577 --> 00:23:46,484
+dividend reinvestment is turned on for your
+
+726
+00:23:46,484 --> 00:23:47,972
+long term investments.
+
+727
+00:23:48,322 --> 00:23:49,738
+Move number eighteen.
+
+728
+00:23:49,918 --> 00:23:51,845
+Keep investment costs low.
+
+729
+00:23:52,196 --> 00:23:54,036
+Every dollar paid in fees is a
+
+730
+00:23:54,036 --> 00:23:56,368
+dollar that stops compounding for you,
+
+731
+00:23:56,368 --> 00:23:58,454
+along with all the growth it would
+
+732
+00:23:58,454 --> 00:23:59,313
+have produced.
+
+733
+00:23:59,493 --> 00:24:01,652
+Over decades, that adds up.
+
+734
+00:24:01,832 --> 00:24:03,394
+Fees are one of the few parts
+
+735
+00:24:03,394 --> 00:24:05,280
+of investing you can fully control.
+
+736
+00:24:05,630 --> 00:24:08,658
+Low cost broad index funds often charge
+
+737
+00:24:08,658 --> 00:24:11,221
+a small fraction of a percent per
+
+738
+00:24:11,221 --> 00:24:11,609
+year.
+
+739
+00:24:11,789 --> 00:24:14,597
+Many actively managed funds charge much more,
+
+740
+00:24:14,597 --> 00:24:16,968
+and research such as the SPIVA reports
+
+741
+00:24:16,968 --> 00:24:19,588
+has found that most of them underperformed
+
+742
+00:24:19,588 --> 00:24:22,458
+their benchmarks over long periods after fees.
+
+743
+00:24:22,809 --> 00:24:24,542
+If you work with an advisor,
+
+744
+00:24:24,542 --> 00:24:25,843
+that can be valuable,
+
+745
+00:24:25,843 --> 00:24:27,886
+but know exactly what you pay and
+
+746
+00:24:27,886 --> 00:24:28,939
+how they're paid.
+
+747
+00:24:29,119 --> 00:24:31,490
+A fee only fiduciary is required to
+
+748
+00:24:31,490 --> 00:24:33,252
+act in your best interest.
+
+749
+00:24:33,602 --> 00:24:34,380
+Try this.
+
+750
+00:24:34,560 --> 00:24:37,162
+Add up your total yearly investment fees
+
+751
+00:24:37,162 --> 00:24:38,983
+in dollars, not percentages.
+
+752
+00:24:39,163 --> 00:24:41,651
+Seeing the dollar amount often motivates a
+
+753
+00:24:41,651 --> 00:24:42,065
+change.
+
+754
+00:24:42,416 --> 00:24:43,670
+Move number nineteen.
+
+755
+00:24:43,850 --> 00:24:46,288
+Automate, then mostly ignore it.
+
+756
+00:24:46,638 --> 00:24:49,227
+The best compounders often do the least.
+
+757
+00:24:49,407 --> 00:24:52,608
+They set up automatic investing into diversified,
+
+758
+00:24:52,608 --> 00:24:53,588
+low cost funds,
+
+759
+00:24:53,588 --> 00:24:55,679
+and then they leave it alone for
+
+760
+00:24:55,679 --> 00:24:56,071
+years.
+
+761
+00:24:56,251 --> 00:24:57,615
+No constant trading,
+
+762
+00:24:57,615 --> 00:24:59,320
+no reacting to headlines,
+
+763
+00:24:59,320 --> 00:25:02,594
+no switching strategies every time something new
+
+764
+00:25:02,594 --> 00:25:03,345
+is popular.
+
+765
+00:25:03,695 --> 00:25:06,329
+Research by Brad Barber and Terrance Odean
+
+766
+00:25:06,329 --> 00:25:09,277
+found that individual investors who traded most
+
+767
+00:25:09,277 --> 00:25:12,288
+frequently earned lower returns after costs than
+
+768
+00:25:12,288 --> 00:25:13,668
+those who traded less.
+
+769
+00:25:13,848 --> 00:25:16,191
+Activity often feels productive,
+
+770
+00:25:16,191 --> 00:25:17,582
+but with investing,
+
+771
+00:25:17,582 --> 00:25:20,291
+it frequently interrupts compounding.
+
+772
+00:25:20,641 --> 00:25:23,090
+A simple routine works for most people.
+
+773
+00:25:23,270 --> 00:25:25,544
+Review your accounts once or twice a
+
+774
+00:25:25,544 --> 00:25:25,859
+year.
+
+775
+00:25:26,039 --> 00:25:28,361
+Rebalance if your mix has drifted far
+
+776
+00:25:28,361 --> 00:25:29,302
+from your plan.
+
+777
+00:25:29,482 --> 00:25:31,664
+Raise your contributions when you can.
+
+778
+00:25:31,844 --> 00:25:34,190
+Otherwise, let time do its work.
+
+779
+00:25:34,540 --> 00:25:35,329
+Try this.
+
+780
+00:25:35,509 --> 00:25:38,000
+Turn off daily price notifications from your
+
+781
+00:25:38,000 --> 00:25:39,980
+investing app, and move the app off
+
+782
+00:25:39,980 --> 00:25:40,943
+your home screen.
+
+783
+00:25:41,293 --> 00:25:42,314
+Move number twenty.
+
+784
+00:25:42,494 --> 00:25:43,972
+Compound your skills,
+
+785
+00:25:43,972 --> 00:25:46,012
+health and relationships too.
+
+786
+00:25:46,362 --> 00:25:48,428
+Compounding isn't only about money.
+
+787
+00:25:48,608 --> 00:25:50,791
+Skills build on skills.
+
+788
+00:25:50,971 --> 00:25:52,956
+Knowledge builds on knowledge.
+
+789
+00:25:53,136 --> 00:25:56,016
+Trust in relationships builds over years.
+
+790
+00:25:56,196 --> 00:25:58,463
+A little improvement every day,
+
+791
+00:25:58,463 --> 00:25:59,926
+kept up for decades,
+
+792
+00:25:59,926 --> 00:26:02,047
+can produce enormous results.
+
+793
+00:26:02,397 --> 00:26:04,435
+Reading thirty minutes a day adds up
+
+794
+00:26:04,435 --> 00:26:05,624
+to many books a year.
+
+795
+00:26:05,804 --> 00:26:08,192
+Exercising regularly protects your health,
+
+796
+00:26:08,192 --> 00:26:10,239
+which protects your ability to earn.
+
+797
+00:26:10,419 --> 00:26:12,648
+Learning a valuable skill can raise your
+
+798
+00:26:12,648 --> 00:26:14,599
+income for the rest of your career.
+
+799
+00:26:14,949 --> 00:26:17,368
+And these forms of compounding feed your
+
+800
+00:26:17,368 --> 00:26:18,699
+financial compounding.
+
+801
+00:26:18,879 --> 00:26:21,284
+A higher income lets you invest more,
+
+802
+00:26:21,284 --> 00:26:22,780
+which compounds faster.
+
+803
+00:26:22,960 --> 00:26:25,642
+Better health means more working years and
+
+804
+00:26:25,642 --> 00:26:26,919
+fewer medical bills.
+
+805
+00:26:27,099 --> 00:26:28,376
+It's a double snowball.
+
+806
+00:26:28,726 --> 00:26:29,446
+Try this.
+
+807
+00:26:29,626 --> 00:26:31,765
+Pick one skill that could raise your
+
+808
+00:26:31,765 --> 00:26:34,083
+income, and spend fifteen minutes a day
+
+809
+00:26:34,083 --> 00:26:35,094
+on it this month.
+
+810
+00:26:35,274 --> 00:26:37,449
+Fifteen minutes a day is over ninety
+
+811
+00:26:37,449 --> 00:26:38,234
+hours a year.
+
+812
+00:26:38,585 --> 00:26:41,719
+Here's a classic example that shows compounding's
+
+813
+00:26:41,719 --> 00:26:42,103
+power.
+
+814
+00:26:42,453 --> 00:26:45,064
+Saver one invests two hundred dollars a
+
+815
+00:26:45,064 --> 00:26:47,474
+month from age twenty five to thirty
+
+816
+00:26:47,474 --> 00:26:49,349
+five, then stops completely.
+
+817
+00:26:49,529 --> 00:26:51,763
+That's ten years and twenty four thousand
+
+818
+00:26:51,763 --> 00:26:52,199
+dollars.
+
+819
+00:26:52,379 --> 00:26:54,845
+Saver two starts at thirty five and
+
+820
+00:26:54,845 --> 00:26:57,734
+invests two hundred dollars a month until
+
+821
+00:26:57,734 --> 00:26:58,509
+sixty five.
+
+822
+00:26:58,689 --> 00:27:01,126
+That's thirty years and seventy two thousand
+
+823
+00:27:01,126 --> 00:27:01,569
+dollars.
+
+824
+00:27:01,919 --> 00:27:04,558
+At a seven percent average yearly return,
+
+825
+00:27:04,558 --> 00:27:06,296
+who has more at sixty five?
+
+826
+00:27:06,476 --> 00:27:07,300
+Saver one.
+
+827
+00:27:07,480 --> 00:27:09,985
+The money invested early had thirty extra
+
+828
+00:27:09,985 --> 00:27:11,085
+years to compound,
+
+829
+00:27:11,085 --> 00:27:13,040
+and that head start is enough to
+
+830
+00:27:13,040 --> 00:27:15,606
+beat three times the contributions in this
+
+831
+00:27:15,606 --> 00:27:16,095
+example.
+
+832
+00:27:16,275 --> 00:27:17,238
+Time beat money.
+
+833
+00:27:17,588 --> 00:27:19,732
+Of course, the best plan is to
+
+834
+00:27:19,732 --> 00:27:21,663
+start early and keep going.
+
+835
+00:27:21,843 --> 00:27:23,667
+But if you take away one idea
+
+836
+00:27:23,667 --> 00:27:24,673
+from this video,
+
+837
+00:27:24,673 --> 00:27:25,616
+let it be this.
+
+838
+00:27:25,796 --> 00:27:27,690
+The dollars you invest early are the
+
+839
+00:27:27,690 --> 00:27:29,848
+most powerful dollars you'll ever invest.
+
+840
+00:27:30,198 --> 00:27:31,452
+Let's make this personal.
+
+841
+00:27:31,632 --> 00:27:33,814
+Here's what compounding looks like depending on
+
+842
+00:27:33,814 --> 00:27:34,511
+when you start.
+
+843
+00:27:34,691 --> 00:27:36,235
+Same habit for everyone,
+
+844
+00:27:36,235 --> 00:27:38,166
+three hundred dollars a month,
+
+845
+00:27:38,166 --> 00:27:40,612
+a seven percent average yearly return.
+
+846
+00:27:40,792 --> 00:27:43,169
+Remember, this is an illustration,
+
+847
+00:27:43,169 --> 00:27:44,147
+not a promise.
+
+848
+00:27:44,497 --> 00:27:47,154
+Start at twenty five and keep going
+
+849
+00:27:47,154 --> 00:27:48,444
+until sixty five.
+
+850
+00:27:48,624 --> 00:27:49,762
+That's forty years.
+
+851
+00:27:49,942 --> 00:27:51,990
+Three hundred dollars a month grows to
+
+852
+00:27:51,990 --> 00:27:54,470
+roughly seven hundred eighty thousand dollars.
+
+853
+00:27:54,650 --> 00:27:57,216
+You contributed one hundred forty four thousand.
+
+854
+00:27:57,396 --> 00:27:59,667
+The other six hundred thousand or so
+
+855
+00:27:59,667 --> 00:28:00,298
+is growth.
+
+856
+00:28:00,478 --> 00:28:02,655
+Compounding did most of the work,
+
+857
+00:28:02,655 --> 00:28:03,183
+not you.
+
+858
+00:28:03,533 --> 00:28:05,146
+Start at thirty five.
+
+859
+00:28:05,326 --> 00:28:07,411
+Thirty years of the same habit grows
+
+860
+00:28:07,411 --> 00:28:09,902
+to roughly three hundred sixty six thousand
+
+861
+00:28:09,902 --> 00:28:10,365
+dollars.
+
+862
+00:28:10,545 --> 00:28:13,264
+That's still a very real retirement cushion,
+
+863
+00:28:13,264 --> 00:28:14,562
+but notice something.
+
+864
+00:28:14,742 --> 00:28:16,805
+Waiting just ten years cut the final
+
+865
+00:28:16,805 --> 00:28:18,237
+number by more than half.
+
+866
+00:28:18,417 --> 00:28:20,031
+That's the cost of delay,
+
+867
+00:28:20,031 --> 00:28:21,064
+in one sentence.
+
+868
+00:28:21,414 --> 00:28:22,888
+Start at forty five.
+
+869
+00:28:23,068 --> 00:28:25,441
+Twenty years grows to roughly one hundred
+
+870
+00:28:25,441 --> 00:28:27,004
+fifty six thousand dollars.
+
+871
+00:28:27,184 --> 00:28:28,503
+Start at fifty five,
+
+872
+00:28:28,503 --> 00:28:30,878
+and ten years grows to roughly fifty
+
+873
+00:28:30,878 --> 00:28:31,735
+two thousand.
+
+874
+00:28:31,915 --> 00:28:34,342
+Less dramatic, but still meaningful.
+
+875
+00:28:34,522 --> 00:28:36,607
+And people who start later often earn
+
+876
+00:28:36,607 --> 00:28:38,523
+more, so they can invest more each
+
+877
+00:28:38,523 --> 00:28:40,101
+month to make up some of the
+
+878
+00:28:40,101 --> 00:28:40,327
+gap.
+
+879
+00:28:40,677 --> 00:28:42,116
+Here's the catch up math.
+
+880
+00:28:42,296 --> 00:28:44,212
+If you start at forty and invest
+
+881
+00:28:44,212 --> 00:28:46,547
+one thousand dollars a month for twenty
+
+882
+00:28:46,547 --> 00:28:48,762
+five years at the same seven percent,
+
+883
+00:28:48,762 --> 00:28:51,217
+you could reach roughly eight hundred ten
+
+884
+00:28:51,217 --> 00:28:52,234
+thousand dollars.
+
+885
+00:28:52,414 --> 00:28:54,388
+So a late start isn't hopeless.
+
+886
+00:28:54,568 --> 00:28:56,537
+It just means time is scarcer,
+
+887
+00:28:56,537 --> 00:28:59,293
+so your contributions have to work harder.
+
+888
+00:28:59,644 --> 00:29:01,506
+And in the United States,
+
+889
+00:29:01,506 --> 00:29:04,784
+people fifty and older are generally allowed
+
+890
+00:29:04,784 --> 00:29:08,583
+extra catch up contributions in retirement accounts
+
+891
+00:29:08,583 --> 00:29:10,743
+like four oh one ks and IRAs.
+
+892
+00:29:10,923 --> 00:29:12,154
+The limits change,
+
+893
+00:29:12,154 --> 00:29:14,549
+so check the current numbers on the
+
+894
+00:29:14,549 --> 00:29:15,369
+IRS website.
+
+895
+00:29:15,549 --> 00:29:17,725
+The rules were written with late starters
+
+896
+00:29:17,725 --> 00:29:18,150
+in mind.
+
+897
+00:29:18,500 --> 00:29:19,312
+Question one.
+
+898
+00:29:19,492 --> 00:29:21,211
+Do savings accounts compound?
+
+899
+00:29:21,391 --> 00:29:23,841
+Yes, most pay compound interest,
+
+900
+00:29:23,841 --> 00:29:25,756
+usually daily or monthly.
+
+901
+00:29:25,936 --> 00:29:28,725
+But rates on many traditional savings accounts
+
+902
+00:29:28,725 --> 00:29:29,210
+are low.
+
+903
+00:29:29,390 --> 00:29:32,142
+High yield savings accounts usually pay more.
+
+904
+00:29:32,492 --> 00:29:33,444
+Question two.
+
+905
+00:29:33,624 --> 00:29:34,878
+Do stocks compound?
+
+906
+00:29:35,058 --> 00:29:37,375
+Stocks don't pay a set interest rate,
+
+907
+00:29:37,375 --> 00:29:40,319
+but they compound through rising company values
+
+908
+00:29:40,319 --> 00:29:41,884
+and reinvested dividends.
+
+909
+00:29:42,064 --> 00:29:44,619
+That's why long term stock investing is
+
+910
+00:29:44,619 --> 00:29:46,650
+often described as compounding.
+
+911
+00:29:47,000 --> 00:29:48,056
+Question three.
+
+912
+00:29:48,236 --> 00:29:49,945
+Is it too late to benefit from
+
+913
+00:29:49,945 --> 00:29:50,628
+compounding?
+
+914
+00:29:50,808 --> 00:29:50,994
+No.
+
+915
+00:29:51,174 --> 00:29:53,549
+Even ten or twenty years of compounding
+
+916
+00:29:53,549 --> 00:29:55,133
+can make a big difference.
+
+917
+00:29:55,313 --> 00:29:57,378
+Start now and invest as much as
+
+918
+00:29:57,378 --> 00:29:58,645
+you reasonably can.
+
+919
+00:29:58,995 --> 00:30:00,016
+Question four.
+
+920
+00:30:00,196 --> 00:30:02,600
+Does inflation cancel out compounding?
+
+921
+00:30:02,780 --> 00:30:03,964
+It works against it.
+
+922
+00:30:04,144 --> 00:30:07,470
+Inflation slowly shrinks what each dollar can
+
+923
+00:30:07,470 --> 00:30:07,766
+buy.
+
+924
+00:30:07,946 --> 00:30:09,556
+At three percent inflation,
+
+925
+00:30:09,556 --> 00:30:12,120
+five thousand dollars twenty years from now
+
+926
+00:30:12,120 --> 00:30:14,743
+buys roughly what two thousand eight hundred
+
+927
+00:30:14,743 --> 00:30:15,876
+dollars buys today.
+
+928
+00:30:16,056 --> 00:30:17,933
+That's why money that must grow for
+
+929
+00:30:17,933 --> 00:30:20,024
+decades usually needs to earn more than
+
+930
+00:30:20,024 --> 00:30:20,560
+inflation.
+
+931
+00:30:20,911 --> 00:30:21,909
+Question five.
+
+932
+00:30:22,089 --> 00:30:24,899
+What's the difference between APR and APY?
+
+933
+00:30:25,079 --> 00:30:28,402
+APR is the yearly rate before compounding
+
+934
+00:30:28,402 --> 00:30:29,293
+is counted.
+
+935
+00:30:29,473 --> 00:30:32,063
+APY, the annual percentage yield,
+
+936
+00:30:32,063 --> 00:30:33,711
+includes compounding.
+
+937
+00:30:33,891 --> 00:30:35,788
+So when you're saving,
+
+938
+00:30:35,788 --> 00:30:36,909
+compare APYs.
+
+939
+00:30:37,089 --> 00:30:38,671
+And when you're borrowing,
+
+940
+00:30:38,671 --> 00:30:40,618
+remember that the true cost of a
+
+941
+00:30:40,618 --> 00:30:42,747
+card with a twenty four percent APR
+
+942
+00:30:42,747 --> 00:30:45,180
+is even a little higher once compounding
+
+943
+00:30:45,180 --> 00:30:45,727
+kicks in.
+
+944
+00:30:46,077 --> 00:30:47,214
+Question six.
+
+945
+00:30:47,394 --> 00:30:49,327
+Should I pay off my mortgage or
+
+946
+00:30:49,327 --> 00:30:49,763
+invest?
+
+947
+00:30:49,943 --> 00:30:51,351
+It depends on your rate,
+
+948
+00:30:51,351 --> 00:30:53,345
+your taxes and your peace of mind.
+
+949
+00:30:53,525 --> 00:30:55,889
+Generally, the higher your mortgage rate,
+
+950
+00:30:55,889 --> 00:30:57,793
+the more paying it down acts like
+
+951
+00:30:57,793 --> 00:30:58,946
+a guaranteed return.
+
+952
+00:30:59,126 --> 00:31:00,496
+Many people do both.
+
+953
+00:31:00,676 --> 00:31:02,885
+A low rate mortgage is very different
+
+954
+00:31:02,885 --> 00:31:04,914
+from a twenty percent credit card.
+
+955
+00:31:05,264 --> 00:31:06,378
+Question seven.
+
+956
+00:31:06,558 --> 00:31:08,602
+How do I know my real return?
+
+957
+00:31:08,782 --> 00:31:11,126
+Most brokerages show a personal rate of
+
+958
+00:31:11,126 --> 00:31:12,508
+return in your account.
+
+959
+00:31:12,688 --> 00:31:13,444
+Look for it,
+
+960
+00:31:13,444 --> 00:31:15,458
+and compare it to a simple broad
+
+961
+00:31:15,458 --> 00:31:17,472
+index fund over the same period.
+
+962
+00:31:17,652 --> 00:31:19,201
+If you're far behind,
+
+963
+00:31:19,201 --> 00:31:21,635
+high fees or too much trading may
+
+964
+00:31:21,635 --> 00:31:22,667
+be the reason.
+
+965
+00:31:23,017 --> 00:31:23,876
+Question eight.
+
+966
+00:31:24,056 --> 00:31:26,877
+Can compounding work with very small amounts?
+
+967
+00:31:27,057 --> 00:31:27,986
+Absolutely.
+
+968
+00:31:28,166 --> 00:31:30,392
+Twenty five dollars a month won't make
+
+969
+00:31:30,392 --> 00:31:31,564
+you rich on its own,
+
+970
+00:31:31,564 --> 00:31:32,970
+but it builds the habit,
+
+971
+00:31:32,970 --> 00:31:34,435
+and habits are what grow.
+
+972
+00:31:34,615 --> 00:31:36,762
+Many people who start tiny raise the
+
+973
+00:31:36,762 --> 00:31:39,027
+amount over the years as income grows.
+
+974
+00:31:39,207 --> 00:31:41,012
+The habit you build at twenty five
+
+975
+00:31:41,012 --> 00:31:42,924
+dollars is the same habit that later
+
+976
+00:31:42,924 --> 00:31:43,932
+moves two thousand.
+
+977
+00:31:44,283 --> 00:31:45,177
+Question nine.
+
+978
+00:31:45,357 --> 00:31:47,476
+What if the market crashes right after
+
+979
+00:31:47,476 --> 00:31:47,922
+I start?
+
+980
+00:31:48,102 --> 00:31:50,378
+Crashes happen, and they're painful.
+
+981
+00:31:50,558 --> 00:31:52,759
+But for someone investing every month,
+
+982
+00:31:52,759 --> 00:31:55,134
+a falling market means buying more shares
+
+983
+00:31:55,134 --> 00:31:56,061
+at lower prices.
+
+984
+00:31:56,241 --> 00:31:59,633
+Historically, broad markets have recovered from past
+
+985
+00:31:59,633 --> 00:32:00,807
+crashes over time,
+
+986
+00:32:00,807 --> 00:32:02,960
+though there's never a guarantee,
+
+987
+00:32:02,960 --> 00:32:04,786
+and recovery can take years.
+
+988
+00:32:05,136 --> 00:32:06,134
+Mistake one.
+
+989
+00:32:06,314 --> 00:32:08,683
+Keeping long term money in cash for
+
+990
+00:32:08,683 --> 00:32:09,089
+years.
+
+991
+00:32:09,269 --> 00:32:11,772
+Cash is great for an emergency fund
+
+992
+00:32:11,772 --> 00:32:13,274
+and short term goals.
+
+993
+00:32:13,454 --> 00:32:15,636
+But money you won't need for decades,
+
+994
+00:32:15,636 --> 00:32:17,877
+sitting in an account earning far less
+
+995
+00:32:17,877 --> 00:32:20,648
+than inflation, loses buying power every single
+
+996
+00:32:20,648 --> 00:32:20,943
+year.
+
+997
+00:32:21,123 --> 00:32:22,604
+Know which money is for safety,
+
+998
+00:32:22,604 --> 00:32:24,037
+and which money is for growth.
+
+999
+00:32:24,387 --> 00:32:25,606
+Mistake two.
+
+1000
+00:32:25,786 --> 00:32:27,307
+Waiting for the perfect moment.
+
+1001
+00:32:27,487 --> 00:32:29,722
+People wait for the market to drop,
+
+1002
+00:32:29,722 --> 00:32:30,488
+for a raise,
+
+1003
+00:32:30,488 --> 00:32:31,573
+for the new year,
+
+1004
+00:32:31,573 --> 00:32:32,595
+for less stress.
+
+1005
+00:32:32,775 --> 00:32:35,190
+Meanwhile, months turn into years.
+
+1006
+00:32:35,370 --> 00:32:37,802
+Nobody can reliably predict the market,
+
+1007
+00:32:37,802 --> 00:32:40,734
+and the perfect moment rarely announces itself.
+
+1008
+00:32:40,914 --> 00:32:43,521
+A steady monthly habit removes the guessing
+
+1009
+00:32:43,521 --> 00:32:44,188
+completely.
+
+1010
+00:32:44,538 --> 00:32:45,652
+Mistake three.
+
+1011
+00:32:45,832 --> 00:32:47,539
+Ignoring the reverse snowball.
+
+1012
+00:32:47,719 --> 00:32:51,200
+Some people invest diligently while carrying credit
+
+1013
+00:32:51,200 --> 00:32:53,930
+card balances at twenty percent or more.
+
+1014
+00:32:54,110 --> 00:32:56,367
+The debt often compounds faster than the
+
+1015
+00:32:56,367 --> 00:32:57,326
+investments grow.
+
+1016
+00:32:57,506 --> 00:32:59,297
+Fixing that first is one of the
+
+1017
+00:32:59,297 --> 00:33:01,722
+highest return moves most people will ever
+
+1018
+00:33:01,722 --> 00:33:02,011
+make.
+
+1019
+00:33:02,361 --> 00:33:03,603
+Avoid those three,
+
+1020
+00:33:03,603 --> 00:33:04,984
+follow the playbook,
+
+1021
+00:33:04,984 --> 00:33:06,157
+and give it time.
+
+1022
+00:33:06,337 --> 00:33:08,879
+That's honestly most of what compounding asks
+
+1023
+00:33:08,879 --> 00:33:09,275
+of you.
+
+1024
+00:33:09,455 --> 00:33:11,549
+It's simple, but it isn't easy,
+
+1025
+00:33:11,549 --> 00:33:13,779
+because it asks for patience in a
+
+1026
+00:33:13,779 --> 00:33:15,468
+world that rewards speed.
+
+1027
+00:33:15,819 --> 00:33:16,573
+Quick recap.
+
+1028
+00:33:16,753 --> 00:33:18,599
+Angle one, the numbers.
+
+1029
+00:33:18,779 --> 00:33:20,538
+Simple versus compound,
+
+1030
+00:33:20,538 --> 00:33:22,373
+the rule of seventy two,
+
+1031
+00:33:22,373 --> 00:33:25,813
+compounding frequency, monthly contributions,
+
+1032
+00:33:25,813 --> 00:33:29,330
+Franklin's experiment, Buffett's late fortune,
+
+1033
+00:33:29,330 --> 00:33:30,935
+and compounding debt.
+
+1034
+00:33:31,285 --> 00:33:33,200
+Angle two, the psychology.
+
+1035
+00:33:33,380 --> 00:33:35,176
+Exponential growth bias,
+
+1036
+00:33:35,176 --> 00:33:36,523
+the boring middle,
+
+1037
+00:33:36,523 --> 00:33:38,393
+impatience, present bias,
+
+1038
+00:33:38,393 --> 00:33:40,788
+interruptions, the literacy gap,
+
+1039
+00:33:40,788 --> 00:33:42,808
+and small rate differences.
+
+1040
+00:33:43,158 --> 00:33:44,922
+Angle three, the playbook.
+
+1041
+00:33:45,102 --> 00:33:47,637
+Start now, kill compounding debt,
+
+1042
+00:33:47,637 --> 00:33:50,556
+reinvest everything, lower your costs,
+
+1043
+00:33:50,556 --> 00:33:52,092
+automate and ignore,
+
+1044
+00:33:52,092 --> 00:33:54,089
+and compound yourself too.
+
+1045
+00:33:54,439 --> 00:33:55,931
+Whoever said it first,
+
+1046
+00:33:55,931 --> 00:33:56,610
+it's true.
+
+1047
+00:33:56,790 --> 00:33:59,050
+He who understands compound interest,
+
+1048
+00:33:59,050 --> 00:33:59,599
+earns it.
+
+1049
+00:33:59,779 --> 00:34:00,794
+He who doesn't,
+
+1050
+00:34:00,794 --> 00:34:01,335
+pays it.
+
+1051
+00:34:01,515 --> 00:34:02,723
+Now you understand it.
+
+1052
+00:34:02,903 --> 00:34:04,504
+If you want the full plan for
+
+1053
+00:34:04,504 --> 00:34:05,553
+putting it to work,
+
+1054
+00:34:05,553 --> 00:34:06,657
+it's in my playbook,
+
+1055
+00:34:06,657 --> 00:34:08,092
+linked in the description.
+
+1056
+00:34:08,272 --> 00:34:09,758
+Tell me in the comments,
+
+1057
+00:34:09,758 --> 00:34:12,173
+what's your rule of seventy two number?
+
+1058
+00:34:12,353 --> 00:34:13,491
+I'm Ryan Rover.
+
+1059
+00:34:13,671 --> 00:34:14,890
+See you in the next one.
