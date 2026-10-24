@@ -1,0 +1,4111 @@
+1
+00:00:00,000 --> 00:00:01,741
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,921 --> 00:00:04,025
+If you spend any time online,
+
+3
+00:00:04,025 --> 00:00:05,694
+you've seen the videos.
+
+4
+00:00:05,874 --> 00:00:08,453
+Buy a vending machine and make passive
+
+5
+00:00:08,453 --> 00:00:08,928
+income.
+
+6
+00:00:09,108 --> 00:00:11,058
+Own a car wash and print money.
+
+7
+00:00:11,238 --> 00:00:14,349
+Storage units are the best investment nobody
+
+8
+00:00:14,349 --> 00:00:15,197
+talks about.
+
+9
+00:00:15,377 --> 00:00:16,863
+Some of that is true.
+
+10
+00:00:17,043 --> 00:00:18,438
+A lot of it leaves out the
+
+11
+00:00:18,438 --> 00:00:19,029
+hard parts.
+
+12
+00:00:19,209 --> 00:00:21,692
+Today, we're going to run the real
+
+13
+00:00:21,692 --> 00:00:23,226
+numbers on all three,
+
+14
+00:00:23,226 --> 00:00:24,176
+step by step,
+
+15
+00:00:24,176 --> 00:00:25,710
+with simple examples,
+
+16
+00:00:25,710 --> 00:00:27,683
+so you can see how each one
+
+17
+00:00:27,683 --> 00:00:29,655
+makes money, what it costs,
+
+18
+00:00:29,655 --> 00:00:32,212
+and where people lose their shirts.
+
+19
+00:00:32,561 --> 00:00:34,699
+Three passive income favorites,
+
+20
+00:00:34,699 --> 00:00:37,182
+three very different money machines.
+
+21
+00:00:37,362 --> 00:00:39,319
+Vending, car washes,
+
+22
+00:00:39,319 --> 00:00:40,102
+storage.
+
+23
+00:00:40,453 --> 00:00:42,856
+Here's an important warning before we start.
+
+24
+00:00:43,036 --> 00:00:45,193
+Every number in this video is a
+
+25
+00:00:45,193 --> 00:00:48,324
+simplified illustration we built to teach how
+
+26
+00:00:48,324 --> 00:00:49,854
+these businesses work,
+
+27
+00:00:49,854 --> 00:00:51,524
+not an industry average,
+
+28
+00:00:51,524 --> 00:00:52,986
+a quote or a promise.
+
+29
+00:00:53,166 --> 00:00:56,246
+Real results vary enormously by location,
+
+30
+00:00:56,246 --> 00:00:59,777
+competition, prices, equipment and how well the
+
+31
+00:00:59,777 --> 00:01:00,979
+business is run.
+
+32
+00:01:01,159 --> 00:01:03,886
+Use these examples to learn what questions
+
+33
+00:01:03,886 --> 00:01:06,223
+to ask, then get real numbers before
+
+34
+00:01:06,223 --> 00:01:07,521
+you invest a dollar.
+
+35
+00:01:07,872 --> 00:01:09,011
+For each business,
+
+36
+00:01:09,011 --> 00:01:11,227
+we'll look at the same five things.
+
+37
+00:01:11,407 --> 00:01:13,032
+What it costs to get in.
+
+38
+00:01:13,212 --> 00:01:14,582
+Where the revenue comes from.
+
+39
+00:01:14,762 --> 00:01:16,028
+Where the money goes.
+
+40
+00:01:16,208 --> 00:01:17,868
+What's left for the owner.
+
+41
+00:01:18,048 --> 00:01:20,331
+And the risks that the passive income
+
+42
+00:01:20,331 --> 00:01:21,566
+videos usually skip.
+
+43
+00:01:21,746 --> 00:01:23,769
+That way, you can compare all three
+
+44
+00:01:23,769 --> 00:01:24,520
+side by side.
+
+45
+00:01:24,871 --> 00:01:26,662
+After the three deep dives,
+
+46
+00:01:26,662 --> 00:01:28,785
+we'll step back and look at them
+
+47
+00:01:28,785 --> 00:01:29,979
+from three angles.
+
+48
+00:01:30,159 --> 00:01:32,741
+The numbers, meaning how the three compare
+
+49
+00:01:32,741 --> 00:01:33,909
+on return and risk.
+
+50
+00:01:34,089 --> 00:01:37,367
+The psychology, meaning why passive income is
+
+51
+00:01:37,367 --> 00:01:39,917
+such a powerful and dangerous idea.
+
+52
+00:01:40,097 --> 00:01:41,133
+And the playbook,
+
+53
+00:01:41,133 --> 00:01:43,328
+meaning how to decide whether any of
+
+54
+00:01:43,328 --> 00:01:44,242
+these fits you.
+
+55
+00:01:44,592 --> 00:01:46,978
+Let's start with the smallest and cheapest
+
+56
+00:01:46,978 --> 00:01:47,716
+of the three:
+
+57
+00:01:47,716 --> 00:01:48,852
+the vending machine.
+
+58
+00:01:49,203 --> 00:01:51,495
+All business figures in this video are
+
+59
+00:01:51,495 --> 00:01:54,148
+simplified illustrations built for teaching.
+
+60
+00:01:54,328 --> 00:01:56,616
+Lending information comes from the U.
+
+61
+00:01:56,796 --> 00:01:57,190
+S.
+
+62
+00:01:57,370 --> 00:01:59,472
+Small Business Administration.
+
+63
+00:01:59,652 --> 00:02:03,186
+Market return comparisons use an illustrative seven
+
+64
+00:02:03,186 --> 00:02:05,264
+percent average yearly return,
+
+65
+00:02:05,264 --> 00:02:06,235
+not a promise.
+
+66
+00:02:06,415 --> 00:02:08,239
+This video is education,
+
+67
+00:02:08,239 --> 00:02:11,279
+not financial, legal or business advice.
+
+68
+00:02:11,630 --> 00:02:12,291
+Part one.
+
+69
+00:02:12,471 --> 00:02:13,679
+Vending machines.
+
+70
+00:02:13,859 --> 00:02:16,156
+The cheapest way into the passive income
+
+71
+00:02:16,156 --> 00:02:18,108
+dream, and the most misunderstood.
+
+72
+00:02:18,458 --> 00:02:20,095
+Example vending machine.
+
+73
+00:02:20,275 --> 00:02:22,817
+Cost about four thousand dollars used.
+
+74
+00:02:22,997 --> 00:02:25,238
+Sales about four hundred dollars a month.
+
+75
+00:02:25,418 --> 00:02:27,669
+Profit after product and commission,
+
+76
+00:02:27,669 --> 00:02:30,171
+about one hundred forty dollars a month,
+
+77
+00:02:30,171 --> 00:02:31,234
+before your time.
+
+78
+00:02:31,584 --> 00:02:32,722
+Cost to get in.
+
+79
+00:02:32,902 --> 00:02:35,203
+A used snack or drink machine might
+
+80
+00:02:35,203 --> 00:02:37,043
+cost a few thousand dollars,
+
+81
+00:02:37,043 --> 00:02:39,672
+while new machines with card readers can
+
+82
+00:02:39,672 --> 00:02:40,658
+cost much more.
+
+83
+00:02:40,838 --> 00:02:43,591
+Let's say our example machine costs four
+
+84
+00:02:43,591 --> 00:02:46,689
+thousand dollars, including a card reader and
+
+85
+00:02:46,689 --> 00:02:47,653
+initial stock.
+
+86
+00:02:47,833 --> 00:02:49,944
+The machine is placed in a small
+
+87
+00:02:49,944 --> 00:02:52,187
+business with steady foot traffic,
+
+88
+00:02:52,187 --> 00:02:54,231
+like an auto repair shop with a
+
+89
+00:02:54,231 --> 00:02:55,089
+waiting room.
+
+90
+00:02:55,439 --> 00:02:56,031
+Revenue.
+
+91
+00:02:56,211 --> 00:02:58,677
+Say the machine sells about one hundred
+
+92
+00:02:58,677 --> 00:03:00,764
+sixty items a month at an average
+
+93
+00:03:00,764 --> 00:03:02,724
+of two dollars and fifty cents.
+
+94
+00:03:02,904 --> 00:03:05,036
+That's about four hundred dollars a month
+
+95
+00:03:05,036 --> 00:03:05,504
+in sales.
+
+96
+00:03:05,684 --> 00:03:08,416
+Some machines in great locations sell far
+
+97
+00:03:08,416 --> 00:03:08,749
+more.
+
+98
+00:03:08,929 --> 00:03:11,611
+Many in weak locations sell far less.
+
+99
+00:03:11,791 --> 00:03:14,369
+Location is the single biggest factor.
+
+100
+00:03:14,719 --> 00:03:15,879
+Where the money goes.
+
+101
+00:03:16,059 --> 00:03:18,564
+Product costs might take around forty to
+
+102
+00:03:18,564 --> 00:03:20,005
+fifty percent of sales,
+
+103
+00:03:20,005 --> 00:03:21,946
+say one hundred eighty dollars.
+
+104
+00:03:22,126 --> 00:03:24,695
+Many locations expect a commission,
+
+105
+00:03:24,695 --> 00:03:25,870
+say ten percent,
+
+106
+00:03:25,870 --> 00:03:27,118
+or forty dollars.
+
+107
+00:03:27,298 --> 00:03:29,471
+Card reader fees and the monthly service
+
+108
+00:03:29,471 --> 00:03:31,861
+might take another twenty to thirty dollars.
+
+109
+00:03:32,041 --> 00:03:34,093
+That leaves roughly one hundred forty to
+
+110
+00:03:34,093 --> 00:03:35,837
+one hundred fifty dollars a month.
+
+111
+00:03:36,187 --> 00:03:36,989
+What's left.
+
+112
+00:03:37,169 --> 00:03:39,448
+About one hundred forty dollars a month,
+
+113
+00:03:39,448 --> 00:03:41,898
+or around seventeen hundred dollars a year,
+
+114
+00:03:41,898 --> 00:03:43,949
+from a four thousand dollar machine.
+
+115
+00:03:44,129 --> 00:03:46,048
+That looks like a strong return,
+
+116
+00:03:46,048 --> 00:03:47,728
+around forty percent a year.
+
+117
+00:03:47,908 --> 00:03:49,701
+But it's before your time,
+
+118
+00:03:49,701 --> 00:03:50,943
+your gas, repairs,
+
+119
+00:03:50,943 --> 00:03:54,184
+expired products and the occasional broken coin
+
+120
+00:03:54,184 --> 00:03:54,874
+mechanism.
+
+121
+00:03:55,223 --> 00:03:56,779
+Now let's count your time.
+
+122
+00:03:56,959 --> 00:03:59,865
+Say each machine needs one restocking visit
+
+123
+00:03:59,865 --> 00:04:02,501
+a week, about an hour including driving
+
+124
+00:04:02,501 --> 00:04:03,380
+and shopping.
+
+125
+00:04:03,560 --> 00:04:05,722
+That's around fifty hours a year for
+
+126
+00:04:05,722 --> 00:04:07,284
+seventeen hundred dollars,
+
+127
+00:04:07,284 --> 00:04:09,446
+or about thirty four dollars an hour
+
+128
+00:04:09,446 --> 00:04:10,827
+before gas and repairs.
+
+129
+00:04:11,007 --> 00:04:13,562
+Not bad, but notice it's not passive.
+
+130
+00:04:13,742 --> 00:04:15,567
+It's a small part time job with
+
+131
+00:04:15,567 --> 00:04:16,156
+equipment.
+
+132
+00:04:16,506 --> 00:04:17,505
+The route effect.
+
+133
+00:04:17,685 --> 00:04:19,823
+The math improves when you have many
+
+134
+00:04:19,823 --> 00:04:21,249
+machines close together.
+
+135
+00:04:21,429 --> 00:04:23,864
+Ten machines along one route might take
+
+136
+00:04:23,864 --> 00:04:25,363
+a day a week to service,
+
+137
+00:04:25,363 --> 00:04:27,361
+and you can buy products in bulk
+
+138
+00:04:27,361 --> 00:04:28,360
+at lower prices.
+
+139
+00:04:28,540 --> 00:04:31,357
+That's how vending operators turn a hobby
+
+140
+00:04:31,357 --> 00:04:32,456
+into a business:
+
+141
+00:04:32,456 --> 00:04:34,173
+by building dense routes,
+
+142
+00:04:34,173 --> 00:04:35,959
+not by owning one machine.
+
+143
+00:04:36,309 --> 00:04:37,192
+The risks.
+
+144
+00:04:37,372 --> 00:04:39,739
+Bad locations, theft and vandalism,
+
+145
+00:04:39,739 --> 00:04:41,294
+machines breaking down,
+
+146
+00:04:41,294 --> 00:04:44,405
+products expiring, and locations asking you to
+
+147
+00:04:44,405 --> 00:04:47,043
+remove your machine with little notice.
+
+148
+00:04:47,223 --> 00:04:50,447
+Watch out for companies selling expensive machines
+
+149
+00:04:50,447 --> 00:04:51,995
+with promised locations.
+
+150
+00:04:52,175 --> 00:04:54,392
+Some of those deals put machines in
+
+151
+00:04:54,392 --> 00:04:56,482
+places that barely sell anything.
+
+152
+00:04:56,831 --> 00:04:58,612
+Here's how a route might grow,
+
+153
+00:04:58,612 --> 00:04:59,978
+using our illustration.
+
+154
+00:05:00,158 --> 00:05:02,825
+Year one, you buy three used machines
+
+155
+00:05:02,825 --> 00:05:05,708
+with savings, learn which products sell,
+
+156
+00:05:05,708 --> 00:05:08,015
+and move one machine from a slow
+
+157
+00:05:08,015 --> 00:05:09,817
+location to a busier one.
+
+158
+00:05:09,997 --> 00:05:11,431
+By the end of the year,
+
+159
+00:05:11,431 --> 00:05:14,174
+the three machines earn around five thousand
+
+160
+00:05:14,174 --> 00:05:15,233
+dollars together.
+
+161
+00:05:15,413 --> 00:05:17,975
+Year two, you reinvest every dollar of
+
+162
+00:05:17,975 --> 00:05:20,267
+profit and buy four more machines,
+
+163
+00:05:20,267 --> 00:05:21,885
+placing them in offices,
+
+164
+00:05:21,885 --> 00:05:24,784
+gyms and apartment buildings along the same
+
+165
+00:05:24,784 --> 00:05:25,189
+roads.
+
+166
+00:05:25,538 --> 00:05:27,963
+Year three, you have around twelve machines
+
+167
+00:05:27,963 --> 00:05:29,597
+on a route you can service in
+
+168
+00:05:29,597 --> 00:05:31,120
+about a day and a half each
+
+169
+00:05:31,120 --> 00:05:31,401
+week.
+
+170
+00:05:31,581 --> 00:05:34,051
+Buying products in bulk from a wholesale
+
+171
+00:05:34,051 --> 00:05:35,471
+club lowers your costs.
+
+172
+00:05:35,651 --> 00:05:37,370
+Card readers raise sales,
+
+173
+00:05:37,370 --> 00:05:40,190
+because many people no longer carry cash.
+
+174
+00:05:40,370 --> 00:05:41,317
+At this point,
+
+175
+00:05:41,317 --> 00:05:44,223
+the route might earn around twenty thousand
+
+176
+00:05:44,223 --> 00:05:46,656
+dollars a year before vehicle costs,
+
+177
+00:05:46,656 --> 00:05:48,954
+which is a meaningful side income,
+
+178
+00:05:48,954 --> 00:05:50,982
+though still far from passive.
+
+179
+00:05:51,331 --> 00:05:53,781
+How do operators find good locations?
+
+180
+00:05:53,961 --> 00:05:55,587
+They walk in and ask.
+
+181
+00:05:55,767 --> 00:05:57,646
+Auto shops, tire stores,
+
+182
+00:05:57,646 --> 00:06:00,543
+small factories, apartment buildings,
+
+183
+00:06:00,543 --> 00:06:03,518
+hotels, gyms and offices with fifty or
+
+184
+00:06:03,518 --> 00:06:06,181
+more employees are common targets.
+
+185
+00:06:06,361 --> 00:06:09,140
+The best locations have a captive audience,
+
+186
+00:06:09,140 --> 00:06:11,660
+people who are stuck waiting or working
+
+187
+00:06:11,660 --> 00:06:14,116
+nearby without easy access to a store.
+
+188
+00:06:14,296 --> 00:06:17,464
+Some operators offer no commission at first
+
+189
+00:06:17,464 --> 00:06:19,748
+and add one only once sales are
+
+190
+00:06:19,748 --> 00:06:20,264
+proven.
+
+191
+00:06:20,613 --> 00:06:22,401
+Vending also has niches.
+
+192
+00:06:22,581 --> 00:06:25,622
+Micro markets are small self checkout stores
+
+193
+00:06:25,622 --> 00:06:28,525
+inside offices, with fresh food and higher
+
+194
+00:06:28,525 --> 00:06:29,838
+sales per location.
+
+195
+00:06:30,018 --> 00:06:32,358
+Healthy vending focuses on better for you
+
+196
+00:06:32,358 --> 00:06:32,758
+snacks.
+
+197
+00:06:32,938 --> 00:06:35,847
+Coffee and specialty machines can earn more
+
+198
+00:06:35,847 --> 00:06:36,455
+per sale.
+
+199
+00:06:36,635 --> 00:06:39,439
+Each niche needs different equipment and skills,
+
+200
+00:06:39,439 --> 00:06:41,308
+but the core lesson is the same:
+
+201
+00:06:41,308 --> 00:06:43,294
+put the right products in front of
+
+202
+00:06:43,294 --> 00:06:44,228
+the right crowd.
+
+203
+00:06:44,578 --> 00:06:46,566
+What does a typical service day look
+
+204
+00:06:46,566 --> 00:06:46,842
+like?
+
+205
+00:06:47,022 --> 00:06:49,515
+You load the car with products from
+
+206
+00:06:49,515 --> 00:06:50,725
+a wholesale club,
+
+207
+00:06:50,725 --> 00:06:51,864
+drive the route,
+
+208
+00:06:51,864 --> 00:06:53,360
+restock each machine,
+
+209
+00:06:53,360 --> 00:06:55,852
+rotate older products to the front,
+
+210
+00:06:55,852 --> 00:06:57,561
+remove anything expired,
+
+211
+00:06:57,561 --> 00:07:00,124
+collect cash, check the card reader,
+
+212
+00:07:00,124 --> 00:07:01,477
+and note what sold.
+
+213
+00:07:01,657 --> 00:07:04,302
+Back home, you update a simple spreadsheet
+
+214
+00:07:04,302 --> 00:07:06,822
+so you know which products and locations
+
+215
+00:07:06,822 --> 00:07:07,578
+are winning.
+
+216
+00:07:07,758 --> 00:07:09,875
+The operators who track this data are
+
+217
+00:07:09,875 --> 00:07:10,904
+the ones who grow.
+
+218
+00:07:11,254 --> 00:07:13,822
+One more vending detail that matters:
+
+219
+00:07:13,822 --> 00:07:14,378
+pricing.
+
+220
+00:07:14,558 --> 00:07:17,945
+Many operators haven't raised prices in years,
+
+221
+00:07:17,945 --> 00:07:19,933
+even as product costs rose.
+
+222
+00:07:20,113 --> 00:07:22,260
+A twenty five cent increase on a
+
+223
+00:07:22,260 --> 00:07:24,274
+two dollar fifty item is a ten
+
+224
+00:07:24,274 --> 00:07:25,817
+percent price increase,
+
+225
+00:07:25,817 --> 00:07:27,629
+and if sales barely change,
+
+226
+00:07:27,629 --> 00:07:30,179
+most of that drops straight to profit.
+
+227
+00:07:30,359 --> 00:07:32,166
+Card readers help here too,
+
+228
+00:07:32,166 --> 00:07:34,977
+because customers paying by card are often
+
+229
+00:07:34,977 --> 00:07:37,788
+less sensitive to small price changes than
+
+230
+00:07:37,788 --> 00:07:39,194
+those counting coins.
+
+231
+00:07:39,543 --> 00:07:41,006
+The verdict on vending.
+
+232
+00:07:41,186 --> 00:07:43,332
+It's a low cost way to learn
+
+233
+00:07:43,332 --> 00:07:45,324
+business basics: location,
+
+234
+00:07:45,324 --> 00:07:48,466
+pricing, inventory and customer behavior.
+
+235
+00:07:48,646 --> 00:07:50,962
+One machine won't change your life,
+
+236
+00:07:50,962 --> 00:07:53,013
+but a well run route can become
+
+237
+00:07:53,013 --> 00:07:54,999
+a real side business or even a
+
+238
+00:07:54,999 --> 00:07:55,925
+full time one.
+
+239
+00:07:56,105 --> 00:07:58,506
+Just don't believe anyone who calls it
+
+240
+00:07:58,506 --> 00:07:59,391
+truly passive.
+
+241
+00:07:59,740 --> 00:08:00,483
+Part two.
+
+242
+00:08:00,663 --> 00:08:01,639
+Car washes.
+
+243
+00:08:01,819 --> 00:08:03,535
+A big step up in money,
+
+244
+00:08:03,535 --> 00:08:05,476
+and a big step up in risk.
+
+245
+00:08:05,825 --> 00:08:08,043
+Example express car wash.
+
+246
+00:08:08,223 --> 00:08:10,959
+Revenue about one point two million dollars
+
+247
+00:08:10,959 --> 00:08:11,404
+a year.
+
+248
+00:08:11,584 --> 00:08:14,234
+Owner earnings about three hundred thousand dollars
+
+249
+00:08:14,234 --> 00:08:14,858
+before debt.
+
+250
+00:08:15,038 --> 00:08:17,732
+Cost to build several million dollars.
+
+251
+00:08:18,081 --> 00:08:19,874
+There are a few kinds of car
+
+252
+00:08:19,874 --> 00:08:20,322
+washes.
+
+253
+00:08:20,502 --> 00:08:23,471
+Self service bays where customers wash their
+
+254
+00:08:23,471 --> 00:08:24,078
+own cars.
+
+255
+00:08:24,258 --> 00:08:25,773
+In bay automatics,
+
+256
+00:08:25,773 --> 00:08:27,625
+often at gas stations.
+
+257
+00:08:27,805 --> 00:08:29,054
+And express tunnels,
+
+258
+00:08:29,054 --> 00:08:31,676
+where cars ride a conveyor through brushes
+
+259
+00:08:31,676 --> 00:08:33,424
+and dryers in a few minutes.
+
+260
+00:08:33,604 --> 00:08:36,645
+Express tunnels have become very popular with
+
+261
+00:08:36,645 --> 00:08:40,024
+investors, largely because of monthly memberships.
+
+262
+00:08:40,374 --> 00:08:41,617
+Cost to get in.
+
+263
+00:08:41,797 --> 00:08:44,308
+Building a new express tunnel can cost
+
+264
+00:08:44,308 --> 00:08:45,895
+several million dollars,
+
+265
+00:08:45,895 --> 00:08:48,472
+including land, building and equipment.
+
+266
+00:08:48,652 --> 00:08:51,137
+Buying an existing wash may cost less
+
+267
+00:08:51,137 --> 00:08:53,622
+or more depending on its performance.
+
+268
+00:08:53,802 --> 00:08:56,773
+Smaller self service washes can be cheaper,
+
+269
+00:08:56,773 --> 00:08:59,467
+sometimes in the hundreds of thousands.
+
+270
+00:08:59,647 --> 00:09:01,505
+This is not a small purchase.
+
+271
+00:09:01,854 --> 00:09:02,516
+Revenue.
+
+272
+00:09:02,696 --> 00:09:04,740
+The magic of the modern car wash
+
+273
+00:09:04,740 --> 00:09:05,889
+is the membership.
+
+274
+00:09:06,069 --> 00:09:08,104
+Customers pay a monthly fee,
+
+275
+00:09:08,104 --> 00:09:09,848
+say twenty five dollars,
+
+276
+00:09:09,848 --> 00:09:11,375
+for unlimited washes.
+
+277
+00:09:11,555 --> 00:09:14,169
+Say our example wash has two thousand
+
+278
+00:09:14,169 --> 00:09:15,653
+five hundred members.
+
+279
+00:09:15,833 --> 00:09:18,885
+That's sixty two thousand five hundred dollars
+
+280
+00:09:18,885 --> 00:09:21,539
+a month, or seven hundred fifty thousand
+
+281
+00:09:21,539 --> 00:09:24,126
+a year, before a single individual wash
+
+282
+00:09:24,126 --> 00:09:24,657
+is sold.
+
+283
+00:09:24,837 --> 00:09:26,356
+Add individual washes,
+
+284
+00:09:26,356 --> 00:09:29,186
+and total revenue reaches about one point
+
+285
+00:09:29,186 --> 00:09:30,015
+two million.
+
+286
+00:09:30,364 --> 00:09:31,595
+Where the money goes.
+
+287
+00:09:31,775 --> 00:09:33,593
+Labor, even with automation,
+
+288
+00:09:33,593 --> 00:09:36,384
+might take around twenty to thirty percent.
+
+289
+00:09:36,564 --> 00:09:40,157
+Chemicals, water, electricity and maintenance take a
+
+290
+00:09:40,157 --> 00:09:40,848
+big share.
+
+291
+00:09:41,028 --> 00:09:43,344
+Add insurance, property taxes,
+
+292
+00:09:43,344 --> 00:09:46,508
+marketing, software and credit card fees.
+
+293
+00:09:46,688 --> 00:09:47,626
+In our example,
+
+294
+00:09:47,626 --> 00:09:50,379
+total operating costs are about nine hundred
+
+295
+00:09:50,379 --> 00:09:53,756
+thousand dollars, leaving about three hundred thousand
+
+296
+00:09:53,756 --> 00:09:55,570
+dollars before debt payments.
+
+297
+00:09:55,919 --> 00:09:56,279
+The debt.
+
+298
+00:09:56,459 --> 00:09:58,994
+Say the owner borrowed three million dollars
+
+299
+00:09:58,994 --> 00:09:59,513
+to build.
+
+300
+00:09:59,693 --> 00:10:02,104
+Depending on the loan terms and interest
+
+301
+00:10:02,104 --> 00:10:04,515
+rates, debt payments could easily be two
+
+302
+00:10:04,515 --> 00:10:06,926
+hundred fifty thousand dollars a year or
+
+303
+00:10:06,926 --> 00:10:07,228
+more.
+
+304
+00:10:07,408 --> 00:10:10,178
+That would leave around fifty thousand dollars
+
+305
+00:10:10,178 --> 00:10:12,226
+for the owner from a multi million
+
+306
+00:10:12,226 --> 00:10:14,575
+dollar project, at least until the loan
+
+307
+00:10:14,575 --> 00:10:16,382
+is paid down or revenue grows.
+
+308
+00:10:16,733 --> 00:10:18,195
+Now the stress test.
+
+309
+00:10:18,375 --> 00:10:20,593
+A new competitor opens a mile away
+
+310
+00:10:20,593 --> 00:10:22,485
+with lower membership prices.
+
+311
+00:10:22,665 --> 00:10:24,505
+Members drop by twenty percent,
+
+312
+00:10:24,505 --> 00:10:26,939
+and revenue falls about one hundred fifty
+
+313
+00:10:26,939 --> 00:10:27,948
+thousand dollars.
+
+314
+00:10:28,128 --> 00:10:30,578
+Most costs don't fall nearly as much.
+
+315
+00:10:30,758 --> 00:10:32,962
+Suddenly the wash may not cover its
+
+316
+00:10:32,962 --> 00:10:33,277
+debt.
+
+317
+00:10:33,457 --> 00:10:35,834
+Car washes have high fixed costs,
+
+318
+00:10:35,834 --> 00:10:38,931
+which means small changes in revenue create
+
+319
+00:10:38,931 --> 00:10:40,516
+big changes in profit.
+
+320
+00:10:40,866 --> 00:10:41,794
+The risks.
+
+321
+00:10:41,974 --> 00:10:44,798
+Heavy debt, competition from new washes,
+
+322
+00:10:44,798 --> 00:10:47,339
+which has increased in many areas as
+
+323
+00:10:47,339 --> 00:10:49,033
+investors pour money in,
+
+324
+00:10:49,033 --> 00:10:51,151
+equipment breakdowns, weather,
+
+325
+00:10:51,151 --> 00:10:53,410
+and local rules about water use.
+
+326
+00:10:53,590 --> 00:10:55,819
+A great location with traffic,
+
+327
+00:10:55,819 --> 00:10:58,791
+visibility and easy access is essential.
+
+328
+00:10:59,142 --> 00:11:01,488
+Let's look closer at the membership math,
+
+329
+00:11:01,488 --> 00:11:04,064
+because that's where the profit really lives.
+
+330
+00:11:04,244 --> 00:11:05,858
+Members don't stay forever.
+
+331
+00:11:06,038 --> 00:11:07,261
+If the wash loses,
+
+332
+00:11:07,261 --> 00:11:09,842
+say, five percent of its members every
+
+333
+00:11:09,842 --> 00:11:12,016
+month, it needs to sign up about
+
+334
+00:11:12,016 --> 00:11:14,734
+one hundred twenty five new members each
+
+335
+00:11:14,734 --> 00:11:17,043
+month just to stay at two thousand
+
+336
+00:11:17,043 --> 00:11:17,927
+five hundred.
+
+337
+00:11:18,107 --> 00:11:21,272
+That's why successful washes invest heavily in
+
+338
+00:11:21,272 --> 00:11:24,436
+signup systems, friendly staff and keeping the
+
+339
+00:11:24,436 --> 00:11:26,501
+experience quick and reliable.
+
+340
+00:11:26,851 --> 00:11:30,041
+Membership also changes customer behavior in the
+
+341
+00:11:30,041 --> 00:11:30,972
+owner's favor.
+
+342
+00:11:31,152 --> 00:11:32,819
+Members wash more often,
+
+343
+00:11:32,819 --> 00:11:35,388
+which feels like great value to them,
+
+344
+00:11:35,388 --> 00:11:37,472
+but the extra cost to the wash
+
+345
+00:11:37,472 --> 00:11:39,833
+for each additional wash is small:
+
+346
+00:11:39,833 --> 00:11:42,472
+some water, chemicals and electricity.
+
+347
+00:11:42,652 --> 00:11:45,241
+Meanwhile, the monthly fee is predictable.
+
+348
+00:11:45,421 --> 00:11:48,696
+That predictability is a big reason investors
+
+349
+00:11:48,696 --> 00:11:51,315
+have paid high prices for car washes
+
+350
+00:11:51,315 --> 00:11:52,480
+in recent years.
+
+351
+00:11:52,830 --> 00:11:55,395
+What about smaller self service washes?
+
+352
+00:11:55,575 --> 00:11:57,506
+A self service wash with a few
+
+353
+00:11:57,506 --> 00:11:59,566
+bays and a vacuum area costs far
+
+354
+00:11:59,566 --> 00:12:00,789
+less than a tunnel,
+
+355
+00:12:00,789 --> 00:12:03,557
+sometimes a few hundred thousand dollars to
+
+356
+00:12:03,557 --> 00:12:06,454
+buy, depending on the location and condition.
+
+357
+00:12:06,634 --> 00:12:07,905
+Revenue is lower,
+
+358
+00:12:07,905 --> 00:12:09,625
+but so are labor costs,
+
+359
+00:12:09,625 --> 00:12:11,719
+since customers do the work.
+
+360
+00:12:11,899 --> 00:12:13,655
+These can be good entry points,
+
+361
+00:12:13,655 --> 00:12:16,430
+though old equipment and deferred maintenance are
+
+362
+00:12:16,430 --> 00:12:18,412
+common issues to inspect carefully.
+
+363
+00:12:18,763 --> 00:12:21,808
+Buying an existing wash instead of building
+
+364
+00:12:21,808 --> 00:12:23,224
+one can reduce risk,
+
+365
+00:12:23,224 --> 00:12:25,844
+because you can see the real history:
+
+366
+00:12:25,844 --> 00:12:28,039
+car counts, membership numbers,
+
+367
+00:12:28,039 --> 00:12:30,164
+equipment age and seasonality.
+
+368
+00:12:30,344 --> 00:12:32,898
+Ask for monthly data over several years,
+
+369
+00:12:32,898 --> 00:12:34,366
+not just annual totals,
+
+370
+00:12:34,366 --> 00:12:36,793
+and look for any new competitors being
+
+371
+00:12:36,793 --> 00:12:38,645
+built nearby before you sign.
+
+372
+00:12:38,995 --> 00:12:40,551
+And a day in the life of
+
+373
+00:12:40,551 --> 00:12:41,653
+a car wash owner?
+
+374
+00:12:41,833 --> 00:12:43,946
+Checking equipment every morning,
+
+375
+00:12:43,946 --> 00:12:46,443
+because a breakdown on a sunny Saturday
+
+376
+00:12:46,443 --> 00:12:48,683
+can cost thousands in lost revenue.
+
+377
+00:12:48,863 --> 00:12:51,822
+Managing staff who greet customers and sell
+
+378
+00:12:51,822 --> 00:12:52,648
+memberships.
+
+379
+00:12:52,828 --> 00:12:54,541
+Watching weather forecasts,
+
+380
+00:12:54,541 --> 00:12:56,698
+since rain empties the lot and the
+
+381
+00:12:56,698 --> 00:12:59,109
+days after rain are often the busiest.
+
+382
+00:12:59,289 --> 00:13:01,752
+Handling damage claims when a customer says
+
+383
+00:13:01,752 --> 00:13:03,585
+the brushes scratched their car.
+
+384
+00:13:03,765 --> 00:13:05,618
+It's a real operating business,
+
+385
+00:13:05,618 --> 00:13:07,770
+not a vending machine you check once
+
+386
+00:13:07,770 --> 00:13:08,188
+a week.
+
+387
+00:13:08,538 --> 00:13:10,685
+Location deserves its own moment.
+
+388
+00:13:10,865 --> 00:13:13,514
+The best car wash sites usually have
+
+389
+00:13:13,514 --> 00:13:14,986
+heavy daily traffic,
+
+390
+00:13:14,986 --> 00:13:16,605
+easy turns in and out,
+
+391
+00:13:16,605 --> 00:13:18,812
+good visibility from the road,
+
+392
+00:13:18,812 --> 00:13:21,756
+and lots of homes and workplaces nearby.
+
+393
+00:13:21,936 --> 00:13:23,658
+A wash on the wrong side of
+
+394
+00:13:23,658 --> 00:13:24,424
+a busy road,
+
+395
+00:13:24,424 --> 00:13:26,657
+where drivers can't easily turn in,
+
+396
+00:13:26,657 --> 00:13:29,145
+can struggle even with great equipment.
+
+397
+00:13:29,325 --> 00:13:32,829
+Car wash investors often spend months studying
+
+398
+00:13:32,829 --> 00:13:36,408
+traffic counts and growth plans before choosing
+
+399
+00:13:36,408 --> 00:13:39,454
+a site, because the location decision is
+
+400
+00:13:39,454 --> 00:13:41,435
+almost impossible to undo.
+
+401
+00:13:41,785 --> 00:13:43,712
+The verdict on car washes.
+
+402
+00:13:43,892 --> 00:13:46,861
+A well located wash with strong memberships
+
+403
+00:13:46,861 --> 00:13:49,417
+can be a very profitable business and
+
+404
+00:13:49,417 --> 00:13:50,591
+a valuable asset.
+
+405
+00:13:50,771 --> 00:13:52,577
+But it's capital intensive,
+
+406
+00:13:52,577 --> 00:13:55,252
+debt heavy and increasingly competitive.
+
+407
+00:13:55,432 --> 00:13:58,590
+It's a business for experienced operators or
+
+408
+00:13:58,590 --> 00:14:00,599
+investors with deep pockets,
+
+409
+00:14:00,599 --> 00:14:02,967
+not a casual passive income play.
+
+410
+00:14:03,317 --> 00:14:04,443
+Quick pause.
+
+411
+00:14:04,623 --> 00:14:06,670
+If you're getting value from these real
+
+412
+00:14:06,670 --> 00:14:08,454
+numbers, subscribe to the channel.
+
+413
+00:14:08,634 --> 00:14:11,260
+Every week, Ryan breaks down how money
+
+414
+00:14:11,260 --> 00:14:13,125
+and business actually work,
+
+415
+00:14:13,125 --> 00:14:14,300
+without the hype.
+
+416
+00:14:14,480 --> 00:14:15,830
+Now, part three:
+
+417
+00:14:15,830 --> 00:14:17,011
+storage units.
+
+418
+00:14:17,361 --> 00:14:18,417
+Part three.
+
+419
+00:14:18,597 --> 00:14:19,712
+Self storage.
+
+420
+00:14:19,892 --> 00:14:21,192
+The boring giant.
+
+421
+00:14:21,542 --> 00:14:23,283
+Example storage facility.
+
+422
+00:14:23,463 --> 00:14:24,640
+Four hundred units,
+
+423
+00:14:24,640 --> 00:14:26,497
+eighty eight percent occupied,
+
+424
+00:14:26,497 --> 00:14:29,036
+average rent one hundred twenty dollars a
+
+425
+00:14:29,036 --> 00:14:29,407
+month.
+
+426
+00:14:29,587 --> 00:14:32,290
+Revenue about five hundred seven thousand dollars
+
+427
+00:14:32,290 --> 00:14:32,676
+a year.
+
+428
+00:14:33,026 --> 00:14:34,221
+Cost to get in.
+
+429
+00:14:34,401 --> 00:14:37,014
+Storage facilities are real estate.
+
+430
+00:14:37,194 --> 00:14:39,951
+A small existing facility might cost from
+
+431
+00:14:39,951 --> 00:14:42,842
+several hundred thousand dollars in a rural
+
+432
+00:14:42,842 --> 00:14:45,129
+area to many millions in a growing
+
+433
+00:14:45,129 --> 00:14:45,599
+suburb.
+
+434
+00:14:45,779 --> 00:14:48,613
+Many people invest through partnerships or by
+
+435
+00:14:48,613 --> 00:14:51,194
+starting with a small rural facility that
+
+436
+00:14:51,194 --> 00:14:52,327
+needs improvement.
+
+437
+00:14:52,678 --> 00:14:53,270
+Revenue.
+
+438
+00:14:53,450 --> 00:14:55,889
+Say our example facility has four hundred
+
+439
+00:14:55,889 --> 00:14:57,852
+units with an average rent of one
+
+440
+00:14:57,852 --> 00:14:59,696
+hundred twenty dollars a month.
+
+441
+00:14:59,876 --> 00:15:01,985
+If eighty eight percent are rented,
+
+442
+00:15:01,985 --> 00:15:04,637
+that's three hundred fifty two units paying,
+
+443
+00:15:04,637 --> 00:15:06,867
+or about forty two thousand dollars a
+
+444
+00:15:06,867 --> 00:15:09,880
+month, roughly five hundred seven thousand dollars
+
+445
+00:15:09,880 --> 00:15:10,302
+a year.
+
+446
+00:15:10,482 --> 00:15:13,764
+Add fees, truck rentals and insurance offered
+
+447
+00:15:13,764 --> 00:15:16,317
+to tenants, and revenue rises a bit
+
+448
+00:15:16,317 --> 00:15:16,681
+more.
+
+449
+00:15:17,032 --> 00:15:18,274
+Where the money goes.
+
+450
+00:15:18,454 --> 00:15:21,685
+Storage is known for relatively low operating
+
+451
+00:15:21,685 --> 00:15:24,270
+costs compared with many businesses.
+
+452
+00:15:24,450 --> 00:15:26,328
+Property taxes, insurance,
+
+453
+00:15:26,328 --> 00:15:27,773
+a part time manager,
+
+454
+00:15:27,773 --> 00:15:31,890
+utilities, software, marketing and maintenance might take
+
+455
+00:15:31,890 --> 00:15:34,635
+around thirty five to forty percent of
+
+456
+00:15:34,635 --> 00:15:35,213
+revenue.
+
+457
+00:15:35,393 --> 00:15:36,265
+In our example,
+
+458
+00:15:36,265 --> 00:15:39,113
+that's about one hundred ninety thousand dollars,
+
+459
+00:15:39,113 --> 00:15:42,252
+leaving about three hundred seventeen thousand dollars
+
+460
+00:15:42,252 --> 00:15:43,648
+in net operating income.
+
+461
+00:15:43,998 --> 00:15:44,566
+Value.
+
+462
+00:15:44,746 --> 00:15:47,893
+Commercial real estate is often valued by
+
+463
+00:15:47,893 --> 00:15:51,654
+dividing net operating income by a capitalization
+
+464
+00:15:51,654 --> 00:15:53,036
+rate, or cap rate.
+
+465
+00:15:53,216 --> 00:15:55,524
+If buyers expect a cap rate around
+
+466
+00:15:55,524 --> 00:15:56,949
+six to seven percent,
+
+467
+00:15:56,949 --> 00:15:59,664
+our facility might be worth roughly four
+
+468
+00:15:59,664 --> 00:16:01,293
+and a half to five and a
+
+469
+00:16:01,293 --> 00:16:02,922
+quarter million dollars.
+
+470
+00:16:03,102 --> 00:16:04,252
+Raise the income,
+
+471
+00:16:04,252 --> 00:16:05,877
+and the value rises too.
+
+472
+00:16:06,057 --> 00:16:08,274
+That's the lever storage investors pull.
+
+473
+00:16:08,625 --> 00:16:09,913
+The upside levers.
+
+474
+00:16:10,093 --> 00:16:12,485
+Raise occupancy with better marketing.
+
+475
+00:16:12,665 --> 00:16:14,179
+Raise rents gradually,
+
+476
+00:16:14,179 --> 00:16:16,589
+especially for longer term tenants.
+
+477
+00:16:16,769 --> 00:16:19,290
+Add services like tenant insurance,
+
+478
+00:16:19,290 --> 00:16:21,018
+truck rentals and boxes.
+
+479
+00:16:21,198 --> 00:16:23,834
+Expand with more units on extra land.
+
+480
+00:16:24,014 --> 00:16:26,516
+Each extra dollar of yearly income can
+
+481
+00:16:26,516 --> 00:16:29,215
+add many dollars to the facility's value.
+
+482
+00:16:29,565 --> 00:16:30,795
+The stress test.
+
+483
+00:16:30,975 --> 00:16:33,223
+If a big new facility opens nearby
+
+484
+00:16:33,223 --> 00:16:35,869
+and occupancy drops from eighty eight to
+
+485
+00:16:35,869 --> 00:16:37,257
+seventy five percent,
+
+486
+00:16:37,257 --> 00:16:40,233
+revenue falls by around seventy five thousand
+
+487
+00:16:40,233 --> 00:16:41,225
+dollars a year,
+
+488
+00:16:41,225 --> 00:16:43,142
+and value can fall even more.
+
+489
+00:16:43,322 --> 00:16:45,668
+Overbuilding has been a real issue in
+
+490
+00:16:45,668 --> 00:16:46,492
+some markets.
+
+491
+00:16:46,672 --> 00:16:49,770
+Rising interest rates can also push values
+
+492
+00:16:49,770 --> 00:16:51,687
+down by raising cap rates.
+
+493
+00:16:52,038 --> 00:16:52,781
+The risks.
+
+494
+00:16:52,961 --> 00:16:54,392
+High purchase prices,
+
+495
+00:16:54,392 --> 00:16:56,983
+debt, competition from new facilities,
+
+496
+00:16:56,983 --> 00:16:58,278
+and interest rates.
+
+497
+00:16:58,458 --> 00:17:01,698
+Also, aggressive rent increases can damage your
+
+498
+00:17:01,698 --> 00:17:04,042
+reputation and drive tenants away.
+
+499
+00:17:04,222 --> 00:17:06,381
+But compared with many businesses,
+
+500
+00:17:06,381 --> 00:17:09,364
+storage has relatively few employees and simple
+
+501
+00:17:09,364 --> 00:17:10,062
+operations.
+
+502
+00:17:10,413 --> 00:17:12,369
+Now let's look at a smaller,
+
+503
+00:17:12,369 --> 00:17:14,464
+more realistic first facility.
+
+504
+00:17:14,644 --> 00:17:17,525
+Say a rural storage property has eighty
+
+505
+00:17:17,525 --> 00:17:19,740
+units, sixty percent occupied,
+
+506
+00:17:19,740 --> 00:17:22,620
+with below market rents and no website.
+
+507
+00:17:22,800 --> 00:17:25,239
+The owner is retiring and wants out.
+
+508
+00:17:25,419 --> 00:17:27,456
+It might sell for a modest price
+
+509
+00:17:27,456 --> 00:17:29,111
+because its income is low.
+
+510
+00:17:29,291 --> 00:17:31,282
+A buyer who fixes the gate,
+
+511
+00:17:31,282 --> 00:17:32,757
+adds online rentals,
+
+512
+00:17:32,757 --> 00:17:35,929
+raises rents gradually to market levels and
+
+513
+00:17:35,929 --> 00:17:38,805
+fills more units could raise its income
+
+514
+00:17:38,805 --> 00:17:41,829
+and value significantly over a few years.
+
+515
+00:17:42,180 --> 00:17:44,594
+That's called a value add strategy.
+
+516
+00:17:44,774 --> 00:17:46,851
+You buy something underperforming,
+
+517
+00:17:46,851 --> 00:17:48,255
+improve the operations,
+
+518
+00:17:48,255 --> 00:17:49,476
+and grow the income.
+
+519
+00:17:49,656 --> 00:17:52,362
+It's how many storage investors build wealth.
+
+520
+00:17:52,542 --> 00:17:54,907
+But it depends on real demand in
+
+521
+00:17:54,907 --> 00:17:55,572
+the area.
+
+522
+00:17:55,752 --> 00:17:57,853
+If the facility is only sixty percent
+
+523
+00:17:57,853 --> 00:17:59,841
+full because the town is shrinking,
+
+524
+00:17:59,841 --> 00:18:01,545
+better marketing won't fix it.
+
+525
+00:18:01,896 --> 00:18:04,910
+Related niches include boat and RV storage,
+
+526
+00:18:04,910 --> 00:18:07,575
+which needs land and fencing more than
+
+527
+00:18:07,575 --> 00:18:10,379
+buildings, and climate controlled units,
+
+528
+00:18:10,379 --> 00:18:12,974
+which earn higher rents but cost more
+
+529
+00:18:12,974 --> 00:18:14,446
+to build and operate.
+
+530
+00:18:14,626 --> 00:18:17,105
+Each niche has its own demand drivers,
+
+531
+00:18:17,105 --> 00:18:19,518
+like nearby lakes for boat storage or
+
+532
+00:18:19,518 --> 00:18:21,801
+humid climates for climate control.
+
+533
+00:18:22,151 --> 00:18:22,870
+Day to day,
+
+534
+00:18:22,870 --> 00:18:24,113
+storage is lighter.
+
+535
+00:18:24,293 --> 00:18:26,864
+Many facilities use online rentals,
+
+536
+00:18:26,864 --> 00:18:28,553
+gate codes and cameras,
+
+537
+00:18:28,553 --> 00:18:30,904
+with a manager on site part time
+
+538
+00:18:30,904 --> 00:18:32,153
+or even remotely.
+
+539
+00:18:32,333 --> 00:18:34,688
+The main tasks are marketing to keep
+
+540
+00:18:34,688 --> 00:18:36,520
+units full, collecting rent,
+
+541
+00:18:36,520 --> 00:18:38,156
+dealing with late payers,
+
+542
+00:18:38,156 --> 00:18:40,773
+which can eventually lead to auctions of
+
+543
+00:18:40,773 --> 00:18:42,866
+abandoned units under state law,
+
+544
+00:18:42,866 --> 00:18:45,614
+and keeping the property clean and secure.
+
+545
+00:18:45,794 --> 00:18:47,907
+Lighter work, but still work.
+
+546
+00:18:48,258 --> 00:18:51,032
+Financing matters a lot in storage too.
+
+547
+00:18:51,212 --> 00:18:53,652
+Say our example facility is bought for
+
+548
+00:18:53,652 --> 00:18:56,157
+five million dollars with a twenty five
+
+549
+00:18:56,157 --> 00:18:57,505
+percent down payment.
+
+550
+00:18:57,685 --> 00:19:00,003
+The loan payments on three point seven
+
+551
+00:19:00,003 --> 00:19:02,260
+five million could take a large share
+
+552
+00:19:02,260 --> 00:19:05,189
+of that three hundred seventeen thousand dollars
+
+553
+00:19:05,189 --> 00:19:07,751
+of income, depending on the interest rate.
+
+554
+00:19:07,931 --> 00:19:09,230
+When rates are high,
+
+555
+00:19:09,230 --> 00:19:11,438
+the cash left for the investor can
+
+556
+00:19:11,438 --> 00:19:13,516
+be thin, even if the facility is
+
+557
+00:19:13,516 --> 00:19:13,840
+full.
+
+558
+00:19:14,020 --> 00:19:16,637
+That's why many storage investors focus on
+
+559
+00:19:16,637 --> 00:19:17,635
+value add deals,
+
+560
+00:19:17,635 --> 00:19:20,127
+where they can grow income after buying.
+
+561
+00:19:20,477 --> 00:19:21,835
+The verdict on storage.
+
+562
+00:19:22,015 --> 00:19:24,078
+It's one of the most passive of
+
+563
+00:19:24,078 --> 00:19:26,207
+the three, but it's real estate,
+
+564
+00:19:26,207 --> 00:19:27,804
+which means big capital,
+
+565
+00:19:27,804 --> 00:19:29,201
+debt and market risk.
+
+566
+00:19:29,381 --> 00:19:31,807
+For investors with capital or partners,
+
+567
+00:19:31,807 --> 00:19:33,921
+it can be a steady wealth builder.
+
+568
+00:19:34,101 --> 00:19:35,829
+For most people starting out,
+
+569
+00:19:35,829 --> 00:19:37,796
+it's a long term goal rather than
+
+570
+00:19:37,796 --> 00:19:38,571
+a first step.
+
+571
+00:19:38,921 --> 00:19:40,598
+Vending: low cost,
+
+572
+00:19:40,598 --> 00:19:42,647
+low income, more time.
+
+573
+00:19:42,827 --> 00:19:44,777
+Car wash: high cost,
+
+574
+00:19:44,777 --> 00:19:47,019
+high income, high risk.
+
+575
+00:19:47,199 --> 00:19:48,898
+Storage: high cost,
+
+576
+00:19:48,898 --> 00:19:51,761
+steady income, real estate risk.
+
+577
+00:19:52,112 --> 00:19:52,994
+Let's compare.
+
+578
+00:19:53,174 --> 00:19:56,068
+Vending: a few thousand dollars to start,
+
+579
+00:19:56,068 --> 00:19:57,833
+small income per machine,
+
+580
+00:19:57,833 --> 00:19:59,315
+real time commitment,
+
+581
+00:19:59,315 --> 00:20:01,080
+and low risk per machine.
+
+582
+00:20:01,260 --> 00:20:03,589
+Car wash: millions to build,
+
+583
+00:20:03,589 --> 00:20:06,915
+large revenue, heavy debt and high fixed
+
+584
+00:20:06,915 --> 00:20:07,414
+costs.
+
+585
+00:20:07,594 --> 00:20:10,874
+Storage: hundreds of thousands to millions,
+
+586
+00:20:10,874 --> 00:20:13,620
+steady income, relatively low labor,
+
+587
+00:20:13,620 --> 00:20:15,755
+and real estate market risk.
+
+588
+00:20:16,106 --> 00:20:17,243
+Notice something.
+
+589
+00:20:17,423 --> 00:20:19,343
+None of them is truly passive at
+
+590
+00:20:19,343 --> 00:20:19,943
+the start.
+
+591
+00:20:20,123 --> 00:20:22,387
+Vending requires your time every week.
+
+592
+00:20:22,567 --> 00:20:26,038
+Car washes require active management and marketing.
+
+593
+00:20:26,218 --> 00:20:28,042
+Storage requires management,
+
+594
+00:20:28,042 --> 00:20:29,411
+even if it's lighter.
+
+595
+00:20:29,591 --> 00:20:32,413
+Passive income usually means you've paid someone
+
+596
+00:20:32,413 --> 00:20:33,589
+else to do the work,
+
+597
+00:20:33,589 --> 00:20:35,588
+and that payment comes out of your
+
+598
+00:20:35,588 --> 00:20:35,999
+profit.
+
+599
+00:20:36,350 --> 00:20:38,903
+These three aren't the only businesses sold
+
+600
+00:20:38,903 --> 00:20:39,972
+as passive income.
+
+601
+00:20:40,152 --> 00:20:41,888
+Here's a quick look at a few
+
+602
+00:20:41,888 --> 00:20:43,623
+others, using the same lens.
+
+603
+00:20:43,974 --> 00:20:44,926
+Laundromats.
+
+604
+00:20:45,106 --> 00:20:47,317
+Steady demand and card payments,
+
+605
+00:20:47,317 --> 00:20:49,183
+but equipment is expensive,
+
+606
+00:20:49,183 --> 00:20:50,911
+leases matter enormously,
+
+607
+00:20:50,911 --> 00:20:53,260
+and someone has to handle repairs,
+
+608
+00:20:53,260 --> 00:20:55,264
+cleaning and customer issues.
+
+609
+00:20:55,444 --> 00:20:56,118
+ATMs.
+
+610
+00:20:56,298 --> 00:20:58,412
+Low cost machines that earn a fee
+
+611
+00:20:58,412 --> 00:21:00,783
+per withdrawal, but cash use has been
+
+612
+00:21:00,783 --> 00:21:03,538
+declining, and you need great locations and
+
+613
+00:21:03,538 --> 00:21:04,947
+reliable cash loading.
+
+614
+00:21:05,297 --> 00:21:06,341
+Parking lots.
+
+615
+00:21:06,521 --> 00:21:07,923
+Simple in concept,
+
+616
+00:21:07,923 --> 00:21:09,870
+with low operating costs,
+
+617
+00:21:09,870 --> 00:21:12,986
+but land is expensive and demand depends
+
+618
+00:21:12,986 --> 00:21:14,310
+on what's nearby,
+
+619
+00:21:14,310 --> 00:21:17,737
+like offices, stadiums or downtown activity.
+
+620
+00:21:17,917 --> 00:21:18,776
+Billboards.
+
+621
+00:21:18,956 --> 00:21:20,781
+Can earn steady lease income,
+
+622
+00:21:20,781 --> 00:21:22,921
+but permits are often hard to get,
+
+623
+00:21:22,921 --> 00:21:25,249
+and you need advertisers to keep them
+
+624
+00:21:25,249 --> 00:21:25,690
+rented.
+
+625
+00:21:26,040 --> 00:21:28,327
+The same pattern shows up every time.
+
+626
+00:21:28,507 --> 00:21:30,439
+The more passive a business is,
+
+627
+00:21:30,439 --> 00:21:32,746
+the more capital it usually requires,
+
+628
+00:21:32,746 --> 00:21:34,866
+and the more the returns depend on
+
+629
+00:21:34,866 --> 00:21:36,425
+location and competition.
+
+630
+00:21:36,605 --> 00:21:38,684
+The cheaper and easier the entry,
+
+631
+00:21:38,684 --> 00:21:40,448
+the more of your own time it
+
+632
+00:21:40,448 --> 00:21:41,330
+usually takes.
+
+633
+00:21:41,510 --> 00:21:42,964
+There's no free lunch,
+
+634
+00:21:42,964 --> 00:21:45,344
+only different trades between money,
+
+635
+00:21:45,344 --> 00:21:46,270
+time and risk.
+
+636
+00:21:46,620 --> 00:21:48,001
+Let's make this practical.
+
+637
+00:21:48,181 --> 00:21:51,014
+Here's how these businesses might fit different
+
+638
+00:21:51,014 --> 00:21:54,088
+budgets, keeping your emergency fund and retirement
+
+639
+00:21:54,088 --> 00:21:55,112
+savings separate.
+
+640
+00:21:55,463 --> 00:21:57,184
+With ten thousand dollars,
+
+641
+00:21:57,184 --> 00:21:58,574
+vending is realistic.
+
+642
+00:21:58,754 --> 00:22:01,320
+Two or three used machines in good
+
+643
+00:22:01,320 --> 00:22:04,414
+locations, plus a cushion for repairs and
+
+644
+00:22:04,414 --> 00:22:05,093
+products.
+
+645
+00:22:05,273 --> 00:22:07,528
+You'll learn the basics of locations,
+
+646
+00:22:07,528 --> 00:22:08,990
+inventory and customers,
+
+647
+00:22:08,990 --> 00:22:11,245
+and you'll find out whether you enjoy
+
+648
+00:22:11,245 --> 00:22:13,926
+the work, all without risking your financial
+
+649
+00:22:13,926 --> 00:22:14,596
+foundation.
+
+650
+00:22:14,946 --> 00:22:17,163
+With one hundred thousand dollars,
+
+651
+00:22:17,163 --> 00:22:18,533
+more options open up.
+
+652
+00:22:18,713 --> 00:22:20,347
+A larger vending route,
+
+653
+00:22:20,347 --> 00:22:22,549
+a small micro market operation,
+
+654
+00:22:22,549 --> 00:22:24,538
+or a down payment on a small
+
+655
+00:22:24,538 --> 00:22:27,237
+self service car wash or rural storage
+
+656
+00:22:27,237 --> 00:22:28,941
+facility with financing.
+
+657
+00:22:29,121 --> 00:22:30,006
+At this level,
+
+658
+00:22:30,006 --> 00:22:33,038
+partnering with an experienced operator can make
+
+659
+00:22:33,038 --> 00:22:36,575
+sense, and professional due diligence becomes essential.
+
+660
+00:22:36,925 --> 00:22:39,022
+With a million dollars or more,
+
+661
+00:22:39,022 --> 00:22:42,405
+typically through partnerships or investor groups,
+
+662
+00:22:42,405 --> 00:22:45,652
+express car washes and larger storage facilities
+
+663
+00:22:45,652 --> 00:22:46,735
+become possible.
+
+664
+00:22:46,915 --> 00:22:47,752
+At this scale,
+
+665
+00:22:47,752 --> 00:22:50,144
+you're running or investing in a serious
+
+666
+00:22:50,144 --> 00:22:51,759
+business with serious debt,
+
+667
+00:22:51,759 --> 00:22:54,929
+and experienced management matters more than anything
+
+668
+00:22:54,929 --> 00:22:55,228
+else.
+
+669
+00:22:55,408 --> 00:22:58,022
+Many people at this level invest alongside
+
+670
+00:22:58,022 --> 00:23:01,445
+professional operators rather than running the business
+
+671
+00:23:01,445 --> 00:23:02,130
+themselves.
+
+672
+00:23:02,480 --> 00:23:03,767
+And with any budget,
+
+673
+00:23:03,767 --> 00:23:06,021
+the index fund is always an option.
+
+674
+00:23:06,201 --> 00:23:07,961
+It requires no time,
+
+675
+00:23:07,961 --> 00:23:10,427
+no locations and no repairs.
+
+676
+00:23:10,607 --> 00:23:12,889
+Any business you choose should offer a
+
+677
+00:23:12,889 --> 00:23:14,991
+clear advantage over that baseline,
+
+678
+00:23:14,991 --> 00:23:16,852
+in return, in control or in the
+
+679
+00:23:16,852 --> 00:23:18,954
+satisfaction of building something.
+
+680
+00:23:19,134 --> 00:23:20,010
+If it doesn't,
+
+681
+00:23:20,010 --> 00:23:22,075
+the boring fund may be the better
+
+682
+00:23:22,075 --> 00:23:22,513
+choice.
+
+683
+00:23:22,863 --> 00:23:24,858
+Let's imagine three investors,
+
+684
+00:23:24,858 --> 00:23:27,054
+each with fifty thousand dollars.
+
+685
+00:23:27,234 --> 00:23:29,647
+The first buys ten vending machines from
+
+686
+00:23:29,647 --> 00:23:31,820
+a company promising great locations.
+
+687
+00:23:32,000 --> 00:23:33,968
+The locations turn out to be weak,
+
+688
+00:23:33,968 --> 00:23:35,935
+and half the machines barely sell.
+
+689
+00:23:36,115 --> 00:23:38,794
+After a year of driving around restocking,
+
+690
+00:23:38,794 --> 00:23:40,707
+he moves the machines himself,
+
+691
+00:23:40,707 --> 00:23:41,918
+finds better spots,
+
+692
+00:23:41,918 --> 00:23:44,660
+and finally starts earning a modest profit.
+
+693
+00:23:44,840 --> 00:23:48,149
+Lesson: never outsource location selection.
+
+694
+00:23:48,500 --> 00:23:51,515
+The second partners with an experienced operator
+
+695
+00:23:51,515 --> 00:23:53,463
+to buy a self service car wash,
+
+696
+00:23:53,463 --> 00:23:55,788
+putting in her fifty thousand as part
+
+697
+00:23:55,788 --> 00:23:57,044
+of the down payment.
+
+698
+00:23:57,224 --> 00:23:59,048
+The operator runs the wash,
+
+699
+00:23:59,048 --> 00:24:01,142
+and she receives a share of the
+
+700
+00:24:01,142 --> 00:24:01,683
+profits.
+
+701
+00:24:01,863 --> 00:24:02,729
+It works well,
+
+702
+00:24:02,729 --> 00:24:04,833
+because she chose a partner with a
+
+703
+00:24:04,833 --> 00:24:07,122
+track record and a written agreement.
+
+704
+00:24:07,302 --> 00:24:10,238
+Lesson: partners can make big deals possible,
+
+705
+00:24:10,238 --> 00:24:11,934
+but choose them carefully.
+
+706
+00:24:12,285 --> 00:24:14,636
+The third keeps the fifty thousand in
+
+707
+00:24:14,636 --> 00:24:17,052
+an index fund while he studies storage
+
+708
+00:24:17,052 --> 00:24:17,942
+for two years,
+
+709
+00:24:17,942 --> 00:24:19,912
+analyzing dozens of facilities.
+
+710
+00:24:20,092 --> 00:24:22,275
+When he finally buys a small rural
+
+711
+00:24:22,275 --> 00:24:23,816
+facility with financing,
+
+712
+00:24:23,816 --> 00:24:25,934
+he knows exactly what a good deal
+
+713
+00:24:25,934 --> 00:24:26,640
+looks like.
+
+714
+00:24:26,820 --> 00:24:30,594
+Lesson: patience and preparation are investments too.
+
+715
+00:24:30,944 --> 00:24:31,872
+Mistake one.
+
+716
+00:24:32,052 --> 00:24:35,663
+Believing projected numbers instead of real ones.
+
+717
+00:24:35,843 --> 00:24:39,105
+Sellers and promoters show best case projections.
+
+718
+00:24:39,285 --> 00:24:40,911
+Ask for actual records.
+
+719
+00:24:41,091 --> 00:24:42,182
+Mistake two.
+
+720
+00:24:42,362 --> 00:24:43,837
+Underestimating your time.
+
+721
+00:24:44,017 --> 00:24:46,964
+Even the most passive businesses need oversight,
+
+722
+00:24:46,964 --> 00:24:47,762
+and early on,
+
+723
+00:24:47,762 --> 00:24:49,113
+they need a lot of it.
+
+724
+00:24:49,464 --> 00:24:50,532
+Mistake three.
+
+725
+00:24:50,712 --> 00:24:51,594
+Too much debt.
+
+726
+00:24:51,774 --> 00:24:54,513
+High fixed costs plus heavy loans leave
+
+727
+00:24:54,513 --> 00:24:56,128
+no room for a bad year.
+
+728
+00:24:56,308 --> 00:24:57,341
+Mistake four.
+
+729
+00:24:57,521 --> 00:24:58,949
+Ignoring competition.
+
+730
+00:24:59,129 --> 00:25:01,665
+Check for new facilities or washes being
+
+731
+00:25:01,665 --> 00:25:03,567
+planned nearby before you buy,
+
+732
+00:25:03,567 --> 00:25:06,546
+using local planning records and simply driving
+
+733
+00:25:06,546 --> 00:25:07,117
+the area.
+
+734
+00:25:07,467 --> 00:25:08,639
+And mistake five.
+
+735
+00:25:08,819 --> 00:25:10,665
+Putting everything into one deal.
+
+736
+00:25:10,845 --> 00:25:12,450
+Keep your emergency fund,
+
+737
+00:25:12,450 --> 00:25:14,376
+keep investing for retirement,
+
+738
+00:25:14,376 --> 00:25:16,752
+and never risk money you can't afford
+
+739
+00:25:16,752 --> 00:25:17,265
+to lose.
+
+740
+00:25:17,445 --> 00:25:20,453
+Diversification protects you from the one bad
+
+741
+00:25:20,453 --> 00:25:23,060
+location or the one new competitor that
+
+742
+00:25:23,060 --> 00:25:24,330
+changes everything.
+
+743
+00:25:24,681 --> 00:25:26,190
+Now, three angles.
+
+744
+00:25:26,370 --> 00:25:27,821
+First, the numbers.
+
+745
+00:25:28,001 --> 00:25:30,408
+How do these compare to simply investing
+
+746
+00:25:30,408 --> 00:25:31,612
+in the stock market?
+
+747
+00:25:31,962 --> 00:25:34,017
+Say you have fifty thousand dollars.
+
+748
+00:25:34,197 --> 00:25:35,592
+In a broad index fund,
+
+749
+00:25:35,592 --> 00:25:38,573
+at an illustrative seven percent average yearly
+
+750
+00:25:38,573 --> 00:25:40,983
+return, that might grow by about three
+
+751
+00:25:40,983 --> 00:25:43,457
+thousand five hundred dollars a year on
+
+752
+00:25:43,457 --> 00:25:45,423
+average, with no time required,
+
+753
+00:25:45,423 --> 00:25:47,072
+though with ups and downs.
+
+754
+00:25:47,252 --> 00:25:48,390
+That's your baseline.
+
+755
+00:25:48,570 --> 00:25:50,672
+Any business should beat it by enough
+
+756
+00:25:50,672 --> 00:25:52,320
+to justify the time and risk.
+
+757
+00:25:52,670 --> 00:25:55,778
+With fifty thousand dollars in vending machines,
+
+758
+00:25:55,778 --> 00:25:58,174
+maybe twelve machines in our example,
+
+759
+00:25:58,174 --> 00:26:01,088
+you might earn around twenty thousand dollars
+
+760
+00:26:01,088 --> 00:26:03,678
+a year before vehicle costs and repairs,
+
+761
+00:26:03,678 --> 00:26:05,168
+but with a day or two a
+
+762
+00:26:05,168 --> 00:26:06,009
+week of work.
+
+763
+00:26:06,189 --> 00:26:08,102
+That's a much higher return on money,
+
+764
+00:26:08,102 --> 00:26:09,756
+but much of it is really payment
+
+765
+00:26:09,756 --> 00:26:10,532
+for your labor.
+
+766
+00:26:10,882 --> 00:26:13,298
+With fifty thousand dollars as a down
+
+767
+00:26:13,298 --> 00:26:15,454
+payment, you might be able to buy
+
+768
+00:26:15,454 --> 00:26:17,674
+into a small storage facility or a
+
+769
+00:26:17,674 --> 00:26:20,091
+self service car wash with financing,
+
+770
+00:26:20,091 --> 00:26:21,528
+depending on the deal.
+
+771
+00:26:21,708 --> 00:26:23,074
+That uses leverage,
+
+772
+00:26:23,074 --> 00:26:25,016
+which can multiply returns,
+
+773
+00:26:25,016 --> 00:26:26,166
+but also losses.
+
+774
+00:26:26,346 --> 00:26:29,044
+The question is always whether the extra
+
+775
+00:26:29,044 --> 00:26:31,338
+return is worth the extra risk and
+
+776
+00:26:31,338 --> 00:26:31,675
+work.
+
+777
+00:26:32,025 --> 00:26:33,627
+Taxes also matter.
+
+778
+00:26:33,807 --> 00:26:37,342
+Equipment and buildings can often be depreciated,
+
+779
+00:26:37,342 --> 00:26:39,723
+which means part of their cost is
+
+780
+00:26:39,723 --> 00:26:42,537
+deducted from taxable income over time.
+
+781
+00:26:42,717 --> 00:26:44,889
+That can make the after tax returns
+
+782
+00:26:44,889 --> 00:26:47,370
+of these businesses look better than the
+
+783
+00:26:47,370 --> 00:26:48,859
+pre tax numbers suggest.
+
+784
+00:26:49,039 --> 00:26:51,296
+But depreciation rules are complex,
+
+785
+00:26:51,296 --> 00:26:53,488
+and they can create taxes when you
+
+786
+00:26:53,488 --> 00:26:53,811
+sell.
+
+787
+00:26:53,991 --> 00:26:55,896
+This is exactly the kind of thing
+
+788
+00:26:55,896 --> 00:26:58,032
+to plan with an accountant before you
+
+789
+00:26:58,032 --> 00:26:58,263
+buy.
+
+790
+00:26:58,614 --> 00:26:59,182
+The lesson.
+
+791
+00:26:59,362 --> 00:27:01,437
+Separate your return into two parts:
+
+792
+00:27:01,437 --> 00:27:03,511
+return on your money and payment for
+
+793
+00:27:03,511 --> 00:27:04,088
+your time.
+
+794
+00:27:04,268 --> 00:27:06,854
+A business that pays thirty percent but
+
+795
+00:27:06,854 --> 00:27:09,440
+requires twenty hours a week may really
+
+796
+00:27:09,440 --> 00:27:11,629
+be a job plus a modest investment
+
+797
+00:27:11,629 --> 00:27:12,093
+return.
+
+798
+00:27:12,273 --> 00:27:14,133
+That's fine, but know which one you're
+
+799
+00:27:14,133 --> 00:27:14,525
+getting.
+
+800
+00:27:14,876 --> 00:27:15,828
+Second angle.
+
+801
+00:27:16,008 --> 00:27:17,134
+The psychology.
+
+802
+00:27:17,314 --> 00:27:19,878
+Why is passive income such a powerful
+
+803
+00:27:19,878 --> 00:27:21,958
+idea, and why is it dangerous?
+
+804
+00:27:22,308 --> 00:27:24,295
+The first reason is the dream of
+
+805
+00:27:24,295 --> 00:27:24,792
+freedom.
+
+806
+00:27:24,972 --> 00:27:27,231
+Earning money while you sleep sounds like
+
+807
+00:27:27,231 --> 00:27:28,885
+the perfect escape from a job.
+
+808
+00:27:29,065 --> 00:27:30,240
+That dream is real,
+
+809
+00:27:30,240 --> 00:27:32,281
+and it can be achieved over time.
+
+810
+00:27:32,461 --> 00:27:34,655
+But it's usually the result of years
+
+811
+00:27:34,655 --> 00:27:36,118
+of work, not a shortcut.
+
+812
+00:27:36,298 --> 00:27:38,606
+People who sell the dream often skip
+
+813
+00:27:38,606 --> 00:27:39,247
+the years.
+
+814
+00:27:39,597 --> 00:27:42,000
+The second reason is selective stories.
+
+815
+00:27:42,180 --> 00:27:44,405
+You see the person with fifty profitable
+
+816
+00:27:44,405 --> 00:27:46,574
+machines, not the hundreds who bought a
+
+817
+00:27:46,574 --> 00:27:48,577
+machine that sits in a bad location.
+
+818
+00:27:48,757 --> 00:27:50,655
+You see the car wash owner with
+
+819
+00:27:50,655 --> 00:27:51,940
+thousands of members,
+
+820
+00:27:51,940 --> 00:27:53,838
+not the one who can't cover the
+
+821
+00:27:53,838 --> 00:27:54,144
+loan.
+
+822
+00:27:54,324 --> 00:27:57,589
+Survivorship bias makes these businesses look easier
+
+823
+00:27:57,589 --> 00:27:58,469
+than they are.
+
+824
+00:27:58,818 --> 00:28:00,694
+The third reason is that the gurus
+
+825
+00:28:00,694 --> 00:28:01,686
+profit either way.
+
+826
+00:28:01,866 --> 00:28:05,082
+Many passive income promoters make money by
+
+827
+00:28:05,082 --> 00:28:07,027
+selling courses, machines,
+
+828
+00:28:07,027 --> 00:28:08,672
+coaching or locations,
+
+829
+00:28:08,672 --> 00:28:11,514
+whether or not your business succeeds.
+
+830
+00:28:11,694 --> 00:28:14,016
+That doesn't mean everything they say is
+
+831
+00:28:14,016 --> 00:28:16,164
+false, but it means you should verify
+
+832
+00:28:16,164 --> 00:28:17,789
+their numbers independently.
+
+833
+00:28:18,139 --> 00:28:20,541
+The fourth reason is that we underestimate
+
+834
+00:28:20,541 --> 00:28:21,228
+maintenance.
+
+835
+00:28:21,408 --> 00:28:23,779
+When you picture owning a machine or
+
+836
+00:28:23,779 --> 00:28:26,083
+a building, you picture the income,
+
+837
+00:28:26,083 --> 00:28:28,191
+not the broken coin slot at nine
+
+838
+00:28:28,191 --> 00:28:30,298
+at night, the clogged drain in a
+
+839
+00:28:30,298 --> 00:28:32,603
+wash bay, or the tenant who stopped
+
+840
+00:28:32,603 --> 00:28:33,064
+paying.
+
+841
+00:28:33,244 --> 00:28:35,445
+Every physical asset needs care,
+
+842
+00:28:35,445 --> 00:28:37,784
+and that care costs time or money.
+
+843
+00:28:38,134 --> 00:28:40,063
+And the fifth reason is that easy
+
+844
+00:28:40,063 --> 00:28:41,408
+feels better than hard.
+
+845
+00:28:41,588 --> 00:28:44,100
+A video that says passive income is
+
+846
+00:28:44,100 --> 00:28:46,685
+simple gets more views than one that
+
+847
+00:28:46,685 --> 00:28:49,773
+explains depreciation, churn and cap rates.
+
+848
+00:28:49,953 --> 00:28:52,013
+That's why this video exists:
+
+849
+00:28:52,013 --> 00:28:54,642
+the boring details are where the real
+
+850
+00:28:54,642 --> 00:28:55,850
+money is decided.
+
+851
+00:28:56,200 --> 00:28:56,909
+The takeaway.
+
+852
+00:28:57,089 --> 00:28:58,562
+Passive income is real,
+
+853
+00:28:58,562 --> 00:29:00,548
+but it's usually earned slowly.
+
+854
+00:29:00,728 --> 00:29:03,371
+Treat any promise of easy passive income
+
+855
+00:29:03,371 --> 00:29:05,617
+as a reason to ask more questions,
+
+856
+00:29:05,617 --> 00:29:06,278
+not fewer.
+
+857
+00:29:06,627 --> 00:29:08,011
+You can learn a lot about a
+
+858
+00:29:08,011 --> 00:29:10,215
+business before anyone shows you the books.
+
+859
+00:29:10,395 --> 00:29:11,789
+For a vending machine,
+
+860
+00:29:11,789 --> 00:29:13,943
+count how many people pass by each
+
+861
+00:29:13,943 --> 00:29:15,654
+day and how long they wait.
+
+862
+00:29:15,834 --> 00:29:16,870
+For a car wash,
+
+863
+00:29:16,870 --> 00:29:19,217
+sit across the street on a weekday
+
+864
+00:29:19,217 --> 00:29:21,496
+and a Saturday and count cars per
+
+865
+00:29:21,496 --> 00:29:24,257
+hour, then check the membership price on
+
+866
+00:29:24,257 --> 00:29:24,878
+the sign.
+
+867
+00:29:25,058 --> 00:29:27,581
+For storage, call as a customer and
+
+868
+00:29:27,581 --> 00:29:30,247
+ask what sizes are available and what
+
+869
+00:29:30,247 --> 00:29:30,968
+they cost.
+
+870
+00:29:31,318 --> 00:29:32,513
+Then do rough math.
+
+871
+00:29:32,693 --> 00:29:35,281
+Cars per hour times hours open times
+
+872
+00:29:35,281 --> 00:29:37,869
+average price gives a rough sense of
+
+873
+00:29:37,869 --> 00:29:39,090
+a wash's revenue.
+
+874
+00:29:39,270 --> 00:29:42,539
+Units available, compared with the total number
+
+875
+00:29:42,539 --> 00:29:44,764
+of units, gives a rough sense of
+
+876
+00:29:44,764 --> 00:29:46,016
+storage occupancy.
+
+877
+00:29:46,196 --> 00:29:48,049
+These estimates won't be exact,
+
+878
+00:29:48,049 --> 00:29:49,782
+but they help you spot when a
+
+879
+00:29:49,782 --> 00:29:51,934
+seller's numbers seem too good to be
+
+880
+00:29:51,934 --> 00:29:52,233
+true.
+
+881
+00:29:52,582 --> 00:29:54,603
+Finally, check the competition.
+
+882
+00:29:54,783 --> 00:29:57,694
+Search maps for every vending operator,
+
+883
+00:29:57,694 --> 00:30:00,456
+car wash or storage facility within a
+
+884
+00:30:00,456 --> 00:30:01,203
+few miles.
+
+885
+00:30:01,383 --> 00:30:03,110
+Read reviews, compare prices,
+
+886
+00:30:03,110 --> 00:30:05,374
+and look at local planning records for
+
+887
+00:30:05,374 --> 00:30:06,863
+anything new being built.
+
+888
+00:30:07,043 --> 00:30:08,918
+A deal that looks great today can
+
+889
+00:30:08,918 --> 00:30:11,248
+look very different when a new competitor
+
+890
+00:30:11,248 --> 00:30:12,952
+opens down the road next year.
+
+891
+00:30:13,302 --> 00:30:14,162
+Third angle.
+
+892
+00:30:14,342 --> 00:30:15,143
+The playbook.
+
+893
+00:30:15,323 --> 00:30:16,964
+How do you decide whether any of
+
+894
+00:30:16,964 --> 00:30:18,144
+these is right for you?
+
+895
+00:30:18,494 --> 00:30:19,237
+Question one.
+
+896
+00:30:19,417 --> 00:30:21,587
+How much capital can I risk without
+
+897
+00:30:21,587 --> 00:30:24,130
+touching my emergency fund or retirement?
+
+898
+00:30:24,310 --> 00:30:26,481
+That decides which of the three is
+
+899
+00:30:26,481 --> 00:30:27,375
+even possible.
+
+900
+00:30:27,555 --> 00:30:28,449
+Question two.
+
+901
+00:30:28,629 --> 00:30:30,224
+How much time can I give each
+
+902
+00:30:30,224 --> 00:30:30,498
+week?
+
+903
+00:30:30,678 --> 00:30:32,606
+Vending needs regular time.
+
+904
+00:30:32,786 --> 00:30:35,084
+Car washes need active management.
+
+905
+00:30:35,264 --> 00:30:36,698
+Storage can be lighter,
+
+906
+00:30:36,698 --> 00:30:38,318
+especially with a manager.
+
+907
+00:30:38,668 --> 00:30:39,794
+Question three.
+
+908
+00:30:39,974 --> 00:30:42,005
+Do I understand the local market?
+
+909
+00:30:42,185 --> 00:30:44,679
+Visit competitors, count machines,
+
+910
+00:30:44,679 --> 00:30:46,219
+washes or facilities,
+
+911
+00:30:46,219 --> 00:30:48,199
+check prices and occupancy,
+
+912
+00:30:48,199 --> 00:30:49,593
+and talk to owners.
+
+913
+00:30:49,773 --> 00:30:50,667
+Question four.
+
+914
+00:30:50,847 --> 00:30:52,669
+Have I seen real numbers?
+
+915
+00:30:52,849 --> 00:30:54,050
+Ask for tax returns,
+
+916
+00:30:54,050 --> 00:30:56,332
+bank statements and occupancy reports,
+
+917
+00:30:56,332 --> 00:30:58,434
+and have an accountant review them.
+
+918
+00:30:58,784 --> 00:30:59,759
+Question five.
+
+919
+00:30:59,939 --> 00:31:01,750
+What happens if things go wrong?
+
+920
+00:31:01,930 --> 00:31:03,233
+Run a stress test:
+
+921
+00:31:03,233 --> 00:31:05,913
+what if revenue falls twenty percent,
+
+922
+00:31:05,913 --> 00:31:07,144
+a machine breaks,
+
+923
+00:31:07,144 --> 00:31:09,244
+or a competitor opens nearby?
+
+924
+00:31:09,424 --> 00:31:11,209
+If the investment still works,
+
+925
+00:31:11,209 --> 00:31:12,934
+or at least doesn't sink you,
+
+926
+00:31:12,934 --> 00:31:15,194
+you may have found a good opportunity.
+
+927
+00:31:15,545 --> 00:31:16,798
+A practical path.
+
+928
+00:31:16,978 --> 00:31:19,567
+Many people start with vending to learn
+
+929
+00:31:19,567 --> 00:31:21,492
+the basics with little money,
+
+930
+00:31:21,492 --> 00:31:24,081
+keep investing in index funds for their
+
+931
+00:31:24,081 --> 00:31:26,936
+foundation, and only later move into larger
+
+932
+00:31:26,936 --> 00:31:29,525
+investments like storage or car washes,
+
+933
+00:31:29,525 --> 00:31:30,852
+often with partners.
+
+934
+00:31:31,032 --> 00:31:32,929
+Start small, learn,
+
+935
+00:31:32,929 --> 00:31:34,028
+then scale.
+
+936
+00:31:34,378 --> 00:31:35,190
+Question one.
+
+937
+00:31:35,370 --> 00:31:36,972
+Which is best for a beginner?
+
+938
+00:31:37,152 --> 00:31:40,249
+Usually vending, because it's cheap and teaches
+
+939
+00:31:40,249 --> 00:31:42,621
+the basics, though it requires time.
+
+940
+00:31:42,801 --> 00:31:43,683
+Question two.
+
+941
+00:31:43,863 --> 00:31:45,152
+Can I finance these?
+
+942
+00:31:45,332 --> 00:31:48,551
+Car washes and storage facilities are often
+
+943
+00:31:48,551 --> 00:31:50,947
+financed with bank or SBA loans,
+
+944
+00:31:50,947 --> 00:31:54,840
+which require down payments and personal guarantees.
+
+945
+00:31:55,020 --> 00:31:58,170
+Vending machines are usually bought with cash
+
+946
+00:31:58,170 --> 00:31:59,920
+or small equipment loans.
+
+947
+00:32:00,270 --> 00:32:01,268
+Question three.
+
+948
+00:32:01,448 --> 00:32:03,236
+Are franchises a good idea?
+
+949
+00:32:03,416 --> 00:32:06,392
+Some car wash and vending franchises offer
+
+950
+00:32:06,392 --> 00:32:08,517
+systems and brand recognition,
+
+951
+00:32:08,517 --> 00:32:10,997
+but they charge fees and royalties.
+
+952
+00:32:11,177 --> 00:32:13,197
+Compare total costs carefully.
+
+953
+00:32:13,377 --> 00:32:14,480
+Question four.
+
+954
+00:32:14,660 --> 00:32:17,006
+How do I find locations or deals?
+
+955
+00:32:17,186 --> 00:32:20,088
+For vending, ask local businesses directly.
+
+956
+00:32:20,268 --> 00:32:22,074
+For car washes and storage,
+
+957
+00:32:22,074 --> 00:32:23,746
+look at business brokers,
+
+958
+00:32:23,746 --> 00:32:27,090
+commercial real estate listings and owners nearing
+
+959
+00:32:27,090 --> 00:32:27,826
+retirement.
+
+960
+00:32:28,177 --> 00:32:29,221
+Question five.
+
+961
+00:32:29,401 --> 00:32:31,468
+Can these businesses be run remotely?
+
+962
+00:32:31,648 --> 00:32:34,242
+Storage facilities increasingly can,
+
+963
+00:32:34,242 --> 00:32:36,547
+with online rentals and cameras.
+
+964
+00:32:36,727 --> 00:32:39,433
+Car washes usually need on site staff.
+
+965
+00:32:39,613 --> 00:32:41,825
+Vending needs someone to restock,
+
+966
+00:32:41,825 --> 00:32:44,373
+though some owners hire route drivers.
+
+967
+00:32:44,553 --> 00:32:45,667
+Question six.
+
+968
+00:32:45,847 --> 00:32:47,798
+What's the biggest hidden cost?
+
+969
+00:32:47,978 --> 00:32:50,358
+For vending, your time and driving.
+
+970
+00:32:50,538 --> 00:32:51,599
+For car washes,
+
+971
+00:32:51,599 --> 00:32:53,510
+equipment repairs and debt.
+
+972
+00:32:53,690 --> 00:32:56,531
+For storage, property taxes and the cost
+
+973
+00:32:56,531 --> 00:32:57,312
+of capital.
+
+974
+00:32:57,663 --> 00:32:58,649
+Question seven.
+
+975
+00:32:58,829 --> 00:33:00,818
+Is it better to buy one big
+
+976
+00:33:00,818 --> 00:33:02,881
+asset or several small ones?
+
+977
+00:33:03,061 --> 00:33:06,576
+Several small ones spread risk across locations,
+
+978
+00:33:06,576 --> 00:33:08,773
+while one big one is easier to
+
+979
+00:33:08,773 --> 00:33:11,409
+manage and may get better financing.
+
+980
+00:33:11,589 --> 00:33:14,683
+Many investors start small and diversify,
+
+981
+00:33:14,683 --> 00:33:17,777
+then consolidate as they gain experience.
+
+982
+00:33:18,127 --> 00:33:18,974
+Let's recap.
+
+983
+00:33:19,154 --> 00:33:21,708
+Vending machines are cheap and teach the
+
+984
+00:33:21,708 --> 00:33:24,007
+basics, but need your time and great
+
+985
+00:33:24,007 --> 00:33:24,646
+locations.
+
+986
+00:33:24,826 --> 00:33:27,239
+Car washes can be very profitable with
+
+987
+00:33:27,239 --> 00:33:29,462
+memberships, but they're expensive,
+
+988
+00:33:29,462 --> 00:33:31,176
+debt heavy and competitive.
+
+989
+00:33:31,356 --> 00:33:33,192
+Storage is the most passive,
+
+990
+00:33:33,192 --> 00:33:34,569
+but it's real estate,
+
+991
+00:33:34,569 --> 00:33:37,126
+with big capital needs and market risk.
+
+992
+00:33:37,477 --> 00:33:38,997
+And the lessons for all three.
+
+993
+00:33:39,177 --> 00:33:40,997
+Separate your return on money from your
+
+994
+00:33:40,997 --> 00:33:41,790
+payment for time.
+
+995
+00:33:41,970 --> 00:33:43,920
+Stress test every deal.
+
+996
+00:33:44,100 --> 00:33:46,085
+Verify numbers independently.
+
+997
+00:33:46,265 --> 00:33:49,291
+And keep your personal financial foundation strong
+
+998
+00:33:49,291 --> 00:33:50,259
+while you build.
+
+999
+00:33:50,610 --> 00:33:51,678
+One last thought.
+
+1000
+00:33:51,858 --> 00:33:55,077
+Vending machines, car washes and storage units
+
+1001
+00:33:55,077 --> 00:33:56,757
+really can build wealth.
+
+1002
+00:33:56,937 --> 00:33:58,528
+Plenty of people have done it.
+
+1003
+00:33:58,708 --> 00:34:01,361
+But the ones who succeed usually treat
+
+1004
+00:34:01,361 --> 00:34:03,037
+them as real businesses:
+
+1005
+00:34:03,037 --> 00:34:04,643
+they study the numbers,
+
+1006
+00:34:04,643 --> 00:34:06,109
+pick great locations,
+
+1007
+00:34:06,109 --> 00:34:08,483
+manage carefully and stay patient.
+
+1008
+00:34:08,663 --> 00:34:09,746
+The passive part,
+
+1009
+00:34:09,746 --> 00:34:10,511
+if it comes,
+
+1010
+00:34:10,511 --> 00:34:12,677
+comes later, as a reward for doing
+
+1011
+00:34:12,677 --> 00:34:14,015
+the active part well.
+
+1012
+00:34:14,366 --> 00:34:16,322
+If one of these interests you,
+
+1013
+00:34:16,322 --> 00:34:17,626
+start with research,
+
+1014
+00:34:17,626 --> 00:34:18,278
+not money.
+
+1015
+00:34:18,458 --> 00:34:21,096
+This week, visit one vending location,
+
+1016
+00:34:21,096 --> 00:34:23,595
+one car wash or one storage facility
+
+1017
+00:34:23,595 --> 00:34:26,024
+near you, and try to estimate their
+
+1018
+00:34:26,024 --> 00:34:28,245
+numbers using today's framework.
+
+1019
+00:34:28,425 --> 00:34:30,502
+Write down your guesses for revenue,
+
+1020
+00:34:30,502 --> 00:34:31,483
+costs and profit,
+
+1021
+00:34:31,483 --> 00:34:33,733
+then compare them with what you learned
+
+1022
+00:34:33,733 --> 00:34:34,079
+today.
+
+1023
+00:34:34,259 --> 00:34:36,278
+Doing this a few times trains your
+
+1024
+00:34:36,278 --> 00:34:37,882
+eye faster than any course.
+
+1025
+00:34:38,062 --> 00:34:39,153
+I'm Ryan Rover.
+
+1026
+00:34:39,333 --> 00:34:40,266
+Run the numbers,
+
+1027
+00:34:40,266 --> 00:34:41,897
+and I'll see you in the next
+
+1028
+00:34:41,897 --> 00:34:42,247
+video.
