@@ -1,0 +1,4059 @@
+1
+00:00:00,000 --> 00:00:01,950
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,130 --> 00:00:04,591
+Investing has never been easier to start.
+
+3
+00:00:04,771 --> 00:00:06,501
+You can open an account on your
+
+4
+00:00:06,501 --> 00:00:07,450
+phone in minutes,
+
+5
+00:00:07,450 --> 00:00:09,124
+buy a fraction of a share with
+
+6
+00:00:09,124 --> 00:00:09,905
+a few dollars,
+
+7
+00:00:09,905 --> 00:00:11,969
+and trade without paying commissions.
+
+8
+00:00:12,149 --> 00:00:14,504
+But easier to start doesn't mean easier
+
+9
+00:00:14,504 --> 00:00:15,168
+to do well.
+
+10
+00:00:15,348 --> 00:00:17,622
+In fact, it's never been easier to
+
+11
+00:00:17,622 --> 00:00:19,830
+make expensive beginner mistakes.
+
+12
+00:00:20,010 --> 00:00:22,449
+Today we're going through twenty of them,
+
+13
+00:00:22,449 --> 00:00:23,818
+and what to do instead.
+
+14
+00:00:24,167 --> 00:00:25,445
+Here's the good news.
+
+15
+00:00:25,625 --> 00:00:28,383
+Most investing mistakes aren't about picking the
+
+16
+00:00:28,383 --> 00:00:29,073
+wrong stock.
+
+17
+00:00:29,253 --> 00:00:31,281
+They're about waiting too long,
+
+18
+00:00:31,281 --> 00:00:32,328
+paying too much,
+
+19
+00:00:32,328 --> 00:00:35,534
+reacting too emotionally and skipping the basics.
+
+20
+00:00:35,714 --> 00:00:37,291
+And every one of those can be
+
+21
+00:00:37,291 --> 00:00:37,618
+fixed.
+
+22
+00:00:37,967 --> 00:00:39,767
+Think about it like learning to drive.
+
+23
+00:00:39,947 --> 00:00:42,843
+Most crashes don't happen because someone lacked
+
+24
+00:00:42,843 --> 00:00:44,231
+advanced racing skills.
+
+25
+00:00:44,411 --> 00:00:46,613
+They happen because of basic mistakes,
+
+26
+00:00:46,613 --> 00:00:49,394
+like speeding, not paying attention or panicking
+
+27
+00:00:49,394 --> 00:00:50,553
+at the wrong moment.
+
+28
+00:00:50,733 --> 00:00:52,590
+Investing works the same way.
+
+29
+00:00:52,770 --> 00:00:55,582
+Avoiding the big basic mistakes matters far
+
+30
+00:00:55,582 --> 00:00:57,937
+more than finding a clever strategy.
+
+31
+00:00:58,286 --> 00:01:00,620
+We'll go through these from three angles.
+
+32
+00:01:00,800 --> 00:01:02,286
+First, the numbers.
+
+33
+00:01:02,466 --> 00:01:05,741
+Mistakes that quietly cost you money through
+
+34
+00:01:05,741 --> 00:01:07,155
+math, like waiting,
+
+35
+00:01:07,155 --> 00:01:08,271
+fees and taxes.
+
+36
+00:01:08,451 --> 00:01:10,436
+Second, the psychology.
+
+37
+00:01:10,616 --> 00:01:13,009
+Mistakes our brains push us into,
+
+38
+00:01:13,009 --> 00:01:14,459
+like panic and hype.
+
+39
+00:01:14,639 --> 00:01:16,137
+And third, the playbook.
+
+40
+00:01:16,317 --> 00:01:18,274
+Mistakes in how people set up and
+
+41
+00:01:18,274 --> 00:01:19,579
+run their investments.
+
+42
+00:01:19,759 --> 00:01:22,465
+Quick reminder, this is education,
+
+43
+00:01:22,465 --> 00:01:24,136
+not financial advice,
+
+44
+00:01:24,136 --> 00:01:27,479
+and all growth examples are illustrations,
+
+45
+00:01:27,479 --> 00:01:28,513
+not promises.
+
+46
+00:01:28,863 --> 00:01:30,454
+Let's start with the numbers.
+
+47
+00:01:30,634 --> 00:01:32,578
+And the first mistake is the most
+
+48
+00:01:32,578 --> 00:01:33,815
+expensive one of all.
+
+49
+00:01:34,165 --> 00:01:35,001
+Our numbers.
+
+50
+00:01:35,181 --> 00:01:38,187
+Growth examples use monthly compounding at a
+
+51
+00:01:38,187 --> 00:01:40,168
+stated average yearly return,
+
+52
+00:01:40,168 --> 00:01:41,671
+usually seven percent.
+
+53
+00:01:41,851 --> 00:01:44,540
+Account and tax rules come from the
+
+54
+00:01:44,540 --> 00:01:44,847
+IRS.
+
+55
+00:01:45,027 --> 00:01:47,740
+Fund cost data comes from the Investment
+
+56
+00:01:47,740 --> 00:01:51,065
+Company Institute, and fund performance data from
+
+57
+00:01:51,065 --> 00:01:52,829
+S and P Dow Jones Indices.
+
+58
+00:01:53,009 --> 00:01:55,816
+Investor warnings come from the SEC and
+
+59
+00:01:55,816 --> 00:01:56,248
+FINRA.
+
+60
+00:01:56,428 --> 00:01:57,837
+This is education,
+
+61
+00:01:57,837 --> 00:01:59,481
+not financial advice.
+
+62
+00:01:59,831 --> 00:02:00,528
+Angle one.
+
+63
+00:02:00,708 --> 00:02:01,498
+The numbers.
+
+64
+00:02:01,678 --> 00:02:04,959
+Seven mistakes that quietly cost beginners money,
+
+65
+00:02:04,959 --> 00:02:07,169
+often without them ever noticing.
+
+66
+00:02:07,519 --> 00:02:08,878
+Mistake number one.
+
+67
+00:02:09,058 --> 00:02:10,846
+Waiting for the right time to start.
+
+68
+00:02:11,195 --> 00:02:12,809
+Beginners often wait.
+
+69
+00:02:12,989 --> 00:02:14,413
+For a bigger paycheck,
+
+70
+00:02:14,413 --> 00:02:15,902
+for the market to drop,
+
+71
+00:02:15,902 --> 00:02:17,132
+for more knowledge,
+
+72
+00:02:17,132 --> 00:02:18,167
+for less stress.
+
+73
+00:02:18,347 --> 00:02:21,248
+But the most important ingredient in investing
+
+74
+00:02:21,248 --> 00:02:23,266
+is time, and every year you wait
+
+75
+00:02:23,266 --> 00:02:25,284
+is a year of compounding you can
+
+76
+00:02:25,284 --> 00:02:26,230
+never get back.
+
+77
+00:02:26,410 --> 00:02:27,864
+Waiting feels safe,
+
+78
+00:02:27,864 --> 00:02:30,925
+but it's often the most expensive choice
+
+79
+00:02:30,925 --> 00:02:31,461
+of all.
+
+80
+00:02:31,810 --> 00:02:32,623
+Here's the math.
+
+81
+00:02:32,803 --> 00:02:34,793
+Two hundred dollars a month at a
+
+82
+00:02:34,793 --> 00:02:37,031
+seven percent average yearly return,
+
+83
+00:02:37,031 --> 00:02:38,958
+invested for thirty five years,
+
+84
+00:02:38,958 --> 00:02:41,756
+grows to roughly three hundred sixty thousand
+
+85
+00:02:41,756 --> 00:02:42,254
+dollars.
+
+86
+00:02:42,434 --> 00:02:44,771
+Start ten years later and invest for
+
+87
+00:02:44,771 --> 00:02:45,940
+twenty five years,
+
+88
+00:02:45,940 --> 00:02:48,212
+and it grows to roughly one hundred
+
+89
+00:02:48,212 --> 00:02:49,446
+sixty two thousand.
+
+90
+00:02:49,626 --> 00:02:51,804
+Waiting ten years cut the result by
+
+91
+00:02:51,804 --> 00:02:52,738
+more than half.
+
+92
+00:02:53,087 --> 00:02:55,086
+Waiting for the market to dip is
+
+93
+00:02:55,086 --> 00:02:57,209
+a special version of this mistake.
+
+94
+00:02:57,389 --> 00:03:00,268
+Nobody can reliably predict short term moves.
+
+95
+00:03:00,448 --> 00:03:02,707
+People who wait for a crash sometimes
+
+96
+00:03:02,707 --> 00:03:05,026
+watch the market rise for years before
+
+97
+00:03:05,026 --> 00:03:06,369
+it comes, and by then,
+
+98
+00:03:06,369 --> 00:03:08,750
+the crash may still leave prices higher
+
+99
+00:03:08,750 --> 00:03:10,642
+than when they started waiting.
+
+100
+00:03:10,991 --> 00:03:12,292
+What to do instead.
+
+101
+00:03:12,472 --> 00:03:14,552
+Start now with whatever you can,
+
+102
+00:03:14,552 --> 00:03:16,828
+even fifty or one hundred dollars a
+
+103
+00:03:16,828 --> 00:03:18,973
+month, and increase it over time.
+
+104
+00:03:19,153 --> 00:03:21,200
+You'll learn more from one year of
+
+105
+00:03:21,200 --> 00:03:23,727
+actually investing than from five years of
+
+106
+00:03:23,727 --> 00:03:25,051
+waiting to feel ready.
+
+107
+00:03:25,401 --> 00:03:26,737
+Mistake number two.
+
+108
+00:03:26,917 --> 00:03:28,356
+Ignoring fees.
+
+109
+00:03:28,706 --> 00:03:31,326
+Fees look tiny because they're shown as
+
+110
+00:03:31,326 --> 00:03:32,131
+percentages.
+
+111
+00:03:32,311 --> 00:03:34,401
+One percent a year sounds like nothing.
+
+112
+00:03:34,581 --> 00:03:36,867
+But that percentage comes out of your
+
+113
+00:03:36,867 --> 00:03:38,472
+whole balance, every year,
+
+114
+00:03:38,472 --> 00:03:39,214
+for decades.
+
+115
+00:03:39,394 --> 00:03:41,577
+Beginners often don't even know what they're
+
+116
+00:03:41,577 --> 00:03:41,925
+paying.
+
+117
+00:03:42,274 --> 00:03:45,448
+According to the Investment Company Institute,
+
+118
+00:03:45,448 --> 00:03:48,552
+the average index equity mutual fund recently
+
+119
+00:03:48,552 --> 00:03:51,519
+charged around five hundredths of a percent
+
+120
+00:03:51,519 --> 00:03:54,417
+a year, while the average actively managed
+
+121
+00:03:54,417 --> 00:03:57,797
+equity fund charged around sixty five hundredths.
+
+122
+00:03:57,977 --> 00:04:00,367
+Over forty years of steady investing,
+
+123
+00:04:00,367 --> 00:04:02,499
+a gap like that can cost hundreds
+
+124
+00:04:02,499 --> 00:04:04,049
+of thousands of dollars.
+
+125
+00:04:04,398 --> 00:04:06,337
+And fund fees aren't the only ones.
+
+126
+00:04:06,517 --> 00:04:09,345
+Some advisors charge around one percent a
+
+127
+00:04:09,345 --> 00:04:11,068
+year on top of fund fees.
+
+128
+00:04:11,248 --> 00:04:13,536
+Some accounts charge maintenance fees.
+
+129
+00:04:13,716 --> 00:04:16,445
+Some products have sales charges when you
+
+130
+00:04:16,445 --> 00:04:16,711
+buy.
+
+131
+00:04:16,891 --> 00:04:19,271
+Fees stack, and they compound against you.
+
+132
+00:04:19,620 --> 00:04:21,583
+Here's a quick way to see fees
+
+133
+00:04:21,583 --> 00:04:22,302
+in dollars.
+
+134
+00:04:22,482 --> 00:04:25,582
+Multiply your balance by the expense ratio.
+
+135
+00:04:25,762 --> 00:04:27,818
+On a fifty thousand dollar balance,
+
+136
+00:04:27,818 --> 00:04:29,757
+a one percent fee is five hundred
+
+137
+00:04:29,757 --> 00:04:30,638
+dollars a year.
+
+138
+00:04:30,818 --> 00:04:33,090
+A five hundredths of a percent fee
+
+139
+00:04:33,090 --> 00:04:34,626
+is twenty five dollars.
+
+140
+00:04:34,806 --> 00:04:37,118
+Same market exposure in many cases,
+
+141
+00:04:37,118 --> 00:04:38,439
+very different cost,
+
+142
+00:04:38,439 --> 00:04:41,610
+and that difference compounds every single year.
+
+143
+00:04:41,959 --> 00:04:43,364
+What to do instead.
+
+144
+00:04:43,544 --> 00:04:45,850
+Find the expense ratio of every fund
+
+145
+00:04:45,850 --> 00:04:47,964
+you own, and know exactly how any
+
+146
+00:04:47,964 --> 00:04:48,989
+advisor is paid.
+
+147
+00:04:49,169 --> 00:04:51,652
+Favor broad, low cost index funds,
+
+148
+00:04:51,652 --> 00:04:54,355
+and treat every fee as something that
+
+149
+00:04:54,355 --> 00:04:55,961
+has to justify itself.
+
+150
+00:04:56,311 --> 00:04:57,751
+Mistake number three.
+
+151
+00:04:57,931 --> 00:04:59,684
+Skipping the employer match.
+
+152
+00:05:00,034 --> 00:05:02,405
+Many employers match part of what you
+
+153
+00:05:02,405 --> 00:05:05,096
+contribute to a workplace retirement plan.
+
+154
+00:05:05,276 --> 00:05:07,558
+A common example is fifty cents for
+
+155
+00:05:07,558 --> 00:05:09,383
+every dollar you contribute,
+
+156
+00:05:09,383 --> 00:05:11,534
+up to six percent of your salary.
+
+157
+00:05:11,714 --> 00:05:13,630
+Not contributing enough to get the full
+
+158
+00:05:13,630 --> 00:05:15,301
+match is like turning down part of
+
+159
+00:05:15,301 --> 00:05:15,743
+your pay.
+
+160
+00:05:16,092 --> 00:05:17,335
+Here's what that can mean.
+
+161
+00:05:17,515 --> 00:05:19,654
+On a sixty thousand dollar salary,
+
+162
+00:05:19,654 --> 00:05:22,548
+contributing six percent is three thousand six
+
+163
+00:05:22,548 --> 00:05:23,995
+hundred dollars a year,
+
+164
+00:05:23,995 --> 00:05:26,134
+and a fifty percent match adds one
+
+165
+00:05:26,134 --> 00:05:27,581
+thousand eight hundred.
+
+166
+00:05:27,761 --> 00:05:29,916
+Invested for thirty years at a seven
+
+167
+00:05:29,916 --> 00:05:31,712
+percent average yearly return,
+
+168
+00:05:31,712 --> 00:05:33,988
+that match alone could grow to roughly
+
+169
+00:05:33,988 --> 00:05:36,143
+one hundred eighty thousand dollars.
+
+170
+00:05:36,492 --> 00:05:39,092
+Some matches come with a vesting schedule,
+
+171
+00:05:39,092 --> 00:05:41,196
+meaning you have to stay a certain
+
+172
+00:05:41,196 --> 00:05:43,053
+number of years to keep all of
+
+173
+00:05:43,053 --> 00:05:44,352
+the employer's money.
+
+174
+00:05:44,532 --> 00:05:46,017
+Even so, for most people,
+
+175
+00:05:46,017 --> 00:05:47,857
+getting the match is one of the
+
+176
+00:05:47,857 --> 00:05:49,757
+best returns available anywhere.
+
+177
+00:05:50,106 --> 00:05:51,476
+What to do instead.
+
+178
+00:05:51,656 --> 00:05:53,926
+Find your plan's match formula in your
+
+179
+00:05:53,926 --> 00:05:56,913
+benefits information, and set your contribution at
+
+180
+00:05:56,913 --> 00:05:59,123
+least high enough to get every dollar
+
+181
+00:05:59,123 --> 00:05:59,482
+of it.
+
+182
+00:05:59,831 --> 00:06:01,167
+Mistake number four.
+
+183
+00:06:01,347 --> 00:06:03,901
+Investing while carrying high interest debt.
+
+184
+00:06:04,250 --> 00:06:07,302
+Investing feels more exciting than paying off
+
+185
+00:06:07,302 --> 00:06:07,641
+debt.
+
+186
+00:06:07,821 --> 00:06:09,984
+But credit card interest rates in the
+
+187
+00:06:09,984 --> 00:06:12,791
+United States have averaged above twenty percent
+
+188
+00:06:12,791 --> 00:06:13,727
+in recent years,
+
+189
+00:06:13,727 --> 00:06:15,715
+according to Federal Reserve data.
+
+190
+00:06:15,895 --> 00:06:18,840
+Long term stock market returns have historically
+
+191
+00:06:18,840 --> 00:06:20,435
+been much lower than that.
+
+192
+00:06:20,784 --> 00:06:22,853
+So if you invest while carrying a
+
+193
+00:06:22,853 --> 00:06:24,483
+large credit card balance,
+
+194
+00:06:24,483 --> 00:06:26,427
+you're usually losing the race.
+
+195
+00:06:26,607 --> 00:06:28,980
+The debt grows faster than your investments
+
+196
+00:06:28,980 --> 00:06:29,753
+are likely to.
+
+197
+00:06:29,933 --> 00:06:32,122
+Paying off a twenty percent card is
+
+198
+00:06:32,122 --> 00:06:35,123
+like earning a guaranteed twenty percent return.
+
+199
+00:06:35,472 --> 00:06:38,201
+The exception is usually the employer match.
+
+200
+00:06:38,381 --> 00:06:40,952
+Many people still contribute enough to get
+
+201
+00:06:40,952 --> 00:06:42,544
+it while paying down debt,
+
+202
+00:06:42,544 --> 00:06:44,503
+because the match is such a high
+
+203
+00:06:44,503 --> 00:06:45,544
+immediate return.
+
+204
+00:06:45,894 --> 00:06:47,357
+What to do instead.
+
+205
+00:06:47,537 --> 00:06:49,418
+List your debts by interest rate.
+
+206
+00:06:49,598 --> 00:06:52,210
+Attack the highest rate first while making
+
+207
+00:06:52,210 --> 00:06:54,013
+minimum payments on the rest,
+
+208
+00:06:54,013 --> 00:06:56,998
+then redirect those payments into investing once
+
+209
+00:06:56,998 --> 00:06:58,677
+the expensive debt is gone.
+
+210
+00:06:59,027 --> 00:07:00,223
+Mistake number five.
+
+211
+00:07:00,403 --> 00:07:02,632
+Investing without an emergency fund.
+
+212
+00:07:02,982 --> 00:07:04,062
+Picture this.
+
+213
+00:07:04,242 --> 00:07:06,100
+You invest everything you have.
+
+214
+00:07:06,280 --> 00:07:07,754
+Then the market drops,
+
+215
+00:07:07,754 --> 00:07:09,430
+and around the same time,
+
+216
+00:07:09,430 --> 00:07:11,574
+your car breaks down or you lose
+
+217
+00:07:11,574 --> 00:07:12,178
+your job.
+
+218
+00:07:12,358 --> 00:07:14,641
+Now you have to sell investments at
+
+219
+00:07:14,641 --> 00:07:15,945
+a loss to pay bills.
+
+220
+00:07:16,125 --> 00:07:18,906
+That's how beginners turn temporary drops into
+
+221
+00:07:18,906 --> 00:07:19,933
+permanent losses.
+
+222
+00:07:20,283 --> 00:07:22,700
+An emergency fund is cash set aside
+
+223
+00:07:22,700 --> 00:07:25,462
+for surprises, often three to six months
+
+224
+00:07:25,462 --> 00:07:26,981
+of essential expenses,
+
+225
+00:07:26,981 --> 00:07:29,604
+kept somewhere safe and easy to reach,
+
+226
+00:07:29,604 --> 00:07:31,952
+like a high yield savings account.
+
+227
+00:07:32,132 --> 00:07:33,420
+It's not an investment.
+
+228
+00:07:33,600 --> 00:07:35,574
+It's insurance for your investments.
+
+229
+00:07:35,923 --> 00:07:37,677
+It also helps you stay calm.
+
+230
+00:07:37,857 --> 00:07:39,861
+When you know your bills are covered,
+
+231
+00:07:39,861 --> 00:07:41,432
+market drops feel less scary.
+
+232
+00:07:41,612 --> 00:07:43,899
+You can leave your investments alone and
+
+233
+00:07:43,899 --> 00:07:44,870
+let them recover,
+
+234
+00:07:44,870 --> 00:07:46,071
+instead of panicking.
+
+235
+00:07:46,420 --> 00:07:47,581
+What to do instead.
+
+236
+00:07:47,761 --> 00:07:50,260
+Build at least a starter emergency fund,
+
+237
+00:07:50,260 --> 00:07:51,947
+maybe one thousand dollars,
+
+238
+00:07:51,947 --> 00:07:53,509
+before investing heavily,
+
+239
+00:07:53,509 --> 00:07:55,508
+then grow it toward three to six
+
+240
+00:07:55,508 --> 00:07:57,444
+months of essentials over time.
+
+241
+00:07:57,795 --> 00:07:59,339
+Mistake number six.
+
+242
+00:07:59,519 --> 00:08:01,295
+Expecting smooth returns.
+
+243
+00:08:01,645 --> 00:08:04,283
+Beginners often hear that the stock market
+
+244
+00:08:04,283 --> 00:08:06,670
+has averaged around ten percent a year
+
+245
+00:08:06,670 --> 00:08:08,617
+historically, before inflation,
+
+246
+00:08:08,617 --> 00:08:11,129
+and expect something close to that every
+
+247
+00:08:11,129 --> 00:08:11,443
+year.
+
+248
+00:08:11,623 --> 00:08:13,702
+But averages hide huge swings.
+
+249
+00:08:13,882 --> 00:08:16,570
+Individual years can be up thirty percent
+
+250
+00:08:16,570 --> 00:08:18,735
+or down more than thirty percent.
+
+251
+00:08:19,085 --> 00:08:21,261
+The S and P five hundred fell
+
+252
+00:08:21,261 --> 00:08:23,438
+by more than a third in 2008.
+
+253
+00:08:23,618 --> 00:08:26,204
+It dropped sharply in early 2020,
+
+254
+00:08:26,204 --> 00:08:28,007
+then recovered quickly.
+
+255
+00:08:28,187 --> 00:08:30,828
+In 2022 it fell by around a
+
+256
+00:08:30,828 --> 00:08:31,414
+fifth.
+
+257
+00:08:31,594 --> 00:08:34,509
+Long term investors have been rewarded historically,
+
+258
+00:08:34,509 --> 00:08:36,471
+but the path has never been smooth.
+
+259
+00:08:36,821 --> 00:08:38,492
+Here's another quirk of the math.
+
+260
+00:08:38,672 --> 00:08:40,900
+If your investment falls thirty percent,
+
+261
+00:08:40,900 --> 00:08:42,570
+you need a gain of about forty
+
+262
+00:08:42,570 --> 00:08:44,408
+three percent just to get back to
+
+263
+00:08:44,408 --> 00:08:44,686
+even.
+
+264
+00:08:44,866 --> 00:08:47,344
+Losses and gains aren't symmetrical,
+
+265
+00:08:47,344 --> 00:08:49,614
+which is one more reason to avoid
+
+266
+00:08:49,614 --> 00:08:51,472
+panic selling after a drop.
+
+267
+00:08:51,823 --> 00:08:53,847
+It also helps to know how often
+
+268
+00:08:53,847 --> 00:08:54,957
+bad years happen.
+
+269
+00:08:55,137 --> 00:08:57,580
+Historically, the S and P five hundred
+
+270
+00:08:57,580 --> 00:09:00,151
+has had a negative calendar year roughly
+
+271
+00:09:00,151 --> 00:09:01,244
+one year in four,
+
+272
+00:09:01,244 --> 00:09:02,080
+give or take.
+
+273
+00:09:02,260 --> 00:09:04,854
+That means a forty year investing life
+
+274
+00:09:04,854 --> 00:09:07,380
+could include about ten losing years.
+
+275
+00:09:07,560 --> 00:09:09,309
+They are not a sign that something
+
+276
+00:09:09,309 --> 00:09:09,824
+is broken.
+
+277
+00:09:10,004 --> 00:09:11,786
+They are the price of admission for
+
+278
+00:09:11,786 --> 00:09:12,651
+long term growth.
+
+279
+00:09:13,001 --> 00:09:14,394
+What to do instead.
+
+280
+00:09:14,574 --> 00:09:16,060
+Plan for bad years.
+
+281
+00:09:16,240 --> 00:09:19,124
+Expect them, write down how you'll respond,
+
+282
+00:09:19,124 --> 00:09:21,539
+and only invest money in stocks that
+
+283
+00:09:21,539 --> 00:09:23,686
+you won't need for at least five
+
+284
+00:09:23,686 --> 00:09:24,088
+years.
+
+285
+00:09:24,439 --> 00:09:25,855
+Mistake number seven.
+
+286
+00:09:26,035 --> 00:09:27,417
+Ignoring taxes.
+
+287
+00:09:27,767 --> 00:09:29,658
+Taxes can take a big bite out
+
+288
+00:09:29,658 --> 00:09:32,527
+of returns, but beginners often ignore them.
+
+289
+00:09:32,707 --> 00:09:35,588
+One common mistake is investing in a
+
+290
+00:09:35,588 --> 00:09:39,830
+regular taxable account while ignoring tax advantaged
+
+291
+00:09:39,830 --> 00:09:42,231
+accounts like a four oh one k,
+
+292
+00:09:42,231 --> 00:09:44,793
+a traditional IRA or a Roth IRA.
+
+293
+00:09:45,143 --> 00:09:46,954
+Another is selling too quickly.
+
+294
+00:09:47,134 --> 00:09:48,540
+In the United States,
+
+295
+00:09:48,540 --> 00:09:51,153
+profits on investments held one year or
+
+296
+00:09:51,153 --> 00:09:54,101
+less are generally taxed as ordinary income,
+
+297
+00:09:54,101 --> 00:09:56,847
+while investments held longer than a year
+
+298
+00:09:56,847 --> 00:09:59,728
+usually qualify for lower long term capital
+
+299
+00:09:59,728 --> 00:10:00,532
+gains rates.
+
+300
+00:10:00,712 --> 00:10:03,475
+Frequent trading can mean paying more tax.
+
+301
+00:10:03,825 --> 00:10:06,412
+Each tax advantaged account has rules,
+
+302
+00:10:06,412 --> 00:10:09,749
+income limits and yearly contribution limits that
+
+303
+00:10:09,749 --> 00:10:10,907
+change over time.
+
+304
+00:10:11,087 --> 00:10:13,966
+The IRS website lists the current numbers.
+
+305
+00:10:14,316 --> 00:10:15,593
+What to do instead.
+
+306
+00:10:15,773 --> 00:10:18,710
+Use tax advantaged accounts first where it
+
+307
+00:10:18,710 --> 00:10:21,648
+makes sense, hold investments for the long
+
+308
+00:10:21,648 --> 00:10:24,097
+term, and consider talking to a tax
+
+309
+00:10:24,097 --> 00:10:27,034
+professional if your situation is complex.
+
+310
+00:10:27,385 --> 00:10:28,313
+That's angle one.
+
+311
+00:10:28,493 --> 00:10:31,214
+Waiting, fees, skipping the match,
+
+312
+00:10:31,214 --> 00:10:33,935
+expensive debt, no emergency fund,
+
+313
+00:10:33,935 --> 00:10:37,456
+expecting smooth returns and ignoring taxes.
+
+314
+00:10:37,636 --> 00:10:38,879
+Now angle two.
+
+315
+00:10:39,059 --> 00:10:40,173
+The psychology.
+
+316
+00:10:40,523 --> 00:10:43,107
+Most investing mistakes aren't caused by a
+
+317
+00:10:43,107 --> 00:10:44,215
+lack of knowledge.
+
+318
+00:10:44,395 --> 00:10:46,078
+They're caused by emotions.
+
+319
+00:10:46,258 --> 00:10:48,756
+Fear, greed, excitement,
+
+320
+00:10:48,756 --> 00:10:49,277
+envy.
+
+321
+00:10:49,457 --> 00:10:50,353
+In this angle,
+
+322
+00:10:50,353 --> 00:10:52,849
+we'll look at seven mistakes our brains
+
+323
+00:10:52,849 --> 00:10:53,681
+push us into,
+
+324
+00:10:53,681 --> 00:10:56,049
+and how to protect yourself from your
+
+325
+00:10:56,049 --> 00:10:56,945
+own instincts.
+
+326
+00:10:57,295 --> 00:10:58,653
+Mistake number eight.
+
+327
+00:10:58,833 --> 00:11:00,969
+Panic selling during a crash.
+
+328
+00:11:01,320 --> 00:11:02,558
+When markets fall,
+
+329
+00:11:02,558 --> 00:11:04,829
+it feels like the drop will never
+
+330
+00:11:04,829 --> 00:11:05,104
+end.
+
+331
+00:11:05,284 --> 00:11:06,412
+The news is scary,
+
+332
+00:11:06,412 --> 00:11:09,168
+your balance is shrinking and every instinct
+
+333
+00:11:09,168 --> 00:11:11,298
+says get out before it gets worse.
+
+334
+00:11:11,478 --> 00:11:13,247
+So many beginners sell,
+
+335
+00:11:13,247 --> 00:11:16,093
+turning a temporary paper loss into a
+
+336
+00:11:16,093 --> 00:11:17,632
+real, permanent one.
+
+337
+00:11:17,982 --> 00:11:19,792
+The problem is that some of the
+
+338
+00:11:19,792 --> 00:11:22,538
+market's best days have historically come close
+
+339
+00:11:22,538 --> 00:11:23,589
+to its worst ones.
+
+340
+00:11:23,769 --> 00:11:25,920
+Investors who sell in a panic often
+
+341
+00:11:25,920 --> 00:11:26,965
+miss the rebound,
+
+342
+00:11:26,965 --> 00:11:28,748
+and then buy back in later at
+
+343
+00:11:28,748 --> 00:11:30,838
+higher prices, if they buy back at
+
+344
+00:11:30,838 --> 00:11:31,083
+all.
+
+345
+00:11:31,434 --> 00:11:33,314
+Historically, the broad U.
+
+346
+00:11:33,494 --> 00:11:33,901
+S.
+
+347
+00:11:34,081 --> 00:11:36,700
+market has recovered from every past crash,
+
+348
+00:11:36,700 --> 00:11:39,562
+although some recoveries took years and there's
+
+349
+00:11:39,562 --> 00:11:41,267
+no guarantee for the future.
+
+350
+00:11:41,447 --> 00:11:43,766
+The investors who stayed in through those
+
+351
+00:11:43,766 --> 00:11:45,859
+drops were usually the ones rewarded.
+
+352
+00:11:46,209 --> 00:11:48,469
+There's also a hidden cost to panic
+
+353
+00:11:48,469 --> 00:11:50,342
+selling in a taxable account.
+
+354
+00:11:50,522 --> 00:11:53,067
+If you sell investments that had gains,
+
+355
+00:11:53,067 --> 00:11:54,242
+you may owe taxes,
+
+356
+00:11:54,242 --> 00:11:55,939
+and if you buy back later,
+
+357
+00:11:55,939 --> 00:11:57,897
+you start over with a new cost
+
+358
+00:11:57,897 --> 00:11:58,289
+basis.
+
+359
+00:11:58,469 --> 00:12:00,523
+So panic can cost you twice,
+
+360
+00:12:00,523 --> 00:12:03,091
+once in missed recovery and once in
+
+361
+00:12:03,091 --> 00:12:03,531
+taxes.
+
+362
+00:12:03,711 --> 00:12:05,545
+Staying invested avoids both.
+
+363
+00:12:05,895 --> 00:12:07,195
+What to do instead.
+
+364
+00:12:07,375 --> 00:12:09,397
+Decide now how you'll act in a
+
+365
+00:12:09,397 --> 00:12:09,801
+crash.
+
+366
+00:12:09,981 --> 00:12:10,991
+Write it down.
+
+367
+00:12:11,171 --> 00:12:12,272
+When a crash comes,
+
+368
+00:12:12,272 --> 00:12:15,112
+keep your automatic investments running and avoid
+
+369
+00:12:15,112 --> 00:12:17,487
+making big decisions while you're scared.
+
+370
+00:12:17,838 --> 00:12:19,312
+Mistake number nine.
+
+371
+00:12:19,492 --> 00:12:21,292
+Chasing last year's winners.
+
+372
+00:12:21,642 --> 00:12:23,924
+Beginners often look at which fund or
+
+373
+00:12:23,924 --> 00:12:25,897
+stock went up the most last year
+
+374
+00:12:25,897 --> 00:12:26,576
+and buy it.
+
+375
+00:12:26,756 --> 00:12:28,462
+It feels logical.
+
+376
+00:12:28,642 --> 00:12:29,894
+If it went up a lot,
+
+377
+00:12:29,894 --> 00:12:30,895
+it must be good.
+
+378
+00:12:31,075 --> 00:12:33,699
+But past performance often doesn't continue.
+
+379
+00:12:34,049 --> 00:12:36,369
+S and P Dow Jones Indices tracks
+
+380
+00:12:36,369 --> 00:12:39,343
+whether top performing funds stay on top.
+
+381
+00:12:39,523 --> 00:12:42,669
+Their persistence research has found that relatively
+
+382
+00:12:42,669 --> 00:12:44,848
+few top funds keep their top ranking
+
+383
+00:12:44,848 --> 00:12:46,361
+over the following years.
+
+384
+00:12:46,541 --> 00:12:49,747
+Yesterday's winner is often tomorrow's average,
+
+385
+00:12:49,747 --> 00:12:50,361
+or worse.
+
+386
+00:12:50,711 --> 00:12:54,057
+Chasing performance also means buying after prices
+
+387
+00:12:54,057 --> 00:12:55,730
+have already risen a lot,
+
+388
+00:12:55,730 --> 00:12:57,537
+which can mean buying high.
+
+389
+00:12:57,717 --> 00:12:59,708
+Then, when the fund cools off,
+
+390
+00:12:59,708 --> 00:13:01,832
+many people sell low and move to
+
+391
+00:13:01,832 --> 00:13:03,093
+the next hot thing.
+
+392
+00:13:03,443 --> 00:13:05,061
+Fund companies know this,
+
+393
+00:13:05,061 --> 00:13:07,975
+which is why advertisements often highlight a
+
+394
+00:13:07,975 --> 00:13:09,724
+fund's best recent returns.
+
+395
+00:13:09,904 --> 00:13:12,105
+A fund family with dozens of funds
+
+396
+00:13:12,105 --> 00:13:14,306
+will almost always have a few with
+
+397
+00:13:14,306 --> 00:13:15,666
+great recent numbers,
+
+398
+00:13:15,666 --> 00:13:16,637
+just by chance.
+
+399
+00:13:16,817 --> 00:13:18,890
+Seeing a strong track record in an
+
+400
+00:13:18,890 --> 00:13:21,023
+ad tells you very little about what
+
+401
+00:13:21,023 --> 00:13:22,425
+that fund will do next.
+
+402
+00:13:22,775 --> 00:13:24,063
+What to do instead.
+
+403
+00:13:24,243 --> 00:13:26,713
+Choose investments based on cost,
+
+404
+00:13:26,713 --> 00:13:28,959
+diversification and your plan,
+
+405
+00:13:28,959 --> 00:13:30,606
+not on recent returns.
+
+406
+00:13:30,786 --> 00:13:33,485
+Broad, low cost index funds remove the
+
+407
+00:13:33,485 --> 00:13:35,615
+need to guess who'll win next.
+
+408
+00:13:35,966 --> 00:13:37,370
+Mistake number ten.
+
+409
+00:13:37,550 --> 00:13:38,619
+Falling for hype.
+
+410
+00:13:38,969 --> 00:13:39,970
+Every few years,
+
+411
+00:13:39,970 --> 00:13:43,601
+something becomes the investment everyone's talking about.
+
+412
+00:13:43,781 --> 00:13:44,870
+A hot sector,
+
+413
+00:13:44,870 --> 00:13:45,959
+a meme stock,
+
+414
+00:13:45,959 --> 00:13:46,881
+a new coin.
+
+415
+00:13:47,061 --> 00:13:50,113
+Prices soar, people brag online and beginners
+
+416
+00:13:50,113 --> 00:13:52,216
+rush in so they don't miss out.
+
+417
+00:13:52,566 --> 00:13:55,180
+Some hyped investments keep rising for a
+
+418
+00:13:55,180 --> 00:13:55,573
+while.
+
+419
+00:13:55,753 --> 00:13:57,782
+But many end with sharp crashes,
+
+420
+00:13:57,782 --> 00:13:59,747
+and the people who buy in late,
+
+421
+00:13:59,747 --> 00:14:02,093
+often beginners, tend to buy near the
+
+422
+00:14:02,093 --> 00:14:02,347
+top.
+
+423
+00:14:02,527 --> 00:14:04,520
+History is full of bubbles that felt
+
+424
+00:14:04,520 --> 00:14:06,126
+like sure things at the time.
+
+425
+00:14:06,476 --> 00:14:09,138
+The SEC and FINRA regularly warn investors
+
+426
+00:14:09,138 --> 00:14:10,913
+about pump and dump schemes,
+
+427
+00:14:10,913 --> 00:14:13,575
+where promoters hype an investment to push
+
+428
+00:14:13,575 --> 00:14:14,399
+its price up,
+
+429
+00:14:14,399 --> 00:14:16,491
+then sell their own shares to the
+
+430
+00:14:16,491 --> 00:14:18,329
+people they convinced to buy.
+
+431
+00:14:18,680 --> 00:14:20,322
+A useful test is to ask how
+
+432
+00:14:20,322 --> 00:14:22,511
+the investment actually makes money.
+
+433
+00:14:22,691 --> 00:14:24,374
+A company earns profits.
+
+434
+00:14:24,554 --> 00:14:26,424
+A bond pays interest.
+
+435
+00:14:26,604 --> 00:14:28,600
+A rental property collects rent.
+
+436
+00:14:28,780 --> 00:14:30,872
+If the only reason something should go
+
+437
+00:14:30,872 --> 00:14:32,689
+up is that other people will want
+
+438
+00:14:32,689 --> 00:14:34,175
+to buy it later at a higher
+
+439
+00:14:34,175 --> 00:14:35,606
+price, you're speculating,
+
+440
+00:14:35,606 --> 00:14:37,643
+not investing, and you should size it
+
+441
+00:14:37,643 --> 00:14:38,138
+that way.
+
+442
+00:14:38,488 --> 00:14:39,916
+What to do instead.
+
+443
+00:14:40,096 --> 00:14:42,073
+If you want to try a speculative
+
+444
+00:14:42,073 --> 00:14:44,484
+investment, use only a small amount you
+
+445
+00:14:44,484 --> 00:14:46,338
+can afford to lose completely,
+
+446
+00:14:46,338 --> 00:14:48,315
+and never borrow money to do it.
+
+447
+00:14:48,666 --> 00:14:49,850
+Quick pause.
+
+448
+00:14:50,030 --> 00:14:52,000
+If this list is saving you from
+
+449
+00:14:52,000 --> 00:14:53,716
+even one of these mistakes,
+
+450
+00:14:53,716 --> 00:14:56,067
+please subscribe to Ryan Rover Money.
+
+451
+00:14:56,247 --> 00:14:58,055
+It's free, and it helps us keep
+
+452
+00:14:58,055 --> 00:14:58,813
+making these.
+
+453
+00:14:58,993 --> 00:15:00,653
+Now, mistake eleven.
+
+454
+00:15:01,003 --> 00:15:02,384
+Mistake number eleven.
+
+455
+00:15:02,564 --> 00:15:05,165
+Getting overconfident after early wins.
+
+456
+00:15:05,515 --> 00:15:08,618
+Many beginners start investing during a rising
+
+457
+00:15:08,618 --> 00:15:09,090
+market.
+
+458
+00:15:09,270 --> 00:15:10,555
+Their first picks go up,
+
+459
+00:15:10,555 --> 00:15:12,857
+and they conclude they're naturally good at
+
+460
+00:15:12,857 --> 00:15:13,125
+this.
+
+461
+00:15:13,305 --> 00:15:15,402
+So they invest more aggressively,
+
+462
+00:15:15,402 --> 00:15:17,879
+trade more often and take bigger risks.
+
+463
+00:15:18,230 --> 00:15:19,696
+But in a rising market,
+
+464
+00:15:19,696 --> 00:15:21,353
+almost everything goes up.
+
+465
+00:15:21,533 --> 00:15:23,574
+Early gains often say more about the
+
+466
+00:15:23,574 --> 00:15:24,934
+market than about skill.
+
+467
+00:15:25,114 --> 00:15:26,538
+When the market turns,
+
+468
+00:15:26,538 --> 00:15:29,062
+the bigger risks lead to bigger losses.
+
+469
+00:15:29,412 --> 00:15:31,954
+Research by Brad Barber and Terrance Odean
+
+470
+00:15:31,954 --> 00:15:34,738
+found that the individual investors who traded
+
+471
+00:15:34,738 --> 00:15:37,341
+most often earned lower returns after costs
+
+472
+00:15:37,341 --> 00:15:39,036
+than those who traded least.
+
+473
+00:15:39,216 --> 00:15:41,071
+Confidence led to activity,
+
+474
+00:15:41,071 --> 00:15:43,268
+and activity often hurt returns.
+
+475
+00:15:43,618 --> 00:15:45,080
+What to do instead.
+
+476
+00:15:45,260 --> 00:15:47,935
+Compare your results with a simple index
+
+477
+00:15:47,935 --> 00:15:49,540
+fund over several years,
+
+478
+00:15:49,540 --> 00:15:50,810
+including bad ones.
+
+479
+00:15:50,990 --> 00:15:52,398
+If you're not beating it,
+
+480
+00:15:52,398 --> 00:15:54,427
+the index fund is the better choice.
+
+481
+00:15:54,777 --> 00:15:56,112
+Mistake number twelve.
+
+482
+00:15:56,292 --> 00:15:58,207
+Checking your investments too often.
+
+483
+00:15:58,558 --> 00:16:00,689
+Investing apps make it easy to check
+
+484
+00:16:00,689 --> 00:16:02,760
+your balance dozens of times a day.
+
+485
+00:16:02,940 --> 00:16:04,655
+But the more often you look,
+
+486
+00:16:04,655 --> 00:16:06,493
+the more often you see losses.
+
+487
+00:16:06,673 --> 00:16:07,999
+Over short periods,
+
+488
+00:16:07,999 --> 00:16:09,954
+markets go down quite often,
+
+489
+00:16:09,954 --> 00:16:12,257
+even when they rise over the long
+
+490
+00:16:12,257 --> 00:16:12,536
+run.
+
+491
+00:16:12,886 --> 00:16:16,903
+Economists Shlomo Benartzi and Richard Thaler called
+
+492
+00:16:16,903 --> 00:16:18,911
+this myopic loss aversion.
+
+493
+00:16:19,091 --> 00:16:21,894
+Because losses feel worse than gains feel
+
+494
+00:16:21,894 --> 00:16:24,697
+good, investors who check often feel more
+
+495
+00:16:24,697 --> 00:16:27,159
+pain and tend to make more cautious,
+
+496
+00:16:27,159 --> 00:16:30,235
+emotional decisions, which can hurt long term
+
+497
+00:16:30,235 --> 00:16:30,782
+returns.
+
+498
+00:16:31,133 --> 00:16:33,783
+Frequent checking also creates the urge to
+
+499
+00:16:33,783 --> 00:16:34,604
+do something.
+
+500
+00:16:34,784 --> 00:16:36,523
+And for long term investors,
+
+501
+00:16:36,523 --> 00:16:39,070
+doing something is often worse than doing
+
+502
+00:16:39,070 --> 00:16:39,567
+nothing.
+
+503
+00:16:39,918 --> 00:16:41,102
+Think about it this way.
+
+504
+00:16:41,282 --> 00:16:42,814
+If you owned a rental house,
+
+505
+00:16:42,814 --> 00:16:44,675
+you wouldn't ask for a price quote
+
+506
+00:16:44,675 --> 00:16:46,481
+every hour and panic when it came
+
+507
+00:16:46,481 --> 00:16:47,795
+in lower than yesterday.
+
+508
+00:16:47,975 --> 00:16:49,345
+You'd look at the rent,
+
+509
+00:16:49,345 --> 00:16:51,609
+the condition and the long term value.
+
+510
+00:16:51,789 --> 00:16:54,138
+Treat your index funds the same way,
+
+511
+00:16:54,138 --> 00:16:55,966
+as long term assets you own,
+
+512
+00:16:55,966 --> 00:16:57,989
+not as numbers on a scoreboard.
+
+513
+00:16:58,339 --> 00:16:59,732
+What to do instead.
+
+514
+00:16:59,912 --> 00:17:01,785
+Turn off price notifications,
+
+515
+00:17:01,785 --> 00:17:03,982
+move the app off your home screen,
+
+516
+00:17:03,982 --> 00:17:06,695
+and review your investments on a schedule,
+
+517
+00:17:06,695 --> 00:17:08,633
+like once a quarter or twice a
+
+518
+00:17:08,633 --> 00:17:08,956
+year.
+
+519
+00:17:09,306 --> 00:17:11,001
+Mistake number thirteen.
+
+520
+00:17:11,181 --> 00:17:13,955
+Taking investing advice from social media.
+
+521
+00:17:14,306 --> 00:17:17,250
+Social media is full of people sharing
+
+522
+00:17:17,250 --> 00:17:21,046
+stock tips, trading strategies and screenshots of
+
+523
+00:17:21,046 --> 00:17:21,898
+huge gains.
+
+524
+00:17:22,078 --> 00:17:23,123
+Some are honest.
+
+525
+00:17:23,303 --> 00:17:25,231
+Some are paid to promote products.
+
+526
+00:17:25,411 --> 00:17:26,920
+Some are simply lucky.
+
+527
+00:17:27,100 --> 00:17:29,030
+And it's very hard to tell which
+
+528
+00:17:29,030 --> 00:17:29,573
+is which.
+
+529
+00:17:29,923 --> 00:17:32,471
+FINRA and the SEC have warned investors
+
+530
+00:17:32,471 --> 00:17:36,327
+about financial influencers who promote investments without
+
+531
+00:17:36,327 --> 00:17:38,614
+disclosing that they're being paid,
+
+532
+00:17:38,614 --> 00:17:41,359
+and about scams that use fake testimonials
+
+533
+00:17:41,359 --> 00:17:42,601
+and impersonations.
+
+534
+00:17:42,781 --> 00:17:45,990
+If something promises guaranteed high returns with
+
+535
+00:17:45,990 --> 00:17:48,365
+little risk, that's a major red flag.
+
+536
+00:17:48,715 --> 00:17:50,653
+You also only see the winners.
+
+537
+00:17:50,833 --> 00:17:53,091
+People rarely post their losses,
+
+538
+00:17:53,091 --> 00:17:55,984
+so social media gives a distorted picture
+
+539
+00:17:55,984 --> 00:17:58,101
+of how investing usually goes.
+
+540
+00:17:58,452 --> 00:18:00,716
+Ask yourself how the person makes money.
+
+541
+00:18:00,896 --> 00:18:02,488
+If they earn commissions,
+
+542
+00:18:02,488 --> 00:18:05,483
+referral fees or sponsorships from the products
+
+543
+00:18:05,483 --> 00:18:07,967
+they recommend, their advice may not be
+
+544
+00:18:07,967 --> 00:18:08,477
+neutral.
+
+545
+00:18:08,657 --> 00:18:10,652
+That doesn't make them dishonest,
+
+546
+00:18:10,652 --> 00:18:12,466
+but it does mean you should be
+
+547
+00:18:12,466 --> 00:18:15,368
+more skeptical, and look for independent sources
+
+548
+00:18:15,368 --> 00:18:16,215
+before acting.
+
+549
+00:18:16,565 --> 00:18:17,911
+What to do instead.
+
+550
+00:18:18,091 --> 00:18:21,016
+Learn from sources with accountability,
+
+551
+00:18:21,016 --> 00:18:23,565
+like books by established authors,
+
+552
+00:18:23,565 --> 00:18:26,640
+official resources like Investor dot gov,
+
+553
+00:18:26,640 --> 00:18:29,040
+and fee only fiduciary advisors.
+
+554
+00:18:29,220 --> 00:18:31,813
+And check any professional's background on FINRA's
+
+555
+00:18:31,813 --> 00:18:32,436
+BrokerCheck.
+
+556
+00:18:32,786 --> 00:18:34,481
+Mistake number fourteen.
+
+557
+00:18:34,661 --> 00:18:36,642
+Putting too much in one company,
+
+558
+00:18:36,642 --> 00:18:38,190
+especially your employer.
+
+559
+00:18:38,540 --> 00:18:40,747
+When Enron collapsed in 2001,
+
+560
+00:18:40,747 --> 00:18:43,412
+many employees had a large share of
+
+561
+00:18:43,412 --> 00:18:46,458
+their retirement savings in Enron stock.
+
+562
+00:18:46,638 --> 00:18:48,309
+They lost their jobs and much of
+
+563
+00:18:48,309 --> 00:18:50,399
+their retirement money at the same time.
+
+564
+00:18:50,579 --> 00:18:52,764
+It's one of the most painful lessons
+
+565
+00:18:52,764 --> 00:18:54,039
+in investing history.
+
+566
+00:18:54,389 --> 00:18:56,545
+Owning a lot of your employer's stock
+
+567
+00:18:56,545 --> 00:18:57,361
+feels natural.
+
+568
+00:18:57,541 --> 00:18:58,633
+You know the company,
+
+569
+00:18:58,633 --> 00:19:00,506
+you believe in it and sometimes it's
+
+570
+00:19:00,506 --> 00:19:01,651
+offered at a discount.
+
+571
+00:19:01,831 --> 00:19:04,016
+But your paycheck already depends on that
+
+572
+00:19:04,016 --> 00:19:04,443
+company.
+
+573
+00:19:04,623 --> 00:19:06,901
+Putting your savings there too doubles your
+
+574
+00:19:06,901 --> 00:19:07,165
+risk.
+
+575
+00:19:07,516 --> 00:19:09,605
+The same goes for any single stock.
+
+576
+00:19:09,785 --> 00:19:11,819
+Even great companies can stumble,
+
+577
+00:19:11,819 --> 00:19:14,653
+and research by Hendrik Bessembinder has shown
+
+578
+00:19:14,653 --> 00:19:17,796
+that most individual stocks have underperformed the
+
+579
+00:19:17,796 --> 00:19:20,014
+overall market over their lifetimes.
+
+580
+00:19:20,364 --> 00:19:21,641
+What to do instead.
+
+581
+00:19:21,821 --> 00:19:25,300
+Many financial planners suggest keeping any single
+
+582
+00:19:25,300 --> 00:19:27,596
+stock, including your employer's,
+
+583
+00:19:27,596 --> 00:19:30,031
+to a small share of your portfolio,
+
+584
+00:19:30,031 --> 00:19:31,840
+often ten percent or less.
+
+585
+00:19:32,020 --> 00:19:34,248
+Spread the rest across broad,
+
+586
+00:19:34,248 --> 00:19:35,631
+diversified funds.
+
+587
+00:19:35,981 --> 00:19:37,014
+That's angle two.
+
+588
+00:19:37,194 --> 00:19:39,716
+Panic selling, chasing winners,
+
+589
+00:19:39,716 --> 00:19:43,052
+hype, overconfidence, checking too often,
+
+590
+00:19:43,052 --> 00:19:45,900
+social media advice and too much in
+
+591
+00:19:45,900 --> 00:19:46,877
+one company.
+
+592
+00:19:47,057 --> 00:19:48,310
+Now angle three.
+
+593
+00:19:48,490 --> 00:19:49,233
+The playbook.
+
+594
+00:19:49,584 --> 00:19:51,562
+The final six mistakes are about how
+
+595
+00:19:51,562 --> 00:19:53,926
+people set up and manage their investments.
+
+596
+00:19:54,106 --> 00:19:56,205
+These are often the easiest to fix,
+
+597
+00:19:56,205 --> 00:19:59,384
+because they don't require changing your personality,
+
+598
+00:19:59,384 --> 00:20:00,944
+just changing your system.
+
+599
+00:20:01,294 --> 00:20:02,977
+Mistake number fifteen.
+
+600
+00:20:03,157 --> 00:20:04,899
+Investing without a plan.
+
+601
+00:20:05,249 --> 00:20:07,768
+Many beginners buy investments randomly.
+
+602
+00:20:07,948 --> 00:20:09,801
+A stock a friend mentioned,
+
+603
+00:20:09,801 --> 00:20:11,380
+a fund they saw online,
+
+604
+00:20:11,380 --> 00:20:13,439
+something that seemed popular.
+
+605
+00:20:13,619 --> 00:20:14,523
+Without a plan,
+
+606
+00:20:14,523 --> 00:20:16,992
+every decision is based on whatever feels
+
+607
+00:20:16,992 --> 00:20:17,895
+right that day,
+
+608
+00:20:17,895 --> 00:20:20,063
+and feelings change with the market.
+
+609
+00:20:20,413 --> 00:20:22,851
+A simple plan answers a few questions.
+
+610
+00:20:23,031 --> 00:20:24,366
+What is this money for?
+
+611
+00:20:24,546 --> 00:20:25,579
+When will I need it?
+
+612
+00:20:25,759 --> 00:20:27,756
+How much will I invest each month?
+
+613
+00:20:27,936 --> 00:20:29,909
+What mix of stocks and bonds will
+
+614
+00:20:29,909 --> 00:20:30,328
+I hold?
+
+615
+00:20:30,508 --> 00:20:31,903
+And what will I do when the
+
+616
+00:20:31,903 --> 00:20:32,679
+market crashes?
+
+617
+00:20:33,029 --> 00:20:36,662
+Professional investors often use a written investment
+
+618
+00:20:36,662 --> 00:20:39,472
+policy statement for exactly this reason.
+
+619
+00:20:39,652 --> 00:20:41,430
+Writing it down when you're calm protects
+
+620
+00:20:41,430 --> 00:20:43,425
+you from decisions made when you're emotional.
+
+621
+00:20:43,776 --> 00:20:46,249
+Your plan should also include your rules
+
+622
+00:20:46,249 --> 00:20:46,992
+for changes.
+
+623
+00:20:47,172 --> 00:20:49,698
+For example, I'll only change my mix
+
+624
+00:20:49,698 --> 00:20:51,873
+if my goals or timeline change,
+
+625
+00:20:51,873 --> 00:20:53,557
+not because of the news.
+
+626
+00:20:53,737 --> 00:20:55,200
+I'll review once a year.
+
+627
+00:20:55,380 --> 00:20:58,039
+I'll increase contributions with every raise.
+
+628
+00:20:58,219 --> 00:21:00,777
+Rules like these turn dozens of emotional
+
+629
+00:21:00,777 --> 00:21:02,712
+decisions into a few calm ones.
+
+630
+00:21:03,062 --> 00:21:04,478
+What to do instead.
+
+631
+00:21:04,658 --> 00:21:06,469
+Write a one page plan this week.
+
+632
+00:21:06,649 --> 00:21:08,651
+Keep it somewhere you'll see it,
+
+633
+00:21:08,651 --> 00:21:10,715
+and read it before making any big
+
+634
+00:21:10,715 --> 00:21:11,966
+investment decision.
+
+635
+00:21:12,317 --> 00:21:14,046
+Mistake number sixteen.
+
+636
+00:21:14,226 --> 00:21:15,794
+Making it too complicated.
+
+637
+00:21:16,144 --> 00:21:19,122
+Some beginners think more investments means more
+
+638
+00:21:19,122 --> 00:21:19,557
+safety.
+
+639
+00:21:19,737 --> 00:21:21,961
+So they buy ten or fifteen funds,
+
+640
+00:21:21,961 --> 00:21:24,319
+a handful of stocks and accounts at
+
+641
+00:21:24,319 --> 00:21:25,600
+several brokerages.
+
+642
+00:21:25,780 --> 00:21:27,982
+But many of those funds often hold
+
+643
+00:21:27,982 --> 00:21:29,212
+the same companies,
+
+644
+00:21:29,212 --> 00:21:31,803
+so they add complexity without much real
+
+645
+00:21:31,803 --> 00:21:32,839
+diversification.
+
+646
+00:21:33,189 --> 00:21:35,343
+Complexity makes it harder to know what
+
+647
+00:21:35,343 --> 00:21:37,497
+you own, harder to rebalance and easier
+
+648
+00:21:37,497 --> 00:21:38,436
+to make mistakes.
+
+649
+00:21:38,616 --> 00:21:40,447
+It also makes it easier to lose
+
+650
+00:21:40,447 --> 00:21:42,041
+track of accounts and fees.
+
+651
+00:21:42,392 --> 00:21:45,420
+Many successful investors use just two to
+
+652
+00:21:45,420 --> 00:21:46,676
+four broad funds.
+
+653
+00:21:46,856 --> 00:21:49,052
+Some use a single target date fund
+
+654
+00:21:49,052 --> 00:21:51,636
+that holds a diversified mix and adjusts
+
+655
+00:21:51,636 --> 00:21:53,380
+it automatically over time.
+
+656
+00:21:53,731 --> 00:21:55,066
+What to do instead.
+
+657
+00:21:55,246 --> 00:21:57,183
+Check the top holdings of each fund
+
+658
+00:21:57,183 --> 00:21:57,626
+you own.
+
+659
+00:21:57,806 --> 00:22:00,196
+If several look nearly identical,
+
+660
+00:22:00,196 --> 00:22:00,848
+simplify.
+
+661
+00:22:01,028 --> 00:22:03,646
+A portfolio you understand is a portfolio
+
+662
+00:22:03,646 --> 00:22:04,859
+you can stick with.
+
+663
+00:22:05,209 --> 00:22:06,927
+Mistake number seventeen.
+
+664
+00:22:07,107 --> 00:22:09,848
+Using margin, leverage or options as a
+
+665
+00:22:09,848 --> 00:22:10,497
+beginner.
+
+666
+00:22:10,847 --> 00:22:13,167
+Many trading apps make it easy to
+
+667
+00:22:13,167 --> 00:22:14,785
+borrow money to invest,
+
+668
+00:22:14,785 --> 00:22:16,543
+called trading on margin,
+
+669
+00:22:16,543 --> 00:22:19,357
+or to trade options and leveraged funds.
+
+670
+00:22:19,537 --> 00:22:21,493
+These tools can multiply gains,
+
+671
+00:22:21,493 --> 00:22:23,387
+but they also multiply losses,
+
+672
+00:22:23,387 --> 00:22:25,469
+sometimes beyond what you put in.
+
+673
+00:22:25,820 --> 00:22:28,328
+With margin, if your investments fall far
+
+674
+00:22:28,328 --> 00:22:30,837
+enough, your broker can demand more money
+
+675
+00:22:30,837 --> 00:22:32,183
+or sell your holdings,
+
+676
+00:22:32,183 --> 00:22:34,202
+often at the worst possible time.
+
+677
+00:22:34,382 --> 00:22:36,798
+Beginners can lose much more than they
+
+678
+00:22:36,798 --> 00:22:38,260
+expected, very quickly.
+
+679
+00:22:38,610 --> 00:22:41,233
+Leveraged ETFs are designed for short term
+
+680
+00:22:41,233 --> 00:22:41,733
+trading.
+
+681
+00:22:41,913 --> 00:22:43,514
+Because they reset daily,
+
+682
+00:22:43,514 --> 00:22:46,204
+their long term results can differ sharply
+
+683
+00:22:46,204 --> 00:22:47,741
+from what people expect.
+
+684
+00:22:47,921 --> 00:22:51,062
+The SEC has published investor alerts about
+
+685
+00:22:51,062 --> 00:22:51,427
+them.
+
+686
+00:22:51,777 --> 00:22:53,530
+Options deserve their own warning.
+
+687
+00:22:53,710 --> 00:22:56,651
+They can be useful tools for experienced
+
+688
+00:22:56,651 --> 00:22:59,666
+investors, but many beginners use them as
+
+689
+00:22:59,666 --> 00:23:03,269
+lottery tickets, buying short term contracts that
+
+690
+00:23:03,269 --> 00:23:04,960
+often expire worthless.
+
+691
+00:23:05,140 --> 00:23:07,956
+Without a deep understanding of how options
+
+692
+00:23:07,956 --> 00:23:10,182
+are priced, it's very easy to lose
+
+693
+00:23:10,182 --> 00:23:12,278
+your entire stake in a matter of
+
+694
+00:23:12,278 --> 00:23:12,605
+days.
+
+695
+00:23:12,955 --> 00:23:14,127
+What to do instead.
+
+696
+00:23:14,307 --> 00:23:15,557
+Stick with simple,
+
+697
+00:23:15,557 --> 00:23:18,819
+unleveraged investments until you have years of
+
+698
+00:23:18,819 --> 00:23:22,290
+experience, and understand exactly how any complex
+
+699
+00:23:22,290 --> 00:23:24,373
+product works before using it.
+
+700
+00:23:24,723 --> 00:23:26,441
+Mistake number eighteen.
+
+701
+00:23:26,621 --> 00:23:27,851
+Never rebalancing.
+
+702
+00:23:28,202 --> 00:23:31,007
+Say you start with seventy percent stocks
+
+703
+00:23:31,007 --> 00:23:32,718
+and thirty percent bonds.
+
+704
+00:23:32,898 --> 00:23:35,141
+After a few strong years for stocks,
+
+705
+00:23:35,141 --> 00:23:37,509
+you might drift to eighty five percent
+
+706
+00:23:37,509 --> 00:23:39,005
+stocks without noticing.
+
+707
+00:23:39,185 --> 00:23:41,621
+Your portfolio is now riskier than you
+
+708
+00:23:41,621 --> 00:23:42,134
+planned.
+
+709
+00:23:42,484 --> 00:23:44,971
+Rebalancing means bringing your mix back to
+
+710
+00:23:44,971 --> 00:23:45,665
+your target.
+
+711
+00:23:45,845 --> 00:23:47,889
+You trim what grew and add to
+
+712
+00:23:47,889 --> 00:23:48,736
+what lagged.
+
+713
+00:23:48,916 --> 00:23:50,661
+It forces you to sell a bit
+
+714
+00:23:50,661 --> 00:23:52,148
+high and buy a bit low,
+
+715
+00:23:52,148 --> 00:23:54,864
+the opposite of what emotions usually push
+
+716
+00:23:54,864 --> 00:23:55,510
+you to do.
+
+717
+00:23:55,860 --> 00:23:58,414
+Target date funds rebalance automatically.
+
+718
+00:23:58,594 --> 00:24:00,348
+If you hold separate funds,
+
+719
+00:24:00,348 --> 00:24:02,493
+a yearly check is plenty for most
+
+720
+00:24:02,493 --> 00:24:02,947
+people.
+
+721
+00:24:03,298 --> 00:24:04,609
+What to do instead.
+
+722
+00:24:04,789 --> 00:24:06,379
+Pick a date each year to check
+
+723
+00:24:06,379 --> 00:24:06,856
+your mix.
+
+724
+00:24:07,036 --> 00:24:09,132
+If it has drifted more than about
+
+725
+00:24:09,132 --> 00:24:10,592
+five percentage points,
+
+726
+00:24:10,592 --> 00:24:13,831
+rebalance, ideally using new contributions to avoid
+
+727
+00:24:13,831 --> 00:24:14,339
+selling.
+
+728
+00:24:14,689 --> 00:24:16,244
+Mistake number nineteen.
+
+729
+00:24:16,424 --> 00:24:19,037
+Forgetting old accounts and beneficiaries.
+
+730
+00:24:19,387 --> 00:24:21,947
+People change jobs many times over a
+
+731
+00:24:21,947 --> 00:24:25,077
+career, and old retirement accounts get left
+
+732
+00:24:25,077 --> 00:24:25,575
+behind.
+
+733
+00:24:25,755 --> 00:24:28,420
+Some studies estimate there are millions of
+
+734
+00:24:28,420 --> 00:24:30,589
+forgotten four oh one k accounts in
+
+735
+00:24:30,589 --> 00:24:31,705
+the United States,
+
+736
+00:24:31,705 --> 00:24:33,626
+holding large amounts of money.
+
+737
+00:24:33,806 --> 00:24:36,060
+Old accounts can carry higher fees and
+
+738
+00:24:36,060 --> 00:24:37,603
+are easy to lose track of.
+
+739
+00:24:37,953 --> 00:24:41,006
+Another overlooked detail is beneficiaries.
+
+740
+00:24:41,186 --> 00:24:44,160
+Retirement accounts usually pass to whoever is
+
+741
+00:24:44,160 --> 00:24:46,487
+named as beneficiary on the account,
+
+742
+00:24:46,487 --> 00:24:48,814
+which can override what a will says.
+
+743
+00:24:48,994 --> 00:24:51,505
+An outdated beneficiary can send money to
+
+744
+00:24:51,505 --> 00:24:52,546
+the wrong person.
+
+745
+00:24:52,897 --> 00:24:54,570
+Neither of these is exciting,
+
+746
+00:24:54,570 --> 00:24:56,763
+which is exactly why they get ignored.
+
+747
+00:24:56,943 --> 00:24:59,546
+But a single afternoon of paperwork can
+
+748
+00:24:59,546 --> 00:25:01,215
+protect years of savings.
+
+749
+00:25:01,566 --> 00:25:03,207
+If you think you might have lost
+
+750
+00:25:03,207 --> 00:25:04,438
+track of an old account,
+
+751
+00:25:04,438 --> 00:25:05,617
+there are ways to look.
+
+752
+00:25:05,797 --> 00:25:08,900
+Contact former employers' benefits departments,
+
+753
+00:25:08,900 --> 00:25:10,287
+check old statements,
+
+754
+00:25:10,287 --> 00:25:13,390
+and search the Department of Labor's retirement
+
+755
+00:25:13,390 --> 00:25:15,503
+savings lost and found database,
+
+756
+00:25:15,503 --> 00:25:18,672
+created under recent federal legislation to help
+
+757
+00:25:18,672 --> 00:25:20,124
+people find old plans.
+
+758
+00:25:20,475 --> 00:25:21,740
+What to do instead.
+
+759
+00:25:21,920 --> 00:25:24,033
+List every account you've ever had.
+
+760
+00:25:24,213 --> 00:25:27,437
+Consider rolling old workplace plans into your
+
+761
+00:25:27,437 --> 00:25:29,049
+current plan or an IRA,
+
+762
+00:25:29,049 --> 00:25:31,852
+and check the beneficiaries on each one.
+
+763
+00:25:32,202 --> 00:25:33,538
+Mistake number twenty.
+
+764
+00:25:33,718 --> 00:25:35,761
+Never increasing what you invest.
+
+765
+00:25:36,110 --> 00:25:38,948
+Many beginners start investing a small amount,
+
+766
+00:25:38,948 --> 00:25:39,874
+which is great,
+
+767
+00:25:39,874 --> 00:25:41,416
+and then never change it.
+
+768
+00:25:41,596 --> 00:25:42,560
+Ten years later,
+
+769
+00:25:42,560 --> 00:25:43,765
+they earn much more,
+
+770
+00:25:43,765 --> 00:25:46,356
+but they're still investing the same amount
+
+771
+00:25:46,356 --> 00:25:47,622
+as when they started.
+
+772
+00:25:47,971 --> 00:25:51,422
+Economists Richard Thaler and Shlomo Benartzi designed
+
+773
+00:25:51,422 --> 00:25:52,636
+Save More Tomorrow,
+
+774
+00:25:52,636 --> 00:25:55,511
+where employees agreed in advance to increase
+
+775
+00:25:55,511 --> 00:25:57,747
+their savings rate with each raise.
+
+776
+00:25:57,927 --> 00:26:00,774
+Participants in their study ended up saving
+
+777
+00:26:00,774 --> 00:26:02,165
+far more than before.
+
+778
+00:26:02,514 --> 00:26:05,462
+Increasing contributions over time can matter as
+
+779
+00:26:05,462 --> 00:26:07,182
+much as the return you earn.
+
+780
+00:26:07,362 --> 00:26:09,904
+Your investing should grow as your income
+
+781
+00:26:09,904 --> 00:26:10,276
+grows.
+
+782
+00:26:10,625 --> 00:26:11,845
+What to do instead.
+
+783
+00:26:12,025 --> 00:26:14,940
+Turn on automatic increases in your retirement
+
+784
+00:26:14,940 --> 00:26:16,398
+plan if it offers them,
+
+785
+00:26:16,398 --> 00:26:18,490
+or set a yearly reminder to raise
+
+786
+00:26:18,490 --> 00:26:21,089
+your contributions by one percent of your
+
+787
+00:26:21,089 --> 00:26:21,533
+income.
+
+788
+00:26:21,883 --> 00:26:24,345
+Why are these mistakes so common now?
+
+789
+00:26:24,525 --> 00:26:26,559
+Part of the reason is that investing
+
+790
+00:26:26,559 --> 00:26:28,480
+apps have made trading feel like a
+
+791
+00:26:28,480 --> 00:26:28,762
+game.
+
+792
+00:26:28,942 --> 00:26:33,017
+Colorful animations, constant notifications and one tap
+
+793
+00:26:33,017 --> 00:26:35,165
+trades make it easy to act on
+
+794
+00:26:35,165 --> 00:26:35,758
+impulse.
+
+795
+00:26:35,938 --> 00:26:38,724
+Regulators have raised concerns about these game
+
+796
+00:26:38,724 --> 00:26:41,046
+like features and how they can encourage
+
+797
+00:26:41,046 --> 00:26:42,033
+frequent trading.
+
+798
+00:26:42,382 --> 00:26:45,215
+Another reason is the flood of information.
+
+799
+00:26:45,395 --> 00:26:48,758
+Videos, posts, chat groups and online tools
+
+800
+00:26:48,758 --> 00:26:50,243
+all offer opinions,
+
+801
+00:26:50,243 --> 00:26:51,885
+predictions and tips.
+
+802
+00:26:52,065 --> 00:26:55,920
+More information doesn't automatically mean better decisions.
+
+803
+00:26:56,100 --> 00:26:57,802
+Often it means more noise,
+
+804
+00:26:57,802 --> 00:27:00,094
+more temptation and more confusion.
+
+805
+00:27:00,443 --> 00:27:02,557
+And scammers have new tools too.
+
+806
+00:27:02,737 --> 00:27:04,462
+Fake investment platforms,
+
+807
+00:27:04,462 --> 00:27:07,515
+impersonations of well known investors and too
+
+808
+00:27:07,515 --> 00:27:09,772
+good to be true offers are common.
+
+809
+00:27:09,952 --> 00:27:12,309
+The basic rules still protect you.
+
+810
+00:27:12,489 --> 00:27:14,824
+Never send money to someone you only
+
+811
+00:27:14,824 --> 00:27:18,197
+know online, verify every platform and professional,
+
+812
+00:27:18,197 --> 00:27:20,662
+and walk away from guaranteed returns.
+
+813
+00:27:21,012 --> 00:27:23,319
+Let's turn all twenty mistakes into a
+
+814
+00:27:23,319 --> 00:27:24,379
+simple checklist.
+
+815
+00:27:24,559 --> 00:27:26,135
+If you can tick these boxes,
+
+816
+00:27:26,135 --> 00:27:27,880
+you're ahead of most beginners.
+
+817
+00:27:28,229 --> 00:27:28,973
+Box one.
+
+818
+00:27:29,153 --> 00:27:31,117
+I have a starter emergency fund,
+
+819
+00:27:31,117 --> 00:27:33,328
+and I'm building toward three to six
+
+820
+00:27:33,328 --> 00:27:35,108
+months of essential expenses.
+
+821
+00:27:35,288 --> 00:27:36,194
+Box two.
+
+822
+00:27:36,374 --> 00:27:38,175
+I have no credit card debt,
+
+823
+00:27:38,175 --> 00:27:39,842
+or I have a clear plan to
+
+824
+00:27:39,842 --> 00:27:40,575
+pay it off,
+
+825
+00:27:40,575 --> 00:27:41,842
+highest rate first.
+
+826
+00:27:42,022 --> 00:27:44,775
+These two boxes protect everything else you
+
+827
+00:27:44,775 --> 00:27:47,144
+build, because they stop a single bad
+
+828
+00:27:47,144 --> 00:27:49,257
+month from forcing you to sell or
+
+829
+00:27:49,257 --> 00:27:50,858
+borrow at the worst time.
+
+830
+00:27:51,207 --> 00:27:52,206
+Box three.
+
+831
+00:27:52,386 --> 00:27:54,236
+I contribute at least enough to get
+
+832
+00:27:54,236 --> 00:27:55,451
+my full employer match.
+
+833
+00:27:55,631 --> 00:27:56,455
+Box four.
+
+834
+00:27:56,635 --> 00:27:58,755
+I use tax advantaged accounts,
+
+835
+00:27:58,755 --> 00:28:00,380
+like a four oh one k or
+
+836
+00:28:00,380 --> 00:28:03,207
+an IRA, before a regular taxable account
+
+837
+00:28:03,207 --> 00:28:04,832
+where that makes sense.
+
+838
+00:28:05,012 --> 00:28:07,108
+These two boxes are the closest thing
+
+839
+00:28:07,108 --> 00:28:08,694
+investing has to free money,
+
+840
+00:28:08,694 --> 00:28:10,449
+and skipping them is one of the
+
+841
+00:28:10,449 --> 00:28:12,942
+most common and expensive beginner mistakes.
+
+842
+00:28:13,291 --> 00:28:14,093
+Box five.
+
+843
+00:28:14,273 --> 00:28:15,897
+My money is in broad,
+
+844
+00:28:15,897 --> 00:28:17,057
+low cost funds,
+
+845
+00:28:17,057 --> 00:28:19,455
+and I know the expense ratio of
+
+846
+00:28:19,455 --> 00:28:20,228
+every one.
+
+847
+00:28:20,408 --> 00:28:21,477
+Box six.
+
+848
+00:28:21,657 --> 00:28:23,378
+I own two to four funds,
+
+849
+00:28:23,378 --> 00:28:25,458
+or a single target date fund,
+
+850
+00:28:25,458 --> 00:28:28,112
+and I understand what each one holds.
+
+851
+00:28:28,292 --> 00:28:30,939
+Simple and cheap is not a compromise.
+
+852
+00:28:31,119 --> 00:28:32,197
+For most people,
+
+853
+00:28:32,197 --> 00:28:34,759
+it's the strategy that works best over
+
+854
+00:28:34,759 --> 00:28:35,298
+decades.
+
+855
+00:28:35,648 --> 00:28:36,473
+Box seven.
+
+856
+00:28:36,653 --> 00:28:38,554
+My contributions are automatic,
+
+857
+00:28:38,554 --> 00:28:40,333
+and they increase every year.
+
+858
+00:28:40,513 --> 00:28:41,361
+Box eight.
+
+859
+00:28:41,541 --> 00:28:43,623
+I have a one page written plan,
+
+860
+00:28:43,623 --> 00:28:45,906
+including what I'll do in a crash.
+
+861
+00:28:46,086 --> 00:28:46,934
+Box nine.
+
+862
+00:28:47,114 --> 00:28:49,490
+I review my portfolio once or twice
+
+863
+00:28:49,490 --> 00:28:51,595
+a year and rebalance if needed.
+
+864
+00:28:51,775 --> 00:28:52,530
+Box ten.
+
+865
+00:28:52,710 --> 00:28:54,714
+My beneficiaries are up to date,
+
+866
+00:28:54,714 --> 00:28:56,843
+and I know where every account is.
+
+867
+00:28:57,192 --> 00:28:58,156
+Ten boxes.
+
+868
+00:28:58,336 --> 00:29:01,224
+None of them require predicting the market,
+
+869
+00:29:01,224 --> 00:29:03,642
+picking stocks or watching the news.
+
+870
+00:29:03,822 --> 00:29:05,888
+That's the secret most beginners miss.
+
+871
+00:29:06,068 --> 00:29:09,064
+Successful investing is mostly about building a
+
+872
+00:29:09,064 --> 00:29:11,423
+good system and then leaving it alone
+
+873
+00:29:11,423 --> 00:29:12,698
+long enough to work.
+
+874
+00:29:13,047 --> 00:29:14,212
+In your twenties,
+
+875
+00:29:14,212 --> 00:29:17,020
+the biggest mistakes are usually waiting,
+
+876
+00:29:17,020 --> 00:29:19,828
+chasing hype and carrying expensive debt.
+
+877
+00:29:20,008 --> 00:29:21,826
+Your greatest asset is time,
+
+878
+00:29:21,826 --> 00:29:23,644
+so the best move is to start
+
+879
+00:29:23,644 --> 00:29:26,566
+small, automate and avoid gambling with money
+
+880
+00:29:26,566 --> 00:29:27,345
+you'll need.
+
+881
+00:29:27,525 --> 00:29:30,715
+Even modest amounts invested now have decades
+
+882
+00:29:30,715 --> 00:29:31,565
+to compound.
+
+883
+00:29:31,915 --> 00:29:33,805
+In your thirties and forties,
+
+884
+00:29:33,805 --> 00:29:35,108
+the big risks shift.
+
+885
+00:29:35,288 --> 00:29:38,956
+Lifestyle creep, skipping increases as income rises,
+
+886
+00:29:38,956 --> 00:29:41,848
+too much employer stock and forgotten old
+
+887
+00:29:41,848 --> 00:29:43,682
+accounts from job changes.
+
+888
+00:29:43,862 --> 00:29:46,461
+This is the stage to raise contributions,
+
+889
+00:29:46,461 --> 00:29:49,568
+consolidate accounts and protect your family with
+
+890
+00:29:49,568 --> 00:29:51,850
+insurance and updated beneficiaries.
+
+891
+00:29:52,199 --> 00:29:53,978
+In your fifties and beyond,
+
+892
+00:29:53,978 --> 00:29:56,680
+the biggest mistakes are often taking too
+
+893
+00:29:56,680 --> 00:29:58,920
+much risk too close to needing the
+
+894
+00:29:58,920 --> 00:30:02,083
+money, or panicking and selling everything after
+
+895
+00:30:02,083 --> 00:30:02,544
+a drop.
+
+896
+00:30:02,724 --> 00:30:04,684
+A thoughtful mix of stocks,
+
+897
+00:30:04,684 --> 00:30:05,773
+bonds and cash,
+
+898
+00:30:05,773 --> 00:30:08,677
+plus catch up contributions after fifty,
+
+899
+00:30:08,677 --> 00:30:09,330
+can help.
+
+900
+00:30:09,510 --> 00:30:11,774
+Check current limits with the IRS.
+
+901
+00:30:12,123 --> 00:30:15,033
+Imagine two beginners who both start investing
+
+902
+00:30:15,033 --> 00:30:16,930
+three hundred dollars a month.
+
+903
+00:30:17,110 --> 00:30:19,769
+The first one downloads a trading app,
+
+904
+00:30:19,769 --> 00:30:21,588
+buys whatever is trending,
+
+905
+00:30:21,588 --> 00:30:24,736
+checks constantly, sells during the first big
+
+906
+00:30:24,736 --> 00:30:27,185
+drop and jumps back in after prices
+
+907
+00:30:27,185 --> 00:30:27,745
+recover.
+
+908
+00:30:27,925 --> 00:30:29,003
+After a few years,
+
+909
+00:30:29,003 --> 00:30:30,621
+they've paid more in taxes,
+
+910
+00:30:30,621 --> 00:30:33,137
+missed the rebound and feel that investing
+
+911
+00:30:33,137 --> 00:30:33,915
+doesn't work.
+
+912
+00:30:34,265 --> 00:30:37,197
+The second one opens a retirement account,
+
+913
+00:30:37,197 --> 00:30:39,222
+gets the full employer match,
+
+914
+00:30:39,222 --> 00:30:41,735
+picks one low cost target date fund,
+
+915
+00:30:41,735 --> 00:30:45,086
+automates contributions and checks twice a year.
+
+916
+00:30:45,266 --> 00:30:46,784
+During the same drop,
+
+917
+00:30:46,784 --> 00:30:48,229
+they keep investing,
+
+918
+00:30:48,229 --> 00:30:50,398
+buying shares at lower prices.
+
+919
+00:30:50,578 --> 00:30:51,874
+Their plan is boring,
+
+920
+00:30:51,874 --> 00:30:52,923
+and it's working.
+
+921
+00:30:53,272 --> 00:30:54,306
+Same income.
+
+922
+00:30:54,486 --> 00:30:55,298
+Same market.
+
+923
+00:30:55,478 --> 00:30:56,790
+Same starting amount.
+
+924
+00:30:56,970 --> 00:30:59,269
+The difference wasn't intelligence or luck.
+
+925
+00:30:59,449 --> 00:31:01,717
+It was avoiding a handful of basic
+
+926
+00:31:01,717 --> 00:31:02,317
+mistakes.
+
+927
+00:31:02,497 --> 00:31:05,005
+That's the real secret of beginner investing.
+
+928
+00:31:05,354 --> 00:31:06,121
+Question one.
+
+929
+00:31:06,301 --> 00:31:08,286
+What's the single biggest mistake?
+
+930
+00:31:08,466 --> 00:31:09,530
+For most people,
+
+931
+00:31:09,530 --> 00:31:10,726
+it's not starting,
+
+932
+00:31:10,726 --> 00:31:11,856
+or starting late.
+
+933
+00:31:12,036 --> 00:31:14,156
+Time in the market is the ingredient
+
+934
+00:31:14,156 --> 00:31:15,275
+you can't buy back.
+
+935
+00:31:15,455 --> 00:31:17,673
+Many other mistakes can be fixed later.
+
+936
+00:31:17,853 --> 00:31:18,979
+Lost years can't.
+
+937
+00:31:19,328 --> 00:31:20,176
+Question two.
+
+938
+00:31:20,356 --> 00:31:22,469
+I've already made some of these mistakes.
+
+939
+00:31:22,649 --> 00:31:23,659
+Is it too late?
+
+940
+00:31:23,839 --> 00:31:24,361
+Not at all.
+
+941
+00:31:24,541 --> 00:31:27,045
+Almost every investor has made some of
+
+942
+00:31:27,045 --> 00:31:27,374
+them.
+
+943
+00:31:27,554 --> 00:31:29,271
+The best time to fix them is
+
+944
+00:31:29,271 --> 00:31:29,516
+now.
+
+945
+00:31:29,696 --> 00:31:31,341
+Simplify, cut fees,
+
+946
+00:31:31,341 --> 00:31:33,504
+automate, and keep going.
+
+947
+00:31:33,854 --> 00:31:34,911
+Question three.
+
+948
+00:31:35,091 --> 00:31:36,960
+Do I need a financial advisor?
+
+949
+00:31:37,140 --> 00:31:38,417
+Not necessarily.
+
+950
+00:31:38,597 --> 00:31:40,901
+Many people do well with a simple,
+
+951
+00:31:40,901 --> 00:31:42,730
+low cost plan on their own.
+
+952
+00:31:42,910 --> 00:31:43,973
+If you want help,
+
+953
+00:31:43,973 --> 00:31:45,848
+look for a fee only fiduciary,
+
+954
+00:31:45,848 --> 00:31:47,973
+who's required to act in your best
+
+955
+00:31:47,973 --> 00:31:51,223
+interest, and understand exactly what you're paying.
+
+956
+00:31:51,573 --> 00:31:52,398
+Question four.
+
+957
+00:31:52,578 --> 00:31:54,369
+Should I invest a lump sum all
+
+958
+00:31:54,369 --> 00:31:55,921
+at once, or spread it out?
+
+959
+00:31:56,101 --> 00:31:58,771
+Historically, investing a lump sum right away
+
+960
+00:31:58,771 --> 00:32:00,254
+has often come out ahead,
+
+961
+00:32:00,254 --> 00:32:02,746
+because markets have risen more often than
+
+962
+00:32:02,746 --> 00:32:03,636
+they've fallen.
+
+963
+00:32:03,816 --> 00:32:06,109
+But spreading it over several months can
+
+964
+00:32:06,109 --> 00:32:07,485
+feel easier emotionally.
+
+965
+00:32:07,665 --> 00:32:10,070
+Either is far better than leaving money
+
+966
+00:32:10,070 --> 00:32:12,414
+uninvested for years while you decide.
+
+967
+00:32:12,763 --> 00:32:13,715
+Question five.
+
+968
+00:32:13,895 --> 00:32:15,456
+How much should I have in stocks
+
+969
+00:32:15,456 --> 00:32:16,090
+versus bonds?
+
+970
+00:32:16,270 --> 00:32:18,330
+It depends on your timeline and how
+
+971
+00:32:18,330 --> 00:32:19,625
+well you handle drops.
+
+972
+00:32:19,805 --> 00:32:21,988
+A common starting point is to hold
+
+973
+00:32:21,988 --> 00:32:24,363
+more stocks when your goal is decades
+
+974
+00:32:24,363 --> 00:32:26,546
+away and gradually add bonds as it
+
+975
+00:32:26,546 --> 00:32:27,317
+gets closer.
+
+976
+00:32:27,497 --> 00:32:29,078
+Target date funds do this for you
+
+977
+00:32:29,078 --> 00:32:29,749
+automatically.
+
+978
+00:32:30,098 --> 00:32:31,306
+Question six.
+
+979
+00:32:31,486 --> 00:32:33,070
+Is it okay to invest if I
+
+980
+00:32:33,070 --> 00:32:35,097
+don't understand everything yet?
+
+981
+00:32:35,277 --> 00:32:35,671
+Yes.
+
+982
+00:32:35,851 --> 00:32:38,613
+You don't need to understand every detail
+
+983
+00:32:38,613 --> 00:32:40,163
+to start with a simple,
+
+984
+00:32:40,163 --> 00:32:41,981
+diversified, low cost fund.
+
+985
+00:32:42,161 --> 00:32:44,046
+You can keep learning while your money
+
+986
+00:32:44,046 --> 00:32:44,344
+works.
+
+987
+00:32:44,524 --> 00:32:47,706
+Just avoid anything complex you can't explain
+
+988
+00:32:47,706 --> 00:32:49,191
+in a sentence or two.
+
+989
+00:32:49,541 --> 00:32:50,366
+Quick recap.
+
+990
+00:32:50,546 --> 00:32:52,299
+Angle one, the numbers.
+
+991
+00:32:52,479 --> 00:32:55,337
+Waiting, fees, skipping the match,
+
+992
+00:32:55,337 --> 00:32:58,196
+expensive debt, no emergency fund,
+
+993
+00:32:58,196 --> 00:33:01,895
+expecting smooth returns and ignoring taxes.
+
+994
+00:33:02,244 --> 00:33:04,462
+Angle two, the psychology.
+
+995
+00:33:04,642 --> 00:33:07,037
+Panic selling, chasing winners,
+
+996
+00:33:07,037 --> 00:33:10,205
+hype, overconfidence, checking too often,
+
+997
+00:33:10,205 --> 00:33:12,910
+social media advice and too much in
+
+998
+00:33:12,910 --> 00:33:13,837
+one company.
+
+999
+00:33:14,187 --> 00:33:15,894
+Angle three, the playbook.
+
+1000
+00:33:16,074 --> 00:33:18,103
+No plan, too much complexity,
+
+1001
+00:33:18,103 --> 00:33:19,432
+leverage too early,
+
+1002
+00:33:19,432 --> 00:33:23,489
+never rebalancing, forgotten accounts and never increasing
+
+1003
+00:33:23,489 --> 00:33:24,468
+contributions.
+
+1004
+00:33:24,818 --> 00:33:26,666
+You don't need to be brilliant to
+
+1005
+00:33:26,666 --> 00:33:27,338
+invest well.
+
+1006
+00:33:27,518 --> 00:33:29,465
+You just need to avoid the big
+
+1007
+00:33:29,465 --> 00:33:31,802
+mistakes, keep it simple and give it
+
+1008
+00:33:31,802 --> 00:33:32,127
+time.
+
+1009
+00:33:32,307 --> 00:33:33,871
+If you want my full step by
+
+1010
+00:33:33,871 --> 00:33:35,666
+step plan, it's in my playbook,
+
+1011
+00:33:35,666 --> 00:33:37,172
+linked in the description.
+
+1012
+00:33:37,352 --> 00:33:38,637
+Tell me in the comments,
+
+1013
+00:33:38,637 --> 00:33:40,672
+which of these mistakes have you made?
+
+1014
+00:33:40,852 --> 00:33:42,118
+I'm Ryan Rover.
+
+1015
+00:33:42,298 --> 00:33:43,505
+See you in the next one.
