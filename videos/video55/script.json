@@ -1,0 +1,938 @@
+{
+ "id": "video55",
+ "angle": "your 30s money plan: numbers, psychology, playbook",
+ "length_scale": 1.25,
+ "title": "Your 30s Money Plan: Catching Up Without Panic",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. If you're in your thirties and you feel behind with money, I want you to hear this first. You are not too late. Not even close. Your thirties might be the most important catch up decade you'll ever have. And today, I'll show you how to catch up without panic, without extreme frugality, and without gambling on risky bets.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro"
+  },
+  {
+   "text": "Feeling behind in your thirties is incredibly common. Many people spent their twenties paying off student loans, changing careers, moving cities, or simply figuring out life. Then they turn thirty, or thirty five, look at their bank account, and feel a wave of panic. Everyone else seems further ahead.",
+   "query": "Thirty something looking worried at laptop",
+   "caption": "FEELING BEHIND",
+   "cuts": 8,
+   "short_hook": "Behind on money in your 30s? You're not too late."
+  },
+  {
+   "text": "But here's the truth. Someone who starts investing seriously at thirty five still has around thirty years before a traditional retirement age. Thirty years is a long time for compounding to work. And most people earn more in their thirties than in their twenties, which means they can save faster.",
+   "query": "Long road ahead",
+   "caption": "30 YEARS IS A LONG TIME",
+   "cuts": 5
+  },
+  {
+   "text": "We'll look at this from three angles. First, the numbers: what catching up from your thirties actually looks like. Second, the psychology: why panic leads to bad decisions, and what to do instead. And third, the playbook: fifteen moves for your thirties, including how to handle kids, a home and a partner's finances.",
+   "query": "Three paths map",
+   "caption": "THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Stay for the catch up table near the end. It shows exactly how much to save each month, depending on when you start. Let's start with the numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Growth examples use stated math at a seven percent average yearly return, which is an illustration, not a promise. Savings guidelines by age come from Fidelity. Household finance data comes from the Federal Reserve's Survey of Consumer Finances. Childcare and family cost data come from the U.S. Department of Labor and other public sources. Retirement account rules come from the IRS. This is education, not financial advice.",
+   "query": "Federal Reserve building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. What does catching up from your thirties really look like?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The Numbers"
+  },
+  {
+   "text": "Let's start from zero. Say you're thirty five with nothing invested. If you invest five hundred dollars a month until sixty five, at a seven percent average yearly return, it could grow to roughly six hundred ten thousand dollars. You'd have contributed one hundred eighty thousand dollars. Compounding does the rest.",
+   "query": "Growth chart from zero",
+   "caption": "$500 A MONTH FROM 35",
+   "cuts": 3
+  },
+  {
+   "text": "Five hundred dollars a month, invested at seven percent a year from age thirty five to sixty five.",
+   "card": {
+    "type": "growth",
+    "monthly": 500,
+    "rate": 0.07,
+    "years": 30
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Now raise that to seven hundred fifty dollars a month. Over the same thirty years, it could grow to about nine hundred fifteen thousand dollars. And at one thousand dollars a month, about one point two million dollars. From a standing start at thirty five.",
+   "query": "Stacks of coins growing",
+   "caption": "$1,000 A MONTH = ~$1.2M",
+   "cuts": 3
+  },
+  {
+   "text": "Starting at thirty five with nothing saved, investing for thirty years at seven percent a year.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "$500 a month",
+     "big": "~$610K",
+     "sub": "from age 35 to 65"
+    },
+    "right": {
+     "label": "$1,000 a month",
+     "big": "~$1.22M",
+     "sub": "from age 35 to 65"
+    },
+    "note": "Illustration. Returns are not guaranteed."
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "And most people in their thirties aren't starting from zero. Say you have twenty thousand dollars in an old 401k from a previous job. Left alone for thirty years at seven percent, that alone could grow to about one hundred sixty thousand dollars. Add five hundred a month, and the total could reach roughly seven hundred seventy thousand.",
+   "query": "Old 401k statement",
+   "caption": "$20K + $500 A MONTH = ~$770K",
+   "cuts": 3
+  },
+  {
+   "text": "What about a five year delay? If you wait until forty and then invest five hundred a month for twenty five years, the total could be about four hundred five thousand dollars. That five year delay costs around two hundred thousand dollars. To make it up, you'd need to invest closer to seven hundred fifty a month from forty.",
+   "query": "Calendar pages flipping",
+   "caption": "WAITING 5 YEARS COSTS ~$200K",
+   "cuts": 3
+  },
+  {
+   "text": "So the math in your thirties is clear. Starting now matters more than starting perfectly. And the amount you save each month matters a lot, because you have less time than a twenty two year old. That's why the playbook focuses heavily on raising your savings rate.",
+   "query": "Calculator and plan",
+   "caption": "NOW BEATS PERFECT",
+   "cuts": 3
+  },
+  {
+   "text": "Where do people in their thirties actually stand? According to the Federal Reserve's Survey of Consumer Finances, median net worth for families headed by someone under thirty five was about thirty nine thousand dollars in 2022, and for ages thirty five to forty four, about one hundred thirty five thousand. Medians hide huge variation, but they show that many people are still building in this decade.",
+   "query": "Survey data chart",
+   "caption": "WHERE PEOPLE STAND",
+   "cuts": 3
+  },
+  {
+   "text": "Fidelity suggests a rough guideline of having about one times your salary saved for retirement by thirty, and about three times by forty. If you're below that, you're in good company. These are targets to aim for, not grades on your life.",
+   "query": "Milestone markers",
+   "caption": "1X BY 30, 3X BY 40",
+   "cuts": 3
+  },
+  {
+   "text": "Now, the cost side. The thirties are often the most expensive decade. The Department of Labor's national childcare price data shows full time childcare can cost many thousands of dollars per child per year, in some areas more than rent. Add a mortgage, a larger car and family health insurance, and it's easy to see why saving feels so hard.",
+   "query": "Family with young children",
+   "caption": "THE EXPENSIVE DECADE",
+   "cuts": 3
+  },
+  {
+   "text": "So the numbers are encouraging, but the decade is expensive. That's exactly why psychology matters so much. Angle two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Why panic is the enemy, and five mindset shifts for your thirties.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The Psychology"
+  },
+  {
+   "text": "When people feel behind, they often panic. And panic leads to three expensive mistakes. The first is freezing: feeling so overwhelmed that you do nothing. The second is gambling: trying to catch up fast with risky bets, hot stocks, or schemes that promise quick returns. The third is extreme restriction: a budget so strict it collapses after a few weeks.",
+   "query": "Panicked person with charts",
+   "caption": "THREE PANIC MISTAKES",
+   "cuts": 3,
+   "short_hook": "Why panic is the most expensive feeling in your 30s"
+  },
+  {
+   "text": "Shift one. From behind, to on my own timeline. Comparison is especially intense in your thirties. Friends buy houses, get promotions, post vacations. But you don't know their debt, their family help, or their stress. The only comparison that helps is you versus you a year ago.",
+   "query": "Person running own race",
+   "caption": "SHIFT 1: YOUR TIMELINE",
+   "cuts": 3
+  },
+  {
+   "text": "Shift two. From guilt, to data. Many people avoid looking at their accounts because they feel ashamed. But shame doesn't build wealth. Looking at your numbers without judgment, like a doctor reading test results, turns a scary feeling into a plan.",
+   "query": "Doctor reading chart calmly",
+   "caption": "SHIFT 2: GUILT TO DATA",
+   "cuts": 3
+  },
+  {
+   "text": "Shift three. From fast, to steady and strong. Catching up doesn't require high risk. It requires a higher savings rate and consistency. A boring plan that you follow for twenty five years will usually beat an exciting one you abandon after a bad year.",
+   "query": "Strong steady bridge",
+   "caption": "SHIFT 3: STEADY",
+   "cuts": 3
+  },
+  {
+   "text": "Shift four. From either or, to both. In your thirties, money questions often feel like either or. Kids or retirement. House or investing. Fun or saving. But most of the time, the answer is a balance. A good plan funds several goals at once, in the right proportions.",
+   "query": "Balanced scale",
+   "caption": "SHIFT 4: BOTH",
+   "cuts": 3
+  },
+  {
+   "text": "And shift five. From someday, to systems. Busy lives in your thirties make willpower unreliable. Systems, like automatic contributions, automatic increases and automatic bill pay, keep working when you're tired, busy or distracted. Set them up once, and let them carry you.",
+   "query": "Automated system gears",
+   "caption": "SHIFT 5: SYSTEMS",
+   "cuts": 3
+  },
+  {
+   "text": "Here's what people often forget. Your thirties come with real advantages over your twenties. You usually earn more. You know yourself better, including your spending triggers. You may have a partner to share costs and goals with. And you've seen enough market ups and downs to stay calmer when the next drop comes.",
+   "query": "Confident thirty something",
+   "caption": "REAL ADVANTAGES",
+   "cuts": 3,
+   "chapter": "The hidden advantages of your thirties"
+  },
+  {
+   "text": "You also have more information about what you actually value. In your twenties, people often spend on things they think they should want. In your thirties, many people find it easier to cut the things they don't care about, and spend more on what truly matters. That kind of clarity makes saving much easier.",
+   "query": "Person choosing what matters",
+   "caption": "CLARITY ABOUT VALUES",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three. The playbook. Fifteen moves for your thirties, in a sensible order.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The Playbook"
+  },
+  {
+   "text": "Move one. Get your full picture.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Get your full picture",
+    "sub": "one honest hour"
+   },
+   "caption": "MOVE 1",
+   "cuts": 1,
+   "chapter": "1. Get your full picture",
+   "short_hook": "15 money moves to catch up in your 30s"
+  },
+  {
+   "text": "Gather every account in one place: checking, savings, retirement accounts from old jobs, debts, and their interest rates. Write down your net worth: what you own minus what you owe. It might be negative. That's okay. It's your starting line.",
+   "query": "Spreadsheet net worth",
+   "caption": "ONE HONEST HOUR",
+   "cuts": 3
+  },
+  {
+   "text": "Many people in their thirties discover old 401k accounts they'd half forgotten. Consolidating them into one IRA or your current plan can make your money easier to manage and help you see the whole picture clearly.",
+   "query": "Old 401k statements",
+   "caption": "FIND THE OLD ACCOUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Move two. Build a real emergency fund.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Build a real emergency fund",
+    "sub": "three to six months"
+   },
+   "caption": "MOVE 2",
+   "cuts": 1,
+   "chapter": "2. Build a real emergency fund"
+  },
+  {
+   "text": "With more responsibilities, your emergency fund matters more than ever. Aim for three to six months of essential expenses in a high yield savings account. If you have kids, a mortgage or a single income, lean toward six.",
+   "query": "Emergency fund jar",
+   "caption": "3 TO 6 MONTHS",
+   "cuts": 3
+  },
+  {
+   "text": "Build it in stages. First one month, then three, then six. Keep contributing at least enough to get your employer match while you build it, so you don't miss free money.",
+   "query": "Stages progress",
+   "caption": "BUILD IN STAGES",
+   "cuts": 3
+  },
+  {
+   "text": "Move three. Clear high interest debt.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Clear high interest debt",
+    "sub": "the catch up accelerator"
+   },
+   "caption": "MOVE 3",
+   "cuts": 1,
+   "chapter": "3. Clear high interest debt"
+  },
+  {
+   "text": "Credit card debt at twenty percent or more makes catching up almost impossible. List your debts by rate, pay minimums on all, and attack the highest rate first. Every card you clear frees up money you can invest.",
+   "query": "Credit card debt payoff",
+   "caption": "HIGHEST RATE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "If your credit is good, a balance transfer card or a lower rate personal loan can help, but only if you stop adding new debt. Read the fees and the promotional period carefully.",
+   "query": "Balance transfer offer",
+   "caption": "USE TOOLS CAREFULLY",
+   "cuts": 3
+  },
+  {
+   "text": "Move four. Raise your savings rate to fifteen percent or more.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Raise your savings rate to 15% or more",
+    "sub": "the main catch up lever"
+   },
+   "caption": "MOVE 4",
+   "cuts": 1,
+   "chapter": "4. Raise your savings rate to 15% or more"
+  },
+  {
+   "text": "If you're starting in your thirties, a common recommendation is to save fifteen percent or more of your gross income for retirement, including any match. If you're well behind, twenty percent can make a big difference over thirty years.",
+   "query": "Percentage rising",
+   "caption": "15 TO 20 PERCENT",
+   "cuts": 3
+  },
+  {
+   "text": "If you can't get there right away, increase by one or two percent every six months. Many workplace plans let you set automatic increases. In two or three years, you can reach your target without ever feeling a sudden drop in your take home pay.",
+   "query": "Automatic increase setting",
+   "caption": "ONE PERCENT AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Move five. Use tax advantaged accounts fully.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Use tax advantaged accounts fully",
+    "sub": "keep more of the growth"
+   },
+   "caption": "MOVE 5",
+   "cuts": 1,
+   "chapter": "5. Use tax advantaged accounts fully"
+  },
+  {
+   "text": "Use your workplace plan, an IRA, and a health savings account if you have a qualifying high deductible health plan. The IRS sets yearly limits for each. Using them fully can lower your taxes and help your money grow faster.",
+   "query": "Tax advantaged accounts",
+   "caption": "401K, IRA, HSA",
+   "cuts": 3
+  },
+  {
+   "text": "Roth or traditional? In general, traditional contributions lower your taxes now, and Roth contributions can make future withdrawals tax free. Many people use a mix. A tax professional can help you decide based on your current and expected tax rates.",
+   "query": "Roth versus traditional chart",
+   "caption": "A MIX CAN WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Move six. Grow your income.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Grow your income",
+    "sub": "your thirties are prime earning years"
+   },
+   "caption": "MOVE 6",
+   "cuts": 1,
+   "chapter": "6. Grow your income"
+  },
+  {
+   "text": "Your thirties are often when income can rise fastest. Ask for raises with evidence, pursue promotions, build specialized skills, and consider changing employers if your pay has stalled. A ten thousand dollar raise, saved in part, can transform your catch up plan.",
+   "query": "Promotion handshake",
+   "caption": "PRIME EARNING YEARS",
+   "cuts": 3
+  },
+  {
+   "text": "And use the raise rule. Send at least half of every raise straight to savings and investing. Your life still gets better, but your savings rate climbs every year.",
+   "query": "Split raise jar",
+   "caption": "HALF OF EVERY RAISE",
+   "cuts": 3
+  },
+  {
+   "text": "Move seven. Control the big three.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Control the big three",
+    "sub": "housing, cars, food"
+   },
+   "caption": "MOVE 7",
+   "cuts": 1,
+   "chapter": "7. Control the big three"
+  },
+  {
+   "text": "Housing, transportation and food usually make up most of a household budget. In your thirties, the risk is upgrading all three at once: a bigger house, a second new car, more eating out. Each one feels reasonable. Together they can block your catch up plan.",
+   "query": "Big house two new cars",
+   "caption": "THE UPGRADE TRAP",
+   "cuts": 3
+  },
+  {
+   "text": "Make one big decision well rather than a hundred small ones. Buy a home you can comfortably afford, not the maximum the bank approves. Drive cars for longer. Plan meals. These choices can free up hundreds of dollars a month.",
+   "query": "Modest home and older car",
+   "caption": "ONE BIG DECISION WELL",
+   "cuts": 3
+  },
+  {
+   "text": "Move eight. Buy a home only when you're ready.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Buy a home only when ready",
+    "sub": "not when pressured"
+   },
+   "caption": "MOVE 8",
+   "cuts": 1,
+   "chapter": "8. Buy a home only when ready"
+  },
+  {
+   "text": "Many people feel pressure to buy in their thirties. But buying before you're ready can drain your emergency fund and stall your investing. Signs you may be ready: stable income, an emergency fund that stays intact after the down payment, good credit, and plans to stay for many years.",
+   "query": "House keys handoff",
+   "caption": "READY, NOT PRESSURED",
+   "cuts": 3
+  },
+  {
+   "text": "Remember the full cost of owning: property taxes, insurance, maintenance, and repairs. A common guideline is to budget around one to two percent of the home's value per year for maintenance. Renting while you invest is a perfectly good choice too.",
+   "query": "Home repair tools",
+   "caption": "THE FULL COST OF OWNING",
+   "cuts": 3
+  },
+  {
+   "text": "Move nine. Protect your family.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Protect your family",
+    "sub": "insurance and paperwork"
+   },
+   "caption": "MOVE 9",
+   "cuts": 1,
+   "chapter": "9. Protect your family"
+  },
+  {
+   "text": "If anyone depends on your income, consider term life insurance. For many healthy people in their thirties, term life coverage can be relatively affordable. Disability insurance matters too, because your ability to earn is likely your largest asset.",
+   "query": "Family insurance documents",
+   "caption": "LIFE AND DISABILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Write a will, especially if you have children, and name guardians. Update beneficiaries on every account. These steps take a few hours and can prevent enormous stress for the people you love.",
+   "query": "Signing will",
+   "caption": "A WILL AND BENEFICIARIES",
+   "cuts": 3
+  },
+  {
+   "text": "Move ten. Put retirement before college savings.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Put retirement before college",
+    "sub": "the oxygen mask rule"
+   },
+   "caption": "MOVE 10",
+   "cuts": 1,
+   "chapter": "10. Put retirement before college"
+  },
+  {
+   "text": "If you have kids, it's natural to want to save for their college first. But many planners suggest putting your retirement first, like putting on your own oxygen mask before helping others. Your kids can borrow for college, apply for aid and scholarships. You can't borrow for retirement.",
+   "query": "Parent and child airplane mask",
+   "caption": "OXYGEN MASK RULE",
+   "cuts": 3
+  },
+  {
+   "text": "Once your retirement savings are on track, a 529 plan can be a tax advantaged way to save for education. Even small monthly amounts add up over eighteen years.",
+   "query": "529 plan document",
+   "caption": "THEN A 529",
+   "cuts": 3
+  },
+  {
+   "text": "Move eleven. Get on the same page with your partner.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Get on the same page with your partner",
+    "sub": "one plan, two people"
+   },
+   "caption": "MOVE 11",
+   "cuts": 1,
+   "chapter": "11. Get on the same page with your partner"
+  },
+  {
+   "text": "If you share your life with someone, share your money plan too. Talk about goals, debts, spending styles and what retirement looks like. Many couples find a monthly money date, just thirty minutes, keeps them aligned.",
+   "query": "Couple money date",
+   "caption": "ONE PLAN, TWO PEOPLE",
+   "cuts": 3
+  },
+  {
+   "text": "Decide how you'll handle accounts: joint, separate, or a mix. There's no single right answer. What matters is that both people understand the plan and feel respected in it.",
+   "query": "Joint and separate accounts",
+   "caption": "JOINT, SEPARATE OR BOTH",
+   "cuts": 3
+  },
+  {
+   "text": "Move twelve. Invest simply and stay invested.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Invest simply and stay invested",
+    "sub": "no catch up gambling"
+   },
+   "caption": "MOVE 12",
+   "cuts": 1,
+   "chapter": "12. Invest simply and stay invested"
+  },
+  {
+   "text": "Broad, low cost index funds or target date funds work well for most people catching up. Avoid trying to time the market or chase last year's winners. And keep fees low, because a one percent fee difference can cost a large share of your gains over decades.",
+   "query": "Index fund simple portfolio",
+   "caption": "SIMPLE AND LOW COST",
+   "cuts": 3
+  },
+  {
+   "text": "When the market drops, and it will, keep contributing. For someone with decades to go, falling prices mean buying more shares for the same money. Write that rule down now, before the next drop.",
+   "query": "Market dip and buying",
+   "caption": "KEEP BUYING IN DROPS",
+   "cuts": 3
+  },
+  {
+   "text": "Move thirteen. Use windfalls on purpose.",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Use windfalls on purpose",
+    "sub": "bonuses, refunds, gifts"
+   },
+   "caption": "MOVE 13",
+   "cuts": 1,
+   "chapter": "13. Use windfalls on purpose"
+  },
+  {
+   "text": "Bonuses, tax refunds, inheritances and gifts are powerful catch up tools. Decide in advance how you'll split them. For example, seventy percent to your plan and thirty percent to enjoy.",
+   "query": "Bonus check",
+   "caption": "DECIDE THE SPLIT IN ADVANCE",
+   "cuts": 3
+  },
+  {
+   "text": "A five thousand dollar bonus invested at thirty five, at seven percent, could grow to about thirty eight thousand dollars by sixty five. Use windfalls well a few times in your thirties, and they can add six figures to your future.",
+   "query": "Small seed big tree",
+   "caption": "$5K AT 35 = ~$38K AT 65",
+   "cuts": 3
+  },
+  {
+   "text": "Move fourteen. Avoid lifestyle creep.",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Avoid lifestyle creep",
+    "sub": "the silent thief"
+   },
+   "caption": "MOVE 14",
+   "cuts": 1,
+   "chapter": "14. Avoid lifestyle creep"
+  },
+  {
+   "text": "As income rises, spending tends to rise with it. A nicer car, more subscriptions, bigger vacations, more takeout. None of it feels like a big decision. That's what makes lifestyle creep so powerful.",
+   "query": "Spending creeping up",
+   "caption": "THE SILENT THIEF",
+   "cuts": 3
+  },
+  {
+   "text": "Pick the upgrades you truly value and say no to the rest. Review subscriptions twice a year. Keep your fixed costs low enough that a job loss or a new baby doesn't turn into a crisis.",
+   "query": "Subscription list",
+   "caption": "CHOOSE YOUR UPGRADES",
+   "cuts": 3
+  },
+  {
+   "text": "Move fifteen. Review once a quarter.",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Review once a quarter",
+    "sub": "small corrections"
+   },
+   "caption": "MOVE 15",
+   "cuts": 1,
+   "chapter": "15. Review once a quarter"
+  },
+  {
+   "text": "Every three months, check your net worth, savings rate, debt balances and progress toward your emergency fund. Raise your contributions if you can. Once a year, review insurance, beneficiaries and your overall plan.",
+   "query": "Quarterly calendar review",
+   "caption": "15 MINUTES A QUARTER",
+   "cuts": 3
+  },
+  {
+   "text": "Track your net worth over time. Watching it rise, even slowly, is one of the best ways to replace panic with confidence.",
+   "query": "Net worth chart rising",
+   "caption": "WATCH IT RISE",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If this is helping you feel less behind, subscribe to the channel. It's free, and it helps me keep making these videos. Now, the catch up table I promised.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A quick favor"
+  },
+  {
+   "text": "Here's a simple way to think about catching up. Say your goal is around one million dollars by sixty five, before inflation. At a seven percent average yearly return, starting from zero, roughly how much would you need to invest each month?",
+   "query": "Goal one million target",
+   "caption": "THE GOAL: $1 MILLION",
+   "cuts": 3,
+   "chapter": "The catch up table",
+   "short_hook": "How much to save each month if you start at 30, 35 or 40"
+  },
+  {
+   "text": "Starting at thirty: about five hundred fifty five dollars a month. Starting at thirty five: roughly eight hundred twenty dollars a month. Starting at forty: about one thousand two hundred thirty five dollars a month. Every five years of waiting raises the monthly amount by around forty to fifty percent.",
+   "query": "Table of monthly amounts",
+   "caption": "30, 35, 40",
+   "cuts": 3
+  },
+  {
+   "text": "Approximate monthly investment to reach about one million dollars by sixty five at seven percent a year, starting from zero.",
+   "card": {
+    "type": "stat",
+    "label": "monthly to reach ~$1M by 65",
+    "big": "$555 / $820 / $1,235",
+    "size": 110,
+    "sub": "start at 30 / 35 / 40 (7% a year, illustration)"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Those amounts include any employer match. If your employer adds two or three hundred dollars a month, your own share is much smaller. And if you already have savings, the required amount drops further. Your number may also be lower if you'll have a pension or expect a healthy Social Security benefit.",
+   "query": "Employer match illustration",
+   "caption": "THE MATCH COUNTS",
+   "cuts": 3
+  },
+  {
+   "text": "Does everyone need a million dollars? No. Your number depends on the life you want. A common rough rule is that a portfolio of about twenty five times your yearly spending, combined with Social Security, may support a long retirement. But planning is personal, and it's worth running your own numbers.",
+   "query": "Retirement planning worksheet",
+   "caption": "YOUR OWN NUMBER",
+   "cuts": 3
+  },
+  {
+   "text": "Let's look at two examples. Elena is thirty five, earns seventy thousand dollars, and has almost nothing saved after years of paying off student loans. She feels behind. She builds a three month emergency fund in a year, then raises her retirement contribution to fifteen percent, with a four percent match. That's about one thousand ninety dollars a month going in.",
+   "query": "Woman professional planning",
+   "caption": "ELENA: STARTS AT 35",
+   "cuts": 3,
+   "chapter": "Two people catching up",
+   "short_hook": "She started at 35 with nothing. Here's what happened."
+  },
+  {
+   "text": "She uses the raise rule every year and keeps her car for ten years. By forty five, her retirement accounts might be worth around two hundred thousand dollars. By sixty five, if she keeps going and her income rises, she could be well past one million dollars. She didn't do anything extreme. She just started, and kept going.",
+   "query": "Woman calm retirement",
+   "caption": "ELENA: STEADY WINS",
+   "cuts": 3
+  },
+  {
+   "text": "Now Chris. He's thirty eight, feels behind, and wants to catch up fast. He puts his savings into a single hot stock that a friend recommends, and later into a speculative coin. Some years he's up. Some years he's down a lot. After five years, he's roughly where he started, and stressed.",
+   "query": "Man stressed trading phone",
+   "caption": "CHRIS: CATCH UP GAMBLING",
+   "cuts": 3
+  },
+  {
+   "text": "At forty three, Chris resets. He moves to diversified funds, sets up automatic contributions of twenty percent, and stops checking prices daily. He still has more than twenty years to go. His story shows that it's never too late to switch from panic to a plan. But those five years of gambling cost him real time.",
+   "query": "Man calm with plan",
+   "caption": "CHRIS: THE RESET",
+   "cuts": 3
+  },
+  {
+   "text": "What do Elena and Chris have in common? Both felt behind, and both could still build a secure future. The difference was how they responded to the feeling. Elena turned it into a system. Chris turned it into a bet. In your thirties, a system almost always wins, because it keeps working long after the panic fades.",
+   "query": "System versus gamble",
+   "caption": "SYSTEM BEATS A BET",
+   "cuts": 3
+  },
+  {
+   "text": "For many people, the thirties are the decade of young children, and kids change the budget dramatically. Childcare, diapers, bigger housing, health insurance and food all add up. It's normal for your savings rate to dip for a few years.",
+   "query": "Young parents with baby",
+   "caption": "THE BABY YEARS",
+   "cuts": 3,
+   "chapter": "Money with young kids"
+  },
+  {
+   "text": "The key is to protect the essentials during those years. Keep at least your employer match going. Protect your emergency fund. Avoid adding new debt. And make a plan to raise your savings again when childcare costs fall, for example when kids start school.",
+   "query": "Kid starting school",
+   "caption": "PROTECT THE ESSENTIALS",
+   "cuts": 3
+  },
+  {
+   "text": "Look into tax benefits too. Depending on your situation, the Child Tax Credit, a dependent care flexible spending account through your employer, or the Child and Dependent Care Credit may reduce your costs. Check the IRS website or ask a tax professional for current rules.",
+   "query": "Tax form family credits",
+   "caption": "CHECK TAX BENEFITS",
+   "cuts": 3
+  },
+  {
+   "text": "And teach your kids about money early, even in small ways. Letting them see you save, compare prices, and make choices helps them build the habits you're building now. That might be one of the best long term investments you ever make.",
+   "query": "Parent teaching child coins",
+   "caption": "TEACH THEM EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "It's worth understanding why so many people in their thirties feel behind today. Over the past several decades, many employers replaced traditional pensions with 401k style plans. That shifted the responsibility for retirement saving from companies to individuals.",
+   "query": "Old pension document",
+   "caption": "FROM PENSIONS TO 401K",
+   "cuts": 3,
+   "chapter": "Why so many people feel behind"
+  },
+  {
+   "text": "Meanwhile, the cost of education and housing has grown faster than wages for many people. And many people in their thirties entered the job market during or after major economic shocks, like the 2008 financial crisis or the 2020 pandemic, which delayed careers and savings.",
+   "query": "Recession news headlines",
+   "caption": "REAL HEADWINDS",
+   "cuts": 3
+  },
+  {
+   "text": "So if you feel behind, it's not just you. The system changed. But the tools available today, like automatic enrollment, low cost index funds, Roth accounts and high yield savings, are better than ever. You can use them to build your own pension, one paycheck at a time.",
+   "query": "Modern tools smartphone",
+   "caption": "BUILD YOUR OWN PENSION",
+   "cuts": 3
+  },
+  {
+   "text": "Let's make this real with a sample budget. A couple in their thirties, one young child, combined income of one hundred ten thousand dollars a year.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A sample 30s budget"
+  },
+  {
+   "text": "After taxes, health insurance and retirement contributions of twelve percent of pay, plus a four percent employer match, their take home pay might be around six thousand two hundred dollars a month, depending on their state. The retirement contributions, including the match, total about fourteen hundred sixty dollars a month, going in before the paycheck arrives.",
+   "query": "Family budget paycheck",
+   "caption": "~$6,200 TAKE HOME",
+   "cuts": 3
+  },
+  {
+   "text": "Housing, including mortgage or rent, insurance and utilities, about twenty one hundred dollars. Childcare, about twelve hundred. Transportation for two adults, about six hundred. Groceries and some eating out, about eight hundred fifty.",
+   "query": "Monthly bills sheet",
+   "caption": "HOUSING, CHILDCARE, CARS, FOOD",
+   "cuts": 3
+  },
+  {
+   "text": "Sinking funds for car repairs, holidays and annual bills, about three hundred. Emergency fund and other savings, about four hundred. A small 529 contribution, one hundred. Phone, internet and subscriptions, about two hundred. Fun and personal spending, about three hundred. That leaves a small buffer for clothes, health costs and the unexpected.",
+   "query": "Labeled envelopes",
+   "caption": "SAVINGS, FUN, BUFFER",
+   "cuts": 3
+  },
+  {
+   "text": "Notice what this budget does. Retirement is funded first. The emergency fund keeps growing. There's a small college fund. And there's still money for fun. It's tight, because childcare is expensive. But when childcare ends, that twelve hundred dollars a month can go straight to savings, and their catch up accelerates.",
+   "query": "Family relaxed at home",
+   "caption": "WHEN CHILDCARE ENDS",
+   "cuts": 3
+  },
+  {
+   "text": "Retirement first, emergency fund growing, a small 529, real fun money. When childcare ends, redirect it to savings.",
+   "card": {
+    "type": "stat",
+    "label": "sample 30s family budget",
+    "big": "FUTURE FIRST",
+    "size": 120,
+    "sub": "illustration; adjust to your city and family"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "In your thirties, career decisions can have a bigger impact on wealth than almost any budget tweak. Research from labor economists has found that much of lifetime wage growth happens in the first ten to fifteen years of a career, often through job changes and promotions.",
+   "query": "Career ladder climbing",
+   "caption": "CAREER MATTERS MOST",
+   "cuts": 3,
+   "chapter": "Career moves that pay in your 30s"
+  },
+  {
+   "text": "Practical moves include asking for a clear path to promotion, learning skills that are in demand in your field, building relationships with people a level or two above you, and checking market pay every year or two. If your employer won't pay market rates, it may be time to look elsewhere.",
+   "query": "Professional networking",
+   "caption": "PRACTICAL MOVES",
+   "cuts": 3
+  },
+  {
+   "text": "And think about your income resilience. Could you find a new job quickly if you lost yours? Keeping your skills current, your network active and your resume updated is a kind of insurance. Combined with a strong emergency fund, it lets you handle layoffs without derailing your plan.",
+   "query": "Resume updated laptop",
+   "caption": "INCOME RESILIENCE",
+   "cuts": 3
+  },
+  {
+   "text": "If you're in your thirties and already saving fifteen percent, with an emergency fund and no high interest debt, you're in a strong position. Your job now is to protect it. Avoid big lifestyle jumps, keep fees low, and don't let a market drop scare you out.",
+   "query": "Confident person reviewing",
+   "caption": "PROTECT YOUR LEAD",
+   "cuts": 3,
+   "chapter": "Already on track?"
+  },
+  {
+   "text": "Consider raising your savings rate toward twenty or twenty five percent, which could open the door to retiring earlier or working by choice in your fifties. And look at your taxes: making the most of tax advantaged accounts can add up significantly over decades.",
+   "query": "Early retirement beach",
+   "caption": "AIM HIGHER",
+   "cuts": 3
+  },
+  {
+   "text": "What you do in your thirties shapes your forties. People who build an emergency fund, clear high interest debt and save fifteen percent in their thirties often find their forties feel very different. Their investments start to grow by more each year than they contribute. Money starts working as hard as they do.",
+   "query": "Middle aged couple relaxed",
+   "caption": "THE CURVE BENDS",
+   "cuts": 3,
+   "chapter": "A look ahead to your forties"
+  },
+  {
+   "text": "Your forties may also bring peak earning years, which is the perfect time to push your savings rate even higher. And by fifty, catch up contributions allow you to put even more into retirement accounts. The thirties are the foundation. The forties and fifties are where it can really take off.",
+   "query": "Rocket taking off",
+   "caption": "THEN IT TAKES OFF",
+   "cuts": 3
+  },
+  {
+   "text": "Not everyone in their thirties has a partner or kids, and the plan works just as well for singles. In some ways, single people can save faster, with fewer dependents and more flexibility. In other ways, it's harder, because there's only one income to cover rent, insurance and emergencies.",
+   "query": "Single professional apartment",
+   "caption": "ONE INCOME",
+   "cuts": 3,
+   "chapter": "Single in your thirties"
+  },
+  {
+   "text": "If you're single, your emergency fund matters even more, because there's no second paycheck to fall back on. Six months of expenses is a good target. Disability insurance is especially important. And make sure your beneficiaries and a basic will reflect who you want to inherit what you've built.",
+   "query": "Emergency fund six months",
+   "caption": "SIX MONTHS AND PROTECTION",
+   "cuts": 3
+  },
+  {
+   "text": "Singles also face their own social pressure: weddings, trips, dinners. Choose the ones that truly matter to you. And use your flexibility as an advantage. A cheaper city, a career move, or a few years of aggressive saving can transform your catch up plan.",
+   "query": "Friends at wedding",
+   "caption": "USE YOUR FLEXIBILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Some people reach their thirties after a divorce, a business failure, a health crisis or a layoff that wiped out their savings. If that's you, the plan still works. Start with the same foundations: a starter emergency fund, the employer match, and a plan for any debt.",
+   "query": "Person starting over sunrise",
+   "caption": "STARTING OVER",
+   "cuts": 3,
+   "chapter": "Starting over in your thirties"
+  },
+  {
+   "text": "Be patient with yourself. Recovering financially often takes a few years, and that's normal. But with twenty five to thirty years ahead, a fresh start in your thirties can still lead to a secure retirement. Many people who rebuilt in their thirties look back and say it taught them the habits that made them wealthy later.",
+   "query": "Person rebuilding house",
+   "caption": "PATIENCE AND REBUILDING",
+   "cuts": 3
+  },
+  {
+   "text": "One more thing that's easy to overlook. Your health is one of your biggest financial assets. Chronic health problems can raise medical costs and reduce your ability to work. Regular checkups, exercise, sleep and managing stress aren't just good for your body. They protect your earning power for decades.",
+   "query": "Person jogging park",
+   "caption": "HEALTH IS WEALTH",
+   "cuts": 3,
+   "chapter": "Your health is a money plan too"
+  },
+  {
+   "text": "Here's what to do in the next seven days. Day one: list every account and debt. Day two: calculate your net worth. Day three: log into your retirement plan, confirm you're getting the full match, and turn on automatic increases if available.",
+   "query": "Checklist days",
+   "caption": "DAYS 1 TO 3",
+   "cuts": 3,
+   "chapter": "Your first week checklist"
+  },
+  {
+   "text": "Day four: open or check your high yield savings account and automate a transfer. Day five: list debts by interest rate and pick your target. Day six: check your beneficiaries and insurance. Day seven: sit down with your partner, or yourself, and write your three money goals for the next year.",
+   "query": "Couple writing goals",
+   "caption": "DAYS 4 TO 7",
+   "cuts": 3
+  },
+  {
+   "text": "Whenever I talk about catching up in your thirties, I hear the same objections. Let's go through them honestly.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "But Ryan, what about..."
+  },
+  {
+   "text": "Objection one. I can't afford to save fifteen percent. For many families in their thirties, that's true right now. So start with what you can, even three or five percent plus the match. Then use automatic increases, raises and windfalls to climb. The goal is the direction, not the starting number.",
+   "query": "Small plant growing",
+   "caption": "I CAN'T AFFORD 15%",
+   "cuts": 3
+  },
+  {
+   "text": "Objection two. The market is too high, I'll wait for a crash. Nobody can reliably predict crashes. People who wait often miss years of growth. Investing every month, in good markets and bad, means you buy some shares at high prices and some at low prices, without needing to guess.",
+   "query": "Market chart question mark",
+   "caption": "I'LL WAIT FOR A CRASH",
+   "cuts": 3
+  },
+  {
+   "text": "Objection three. Social Security won't be there for me. According to the Social Security Trustees reports, the program's trust funds are projected to be depleted in the 2030s if nothing changes, but even then, ongoing payroll taxes are projected to cover most scheduled benefits. Many experts expect changes to the program, not its disappearance. Still, it's wise to plan with a margin of safety.",
+   "query": "Social Security card",
+   "caption": "SOCIAL SECURITY",
+   "cuts": 3
+  },
+  {
+   "text": "Objection four. I'd rather enjoy life now. Me too. A good plan includes real fun money. The point isn't to sacrifice your thirties. It's to make sure your fifties and sixties are enjoyable too. With a balanced budget, you don't have to choose.",
+   "query": "Family on vacation beach",
+   "caption": "ENJOY LIFE NOW",
+   "cuts": 3
+  },
+  {
+   "text": "And objection five. I'll just work longer. Working longer can help, but it isn't always a choice. Health problems, caregiving and layoffs can force earlier retirement than planned. Many surveys of retirees find a large share retired earlier than they expected. Saving now gives you options if life changes your plans.",
+   "query": "Older worker leaving office",
+   "caption": "I'LL WORK LONGER",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions I hear most from people in their thirties.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Is it too late to start at thirty eight or thirty nine? No. You still have more than twenty five years before a typical retirement age. Saving fifteen to twenty percent and staying consistent can build a solid retirement. And catch up contributions become available at fifty under IRS rules.",
+   "query": "Person starting at desk",
+   "caption": "TOO LATE AT 39?",
+   "cuts": 3
+  },
+  {
+   "text": "Question two. Should I pay off my mortgage early or invest? It depends on your rate and your goals. Many people with low rate mortgages choose to invest instead, because long term market returns have historically been higher. Others value the peace of mind of a paid off home. Either can be reasonable once your retirement savings are on track.",
+   "query": "Mortgage document",
+   "caption": "MORTGAGE OR INVEST?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. My partner and I have very different money styles. What do we do? That's very common. Start with shared goals rather than spending details. Agree on savings targets together, then give each person some personal spending money with no questions asked. That reduces conflict while keeping the plan on track.",
+   "query": "Couple talking calmly",
+   "caption": "DIFFERENT STYLES",
+   "cuts": 3
+  },
+  {
+   "text": "Question four. Should I take money out of my 401k to pay off debt? Usually, it's best to avoid it. Early withdrawals can trigger taxes and penalties, and you lose years of compounding. Loans from a 401k have their own risks, especially if you leave your job. Explore other options first.",
+   "query": "401k withdrawal warning",
+   "caption": "RAID THE 401K?",
+   "cuts": 3
+  },
+  {
+   "text": "And question five. How do I stop feeling anxious about money? Action helps more than worry. Make a written plan, automate as much as you can, and review once a quarter instead of every day. As your emergency fund grows and your net worth rises, many people find the anxiety fades.",
+   "query": "Calm person journaling",
+   "caption": "ANXIETY",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. Should I hire a financial advisor? It can help, especially for complex situations. If you do, look for a fee only fiduciary, someone legally required to act in your best interest, and understand exactly how they're paid. For many people with simple situations, a target date fund and an automated plan work well too.",
+   "query": "Advisor meeting",
+   "caption": "HIRE AN ADVISOR?",
+   "cuts": 3
+  },
+  {
+   "text": "And question seven. What's the single most important move in your thirties? Raising your savings rate and automating it. Everything else helps, but nothing replaces a steady, automatic share of every paycheck going to your future.",
+   "query": "Automatic savings app",
+   "caption": "THE ONE MOVE",
+   "cuts": 3
+  },
+  {
+   "text": "Question eight. How much should I keep in cash versus investments? A common approach is to keep your emergency fund and any money you'll need within the next few years, like a down payment, in high yield savings or similar safe accounts. Money for goals ten or more years away, like retirement, can usually be invested for growth. Matching the account to the timeline reduces the chance you'll have to sell investments at a bad time.",
+   "query": "Cash and investments split",
+   "caption": "CASH OR INVEST?",
+   "cuts": 3
+  },
+  {
+   "text": "And one last thought before the recap. Feeling behind is a feeling, not a fact. The fact is that you have time, income, and better tools than any generation before you. What you do with the next five years matters far more than what happened in the last ten. Start this week.",
+   "query": "Person looking at horizon",
+   "caption": "A FEELING, NOT A FACT",
+   "cuts": 3
+  },
+  {
+   "text": "Quick recap. Starting at thirty five with five hundred dollars a month could build around six hundred ten thousand dollars by sixty five. Raising that to one thousand a month could build over a million. Don't panic. Don't freeze, gamble or over restrict.",
+   "query": "Checklist clipboard",
+   "caption": "THE NUMBERS",
+   "cuts": 3,
+   "chapter": "Recap: 15 moves",
+   "short_hook": "Your 30s money checklist in 60 seconds"
+  },
+  {
+   "text": "The fifteen moves. Get your full picture. Build a real emergency fund. Clear high interest debt. Raise your savings rate to fifteen percent or more. Use tax advantaged accounts. Grow your income. Control the big three. Buy a home only when ready.",
+   "query": "First moves list",
+   "caption": "MOVES 1 TO 8",
+   "cuts": 3
+  },
+  {
+   "text": "Protect your family. Put retirement before college. Get on the same page with your partner. Invest simply and stay invested. Use windfalls on purpose. Avoid lifestyle creep. And review once a quarter.",
+   "query": "Second moves list",
+   "caption": "MOVES 9 TO 15",
+   "cuts": 3
+  },
+  {
+   "text": "This week, do move one. One honest hour with your numbers. Then pick the next move and keep going. If you want to go further, watch my video on retiring early on a normal income. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

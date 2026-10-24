@@ -1,0 +1,6 @@
+- Growth figures: stated illustrative math at a 7% average yearly return
+- Federal Reserve, Survey of Consumer Finances 2022 (median net worth by age)
+- Fidelity, retirement savings guidelines by age
+- U.S. Department of Labor, Women's Bureau, National Database of Childcare Prices
+- IRS, 401(k), IRA, HSA, Child Tax Credit and dependent care rules
+- Consumer Financial Protection Bureau, guides on debt and homebuying
