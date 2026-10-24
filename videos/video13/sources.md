@@ -1,0 +1,5 @@
+- Example laundromat figures: simplified illustration built for teaching, not an industry average or a real business
+- U.S. Small Business Administration, 7(a) loan program (guaranteed loans, including for business acquisitions; equity injection requirements)
+- Bureau of Labor Statistics, Business Employment Dynamics (business survival rates)
+- Loan payment example: $270,000 over 10 years at an illustrative 10.5% interest rate
+- Market comparison: stated illustrative 7% average yearly return

@@ -1,0 +1,965 @@
+{
+ "id": "video15",
+ "angle": "built to last",
+ "length_scale": 1.25,
+ "title": "20 Small Businesses That Will Still Exist in 2040",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Everyone is worried about which jobs and businesses will disappear. AI writes, robots build, apps replace whole industries. But some businesses have survived every wave of technology for a hundred years, and they'll very likely survive the next one too. Today, we're going through twenty small businesses that will almost certainly still exist in 2040, why they're so hard to replace, and how you could own one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro",
+   "short_hook": "Robots, AI, self driving cars. And yet these 20 businesses will almost certainly still be here in 2040."
+  },
+  {
+   "text": "Twenty small businesses built to last. Physical, local, trusted, and needed in good times and bad.",
+   "card": {
+    "type": "stat",
+    "label": "built to last",
+    "big": "2040",
+    "sub": "20 businesses that survive the next wave"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Here's the test we used. A business makes this list if it needs to happen in the physical world, close to the customer, if people need it whether the economy is good or bad, and if trust matters more than price. Technology will change how these businesses work, but it's very unlikely to remove the need for them.",
+   "query": "Small town main street",
+   "caption": "THE TEST: PHYSICAL, LOCAL, NEEDED, TRUSTED",
+   "cuts": 5
+  },
+  {
+   "text": "A quick warning. Nobody can predict the future perfectly. Some of these businesses will change a lot by 2040, and individual companies will still succeed or fail based on how they're run. Any numbers we use are illustrations, not guarantees. The goal is to help you think about durability, which is one of the most underrated parts of building wealth.",
+   "query": "Calendar pages flying",
+   "caption": "NOBODY KNOWS THE FUTURE FOR SURE",
+   "cuts": 3
+  },
+  {
+   "text": "We'll go through all twenty, then look at them from three angles. The numbers, meaning why durable businesses are worth more. The psychology, meaning why people chase shiny trends instead. And the playbook, meaning how to pick a durable business and get started.",
+   "query": "Notebook with financial notes",
+   "caption": "20 BUSINESSES, 3 ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the most essential one of all.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Job outlook information comes from the Bureau of Labor Statistics Occupational Outlook Handbook, which projects employment by occupation. Population aging data comes from the U.S. Census Bureau. Small business lending information comes from the U.S. Small Business Administration. This video is education, not financial, legal or business advice.",
+   "query": "Government building",
+   "caption": "SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Number 1. Plumbing. water and waste will always need pipes",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Plumbing",
+    "sub": "water and waste will always need pipes"
+   },
+   "caption": "STILL HERE IN 2040: 1",
+   "cuts": 1,
+   "chapter": "1. Plumbing"
+  },
+  {
+   "text": "Number one. Plumbing. Every home, office, hospital and restaurant depends on clean water coming in and waste going out. Pipes leak, water heaters fail, drains clog. That will be just as true in 2040 as it is today. And every repair happens in a specific place, under a specific sink, which software alone can't do.",
+   "query": "Plumber working on pipes",
+   "caption": "WATER ALWAYS NEEDS PIPES",
+   "cuts": 3
+  },
+  {
+   "text": "Many experienced plumbers are approaching retirement, and the trade has struggled to attract enough young people, which could support strong demand for those who stay. Plumbing companies can add maintenance plans, water heater installations and remodeling work to build steady revenue. Licensing takes years, which also protects those who have it.",
+   "query": "Older plumber with apprentice",
+   "caption": "AGING WORKFORCE, STEADY DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. The classic path is an apprenticeship, often paid, through a union or a contractor, followed by a journeyman license and eventually a master license. Many owners work for others for years, then start their own shop or buy one from a retiring plumber. Plumbers who learn the business side, pricing, marketing and hiring, are the ones who turn a trade into a company.",
+   "query": "Older plumber with apprentice",
+   "caption": "APPRENTICE, LICENSE, OWN",
+   "cuts": 3
+  },
+  {
+   "text": "Number 2. Electrical contracting. the world is getting more electric, not less",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Electrical contracting",
+    "sub": "the world is getting more electric, not less"
+   },
+   "caption": "STILL HERE IN 2040: 2",
+   "cuts": 1,
+   "chapter": "2. Electrical contracting"
+  },
+  {
+   "text": "Number two. Electrical work. Electric vehicles, heat pumps, solar panels, home batteries and data centers all mean more wiring, more panel upgrades and more electrical work. The more the world electrifies, the more electricians it needs.",
+   "query": "Electrician working on panel",
+   "caption": "MORE ELECTRIC EVERY YEAR",
+   "cuts": 3
+  },
+  {
+   "text": "Electrical contractors serve homes, businesses and new construction. Like plumbing, it requires a license and years of training, which limits competition. Specialties like EV charger installation, solar connections and generator installations can add higher value work to a small company.",
+   "query": "Electric car charging",
+   "caption": "NEW SPECIALTIES",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Like plumbing, electrical work usually starts with a paid apprenticeship lasting several years. Licensed electricians can later become contractors, which typically requires additional exams and insurance. A smart niche, like EV chargers or generators, can help a new company stand out against established competitors.",
+   "query": "Electrician working on panel",
+   "caption": "PICK A NICHE",
+   "cuts": 3
+  },
+  {
+   "text": "Number 3. HVAC. heating and cooling never go out of style",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "HVAC",
+    "sub": "heating and cooling never go out of style"
+   },
+   "caption": "STILL HERE IN 2040: 3",
+   "cuts": 1,
+   "chapter": "3. HVAC"
+  },
+  {
+   "text": "Number three. Heating, ventilation and air conditioning. When the air conditioning dies in July or the furnace fails in January, homeowners call immediately. Extreme weather and the shift toward heat pumps keep this industry busy.",
+   "query": "Air conditioning unit outside house",
+   "caption": "WHEN IT BREAKS, THEY CALL",
+   "cuts": 3
+  },
+  {
+   "text": "HVAC companies earn money from installations, repairs and especially maintenance agreements, where customers pay yearly for tune ups and priority service. Those agreements create recurring revenue, and well run HVAC businesses with many service agreements often attract buyers when owners retire.",
+   "query": "Technician servicing furnace",
+   "caption": "MAINTENANCE AGREEMENTS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Technicians often start through trade school or on the job training, then earn certifications, including the EPA certification needed to handle refrigerants. Owners who focus early on selling maintenance agreements build the steadiest companies and the most valuable ones to sell later.",
+   "query": "Technician servicing furnace",
+   "caption": "SELL AGREEMENTS EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "Number 4. Roofing. every roof eventually wears out",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Roofing",
+    "sub": "every roof eventually wears out"
+   },
+   "caption": "STILL HERE IN 2040: 4",
+   "cuts": 1,
+   "chapter": "4. Roofing"
+  },
+  {
+   "text": "Number four. Roofing. Every roof has a lifespan. Storms, hail and age eventually mean repairs or replacement. A roof isn't something a homeowner can skip or delay forever, because a leaking roof destroys everything underneath it.",
+   "query": "Roofers working on house",
+   "caption": "EVERY ROOF WEARS OUT",
+   "cuts": 3
+  },
+  {
+   "text": "Roofing jobs can be large, and insurance claims after storms create waves of demand. The work is physical, seasonal in some places, and requires good crews and safety practices. Roofing companies with strong reputations and good insurance relationships can do very well.",
+   "query": "Storm damage on house",
+   "caption": "STORMS CREATE DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Many roofing owners start as crew members or salespeople, learning how to estimate jobs and work with insurance adjusters. Good insurance coverage, safety training and a reputation for honest storm work matter more than anything. Avoid companies that chase storms and disappear, because reputation is the real asset.",
+   "query": "Roofers working on house",
+   "caption": "REPUTATION IS THE ASSET",
+   "cuts": 3
+  },
+  {
+   "text": "Number 5. Auto repair. even electric cars need mechanics",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Auto repair",
+    "sub": "even electric cars need mechanics"
+   },
+   "caption": "STILL HERE IN 2040: 5",
+   "cuts": 1,
+   "chapter": "5. Auto repair"
+  },
+  {
+   "text": "Number five. Auto repair. Hundreds of millions of vehicles are on American roads, and the average car is now more than twelve years old. Older cars need more repairs. And even as electric vehicles spread, they still need tires, brakes, suspension, alignment and collision repair.",
+   "query": "Mechanic working under car",
+   "caption": "OLDER CARS, MORE REPAIRS",
+   "cuts": 3
+  },
+  {
+   "text": "The trade is changing, with more electronics and software, so successful shops will need to keep training. But the core business of fixing vehicles near where people live isn't going anywhere. Independent shops that earn trust often keep customers for decades.",
+   "query": "Electric car in garage",
+   "caption": "EVS STILL NEED SERVICE",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Technicians usually train at community colleges or trade schools and earn certifications. Opening a shop takes equipment and a location, so many owners buy an existing garage with loyal customers. Adding EV and hybrid training is a smart way to stay relevant as the fleet changes.",
+   "query": "Mechanic working under car",
+   "caption": "TRAIN FOR WHAT'S NEXT",
+   "cuts": 3
+  },
+  {
+   "text": "Number 6. Funeral services. the most certain demand there is",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Funeral services",
+    "sub": "the most certain demand there is"
+   },
+   "caption": "STILL HERE IN 2040: 6",
+   "cuts": 1,
+   "chapter": "6. Funeral services",
+   "short_hook": "This boring business has survived every recession, and it'll likely survive the next one."
+  },
+  {
+   "text": "Number six. Funeral homes and related services. It's uncomfortable to talk about, but demand for funeral services is about as certain as demand gets. And as the large baby boom generation ages, the number of deaths in America is projected to rise in the coming decades.",
+   "query": "Flowers at memorial",
+   "caption": "CERTAIN DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "The industry is changing, with more cremations and more personalized services, but families still want help, dignity and guidance in their hardest moments. Many funeral homes are family owned and have served the same community for generations. Licensing and trust create high barriers to entry.",
+   "query": "Small town church",
+   "caption": "TRUST ACROSS GENERATIONS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Funeral directors need specialized education and a state license. Ownership often passes within families, but many owners have no successor, which can create opportunities to buy. Related businesses, like monument makers, memorial planning or cremation services, can have lower barriers.",
+   "query": "Flowers at memorial",
+   "caption": "NO SUCCESSOR, OPPORTUNITY",
+   "cuts": 3
+  },
+  {
+   "text": "Number 7. Senior care. America is getting older fast",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Senior care",
+    "sub": "America is getting older fast"
+   },
+   "caption": "STILL HERE IN 2040: 7",
+   "cuts": 1,
+   "chapter": "7. Senior care"
+  },
+  {
+   "text": "Number seven. Senior care. The Census Bureau projects that the number of Americans aged sixty five and older will keep growing in the coming decades. Older adults need help with daily tasks, transportation, medication and companionship, and many want to stay in their homes as long as possible.",
+   "query": "Caregiver helping elderly person",
+   "caption": "AN AGING NATION",
+   "cuts": 3
+  },
+  {
+   "text": "Home care agencies, adult day centers and assisted living facilities all serve this growing need. It's a business built on people and trust, with real responsibility and regulation. Done well, it's both meaningful and in strong demand.",
+   "query": "Elderly couple at home",
+   "caption": "AGING IN PLACE",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Non medical home care agencies, which help with daily tasks rather than medical treatment, can have lower startup costs than facilities, though many states require licenses. Franchises exist that provide training and systems. The key challenge is recruiting and keeping good caregivers.",
+   "query": "Caregiver helping elderly person",
+   "caption": "START NON MEDICAL",
+   "cuts": 3
+  },
+  {
+   "text": "Number 8. Dentistry. teeth don't fix themselves",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Dentistry",
+    "sub": "teeth don't fix themselves"
+   },
+   "caption": "STILL HERE IN 2040: 8",
+   "cuts": 1,
+   "chapter": "8. Dentistry"
+  },
+  {
+   "text": "Number eight. Dental practices. People will still have teeth in 2040, and those teeth will still get cavities, crack and need cleaning. Dentistry requires hands, tools and a person in the chair. Technology will improve the tools, but it won't replace the visit.",
+   "query": "Dentist with patient",
+   "caption": "TEETH STILL NEED HANDS",
+   "cuts": 3
+  },
+  {
+   "text": "Becoming a dentist requires years of school and debt, but practice ownership has historically been a strong path to wealth. Many practices are being bought by larger groups, yet independent practices with loyal patients remain valuable. Related businesses like dental labs and specialized offices also benefit.",
+   "query": "Dental office",
+   "caption": "PRACTICE OWNERSHIP",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Dentistry requires dental school and a license, so most people enter as investors or through related services. Dentists who own their practices often build significant wealth over a career, especially if they buy a practice from a retiring dentist with an established patient base.",
+   "query": "Dentist with patient",
+   "caption": "BUY A RETIRING PRACTICE",
+   "cuts": 3
+  },
+  {
+   "text": "Number 9. Veterinary care and pet services. people treat pets like family",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Veterinary care and pet services",
+    "sub": "people treat pets like family"
+   },
+   "caption": "STILL HERE IN 2040: 9",
+   "cuts": 1,
+   "chapter": "9. Veterinary care and pet services"
+  },
+  {
+   "text": "Number nine. Veterinary clinics and pet services. Americans spend enormous amounts on their pets, and that spending has grown for years. Pets need checkups, vaccines, surgery, grooming, boarding and training, all of which happen in person.",
+   "query": "Veterinarian with dog",
+   "caption": "PETS ARE FAMILY",
+   "cuts": 3
+  },
+  {
+   "text": "Vet clinics require licensed veterinarians, but related businesses like grooming, boarding, dog training and pet sitting are easier to start. Pet owners tend to be loyal and willing to pay for quality care, because to them, a pet is family.",
+   "query": "Dog grooming",
+   "caption": "GROOMING AND BOARDING",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Grooming, dog walking, pet sitting, boarding and training can start small, sometimes from home where rules allow. Building a list of repeat clients is the goal. Grooming in particular can be done from a mobile van, which removes the need for a storefront.",
+   "query": "Dog grooming",
+   "caption": "START SMALL, MOBILE",
+   "cuts": 3
+  },
+  {
+   "text": "Number 10. Childcare. parents will always need help",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Childcare",
+    "sub": "parents will always need help"
+   },
+   "caption": "STILL HERE IN 2040: 10",
+   "cuts": 1,
+   "chapter": "10. Childcare"
+  },
+  {
+   "text": "Number ten. Childcare. As long as parents work, they need safe, reliable care for their children. In many parts of the country, there aren't enough childcare spots, and waiting lists are common.",
+   "query": "Children playing in daycare",
+   "caption": "PARENTS NEED HELP",
+   "cuts": 3
+  },
+  {
+   "text": "Childcare is heavily regulated and margins can be thin, because staffing is the biggest cost. But demand is strong, and parents are loyal to providers they trust. Before and after school programs, summer camps and tutoring add related opportunities.",
+   "query": "Kids at summer camp",
+   "caption": "RELATED PROGRAMS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Many providers start with a licensed home daycare, which has lower costs than a center. Licensing rules, staff ratios and inspections vary by state, so contact your state licensing agency first. Waiting lists in your area are a strong sign of unmet demand.",
+   "query": "Children playing in daycare",
+   "caption": "HOME DAYCARE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're getting value from this, subscribe to the channel. Every week, Ryan breaks down how money really works, from saving your first ten thousand dollars to buying a business that lasts. Now, number eleven.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Number 11. Landscaping and tree care. grass grows and trees fall",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Landscaping and tree care",
+    "sub": "grass grows and trees fall"
+   },
+   "caption": "STILL HERE IN 2040: 11",
+   "cuts": 1,
+   "chapter": "11. Landscaping and tree care"
+  },
+  {
+   "text": "Number eleven. Landscaping and tree care. Grass keeps growing, trees keep falling, and businesses and homeowners keep wanting their properties to look good. Commercial properties often need weekly service by contract.",
+   "query": "Landscaper mowing lawn",
+   "caption": "GRASS KEEPS GROWING",
+   "cuts": 3
+  },
+  {
+   "text": "Landscaping is easy to start but hard to scale well. The money often comes from commercial contracts, irrigation, hardscaping and tree work, which requires specialized skill and insurance. Robotic mowers may change some tasks, but trimming, planting, removal and design still need people.",
+   "query": "Tree removal crew",
+   "caption": "TREE WORK PAYS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. You can start with a truck, a trailer and basic equipment, then move toward commercial contracts and specialties like irrigation or tree care. Certified arborists can charge more for tree work. Pricing by the job, not by the hour, often improves profits as your crew gets faster.",
+   "query": "Landscaper mowing lawn",
+   "caption": "MOVE TOWARD CONTRACTS",
+   "cuts": 3
+  },
+  {
+   "text": "Number 12. Pest control. bugs don't read the news",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Pest control",
+    "sub": "bugs don't read the news"
+   },
+   "caption": "STILL HERE IN 2040: 12",
+   "cuts": 1,
+   "chapter": "12. Pest control"
+  },
+  {
+   "text": "Number twelve. Pest control. Termites, ants, rodents and bed bugs have been around far longer than humans, and they're not leaving. Warmer climates in some areas may even expand pest seasons.",
+   "query": "Exterminator spraying",
+   "caption": "BUGS AREN'T LEAVING",
+   "cuts": 3
+  },
+  {
+   "text": "Pest control companies earn recurring revenue through quarterly service plans, which makes them stable and valuable. Licensing and safety training create some barriers to entry. Larger companies regularly buy local operators, which gives owners a possible exit.",
+   "query": "Calendar on desk",
+   "caption": "RECURRING PLANS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Technicians need state pesticide licenses, and companies need insurance. Many owners work for a larger company first to learn treatments and pricing, then start their own with a focus on recurring residential plans.",
+   "query": "Exterminator spraying",
+   "caption": "LEARN, THEN LAUNCH",
+   "cuts": 3
+  },
+  {
+   "text": "Number 13. Cleaning services. dirt is permanent",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Cleaning services",
+    "sub": "dirt is permanent"
+   },
+   "caption": "STILL HERE IN 2040: 13",
+   "cuts": 1,
+   "chapter": "13. Cleaning services",
+   "short_hook": "Robots can vacuum a floor. They still can't do this job."
+  },
+  {
+   "text": "Number thirteen. Cleaning services. Offices, homes, hospitals, schools and vacation rentals all need cleaning, constantly. Robots can vacuum floors, but they can't yet clean bathrooms, kitchens and offices the way a trained crew can.",
+   "query": "Office cleaning at night",
+   "caption": "DIRT IS PERMANENT",
+   "cuts": 3
+  },
+  {
+   "text": "Commercial cleaning companies work on recurring contracts, which helps stability. Specialized cleaning, like medical facilities or post construction cleanup, can earn higher prices. The challenge is managing people well, but the demand itself is permanent.",
+   "query": "Cleaning supplies",
+   "caption": "RECURRING CONTRACTS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Start with residential or small office cleaning, build reliable systems and crews, then pursue larger commercial contracts. Bonding and insurance help win trust. Clear checklists and quality inspections keep customers from switching.",
+   "query": "Cleaning supplies",
+   "caption": "SYSTEMS AND CHECKLISTS",
+   "cuts": 3
+  },
+  {
+   "text": "Number 14. Accounting and tax preparation. taxes are forever",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Accounting and tax preparation",
+    "sub": "taxes are forever"
+   },
+   "caption": "STILL HERE IN 2040: 14",
+   "cuts": 1,
+   "chapter": "14. Accounting and tax preparation"
+  },
+  {
+   "text": "Number fourteen. Accounting and tax preparation. Software can do simple returns, and AI is getting better at numbers. But small businesses, landlords, families with complicated situations and people facing audits still want a trusted human who understands their situation and takes responsibility for the advice.",
+   "query": "Tax forms on desk",
+   "caption": "TAXES ARE FOREVER",
+   "cuts": 3
+  },
+  {
+   "text": "The tax code changes constantly, which keeps demand for expertise strong. Firms that move from basic tax preparation toward advisory work, like planning, bookkeeping and helping owners make decisions, may be best positioned. Recurring monthly clients make the business more stable.",
+   "query": "Accountant meeting client",
+   "caption": "ADVICE OVER DATA ENTRY",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Tax preparers need an IRS preparer tax identification number, and many become enrolled agents or CPAs for more credibility and higher fees. Starting with seasonal tax work and adding year round bookkeeping clients is a common path.",
+   "query": "Accountant meeting client",
+   "caption": "SEASONAL TO YEAR ROUND",
+   "cuts": 3
+  },
+  {
+   "text": "Number 15. Insurance agencies. risk never disappears",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Insurance agencies",
+    "sub": "risk never disappears"
+   },
+   "caption": "STILL HERE IN 2040: 15",
+   "cuts": 1,
+   "chapter": "15. Insurance agencies"
+  },
+  {
+   "text": "Number fifteen. Independent insurance agencies. People and businesses will always need to protect homes, cars, health, lives and companies. Online quotes have changed the industry, but complex situations still benefit from an advisor who shops multiple companies and helps when there's a claim.",
+   "query": "Insurance documents",
+   "caption": "RISK NEVER DISAPPEARS",
+   "cuts": 3
+  },
+  {
+   "text": "Agencies earn commissions that often renew every year as long as the customer stays, creating recurring revenue. That's why established books of business can be valuable to buyers. Licensing is required, and relationships drive growth.",
+   "query": "Handshake with customer",
+   "caption": "RENEWING COMMISSIONS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Agents need state licenses for the types of insurance they sell. Many start at an existing agency, build a book of clients, then open their own independent agency or buy a retiring agent's book of business.",
+   "query": "Insurance documents",
+   "caption": "BUILD A BOOK",
+   "cuts": 3
+  },
+  {
+   "text": "Number 16. Storage. people always have more stuff than space",
+   "card": {
+    "type": "list",
+    "n": 16,
+    "title": "Storage",
+    "sub": "people always have more stuff than space"
+   },
+   "caption": "STILL HERE IN 2040: 16",
+   "cuts": 1,
+   "chapter": "16. Storage"
+  },
+  {
+   "text": "Number sixteen. Self storage. Life changes like moving, divorce, downsizing and inheritance push belongings into storage. The need for extra space has grown for decades, and smaller homes and apartments in cities may keep it going.",
+   "query": "Storage units",
+   "caption": "MORE STUFF THAN SPACE",
+   "cuts": 3
+  },
+  {
+   "text": "Storage facilities need capital, but they can run with small staffs and steady occupancy. Some markets have overbuilt, so location and pricing matter. It's closer to real estate than to a typical small business, and it's a classic boring wealth builder for investors.",
+   "query": "Real estate building",
+   "caption": "BORING REAL ESTATE",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Most people enter storage as investors, buying a small existing facility or partnering with experienced operators. Study local occupancy and competitor prices carefully before buying, because oversupplied markets can mean price wars.",
+   "query": "Storage units",
+   "caption": "STUDY OCCUPANCY",
+   "cuts": 3
+  },
+  {
+   "text": "Number 17. Barbershops and salons. you can't download a haircut",
+   "card": {
+    "type": "list",
+    "n": 17,
+    "title": "Barbershops and salons",
+    "sub": "you can't download a haircut"
+   },
+   "caption": "STILL HERE IN 2040: 17",
+   "cuts": 1,
+   "chapter": "17. Barbershops and salons"
+  },
+  {
+   "text": "Number seventeen. Barbershops and hair salons. Hair keeps growing, and people want to look good. A haircut can't be shipped, streamed or automated in any practical way. That's why barbers have been around for thousands of years.",
+   "query": "Barber cutting hair",
+   "caption": "YOU CAN'T DOWNLOAD A HAIRCUT",
+   "cuts": 3
+  },
+  {
+   "text": "Shops can earn money from services, product sales and renting chairs to independent stylists. Loyal clients who come back every few weeks create predictable revenue. The best shops also become community gathering places, which makes them hard to replace.",
+   "query": "Barbershop interior",
+   "caption": "COMMUNITY PLACES",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Barbers and stylists need state licenses through cosmetology or barber school. Many work at a shop for years, build a loyal client list, then open their own shop and rent chairs to other licensed professionals.",
+   "query": "Barber cutting hair",
+   "caption": "BUILD A CLIENT LIST",
+   "cuts": 3
+  },
+  {
+   "text": "Number 18. Locksmiths and security. people will always get locked out",
+   "card": {
+    "type": "list",
+    "n": 18,
+    "title": "Locksmiths and security",
+    "sub": "people will always get locked out"
+   },
+   "caption": "STILL HERE IN 2040: 18",
+   "cuts": 1,
+   "chapter": "18. Locksmiths and security"
+  },
+  {
+   "text": "Number eighteen. Locksmiths and security installation. Smart locks and cameras are changing the business, but someone still needs to install, repair and secure them. And people will always lock themselves out of homes and cars.",
+   "query": "Locksmith working on door",
+   "caption": "LOCKED OUT FOREVER",
+   "cuts": 3
+  },
+  {
+   "text": "Locksmith work includes emergencies, rekeying, commercial access systems and safes. Adding smart lock and camera installation helps locksmiths grow with technology instead of being replaced by it. Trust is crucial, which favors established local operators.",
+   "query": "Smart lock on door",
+   "caption": "GROW WITH THE TECH",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Some states license locksmiths and others don't, so check your local rules. Training programs and working under an experienced locksmith are common starting points. Adding smart lock, camera and access control installation expands what you can offer.",
+   "query": "Locksmith working on door",
+   "caption": "ADD SMART SECURITY",
+   "cuts": 3
+  },
+  {
+   "text": "Number 19. Moving companies. Americans move millions of times a year",
+   "card": {
+    "type": "list",
+    "n": 19,
+    "title": "Moving companies",
+    "sub": "Americans move millions of times a year"
+   },
+   "caption": "STILL HERE IN 2040: 19",
+   "cuts": 1,
+   "chapter": "19. Moving companies"
+  },
+  {
+   "text": "Number nineteen. Moving companies. Americans move millions of times every year for jobs, families, retirement and new homes. Every move involves heavy things that need to go from one place to another, carefully.",
+   "query": "Moving truck",
+   "caption": "MILLIONS OF MOVES",
+   "cuts": 3
+  },
+  {
+   "text": "Moving businesses can start with one truck and a small crew, then grow into packing, storage and long distance moves. Reviews matter enormously, because customers fear damaged belongings and scams. Companies known for honesty and care stand out quickly.",
+   "query": "Workers lifting boxes",
+   "caption": "HONESTY STANDS OUT",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Local moving can start with a rented or used truck and a reliable crew. Interstate moves require federal registration with the Department of Transportation. Proper insurance and transparent pricing build the reviews that drive growth.",
+   "query": "Moving truck",
+   "caption": "TRANSPARENT PRICING",
+   "cuts": 3
+  },
+  {
+   "text": "Number 20. Waste management and recycling. trash is forever",
+   "card": {
+    "type": "list",
+    "n": 20,
+    "title": "Waste management and recycling",
+    "sub": "trash is forever"
+   },
+   "caption": "STILL HERE IN 2040: 20",
+   "cuts": 1,
+   "chapter": "20. Waste management and recycling"
+  },
+  {
+   "text": "And number twenty. Waste management. Every person and business produces trash, and someone has to collect, sort, haul and dispose of it. Large national companies dominate city contracts, but there's still room for local haulers, dumpster rentals, recycling and specialty waste services.",
+   "query": "Garbage truck on street",
+   "caption": "TRASH IS FOREVER",
+   "cuts": 3
+  },
+  {
+   "text": "Waste businesses require trucks, permits and disposal arrangements, which create high barriers to entry. Customers often sign long contracts. It's not glamorous, but it's about as durable as a business gets.",
+   "query": "Recycling center",
+   "caption": "LONG CONTRACTS",
+   "cuts": 3
+  },
+  {
+   "text": "How to get in. Dumpster rental and junk removal are common entry points into waste, requiring less capital than a full hauling company. Specialty niches, like construction debris or recycling for businesses, can also be good places to start.",
+   "query": "Garbage truck on street",
+   "caption": "ENTER THROUGH A NICHE",
+   "cuts": 3
+  },
+  {
+   "text": "To make the point clearer, let's look at the other side. Here are five businesses that may look very different by 2040. Not necessarily gone, but changed enough that owners should be careful.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Five businesses that may look very different by 2040"
+  },
+  {
+   "text": "One. Basic data entry and simple bookkeeping. Software and AI can already categorize transactions and fill in forms. Firms that only do data entry may struggle, while those that offer advice may thrive. Two. Simple translation and transcription. Automated tools have improved quickly, though specialized legal and medical work still needs experts.",
+   "query": "Laptop with business software",
+   "caption": "DATA ENTRY AND TRANSLATION",
+   "cuts": 3
+  },
+  {
+   "text": "Three. Traditional travel agencies for simple trips. Booking apps handle most basic travel, though complex trips and luxury travel still use advisors. Four. Print shops focused on basic printing. Demand for paper has fallen for years, though specialized printing, signs and packaging remain. Five. Video rental and similar media stores. That one already happened, and it's a reminder that any business built on a physical product that becomes digital is at risk.",
+   "query": "Empty store",
+   "caption": "TRAVEL, PRINT, MEDIA",
+   "cuts": 3
+  },
+  {
+   "text": "Notice the pattern. The businesses at risk are those where the product can become digital, the customer doesn't need to be nearby, and the work is repetitive. The businesses on our list are the opposite: physical, local and personal. That's the difference that matters.",
+   "query": "Person thinking with notebook",
+   "caption": "THE PATTERN",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine two people in 2020 with the same savings. One opens a trendy business riding a popular fad. It booms for two years, then customers move on, and by 2025 it closes. The other buys a small HVAC company from a retiring owner. Growth is slow, but every summer and every winter, the phones ring.",
+   "query": "Two paths diverging",
+   "caption": "TWO OWNERS",
+   "cuts": 3,
+   "chapter": "Two owners, twenty years"
+  },
+  {
+   "text": "By 2040, the HVAC owner has twenty years of profits, a team of technicians, hundreds of maintenance agreements, and a business that could sell for several times its yearly profit. The trendy owner had a great two years and then had to start over. Same starting point, very different endings. Durability made the difference.",
+   "query": "Technician servicing furnace",
+   "caption": "TWENTY YEARS LATER",
+   "cuts": 3
+  },
+  {
+   "text": "Even a business with permanent demand can fail. Here are six mistakes that kill durable businesses.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Six mistakes that kill durable businesses"
+  },
+  {
+   "text": "Mistake one. Competing only on price. In trusted local services, the cheapest company often attracts the worst customers and can't afford good workers. Mistake two. Ignoring reviews and reputation. One bad year of service can undo a decade of trust, especially online.",
+   "query": "Handshake with customer",
+   "caption": "MISTAKES 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake three. Refusing to adapt. A locksmith who ignores smart locks, or an auto shop that refuses to learn electric vehicles, can lose customers even in a durable industry. Mistake four. The owner doing everything. If the business can't run for two weeks without the owner, it's fragile, and it's worth much less when it's time to sell.",
+   "query": "Mechanic working under car",
+   "caption": "MISTAKES 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake five. Too much debt. Borrowing heavily for trucks, buildings or expansion can turn a slow season into a crisis. Mistake six. No succession plan. Many good businesses simply close when the owner retires, because nobody was trained to take over and no buyer was found in time. Planning the exit years ahead protects everything you built.",
+   "query": "Older business owner",
+   "caption": "MISTAKES 5 AND 6",
+   "cuts": 3
+  },
+  {
+   "text": "Now, three angles. First, the numbers. Why does durability matter so much for money?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The numbers"
+  },
+  {
+   "text": "A business that earns one hundred thousand dollars a year for twenty years is worth far more than one that earns two hundred thousand dollars for three years and then disappears.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Durable",
+     "big": "$2M",
+     "sub": "$100K a year for 20 years"
+    },
+    "right": {
+     "label": "Trendy",
+     "big": "$600K",
+     "sub": "$200K a year for 3 years"
+    }
+   },
+   "caption": "DURABILITY WINS",
+   "cuts": 1
+  },
+  {
+   "text": "Look at this simple comparison. A trendy business earning two hundred thousand dollars a year for three years produces six hundred thousand dollars, then fades. A durable business earning one hundred thousand dollars a year for twenty years produces two million dollars. Half the yearly profit, more than three times the total. Durability is a multiplier.",
+   "query": "Calculator and coins",
+   "caption": "DURABILITY IS A MULTIPLIER",
+   "cuts": 3
+  },
+  {
+   "text": "Durability also affects what a business is worth when you sell it. Buyers pay more for businesses they believe will keep earning for many years. A business with steady demand, recurring customers and a long history usually sells for a higher multiple of its profit than one that depends on a fad.",
+   "query": "Business meeting handshake",
+   "caption": "BUYERS PAY FOR DURABILITY",
+   "cuts": 3
+  },
+  {
+   "text": "And durable businesses are easier to finance. Banks and SBA lenders look at history and stability when deciding whether to lend. A plumbing company with ten years of steady records is far easier to finance than a brand new trendy concept. Easier financing means more people can buy these businesses, which supports their value.",
+   "query": "Bank building",
+   "caption": "EASIER TO FINANCE",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, durability lets compounding work. When a business keeps producing cash for decades, the owner can invest that cash year after year. Steady profits invested steadily are how many quiet millionaires are made: not one big win, but many good years in a row.",
+   "query": "Stock market chart on screen",
+   "caption": "LET COMPOUNDING WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Let's open the books of a made up but realistic durable business, so you can see where the money comes from.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Inside a durable business: an example"
+  },
+  {
+   "text": "Example: a small HVAC company. Revenue one million dollars. Owner's earnings about one hundred fifty thousand dollars.",
+   "card": {
+    "type": "stat",
+    "label": "example HVAC company",
+    "big": "$1M \u2192 $150K",
+    "sub": "illustration: revenue to owner earnings"
+   },
+   "caption": "EXAMPLE BOOKS",
+   "cuts": 1
+  },
+  {
+   "text": "Say this HVAC company brings in one million dollars a year. Equipment and parts cost around four hundred thousand. Technician wages and benefits take about three hundred thousand. Trucks, fuel, insurance, rent, software and marketing take another one hundred fifty thousand. That leaves around one hundred fifty thousand dollars for the owner, before taxes. These are illustrative numbers, but the shape is common.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "WHERE THE MONEY GOES",
+   "cuts": 3
+  },
+  {
+   "text": "Now look at what makes it durable. Say six hundred customers pay about two hundred dollars a year for maintenance agreements. That's one hundred twenty thousand dollars of recurring revenue before a single emergency call. Those customers also call this company first when something breaks, which feeds the repair and replacement business. The agreements are the foundation everything else is built on.",
+   "query": "Technician servicing furnace",
+   "caption": "THE RECURRING FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "And when the owner eventually sells, a buyer looks at that steady history, the agreements and the team. A business like this might sell for a few times its yearly owner earnings, depending on the market and how dependent it is on the owner. That sale price is the reward for twenty years of boring consistency.",
+   "query": "Business meeting handshake",
+   "caption": "THE PAYOFF AT SALE",
+   "cuts": 3
+  },
+  {
+   "text": "Second angle. The psychology. If durable businesses are so good, why do so many people chase trends instead?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The psychology",
+   "short_hook": "Why smart people keep chasing trends that die, while boring businesses quietly last for decades."
+  },
+  {
+   "text": "The first reason is novelty bias. New things grab our attention. A new app or a hot new food trend feels exciting, while a plumbing company feels like background noise. But what's exciting to talk about and what makes money for decades are often very different things.",
+   "query": "Person scrolling smartphone",
+   "caption": "NOVELTY BIAS",
+   "cuts": 3
+  },
+  {
+   "text": "The second reason is fear of missing out. When people see others getting rich quickly from a trend, they want in, often right before the trend fades. Durable businesses never trigger that feeling, because they grow slowly and steadily. Nobody brags at a party about their pest control company's renewal rate.",
+   "query": "Crowd of people",
+   "caption": "FEAR OF MISSING OUT",
+   "cuts": 3
+  },
+  {
+   "text": "The third reason is fear of technology. Many people assume every business will be replaced by AI or robots, so they think nothing is safe. But the businesses on this list involve physical work, local presence and personal trust, which are the hardest things for technology to replace. Smart owners use technology to run better, not as a reason to give up.",
+   "query": "Robot and human hands",
+   "caption": "FEAR OF TECHNOLOGY",
+   "cuts": 3
+  },
+  {
+   "text": "The fourth reason is status. Telling people you run a startup sounds more impressive than saying you own a pest control company. But status doesn't pay the mortgage. Many of the wealthiest people in small towns own exactly the kind of businesses on this list, and most of them stopped caring long ago what the business sounds like.",
+   "query": "People at party talking",
+   "caption": "STATUS",
+   "cuts": 3
+  },
+  {
+   "text": "The fifth reason is impatience. Durable businesses reward people who think in decades. Trendy businesses promise results in months. Most people choose months, which leaves the decades to those patient enough to wait for them.",
+   "query": "Hourglass",
+   "caption": "IMPATIENCE",
+   "cuts": 3
+  },
+  {
+   "text": "The takeaway. Boring and durable usually beats exciting and fragile, especially when you measure over twenty years instead of two.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Third angle. The playbook. How do you pick a durable business and get started?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The playbook",
+   "short_hook": "Use these five questions to know if a business will still exist in 2040."
+  },
+  {
+   "text": "The 2040 test. Physical? Local? Needed in recessions? Built on trust? Hard to enter?",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "the 2040 test",
+    "sub": "five questions for durability"
+   },
+   "caption": "THE 2040 TEST",
+   "cuts": 1
+  },
+  {
+   "text": "Ask five questions about any business. Does it require physical work in a specific place? Does it serve local customers who can't easily buy from far away? Do people need it even in a recession? Does it depend on trust and relationships? And are there barriers like licenses, equipment or skills that keep competitors out? The more yes answers, the more durable the business.",
+   "query": "Notebook with financial notes",
+   "caption": "FIVE QUESTIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Next, choose your path. You can learn a trade and start your own company, which takes years but can be powerful. You can buy an existing business from a retiring owner, often with SBA financing. Or you can invest in businesses as a silent partner, though that requires trusting the operator.",
+   "query": "Person standing at crossroads",
+   "caption": "CHOOSE YOUR PATH",
+   "cuts": 3
+  },
+  {
+   "text": "Whichever path you choose, start with a test. Work a season in the industry, shadow an owner, or run the business part time before going all in. A few months of real experience will tell you more about whether you can do this for twenty years than any amount of research.",
+   "query": "Workers on job site",
+   "caption": "TEST BEFORE YOU COMMIT",
+   "cuts": 3
+  },
+  {
+   "text": "Then, use technology as a tool. Online booking, digital marketing, scheduling software and automated invoicing can make a traditional business far more efficient. The owners who thrive in 2040 will run timeless businesses with modern tools.",
+   "query": "Laptop with business software",
+   "caption": "TIMELESS BUSINESS, MODERN TOOLS",
+   "cuts": 3
+  },
+  {
+   "text": "Here are a few examples. A plumber who offers online booking and text updates wins customers who hate waiting by the phone. An HVAC company that uses software to remind customers about tune ups sells more maintenance agreements. A barbershop with an app for appointments fills empty chairs. A cleaning company that uses route planning saves hours of driving every week. The business stays timeless. The tools make it faster, friendlier and more profitable.",
+   "query": "Smartphone booking app",
+   "caption": "EXAMPLES",
+   "cuts": 3
+  },
+  {
+   "text": "The same goes for AI. Owners can use it to answer common questions, write estimates faster, plan schedules and understand their numbers. Used well, it frees up time for the work only people can do: showing up, fixing the problem and earning the customer's trust.",
+   "query": "Robot and human hands",
+   "caption": "AI AS AN ASSISTANT",
+   "cuts": 3
+  },
+  {
+   "text": "And protect your foundation while you build. Keep an emergency fund, keep investing for retirement, and don't bet everything on one business. Even durable businesses face bad years, bad partners and bad luck. A strong personal financial base lets you survive them.",
+   "query": "Piggy bank coins",
+   "caption": "PROTECT YOUR FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Won't AI eventually replace these too? AI will change how they're run, from scheduling to diagnosis to marketing. But fixing a pipe, cutting hair or caring for an elderly parent requires physical presence and human trust. Those are likely to be among the last things to be fully automated. Question two. Do I need a license? Many of these do, especially plumbing, electrical, HVAC, insurance, pest control and childcare. Check your state's requirements early.",
+   "query": "Robot and human hands",
+   "caption": "AI? LICENSES?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question three. What's the best one to start with little money? Cleaning, landscaping, pet services and moving often have lower startup costs. Question four. What about buying instead of starting? Many owners of durable businesses are nearing retirement, which may create buying opportunities. Always review several years of financial records with an accountant before buying.",
+   "query": "Calculator and coins",
+   "caption": "LITTLE MONEY? BUYING?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Is it too late to learn a trade if I'm thirty or forty? No. Many people switch into trades later in life, and apprenticeships often pay while you learn. Maturity, reliability and customer skills can make older apprentices valuable. Question six. Should I franchise? Franchises in areas like senior care, cleaning and pest control offer training and brand recognition in exchange for fees and royalties. Compare the total cost carefully against starting independently.",
+   "query": "Older plumber with apprentice",
+   "caption": "TOO LATE? FRANCHISE?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. How do I know my local market isn't already saturated? Search for providers near you, count them, read their reviews, and notice how long it takes to get an appointment. Long wait times and mediocre reviews usually mean room for a better competitor. Question eight. What's the biggest risk in durable businesses? Usually not demand, but people: finding and keeping good workers. Owners who treat employees well have a real advantage.",
+   "query": "Phone ringing on desk",
+   "caption": "SATURATED? BIGGEST RISK?",
+   "cuts": 3
+  },
+  {
+   "text": "Let's recap the twenty. Plumbing. Electrical. HVAC. Roofing. Auto repair. Funeral services. Senior care. Dentistry. Veterinary and pet services. Childcare. Landscaping. Pest control. Cleaning. Accounting. Insurance. Storage. Barbershops. Locksmiths. Moving. And waste management.",
+   "query": "Notebook with financial notes",
+   "caption": "THE 20",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "And the lesson behind them. Physical, local, needed and trusted businesses tend to outlast every trend. Durability multiplies profits, raises business value, makes financing easier and gives compounding time to work.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "THE LESSON",
+   "cuts": 3
+  },
+  {
+   "text": "Think about your own town in 2040. The phones will be smarter, the cars may drive themselves, and AI will be everywhere. But somewhere a pipe will burst at two in the morning, a dog will need surgery, a family will need a funeral, and an older couple will need help staying in their home. The people who own the businesses that answer those calls will still be earning, year after year.",
+   "query": "Small town main street",
+   "caption": "YOUR TOWN IN 2040",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need to predict the next big trend to build wealth. You need to find a need that won't go away, serve it better than anyone nearby, and keep doing it for a long time. That's not exciting advice. But it's the advice that has worked for generations of quiet millionaires, and it will very likely still work in 2040.",
+   "query": "Notebook with financial notes",
+   "caption": "THE QUIET MILLIONAIRE ADVICE",
+   "cuts": 3
+  },
+  {
+   "text": "Pick one business from this list that fits your skills and your town. This week, look up how many companies offer it nearby, read their reviews, and call one owner to ask how they got started. I'm Ryan Rover. Build something that lasts, and I'll see you in the next video.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

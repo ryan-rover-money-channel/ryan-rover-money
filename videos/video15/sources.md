@@ -1,0 +1,5 @@
+- Bureau of Labor Statistics, Occupational Outlook Handbook (employment projections for trades and services)
+- U.S. Census Bureau, population projections (growth of the 65 and older population)
+- S&P Global Mobility, average age of light vehicles in the U.S. (over 12 years)
+- U.S. Small Business Administration, 7(a) loan program (business acquisition loans)
+- Durability comparison: simplified illustration ($100,000 a year for 20 years vs $200,000 a year for 3 years)

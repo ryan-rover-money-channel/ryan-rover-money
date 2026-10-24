@@ -1,0 +1,891 @@
+{
+ "id": "video19",
+ "angle": "AI-proof businesses",
+ "length_scale": 1.25,
+ "title": "15 Businesses AI Can't Replace",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Every week there's a new headline about AI taking jobs. It writes emails, designs logos, answers customer service calls and even writes code. If you're thinking about starting or buying a business, that's a scary backdrop. Why build something a machine might replace in five years? So today, we're going through fifteen businesses that AI can't replace, why they're protected, how they make money, and the twist most people miss: how AI can actually make these businesses more profitable.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro",
+   "short_hook": "AI can write, draw and code. Here are 15 businesses it still can't replace, and probably won't for a long time."
+  },
+  {
+   "text": "Fifteen businesses AI can't replace. Built on hands, presence, trust and the physical world.",
+   "card": {
+    "type": "stat",
+    "label": "AI-proof businesses",
+    "big": "15",
+    "sub": "hands, presence, trust, real world"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Let's start with what AI is good at and what it isn't. AI is very good at working with information: words, numbers, images, code and patterns. It struggles with the messy physical world: crawling under a house, calming a scared child, fixing a leaking pipe behind a wall, or reading the mood of a grieving family. Robots are improving, but robots that can handle unpredictable homes and people at a reasonable cost are still far away for most tasks.",
+   "query": "Robot and human hands",
+   "caption": "WHAT AI CAN AND CAN'T DO",
+   "cuts": 5
+  },
+  {
+   "text": "So our test for this list is simple. A business makes it if the core work needs human hands in unpredictable physical spaces, human presence that customers actually want, or human trust and judgment that people aren't willing to hand to a machine. The more of those three a business has, the more protected it is.",
+   "query": "Plumber working on pipes",
+   "caption": "THE TEST: HANDS, PRESENCE, TRUST",
+   "cuts": 3
+  },
+  {
+   "text": "A quick warning. Nobody knows exactly how fast technology will change, and some parts of every business will be automated. Any income numbers here are illustrations, not promises. The goal is to help you think clearly about which businesses have durable demand, so you can build or buy with more confidence.",
+   "query": "Calendar pages flying",
+   "caption": "NOBODY KNOWS THE FUTURE EXACTLY",
+   "cuts": 3
+  },
+  {
+   "text": "We'll go through all fifteen, then look at them from three angles. The numbers, meaning how AI can lower costs and raise profits in these businesses. The psychology, meaning why fear of AI makes people freeze, and why that's an opportunity. And the playbook, meaning how to choose one and use AI as your assistant instead of your competitor.",
+   "query": "Notebook with financial notes",
+   "caption": "15 BUSINESSES, 3 ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the trades.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Employment projections come from the Bureau of Labor Statistics Occupational Outlook Handbook. Information about aging comes from the U.S. Census Bureau. Small business data comes from the U.S. Small Business Administration. Example numbers are simplified illustrations. This video is education, not financial, legal or business advice.",
+   "query": "Government building",
+   "caption": "SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Number 1. Electrical and plumbing contracting. every building is different, every job is a puzzle",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Electrical and plumbing contracting",
+    "sub": "every building is different, every job is a puzzle"
+   },
+   "caption": "AI-PROOF 1",
+   "cuts": 1,
+   "chapter": "1. Electrical and plumbing contracting"
+  },
+  {
+   "text": "Why AI can't replace it. Every house is different. The wiring in a 1960s home looks nothing like a new build, and the pipe behind a bathroom wall could be copper, plastic or something older. A licensed electrician or plumber walks in, diagnoses an unpredictable problem, and fixes it with their hands, often in tight, awkward spaces. Robots that can do that across millions of different homes are nowhere close.",
+   "query": "Electrician working on panel",
+   "caption": "EVERY HOUSE IS A PUZZLE",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Service calls, repairs, installations and larger projects. Many contractors build recurring revenue with maintenance plans and partnerships with builders and property managers. Licensing takes years, which limits competition. And with many experienced tradespeople retiring, skilled contractors may see strong demand for years.",
+   "query": "Plumber working on pipes",
+   "caption": "SERVICE, REPAIRS, PLANS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can answer the phone after hours, book appointments, write estimates faster, help diagnose problems from photos, and remind customers about maintenance. That means fewer missed calls and less office work, so the contractor can spend more time on paid jobs.",
+   "query": "Smartphone booking app",
+   "caption": "NO MORE MISSED CALLS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Most electricians and plumbers start with a paid apprenticeship that lasts several years, then earn a journeyman license and eventually a master or contractor license. Many work for others for years, learning both the trade and how a company prices and sells jobs, before starting their own or buying one from a retiring owner.",
+   "query": "Older plumber with apprentice",
+   "caption": "APPRENTICE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Number 2. Home remodeling. kitchens, bathrooms and basements built by hand",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Home remodeling",
+    "sub": "kitchens, bathrooms and basements built by hand"
+   },
+   "caption": "AI-PROOF 2",
+   "cuts": 1,
+   "chapter": "2. Home remodeling"
+  },
+  {
+   "text": "Why AI can't replace it. Remodeling means tearing out old materials, discovering surprises behind walls, adjusting plans on the fly and coordinating many trades. It also means sitting at a kitchen table with a nervous couple spending a big chunk of their savings, and earning their trust. That mix of physical work and human judgment is extremely hard to automate.",
+   "query": "Kitchen remodel",
+   "caption": "SURPRISES BEHIND EVERY WALL",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Remodelers earn money on large projects like kitchens, bathrooms, decks and additions. Margins depend on accurate estimates, good project management and reliable subcontractors. A company with a strong reputation can keep a long waiting list of projects.",
+   "query": "Contractor with homeowners",
+   "caption": "BIG PROJECTS, BIG TRUST",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can create design renderings so customers can see their new kitchen before work begins, produce material lists, draft schedules and send progress updates. Customers feel more informed, and the remodeler spends less time on paperwork.",
+   "query": "Laptop with design software",
+   "caption": "SHOW IT BEFORE YOU BUILD IT",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Many remodelers come from a trade or from project management. Start with smaller jobs like bathrooms and decks, build a portfolio of before and after photos, and line up reliable subcontractors. Licensing requirements vary by state and job size, so check before you bid.",
+   "query": "Kitchen remodel",
+   "caption": "START WITH BATHROOMS",
+   "cuts": 3
+  },
+  {
+   "text": "Number 3. Auto body and collision repair. every crash is unique",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Auto body and collision repair",
+    "sub": "every crash is unique"
+   },
+   "caption": "AI-PROOF 3",
+   "cuts": 1,
+   "chapter": "3. Auto body and collision repair"
+  },
+  {
+   "text": "Why AI can't replace it. No two accidents are the same. A collision shop has to assess damage, straighten frames, repair or replace panels and match paint perfectly. Cars are getting more complex, with sensors and cameras that need careful calibration after repairs, which raises the skill required, not lowers it.",
+   "query": "Auto body shop",
+   "caption": "EVERY CRASH IS UNIQUE",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Collision shops earn much of their revenue through insurance claims, which creates steady demand as long as people drive. Shops that build relationships with insurers and earn certifications from car manufacturers can attract more work.",
+   "query": "Insurance documents",
+   "caption": "INSURANCE DRIVEN DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI tools can estimate damage from photos, speed up insurance paperwork and order parts. That shortens repair times, which keeps customers and insurers happy, and lets the shop handle more cars with the same team.",
+   "query": "Smartphone camera photo",
+   "caption": "FASTER ESTIMATES",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Technicians train through vocational programs and certifications, and many owners worked in shops for years. Buying an existing shop with insurer relationships is a common path to ownership, because those relationships are hard to build from scratch.",
+   "query": "Auto body shop",
+   "caption": "BUY THE RELATIONSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "Number 4. Home health and senior care. older adults want people, not machines",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Home health and senior care",
+    "sub": "older adults want people, not machines"
+   },
+   "caption": "AI-PROOF 4",
+   "cuts": 1,
+   "chapter": "4. Home health and senior care"
+  },
+  {
+   "text": "Why AI can't replace it. Helping an older person bathe, dress, take medication and move safely around their home requires gentle hands, patience and judgment. And companionship is a big part of the service. Most families don't want a robot caring for their mother. They want a kind, trustworthy person, and the Census Bureau projects the older population will keep growing for decades.",
+   "query": "Caregiver helping elderly person",
+   "caption": "PEOPLE, NOT MACHINES",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Home care agencies charge by the hour for caregivers who help with daily living. Some services are paid privately, others by long term care insurance or government programs, depending on the type of care. Demand is strong in many areas, and the biggest challenge is often finding enough caregivers.",
+   "query": "Elderly couple at home",
+   "caption": "GROWING DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can help schedule caregivers efficiently, track visits, handle billing and flag changes in a client's routine that might need attention. That frees managers to focus on recruiting and supporting caregivers, which is the real bottleneck.",
+   "query": "Laptop with business software",
+   "caption": "SMARTER SCHEDULING",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Non medical home care agencies can start with modest capital in many states, though licensing rules vary. Some owners choose a franchise for training and systems. The key skill isn't caregiving itself, but recruiting, training and keeping great caregivers.",
+   "query": "Caregiver helping elderly person",
+   "caption": "RECRUITING IS THE JOB",
+   "cuts": 3
+  },
+  {
+   "text": "Number 5. Physical therapy and massage. healing through human hands",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Physical therapy and massage",
+    "sub": "healing through human hands"
+   },
+   "caption": "AI-PROOF 5",
+   "cuts": 1,
+   "chapter": "5. Physical therapy and massage",
+   "short_hook": "AI can tell you which stretches to do. It can't do this."
+  },
+  {
+   "text": "Why AI can't replace it. Physical therapists and massage therapists work with their hands, feeling tight muscles, adjusting movements and reacting to how a patient responds in real time. Patients recovering from surgery or injury also need encouragement and accountability from a real person.",
+   "query": "Physical therapist with patient",
+   "caption": "HEALING HANDS",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Physical therapy clinics bill insurance or patients directly, while massage businesses often sell memberships with monthly sessions. Memberships create recurring revenue and loyal clients. Both require licenses, which protects those who have them.",
+   "query": "Massage therapy room",
+   "caption": "MEMBERSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can create home exercise programs, track patient progress, send reminders and handle scheduling and billing. Patients stay on track between visits, and therapists spend less time on paperwork.",
+   "query": "Smartphone fitness app",
+   "caption": "PROGRESS BETWEEN VISITS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Physical therapists need a doctoral degree and a license, while massage therapists usually complete a shorter training program and licensing. Many massage therapists start by renting a room, building a client list, then opening their own studio with memberships.",
+   "query": "Massage therapy room",
+   "caption": "RENT A ROOM FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Number 6. Personal training and fitness studios. people pay for accountability",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Personal training and fitness studios",
+    "sub": "people pay for accountability"
+   },
+   "caption": "AI-PROOF 6",
+   "cuts": 1,
+   "chapter": "6. Personal training and fitness studios"
+  },
+  {
+   "text": "Why AI can't replace it. There are countless free workout videos and fitness apps. Yet people still pay personal trainers. Why? Because what they're buying isn't information. It's accountability, motivation, correct form and a person who notices when they're struggling. Group fitness studios also sell community, which no app can fully replace.",
+   "query": "Personal trainer with client",
+   "caption": "ACCOUNTABILITY",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Trainers charge per session or by package, and studios sell monthly memberships. A studio with a loyal community can have steady recurring revenue. Specialized niches like strength training for older adults or injury recovery can command higher prices.",
+   "query": "Group fitness class",
+   "caption": "COMMUNITY",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can build personalized workout plans, track progress, send reminders and handle bookings. A trainer using these tools can serve more clients with better results, while spending their time where it matters most: coaching in person.",
+   "query": "Smartphone fitness app",
+   "caption": "MORE CLIENTS, BETTER RESULTS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Get a respected certification, start training clients at an existing gym or in their homes, and build a reputation for results. Some trainers later open small studios focused on a niche, like older adults or strength training, where loyalty runs deep.",
+   "query": "Personal trainer with client",
+   "caption": "PICK A NICHE",
+   "cuts": 3
+  },
+  {
+   "text": "Number 7. Hair, nails and beauty. you can't download a haircut",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Hair, nails and beauty",
+    "sub": "you can't download a haircut"
+   },
+   "caption": "AI-PROOF 7",
+   "cuts": 1,
+   "chapter": "7. Hair, nails and beauty"
+  },
+  {
+   "text": "Why AI can't replace it. Cutting hair, coloring, doing nails and skincare all require skilled hands working on a real person. And the experience matters: the conversation, the relationship with a stylist you trust, the feeling of walking out looking great. Robots that can safely cut every type of hair at a reasonable price aren't anywhere close to replacing stylists.",
+   "query": "Barber cutting hair",
+   "caption": "YOU CAN'T DOWNLOAD A HAIRCUT",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Salons earn money from services, product sales and renting chairs to independent stylists. Clients who return every few weeks create predictable revenue. A strong team and loyal clients make a salon a durable business.",
+   "query": "Hair salon interior",
+   "caption": "LOYAL CLIENTS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can manage bookings, send reminders, fill last minute cancellations, suggest products and help with social media posts. Fewer empty chairs means more revenue from the same team.",
+   "query": "Smartphone booking app",
+   "caption": "FEWER EMPTY CHAIRS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Stylists complete cosmetology training and state licensing, then build a client list at an established salon. Many eventually open their own salon and rent chairs to other stylists, which creates income beyond their own appointments.",
+   "query": "Hair salon interior",
+   "caption": "BUILD A CLIENT LIST",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're finding this useful, subscribe to the channel. Every week, Ryan breaks down how money and business really work in a world that's changing fast. Now, number eight.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Number 8. Tattoo studios. art on skin, done by hand",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Tattoo studios",
+    "sub": "art on skin, done by hand"
+   },
+   "caption": "AI-PROOF 8",
+   "cuts": 1,
+   "chapter": "8. Tattoo studios"
+  },
+  {
+   "text": "Why AI can't replace it. AI can design a tattoo, but it can't put it on your skin. Tattooing requires steady hands, artistic skill, strict hygiene and the trust of a client who's about to wear the result for life. Many clients also choose an artist for their personal style and reputation.",
+   "query": "Tattoo artist working",
+   "caption": "STEADY HANDS",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Studios earn from artist fees, often by renting space to independent artists or taking a percentage of each tattoo. Top artists may book months in advance and charge premium rates. Licensing and health regulations apply in most states.",
+   "query": "Tattoo studio interior",
+   "caption": "ARTISTS BOOK AHEAD",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can help artists brainstorm designs with clients, manage bookings and deposits, and create social media content showing their work. The design conversation gets faster, but the needle stays in human hands.",
+   "query": "Laptop with design software",
+   "caption": "FASTER DESIGN",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Most tattoo artists learn through an apprenticeship under an experienced artist, along with bloodborne pathogen training and local licensing. A strong portfolio on social media is often the main source of clients.",
+   "query": "Tattoo artist working",
+   "caption": "APPRENTICESHIP AND PORTFOLIO",
+   "cuts": 3
+  },
+  {
+   "text": "Number 9. Wedding and event planning. the day can't go wrong",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Wedding and event planning",
+    "sub": "the day can't go wrong"
+   },
+   "caption": "AI-PROOF 9",
+   "cuts": 1,
+   "chapter": "9. Wedding and event planning"
+  },
+  {
+   "text": "Why AI can't replace it. A wedding planner manages vendors, solves last minute disasters, calms stressed families and makes split second decisions on the day. AI can draft a timeline, but when the florist is late and the rain starts, couples want a calm human in charge.",
+   "query": "Wedding reception",
+   "caption": "THE DAY CAN'T GO WRONG",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Planners charge flat fees or a percentage of the event budget. Corporate events, conferences and parties add year round demand. Referrals from venues and past clients drive most new business.",
+   "query": "Event planner with clipboard",
+   "caption": "FEES AND REFERRALS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can create budgets, timelines, vendor lists and guest communications in minutes. That lets one planner handle more events and spend more time on the human side: relationships, creativity and problem solving.",
+   "query": "Laptop with business software",
+   "caption": "PLANNING IN MINUTES",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Many planners start by helping friends, working for a venue, or assisting an established planner. Building relationships with venues, caterers and photographers creates a referral network that brings steady clients.",
+   "query": "Event planner with clipboard",
+   "caption": "BUILD A REFERRAL NETWORK",
+   "cuts": 3
+  },
+  {
+   "text": "Number 10. Food trucks and catering. people want food made by people",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Food trucks and catering",
+    "sub": "people want food made by people"
+   },
+   "caption": "AI-PROOF 10",
+   "cuts": 1,
+   "chapter": "10. Food trucks and catering"
+  },
+  {
+   "text": "Why AI can't replace it. Cooking, serving and the experience of a local food truck or caterer are deeply human. Automated kitchens exist, but much of the appeal of local food is the people, the recipes and the atmosphere. Catering also involves setup, service and adjusting to each event.",
+   "query": "Food truck",
+   "caption": "FOOD MADE BY PEOPLE",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Food trucks earn from daily sales at busy locations and events, while caterers earn from weddings, corporate lunches and parties. Catering often has better margins than daily truck sales, so many trucks add catering over time.",
+   "query": "Catering buffet",
+   "caption": "CATERING MARGINS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can forecast demand, plan menus, manage inventory, price items and handle online orders. Less waste and smarter pricing can make a real difference in a business with thin margins.",
+   "query": "Laptop with business software",
+   "caption": "LESS WASTE",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Start by testing recipes at markets and events, learn your local health and permit rules, and consider renting time in a commercial kitchen before buying a truck. Catering corporate lunches can provide steadier income than street sales.",
+   "query": "Food truck",
+   "caption": "TEST BEFORE YOU BUY A TRUCK",
+   "cuts": 3
+  },
+  {
+   "text": "Number 11. Tree service. climbing, cutting and judgment at height",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Tree service",
+    "sub": "climbing, cutting and judgment at height"
+   },
+   "caption": "AI-PROOF 11",
+   "cuts": 1,
+   "chapter": "11. Tree service",
+   "short_hook": "This dangerous job pays well, and no robot is anywhere close to doing it."
+  },
+  {
+   "text": "Why AI can't replace it. Tree work means climbing, cutting heavy limbs near houses and power lines, and making judgment calls about how a tree will fall. Every tree and yard is different, and mistakes can be deadly. That's exactly the kind of work that resists automation.",
+   "query": "Tree removal crew",
+   "caption": "JUDGMENT AT HEIGHT",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Tree companies earn from removals, trimming, storm cleanup and stump grinding. Storm damage creates bursts of urgent demand, and certified arborists can charge more for expertise. Equipment like bucket trucks and chippers is expensive, which limits competition.",
+   "query": "Storm damage on house",
+   "caption": "STORM DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can help estimate jobs from photos, plan routes and manage scheduling. Some companies use drones to inspect tall trees safely. The cutting, though, stays very human.",
+   "query": "Drone flying",
+   "caption": "DRONES FOR INSPECTION",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Work on a tree crew first, learn climbing and safety, and consider becoming a certified arborist. Insurance is essential, and many owners start with a smaller truck and grow into bucket trucks and chippers.",
+   "query": "Tree removal crew",
+   "caption": "SAFETY AND CERTIFICATION",
+   "cuts": 3
+  },
+  {
+   "text": "Number 12. Childcare. parents trust people with their kids",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Childcare",
+    "sub": "parents trust people with their kids"
+   },
+   "caption": "AI-PROOF 12",
+   "cuts": 1,
+   "chapter": "12. Childcare"
+  },
+  {
+   "text": "Why AI can't replace it. Parents want warm, trustworthy humans caring for their children. Childcare involves comforting, teaching, feeding and keeping kids safe in unpredictable situations. That's about as far from automation as work gets.",
+   "query": "Children playing in daycare",
+   "caption": "TRUST WITH KIDS",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Childcare centers and home daycares charge weekly or monthly fees. Demand often exceeds supply, with waiting lists in many areas. Margins can be thin because staffing ratios are required by law, but full enrollment and good management make the business stable.",
+   "query": "Calendar on desk",
+   "caption": "WAITING LISTS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can handle enrollment, billing, parent updates and staff scheduling. Parents get photos and updates through apps, which builds trust, and staff spend more time with the children.",
+   "query": "Smartphone with photos",
+   "caption": "PARENT UPDATES",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Many providers start with a licensed home daycare, which has lower costs than a center. Contact your state licensing agency early, because rules on space, ratios and training are strict.",
+   "query": "Children playing in daycare",
+   "caption": "HOME DAYCARE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Number 13. Veterinary and pet grooming. pets need hands too",
+   "card": {
+    "type": "list",
+    "n": 13,
+    "title": "Veterinary and pet grooming",
+    "sub": "pets need hands too"
+   },
+   "caption": "AI-PROOF 13",
+   "cuts": 1,
+   "chapter": "13. Veterinary and pet grooming"
+  },
+  {
+   "text": "Why AI can't replace it. Examining a scared dog, performing surgery, or grooming a wiggly cat requires skilled hands and patience. Pet owners also want a person they trust caring for their animals.",
+   "query": "Veterinarian with dog",
+   "caption": "PETS NEED HANDS",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Vet clinics earn from exams, vaccines, surgery and medications, while groomers earn from regular appointments. Mobile grooming vans have become popular, charging premium prices for convenience.",
+   "query": "Dog grooming",
+   "caption": "MOBILE GROOMING",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can help with appointment reminders, record keeping and even assisting veterinarians with diagnostics and imaging. Better tools, same human care.",
+   "query": "Laptop with business software",
+   "caption": "BETTER TOOLS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Veterinarians need a doctoral degree, but grooming can start with a course and some experience. Mobile grooming vans let groomers start without a storefront and charge premium prices.",
+   "query": "Dog grooming",
+   "caption": "MOBILE FIRST",
+   "cuts": 3
+  },
+  {
+   "text": "Number 14. Experiences and entertainment. people pay to be there in person",
+   "card": {
+    "type": "list",
+    "n": 14,
+    "title": "Experiences and entertainment",
+    "sub": "people pay to be there in person"
+   },
+   "caption": "AI-PROOF 14",
+   "cuts": 1,
+   "chapter": "14. Experiences and entertainment"
+  },
+  {
+   "text": "Why AI can't replace it. Escape rooms, axe throwing, climbing gyms, mini golf, guided tours and live music. As more of life moves online, many people value real world experiences with friends even more. You can't replace being somewhere together.",
+   "query": "Friends at escape room",
+   "caption": "BEING THERE TOGETHER",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. These businesses earn from tickets, group bookings, corporate team building and parties. Repeat visits and private events are key to steady revenue. Location and reviews matter a lot.",
+   "query": "Corporate team building",
+   "caption": "GROUPS AND EVENTS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can manage bookings, dynamic pricing and marketing, and help design new experiences. The experience itself happens in the real world.",
+   "query": "Smartphone booking app",
+   "caption": "SMART BOOKINGS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Experience businesses need a good location, a fun concept and strong reviews. Visit successful ones in other cities, study their pricing and group packages, and start with a concept that fits your local market.",
+   "query": "Friends at escape room",
+   "caption": "STUDY WHAT WORKS",
+   "cuts": 3
+  },
+  {
+   "text": "Number 15. Appliance and equipment repair. fixing things beats replacing them",
+   "card": {
+    "type": "list",
+    "n": 15,
+    "title": "Appliance and equipment repair",
+    "sub": "fixing things beats replacing them"
+   },
+   "caption": "AI-PROOF 15",
+   "cuts": 1,
+   "chapter": "15. Appliance and equipment repair"
+  },
+  {
+   "text": "Why AI can't replace it. Repairing a refrigerator, a commercial oven or a piece of farm equipment means diagnosing problems on site, opening machines and replacing parts by hand. As appliances get more expensive, repair becomes more attractive than replacement for many customers.",
+   "query": "Appliance repair technician",
+   "caption": "FIX, DON'T REPLACE",
+   "cuts": 3
+  },
+  {
+   "text": "How it makes money. Repair businesses earn from service calls, parts and maintenance contracts with restaurants, laundromats and other businesses that can't afford downtime. Commercial customers often pay premium rates for fast response.",
+   "query": "Restaurant kitchen",
+   "caption": "COMMERCIAL CONTRACTS",
+   "cuts": 3
+  },
+  {
+   "text": "How AI actually helps it. AI can help technicians diagnose problems faster, look up repair manuals and order parts instantly. That means more repairs per day and happier customers.",
+   "query": "Laptop with business software",
+   "caption": "FASTER DIAGNOSIS",
+   "cuts": 3
+  },
+  {
+   "text": "Getting started. Technicians often train at trade schools or with manufacturers, then build a client base among homeowners and businesses. Commercial maintenance contracts provide steady revenue and make the business more valuable.",
+   "query": "Appliance repair technician",
+   "caption": "COMMERCIAL CONTRACTS",
+   "cuts": 3
+  },
+  {
+   "text": "Even in AI proof businesses, AI will change a lot. Here's what to expect.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What AI will change in every business"
+  },
+  {
+   "text": "The front office will shrink. Answering phones, booking appointments, sending reminders, writing quotes and chasing invoices are all tasks AI is already good at. Businesses that used to need a full time office person may need much less office time, which lowers costs.",
+   "query": "Office desk with phone",
+   "caption": "THE FRONT OFFICE SHRINKS",
+   "cuts": 3
+  },
+  {
+   "text": "Marketing will get cheaper and faster. AI can write posts, create images, respond to reviews and help run ads. That lowers the cost of reaching customers, which helps small businesses compete with bigger ones. But it also means everyone can market, so quality and reputation matter even more.",
+   "query": "Smartphone social media",
+   "caption": "MARKETING GETS CHEAPER",
+   "cuts": 3
+  },
+  {
+   "text": "And customers will expect faster responses. When AI makes instant replies possible, customers start expecting them. The business that answers in two minutes beats the one that answers tomorrow. Speed becomes a competitive advantage, even in the most hands on industries.",
+   "query": "Phone ringing on desk",
+   "caption": "CUSTOMERS EXPECT SPEED",
+   "cuts": 3
+  },
+  {
+   "text": "To make the contrast clear, here are businesses more exposed to AI. Basic content writing, simple graphic design, transcription, translation for everyday documents, basic bookkeeping data entry and simple customer service call centers. These involve information work that AI handles well, so prices may fall as AI improves.",
+   "query": "Laptop with business software",
+   "caption": "MORE EXPOSED",
+   "cuts": 3,
+   "chapter": "Businesses to be careful with"
+  },
+  {
+   "text": "That doesn't mean these fields disappear. Experts who use AI to deliver better, faster work for clients with complex needs can still thrive. But a business built only on doing simple information tasks cheaply will face growing pressure. The lesson: move toward judgment, relationships and the physical world.",
+   "query": "Person thinking with notebook",
+   "caption": "MOVE TOWARD JUDGMENT",
+   "cuts": 3
+  },
+  {
+   "text": "Let's get practical. Here's a simple AI toolkit almost any hands on business could use, starting this month.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "A simple AI toolkit for a hands on business"
+  },
+  {
+   "text": "Tool one. An AI phone and text assistant that answers after hours, collects the customer's problem and address, and books an appointment or a callback. For many service businesses, missed calls are the biggest leak of revenue, and this plugs it. Tool two. An AI writing assistant for quotes, follow up emails and replies to online reviews, which saves hours every week.",
+   "query": "Phone ringing on desk",
+   "caption": "TOOLS 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Tool three. Scheduling and route planning software that groups jobs by location and assigns the right worker to the right job. Less driving means more paid work and lower fuel costs. Tool four. Bookkeeping software with AI categorization, so your numbers stay up to date without a weekend of receipts every month.",
+   "query": "Map with pins",
+   "caption": "TOOLS 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "Tool five. An AI assistant for marketing: social posts, simple ads, before and after photo captions and seasonal promotions. Keep it honest and personal, with real photos of your real work. Customers can tell the difference, and authenticity is part of what makes a local business trusted.",
+   "query": "Smartphone social media",
+   "caption": "TOOL 5",
+   "cuts": 3
+  },
+  {
+   "text": "You don't need all five at once. Pick the one that fixes your biggest headache, measure the results for a month, then decide whether to add another. The goal isn't to become a tech company. It's to spend more of your time on the human work customers actually pay for.",
+   "query": "Notebook with financial notes",
+   "caption": "ONE AT A TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Let's look at three made up but realistic owners. First, a plumber running a three truck company. He sets up an AI answering service that books jobs at night and on weekends. Calls that used to go to voicemail, and then to a competitor, now become appointments. Without hiring another office person, he adds dozens of jobs a month.",
+   "query": "Plumber working on pipes",
+   "caption": "THE PLUMBER",
+   "cuts": 3,
+   "chapter": "Three owners who use AI as a helper"
+  },
+  {
+   "text": "Second, a salon owner who uses AI to fill last minute cancellations by texting clients on a waitlist and to write social media posts in minutes. Her stylists' chairs are fuller, and she saves hours every week on marketing.",
+   "query": "Hair salon interior",
+   "caption": "THE SALON OWNER",
+   "cuts": 3
+  },
+  {
+   "text": "Third, a home care agency owner who uses AI scheduling to match caregivers with clients based on location and skills. Caregivers drive less, clients get more consistent care, and the agency can grow without drowning in scheduling chaos. In all three cases, AI didn't replace the business. It made the business better.",
+   "query": "Caregiver helping elderly person",
+   "caption": "THE CARE AGENCY",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one. Ignoring AI completely. Competitors who use it to answer calls faster, quote jobs faster and market better will win customers. Mistake two. Trusting AI blindly. AI tools make mistakes, sometimes confidently. Always review estimates, messages and advice before they reach customers.",
+   "query": "Person thinking with notebook",
+   "caption": "MISTAKES 1 AND 2",
+   "cuts": 3,
+   "chapter": "Four mistakes owners make with AI"
+  },
+  {
+   "text": "Mistake three. Replacing the human touch where customers want it. If a grieving family or a worried parent calls, they want a person, not a bot. Use AI for paperwork, not for moments that need empathy. And mistake four. Feeding sensitive customer information into tools without understanding privacy rules. Health, financial and children's information deserve extra care.",
+   "query": "Person reading documents",
+   "caption": "MISTAKES 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "Now, three angles. First, the numbers. How can AI make an AI proof business more profitable?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The numbers"
+  },
+  {
+   "text": "An illustration. A service business with one million dollars in revenue and ten percent profit earns one hundred thousand dollars. Cut office costs by thirty thousand and add twenty thousand of profit from calls you used to miss, and profit can rise to around one hundred fifty thousand.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Before AI tools",
+     "big": "$100K",
+     "sub": "10% profit on $1M"
+    },
+    "right": {
+     "label": "After AI tools",
+     "big": "\u2248$150K",
+     "sub": "lower costs, fewer missed calls"
+    }
+   },
+   "caption": "AI AS A PROFIT TOOL",
+   "cuts": 1
+  },
+  {
+   "text": "Here's a simple illustration. A service company brings in one million dollars a year and keeps ten percent as profit, one hundred thousand dollars. Say AI tools reduce office and scheduling costs by thirty thousand dollars. And say answering every call, day and night, brings in extra jobs worth enough to add about twenty thousand dollars of profit. Profit rises from one hundred thousand to around one hundred fifty thousand dollars. That's a fifty percent jump in profit without a single extra truck.",
+   "query": "Calculator and coins",
+   "caption": "THE MATH",
+   "cuts": 3
+  },
+  {
+   "text": "Why does such a small change matter so much? Because service businesses often have thin margins. When profit is ten percent of revenue, every dollar saved or earned on top goes straight to the bottom line. A few percentage points of efficiency can transform the owner's income.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "THIN MARGINS MAGNIFY GAINS",
+   "cuts": 3
+  },
+  {
+   "text": "And higher profit raises the value of the business. If a business sells for three times its profit, raising profit by fifty thousand dollars could add around one hundred fifty thousand dollars to its value. AI tools, used well, can make an AI proof business worth more.",
+   "query": "Business meeting handshake",
+   "caption": "HIGHER VALUE",
+   "cuts": 3
+  },
+  {
+   "text": "Of course, these are illustrations. AI tools cost money, take time to set up, and don't always deliver what they promise. Start with one tool that solves one clear problem, like missed calls or scheduling, and measure the results before adding more.",
+   "query": "Notebook with financial notes",
+   "caption": "START WITH ONE TOOL",
+   "cuts": 3
+  },
+  {
+   "text": "There's also a labor angle. Many of these industries struggle to find enough skilled workers. AI won't swing a hammer, but it can make each worker more productive by cutting the time spent on driving, paperwork and back and forth with customers. If each technician completes one extra job per week thanks to better scheduling, that adds up to fifty extra jobs a year per person, without hiring anyone new.",
+   "query": "Team of workers",
+   "caption": "MORE JOBS PER WORKER",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, compare the two kinds of businesses side by side. An information business exposed to AI may see prices fall as competitors use AI to work faster and cheaper. A hands on business protected from AI can use the same tools to lower its costs while its prices hold steady, because customers still need the human work. Falling costs and steady prices is exactly the combination that grows profit.",
+   "query": "Calculator and coins",
+   "caption": "FALLING COSTS, STEADY PRICES",
+   "cuts": 3
+  },
+  {
+   "text": "Second angle. The psychology. How does fear of AI affect people's money decisions?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The psychology",
+   "short_hook": "The fear of AI is making people freeze. That's exactly why this is an opportunity."
+  },
+  {
+   "text": "The first effect is paralysis. Some people are so worried about AI that they don't start or buy any business, waiting to see what happens. But waiting has a cost: years of income and ownership missed. The businesses on this list are among the safest bets available.",
+   "query": "Person standing at crossroads",
+   "caption": "PARALYSIS",
+   "cuts": 3
+  },
+  {
+   "text": "The second effect is a herd moving the wrong way. Many young people are being pushed toward office and computer jobs, the exact kind of work AI is getting good at, while fewer enter the trades and hands on businesses. That imbalance may raise the value of hands on skills.",
+   "query": "Crowd of people",
+   "caption": "THE HERD",
+   "cuts": 3
+  },
+  {
+   "text": "The third effect is overconfidence in technology. Some people assume robots will soon do everything, so nothing physical is worth building. But physical robots that can handle unpredictable homes, people and situations are improving slowly compared with software. Be humble about predictions in both directions.",
+   "query": "Robot and human hands",
+   "caption": "OVERCONFIDENCE",
+   "cuts": 3
+  },
+  {
+   "text": "The fourth effect is status confusion. For decades, office jobs were seen as the safe, respectable path, and hands on work was seen as a backup plan. AI is turning that upside down. The skills that looked old fashioned, fixing, building, caring, may turn out to be the most future proof. People who let go of the old status story early may benefit the most.",
+   "query": "Person at office desk",
+   "caption": "STATUS CONFUSION",
+   "cuts": 3
+  },
+  {
+   "text": "And the fifth effect is underestimating trust. People assume customers will always choose the cheapest, fastest option, even if it's a machine. But when the stakes are personal, like your home, your body, your kids or your parents, most people still want a human they can look in the eye. Trust is a moat that technology doesn't easily cross.",
+   "query": "Handshake with customer",
+   "caption": "TRUST IS A MOAT",
+   "cuts": 3
+  },
+  {
+   "text": "The takeaway. Fear makes people freeze or follow the herd. Clear thinking shows that human, hands on businesses may be some of the best opportunities of the next decade.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Third angle. The playbook. How do you choose one of these and use AI to your advantage?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The playbook",
+   "short_hook": "Here's how to choose an AI proof business and use AI to grow it faster."
+  },
+  {
+   "text": "Step one. Match the business to your skills and temperament. Do you like working with your hands, with people, with kids, with animals? Step two. Check local demand: search for providers, read reviews and notice wait times. Long waits mean opportunity.",
+   "query": "Person thinking with notebook",
+   "caption": "STEPS 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Step three. Get the training and licenses required. Step four. Start small, or buy an existing business from a retiring owner. Step five. Add AI tools one at a time for the most painful tasks: answering calls, scheduling, estimates, invoicing and marketing.",
+   "query": "Person reading documents",
+   "caption": "STEPS 3 TO 5",
+   "cuts": 3
+  },
+  {
+   "text": "Step six. Spend the time AI saves on what only humans can do: quality work, customer relationships and building your team. That's your competitive advantage. And step seven. Keep your financial foundation strong with an emergency fund and retirement savings while you build.",
+   "query": "Team of workers",
+   "caption": "STEPS 6 AND 7",
+   "cuts": 3
+  },
+  {
+   "text": "Question one. Will robots eventually do these jobs? Some tasks, maybe, over many years. But the combination of physical complexity, human presence and trust makes these businesses among the last to be fully automated. Question two. Which AI tools should I start with? Usually scheduling, call answering and invoicing, because they save time immediately and are easy to measure.",
+   "query": "Robot and human hands",
+   "caption": "ROBOTS? WHICH TOOLS?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question three. Is it too late to learn a trade? Many people switch into trades in their thirties and forties, and apprenticeships often pay while you learn. Question four. What if I'm not technical? Many AI tools are built for small businesses and are simple to use. Start with one, and ask other owners in your industry what works for them.",
+   "query": "Older plumber with apprentice",
+   "caption": "TOO LATE? NOT TECHNICAL?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Should I buy an existing business or start one? Buying gives you customers and cash flow from day one, often with SBA financing, while starting costs less but takes longer to grow. In trades with many retiring owners, buying can be a strong option. Question six. Which of these needs the least money? Personal training, grooming, massage and event planning can often start with modest capital.",
+   "query": "Business meeting handshake",
+   "caption": "BUY OR START? LEAST MONEY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. Will AI make these businesses more competitive? In some ways, yes. Marketing and scheduling tools are available to everyone, so the basic advantages of being organized will spread. What stays rare is skill, reliability and reputation. The owners who win will combine modern tools with old fashioned quality, showing up on time, doing excellent work and treating customers well.",
+   "query": "Small business owner smiling",
+   "caption": "MORE COMPETITION?",
+   "cuts": 3
+  },
+  {
+   "text": "Question eight. How do I protect my business from future changes I can't predict? Keep learning, keep some cash in reserve, stay close to your customers so you notice changes early, and don't take on more debt than the business can comfortably carry. Adaptable businesses survive almost anything.",
+   "query": "Piggy bank coins",
+   "caption": "STAY ADAPTABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Let's recap the fifteen. Electrical and plumbing. Home remodeling. Auto body. Home health and senior care. Physical therapy and massage. Personal training. Hair and beauty. Tattoo studios. Event planning. Food trucks and catering. Tree service. Childcare. Vet and grooming. Experiences. And appliance repair.",
+   "query": "Notebook with financial notes",
+   "caption": "THE 15",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "And the lesson. Hands, presence and trust are hard to automate. AI won't replace these businesses, but owners who use AI well will beat owners who don't. Build on what's human, and let the machines do the paperwork.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "THE LESSON",
+   "cuts": 3
+  },
+  {
+   "text": "Think about it this way. Twenty years from now, AI will probably be far more powerful than it is today. But a pipe will still burst at midnight, a child will still need a caring adult, an older parent will still need help getting out of bed, and a couple will still want someone calm in charge of their wedding day. The people who own those businesses, and use the best tools to run them, will be in a very strong position.",
+   "query": "Small town main street",
+   "caption": "TWENTY YEARS FROM NOW",
+   "cuts": 3
+  },
+  {
+   "text": "Pick one business from this list that fits you. This week, talk to one owner in that field and ask two questions: what's the hardest part of the business, and what would you automate if you could? Their answers will show you both the opportunity and the edge. Most owners are happy to talk about their work, especially to someone curious and respectful, and one conversation can teach you more than a month of reading. I'm Ryan Rover. Stay human, use the tools, and I'll see you in the next video.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

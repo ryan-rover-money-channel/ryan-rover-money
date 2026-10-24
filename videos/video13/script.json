@@ -1,0 +1,823 @@
+{
+ "id": "video13",
+ "angle": "the laundromat math",
+ "length_scale": 1.25,
+ "title": "The Laundromat Math: How Boring Businesses Really Make Money",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. Walk past a laundromat and it looks like the most boring business on earth. Rows of machines, a change machine, a folding table. But behind that boring front is a money machine that teaches you almost everything about how small businesses really make money. Today we're going to open the books, step by step, using a simple example. And by the end, you'll be able to look at any boring business and see the math behind it.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro",
+   "short_hook": "A laundromat looks boring. The math behind it is fascinating."
+  },
+  {
+   "text": "The laundromat math. Revenue, costs, profit, what the business is worth, and how buyers actually pay for it.",
+   "card": {
+    "type": "stat",
+    "label": "the laundromat math",
+    "big": "$ IN \u2212 $ OUT",
+    "sub": "how boring businesses really make money"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Why a laundromat? Because it's simple enough to understand in one video, and it has all the pieces that matter: steady demand, expensive equipment, a lease, utility bills, a little labor, and a sale price based on profit. Once you understand these pieces, you can apply the same thinking to car washes, storage units, vending routes, cleaning companies and almost any small business.",
+   "query": "Laundromat washing machines",
+   "caption": "ONE BUSINESS, EVERY LESSON",
+   "cuts": 5
+  },
+  {
+   "text": "One important warning. The numbers in this video are an illustration we built to teach the concepts, not industry averages or a real business. Real laundromats vary enormously depending on location, size, prices, competition and management. Some do much better than our example. Some lose money. Always look at real records before making any decision.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "AN ILLUSTRATION, NOT A PROMISE",
+   "cuts": 3
+  },
+  {
+   "text": "We'll go through twelve lessons, then look at the whole thing from three angles. The numbers, meaning the actual math. The psychology, meaning why people misjudge these businesses. And the playbook, meaning a checklist for evaluating any boring business before you put a dollar into it.",
+   "query": "Notebook with financial notes",
+   "caption": "12 LESSONS, 3 ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's open the books.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Our example business is a simplified illustration. Lending rules come from the U.S. Small Business Administration, which describes its seven a loan program and its requirements on its website. Business survival data comes from the Bureau of Labor Statistics. Market return comparisons use a stated seven percent average yearly return as an illustration, not a promise. This video is education, not financial, legal or business advice.",
+   "query": "Bureau of Labor Statistics building",
+   "caption": "OUR SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Angle one. The numbers. Here's our example laundromat, in a busy neighborhood full of apartments, where many renters don't have their own washers and dryers.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The numbers"
+  },
+  {
+   "text": "Our example laundromat brings in about three hundred thousand dollars a year: two hundred twenty thousand from washers and dryers, sixty thousand from wash and fold service, and twenty thousand from vending and extras.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Self-service machines",
+     "big": "$220,000",
+     "sub": "per year"
+    },
+    "right": {
+     "label": "Wash & fold + extras",
+     "big": "$80,000",
+     "sub": "per year"
+    },
+    "note": "Illustration only, not an industry average"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Now the costs. Rent of about sixty thousand a year, utilities of about sixty thousand, labor of forty five thousand, repairs of fifteen thousand, and about twenty thousand for insurance, supplies and everything else. Total costs: about two hundred thousand.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Revenue",
+     "big": "$300,000",
+     "sub": "per year"
+    },
+    "right": {
+     "label": "Costs",
+     "big": "$200,000",
+     "sub": "rent, utilities, labor, repairs, other"
+    },
+    "note": "Illustration only, not an industry average"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "That leaves about one hundred thousand dollars a year for the owner, before loan payments, depreciation and income taxes. In the small business world, this is often called seller's discretionary earnings.",
+   "card": {
+    "type": "stat",
+    "label": "owner earnings (illustration)",
+    "big": "$100,000",
+    "sub": "before debt payments and taxes"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "One hundred thousand dollars a year sounds great, and in our example it is. But notice how fragile it is. If revenue falls by ten percent, that's thirty thousand dollars less, while most costs stay the same. Owner earnings drop from one hundred thousand to seventy thousand, a thirty percent fall from a ten percent drop in sales. That's called operating leverage, and it works in both directions.",
+   "query": "Stock market chart falling on screen",
+   "caption": "10% LESS SALES = 30% LESS PROFIT",
+   "cuts": 3
+  },
+  {
+   "text": "The good news is that it works upward too. If the owner adds pickup and delivery and grows revenue by ten percent, most costs barely change, so owner earnings could jump by close to thirty thousand. That's why the best laundromat owners obsess over adding revenue without adding much cost: wash and fold, commercial accounts like gyms and salons, longer hours, and card payments that make customers spend a little more.",
+   "query": "Graph trending upward",
+   "caption": "10% MORE SALES = BIG PROFIT JUMP",
+   "cuts": 3
+  },
+  {
+   "text": "Now let's go through the twelve lessons hidden inside those numbers.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Lesson one. Demand comes before everything.",
+   "card": {
+    "type": "list",
+    "n": 1,
+    "title": "Demand comes first",
+    "sub": "who needs this, every week?"
+   },
+   "caption": "LESSON 1",
+   "cuts": 1,
+   "chapter": "Lesson 1. Demand comes first"
+  },
+  {
+   "text": "A laundromat works because a specific group of people needs it every single week: renters without washers, people in older apartment buildings, and families with big loads. Before looking at machines or prices, the smart question is, who exactly needs this, how often, and how many of them live within a short drive?",
+   "query": "Apartment building",
+   "caption": "WHO NEEDS IT WEEKLY?",
+   "cuts": 3
+  },
+  {
+   "text": "That's why location is everything. A laundromat surrounded by single family homes with washers and dryers will struggle. One near dense apartments, with parking and good visibility, has a built in customer base. Many experienced buyers look at local population density, the share of renters, and the number of competing laundromats within a few miles.",
+   "query": "Map and compass",
+   "caption": "LOCATION IS DEMAND",
+   "cuts": 3
+  },
+  {
+   "text": "The same lesson applies to every boring business. A septic company needs homes on septic systems. A pest control company needs warm weather and bugs. A storage facility needs people moving in and out. Find the demand first, then the business. Never the other way around.",
+   "query": "Suburban houses street United States",
+   "caption": "DEMAND FIRST, ALWAYS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson two. Revenue has layers.",
+   "card": {
+    "type": "list",
+    "n": 2,
+    "title": "Revenue has layers",
+    "sub": "machines, services, extras"
+   },
+   "caption": "LESSON 2",
+   "cuts": 1,
+   "chapter": "Lesson 2. Revenue has layers"
+  },
+  {
+   "text": "In our example, self service machines bring in most of the money. But the services layered on top, like wash and fold, pickup and delivery, and commercial laundry for gyms, salons and small hotels, can grow revenue without needing more floor space.",
+   "query": "Laundromat washing machines",
+   "caption": "LAYERS OF REVENUE",
+   "cuts": 3
+  },
+  {
+   "text": "Services often earn more per pound of laundry, and they keep machines busy during quiet hours. A laundromat that's packed on Saturday morning but empty on Tuesday afternoon can fill those slow hours with wash and fold work. That's using the same expensive equipment more of the time.",
+   "query": "Folded laundry",
+   "caption": "FILL THE QUIET HOURS",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson for any business is to ask: what else could my existing customers and equipment do for me? A lawn care company adds snow removal. A pressure washing company adds gutters. A cleaning company adds move out cleans. Layers of revenue on the same base are how small businesses grow profit without growing risk.",
+   "query": "Snow plow truck",
+   "caption": "SAME BASE, MORE SERVICES",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson three. The lease is your silent partner.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "Rent is the silent partner",
+    "sub": "the lease decides your fate"
+   },
+   "caption": "LESSON 3",
+   "cuts": 1,
+   "chapter": "Lesson 3. Rent is the silent partner",
+   "short_hook": "The most important document in a laundromat isn't the books. It's the lease."
+  },
+  {
+   "text": "In our example, rent is sixty thousand dollars a year, one of the two biggest costs. And unlike repairs or supplies, it's fixed. It's due whether you have a great month or a terrible one. That's why the lease is one of the most important documents in the whole business.",
+   "query": "Small business storefront",
+   "caption": "RENT IS FIXED",
+   "cuts": 3
+  },
+  {
+   "text": "Experienced buyers look closely at how many years remain on the lease, whether there are options to renew, and how much rent can increase. A laundromat with expensive machines and only two years left on its lease is a big risk, because if the landlord won't renew, moving those machines is costly and you lose your location.",
+   "query": "Lawyer office documents",
+   "caption": "READ THE LEASE",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson: in any location based business, the lease can matter as much as the business itself. Read it carefully, ideally with a lawyer, and try to negotiate long terms with renewal options. A great business in a location you can lose is not a great business.",
+   "query": "Paperwork documents desk",
+   "caption": "LONG TERMS, RENEWALS",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson four. Some costs move with sales.",
+   "card": {
+    "type": "list",
+    "n": 4,
+    "title": "Utilities move with volume",
+    "sub": "water, gas, electricity"
+   },
+   "caption": "LESSON 4",
+   "cuts": 1,
+   "chapter": "Lesson 4. Utilities move with volume"
+  },
+  {
+   "text": "Utilities are the other big cost in our example: water, gas for the dryers, and electricity. Unlike rent, utilities rise and fall with how much the machines run. More customers means a bigger utility bill, but also more revenue.",
+   "query": "Electric meter",
+   "caption": "VARIABLE COSTS",
+   "cuts": 3
+  },
+  {
+   "text": "This is the difference between fixed costs and variable costs. Fixed costs, like rent and insurance, stay the same no matter what. Variable costs, like utilities and supplies, grow with sales. A business with mostly fixed costs has big operating leverage: profits swing a lot with sales. A business with mostly variable costs is steadier, but grows profit more slowly.",
+   "query": "Washing machine close up",
+   "caption": "EFFICIENT MACHINES",
+   "cuts": 3
+  },
+  {
+   "text": "Owners can lower utility costs with efficient machines, which use less water and energy per load. That's often a big part of the math when deciding whether to replace old equipment. Lower variable costs per customer mean more profit on every load, forever.",
+   "query": "Calculator with financial charts",
+   "caption": "FIXED VS VARIABLE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson five. Equipment wears out, and that's a real cost.",
+   "card": {
+    "type": "list",
+    "n": 5,
+    "title": "Equipment wears out",
+    "sub": "the cost you don't see every month"
+   },
+   "caption": "LESSON 5",
+   "cuts": 1,
+   "chapter": "Lesson 5. Equipment wears out"
+  },
+  {
+   "text": "Commercial washers and dryers are expensive and they last many years, but not forever. In our example, we listed fifteen thousand a year in repairs. But there's a bigger cost that doesn't show up as a monthly bill: one day, all those machines will need to be replaced.",
+   "query": "Washing machine close up",
+   "caption": "MACHINES WEAR OUT",
+   "cuts": 3
+  },
+  {
+   "text": "Accountants call this depreciation. Smart owners think of it as a replacement fund. If machines will cost a few hundred thousand dollars to replace in ten to fifteen years, part of each year's profit really belongs to that future bill. A business that looks profitable but never saves for equipment replacement is borrowing from its future.",
+   "query": "Piggy bank coins",
+   "caption": "A REPLACEMENT FUND",
+   "cuts": 3
+  },
+  {
+   "text": "This is one of the most common traps when buying any equipment heavy business. A seller may show strong profits, but if the machines are near the end of their life, the buyer will face a big bill soon after closing. Always ask the age of every major piece of equipment, and factor replacement into your math.",
+   "query": "Paperwork documents desk",
+   "caption": "ASK THE AGE OF EVERYTHING",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson six. Labor is a choice, and your time has a price.",
+   "card": {
+    "type": "list",
+    "n": 6,
+    "title": "Labor is a choice",
+    "sub": "owner time has a price"
+   },
+   "caption": "LESSON 6",
+   "cuts": 1,
+   "chapter": "Lesson 6. Labor is a choice"
+  },
+  {
+   "text": "Many laundromats can run with few employees, which is part of their appeal. In our example, labor is forty five thousand a year, mostly for wash and fold and keeping the place clean. But someone also has to handle repairs, collections, customer issues and the books.",
+   "query": "Office cleaning janitor",
+   "caption": "WHO DOES THE WORK?",
+   "cuts": 3
+  },
+  {
+   "text": "If the owner does all of that personally, the business looks more profitable on paper. But the owner is really being paid for their time. When evaluating a business, many buyers subtract a fair salary for a manager. If the business is still profitable after paying someone else to run it, it's a true investment. If not, it's a job you're buying.",
+   "query": "Business meeting handshake",
+   "caption": "PAY A FAIR SALARY",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson applies everywhere. A cleaning company that only makes money because the owner cleans sixty hours a week isn't the same as one that makes money with a team and a manager. Both can be good choices, but you should know which one you're getting.",
+   "query": "Construction workers",
+   "caption": "JOB OR INVESTMENT?",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're enjoying this kind of business breakdown, subscribe to the channel. More of these deep dives are coming, on car washes, storage units, vending machines and buying a business instead of starting one. Now, lesson seven, which is where the real money in boring businesses is made.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Lesson seven. A business is valued as a multiple of its earnings.",
+   "card": {
+    "type": "list",
+    "n": 7,
+    "title": "Value is a multiple",
+    "sub": "what the business is worth"
+   },
+   "caption": "LESSON 7",
+   "cuts": 1,
+   "chapter": "Lesson 7. Value is a multiple",
+   "short_hook": "Here's how a business that earns one hundred thousand dollars a year gets valued."
+  },
+  {
+   "text": "Small businesses are often priced as a multiple of their owner earnings. For a business like our example, buyers and brokers might talk about something like three to five times earnings, depending on the location, the lease, the age of the equipment, and how much the business depends on the owner. These are rough ranges, and every deal is negotiated.",
+   "query": "Business meeting handshake",
+   "caption": "3X TO 5X EARNINGS",
+   "cuts": 3
+  },
+  {
+   "text": "So our example laundromat, earning one hundred thousand a year, might be valued somewhere around three hundred to five hundred thousand dollars. A newer laundromat with a long lease and modern machines would be at the high end. An older one with a short lease and tired equipment would be at the low end, or even lower.",
+   "query": "Laundromat washing machines",
+   "caption": "~$300K TO $500K",
+   "cuts": 3
+  },
+  {
+   "text": "Here's why this matters. Every extra ten thousand dollars of steady yearly profit could add thirty to fifty thousand dollars to what the business is worth when you sell. That's the hidden engine of wealth in boring businesses. You earn the profit every year, and you build value every time profit grows.",
+   "query": "Graph trending upward",
+   "caption": "PROFIT BUILDS VALUE",
+   "cuts": 3
+  },
+  {
+   "text": "On screen: owner earnings of one hundred thousand dollars a year, valued at three to five times earnings, gives a value of roughly three hundred thousand to five hundred thousand dollars.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Owner earnings",
+     "big": "$100,000",
+     "sub": "per year (illustration)"
+    },
+    "right": {
+     "label": "Value at 3x to 5x",
+     "big": "$300K-$500K",
+     "sub": "depends on lease, equipment, risk"
+    },
+    "note": "Rough illustration; real deals vary widely"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Lesson eight. Most buyers don't pay cash.",
+   "card": {
+    "type": "list",
+    "n": 8,
+    "title": "Most buyers use debt",
+    "sub": "how people actually pay"
+   },
+   "caption": "LESSON 8",
+   "cuts": 1,
+   "chapter": "Lesson 8. Most buyers use debt"
+  },
+  {
+   "text": "Many small businesses are bought with a loan. The U.S. Small Business Administration's seven a program guarantees loans made by banks to small businesses, including loans to buy an existing business. Buyers are usually required to put in some of their own money, and lenders look closely at whether the business's cash flow can cover the loan payments.",
+   "query": "Bank building United States",
+   "caption": "SBA 7(a) LOANS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's say our buyer pays three hundred thousand dollars, puts down thirty thousand of their own money, and borrows two hundred seventy thousand over ten years at an illustrative interest rate of ten and a half percent. The monthly payment would be about three thousand six hundred fifty dollars, or roughly forty four thousand dollars a year.",
+   "query": "Calculator with financial charts",
+   "caption": "~$3,650 A MONTH",
+   "cuts": 3
+  },
+  {
+   "text": "So out of one hundred thousand of owner earnings, about forty four thousand goes to the loan in the early years, leaving around fifty six thousand for the owner before income taxes and the equipment fund. Still a solid return on a thirty thousand dollar down payment, but with real risk, because if revenue drops, the loan payment doesn't.",
+   "query": "Spreadsheet on laptop",
+   "caption": "~$56K LEFT FOR THE OWNER",
+   "cuts": 3
+  },
+  {
+   "text": "On screen: two hundred seventy thousand dollars borrowed over ten years at an illustrative ten and a half percent costs about forty four thousand dollars a year in payments.",
+   "card": {
+    "type": "compare",
+    "left": {
+     "label": "Owner earnings",
+     "big": "$100,000",
+     "sub": "per year"
+    },
+    "right": {
+     "label": "Loan payments",
+     "big": "~$44,000",
+     "sub": "per year, 10 years"
+    },
+    "note": "Illustration; rates and terms vary"
+   },
+   "caption": "",
+   "cuts": 1
+  },
+  {
+   "text": "Lesson nine. Debt magnifies results, good and bad.",
+   "card": {
+    "type": "list",
+    "n": 9,
+    "title": "Leverage cuts both ways",
+    "sub": "debt magnifies everything"
+   },
+   "caption": "LESSON 9",
+   "cuts": 1,
+   "chapter": "Lesson 9. Leverage cuts both ways"
+  },
+  {
+   "text": "With thirty thousand dollars down, our example owner might earn over fifty thousand a year after loan payments. That's a huge return on the cash they put in. That's the magic of leverage, and it's why buying a business with a loan can build wealth so fast.",
+   "query": "Graph trending upward",
+   "caption": "LEVERAGE MAGNIFIES",
+   "cuts": 3
+  },
+  {
+   "text": "But leverage cuts both ways. Remember operating leverage from earlier: a ten percent drop in revenue cut owner earnings by thirty thousand. Now add a fixed loan payment of forty four thousand on top. A bad year could leave the owner with very little, or even force them to put more money in. Two kinds of leverage stacked together create big swings.",
+   "query": "Stock market chart falling on screen",
+   "caption": "IT CUTS BOTH WAYS",
+   "cuts": 3
+  },
+  {
+   "text": "This is why lenders and experienced buyers look for a cushion: business earnings well above the loan payments, plus cash reserves. Never buy a business where the plan only works if everything goes right. Always ask, what happens to me if revenue drops twenty percent?",
+   "query": "Road sign curve ahead",
+   "caption": "WHAT IF SALES DROP 20%?",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson ten. Always compare to the boring alternative.",
+   "card": {
+    "type": "list",
+    "n": 10,
+    "title": "Compare to the boring alternative",
+    "sub": "would an index fund be easier?"
+   },
+   "caption": "LESSON 10",
+   "cuts": 1,
+   "chapter": "Lesson 10. Compare to the boring alternative"
+  },
+  {
+   "text": "Every business decision should be compared with the simplest alternative: putting the same money into a diversified index fund and doing nothing. At a seven percent illustration, three hundred thousand dollars would earn around twenty one thousand dollars in an average year, with no lease, no broken machines and no customers to manage.",
+   "query": "New York Stock Exchange trading floor",
+   "caption": "THE BORING ALTERNATIVE",
+   "cuts": 3
+  },
+  {
+   "text": "So the real question about our laundromat isn't whether it makes money. It's whether it makes enough extra money to justify the risk, the time and the stress, compared with the easy option. For many owners, the answer is yes, because they enjoy running a business and the returns can be much higher. For others, the index fund is the better choice.",
+   "query": "Person thinking by window",
+   "caption": "EXTRA RETURN FOR EXTRA RISK",
+   "cuts": 3
+  },
+  {
+   "text": "This comparison protects you from falling in love with a business. If the numbers only beat an index fund by a small amount, after paying yourself a fair salary for your time, the business probably isn't worth the risk. If they beat it by a lot, it might be.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "DON'T FALL IN LOVE",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson eleven. Records tell the truth, and claims don't.",
+   "card": {
+    "type": "list",
+    "n": 11,
+    "title": "Records tell the truth",
+    "sub": "trust, but verify everything"
+   },
+   "caption": "LESSON 11",
+   "cuts": 1,
+   "chapter": "Lesson 11. Records tell the truth"
+  },
+  {
+   "text": "When you look at a business for sale, the seller will show you numbers. But numbers on a sales sheet aren't the same as numbers on tax returns and bank statements. In cash heavy businesses especially, buyers should check that reported revenue matches deposits, utility bills and machine counters.",
+   "query": "Tax forms on desk",
+   "caption": "TAX RETURNS, NOT CLAIMS",
+   "cuts": 3
+  },
+  {
+   "text": "Utility bills are a clever check for laundromats. Water use is tied to how much the machines run. If a seller claims high revenue but the water bills are low, something doesn't add up. Similar checks exist in other businesses: fuel for delivery routes, supplies for cleaning companies, or chemicals for pool services.",
+   "query": "Electric meter",
+   "caption": "UTILITY BILLS DON'T LIE",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson is simple. Trust, but verify everything. Use an accountant who knows small business deals, and walk away from any seller who won't show real records. The best deals are often with owners who kept clean books for years.",
+   "query": "Accountant desk calculator",
+   "caption": "VERIFY EVERYTHING",
+   "cuts": 3
+  },
+  {
+   "text": "Lesson twelve. The owner's real job is to improve the business.",
+   "card": {
+    "type": "list",
+    "n": 12,
+    "title": "Improve, then sell or hold",
+    "sub": "the owner's real job"
+   },
+   "caption": "LESSON 12",
+   "cuts": 1,
+   "chapter": "Lesson 12. Improve, then sell or hold"
+  },
+  {
+   "text": "Once you own a business, the biggest wealth comes from improving it. Adding services, upgrading to efficient machines, extending hours, improving reviews, signing commercial accounts, and building systems so it runs without you. Each improvement raises profit, and every dollar of profit raises the value.",
+   "query": "Laundromat washing machines",
+   "caption": "IMPROVE IT",
+   "cuts": 3
+  },
+  {
+   "text": "Imagine our owner grows owner earnings from one hundred thousand to one hundred forty thousand over five years, while paying down the loan. At a similar multiple, the business might now be worth well over four hundred thousand dollars, with much less debt. That's how a thirty thousand dollar down payment can turn into a large amount of wealth, if things go well.",
+   "query": "Graph trending upward",
+   "caption": "MORE PROFIT, MORE VALUE",
+   "cuts": 3
+  },
+  {
+   "text": "Then the owner has a choice: keep it for the cash flow, or sell it and use the money to buy a bigger business, invest, or retire. Either way, the wealth came from buying a decent business, improving it patiently, and managing risk carefully.",
+   "query": "Person standing at crossroads",
+   "caption": "HOLD OR SELL",
+   "cuts": 3
+  },
+  {
+   "text": "Now here's the payoff. The same twelve lessons work for almost every boring business. Let's apply them quickly to a few others.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The same math, everywhere"
+  },
+  {
+   "text": "A car wash. Demand comes from cars in the area and how dirty they get. Revenue has layers: single washes, monthly memberships, detailing. Costs include rent or land, water, chemicals, electricity and equipment. Equipment is expensive and wears out. Memberships create recurring revenue, which buyers usually value highly. Same math, different machine.",
+   "query": "Car wash",
+   "caption": "CAR WASH",
+   "cuts": 3
+  },
+  {
+   "text": "Self storage. Demand comes from people moving, downsizing and running out of space. Revenue is monthly rent per unit. Costs are mostly fixed: property taxes, insurance, maintenance, staff and marketing. That means huge operating leverage: once the facility is full, extra revenue drops almost straight to profit. But a half empty facility can lose money.",
+   "query": "Self storage units",
+   "caption": "SELF STORAGE",
+   "cuts": 3
+  },
+  {
+   "text": "A vending route. Demand comes from busy locations with hungry people. Revenue is sales per machine. Costs are products, commissions to the location owner, and your time driving and restocking. Each machine is a tiny business, and the route is a portfolio of them. Efficiency in routing is the difference between profit and a low paying job.",
+   "query": "Vending machine",
+   "caption": "VENDING ROUTE",
+   "cuts": 3
+  },
+  {
+   "text": "And a cleaning company. Demand comes from busy households and offices. Revenue is recurring contracts. The biggest cost is labor, which is mostly variable, so operating leverage is lower but risk is lower too. Value comes from recurring clients and systems that work without the owner. Every business is different, but the questions are always the same.",
+   "query": "Office cleaning janitor",
+   "caption": "CLEANING COMPANY",
+   "cuts": 3
+  },
+  {
+   "text": "Let's run our example forward with three different owners who buy the exact same laundromat for three hundred thousand dollars. Same machines, same lease, same neighborhood. Made up, but realistic.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Three owners, three outcomes"
+  },
+  {
+   "text": "Owner one, the improver. She keeps the place spotless, adds pickup and delivery, signs contracts with two gyms and a small hotel, and installs card readers. Over five years, revenue grows and owner earnings rise to around one hundred forty thousand dollars. She's paid down much of the loan, and the business is worth considerably more than she paid. Her thirty thousand dollar down payment has turned into a large amount of equity and a strong income.",
+   "query": "Small business owner smiling",
+   "caption": "THE IMPROVER",
+   "cuts": 3
+  },
+  {
+   "text": "Owner two, the absentee. He thought it was passive income, so he visits once a month. Machines stay broken for weeks, the floor gets dirty, and online reviews drop. Customers drift to a competitor two miles away. Revenue falls fifteen percent, which, thanks to operating leverage and the loan payment, cuts his take home income by more than half. Five years later, he sells for less than he paid.",
+   "query": "Person relaxing on couch",
+   "caption": "THE ABSENTEE",
+   "cuts": 3
+  },
+  {
+   "text": "Owner three, the unlucky one. He runs it well, but two years in, a big new apartment complex nearby includes in unit washers, and the landlord raises rent sharply at renewal. Revenue falls while costs rise. He survives because he kept a cash reserve and didn't overpay, but his returns are modest. Not a disaster, but not the dream either.",
+   "query": "Apartment building",
+   "caption": "THE UNLUCKY ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Same business, three outcomes. The improver won because of effort and smart additions. The absentee lost because he believed the passive income story. And the unlucky owner survived because he protected himself from the downside. That's small business in one picture: effort matters, luck matters, and risk management decides whether bad luck is a setback or a catastrophe.",
+   "query": "Three people silhouettes",
+   "caption": "EFFORT, LUCK, PROTECTION",
+   "cuts": 3
+  },
+  {
+   "text": "So what does the improver actually do? Here are five ways to raise profit in almost any boring business, without taking on much more risk.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Five ways to raise profit without raising risk"
+  },
+  {
+   "text": "Lever one. Raise prices carefully. Many small business owners haven't raised prices in years. A modest increase, explained well, often loses very few customers and drops straight to profit. Lever two. Fill the slow hours. Discounts for quiet times, commercial work, or services that use idle equipment turn dead time into revenue.",
+   "query": "Receipt and coins on table",
+   "caption": "LEVERS 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Lever three. Add recurring revenue. Memberships, subscriptions, maintenance plans and commercial contracts make income more predictable, which also raises the business's value. Lever four. Cut waste, not quality. Efficient machines, better energy contracts and smarter scheduling lower costs without making customers unhappy.",
+   "query": "Online banking smartphone app",
+   "caption": "LEVERS 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "And lever five. Improve reputation. In local businesses, reviews are a form of marketing that compounds. A clean, safe, friendly business with fast fixes and a responsive owner earns better reviews, which bring more customers, which fund more improvements. Of the five levers, this one is the cheapest and often the most powerful.",
+   "query": "Business meeting handshake",
+   "caption": "LEVER 5: REPUTATION",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, the part most people forget to plan: selling.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "The exit: what happens when you sell"
+  },
+  {
+   "text": "When an owner sells, the buyer looks at the same things we discussed: earnings, the lease, equipment, records and how much the business depends on the owner. A business with clean books, a long lease, newer machines and a manager in place can command a higher multiple. A messy one sells for less, or doesn't sell at all.",
+   "query": "Business meeting handshake",
+   "caption": "WHAT BUYERS LOOK FOR",
+   "cuts": 3
+  },
+  {
+   "text": "Taxes matter at the exit too. The sale of a business can create taxable gains, and how the price is split between equipment, goodwill and other assets affects the tax bill. That's another reason to work with an accountant years before a sale, not weeks before. Planning ahead can make a meaningful difference in what you keep.",
+   "query": "Tax forms on desk",
+   "caption": "PLAN THE TAXES EARLY",
+   "cuts": 3
+  },
+  {
+   "text": "The best time to prepare for a sale is the day you buy. Keep clean records, document how everything works, build relationships that don't depend only on you, and keep the equipment in good shape. Even if you never sell, a business that's ready to sell is a business that's easier to own.",
+   "query": "Notebook with financial notes",
+   "caption": "READY TO SELL FROM DAY ONE",
+   "cuts": 3
+  },
+  {
+   "text": "Before we get into the psychology, let's protect your money. Here are ten red flags I'd look for before buying any laundromat, car wash, vending route, or other boring business. Any one of them isn't automatically a deal breaker, but each one deserves hard questions.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Ten red flags when buying a small business",
+   "short_hook": "Why do people overpay for boring businesses? It's not the math, it's the dream."
+  },
+  {
+   "text": "Red flag one. The seller can't or won't show tax returns. If the business earns what they say, the returns should roughly match. Big gaps usually mean the real numbers are lower, or the seller is hiding cash income, which is a problem either way. Red flag two. The lease is short, or the landlord won't commit to a renewal. Without a secure lease, you're buying a business that could be evicted.",
+   "query": "Tax forms on desk",
+   "caption": "RED FLAGS 1 AND 2",
+   "cuts": 3
+  },
+  {
+   "text": "Red flag three. The equipment is old and the price assumes it isn't. Ask the age of every major machine and what replacements cost. Red flag four. Revenue jumped right before the sale. Sometimes owners push prices, cut maintenance, or stop paying themselves to make the last year look great. Look at three to five years, not one.",
+   "query": "Laundromat washing machines",
+   "caption": "RED FLAGS 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "Red flag five. One customer or one contract is a huge share of revenue. If that customer leaves, the business changes overnight. Red flag six. The owner is the business. If every relationship, skill and decision lives in the seller's head, what you're buying may walk out the door on closing day. Ask how long they'll stay to train you.",
+   "query": "Business meeting handshake",
+   "caption": "RED FLAGS 5 AND 6",
+   "cuts": 3
+  },
+  {
+   "text": "Red flag seven. A new competitor is coming, or the neighborhood is changing in a way that hurts demand. Drive the area, talk to nearby businesses, and check city planning records. Red flag eight. The seller is in a hurry and pressures you to skip inspections. A good deal survives due diligence. A bad deal needs you to rush.",
+   "query": "City street with small shops",
+   "caption": "RED FLAGS 7 AND 8",
+   "cuts": 3
+  },
+  {
+   "text": "Red flag nine. Unpaid bills, liens, or legal disputes. A lawyer can search for these, and the purchase agreement should protect you from the seller's old debts. And red flag ten. The numbers only work if everything goes perfectly. If one broken machine, one rent increase, or one slow month makes the loan payment impossible, the deal is too tight. Walk away, or negotiate a lower price.",
+   "query": "Notebook with financial notes",
+   "caption": "RED FLAGS 9 AND 10",
+   "cuts": 3
+  },
+  {
+   "text": "Here's a simple rule many experienced buyers use: assume revenue comes in ten to fifteen percent lower than the seller says and costs come in ten percent higher. If the business still pays the loan, covers your living costs and leaves a cushion, you may have a real opportunity. If it doesn't, you've just saved yourself from a very expensive lesson.",
+   "query": "Calculator and coins",
+   "caption": "STRESS TEST THE DEAL",
+   "cuts": 3
+  },
+  {
+   "text": "Due diligence feels slow and expensive. A few thousand dollars for an accountant, a lawyer and an equipment inspection can feel like a lot. But compared with a three hundred thousand dollar mistake, it's the cheapest insurance you'll ever buy.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Angle two. The psychology. Why do smart people make bad decisions when buying boring businesses?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The psychology"
+  },
+  {
+   "text": "The first trap is the passive income dream. Laundromats, vending and storage are often sold online as passive income. People imagine collecting money while doing nothing. Then they discover broken machines at midnight, unhappy customers and tricky landlords. Expecting passive income leads people to underestimate the work, and to overpay for a business they don't really want to run.",
+   "query": "Person relaxing on couch",
+   "caption": "THE PASSIVE INCOME DREAM",
+   "cuts": 3
+  },
+  {
+   "text": "The second trap is anchoring on revenue. Three hundred thousand dollars of revenue sounds impressive. But revenue isn't profit. Buyers who focus on the big top line number often forget to subtract every cost, a fair salary for their own time, loan payments and an equipment fund. Always work down to the money that's actually left.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "REVENUE IS NOT PROFIT",
+   "cuts": 3
+  },
+  {
+   "text": "The third trap is deal fever. After months of searching, buyers want the search to be over. They start ignoring red flags, like a short lease or missing records, because they're emotionally invested. The best protection is a written checklist of deal breakers, made before you start looking, and a willingness to walk away.",
+   "query": "Person stressed looking at bills",
+   "caption": "DEAL FEVER",
+   "cuts": 3
+  },
+  {
+   "text": "And the fourth trap is overconfidence in improvements. Every buyer believes they'll increase revenue and cut costs. Some do. But a price based on the improvements you plan to make means you're paying the seller for your own future work. Smart buyers pay for the business as it is today, and keep the upside of improvements for themselves.",
+   "query": "Chess game",
+   "caption": "DON'T PAY FOR YOUR OWN WORK",
+   "cuts": 3
+  },
+  {
+   "text": "Angle three. The playbook. Here's a checklist you can use to evaluate any boring business.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The playbook",
+   "short_hook": "Use this ten point checklist before you buy any small business."
+  },
+  {
+   "text": "One. Demand: who needs this, how often, and how many of them are nearby? Two. Revenue: what are the layers, and how much is recurring? Three. Costs: which are fixed and which are variable? What does a ten or twenty percent drop in sales do to profit? Four. Location: how long is the lease, what are the renewal options, and how can rent change?",
+   "query": "Notebook with financial notes",
+   "caption": "CHECKLIST 1 TO 4",
+   "cuts": 3
+  },
+  {
+   "text": "Five. Equipment: how old is it, and what will replacement cost? Six. Labor: what's left after paying a fair salary to whoever runs it? Seven. Records: do tax returns, bank deposits and utility bills match the seller's numbers? Eight. Debt: can the business comfortably cover the loan payments, even in a bad year?",
+   "query": "Paperwork documents desk",
+   "caption": "CHECKLIST 5 TO 8",
+   "cuts": 3
+  },
+  {
+   "text": "Nine. Alternative: does this beat an index fund by enough to justify the time and the risk? And ten. You: do you actually want to run this business, or at least manage the person who does? A great business you hate owning is a bad investment for you.",
+   "query": "Person standing at crossroads",
+   "caption": "CHECKLIST 9 AND 10",
+   "cuts": 3
+  },
+  {
+   "text": "And before any of this, protect your foundation. Keep an emergency fund outside the business, keep your retirement savings separate, and never put in money you can't afford to lose. Buy with the help of an accountant and a lawyer who know small business deals. Their fees are small compared with the cost of a bad purchase.",
+   "query": "Piggy bank coins",
+   "caption": "PROTECT YOUR FOUNDATION",
+   "cuts": 3
+  },
+  {
+   "text": "Let me answer the questions people ask most about the laundromat math.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question one. Is a laundromat a good first business? It can be, especially for people who are handy, organized and comfortable with equipment. But it requires capital, a good lease and careful due diligence. Question two. Is it better to build or buy? Buying an existing laundromat with records removes guesswork about demand, but you pay for the established customer base. Building lets you choose a great location and new machines, but you start from zero customers.",
+   "query": "Laundromat washing machines",
+   "caption": "FIRST BUSINESS? BUILD OR BUY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. What about cash and card payments? Many laundromats now use card systems or apps, which can increase spending, reduce theft and make records cleaner. Question four. How long until I make my money back? In our illustration, with thirty thousand down and around fifty thousand a year after loan payments, the down payment could come back within a year or so. But that ignores risk, taxes and the equipment fund. Real results vary widely.",
+   "query": "Credit card close up",
+   "caption": "CARDS? PAYBACK?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Do I need to be there every day? Not necessarily. Many owners hire attendants and visit regularly, using cameras and card systems to monitor the business. But someone needs to handle problems quickly, and absentee owners often find that service quality slips without attention.",
+   "query": "Security camera",
+   "caption": "THERE EVERY DAY?",
+   "cuts": 3
+  },
+  {
+   "text": "Question six. What happens if a big machine breaks right after I buy? That's exactly why the equipment fund and the cash reserve exist. Before closing, get the machines inspected and ask for a price reduction or a repair credit for anything near the end of its life. After closing, set aside money every month so a repair is an expense, not an emergency.",
+   "query": "Laundromat washing machines",
+   "caption": "WHAT IF A MACHINE BREAKS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. Can I buy a business with no money at all? Some deals use seller financing, where the seller lets you pay part of the price over time, often combined with a bank loan. That can reduce the cash you need, but you still need reserves, good credit and a deal that works on paper. Be careful with anyone selling a course promising no money down riches. The math still has to work.",
+   "query": "Contract signing pen",
+   "caption": "NO MONEY DOWN?",
+   "cuts": 3
+  },
+  {
+   "text": "Question eight. Is a boring business better than real estate or stocks? It's different. Stocks are passive and diversified. Real estate offers leverage and tangible assets. A small business can offer higher returns, but it demands your time and concentrates your risk in one place. Many wealthy people own all three, but they usually build the foundation with steady investing first.",
+   "query": "Stock market chart on screen",
+   "caption": "BUSINESS VS STOCKS VS REAL ESTATE",
+   "cuts": 3
+  },
+  {
+   "text": "Question nine. How do I learn this before risking money? Work in or near the industry, talk to owners who aren't selling, and study real listings on business for sale websites, running the numbers on each one the way we did today. After analyzing twenty or thirty listings, you'll start to see what a good deal looks like and which numbers sellers like to inflate.",
+   "query": "Person reading book",
+   "caption": "LEARN BEFORE YOU BUY",
+   "cuts": 3
+  },
+  {
+   "text": "Let's recap the twelve lessons. Demand comes first. Revenue has layers. The lease is your silent partner. Some costs move with sales. Equipment wears out. Labor is a choice, and your time has a price.",
+   "query": "Notebook with financial notes",
+   "caption": "LESSONS 1 TO 6",
+   "cuts": 3,
+   "chapter": "Recap: the laundromat math"
+  },
+  {
+   "text": "A business is valued as a multiple of its earnings. Most buyers use debt. Leverage cuts both ways. Always compare to the boring alternative. Records tell the truth. And the owner's real job is to improve the business, then hold it or sell it.",
+   "query": "Mountain climber reaching summit",
+   "caption": "LESSONS 7 TO 12",
+   "cuts": 3
+  },
+  {
+   "text": "And the three angles. The numbers: three hundred thousand of revenue can become one hundred thousand of owner earnings, and a value of three to five times that, in our illustration. The psychology: beware the passive income dream, revenue anchoring, deal fever and paying for your own improvements. And the playbook: a ten point checklist, and a protected foundation.",
+   "query": "Map and compass",
+   "caption": "NUMBERS, PSYCHOLOGY, PLAYBOOK",
+   "cuts": 3
+  },
+  {
+   "text": "So here's your homework. Pick any small business in your neighborhood, and try to sketch its math. Who are the customers? What are the big costs? What might it be worth? Doing that for a few businesses will train your eye faster than anything else. If you want the full plan for building wealth, it's in my playbook, link in the description. I'm Ryan Rover. See you in the next one.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

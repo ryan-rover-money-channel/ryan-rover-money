@@ -1,0 +1,3 @@
+- Bureau of Labor Statistics, Business Employment Dynamics (survival rates of new establishments: about 1 in 5 fail in year one, about half by year five)
+- U.S. Small Business Administration, 7(a) loan program (business acquisitions, equity injection, personal guarantees)
+- Example deal: simplified illustration ($120,000 owner earnings, 3x multiple, 10% down, 10-year loan at an illustrative 10.5% rate)

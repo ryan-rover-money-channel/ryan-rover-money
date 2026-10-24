@@ -1,0 +1,654 @@
+{
+ "id": "video18",
+ "angle": "the real numbers",
+ "length_scale": 1.25,
+ "title": "Vending Machines, Car Washes, Storage Units: The Real Numbers",
+ "scenes": [
+  {
+   "text": "Hi, I'm Ryan Rover. If you spend any time online, you've seen the videos. Buy a vending machine and make passive income. Own a car wash and print money. Storage units are the best investment nobody talks about. Some of that is true. A lot of it leaves out the hard parts. Today, we're going to run the real numbers on all three, step by step, with simple examples, so you can see how each one makes money, what it costs, and where people lose their shirts.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Intro",
+   "short_hook": "Vending machines, car washes and storage units. Here's what they really make, not what the gurus say."
+  },
+  {
+   "text": "Three passive income favorites, three very different money machines. Vending, car washes, storage.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "the real numbers",
+    "sub": "vending, car washes, storage units"
+   },
+   "caption": "THREE BUSINESSES",
+   "cuts": 1
+  },
+  {
+   "text": "Here's an important warning before we start. Every number in this video is a simplified illustration we built to teach how these businesses work, not an industry average, a quote or a promise. Real results vary enormously by location, competition, prices, equipment and how well the business is run. Use these examples to learn what questions to ask, then get real numbers before you invest a dollar.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "ILLUSTRATIONS, NOT PROMISES",
+   "cuts": 5
+  },
+  {
+   "text": "For each business, we'll look at the same five things. What it costs to get in. Where the revenue comes from. Where the money goes. What's left for the owner. And the risks that the passive income videos usually skip. That way, you can compare all three side by side.",
+   "query": "Notebook with financial notes",
+   "caption": "FIVE QUESTIONS FOR EACH",
+   "cuts": 3
+  },
+  {
+   "text": "After the three deep dives, we'll step back and look at them from three angles. The numbers, meaning how the three compare on return and risk. The psychology, meaning why passive income is such a powerful and dangerous idea. And the playbook, meaning how to decide whether any of these fits you.",
+   "query": "Person thinking with notebook",
+   "caption": "THREE DEEP DIVES, THREE ANGLES",
+   "cuts": 3
+  },
+  {
+   "text": "Let's start with the smallest and cheapest of the three: the vending machine.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "All business figures in this video are simplified illustrations built for teaching. Lending information comes from the U.S. Small Business Administration. Market return comparisons use an illustrative seven percent average yearly return, not a promise. This video is education, not financial, legal or business advice.",
+   "query": "Government building",
+   "caption": "SOURCES",
+   "cuts": 3,
+   "chapter": "How we got the numbers"
+  },
+  {
+   "text": "Part one. Vending machines. The cheapest way into the passive income dream, and the most misunderstood.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Part 1: Vending machines"
+  },
+  {
+   "text": "Example vending machine. Cost about four thousand dollars used. Sales about four hundred dollars a month. Profit after product and commission, about one hundred forty dollars a month, before your time.",
+   "card": {
+    "type": "stat",
+    "label": "one vending machine, illustrated",
+    "big": "$140/mo",
+    "sub": "on $400 of monthly sales, before your time"
+   },
+   "caption": "ONE MACHINE",
+   "cuts": 1
+  },
+  {
+   "text": "Cost to get in. A used snack or drink machine might cost a few thousand dollars, while new machines with card readers can cost much more. Let's say our example machine costs four thousand dollars, including a card reader and initial stock. The machine is placed in a small business with steady foot traffic, like an auto repair shop with a waiting room.",
+   "query": "Vending machine",
+   "caption": "COST TO GET IN",
+   "cuts": 3
+  },
+  {
+   "text": "Revenue. Say the machine sells about one hundred sixty items a month at an average of two dollars and fifty cents. That's about four hundred dollars a month in sales. Some machines in great locations sell far more. Many in weak locations sell far less. Location is the single biggest factor.",
+   "query": "Snacks in vending machine",
+   "caption": "REVENUE",
+   "cuts": 3
+  },
+  {
+   "text": "Where the money goes. Product costs might take around forty to fifty percent of sales, say one hundred eighty dollars. Many locations expect a commission, say ten percent, or forty dollars. Card reader fees and the monthly service might take another twenty to thirty dollars. That leaves roughly one hundred forty to one hundred fifty dollars a month.",
+   "query": "Calculator and coins",
+   "caption": "WHERE THE MONEY GOES",
+   "cuts": 3
+  },
+  {
+   "text": "What's left. About one hundred forty dollars a month, or around seventeen hundred dollars a year, from a four thousand dollar machine. That looks like a strong return, around forty percent a year. But it's before your time, your gas, repairs, expired products and the occasional broken coin mechanism.",
+   "query": "Online banking smartphone app",
+   "caption": "WHAT'S LEFT",
+   "cuts": 3
+  },
+  {
+   "text": "Now let's count your time. Say each machine needs one restocking visit a week, about an hour including driving and shopping. That's around fifty hours a year for seventeen hundred dollars, or about thirty four dollars an hour before gas and repairs. Not bad, but notice it's not passive. It's a small part time job with equipment.",
+   "query": "Person driving car",
+   "caption": "THE HIDDEN COST: YOUR TIME",
+   "cuts": 3
+  },
+  {
+   "text": "The route effect. The math improves when you have many machines close together. Ten machines along one route might take a day a week to service, and you can buy products in bulk at lower prices. That's how vending operators turn a hobby into a business: by building dense routes, not by owning one machine.",
+   "query": "Map with pins",
+   "caption": "BUILD A DENSE ROUTE",
+   "cuts": 3
+  },
+  {
+   "text": "The risks. Bad locations, theft and vandalism, machines breaking down, products expiring, and locations asking you to remove your machine with little notice. Watch out for companies selling expensive machines with promised locations. Some of those deals put machines in places that barely sell anything.",
+   "query": "Person stressed with bills",
+   "caption": "THE RISKS",
+   "cuts": 3
+  },
+  {
+   "text": "Here's how a route might grow, using our illustration. Year one, you buy three used machines with savings, learn which products sell, and move one machine from a slow location to a busier one. By the end of the year, the three machines earn around five thousand dollars together. Year two, you reinvest every dollar of profit and buy four more machines, placing them in offices, gyms and apartment buildings along the same roads.",
+   "query": "Vending machine",
+   "caption": "YEAR ONE AND TWO",
+   "cuts": 3
+  },
+  {
+   "text": "Year three, you have around twelve machines on a route you can service in about a day and a half each week. Buying products in bulk from a wholesale club lowers your costs. Card readers raise sales, because many people no longer carry cash. At this point, the route might earn around twenty thousand dollars a year before vehicle costs, which is a meaningful side income, though still far from passive.",
+   "query": "Map with pins",
+   "caption": "YEAR THREE",
+   "cuts": 3
+  },
+  {
+   "text": "How do operators find good locations? They walk in and ask. Auto shops, tire stores, small factories, apartment buildings, hotels, gyms and offices with fifty or more employees are common targets. The best locations have a captive audience, people who are stuck waiting or working nearby without easy access to a store. Some operators offer no commission at first and add one only once sales are proven.",
+   "query": "Office break room",
+   "caption": "FINDING LOCATIONS",
+   "cuts": 3
+  },
+  {
+   "text": "Vending also has niches. Micro markets are small self checkout stores inside offices, with fresh food and higher sales per location. Healthy vending focuses on better for you snacks. Coffee and specialty machines can earn more per sale. Each niche needs different equipment and skills, but the core lesson is the same: put the right products in front of the right crowd.",
+   "query": "Snacks in vending machine",
+   "caption": "VENDING NICHES",
+   "cuts": 3
+  },
+  {
+   "text": "What does a typical service day look like? You load the car with products from a wholesale club, drive the route, restock each machine, rotate older products to the front, remove anything expired, collect cash, check the card reader, and note what sold. Back home, you update a simple spreadsheet so you know which products and locations are winning. The operators who track this data are the ones who grow.",
+   "query": "Person driving car",
+   "caption": "A DAY ON THE ROUTE",
+   "cuts": 3
+  },
+  {
+   "text": "One more vending detail that matters: pricing. Many operators haven't raised prices in years, even as product costs rose. A twenty five cent increase on a two dollar fifty item is a ten percent price increase, and if sales barely change, most of that drops straight to profit. Card readers help here too, because customers paying by card are often less sensitive to small price changes than those counting coins.",
+   "query": "Snacks in vending machine",
+   "caption": "THE PRICING LEVER",
+   "cuts": 3
+  },
+  {
+   "text": "The verdict on vending. It's a low cost way to learn business basics: location, pricing, inventory and customer behavior. One machine won't change your life, but a well run route can become a real side business or even a full time one. Just don't believe anyone who calls it truly passive.",
+   "query": "Notebook with financial notes",
+   "caption": "VENDING: THE VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Part two. Car washes. A big step up in money, and a big step up in risk.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Part 2: Car washes",
+   "short_hook": "A car wash can make serious money. Here's the part of the math nobody shows you."
+  },
+  {
+   "text": "Example express car wash. Revenue about one point two million dollars a year. Owner earnings about three hundred thousand dollars before debt. Cost to build several million dollars.",
+   "card": {
+    "type": "stat",
+    "label": "express car wash, illustrated",
+    "big": "$1.2M \u2192 $300K",
+    "sub": "revenue to earnings before debt"
+   },
+   "caption": "ONE CAR WASH",
+   "cuts": 1
+  },
+  {
+   "text": "There are a few kinds of car washes. Self service bays where customers wash their own cars. In bay automatics, often at gas stations. And express tunnels, where cars ride a conveyor through brushes and dryers in a few minutes. Express tunnels have become very popular with investors, largely because of monthly memberships.",
+   "query": "Car wash tunnel",
+   "caption": "TYPES OF CAR WASHES",
+   "cuts": 3
+  },
+  {
+   "text": "Cost to get in. Building a new express tunnel can cost several million dollars, including land, building and equipment. Buying an existing wash may cost less or more depending on its performance. Smaller self service washes can be cheaper, sometimes in the hundreds of thousands. This is not a small purchase.",
+   "query": "Construction site",
+   "caption": "COST TO GET IN",
+   "cuts": 3
+  },
+  {
+   "text": "Revenue. The magic of the modern car wash is the membership. Customers pay a monthly fee, say twenty five dollars, for unlimited washes. Say our example wash has two thousand five hundred members. That's sixty two thousand five hundred dollars a month, or seven hundred fifty thousand a year, before a single individual wash is sold. Add individual washes, and total revenue reaches about one point two million.",
+   "query": "Car wash tunnel",
+   "caption": "THE MEMBERSHIP MAGIC",
+   "cuts": 3
+  },
+  {
+   "text": "Where the money goes. Labor, even with automation, might take around twenty to thirty percent. Chemicals, water, electricity and maintenance take a big share. Add insurance, property taxes, marketing, software and credit card fees. In our example, total operating costs are about nine hundred thousand dollars, leaving about three hundred thousand dollars before debt payments.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "WHERE THE MONEY GOES",
+   "cuts": 3
+  },
+  {
+   "text": "The debt. Say the owner borrowed three million dollars to build. Depending on the loan terms and interest rates, debt payments could easily be two hundred fifty thousand dollars a year or more. That would leave around fifty thousand dollars for the owner from a multi million dollar project, at least until the loan is paid down or revenue grows.",
+   "query": "Bank building",
+   "caption": "THE DEBT",
+   "cuts": 3
+  },
+  {
+   "text": "Now the stress test. A new competitor opens a mile away with lower membership prices. Members drop by twenty percent, and revenue falls about one hundred fifty thousand dollars. Most costs don't fall nearly as much. Suddenly the wash may not cover its debt. Car washes have high fixed costs, which means small changes in revenue create big changes in profit.",
+   "query": "Stock market chart falling",
+   "caption": "THE STRESS TEST",
+   "cuts": 3
+  },
+  {
+   "text": "The risks. Heavy debt, competition from new washes, which has increased in many areas as investors pour money in, equipment breakdowns, weather, and local rules about water use. A great location with traffic, visibility and easy access is essential.",
+   "query": "Rain on window",
+   "caption": "THE RISKS",
+   "cuts": 3
+  },
+  {
+   "text": "Let's look closer at the membership math, because that's where the profit really lives. Members don't stay forever. If the wash loses, say, five percent of its members every month, it needs to sign up about one hundred twenty five new members each month just to stay at two thousand five hundred. That's why successful washes invest heavily in signup systems, friendly staff and keeping the experience quick and reliable.",
+   "query": "Car wash tunnel",
+   "caption": "THE MEMBER CHURN MATH",
+   "cuts": 3
+  },
+  {
+   "text": "Membership also changes customer behavior in the owner's favor. Members wash more often, which feels like great value to them, but the extra cost to the wash for each additional wash is small: some water, chemicals and electricity. Meanwhile, the monthly fee is predictable. That predictability is a big reason investors have paid high prices for car washes in recent years.",
+   "query": "Online banking smartphone app",
+   "caption": "WHY INVESTORS LOVE MEMBERSHIPS",
+   "cuts": 3
+  },
+  {
+   "text": "What about smaller self service washes? A self service wash with a few bays and a vacuum area costs far less than a tunnel, sometimes a few hundred thousand dollars to buy, depending on the location and condition. Revenue is lower, but so are labor costs, since customers do the work. These can be good entry points, though old equipment and deferred maintenance are common issues to inspect carefully.",
+   "query": "Self service car wash bay",
+   "caption": "SELF SERVICE WASHES",
+   "cuts": 3
+  },
+  {
+   "text": "Buying an existing wash instead of building one can reduce risk, because you can see the real history: car counts, membership numbers, equipment age and seasonality. Ask for monthly data over several years, not just annual totals, and look for any new competitors being built nearby before you sign.",
+   "query": "Business meeting handshake",
+   "caption": "BUYING AN EXISTING WASH",
+   "cuts": 3
+  },
+  {
+   "text": "And a day in the life of a car wash owner? Checking equipment every morning, because a breakdown on a sunny Saturday can cost thousands in lost revenue. Managing staff who greet customers and sell memberships. Watching weather forecasts, since rain empties the lot and the days after rain are often the busiest. Handling damage claims when a customer says the brushes scratched their car. It's a real operating business, not a vending machine you check once a week.",
+   "query": "Car wash tunnel",
+   "caption": "A DAY AT THE WASH",
+   "cuts": 3
+  },
+  {
+   "text": "Location deserves its own moment. The best car wash sites usually have heavy daily traffic, easy turns in and out, good visibility from the road, and lots of homes and workplaces nearby. A wash on the wrong side of a busy road, where drivers can't easily turn in, can struggle even with great equipment. Car wash investors often spend months studying traffic counts and growth plans before choosing a site, because the location decision is almost impossible to undo.",
+   "query": "Busy road traffic",
+   "caption": "LOCATION, LOCATION, LOCATION",
+   "cuts": 3
+  },
+  {
+   "text": "The verdict on car washes. A well located wash with strong memberships can be a very profitable business and a valuable asset. But it's capital intensive, debt heavy and increasingly competitive. It's a business for experienced operators or investors with deep pockets, not a casual passive income play.",
+   "query": "Car wash tunnel",
+   "caption": "CAR WASH: THE VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Quick pause. If you're getting value from these real numbers, subscribe to the channel. Every week, Ryan breaks down how money and business actually work, without the hype. Now, part three: storage units.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "Part three. Self storage. The boring giant.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Part 3: Storage units"
+  },
+  {
+   "text": "Example storage facility. Four hundred units, eighty eight percent occupied, average rent one hundred twenty dollars a month. Revenue about five hundred seven thousand dollars a year.",
+   "card": {
+    "type": "stat",
+    "label": "storage facility, illustrated",
+    "big": "$507K/yr",
+    "sub": "400 units, 88% full, $120 average rent"
+   },
+   "caption": "ONE FACILITY",
+   "cuts": 1
+  },
+  {
+   "text": "Cost to get in. Storage facilities are real estate. A small existing facility might cost from several hundred thousand dollars in a rural area to many millions in a growing suburb. Many people invest through partnerships or by starting with a small rural facility that needs improvement.",
+   "query": "Storage units",
+   "caption": "COST TO GET IN",
+   "cuts": 3
+  },
+  {
+   "text": "Revenue. Say our example facility has four hundred units with an average rent of one hundred twenty dollars a month. If eighty eight percent are rented, that's three hundred fifty two units paying, or about forty two thousand dollars a month, roughly five hundred seven thousand dollars a year. Add fees, truck rentals and insurance offered to tenants, and revenue rises a bit more.",
+   "query": "Storage units",
+   "caption": "REVENUE",
+   "cuts": 3
+  },
+  {
+   "text": "Where the money goes. Storage is known for relatively low operating costs compared with many businesses. Property taxes, insurance, a part time manager, utilities, software, marketing and maintenance might take around thirty five to forty percent of revenue. In our example, that's about one hundred ninety thousand dollars, leaving about three hundred seventeen thousand dollars in net operating income.",
+   "query": "Calculator and coins",
+   "caption": "WHERE THE MONEY GOES",
+   "cuts": 3
+  },
+  {
+   "text": "Value. Commercial real estate is often valued by dividing net operating income by a capitalization rate, or cap rate. If buyers expect a cap rate around six to seven percent, our facility might be worth roughly four and a half to five and a quarter million dollars. Raise the income, and the value rises too. That's the lever storage investors pull.",
+   "query": "Real estate building",
+   "caption": "HOW IT'S VALUED",
+   "cuts": 3
+  },
+  {
+   "text": "The upside levers. Raise occupancy with better marketing. Raise rents gradually, especially for longer term tenants. Add services like tenant insurance, truck rentals and boxes. Expand with more units on extra land. Each extra dollar of yearly income can add many dollars to the facility's value.",
+   "query": "Online banking smartphone app",
+   "caption": "THE UPSIDE LEVERS",
+   "cuts": 3
+  },
+  {
+   "text": "The stress test. If a big new facility opens nearby and occupancy drops from eighty eight to seventy five percent, revenue falls by around seventy five thousand dollars a year, and value can fall even more. Overbuilding has been a real issue in some markets. Rising interest rates can also push values down by raising cap rates.",
+   "query": "Stock market chart falling",
+   "caption": "THE STRESS TEST",
+   "cuts": 3
+  },
+  {
+   "text": "The risks. High purchase prices, debt, competition from new facilities, and interest rates. Also, aggressive rent increases can damage your reputation and drive tenants away. But compared with many businesses, storage has relatively few employees and simple operations.",
+   "query": "Person stressed with bills",
+   "caption": "THE RISKS",
+   "cuts": 3
+  },
+  {
+   "text": "Now let's look at a smaller, more realistic first facility. Say a rural storage property has eighty units, sixty percent occupied, with below market rents and no website. The owner is retiring and wants out. It might sell for a modest price because its income is low. A buyer who fixes the gate, adds online rentals, raises rents gradually to market levels and fills more units could raise its income and value significantly over a few years.",
+   "query": "Storage units",
+   "caption": "THE SMALL RURAL FACILITY",
+   "cuts": 3
+  },
+  {
+   "text": "That's called a value add strategy. You buy something underperforming, improve the operations, and grow the income. It's how many storage investors build wealth. But it depends on real demand in the area. If the facility is only sixty percent full because the town is shrinking, better marketing won't fix it.",
+   "query": "Real estate building",
+   "caption": "THE VALUE ADD STRATEGY",
+   "cuts": 3
+  },
+  {
+   "text": "Related niches include boat and RV storage, which needs land and fencing more than buildings, and climate controlled units, which earn higher rents but cost more to build and operate. Each niche has its own demand drivers, like nearby lakes for boat storage or humid climates for climate control.",
+   "query": "RV parking lot",
+   "caption": "BOAT, RV AND CLIMATE CONTROL",
+   "cuts": 3
+  },
+  {
+   "text": "Day to day, storage is lighter. Many facilities use online rentals, gate codes and cameras, with a manager on site part time or even remotely. The main tasks are marketing to keep units full, collecting rent, dealing with late payers, which can eventually lead to auctions of abandoned units under state law, and keeping the property clean and secure. Lighter work, but still work.",
+   "query": "Security camera",
+   "caption": "A DAY AT THE FACILITY",
+   "cuts": 3
+  },
+  {
+   "text": "Financing matters a lot in storage too. Say our example facility is bought for five million dollars with a twenty five percent down payment. The loan payments on three point seven five million could take a large share of that three hundred seventeen thousand dollars of income, depending on the interest rate. When rates are high, the cash left for the investor can be thin, even if the facility is full. That's why many storage investors focus on value add deals, where they can grow income after buying.",
+   "query": "Bank building",
+   "caption": "THE FINANCING SQUEEZE",
+   "cuts": 3
+  },
+  {
+   "text": "The verdict on storage. It's one of the most passive of the three, but it's real estate, which means big capital, debt and market risk. For investors with capital or partners, it can be a steady wealth builder. For most people starting out, it's a long term goal rather than a first step.",
+   "query": "Storage units",
+   "caption": "STORAGE: THE VERDICT",
+   "cuts": 3
+  },
+  {
+   "text": "Vending: low cost, low income, more time. Car wash: high cost, high income, high risk. Storage: high cost, steady income, real estate risk.",
+   "card": {
+    "type": "list",
+    "n": 3,
+    "title": "side by side",
+    "sub": "cost, income, time, risk"
+   },
+   "caption": "SIDE BY SIDE",
+   "cuts": 1,
+   "chapter": "Side by side"
+  },
+  {
+   "text": "Let's compare. Vending: a few thousand dollars to start, small income per machine, real time commitment, and low risk per machine. Car wash: millions to build, large revenue, heavy debt and high fixed costs. Storage: hundreds of thousands to millions, steady income, relatively low labor, and real estate market risk.",
+   "query": "Notebook with financial notes",
+   "caption": "THE COMPARISON",
+   "cuts": 3
+  },
+  {
+   "text": "Notice something. None of them is truly passive at the start. Vending requires your time every week. Car washes require active management and marketing. Storage requires management, even if it's lighter. Passive income usually means you've paid someone else to do the work, and that payment comes out of your profit.",
+   "query": "Person driving car",
+   "caption": "NONE IS TRULY PASSIVE",
+   "cuts": 3
+  },
+  {
+   "text": "These three aren't the only businesses sold as passive income. Here's a quick look at a few others, using the same lens.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Other passive income favorites, quickly"
+  },
+  {
+   "text": "Laundromats. Steady demand and card payments, but equipment is expensive, leases matter enormously, and someone has to handle repairs, cleaning and customer issues. ATMs. Low cost machines that earn a fee per withdrawal, but cash use has been declining, and you need great locations and reliable cash loading.",
+   "query": "Laundromat washing machines",
+   "caption": "LAUNDROMATS AND ATMS",
+   "cuts": 3
+  },
+  {
+   "text": "Parking lots. Simple in concept, with low operating costs, but land is expensive and demand depends on what's nearby, like offices, stadiums or downtown activity. Billboards. Can earn steady lease income, but permits are often hard to get, and you need advertisers to keep them rented.",
+   "query": "Empty parking lot",
+   "caption": "PARKING AND BILLBOARDS",
+   "cuts": 3
+  },
+  {
+   "text": "The same pattern shows up every time. The more passive a business is, the more capital it usually requires, and the more the returns depend on location and competition. The cheaper and easier the entry, the more of your own time it usually takes. There's no free lunch, only different trades between money, time and risk.",
+   "query": "Calculator and coins",
+   "caption": "NO FREE LUNCH",
+   "cuts": 3
+  },
+  {
+   "text": "Let's make this practical. Here's how these businesses might fit different budgets, keeping your emergency fund and retirement savings separate.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What fits your budget"
+  },
+  {
+   "text": "With ten thousand dollars, vending is realistic. Two or three used machines in good locations, plus a cushion for repairs and products. You'll learn the basics of locations, inventory and customers, and you'll find out whether you enjoy the work, all without risking your financial foundation.",
+   "query": "Vending machine",
+   "caption": "WITH $10,000",
+   "cuts": 3
+  },
+  {
+   "text": "With one hundred thousand dollars, more options open up. A larger vending route, a small micro market operation, or a down payment on a small self service car wash or rural storage facility with financing. At this level, partnering with an experienced operator can make sense, and professional due diligence becomes essential.",
+   "query": "Business meeting",
+   "caption": "WITH $100,000",
+   "cuts": 3
+  },
+  {
+   "text": "With a million dollars or more, typically through partnerships or investor groups, express car washes and larger storage facilities become possible. At this scale, you're running or investing in a serious business with serious debt, and experienced management matters more than anything else. Many people at this level invest alongside professional operators rather than running the business themselves.",
+   "query": "Real estate building",
+   "caption": "WITH $1 MILLION+",
+   "cuts": 3
+  },
+  {
+   "text": "And with any budget, the index fund is always an option. It requires no time, no locations and no repairs. Any business you choose should offer a clear advantage over that baseline, in return, in control or in the satisfaction of building something. If it doesn't, the boring fund may be the better choice.",
+   "query": "Stock market chart on screen",
+   "caption": "THE ALWAYS AVAILABLE OPTION",
+   "cuts": 3
+  },
+  {
+   "text": "Let's imagine three investors, each with fifty thousand dollars. The first buys ten vending machines from a company promising great locations. The locations turn out to be weak, and half the machines barely sell. After a year of driving around restocking, he moves the machines himself, finds better spots, and finally starts earning a modest profit. Lesson: never outsource location selection.",
+   "query": "Vending machine",
+   "caption": "THE VENDING BUYER",
+   "cuts": 3,
+   "chapter": "Three investors, three outcomes"
+  },
+  {
+   "text": "The second partners with an experienced operator to buy a self service car wash, putting in her fifty thousand as part of the down payment. The operator runs the wash, and she receives a share of the profits. It works well, because she chose a partner with a track record and a written agreement. Lesson: partners can make big deals possible, but choose them carefully.",
+   "query": "Business meeting",
+   "caption": "THE CAR WASH PARTNER",
+   "cuts": 3
+  },
+  {
+   "text": "The third keeps the fifty thousand in an index fund while he studies storage for two years, analyzing dozens of facilities. When he finally buys a small rural facility with financing, he knows exactly what a good deal looks like. Lesson: patience and preparation are investments too.",
+   "query": "Storage units",
+   "caption": "THE PATIENT STORAGE BUYER",
+   "cuts": 3
+  },
+  {
+   "text": "Mistake one. Believing projected numbers instead of real ones. Sellers and promoters show best case projections. Ask for actual records. Mistake two. Underestimating your time. Even the most passive businesses need oversight, and early on, they need a lot of it.",
+   "query": "Person reading documents",
+   "caption": "MISTAKES 1 AND 2",
+   "cuts": 3,
+   "chapter": "Five mistakes that sink these investments"
+  },
+  {
+   "text": "Mistake three. Too much debt. High fixed costs plus heavy loans leave no room for a bad year. Mistake four. Ignoring competition. Check for new facilities or washes being planned nearby before you buy, using local planning records and simply driving the area.",
+   "query": "Construction site",
+   "caption": "MISTAKES 3 AND 4",
+   "cuts": 3
+  },
+  {
+   "text": "And mistake five. Putting everything into one deal. Keep your emergency fund, keep investing for retirement, and never risk money you can't afford to lose. Diversification protects you from the one bad location or the one new competitor that changes everything.",
+   "query": "Piggy bank coins",
+   "caption": "MISTAKE 5",
+   "cuts": 3
+  },
+  {
+   "text": "Now, three angles. First, the numbers. How do these compare to simply investing in the stock market?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 1: The numbers"
+  },
+  {
+   "text": "Say you have fifty thousand dollars. In a broad index fund, at an illustrative seven percent average yearly return, that might grow by about three thousand five hundred dollars a year on average, with no time required, though with ups and downs. That's your baseline. Any business should beat it by enough to justify the time and risk.",
+   "query": "Stock market chart on screen",
+   "caption": "THE BASELINE",
+   "cuts": 3
+  },
+  {
+   "text": "With fifty thousand dollars in vending machines, maybe twelve machines in our example, you might earn around twenty thousand dollars a year before vehicle costs and repairs, but with a day or two a week of work. That's a much higher return on money, but much of it is really payment for your labor.",
+   "query": "Vending machine",
+   "caption": "VENDING WITH $50K",
+   "cuts": 3
+  },
+  {
+   "text": "With fifty thousand dollars as a down payment, you might be able to buy into a small storage facility or a self service car wash with financing, depending on the deal. That uses leverage, which can multiply returns, but also losses. The question is always whether the extra return is worth the extra risk and work.",
+   "query": "Bank building",
+   "caption": "LEVERAGE",
+   "cuts": 3
+  },
+  {
+   "text": "Taxes also matter. Equipment and buildings can often be depreciated, which means part of their cost is deducted from taxable income over time. That can make the after tax returns of these businesses look better than the pre tax numbers suggest. But depreciation rules are complex, and they can create taxes when you sell. This is exactly the kind of thing to plan with an accountant before you buy.",
+   "query": "Tax forms on desk",
+   "caption": "TAXES AND DEPRECIATION",
+   "cuts": 3
+  },
+  {
+   "text": "The lesson. Separate your return into two parts: return on your money and payment for your time. A business that pays thirty percent but requires twenty hours a week may really be a job plus a modest investment return. That's fine, but know which one you're getting.",
+   "query": "Calculator and coins",
+   "caption": "MONEY RETURN VS TIME PAY",
+   "cuts": 3
+  },
+  {
+   "text": "Second angle. The psychology. Why is passive income such a powerful idea, and why is it dangerous?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 2: The psychology",
+   "short_hook": "Passive income is one of the most profitable ideas online, mostly for the people selling it."
+  },
+  {
+   "text": "The first reason is the dream of freedom. Earning money while you sleep sounds like the perfect escape from a job. That dream is real, and it can be achieved over time. But it's usually the result of years of work, not a shortcut. People who sell the dream often skip the years.",
+   "query": "Person relaxing on beach",
+   "caption": "THE DREAM OF FREEDOM",
+   "cuts": 3
+  },
+  {
+   "text": "The second reason is selective stories. You see the person with fifty profitable machines, not the hundreds who bought a machine that sits in a bad location. You see the car wash owner with thousands of members, not the one who can't cover the loan. Survivorship bias makes these businesses look easier than they are.",
+   "query": "Crowd of people",
+   "caption": "SURVIVORSHIP BIAS",
+   "cuts": 3
+  },
+  {
+   "text": "The third reason is that the gurus profit either way. Many passive income promoters make money by selling courses, machines, coaching or locations, whether or not your business succeeds. That doesn't mean everything they say is false, but it means you should verify their numbers independently.",
+   "query": "Person recording video",
+   "caption": "WHO PROFITS",
+   "cuts": 3
+  },
+  {
+   "text": "The fourth reason is that we underestimate maintenance. When you picture owning a machine or a building, you picture the income, not the broken coin slot at nine at night, the clogged drain in a wash bay, or the tenant who stopped paying. Every physical asset needs care, and that care costs time or money.",
+   "query": "Home repair tools",
+   "caption": "WE FORGET MAINTENANCE",
+   "cuts": 3
+  },
+  {
+   "text": "And the fifth reason is that easy feels better than hard. A video that says passive income is simple gets more views than one that explains depreciation, churn and cap rates. That's why this video exists: the boring details are where the real money is decided.",
+   "query": "Person scrolling smartphone",
+   "caption": "EASY SELLS",
+   "cuts": 3
+  },
+  {
+   "text": "The takeaway. Passive income is real, but it's usually earned slowly. Treat any promise of easy passive income as a reason to ask more questions, not fewer.",
+   "presenter": true,
+   "caption": "RYAN"
+  },
+  {
+   "text": "You can learn a lot about a business before anyone shows you the books. For a vending machine, count how many people pass by each day and how long they wait. For a car wash, sit across the street on a weekday and a Saturday and count cars per hour, then check the membership price on the sign. For storage, call as a customer and ask what sizes are available and what they cost.",
+   "query": "Person thinking with notebook",
+   "caption": "BE A DETECTIVE",
+   "cuts": 3,
+   "chapter": "How to estimate the numbers from the outside"
+  },
+  {
+   "text": "Then do rough math. Cars per hour times hours open times average price gives a rough sense of a wash's revenue. Units available, compared with the total number of units, gives a rough sense of storage occupancy. These estimates won't be exact, but they help you spot when a seller's numbers seem too good to be true.",
+   "query": "Calculator and coins",
+   "caption": "ROUGH MATH",
+   "cuts": 3
+  },
+  {
+   "text": "Finally, check the competition. Search maps for every vending operator, car wash or storage facility within a few miles. Read reviews, compare prices, and look at local planning records for anything new being built. A deal that looks great today can look very different when a new competitor opens down the road next year.",
+   "query": "Map with pins",
+   "caption": "CHECK THE COMPETITION",
+   "cuts": 3
+  },
+  {
+   "text": "Third angle. The playbook. How do you decide whether any of these is right for you?",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "Angle 3: The playbook",
+   "short_hook": "Before you buy a vending machine, a car wash or a storage unit, answer these five questions."
+  },
+  {
+   "text": "Question one. How much capital can I risk without touching my emergency fund or retirement? That decides which of the three is even possible. Question two. How much time can I give each week? Vending needs regular time. Car washes need active management. Storage can be lighter, especially with a manager.",
+   "query": "Piggy bank coins",
+   "caption": "CAPITAL AND TIME",
+   "cuts": 3
+  },
+  {
+   "text": "Question three. Do I understand the local market? Visit competitors, count machines, washes or facilities, check prices and occupancy, and talk to owners. Question four. Have I seen real numbers? Ask for tax returns, bank statements and occupancy reports, and have an accountant review them.",
+   "query": "Person reading documents",
+   "caption": "MARKET AND NUMBERS",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. What happens if things go wrong? Run a stress test: what if revenue falls twenty percent, a machine breaks, or a competitor opens nearby? If the investment still works, or at least doesn't sink you, you may have found a good opportunity.",
+   "query": "Stock market chart falling",
+   "caption": "THE STRESS TEST",
+   "cuts": 3
+  },
+  {
+   "text": "A practical path. Many people start with vending to learn the basics with little money, keep investing in index funds for their foundation, and only later move into larger investments like storage or car washes, often with partners. Start small, learn, then scale.",
+   "query": "Notebook with financial notes",
+   "caption": "START SMALL, LEARN, SCALE",
+   "cuts": 3,
+   "short_hook": "Here's the smartest path from your first vending machine to owning real assets."
+  },
+  {
+   "text": "Question one. Which is best for a beginner? Usually vending, because it's cheap and teaches the basics, though it requires time. Question two. Can I finance these? Car washes and storage facilities are often financed with bank or SBA loans, which require down payments and personal guarantees. Vending machines are usually bought with cash or small equipment loans.",
+   "query": "Calculator and coins",
+   "caption": "BEGINNERS? FINANCING?",
+   "cuts": 3,
+   "chapter": "Questions people ask"
+  },
+  {
+   "text": "Question three. Are franchises a good idea? Some car wash and vending franchises offer systems and brand recognition, but they charge fees and royalties. Compare total costs carefully. Question four. How do I find locations or deals? For vending, ask local businesses directly. For car washes and storage, look at business brokers, commercial real estate listings and owners nearing retirement.",
+   "query": "Business meeting handshake",
+   "caption": "FRANCHISES? FINDING DEALS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question five. Can these businesses be run remotely? Storage facilities increasingly can, with online rentals and cameras. Car washes usually need on site staff. Vending needs someone to restock, though some owners hire route drivers. Question six. What's the biggest hidden cost? For vending, your time and driving. For car washes, equipment repairs and debt. For storage, property taxes and the cost of capital.",
+   "query": "Laptop with business software",
+   "caption": "REMOTE? HIDDEN COSTS?",
+   "cuts": 3
+  },
+  {
+   "text": "Question seven. Is it better to buy one big asset or several small ones? Several small ones spread risk across locations, while one big one is easier to manage and may get better financing. Many investors start small and diversify, then consolidate as they gain experience.",
+   "query": "Map with pins",
+   "caption": "BIG OR SMALL?",
+   "cuts": 3
+  },
+  {
+   "text": "Let's recap. Vending machines are cheap and teach the basics, but need your time and great locations. Car washes can be very profitable with memberships, but they're expensive, debt heavy and competitive. Storage is the most passive, but it's real estate, with big capital needs and market risk.",
+   "query": "Notebook with financial notes",
+   "caption": "THE RECAP",
+   "cuts": 3,
+   "chapter": "Recap"
+  },
+  {
+   "text": "And the lessons for all three. Separate your return on money from your payment for time. Stress test every deal. Verify numbers independently. And keep your personal financial foundation strong while you build.",
+   "query": "Calculator and pen on financial papers",
+   "caption": "THE LESSONS",
+   "cuts": 3
+  },
+  {
+   "text": "One last thought. Vending machines, car washes and storage units really can build wealth. Plenty of people have done it. But the ones who succeed usually treat them as real businesses: they study the numbers, pick great locations, manage carefully and stay patient. The passive part, if it comes, comes later, as a reward for doing the active part well.",
+   "query": "Small business owner smiling",
+   "caption": "PASSIVE COMES LATER",
+   "cuts": 3
+  },
+  {
+   "text": "If one of these interests you, start with research, not money. This week, visit one vending location, one car wash or one storage facility near you, and try to estimate their numbers using today's framework. Write down your guesses for revenue, costs and profit, then compare them with what you learned today. Doing this a few times trains your eye faster than any course. I'm Ryan Rover. Run the numbers, and I'll see you in the next video.",
+   "presenter": true,
+   "caption": "RYAN",
+   "chapter": "What to do next"
+  }
+ ]
+}

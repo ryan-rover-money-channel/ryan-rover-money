@@ -1,0 +1,7 @@
+- U.S. Small Business Administration, Office of Advocacy, Frequently Asked Questions (more than 33 million small businesses; nearly half of private-sector employment)
+- Bureau of Labor Statistics, Business Employment Dynamics, establishment survival (about 1 in 5 close in year one, about half by year five)
+- Federal Reserve, Survey of Consumer Finances (business-owning families have higher median net worth)
+- Bureau of Labor Statistics, Occupational Outlook Handbook (plumbers and electricians median pay, 2024)
+- U.S. Environmental Protection Agency, Septic Systems Overview (about one in five U.S. homes)
+- S&P Global Mobility, average age of light vehicles in operation (record above 12.5 years)
+- Thomas J. Stanley and William D. Danko, The Millionaire Next Door (1996)

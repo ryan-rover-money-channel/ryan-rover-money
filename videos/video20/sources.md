@@ -1,0 +1,4 @@
+- Bureau of Labor Statistics, Occupational Outlook Handbook: plumbers, pipefitters and steamfitters; electricians (median pay May 2023 about $61,550 and $61,590; job outlook)
+- Bureau of Labor Statistics, Occupational Employment and Wage Statistics, May 2023 (median for all occupations about $48,060; top 10% of electricians above $100,000)
+- Federal Reserve, Economic Well-Being of U.S. Households (student loans)
+- Lifetime comparison: simplified illustration ($25,000 invested by age 22 at an illustrative 7% a year; $30,000 student loan)

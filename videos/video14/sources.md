@@ -1,0 +1,4 @@
+- Bureau of Labor Statistics, Occupational Outlook Handbook (trades and service occupations)
+- U.S. Small Business Administration, 7(a) loan program (business acquisition loans)
+- U.S. EPA, septic systems overview (homes relying on septic systems; pumping intervals)
+- Dumpster contribution example: simplified illustration ($6,000 container, about $200 per rental after direct costs, two rentals a month)

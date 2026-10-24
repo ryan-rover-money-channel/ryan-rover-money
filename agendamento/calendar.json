@@ -34,8 +34,8 @@
  {
   "day": 3,
   "date": "2026-10-26",
-  "long": null,
-  "title": "(video 3 from the production thread)",
+  "long": 3,
+  "title": "The 7 Money Levels: Where Are You in 2027?",
   "shorts": [
    [
     1,
@@ -66,8 +66,8 @@
  {
   "day": 5,
   "date": "2026-10-28",
-  "long": null,
-  "title": "(video 4 from the production thread)",
+  "long": 4,
+  "title": "What $1 Million Actually Buys You in 2027",
   "shorts": [
    [
     1,
@@ -78,6 +78,20 @@
     5
    ]
   ]
+ },
+ {
+  "day": 7,
+  "date": "2026-10-30",
+  "long": 5,
+  "title": "From $0 to $100K: Every Step, In Order",
+  "shorts": []
+ },
+ {
+  "day": 9,
+  "date": "2026-11-01",
+  "long": 6,
+  "title": "The First $10,000 Is the Hardest: 20 Ways to Get There",
+  "shorts": []
  },
  {
   "day": 79,

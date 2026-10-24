@@ -1,0 +1,4 @@
+- All vending, car wash and storage figures: simplified illustrations built for teaching, not industry averages or quotes
+- U.S. Small Business Administration, 7(a) and 504 loan programs (financing for business and real estate)
+- Cap rate valuation: standard commercial real estate method (net operating income divided by capitalization rate)
+- Market comparison: stated illustrative 7% average yearly return
