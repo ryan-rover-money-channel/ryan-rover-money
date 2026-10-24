@@ -1,0 +1,8 @@
+- Growth examples: monthly compounding at stated average yearly returns of 4%, 7% and 10% (illustrations, not promises)
+- S&P Dow Jones Indices, S&P 500 total returns (2008 about -37%, 2022 about -18%); SPIVA scorecards on active vs index funds
+- Aswath Damodaran, NYU Stern, historical returns on stocks, bonds and bills
+- Federal Reserve, 2% longer-run inflation goal; US Bureau of Labor Statistics, CPI
+- IRS, Roth IRA and 401(k) rules and limits
+- Stango and Zinman (2009), exponential growth bias; Benartzi and Thaler (1995), myopic loss aversion
+- J.P. Morgan Asset Management, Guide to Retirement (missing the best days)
+- Madrian and Shea (2001), automatic enrollment
