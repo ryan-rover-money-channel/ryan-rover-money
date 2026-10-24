@@ -1,0 +1,4067 @@
+1
+00:00:00,000 --> 00:00:01,962
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,142 --> 00:00:04,093
+If you ask ten wealthy people how
+
+3
+00:00:04,093 --> 00:00:05,453
+they built their money,
+
+4
+00:00:05,453 --> 00:00:07,819
+you'll hear three answers over and over.
+
+5
+00:00:07,999 --> 00:00:08,637
+Stocks.
+
+6
+00:00:08,817 --> 00:00:09,851
+Real estate.
+
+7
+00:00:10,031 --> 00:00:10,994
+Or a business.
+
+8
+00:00:11,174 --> 00:00:14,216
+Each one has created millions of millionaires.
+
+9
+00:00:14,396 --> 00:00:16,544
+Each one has also ruined people who
+
+10
+00:00:16,544 --> 00:00:17,833
+didn't understand it.
+
+11
+00:00:18,013 --> 00:00:20,613
+So which one builds wealth faster?
+
+12
+00:00:20,793 --> 00:00:23,312
+Today we're putting all three side by
+
+13
+00:00:23,312 --> 00:00:24,946
+side, with real numbers,
+
+14
+00:00:24,946 --> 00:00:27,669
+real psychology and a practical plan for
+
+15
+00:00:27,669 --> 00:00:28,282
+choosing.
+
+16
+00:00:28,632 --> 00:00:29,851
+Here's the short answer.
+
+17
+00:00:30,031 --> 00:00:31,238
+There isn't one winner.
+
+18
+00:00:31,418 --> 00:00:33,765
+Stocks are the easiest and most hands
+
+19
+00:00:33,765 --> 00:00:34,019
+off.
+
+20
+00:00:34,199 --> 00:00:37,087
+Real estate adds leverage and steady rent,
+
+21
+00:00:37,087 --> 00:00:38,738
+but takes work and cash.
+
+22
+00:00:38,918 --> 00:00:41,145
+A business has the highest potential,
+
+23
+00:00:41,145 --> 00:00:43,191
+and the highest chance of failure.
+
+24
+00:00:43,371 --> 00:00:45,326
+The best choice depends on your money,
+
+25
+00:00:45,326 --> 00:00:47,179
+your time and your stomach for risk.
+
+26
+00:00:47,529 --> 00:00:49,258
+Think of them like three vehicles.
+
+27
+00:00:49,438 --> 00:00:51,366
+Stocks are a reliable train.
+
+28
+00:00:51,546 --> 00:00:52,699
+You buy a ticket,
+
+29
+00:00:52,699 --> 00:00:54,734
+sit down and let it carry you,
+
+30
+00:00:54,734 --> 00:00:56,090
+slowly but steadily,
+
+31
+00:00:56,090 --> 00:00:57,989
+with occasional scary bumps.
+
+32
+00:00:58,169 --> 00:01:00,131
+Real estate is a truck.
+
+33
+00:01:00,311 --> 00:01:01,942
+It can carry a heavy load,
+
+34
+00:01:01,942 --> 00:01:03,823
+especially with borrowed fuel,
+
+35
+00:01:03,823 --> 00:01:05,956
+but you have to drive and maintain
+
+36
+00:01:05,956 --> 00:01:06,708
+it yourself.
+
+37
+00:01:06,888 --> 00:01:08,885
+A business is a race car.
+
+38
+00:01:09,065 --> 00:01:10,708
+It can go incredibly fast,
+
+39
+00:01:10,708 --> 00:01:12,035
+but it crashes often,
+
+40
+00:01:12,035 --> 00:01:14,058
+and the driver needs real skill.
+
+41
+00:01:14,408 --> 00:01:16,880
+We'll compare them from three angles.
+
+42
+00:01:17,060 --> 00:01:18,454
+First, the numbers.
+
+43
+00:01:18,634 --> 00:01:20,178
+Long term returns,
+
+44
+00:01:20,178 --> 00:01:22,237
+leverage, failure rates,
+
+45
+00:01:22,237 --> 00:01:24,125
+costs, taxes and time.
+
+46
+00:01:24,305 --> 00:01:26,116
+Second, the psychology.
+
+47
+00:01:26,296 --> 00:01:28,472
+Why people fall in love with one
+
+48
+00:01:28,472 --> 00:01:29,628
+and fear another,
+
+49
+00:01:29,628 --> 00:01:31,532
+often for the wrong reasons.
+
+50
+00:01:31,712 --> 00:01:33,268
+And third, the playbook.
+
+51
+00:01:33,448 --> 00:01:35,574
+How to choose and combine them based
+
+52
+00:01:35,574 --> 00:01:36,873
+on your stage of life.
+
+53
+00:01:37,053 --> 00:01:39,242
+Reminder, this is education,
+
+54
+00:01:39,242 --> 00:01:40,883
+not financial advice,
+
+55
+00:01:40,883 --> 00:01:43,618
+and all examples are illustrations,
+
+56
+00:01:43,618 --> 00:01:44,634
+not promises.
+
+57
+00:01:44,985 --> 00:01:46,598
+Let's start with the numbers.
+
+58
+00:01:46,778 --> 00:01:48,644
+And first, the one most people can
+
+59
+00:01:48,644 --> 00:01:49,576
+start with today.
+
+60
+00:01:49,756 --> 00:01:50,476
+Stocks.
+
+61
+00:01:50,827 --> 00:01:51,662
+Our numbers.
+
+62
+00:01:51,842 --> 00:01:55,280
+Stock market history comes from sources like
+
+63
+00:01:55,280 --> 00:01:57,311
+S and P Dow Jones Indices.
+
+64
+00:01:57,491 --> 00:02:00,069
+Long run comparisons of housing and stock
+
+65
+00:02:00,069 --> 00:02:02,585
+returns come from the research paper The
+
+66
+00:02:02,585 --> 00:02:04,912
+Rate of Return on Everything by Oscar
+
+67
+00:02:04,912 --> 00:02:06,233
+Jorda and colleagues.
+
+68
+00:02:06,413 --> 00:02:09,634
+Home price history comes from Robert Shiller's
+
+69
+00:02:09,634 --> 00:02:11,734
+work and the S and P CoreLogic
+
+70
+00:02:11,734 --> 00:02:13,205
+Case Shiller indices.
+
+71
+00:02:13,385 --> 00:02:15,753
+Business survival data comes from the U.
+
+72
+00:02:15,933 --> 00:02:16,328
+S.
+
+73
+00:02:16,508 --> 00:02:18,528
+Bureau of Labor Statistics.
+
+74
+00:02:18,708 --> 00:02:21,946
+Growth examples use stated average returns,
+
+75
+00:02:21,946 --> 00:02:24,281
+as illustrations, not promises.
+
+76
+00:02:24,631 --> 00:02:25,339
+Angle one.
+
+77
+00:02:25,519 --> 00:02:26,250
+The numbers.
+
+78
+00:02:26,430 --> 00:02:28,619
+Seven ways to compare stocks,
+
+79
+00:02:28,619 --> 00:02:30,505
+real estate and business.
+
+80
+00:02:30,856 --> 00:02:32,005
+Lesson number one.
+
+81
+00:02:32,185 --> 00:02:34,605
+Stocks have been a powerful long run
+
+82
+00:02:34,605 --> 00:02:35,076
+engine.
+
+83
+00:02:35,426 --> 00:02:37,394
+When you buy a broad stock index
+
+84
+00:02:37,394 --> 00:02:39,240
+fund, you own a small piece of
+
+85
+00:02:39,240 --> 00:02:41,393
+hundreds or thousands of companies.
+
+86
+00:02:41,573 --> 00:02:43,773
+Those companies employ people,
+
+87
+00:02:43,773 --> 00:02:46,194
+invent products and earn profits.
+
+88
+00:02:46,374 --> 00:02:47,533
+Over long periods,
+
+89
+00:02:47,533 --> 00:02:50,495
+those profits have pushed stock prices higher.
+
+90
+00:02:50,675 --> 00:02:53,336
+Historically, the S and P five hundred
+
+91
+00:02:53,336 --> 00:02:56,066
+has averaged roughly ten percent a year
+
+92
+00:02:56,066 --> 00:02:58,726
+before inflation, including dividends,
+
+93
+00:02:58,726 --> 00:02:59,987
+over many decades.
+
+94
+00:03:00,337 --> 00:03:01,997
+Here's what that can look like.
+
+95
+00:03:02,177 --> 00:03:05,318
+Fifty thousand dollars invested for twenty years
+
+96
+00:03:05,318 --> 00:03:08,001
+at a seven percent average yearly return,
+
+97
+00:03:08,001 --> 00:03:10,161
+a more conservative illustration,
+
+98
+00:03:10,161 --> 00:03:13,171
+grows to roughly two hundred thousand dollars.
+
+99
+00:03:13,351 --> 00:03:14,381
+At ten percent,
+
+100
+00:03:14,381 --> 00:03:17,194
+roughly three hundred sixty six thousand.
+
+101
+00:03:17,374 --> 00:03:19,038
+And you don't have to fix a
+
+102
+00:03:19,038 --> 00:03:21,011
+roof, manage a tenant or hire an
+
+103
+00:03:21,011 --> 00:03:21,566
+employee.
+
+104
+00:03:21,916 --> 00:03:23,529
+The catch is volatility.
+
+105
+00:03:23,709 --> 00:03:25,413
+Stocks can fall thirty,
+
+106
+00:03:25,413 --> 00:03:27,784
+forty or even fifty percent in a
+
+107
+00:03:27,784 --> 00:03:30,896
+bad market, and recoveries can take years.
+
+108
+00:03:31,076 --> 00:03:33,458
+The long term average hides some very
+
+109
+00:03:33,458 --> 00:03:35,325
+painful short term stretches.
+
+110
+00:03:35,676 --> 00:03:38,032
+Dividends are part of that return too.
+
+111
+00:03:38,212 --> 00:03:41,370
+Many companies share profits with shareholders as
+
+112
+00:03:41,370 --> 00:03:44,528
+dividends, and reinvesting them buys more shares.
+
+113
+00:03:44,708 --> 00:03:45,924
+Over long periods,
+
+114
+00:03:45,924 --> 00:03:49,032
+reinvested dividends have made up a meaningful
+
+115
+00:03:49,032 --> 00:03:51,802
+share of the stock market's total return.
+
+116
+00:03:51,982 --> 00:03:55,069
+So stock investors get two engines working
+
+117
+00:03:55,069 --> 00:03:57,714
+at once, rising company values and a
+
+118
+00:03:57,714 --> 00:03:59,772
+growing stream of dividends.
+
+119
+00:04:00,123 --> 00:04:03,152
+Stocks shine on one measure above all,
+
+120
+00:04:03,152 --> 00:04:03,710
+effort.
+
+121
+00:04:03,890 --> 00:04:06,373
+With low cost index funds and automatic
+
+122
+00:04:06,373 --> 00:04:09,046
+investing, they can build wealth while you
+
+123
+00:04:09,046 --> 00:04:11,274
+focus on your career and your life.
+
+124
+00:04:11,454 --> 00:04:13,484
+No other path on this list asks
+
+125
+00:04:13,484 --> 00:04:14,925
+for less of your time.
+
+126
+00:04:15,276 --> 00:04:16,390
+Lesson number two.
+
+127
+00:04:16,570 --> 00:04:19,113
+Real estate returns come from rent and
+
+128
+00:04:19,113 --> 00:04:19,983
+appreciation.
+
+129
+00:04:20,334 --> 00:04:23,002
+Many people think of real estate returns
+
+130
+00:04:23,002 --> 00:04:24,803
+as just rising home prices.
+
+131
+00:04:24,983 --> 00:04:27,724
+But Robert Shiller's research found that,
+
+132
+00:04:27,724 --> 00:04:29,262
+adjusted for inflation,
+
+133
+00:04:29,262 --> 00:04:29,395
+U.
+
+134
+00:04:29,575 --> 00:04:29,912
+S.
+
+135
+00:04:30,092 --> 00:04:32,635
+home prices rose only modestly over much
+
+136
+00:04:32,635 --> 00:04:34,225
+of the twentieth century.
+
+137
+00:04:34,405 --> 00:04:37,055
+Price growth alone hasn't usually been the
+
+138
+00:04:37,055 --> 00:04:37,749
+main story.
+
+139
+00:04:38,099 --> 00:04:40,467
+The bigger story for investors is rent.
+
+140
+00:04:40,647 --> 00:04:43,631
+A rental property can produce income every
+
+141
+00:04:43,631 --> 00:04:45,976
+month on top of any appreciation.
+
+142
+00:04:46,156 --> 00:04:48,722
+A major study called The Rate of
+
+143
+00:04:48,722 --> 00:04:50,406
+Return on Everything,
+
+144
+00:04:50,406 --> 00:04:54,015
+covering sixteen countries from 1870 to 2015,
+
+145
+00:04:54,015 --> 00:04:56,742
+found that housing's total return,
+
+146
+00:04:56,742 --> 00:04:58,586
+rent plus price growth,
+
+147
+00:04:58,586 --> 00:05:01,874
+was roughly comparable to stocks over the
+
+148
+00:05:01,874 --> 00:05:04,360
+long run, with less volatility.
+
+149
+00:05:04,711 --> 00:05:07,605
+But those research returns are averages,
+
+150
+00:05:07,605 --> 00:05:09,703
+before many real world costs.
+
+151
+00:05:09,883 --> 00:05:11,628
+Property taxes, insurance,
+
+152
+00:05:11,628 --> 00:05:15,117
+repairs, vacancies, property management and the time
+
+153
+00:05:15,117 --> 00:05:17,734
+you spend all reduce what an individual
+
+154
+00:05:17,734 --> 00:05:19,345
+landlord actually earns.
+
+155
+00:05:19,695 --> 00:05:21,471
+There's also the question of what you'd
+
+156
+00:05:21,471 --> 00:05:22,702
+pay to live there yourself.
+
+157
+00:05:22,882 --> 00:05:24,666
+A home you live in saves you
+
+158
+00:05:24,666 --> 00:05:27,024
+rent, which is a real economic return
+
+159
+00:05:27,024 --> 00:05:28,872
+even though no check arrives.
+
+160
+00:05:29,052 --> 00:05:31,734
+Economists call this imputed rent.
+
+161
+00:05:31,914 --> 00:05:34,045
+It's one reason owning a home can
+
+162
+00:05:34,045 --> 00:05:36,564
+make financial sense over long periods,
+
+163
+00:05:36,564 --> 00:05:39,147
+even when the price itself grows slowly.
+
+164
+00:05:39,498 --> 00:05:41,703
+Real estate is also local.
+
+165
+00:05:41,883 --> 00:05:45,018
+One neighborhood can boom while another declines.
+
+166
+00:05:45,198 --> 00:05:46,671
+Unlike an index fund,
+
+167
+00:05:46,671 --> 00:05:49,686
+a single property means your result depends
+
+168
+00:05:49,686 --> 00:05:51,369
+heavily on one location,
+
+169
+00:05:51,369 --> 00:05:53,894
+one building and one set of tenants.
+
+170
+00:05:54,244 --> 00:05:55,439
+Lesson number three.
+
+171
+00:05:55,619 --> 00:05:57,890
+Leverage magnifies results,
+
+172
+00:05:57,890 --> 00:05:58,731
+both ways.
+
+173
+00:05:59,081 --> 00:06:02,064
+Real estate's secret weapon is leverage.
+
+174
+00:06:02,244 --> 00:06:04,520
+Most people buy property with a mortgage.
+
+175
+00:06:04,700 --> 00:06:06,598
+Say you buy a three hundred thousand
+
+176
+00:06:06,598 --> 00:06:09,181
+dollar property with sixty thousand dollars down.
+
+177
+00:06:09,361 --> 00:06:11,752
+If its value rises four percent in
+
+178
+00:06:11,752 --> 00:06:14,495
+a year, that's twelve thousand dollars,
+
+179
+00:06:14,495 --> 00:06:16,816
+which is a twenty percent gain on
+
+180
+00:06:16,816 --> 00:06:18,223
+your sixty thousand,
+
+181
+00:06:18,223 --> 00:06:19,137
+before costs.
+
+182
+00:06:19,487 --> 00:06:21,739
+But leverage works in reverse too.
+
+183
+00:06:21,919 --> 00:06:24,105
+If the property falls ten percent,
+
+184
+00:06:24,105 --> 00:06:26,228
+you lose thirty thousand dollars,
+
+185
+00:06:26,228 --> 00:06:27,900
+half of your down payment,
+
+186
+00:06:27,900 --> 00:06:28,479
+on paper.
+
+187
+00:06:28,659 --> 00:06:31,039
+During the housing crash around 2008,
+
+188
+00:06:31,039 --> 00:06:33,355
+many owners ended up owing more than
+
+189
+00:06:33,355 --> 00:06:34,835
+their homes were worth.
+
+190
+00:06:35,185 --> 00:06:37,659
+You can also use leverage with stocks,
+
+191
+00:06:37,659 --> 00:06:39,026
+through margin loans,
+
+192
+00:06:39,026 --> 00:06:41,825
+but most experts strongly discourage it for
+
+193
+00:06:41,825 --> 00:06:45,015
+regular investors, because margin calls can force
+
+194
+00:06:45,015 --> 00:06:46,969
+you to sell at the worst time.
+
+195
+00:06:47,149 --> 00:06:49,666
+Mortgages are generally more forgiving,
+
+196
+00:06:49,666 --> 00:06:52,119
+with fixed payments and no daily price
+
+197
+00:06:52,119 --> 00:06:52,571
+checks.
+
+198
+00:06:52,921 --> 00:06:55,681
+Leverage also changes how you should measure
+
+199
+00:06:55,681 --> 00:06:56,183
+returns.
+
+200
+00:06:56,363 --> 00:06:59,220
+Real estate investors often talk about cash
+
+201
+00:06:59,220 --> 00:07:00,217
+on cash return,
+
+202
+00:07:00,217 --> 00:07:02,675
+the yearly cash profit divided by the
+
+203
+00:07:02,675 --> 00:07:03,805
+cash they put in.
+
+204
+00:07:03,985 --> 00:07:07,009
+A property earning three thousand dollars a
+
+205
+00:07:07,009 --> 00:07:09,681
+year after all costs on sixty thousand
+
+206
+00:07:09,681 --> 00:07:12,212
+dollars down has a five percent cash
+
+207
+00:07:12,212 --> 00:07:13,267
+on cash return,
+
+208
+00:07:13,267 --> 00:07:16,361
+before any appreciation or mortgage paydown.
+
+209
+00:07:16,712 --> 00:07:18,889
+The key to safe leverage is cash
+
+210
+00:07:18,889 --> 00:07:20,113
+flow and reserves.
+
+211
+00:07:20,293 --> 00:07:22,254
+If the rent covers the mortgage and
+
+212
+00:07:22,254 --> 00:07:24,551
+costs, and you have cash for emergencies,
+
+213
+00:07:24,551 --> 00:07:26,063
+you can survive a downturn.
+
+214
+00:07:26,243 --> 00:07:28,701
+If not, leverage can turn a bad
+
+215
+00:07:28,701 --> 00:07:30,365
+year into a disaster.
+
+216
+00:07:30,715 --> 00:07:31,899
+Lesson number four.
+
+217
+00:07:32,079 --> 00:07:34,306
+A business has the highest ceiling,
+
+218
+00:07:34,306 --> 00:07:35,643
+and the highest risk.
+
+219
+00:07:35,993 --> 00:07:38,067
+Many of the wealthiest people in the
+
+220
+00:07:38,067 --> 00:07:40,834
+world built their fortunes by owning businesses.
+
+221
+00:07:41,014 --> 00:07:43,479
+Federal Reserve survey data has shown that
+
+222
+00:07:43,479 --> 00:07:45,944
+privately owned businesses make up a large
+
+223
+00:07:45,944 --> 00:07:48,468
+share of wealth for the richest households.
+
+224
+00:07:48,648 --> 00:07:50,748
+No other path can turn a small
+
+225
+00:07:50,748 --> 00:07:52,778
+amount of money into so much,
+
+226
+00:07:52,778 --> 00:07:53,338
+so fast.
+
+227
+00:07:53,688 --> 00:07:55,499
+But the failure rate is high.
+
+228
+00:07:55,679 --> 00:07:58,381
+According to the Bureau of Labor Statistics,
+
+229
+00:07:58,381 --> 00:08:00,776
+roughly one in five new businesses fail
+
+230
+00:08:00,776 --> 00:08:02,004
+in their first year,
+
+231
+00:08:02,004 --> 00:08:03,969
+and around half don't make it to
+
+232
+00:08:03,969 --> 00:08:04,584
+year five.
+
+233
+00:08:04,764 --> 00:08:06,983
+Many owners lose their savings and years
+
+234
+00:08:06,983 --> 00:08:07,538
+of effort.
+
+235
+00:08:07,889 --> 00:08:11,412
+A successful business also creates value in
+
+236
+00:08:11,412 --> 00:08:12,149
+two ways.
+
+237
+00:08:12,329 --> 00:08:13,618
+It produces income,
+
+238
+00:08:13,618 --> 00:08:14,907
+and it can be sold.
+
+239
+00:08:15,087 --> 00:08:17,554
+Small businesses often sell for a few
+
+240
+00:08:17,554 --> 00:08:19,287
+times their yearly profit,
+
+241
+00:08:19,287 --> 00:08:22,288
+so building a profitable business also builds
+
+242
+00:08:22,288 --> 00:08:24,688
+an asset you can eventually cash in.
+
+243
+00:08:25,039 --> 00:08:27,396
+Business returns also depend on what you
+
+244
+00:08:27,396 --> 00:08:28,162
+pay yourself.
+
+245
+00:08:28,342 --> 00:08:31,569
+Many small business owners earn something closer
+
+246
+00:08:31,569 --> 00:08:33,384
+to a salary for long hours,
+
+247
+00:08:33,384 --> 00:08:35,401
+especially in the early years.
+
+248
+00:08:35,581 --> 00:08:37,705
+The real wealth often comes later,
+
+249
+00:08:37,705 --> 00:08:40,016
+when the business can run without the
+
+250
+00:08:40,016 --> 00:08:41,016
+owner every day,
+
+251
+00:08:41,016 --> 00:08:42,140
+or when it's sold.
+
+252
+00:08:42,320 --> 00:08:45,148
+A business that depends completely on you
+
+253
+00:08:45,148 --> 00:08:47,423
+is more like a demanding job than
+
+254
+00:08:47,423 --> 00:08:48,044
+an asset.
+
+255
+00:08:48,394 --> 00:08:50,854
+The business path rewards skill,
+
+256
+00:08:50,854 --> 00:08:52,469
+effort and some luck.
+
+257
+00:08:52,649 --> 00:08:54,801
+It's less of an investment and more
+
+258
+00:08:54,801 --> 00:08:55,969
+of a second career.
+
+259
+00:08:56,149 --> 00:08:57,395
+For the right person,
+
+260
+00:08:57,395 --> 00:08:58,819
+it can be life changing.
+
+261
+00:08:58,999 --> 00:09:00,097
+For the wrong one,
+
+262
+00:09:00,097 --> 00:09:01,438
+it can be devastating.
+
+263
+00:09:01,788 --> 00:09:03,146
+Lesson number five.
+
+264
+00:09:03,326 --> 00:09:05,845
+Costs and friction differ enormously.
+
+265
+00:09:06,196 --> 00:09:08,572
+Buying a broad index fund can cost
+
+266
+00:09:08,572 --> 00:09:09,621
+almost nothing.
+
+267
+00:09:09,801 --> 00:09:12,153
+Many brokerages charge no commissions,
+
+268
+00:09:12,153 --> 00:09:14,135
+and the best funds charge only a
+
+269
+00:09:14,135 --> 00:09:16,302
+few hundredths of a percent a year.
+
+270
+00:09:16,482 --> 00:09:18,885
+You can buy or sell in seconds.
+
+271
+00:09:19,236 --> 00:09:22,334
+Real estate is expensive to buy and
+
+272
+00:09:22,334 --> 00:09:22,777
+sell.
+
+273
+00:09:22,957 --> 00:09:24,832
+Closing costs, inspections,
+
+274
+00:09:24,832 --> 00:09:27,958
+loan fees, agent commissions and moving costs
+
+275
+00:09:27,958 --> 00:09:30,597
+can add up to a significant percentage
+
+276
+00:09:30,597 --> 00:09:33,376
+of the property's price when you include
+
+277
+00:09:33,376 --> 00:09:35,043
+both buying and selling.
+
+278
+00:09:35,223 --> 00:09:37,749
+That's why short holding periods often lose
+
+279
+00:09:37,749 --> 00:09:38,102
+money.
+
+280
+00:09:38,452 --> 00:09:40,959
+Businesses can be the most expensive of
+
+281
+00:09:40,959 --> 00:09:41,795
+all to start.
+
+282
+00:09:41,975 --> 00:09:44,426
+Equipment, inventory, rent,
+
+283
+00:09:44,426 --> 00:09:48,057
+licenses, marketing and months of low or
+
+284
+00:09:48,057 --> 00:09:48,964
+no income.
+
+285
+00:09:49,144 --> 00:09:51,977
+Many businesses take years to become profitable.
+
+286
+00:09:52,328 --> 00:09:54,232
+There are ongoing costs too.
+
+287
+00:09:54,412 --> 00:09:57,409
+Index funds charge a small yearly expense
+
+288
+00:09:57,409 --> 00:09:57,848
+ratio.
+
+289
+00:09:58,028 --> 00:10:00,375
+Properties need regular maintenance,
+
+290
+00:10:00,375 --> 00:10:03,113
+often estimated by landlords at around one
+
+291
+00:10:03,113 --> 00:10:05,786
+percent of the property's value per year,
+
+292
+00:10:05,786 --> 00:10:07,351
+though it varies widely.
+
+293
+00:10:07,531 --> 00:10:09,761
+Businesses face rising rent,
+
+294
+00:10:09,761 --> 00:10:12,628
+wages, software and insurance costs.
+
+295
+00:10:12,808 --> 00:10:14,542
+Always count ongoing costs,
+
+296
+00:10:14,542 --> 00:10:16,662
+not just the price of getting in.
+
+297
+00:10:17,013 --> 00:10:19,602
+The lesson is that friction rewards patience.
+
+298
+00:10:19,782 --> 00:10:22,019
+The more expensive an investment is to
+
+299
+00:10:22,019 --> 00:10:22,784
+buy and sell,
+
+300
+00:10:22,784 --> 00:10:24,550
+the longer you need to hold it
+
+301
+00:10:24,550 --> 00:10:25,610
+to come out ahead.
+
+302
+00:10:25,960 --> 00:10:27,341
+Lesson number six.
+
+303
+00:10:27,521 --> 00:10:30,215
+Each path has different tax advantages.
+
+304
+00:10:30,565 --> 00:10:33,526
+Stocks can be held in tax advantaged
+
+305
+00:10:33,526 --> 00:10:35,994
+accounts like a four oh one k,
+
+306
+00:10:35,994 --> 00:10:37,310
+IRA or Roth IRA.
+
+307
+00:10:37,490 --> 00:10:38,819
+In regular accounts,
+
+308
+00:10:38,819 --> 00:10:41,077
+gains aren't taxed until you sell,
+
+309
+00:10:41,077 --> 00:10:43,535
+and long term gains usually get lower
+
+310
+00:10:43,535 --> 00:10:43,934
+rates.
+
+311
+00:10:44,114 --> 00:10:45,415
+That's a powerful,
+
+312
+00:10:45,415 --> 00:10:46,644
+simple tax setup.
+
+313
+00:10:46,995 --> 00:10:50,236
+Real estate investors can deduct expenses and
+
+314
+00:10:50,236 --> 00:10:54,053
+depreciation, which can reduce taxable rental income.
+
+315
+00:10:54,233 --> 00:10:57,080
+Some can defer gains by exchanging one
+
+316
+00:10:57,080 --> 00:11:00,525
+investment property for another through a 1031
+
+317
+00:11:00,525 --> 00:11:01,199
+exchange.
+
+318
+00:11:01,379 --> 00:11:03,856
+And homeowners can often exclude a large
+
+319
+00:11:03,856 --> 00:11:06,147
+amount of gain when selling a primary
+
+320
+00:11:06,147 --> 00:11:08,253
+residence, if they meet the rules.
+
+321
+00:11:08,603 --> 00:11:12,232
+Business owners can deduct ordinary and necessary
+
+322
+00:11:12,232 --> 00:11:16,232
+business expenses, may qualify for special deductions,
+
+323
+00:11:16,232 --> 00:11:18,898
+and can open retirement plans like a
+
+324
+00:11:18,898 --> 00:11:20,305
+solo four oh one k.
+
+325
+00:11:20,485 --> 00:11:23,061
+But business taxes are complex and often
+
+326
+00:11:23,061 --> 00:11:24,735
+require professional help.
+
+327
+00:11:25,085 --> 00:11:28,092
+The simplest tax advantage of all may
+
+328
+00:11:28,092 --> 00:11:29,392
+be the Roth IRA.
+
+329
+00:11:29,572 --> 00:11:33,360
+Qualified withdrawals, including decades of growth,
+
+330
+00:11:33,360 --> 00:11:35,365
+can be completely tax free.
+
+331
+00:11:35,545 --> 00:11:36,660
+For most people,
+
+332
+00:11:36,660 --> 00:11:40,282
+maximizing tax advantaged retirement accounts is the
+
+333
+00:11:40,282 --> 00:11:42,163
+first and easiest tax move,
+
+334
+00:11:42,163 --> 00:11:44,531
+no matter which of the three paths
+
+335
+00:11:44,531 --> 00:11:45,994
+they eventually take.
+
+336
+00:11:46,345 --> 00:11:48,861
+Tax rules change often and have many
+
+337
+00:11:48,861 --> 00:11:49,630
+conditions.
+
+338
+00:11:49,810 --> 00:11:52,274
+Check current IRS guidance or a tax
+
+339
+00:11:52,274 --> 00:11:55,371
+professional before relying on any of these.
+
+340
+00:11:55,722 --> 00:11:57,103
+Lesson number seven.
+
+341
+00:11:57,283 --> 00:11:58,148
+Count your time,
+
+342
+00:11:58,148 --> 00:11:59,715
+and how fast you can get your
+
+343
+00:11:59,715 --> 00:12:00,255
+money out.
+
+344
+00:12:00,606 --> 00:12:02,533
+Returns don't tell the whole story.
+
+345
+00:12:02,713 --> 00:12:05,089
+If a rental earns two thousand dollars
+
+346
+00:12:05,089 --> 00:12:07,028
+more a year than an index fund,
+
+347
+00:12:07,028 --> 00:12:09,217
+but takes two hundred hours of your
+
+348
+00:12:09,217 --> 00:12:12,156
+time, you're effectively earning ten dollars an
+
+349
+00:12:12,156 --> 00:12:13,719
+hour for that extra work.
+
+350
+00:12:13,899 --> 00:12:15,762
+It's worth asking what your time is
+
+351
+00:12:15,762 --> 00:12:16,082
+worth.
+
+352
+00:12:16,432 --> 00:12:17,860
+Liquidity matters too.
+
+353
+00:12:18,040 --> 00:12:20,244
+You can sell index fund shares on
+
+354
+00:12:20,244 --> 00:12:21,848
+almost any business day.
+
+355
+00:12:22,028 --> 00:12:24,152
+Selling a property can take months.
+
+356
+00:12:24,332 --> 00:12:26,568
+Selling a business can take a year
+
+357
+00:12:26,568 --> 00:12:28,803
+or more, and sometimes it can't be
+
+358
+00:12:28,803 --> 00:12:29,592
+sold at all.
+
+359
+00:12:29,942 --> 00:12:32,229
+Stocks are high liquidity and low time.
+
+360
+00:12:32,409 --> 00:12:35,451
+Real estate is lower liquidity and medium
+
+361
+00:12:35,451 --> 00:12:35,822
+time.
+
+362
+00:12:36,002 --> 00:12:38,853
+A business is usually the lowest liquidity
+
+363
+00:12:38,853 --> 00:12:40,008
+and highest time.
+
+364
+00:12:40,188 --> 00:12:41,453
+That doesn't make one better.
+
+365
+00:12:41,633 --> 00:12:43,467
+It makes them suited to different people.
+
+366
+00:12:43,818 --> 00:12:45,617
+Time can also be bought.
+
+367
+00:12:45,797 --> 00:12:48,148
+Landlords can hire property managers,
+
+368
+00:12:48,148 --> 00:12:50,371
+often for a percentage of the rent.
+
+369
+00:12:50,551 --> 00:12:53,918
+Business owners can hire employees and managers.
+
+370
+00:12:54,098 --> 00:12:55,209
+That frees time,
+
+371
+00:12:55,209 --> 00:12:57,152
+but it also reduces returns.
+
+372
+00:12:57,332 --> 00:12:59,766
+The question is always whether the extra
+
+373
+00:12:59,766 --> 00:13:01,653
+return is worth the extra time,
+
+374
+00:13:01,653 --> 00:13:03,722
+or whether you'd rather pay to get
+
+375
+00:13:03,722 --> 00:13:04,634
+your time back.
+
+376
+00:13:04,985 --> 00:13:05,855
+Try this.
+
+377
+00:13:06,035 --> 00:13:07,909
+Estimate how many hours a month you
+
+378
+00:13:07,909 --> 00:13:10,639
+could realistically give to building wealth outside
+
+379
+00:13:10,639 --> 00:13:11,120
+your job.
+
+380
+00:13:11,300 --> 00:13:13,051
+Your answer is a big clue about
+
+381
+00:13:13,051 --> 00:13:14,180
+which path fits you.
+
+382
+00:13:14,530 --> 00:13:15,447
+That's angle one.
+
+383
+00:13:15,627 --> 00:13:18,002
+Stocks as the long run engine,
+
+384
+00:13:18,002 --> 00:13:20,456
+real estate's rent plus growth,
+
+385
+00:13:20,456 --> 00:13:23,228
+leverage, business risk and reward,
+
+386
+00:13:23,228 --> 00:13:26,157
+costs, taxes, and time and liquidity.
+
+387
+00:13:26,337 --> 00:13:27,614
+Now angle two.
+
+388
+00:13:27,794 --> 00:13:28,804
+The psychology.
+
+389
+00:13:29,155 --> 00:13:31,161
+People rarely choose stocks,
+
+390
+00:13:31,161 --> 00:13:33,597
+real estate or a business based on
+
+391
+00:13:33,597 --> 00:13:34,600
+a spreadsheet.
+
+392
+00:13:34,780 --> 00:13:36,762
+They choose based on feelings,
+
+393
+00:13:36,762 --> 00:13:39,075
+family stories and what feels safe.
+
+394
+00:13:39,255 --> 00:13:42,318
+Here are seven psychological forces that shape
+
+395
+00:13:42,318 --> 00:13:45,114
+these choices, sometimes in ways that cost
+
+396
+00:13:45,114 --> 00:13:45,513
+money.
+
+397
+00:13:45,863 --> 00:13:47,024
+Lesson number eight.
+
+398
+00:13:47,204 --> 00:13:48,794
+Things you can touch feel safer.
+
+399
+00:13:49,144 --> 00:13:51,421
+Many people trust real estate more than
+
+400
+00:13:51,421 --> 00:13:53,232
+stocks because they can see it,
+
+401
+00:13:53,232 --> 00:13:54,925
+walk through it and touch it.
+
+402
+00:13:55,105 --> 00:13:56,789
+A house feels real.
+
+403
+00:13:56,969 --> 00:13:58,951
+A stock feels like a number on
+
+404
+00:13:58,951 --> 00:13:59,546
+a screen.
+
+405
+00:13:59,726 --> 00:14:02,606
+That tangibility gives real estate a sense
+
+406
+00:14:02,606 --> 00:14:04,115
+of safety and control.
+
+407
+00:14:04,465 --> 00:14:07,216
+But tangible doesn't automatically mean safer.
+
+408
+00:14:07,396 --> 00:14:10,318
+A single property is concentrated in one
+
+409
+00:14:10,318 --> 00:14:13,387
+location, and can face problems like major
+
+410
+00:14:13,387 --> 00:14:16,382
+repairs, bad tenants or a local downturn.
+
+411
+00:14:16,562 --> 00:14:19,091
+An index fund is spread across hundreds
+
+412
+00:14:19,091 --> 00:14:19,999
+of businesses.
+
+413
+00:14:20,349 --> 00:14:22,171
+Stocks are also real.
+
+414
+00:14:22,351 --> 00:14:26,011
+Each share represents ownership in actual companies,
+
+415
+00:14:26,011 --> 00:14:27,770
+with buildings, products,
+
+416
+00:14:27,770 --> 00:14:29,178
+workers and profits.
+
+417
+00:14:29,358 --> 00:14:31,115
+It just doesn't feel that way because
+
+418
+00:14:31,115 --> 00:14:32,017
+you don't see them.
+
+419
+00:14:32,367 --> 00:14:35,264
+Real estate's sense of control is real
+
+420
+00:14:35,264 --> 00:14:36,256
+in some ways.
+
+421
+00:14:36,436 --> 00:14:37,577
+You can renovate,
+
+422
+00:14:37,577 --> 00:14:40,596
+raise rents or improve management to increase
+
+423
+00:14:40,596 --> 00:14:40,999
+value.
+
+424
+00:14:41,179 --> 00:14:42,620
+With a stock index fund,
+
+425
+00:14:42,620 --> 00:14:45,381
+you can't change anything about the companies.
+
+426
+00:14:45,561 --> 00:14:47,349
+Some people love that control.
+
+427
+00:14:47,529 --> 00:14:49,190
+Others find it exhausting.
+
+428
+00:14:49,370 --> 00:14:51,144
+Knowing which kind of person you are
+
+429
+00:14:51,144 --> 00:14:51,982
+helps you choose.
+
+430
+00:14:52,332 --> 00:14:53,133
+Try this.
+
+431
+00:14:53,313 --> 00:14:55,272
+Look up the top ten holdings of
+
+432
+00:14:55,272 --> 00:14:56,157
+an index fund.
+
+433
+00:14:56,337 --> 00:14:58,447
+Seeing the real companies you own can
+
+434
+00:14:58,447 --> 00:15:00,329
+make stocks feel as concrete as a
+
+435
+00:15:00,329 --> 00:15:00,842
+building.
+
+436
+00:15:01,192 --> 00:15:02,445
+Lesson number nine.
+
+437
+00:15:02,625 --> 00:15:05,226
+Real estate's volatility is hidden.
+
+438
+00:15:05,576 --> 00:15:07,728
+Stock prices update every second,
+
+439
+00:15:07,728 --> 00:15:09,163
+so you see every drop.
+
+440
+00:15:09,343 --> 00:15:11,665
+Home values aren't priced every day.
+
+441
+00:15:11,845 --> 00:15:13,934
+You might only learn your home's value
+
+442
+00:15:13,934 --> 00:15:15,804
+when you sell or get an appraisal.
+
+443
+00:15:15,984 --> 00:15:18,060
+So real estate feels calmer,
+
+444
+00:15:18,060 --> 00:15:20,210
+even when values are falling.
+
+445
+00:15:20,560 --> 00:15:23,203
+During the housing crash around 2008,
+
+446
+00:15:23,203 --> 00:15:25,632
+national home prices fell sharply,
+
+447
+00:15:25,632 --> 00:15:27,560
+and in some areas far more.
+
+448
+00:15:27,740 --> 00:15:29,676
+Many owners didn't feel it day to
+
+449
+00:15:29,676 --> 00:15:30,907
+day, but it was real,
+
+450
+00:15:30,907 --> 00:15:32,667
+and those who had to sell felt
+
+451
+00:15:32,667 --> 00:15:33,429
+it painfully.
+
+452
+00:15:33,780 --> 00:15:37,245
+Interestingly, that hidden volatility can help real
+
+453
+00:15:37,245 --> 00:15:38,400
+estate investors.
+
+454
+00:15:38,580 --> 00:15:40,594
+Because they don't see daily prices,
+
+455
+00:15:40,594 --> 00:15:42,551
+they're less tempted to panic sell.
+
+456
+00:15:42,731 --> 00:15:44,923
+Stock investors could learn from this by
+
+457
+00:15:44,923 --> 00:15:46,841
+checking their accounts less often.
+
+458
+00:15:47,191 --> 00:15:50,012
+Private businesses have hidden volatility too.
+
+459
+00:15:50,192 --> 00:15:52,192
+Because there's no daily price,
+
+460
+00:15:52,192 --> 00:15:54,837
+owners often feel their business is worth
+
+461
+00:15:54,837 --> 00:15:55,869
+a steady amount.
+
+462
+00:15:56,049 --> 00:15:58,101
+But the value of a small business
+
+463
+00:15:58,101 --> 00:16:00,153
+can swing a lot with the economy,
+
+464
+00:16:00,153 --> 00:16:02,330
+competition and the owner's health.
+
+465
+00:16:02,510 --> 00:16:04,578
+The lack of a price tag doesn't
+
+466
+00:16:04,578 --> 00:16:05,912
+mean a lack of risk.
+
+467
+00:16:06,262 --> 00:16:07,121
+Try this.
+
+468
+00:16:07,301 --> 00:16:09,813
+If daily stock prices make you anxious,
+
+469
+00:16:09,813 --> 00:16:12,583
+check your investments only once a quarter.
+
+470
+00:16:12,763 --> 00:16:14,427
+Treat them more like a house you
+
+471
+00:16:14,427 --> 00:16:15,259
+own for decades.
+
+472
+00:16:15,610 --> 00:16:16,817
+Lesson number ten.
+
+473
+00:16:16,997 --> 00:16:18,599
+Survivorship bias.
+
+474
+00:16:18,950 --> 00:16:21,147
+We hear about the founders who became
+
+475
+00:16:21,147 --> 00:16:24,058
+billionaires and the landlords who built empires.
+
+476
+00:16:24,238 --> 00:16:26,550
+We rarely hear about the businesses that
+
+477
+00:16:26,550 --> 00:16:29,036
+closed or the investors who lost properties
+
+478
+00:16:29,036 --> 00:16:29,904
+to foreclosure.
+
+479
+00:16:30,084 --> 00:16:32,139
+That makes risky paths look safer than
+
+480
+00:16:32,139 --> 00:16:32,626
+they are.
+
+481
+00:16:32,977 --> 00:16:36,591
+Survivorship bias makes business ownership look like
+
+482
+00:16:36,591 --> 00:16:38,120
+a sure path to riches.
+
+483
+00:16:38,300 --> 00:16:40,185
+But for every famous founder,
+
+484
+00:16:40,185 --> 00:16:42,526
+there are many who tried and failed,
+
+485
+00:16:42,526 --> 00:16:44,801
+often losing savings along the way.
+
+486
+00:16:45,152 --> 00:16:47,624
+It also affects real estate.
+
+487
+00:16:47,804 --> 00:16:50,544
+Social media is full of investors showing
+
+488
+00:16:50,544 --> 00:16:53,552
+their portfolios, but rarely their vacancies,
+
+489
+00:16:53,552 --> 00:16:55,757
+repair bills or sleepless nights.
+
+490
+00:16:56,108 --> 00:16:58,697
+Stocks have survivorship bias too.
+
+491
+00:16:58,877 --> 00:17:02,437
+Market indexes regularly remove failing companies and
+
+492
+00:17:02,437 --> 00:17:03,579
+add growing ones.
+
+493
+00:17:03,759 --> 00:17:05,961
+That's why owning the whole index works
+
+494
+00:17:05,961 --> 00:17:08,163
+better than owning a few companies that
+
+495
+00:17:08,163 --> 00:17:09,122
+look great today.
+
+496
+00:17:09,302 --> 00:17:11,492
+The index automatically keeps up with the
+
+497
+00:17:11,492 --> 00:17:13,468
+survivors, so you don't have to guess
+
+498
+00:17:13,468 --> 00:17:14,643
+which ones they'll be.
+
+499
+00:17:14,993 --> 00:17:15,840
+Try this.
+
+500
+00:17:16,020 --> 00:17:17,910
+When you hear a success story,
+
+501
+00:17:17,910 --> 00:17:20,052
+ask how many people tried the same
+
+502
+00:17:20,052 --> 00:17:21,628
+thing and didn't succeed.
+
+503
+00:17:21,808 --> 00:17:23,964
+The answer changes how you see the
+
+504
+00:17:23,964 --> 00:17:24,281
+odds.
+
+505
+00:17:24,631 --> 00:17:25,687
+Quick pause.
+
+506
+00:17:25,867 --> 00:17:28,303
+If this comparison is helping you think
+
+507
+00:17:28,303 --> 00:17:30,115
+more clearly about your path,
+
+508
+00:17:30,115 --> 00:17:32,427
+please subscribe to Ryan Rover Money.
+
+509
+00:17:32,607 --> 00:17:34,414
+It's free, and it helps us keep
+
+510
+00:17:34,414 --> 00:17:35,172
+making these.
+
+511
+00:17:35,352 --> 00:17:37,071
+Now, lesson eleven.
+
+512
+00:17:37,421 --> 00:17:38,732
+Lesson number eleven.
+
+513
+00:17:38,912 --> 00:17:40,619
+Choose what you can stick with.
+
+514
+00:17:40,970 --> 00:17:43,237
+The best investment is often the one
+
+515
+00:17:43,237 --> 00:17:45,126
+you'll stick with for decades.
+
+516
+00:17:45,306 --> 00:17:47,429
+If you hate dealing with repairs and
+
+517
+00:17:47,429 --> 00:17:50,142
+tenants, real estate might make you miserable,
+
+518
+00:17:50,142 --> 00:17:51,970
+even if it earns more on paper.
+
+519
+00:17:52,150 --> 00:17:53,141
+If you hate risk,
+
+520
+00:17:53,141 --> 00:17:54,947
+a business could keep you up at
+
+521
+00:17:54,947 --> 00:17:55,296
+night.
+
+522
+00:17:55,647 --> 00:17:57,926
+Some people love the hands on work
+
+523
+00:17:57,926 --> 00:17:58,932
+of real estate.
+
+524
+00:17:59,112 --> 00:18:01,251
+Finding deals, renovating,
+
+525
+00:18:01,251 --> 00:18:02,897
+managing properties.
+
+526
+00:18:03,077 --> 00:18:04,784
+For them, it's not a chore.
+
+527
+00:18:04,964 --> 00:18:07,740
+It's a satisfying project that also builds
+
+528
+00:18:07,740 --> 00:18:08,203
+wealth.
+
+529
+00:18:08,553 --> 00:18:11,330
+Others love building something from nothing,
+
+530
+00:18:11,330 --> 00:18:13,603
+solving problems and leading people.
+
+531
+00:18:13,783 --> 00:18:16,291
+For them, business ownership can be deeply
+
+532
+00:18:16,291 --> 00:18:17,962
+rewarding, beyond the money.
+
+533
+00:18:18,313 --> 00:18:20,278
+Your skills matter as much as your
+
+534
+00:18:20,278 --> 00:18:20,971
+preferences.
+
+535
+00:18:21,151 --> 00:18:23,837
+Someone who's handy with repairs has a
+
+536
+00:18:23,837 --> 00:18:25,958
+real advantage in real estate.
+
+537
+00:18:26,138 --> 00:18:28,993
+Someone with sales skills or deep industry
+
+538
+00:18:28,993 --> 00:18:31,304
+knowledge has an edge in business.
+
+539
+00:18:31,484 --> 00:18:33,905
+Someone with a busy career and no
+
+540
+00:18:33,905 --> 00:18:36,620
+extra skills may get the best results
+
+541
+00:18:36,620 --> 00:18:38,381
+from simple index funds.
+
+542
+00:18:38,561 --> 00:18:39,838
+Use your strengths.
+
+543
+00:18:40,188 --> 00:18:40,954
+Try this.
+
+544
+00:18:41,134 --> 00:18:43,068
+Ask yourself which of these you'd do
+
+545
+00:18:43,068 --> 00:18:44,895
+even if the returns were the same.
+
+546
+00:18:45,075 --> 00:18:47,041
+That's often the path you'll stick with
+
+547
+00:18:47,041 --> 00:18:47,444
+longest.
+
+548
+00:18:47,794 --> 00:18:49,024
+Lesson number twelve.
+
+549
+00:18:49,204 --> 00:18:50,922
+Pass the sleep test.
+
+550
+00:18:51,273 --> 00:18:53,664
+A useful rule is the sleep test.
+
+551
+00:18:53,844 --> 00:18:55,923
+If an investment keeps you awake at
+
+552
+00:18:55,923 --> 00:18:58,061
+night, you probably have too much of
+
+553
+00:18:58,061 --> 00:18:59,783
+it, or it's the wrong one for
+
+554
+00:18:59,783 --> 00:19:00,021
+you.
+
+555
+00:19:00,201 --> 00:19:02,114
+Stress leads to bad decisions,
+
+556
+00:19:02,114 --> 00:19:04,346
+like panic selling or giving up too
+
+557
+00:19:04,346 --> 00:19:04,729
+early.
+
+558
+00:19:05,079 --> 00:19:06,193
+For some people,
+
+559
+00:19:06,193 --> 00:19:08,561
+a stock market drop is terrifying,
+
+560
+00:19:08,561 --> 00:19:11,000
+while a rental property feels calm.
+
+561
+00:19:11,180 --> 00:19:13,357
+For others, the thought of a tenant
+
+562
+00:19:13,357 --> 00:19:15,909
+calling about a broken heater at midnight
+
+563
+00:19:15,909 --> 00:19:16,718
+is far worse.
+
+564
+00:19:16,898 --> 00:19:18,221
+Risk isn't just math.
+
+565
+00:19:18,401 --> 00:19:19,237
+It's personal.
+
+566
+00:19:19,586 --> 00:19:22,096
+Business risk can be the most stressful
+
+567
+00:19:22,096 --> 00:19:23,898
+of all, because your income,
+
+568
+00:19:23,898 --> 00:19:26,214
+savings and identity can all be tied
+
+569
+00:19:26,214 --> 00:19:27,179
+to one venture.
+
+570
+00:19:27,529 --> 00:19:30,339
+Your risk tolerance also changes over time.
+
+571
+00:19:30,519 --> 00:19:32,841
+Young people with stable jobs can often
+
+572
+00:19:32,841 --> 00:19:34,389
+handle more ups and downs,
+
+573
+00:19:34,389 --> 00:19:36,591
+because they have decades to recover.
+
+574
+00:19:36,771 --> 00:19:39,316
+People close to retirement usually need more
+
+575
+00:19:39,316 --> 00:19:39,894
+stability.
+
+576
+00:19:40,074 --> 00:19:42,031
+A path that fits you at thirty
+
+577
+00:19:42,031 --> 00:19:43,662
+may not fit you at sixty.
+
+578
+00:19:44,011 --> 00:19:44,871
+Try this.
+
+579
+00:19:45,051 --> 00:19:47,633
+Imagine your investment drops by a third
+
+580
+00:19:47,633 --> 00:19:48,278
+next year.
+
+581
+00:19:48,458 --> 00:19:49,461
+Would you hold,
+
+582
+00:19:49,461 --> 00:19:50,397
+sell or panic?
+
+583
+00:19:50,577 --> 00:19:52,673
+Your honest answer tells you how much
+
+584
+00:19:52,673 --> 00:19:53,410
+risk to take.
+
+585
+00:19:53,759 --> 00:19:55,315
+Lesson number thirteen.
+
+586
+00:19:55,495 --> 00:19:57,602
+Concentration builds fortunes,
+
+587
+00:19:57,602 --> 00:19:59,710
+diversification protects them.
+
+588
+00:20:00,059 --> 00:20:02,902
+Many great fortunes come from concentration,
+
+589
+00:20:02,902 --> 00:20:05,293
+putting most of your money and effort
+
+590
+00:20:05,293 --> 00:20:07,490
+into one business or one strategy.
+
+591
+00:20:07,670 --> 00:20:10,234
+But concentration is also how many people
+
+592
+00:20:10,234 --> 00:20:11,234
+lose everything.
+
+593
+00:20:11,584 --> 00:20:14,083
+Stocks through index funds are the most
+
+594
+00:20:14,083 --> 00:20:15,300
+diversified option.
+
+595
+00:20:15,480 --> 00:20:18,336
+A single rental property is concentrated.
+
+596
+00:20:18,516 --> 00:20:21,585
+A business is often the most concentrated
+
+597
+00:20:21,585 --> 00:20:24,056
+of all, with your job and savings
+
+598
+00:20:24,056 --> 00:20:25,029
+in one place.
+
+599
+00:20:25,378 --> 00:20:28,650
+A common approach is to concentrate effort,
+
+600
+00:20:28,650 --> 00:20:30,324
+but diversify savings.
+
+601
+00:20:30,504 --> 00:20:32,899
+Work hard on your career or business,
+
+602
+00:20:32,899 --> 00:20:35,746
+and invest your savings in diversified funds
+
+603
+00:20:35,746 --> 00:20:37,946
+so one setback can't wipe you out.
+
+604
+00:20:38,296 --> 00:20:42,177
+Diversification across all three paths is possible
+
+605
+00:20:42,177 --> 00:20:42,488
+too.
+
+606
+00:20:42,668 --> 00:20:44,958
+Someone could own index funds,
+
+607
+00:20:44,958 --> 00:20:47,553
+a rental property and a small side
+
+608
+00:20:47,553 --> 00:20:48,240
+business.
+
+609
+00:20:48,420 --> 00:20:49,470
+If one struggles,
+
+610
+00:20:49,470 --> 00:20:51,323
+the others can carry the load.
+
+611
+00:20:51,503 --> 00:20:54,603
+Many wealthy families deliberately spread their wealth
+
+612
+00:20:54,603 --> 00:20:55,694
+this way over time.
+
+613
+00:20:56,044 --> 00:20:56,811
+Try this.
+
+614
+00:20:56,991 --> 00:20:58,372
+Look at your total net worth.
+
+615
+00:20:58,552 --> 00:21:00,538
+If more than half depends on one
+
+616
+00:21:00,538 --> 00:21:03,020
+asset, consider whether you'd be okay if
+
+617
+00:21:03,020 --> 00:21:04,137
+that asset failed.
+
+618
+00:21:04,486 --> 00:21:06,054
+Lesson number fourteen.
+
+619
+00:21:06,234 --> 00:21:08,416
+Family stories shape your choices.
+
+620
+00:21:08,766 --> 00:21:10,963
+If your parents lost money in the
+
+621
+00:21:10,963 --> 00:21:13,492
+stock market, you may distrust stocks.
+
+622
+00:21:13,672 --> 00:21:16,282
+If they built wealth with rental properties,
+
+623
+00:21:16,282 --> 00:21:18,002
+real estate may feel natural.
+
+624
+00:21:18,182 --> 00:21:19,718
+If they ran a business,
+
+625
+00:21:19,718 --> 00:21:21,387
+you may see it as normal,
+
+626
+00:21:21,387 --> 00:21:22,722
+or as too stressful.
+
+627
+00:21:23,071 --> 00:21:25,176
+These stories carry real lessons,
+
+628
+00:21:25,176 --> 00:21:27,664
+but they're based on specific times and
+
+629
+00:21:27,664 --> 00:21:28,110
+places.
+
+630
+00:21:28,290 --> 00:21:30,517
+A crash your parents lived through doesn't
+
+631
+00:21:30,517 --> 00:21:31,578
+predict your future,
+
+632
+00:21:31,578 --> 00:21:33,805
+and their success doesn't guarantee yours.
+
+633
+00:21:34,154 --> 00:21:36,958
+Morgan Housel, in The Psychology of Money,
+
+634
+00:21:36,958 --> 00:21:40,363
+argues that people's investing decisions are shaped
+
+635
+00:21:40,363 --> 00:21:42,900
+heavily by their personal experiences,
+
+636
+00:21:42,900 --> 00:21:44,569
+especially early in life.
+
+637
+00:21:44,749 --> 00:21:47,580
+Recognizing that helps you make choices based
+
+638
+00:21:47,580 --> 00:21:49,404
+on evidence, not just memory.
+
+639
+00:21:49,754 --> 00:21:51,589
+Culture plays a role too.
+
+640
+00:21:51,769 --> 00:21:54,190
+In some families and communities,
+
+641
+00:21:54,190 --> 00:21:56,098
+owning land or a home is a
+
+642
+00:21:56,098 --> 00:21:57,051
+top priority.
+
+643
+00:21:57,231 --> 00:21:59,452
+In others, owning a business is a
+
+644
+00:21:59,452 --> 00:22:00,529
+source of pride.
+
+645
+00:22:00,709 --> 00:22:02,346
+These values are meaningful.
+
+646
+00:22:02,526 --> 00:22:04,983
+Just make sure the financial side makes
+
+647
+00:22:04,983 --> 00:22:07,692
+sense, so tradition and math work together.
+
+648
+00:22:08,042 --> 00:22:08,983
+Try this.
+
+649
+00:22:09,163 --> 00:22:11,698
+Write down what you believe about stocks,
+
+650
+00:22:11,698 --> 00:22:13,244
+real estate and business,
+
+651
+00:22:13,244 --> 00:22:15,223
+and where each belief came from.
+
+652
+00:22:15,403 --> 00:22:16,994
+Some may be worth keeping.
+
+653
+00:22:17,174 --> 00:22:19,020
+Some may be worth questioning.
+
+654
+00:22:19,369 --> 00:22:20,414
+That's angle two.
+
+655
+00:22:20,594 --> 00:22:23,572
+Tangible comfort, hidden volatility,
+
+656
+00:22:23,572 --> 00:22:25,970
+survivorship bias, enjoyment,
+
+657
+00:22:25,970 --> 00:22:27,211
+the sleep test,
+
+658
+00:22:27,211 --> 00:22:29,940
+concentration and family stories.
+
+659
+00:22:30,120 --> 00:22:31,444
+Now angle three.
+
+660
+00:22:31,624 --> 00:22:32,413
+The playbook.
+
+661
+00:22:32,763 --> 00:22:33,959
+Here's the good news.
+
+662
+00:22:34,139 --> 00:22:35,660
+You don't have to pick just one.
+
+663
+00:22:35,840 --> 00:22:38,230
+Many wealthy people use all three at
+
+664
+00:22:38,230 --> 00:22:39,358
+different stages.
+
+665
+00:22:39,538 --> 00:22:41,403
+Here are six moves to choose and
+
+666
+00:22:41,403 --> 00:22:42,568
+combine them wisely.
+
+667
+00:22:42,918 --> 00:22:44,439
+Move number fifteen.
+
+668
+00:22:44,619 --> 00:22:46,477
+Start with a stock foundation.
+
+669
+00:22:46,826 --> 00:22:47,784
+For most people,
+
+670
+00:22:47,784 --> 00:22:50,776
+stocks through retirement accounts and index funds
+
+671
+00:22:50,776 --> 00:22:52,631
+are the easiest place to start.
+
+672
+00:22:52,811 --> 00:22:55,034
+You can begin with small amounts,
+
+673
+00:22:55,034 --> 00:22:57,794
+get tax advantages and an employer match,
+
+674
+00:22:57,794 --> 00:23:00,219
+and build wealth without extra work.
+
+675
+00:23:00,568 --> 00:23:02,916
+This base also protects you if you
+
+676
+00:23:02,916 --> 00:23:04,574
+later try riskier paths.
+
+677
+00:23:04,754 --> 00:23:07,398
+If a rental property or business struggles,
+
+678
+00:23:07,398 --> 00:23:08,936
+you still have a growing,
+
+679
+00:23:08,936 --> 00:23:10,965
+diversified portfolio behind you.
+
+680
+00:23:11,315 --> 00:23:14,737
+Many financial planners suggest getting your emergency
+
+681
+00:23:14,737 --> 00:23:17,462
+fund and retirement savings on track before
+
+682
+00:23:17,462 --> 00:23:19,933
+taking on large real estate or business
+
+683
+00:23:19,933 --> 00:23:20,313
+risks.
+
+684
+00:23:20,663 --> 00:23:23,218
+Stocks also give you a benchmark.
+
+685
+00:23:23,398 --> 00:23:25,759
+Once you're invested in a low cost
+
+686
+00:23:25,759 --> 00:23:28,677
+index fund, every other opportunity has to
+
+687
+00:23:28,677 --> 00:23:30,135
+beat it, after costs,
+
+688
+00:23:30,135 --> 00:23:31,525
+taxes and your time.
+
+689
+00:23:31,705 --> 00:23:34,034
+If a rental or business can't clearly
+
+690
+00:23:34,034 --> 00:23:36,363
+beat simply adding more to your index
+
+691
+00:23:36,363 --> 00:23:38,189
+fund, it may not be worth the
+
+692
+00:23:38,189 --> 00:23:39,448
+extra risk and work.
+
+693
+00:23:39,798 --> 00:23:40,658
+Try this.
+
+694
+00:23:40,838 --> 00:23:43,201
+Make sure you're getting your full employer
+
+695
+00:23:43,201 --> 00:23:45,454
+match and investing regularly in low cost
+
+696
+00:23:45,454 --> 00:23:47,707
+index funds before putting big money into
+
+697
+00:23:47,707 --> 00:23:48,477
+anything else.
+
+698
+00:23:48,826 --> 00:23:50,243
+Move number sixteen.
+
+699
+00:23:50,423 --> 00:23:52,629
+Treat your home as a home first.
+
+700
+00:23:52,978 --> 00:23:55,583
+Many people consider their house their biggest
+
+701
+00:23:55,583 --> 00:23:56,206
+investment.
+
+702
+00:23:56,386 --> 00:23:59,096
+A home can build wealth through mortgage
+
+703
+00:23:59,096 --> 00:24:00,789
+paydown and appreciation,
+
+704
+00:24:00,789 --> 00:24:02,551
+and it provides stability.
+
+705
+00:24:02,731 --> 00:24:05,306
+But it also costs money every year,
+
+706
+00:24:05,306 --> 00:24:06,778
+in taxes, insurance,
+
+707
+00:24:06,778 --> 00:24:08,617
+maintenance and interest.
+
+708
+00:24:08,967 --> 00:24:10,604
+Buying too much house is one of
+
+709
+00:24:10,604 --> 00:24:12,662
+the most common ways people stall their
+
+710
+00:24:12,662 --> 00:24:13,507
+wealth building.
+
+711
+00:24:13,687 --> 00:24:15,884
+A huge mortgage can leave little money
+
+712
+00:24:15,884 --> 00:24:16,694
+for investing.
+
+713
+00:24:17,043 --> 00:24:19,151
+Buy a home because you want stability
+
+714
+00:24:19,151 --> 00:24:20,518
+and it fits your budget,
+
+715
+00:24:20,518 --> 00:24:22,398
+not just because you expect it to
+
+716
+00:24:22,398 --> 00:24:23,766
+be your best investment.
+
+717
+00:24:24,115 --> 00:24:25,925
+Renting isn't throwing money away,
+
+718
+00:24:25,925 --> 00:24:26,298
+either.
+
+719
+00:24:26,478 --> 00:24:28,469
+Renting can make sense if you might
+
+720
+00:24:28,469 --> 00:24:30,518
+move soon, if buying costs much more
+
+721
+00:24:30,518 --> 00:24:31,997
+than renting in your area,
+
+722
+00:24:31,997 --> 00:24:33,875
+or if renting lets you invest the
+
+723
+00:24:33,875 --> 00:24:34,501
+difference.
+
+724
+00:24:34,681 --> 00:24:36,614
+The best choice depends on prices,
+
+725
+00:24:36,614 --> 00:24:38,888
+your plans and your discipline to invest
+
+726
+00:24:38,888 --> 00:24:39,684
+what you save.
+
+727
+00:24:40,034 --> 00:24:40,882
+Try this.
+
+728
+00:24:41,062 --> 00:24:42,382
+Before buying a home,
+
+729
+00:24:42,382 --> 00:24:44,393
+calculate the full monthly cost,
+
+730
+00:24:44,393 --> 00:24:47,096
+including taxes, insurance and maintenance,
+
+731
+00:24:47,096 --> 00:24:49,233
+and make sure you can still invest
+
+732
+00:24:49,233 --> 00:24:50,176
+for retirement.
+
+733
+00:24:50,525 --> 00:24:51,977
+Move number seventeen.
+
+734
+00:24:52,157 --> 00:24:55,071
+Try real estate without going all in.
+
+735
+00:24:55,420 --> 00:24:57,510
+Real estate investment trusts,
+
+736
+00:24:57,510 --> 00:25:00,157
+or REITs, let you invest in portfolios
+
+737
+00:25:00,157 --> 00:25:02,874
+of properties through the stock market.
+
+738
+00:25:03,054 --> 00:25:05,341
+Many REIT index funds are low cost
+
+739
+00:25:05,341 --> 00:25:08,570
+and diversified, giving you real estate exposure
+
+740
+00:25:08,570 --> 00:25:10,252
+without being a landlord.
+
+741
+00:25:10,602 --> 00:25:12,681
+Another option is house hacking.
+
+742
+00:25:12,861 --> 00:25:15,085
+Buying a small multi unit property,
+
+743
+00:25:15,085 --> 00:25:17,245
+living in one unit and renting the
+
+744
+00:25:17,245 --> 00:25:17,690
+others.
+
+745
+00:25:17,870 --> 00:25:19,949
+The rent can help cover your mortgage,
+
+746
+00:25:19,949 --> 00:25:22,027
+and you learn the landlord business on
+
+747
+00:25:22,027 --> 00:25:22,793
+a small scale.
+
+748
+00:25:23,142 --> 00:25:24,349
+If you buy a rental,
+
+749
+00:25:24,349 --> 00:25:25,917
+run the numbers carefully.
+
+750
+00:25:26,097 --> 00:25:28,318
+Include vacancies, repairs,
+
+751
+00:25:28,318 --> 00:25:30,950
+insurance, taxes and management.
+
+752
+00:25:31,130 --> 00:25:34,808
+Many new landlords overestimate rent and underestimate
+
+753
+00:25:34,808 --> 00:25:35,217
+costs.
+
+754
+00:25:35,566 --> 00:25:38,109
+Learn the landlord rules before you start.
+
+755
+00:25:38,289 --> 00:25:41,299
+Many states and cities have specific rules
+
+756
+00:25:41,299 --> 00:25:42,947
+about leases, deposits,
+
+757
+00:25:42,947 --> 00:25:44,524
+repairs and evictions.
+
+758
+00:25:44,704 --> 00:25:47,432
+Understanding them protects both you and your
+
+759
+00:25:47,432 --> 00:25:50,160
+tenants, and helps you avoid costly mistakes.
+
+760
+00:25:50,510 --> 00:25:51,335
+Try this.
+
+761
+00:25:51,515 --> 00:25:53,149
+Before buying any rental,
+
+762
+00:25:53,149 --> 00:25:55,634
+track the local rents and expenses for
+
+763
+00:25:55,634 --> 00:25:56,484
+three months.
+
+764
+00:25:56,664 --> 00:25:59,064
+Patience in buying is one of real
+
+765
+00:25:59,064 --> 00:26:01,319
+estate's most important skills.
+
+766
+00:26:01,669 --> 00:26:03,063
+Move number eighteen.
+
+767
+00:26:03,243 --> 00:26:04,880
+Start a business small.
+
+768
+00:26:05,229 --> 00:26:09,003
+Many successful businesses start as side projects.
+
+769
+00:26:09,183 --> 00:26:11,168
+Keeping your job while you test an
+
+770
+00:26:11,168 --> 00:26:12,979
+idea reduces risk dramatically.
+
+771
+00:26:13,159 --> 00:26:15,396
+You find out whether customers will pay
+
+772
+00:26:15,396 --> 00:26:17,002
+before risking your savings.
+
+773
+00:26:17,352 --> 00:26:20,023
+Service businesses, like consulting,
+
+774
+00:26:20,023 --> 00:26:22,397
+cleaning, landscaping or design,
+
+775
+00:26:22,397 --> 00:26:24,771
+often need little upfront money.
+
+776
+00:26:24,951 --> 00:26:27,048
+You can start with skills you already
+
+777
+00:26:27,048 --> 00:26:27,331
+have.
+
+778
+00:26:27,681 --> 00:26:29,681
+Set a limit on what you're willing
+
+779
+00:26:29,681 --> 00:26:31,269
+to lose, in money and time.
+
+780
+00:26:31,449 --> 00:26:33,786
+If the idea doesn't work within that
+
+781
+00:26:33,786 --> 00:26:36,058
+limit, stop and try something else.
+
+782
+00:26:36,408 --> 00:26:39,586
+Buying an existing small business is another
+
+783
+00:26:39,586 --> 00:26:40,019
+route.
+
+784
+00:26:40,199 --> 00:26:42,259
+Instead of starting from zero,
+
+785
+00:26:42,259 --> 00:26:44,593
+you buy a company that already has
+
+786
+00:26:44,593 --> 00:26:46,103
+customers and profits,
+
+787
+00:26:46,103 --> 00:26:47,339
+often with a loan.
+
+788
+00:26:47,519 --> 00:26:49,009
+It has its own risks,
+
+789
+00:26:49,009 --> 00:26:51,633
+but it skips the most dangerous early
+
+790
+00:26:51,633 --> 00:26:52,059
+stage.
+
+791
+00:26:52,239 --> 00:26:54,931
+Some buyers use loan programs backed by
+
+792
+00:26:54,931 --> 00:26:57,277
+the Small Business Administration.
+
+793
+00:26:57,627 --> 00:26:58,417
+Try this.
+
+794
+00:26:58,597 --> 00:27:00,890
+Find one paying customer for your idea
+
+795
+00:27:00,890 --> 00:27:03,183
+before spending any significant money.
+
+796
+00:27:03,363 --> 00:27:05,766
+A real customer is the best proof.
+
+797
+00:27:06,116 --> 00:27:07,417
+Move number nineteen.
+
+798
+00:27:07,597 --> 00:27:09,454
+Combine them into a flywheel.
+
+799
+00:27:09,804 --> 00:27:11,987
+Many wealthy people follow a pattern.
+
+800
+00:27:12,167 --> 00:27:14,500
+They earn income through a career or
+
+801
+00:27:14,500 --> 00:27:17,221
+business, invest the profits in stocks and
+
+802
+00:27:17,221 --> 00:27:19,748
+real estate, and let those assets grow.
+
+803
+00:27:19,928 --> 00:27:21,809
+Each path feeds the others.
+
+804
+00:27:22,159 --> 00:27:24,542
+A business owner might use profits to
+
+805
+00:27:24,542 --> 00:27:27,376
+buy the building their business operates in,
+
+806
+00:27:27,376 --> 00:27:29,180
+becoming their own landlord,
+
+807
+00:27:29,180 --> 00:27:31,692
+while investing the rest in index funds
+
+808
+00:27:31,692 --> 00:27:32,980
+for diversification.
+
+809
+00:27:33,329 --> 00:27:36,225
+A worker might max out retirement accounts,
+
+810
+00:27:36,225 --> 00:27:37,841
+then buy a small rental,
+
+811
+00:27:37,841 --> 00:27:40,063
+then later start a side business.
+
+812
+00:27:40,243 --> 00:27:41,985
+Each step builds on the last.
+
+813
+00:27:42,334 --> 00:27:44,935
+The flywheel works in small steps too.
+
+814
+00:27:45,115 --> 00:27:48,115
+A side hustle earning five hundred dollars
+
+815
+00:27:48,115 --> 00:27:50,472
+a month, invested in index funds,
+
+816
+00:27:50,472 --> 00:27:53,544
+can build a meaningful portfolio over time.
+
+817
+00:27:53,724 --> 00:27:56,398
+Later, that portfolio could fund a down
+
+818
+00:27:56,398 --> 00:27:58,797
+payment, or seed a bigger business.
+
+819
+00:27:58,977 --> 00:28:00,478
+Small wins compound,
+
+820
+00:28:00,478 --> 00:28:02,054
+just like money does.
+
+821
+00:28:02,404 --> 00:28:03,263
+Try this.
+
+822
+00:28:03,443 --> 00:28:05,034
+Sketch your own flywheel.
+
+823
+00:28:05,214 --> 00:28:07,101
+Where does your money come from today,
+
+824
+00:28:07,101 --> 00:28:08,442
+and where could it go next?
+
+825
+00:28:08,791 --> 00:28:10,068
+Move number twenty.
+
+826
+00:28:10,248 --> 00:28:12,280
+Choose based on your stage of life.
+
+827
+00:28:12,630 --> 00:28:14,419
+Early on, you may have more time
+
+828
+00:28:14,419 --> 00:28:15,034
+than money.
+
+829
+00:28:15,214 --> 00:28:17,798
+Building skills, a career or a small
+
+830
+00:28:17,798 --> 00:28:19,951
+business can grow your income,
+
+831
+00:28:19,951 --> 00:28:22,679
+which is the fuel for everything else.
+
+832
+00:28:22,859 --> 00:28:26,131
+Investing small amounts in index funds keeps
+
+833
+00:28:26,131 --> 00:28:27,619
+compounding running.
+
+834
+00:28:27,968 --> 00:28:29,142
+In the middle years,
+
+835
+00:28:29,142 --> 00:28:31,019
+you may have more money and less
+
+836
+00:28:31,019 --> 00:28:31,312
+time.
+
+837
+00:28:31,492 --> 00:28:34,364
+Index funds, retirement accounts and perhaps a
+
+838
+00:28:34,364 --> 00:28:36,612
+few well chosen properties can work,
+
+839
+00:28:36,612 --> 00:28:38,922
+without demanding too much attention.
+
+840
+00:28:39,272 --> 00:28:40,281
+Later in life,
+
+841
+00:28:40,281 --> 00:28:43,162
+simplicity and income often matter more.
+
+842
+00:28:43,342 --> 00:28:46,969
+Many people shift toward diversified investments and
+
+843
+00:28:46,969 --> 00:28:50,597
+steady income, selling or simplifying properties and
+
+844
+00:28:50,597 --> 00:28:51,364
+businesses.
+
+845
+00:28:51,714 --> 00:28:52,882
+Whatever your stage,
+
+846
+00:28:52,882 --> 00:28:55,393
+your income is your biggest wealth building
+
+847
+00:28:55,393 --> 00:28:55,685
+tool.
+
+848
+00:28:55,865 --> 00:28:57,725
+Growing it through skills,
+
+849
+00:28:57,725 --> 00:29:00,801
+promotions or a business creates more money
+
+850
+00:29:00,801 --> 00:29:02,517
+to invest in every path.
+
+851
+00:29:02,697 --> 00:29:04,802
+Many people focus too much on returns
+
+852
+00:29:04,802 --> 00:29:06,963
+and too little on increasing what they
+
+853
+00:29:06,963 --> 00:29:08,897
+have to invest in the first place.
+
+854
+00:29:09,247 --> 00:29:10,048
+Try this.
+
+855
+00:29:10,228 --> 00:29:11,998
+Write down your current stage,
+
+856
+00:29:11,998 --> 00:29:13,944
+how much time and money you have,
+
+857
+00:29:13,944 --> 00:29:15,360
+and your risk tolerance.
+
+858
+00:29:15,540 --> 00:29:17,756
+Then choose the path that fits now,
+
+859
+00:29:17,756 --> 00:29:19,592
+knowing you can change later.
+
+860
+00:29:19,941 --> 00:29:21,433
+Imagine three friends,
+
+861
+00:29:21,433 --> 00:29:24,076
+each with fifty thousand dollars at age
+
+862
+00:29:24,076 --> 00:29:24,551
+thirty.
+
+863
+00:29:24,731 --> 00:29:26,404
+The first puts it in a low
+
+864
+00:29:26,404 --> 00:29:29,235
+cost index fund and keeps investing monthly.
+
+865
+00:29:29,415 --> 00:29:31,741
+Over twenty years at a seven percent
+
+866
+00:29:31,741 --> 00:29:33,163
+average yearly return,
+
+867
+00:29:33,163 --> 00:29:35,877
+that first fifty thousand alone could grow
+
+868
+00:29:35,877 --> 00:29:38,461
+to roughly two hundred thousand dollars,
+
+869
+00:29:38,461 --> 00:29:40,271
+with almost no extra effort.
+
+870
+00:29:40,620 --> 00:29:42,673
+The second uses it as a down
+
+871
+00:29:42,673 --> 00:29:44,579
+payment on a small rental.
+
+872
+00:29:44,759 --> 00:29:47,662
+Some years bring vacancies and big repairs.
+
+873
+00:29:47,842 --> 00:29:49,758
+Others bring rising rents.
+
+874
+00:29:49,938 --> 00:29:51,224
+After twenty years,
+
+875
+00:29:51,224 --> 00:29:53,188
+the mortgage is much smaller,
+
+876
+00:29:53,188 --> 00:29:54,204
+rent has grown,
+
+877
+00:29:54,204 --> 00:29:56,507
+and the property may be worth much
+
+878
+00:29:56,507 --> 00:29:56,845
+more.
+
+879
+00:29:57,025 --> 00:29:59,614
+Their result depends heavily on the location,
+
+880
+00:29:59,614 --> 00:30:01,857
+the financing and how well they managed
+
+881
+00:30:01,857 --> 00:30:02,029
+it.
+
+882
+00:30:02,379 --> 00:30:04,191
+The third starts a business.
+
+883
+00:30:04,371 --> 00:30:06,705
+The first attempt fails and costs half
+
+884
+00:30:06,705 --> 00:30:07,319
+the money.
+
+885
+00:30:07,499 --> 00:30:09,829
+The second attempt slowly grows into a
+
+886
+00:30:09,829 --> 00:30:10,994
+profitable company.
+
+887
+00:30:11,174 --> 00:30:13,267
+By fifty, they might be the wealthiest
+
+888
+00:30:13,267 --> 00:30:13,983
+of the three,
+
+889
+00:30:13,983 --> 00:30:15,470
+or they might have nothing.
+
+890
+00:30:15,650 --> 00:30:17,757
+That's the honest range of outcomes for
+
+891
+00:30:17,757 --> 00:30:18,622
+business owners.
+
+892
+00:30:18,971 --> 00:30:20,852
+The lesson isn't that one friend was
+
+893
+00:30:20,852 --> 00:30:21,166
+right.
+
+894
+00:30:21,346 --> 00:30:23,258
+It's that each path has a different
+
+895
+00:30:23,258 --> 00:30:23,586
+shape.
+
+896
+00:30:23,766 --> 00:30:25,589
+Stocks are steady and simple.
+
+897
+00:30:25,769 --> 00:30:28,332
+Real estate is slower and hands on,
+
+898
+00:30:28,332 --> 00:30:29,357
+with leverage.
+
+899
+00:30:29,537 --> 00:30:32,184
+Business has the widest range of outcomes.
+
+900
+00:30:32,364 --> 00:30:34,509
+Knowing that shape helps you choose with
+
+901
+00:30:34,509 --> 00:30:35,046
+open eyes.
+
+902
+00:30:35,395 --> 00:30:36,196
+Question one.
+
+903
+00:30:36,376 --> 00:30:38,559
+Which has the best returns historically?
+
+904
+00:30:38,739 --> 00:30:39,991
+Over long periods,
+
+905
+00:30:39,991 --> 00:30:42,564
+research suggests stocks and housing,
+
+906
+00:30:42,564 --> 00:30:45,763
+including rent, have had broadly similar total
+
+907
+00:30:45,763 --> 00:30:49,240
+returns, with business ownership having the widest
+
+908
+00:30:49,240 --> 00:30:52,091
+range, from total loss to enormous gains.
+
+909
+00:30:52,271 --> 00:30:53,919
+The best choice depends on you.
+
+910
+00:30:54,269 --> 00:30:55,198
+Question two.
+
+911
+00:30:55,378 --> 00:30:57,243
+Can I invest in real estate without
+
+912
+00:30:57,243 --> 00:30:58,095
+buying property?
+
+913
+00:30:58,275 --> 00:30:58,670
+Yes.
+
+914
+00:30:58,850 --> 00:31:01,573
+REITs and real estate index funds let
+
+915
+00:31:01,573 --> 00:31:04,739
+you invest in property portfolios through a
+
+916
+00:31:04,739 --> 00:31:07,904
+brokerage account, often with low costs and
+
+917
+00:31:07,904 --> 00:31:09,008
+easy liquidity.
+
+918
+00:31:09,358 --> 00:31:10,287
+Question three.
+
+919
+00:31:10,467 --> 00:31:12,109
+Should I quit my job to start
+
+920
+00:31:12,109 --> 00:31:12,731
+a business?
+
+921
+00:31:12,911 --> 00:31:14,293
+Usually not right away.
+
+922
+00:31:14,473 --> 00:31:17,377
+Many successful founders start on the side,
+
+923
+00:31:17,377 --> 00:31:20,079
+test their idea and build savings before
+
+924
+00:31:20,079 --> 00:31:21,160
+making the leap.
+
+925
+00:31:21,510 --> 00:31:22,474
+Question four.
+
+926
+00:31:22,654 --> 00:31:24,245
+What if I don't have much money?
+
+927
+00:31:24,425 --> 00:31:25,934
+Start with what's available.
+
+928
+00:31:26,114 --> 00:31:29,187
+A retirement account with an employer match,
+
+929
+00:31:29,187 --> 00:31:32,610
+small monthly index fund investments and building
+
+930
+00:31:32,610 --> 00:31:34,705
+skills that raise your income.
+
+931
+00:31:34,885 --> 00:31:36,464
+Bigger paths can come later.
+
+932
+00:31:36,814 --> 00:31:37,778
+Question five.
+
+933
+00:31:37,958 --> 00:31:39,908
+Is gold or crypto a better path
+
+934
+00:31:39,908 --> 00:31:40,977
+than these three?
+
+935
+00:31:41,157 --> 00:31:44,103
+Gold and crypto don't produce profits,
+
+936
+00:31:44,103 --> 00:31:45,499
+rent or dividends.
+
+937
+00:31:45,679 --> 00:31:47,952
+Their returns depend on what someone else
+
+938
+00:31:47,952 --> 00:31:48,784
+will pay later,
+
+939
+00:31:48,784 --> 00:31:51,057
+so they behave more like speculation than
+
+940
+00:31:51,057 --> 00:31:51,611
+ownership.
+
+941
+00:31:51,791 --> 00:31:54,363
+Some investors hold a small amount for
+
+942
+00:31:54,363 --> 00:31:56,257
+diversification, but stocks,
+
+943
+00:31:56,257 --> 00:31:59,099
+real estate and businesses are the classic
+
+944
+00:31:59,099 --> 00:32:01,806
+engines of long term wealth because they
+
+945
+00:32:01,806 --> 00:32:02,821
+produce income.
+
+946
+00:32:03,170 --> 00:32:04,413
+Question six.
+
+947
+00:32:04,593 --> 00:32:06,375
+How do I know when I'm ready
+
+948
+00:32:06,375 --> 00:32:08,285
+for real estate or a business?
+
+949
+00:32:08,465 --> 00:32:11,007
+A common checklist is a full emergency
+
+950
+00:32:11,007 --> 00:32:12,879
+fund, no high interest debt,
+
+951
+00:32:12,879 --> 00:32:15,689
+retirement savings on track and extra cash
+
+952
+00:32:15,689 --> 00:32:18,565
+you could lose without derailing your life.
+
+953
+00:32:18,745 --> 00:32:20,320
+If you can tick those boxes,
+
+954
+00:32:20,320 --> 00:32:22,288
+you're in a much better position to
+
+955
+00:32:22,288 --> 00:32:23,413
+take a bigger swing.
+
+956
+00:32:23,762 --> 00:32:26,038
+The classic stock mistake is panic.
+
+957
+00:32:26,218 --> 00:32:27,960
+Selling during a crash,
+
+958
+00:32:27,960 --> 00:32:30,990
+chasing hot stocks or trading too often.
+
+959
+00:32:31,170 --> 00:32:33,062
+The fix is simple but hard.
+
+960
+00:32:33,242 --> 00:32:35,037
+Own broad, low cost funds,
+
+961
+00:32:35,037 --> 00:32:38,419
+invest automatically and leave them alone through
+
+962
+00:32:38,419 --> 00:32:39,523
+the scary years.
+
+963
+00:32:39,873 --> 00:32:43,001
+The classic real estate mistake is overpaying
+
+964
+00:32:43,001 --> 00:32:44,808
+and underestimating costs.
+
+965
+00:32:44,988 --> 00:32:47,428
+Buying with optimistic rent numbers,
+
+966
+00:32:47,428 --> 00:32:50,003
+no repair budget and no cash reserves.
+
+967
+00:32:50,183 --> 00:32:52,558
+One bad tenant or one big repair
+
+968
+00:32:52,558 --> 00:32:54,784
+can then turn a good deal into
+
+969
+00:32:54,784 --> 00:32:55,675
+a money pit.
+
+970
+00:32:55,855 --> 00:32:58,796
+Conservative numbers and a healthy cash cushion
+
+971
+00:32:58,796 --> 00:32:59,547
+are the fix.
+
+972
+00:32:59,896 --> 00:33:03,320
+The classic business mistake is betting everything
+
+973
+00:33:03,320 --> 00:33:03,937
+too soon.
+
+974
+00:33:04,117 --> 00:33:05,180
+Quitting a job,
+
+975
+00:33:05,180 --> 00:33:08,935
+draining savings and borrowing heavily before proving
+
+976
+00:33:08,935 --> 00:33:10,282
+customers will pay.
+
+977
+00:33:10,462 --> 00:33:13,682
+Testing small, keeping costs low and growing
+
+978
+00:33:13,682 --> 00:33:16,170
+from real sales gives a business a
+
+979
+00:33:16,170 --> 00:33:18,951
+far better chance to survive its first
+
+980
+00:33:18,951 --> 00:33:19,390
+years.
+
+981
+00:33:19,739 --> 00:33:21,633
+And the mistake common to all three
+
+982
+00:33:21,633 --> 00:33:22,607
+is never starting.
+
+983
+00:33:22,787 --> 00:33:25,957
+Spending years researching the perfect path while
+
+984
+00:33:25,957 --> 00:33:26,862
+doing nothing.
+
+985
+00:33:27,042 --> 00:33:29,005
+Even a small start on any path
+
+986
+00:33:29,005 --> 00:33:31,296
+teaches you more than any amount of
+
+987
+00:33:31,296 --> 00:33:33,979
+reading, and starting with a simple index
+
+988
+00:33:33,979 --> 00:33:35,680
+fund costs almost nothing.
+
+989
+00:33:36,030 --> 00:33:36,832
+Quick recap.
+
+990
+00:33:37,012 --> 00:33:38,718
+Angle one, the numbers.
+
+991
+00:33:38,898 --> 00:33:41,425
+Stocks as the long run engine,
+
+992
+00:33:41,425 --> 00:33:44,036
+real estate's rent plus growth,
+
+993
+00:33:44,036 --> 00:33:46,057
+leverage, business risk,
+
+994
+00:33:46,057 --> 00:33:49,173
+costs, taxes, and time and liquidity.
+
+995
+00:33:49,523 --> 00:33:51,741
+Angle two, the psychology.
+
+996
+00:33:51,921 --> 00:33:54,802
+Tangible comfort, hidden volatility,
+
+997
+00:33:54,802 --> 00:33:57,123
+survivorship bias, enjoyment,
+
+998
+00:33:57,123 --> 00:33:58,324
+the sleep test,
+
+999
+00:33:58,324 --> 00:34:00,965
+concentration and family stories.
+
+1000
+00:34:01,315 --> 00:34:03,022
+Angle three, the playbook.
+
+1001
+00:34:03,202 --> 00:34:04,498
+Build a stock base,
+
+1002
+00:34:04,498 --> 00:34:06,271
+treat your home as a home,
+
+1003
+00:34:06,271 --> 00:34:08,249
+try real estate the easy way,
+
+1004
+00:34:08,249 --> 00:34:09,817
+start a business small,
+
+1005
+00:34:09,817 --> 00:34:12,409
+combine them and choose by your stage.
+
+1006
+00:34:12,758 --> 00:34:15,957
+Stocks, real estate and business can all
+
+1007
+00:34:15,957 --> 00:34:16,996
+build wealth.
+
+1008
+00:34:17,176 --> 00:34:19,417
+The question isn't which one is best.
+
+1009
+00:34:19,597 --> 00:34:21,405
+It's which one is best for you,
+
+1010
+00:34:21,405 --> 00:34:21,988
+right now.
+
+1011
+00:34:22,168 --> 00:34:23,822
+If you want my full step by
+
+1012
+00:34:23,822 --> 00:34:25,720
+step plan, it's in my playbook,
+
+1013
+00:34:25,720 --> 00:34:27,312
+linked in the description.
+
+1014
+00:34:27,492 --> 00:34:28,849
+Tell me in the comments,
+
+1015
+00:34:28,849 --> 00:34:30,092
+which path are you on?
+
+1016
+00:34:30,272 --> 00:34:31,468
+I'm Ryan Rover.
+
+1017
+00:34:31,648 --> 00:34:32,832
+See you in the next one.
