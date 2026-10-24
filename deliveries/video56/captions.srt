@@ -1,0 +1,4127 @@
+1
+00:00:00,000 --> 00:00:01,915
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,095 --> 00:00:04,153
+When people hear retire early,
+
+3
+00:00:04,153 --> 00:00:07,514
+they usually picture tech millionaires or lottery
+
+4
+00:00:07,514 --> 00:00:08,063
+winners.
+
+5
+00:00:08,243 --> 00:00:10,738
+But some people with ordinary incomes,
+
+6
+00:00:10,738 --> 00:00:12,576
+teachers, nurses, engineers,
+
+7
+00:00:12,576 --> 00:00:16,319
+government workers, reach financial independence in their
+
+8
+00:00:16,319 --> 00:00:17,960
+forties or early fifties.
+
+9
+00:00:18,140 --> 00:00:19,348
+They don't win anything.
+
+10
+00:00:19,528 --> 00:00:21,639
+They use one number most people never
+
+11
+00:00:21,639 --> 00:00:22,210
+calculate.
+
+12
+00:00:22,390 --> 00:00:24,158
+Today I'll show you that number,
+
+13
+00:00:24,158 --> 00:00:25,153
+and the full plan.
+
+14
+00:00:25,502 --> 00:00:28,056
+Retiring early doesn't have to mean never
+
+15
+00:00:28,056 --> 00:00:28,927
+working again.
+
+16
+00:00:29,107 --> 00:00:30,132
+For most people,
+
+17
+00:00:30,132 --> 00:00:32,756
+it means reaching financial independence:
+
+18
+00:00:32,756 --> 00:00:35,957
+having enough invested that work becomes optional.
+
+19
+00:00:36,137 --> 00:00:38,587
+You can keep working at something you
+
+20
+00:00:38,587 --> 00:00:39,977
+love, work part time,
+
+21
+00:00:39,977 --> 00:00:41,102
+start a business,
+
+22
+00:00:41,102 --> 00:00:42,360
+or stop completely.
+
+23
+00:00:42,540 --> 00:00:43,806
+The choice is yours.
+
+24
+00:00:44,156 --> 00:00:45,740
+This idea has a name:
+
+25
+00:00:45,740 --> 00:00:49,212
+FIRE, which stands for Financial Independence,
+
+26
+00:00:49,212 --> 00:00:50,193
+Retire Early.
+
+27
+00:00:50,373 --> 00:00:53,407
+It became popular through books like Your
+
+28
+00:00:53,407 --> 00:00:55,849
+Money or Your Life by Vicki Robin
+
+29
+00:00:55,849 --> 00:00:57,181
+and Joe Dominguez,
+
+30
+00:00:57,181 --> 00:00:58,957
+first published in 1992,
+
+31
+00:00:58,957 --> 00:01:02,435
+and later through online communities and blogs.
+
+32
+00:01:02,615 --> 00:01:05,100
+And its core math is surprisingly simple.
+
+33
+00:01:05,450 --> 00:01:07,818
+We'll look at this from three angles.
+
+34
+00:01:07,998 --> 00:01:09,241
+First, the numbers:
+
+35
+00:01:09,241 --> 00:01:11,204
+how much you need and how long
+
+36
+00:01:11,204 --> 00:01:13,559
+it takes, based mostly on one thing.
+
+37
+00:01:13,739 --> 00:01:15,271
+Second, the psychology:
+
+38
+00:01:15,271 --> 00:01:17,003
+what makes this path work,
+
+39
+00:01:17,003 --> 00:01:18,801
+and what makes people quit.
+
+40
+00:01:18,981 --> 00:01:20,562
+And third, the playbook:
+
+41
+00:01:20,562 --> 00:01:23,393
+twelve steps, plus how to handle healthcare
+
+42
+00:01:23,393 --> 00:01:26,752
+and access your money before traditional retirement
+
+43
+00:01:26,752 --> 00:01:27,015
+age.
+
+44
+00:01:27,366 --> 00:01:29,316
+Stay for the savings rate table.
+
+45
+00:01:29,496 --> 00:01:31,601
+It might be the most important chart
+
+46
+00:01:31,601 --> 00:01:32,770
+in personal finance.
+
+47
+00:01:32,950 --> 00:01:34,517
+Let's start with the numbers.
+
+48
+00:01:34,868 --> 00:01:37,780
+The four percent rule comes from financial
+
+49
+00:01:37,780 --> 00:01:40,969
+planner William Bengen's 1994 research and the
+
+50
+00:01:40,969 --> 00:01:44,020
+later Trinity study by professors at Trinity
+
+51
+00:01:44,020 --> 00:01:44,782
+University.
+
+52
+00:01:44,962 --> 00:01:47,689
+Growth examples use stated math at a
+
+53
+00:01:47,689 --> 00:01:50,416
+five percent return after inflation,
+
+54
+00:01:50,416 --> 00:01:52,764
+an illustration, not a promise.
+
+55
+00:01:52,944 --> 00:01:56,455
+Retirement account and early withdrawal rules come
+
+56
+00:01:56,455 --> 00:01:57,368
+from the IRS.
+
+57
+00:01:57,548 --> 00:02:00,845
+Health insurance information comes from healthcare dot
+
+58
+00:02:00,845 --> 00:02:01,089
+gov.
+
+59
+00:02:01,269 --> 00:02:02,619
+This is education,
+
+60
+00:02:02,619 --> 00:02:04,195
+not financial advice.
+
+61
+00:02:04,545 --> 00:02:05,276
+Angle one.
+
+62
+00:02:05,456 --> 00:02:06,176
+The numbers.
+
+63
+00:02:06,356 --> 00:02:07,575
+How much do you need,
+
+64
+00:02:07,575 --> 00:02:09,084
+and how long will it take?
+
+65
+00:02:09,435 --> 00:02:10,979
+Let's start with how much.
+
+66
+00:02:11,159 --> 00:02:14,739
+In 1994, a financial planner named William
+
+67
+00:02:14,739 --> 00:02:17,126
+Bengen studied historical U.
+
+68
+00:02:17,306 --> 00:02:17,608
+S.
+
+69
+00:02:17,788 --> 00:02:19,389
+market returns and asked:
+
+70
+00:02:19,389 --> 00:02:21,822
+how much could a retiree withdraw each
+
+71
+00:02:21,822 --> 00:02:23,678
+year, adjusted for inflation,
+
+72
+00:02:23,678 --> 00:02:26,239
+without running out of money over thirty
+
+73
+00:02:26,239 --> 00:02:26,623
+years?
+
+74
+00:02:26,803 --> 00:02:29,198
+His answer was about four percent of
+
+75
+00:02:29,198 --> 00:02:30,727
+the starting portfolio.
+
+76
+00:02:30,907 --> 00:02:33,229
+That became known as the four percent
+
+77
+00:02:33,229 --> 00:02:33,543
+rule.
+
+78
+00:02:33,893 --> 00:02:35,901
+Flip the four percent rule around,
+
+79
+00:02:35,901 --> 00:02:37,672
+and you get the rule of twenty
+
+80
+00:02:37,672 --> 00:02:37,968
+five.
+
+81
+00:02:38,148 --> 00:02:41,005
+Multiply your yearly spending by twenty five,
+
+82
+00:02:41,005 --> 00:02:43,164
+and that's a rough estimate of the
+
+83
+00:02:43,164 --> 00:02:44,371
+portfolio you need.
+
+84
+00:02:44,551 --> 00:02:46,652
+Spend forty thousand dollars a year?
+
+85
+00:02:46,832 --> 00:02:49,362
+Twenty five times that is one million
+
+86
+00:02:49,362 --> 00:02:49,909
+dollars.
+
+87
+00:02:50,089 --> 00:02:51,540
+Spend thirty thousand?
+
+88
+00:02:51,720 --> 00:02:53,519
+Seven hundred fifty thousand.
+
+89
+00:02:53,870 --> 00:02:56,766
+Multiply yearly spending by twenty five to
+
+90
+00:02:56,766 --> 00:02:59,593
+estimate a financial independence number.
+
+91
+00:02:59,773 --> 00:03:01,929
+Forty thousand a year means about one
+
+92
+00:03:01,929 --> 00:03:02,862
+million dollars.
+
+93
+00:03:03,212 --> 00:03:05,034
+An important caveat.
+
+94
+00:03:05,214 --> 00:03:07,591
+The four percent rule was built around
+
+95
+00:03:07,591 --> 00:03:09,092
+thirty year retirements.
+
+96
+00:03:09,272 --> 00:03:11,179
+If you retire at forty five,
+
+97
+00:03:11,179 --> 00:03:13,426
+your money may need to last fifty
+
+98
+00:03:13,426 --> 00:03:13,835
+years.
+
+99
+00:03:14,015 --> 00:03:16,628
+Many early retirees use a more cautious
+
+100
+00:03:16,628 --> 00:03:19,174
+withdrawal rate, like three and a half
+
+101
+00:03:19,174 --> 00:03:21,988
+percent, which means a portfolio closer to
+
+102
+00:03:21,988 --> 00:03:24,533
+twenty eight or thirty times spending.
+
+103
+00:03:24,713 --> 00:03:25,921
+We'll keep that in mind.
+
+104
+00:03:26,271 --> 00:03:27,908
+Now the big insight.
+
+105
+00:03:28,088 --> 00:03:30,046
+Notice that your FI number depends on
+
+106
+00:03:30,046 --> 00:03:31,687
+your spending, not your income.
+
+107
+00:03:31,867 --> 00:03:33,344
+And the time it takes to get
+
+108
+00:03:33,344 --> 00:03:35,561
+there depends mostly on your savings rate:
+
+109
+00:03:35,561 --> 00:03:37,197
+the share of your take home pay
+
+110
+00:03:37,197 --> 00:03:37,672
+you save.
+
+111
+00:03:37,852 --> 00:03:38,908
+Not your salary.
+
+112
+00:03:39,088 --> 00:03:40,330
+Your savings rate.
+
+113
+00:03:40,681 --> 00:03:41,458
+Here's why.
+
+114
+00:03:41,638 --> 00:03:42,825
+When you save more,
+
+115
+00:03:42,825 --> 00:03:44,448
+two things happen at once.
+
+116
+00:03:44,628 --> 00:03:46,126
+You invest more each year.
+
+117
+00:03:46,306 --> 00:03:48,269
+And you train yourself to live on
+
+118
+00:03:48,269 --> 00:03:50,590
+less, which lowers the amount you need.
+
+119
+00:03:50,770 --> 00:03:52,699
+Both sides of the equation move in
+
+120
+00:03:52,699 --> 00:03:54,288
+your favor at the same time.
+
+121
+00:03:54,638 --> 00:03:55,764
+So here's the table.
+
+122
+00:03:55,944 --> 00:03:57,782
+Assuming you start from zero,
+
+123
+00:03:57,782 --> 00:04:00,381
+earn five percent a year after inflation,
+
+124
+00:04:00,381 --> 00:04:02,979
+and need twenty five times your spending.
+
+125
+00:04:03,159 --> 00:04:05,242
+Save ten percent of your take home
+
+126
+00:04:05,242 --> 00:04:07,264
+pay, and it takes about fifty two
+
+127
+00:04:07,264 --> 00:04:09,591
+years to reach financial independence.
+
+128
+00:04:09,771 --> 00:04:11,190
+Save twenty percent,
+
+129
+00:04:11,190 --> 00:04:12,964
+about thirty seven years.
+
+130
+00:04:13,144 --> 00:04:14,408
+Save thirty percent,
+
+131
+00:04:14,408 --> 00:04:15,989
+about twenty eight years.
+
+132
+00:04:16,339 --> 00:04:17,494
+Save forty percent,
+
+133
+00:04:17,494 --> 00:04:19,682
+and it takes about twenty two years.
+
+134
+00:04:19,862 --> 00:04:21,326
+Save fifty percent,
+
+135
+00:04:21,326 --> 00:04:23,020
+about seventeen years.
+
+136
+00:04:23,200 --> 00:04:24,617
+Save sixty percent,
+
+137
+00:04:24,617 --> 00:04:26,184
+about thirteen years.
+
+138
+00:04:26,364 --> 00:04:28,891
+Your salary doesn't appear anywhere in that
+
+139
+00:04:28,891 --> 00:04:29,243
+table.
+
+140
+00:04:29,423 --> 00:04:32,599
+Someone earning fifty thousand and someone earning
+
+141
+00:04:32,599 --> 00:04:33,932
+two hundred thousand,
+
+142
+00:04:33,932 --> 00:04:35,647
+with the same savings rate,
+
+143
+00:04:35,647 --> 00:04:37,933
+need about the same number of years.
+
+144
+00:04:38,284 --> 00:04:41,174
+Years to financial independence from zero,
+
+145
+00:04:41,174 --> 00:04:42,276
+by savings rate,
+
+146
+00:04:42,276 --> 00:04:45,029
+at a five percent return after inflation
+
+147
+00:04:45,029 --> 00:04:47,300
+and a target of twenty five times
+
+148
+00:04:47,300 --> 00:04:47,920
+spending.
+
+149
+00:04:48,270 --> 00:04:49,198
+Let's apply it.
+
+150
+00:04:49,378 --> 00:04:52,151
+A household brings home fifty five hundred
+
+151
+00:04:52,151 --> 00:04:53,999
+dollars a month after taxes.
+
+152
+00:04:54,179 --> 00:04:56,536
+They spend thirty six hundred and save
+
+153
+00:04:56,536 --> 00:04:59,264
+nineteen hundred, about thirty five percent.
+
+154
+00:04:59,444 --> 00:05:02,005
+Their yearly spending is about forty three
+
+155
+00:05:02,005 --> 00:05:04,383
+thousand dollars, so their FI number is
+
+156
+00:05:04,383 --> 00:05:06,457
+around one point oh eight million.
+
+157
+00:05:06,807 --> 00:05:09,540
+Investing nineteen hundred dollars a month at
+
+158
+00:05:09,540 --> 00:05:11,302
+five percent after inflation,
+
+159
+00:05:11,302 --> 00:05:13,550
+they could reach that number in about
+
+160
+00:05:13,550 --> 00:05:14,643
+twenty four years.
+
+161
+00:05:14,823 --> 00:05:15,809
+Start at thirty,
+
+162
+00:05:15,809 --> 00:05:18,766
+and they could be financially independent around
+
+163
+00:05:18,766 --> 00:05:19,444
+fifty four.
+
+164
+00:05:19,624 --> 00:05:21,137
+Start at twenty five,
+
+165
+00:05:21,137 --> 00:05:22,434
+around forty nine.
+
+166
+00:05:22,614 --> 00:05:24,077
+On a normal income.
+
+167
+00:05:24,257 --> 00:05:26,683
+With no inheritance and no lottery.
+
+168
+00:05:27,033 --> 00:05:29,937
+Nineteen hundred dollars a month invested at
+
+169
+00:05:29,937 --> 00:05:32,314
+five percent a year after inflation,
+
+170
+00:05:32,314 --> 00:05:33,766
+for twenty four years.
+
+171
+00:05:34,117 --> 00:05:35,521
+And there are middle paths.
+
+172
+00:05:35,701 --> 00:05:38,301
+Coast FI means saving enough early that,
+
+173
+00:05:38,301 --> 00:05:40,250
+even if you stop contributing,
+
+174
+00:05:40,250 --> 00:05:42,654
+your investments could grow to a full
+
+175
+00:05:42,654 --> 00:05:44,734
+retirement by a traditional age.
+
+176
+00:05:44,914 --> 00:05:47,164
+After that, you only need to cover
+
+177
+00:05:47,164 --> 00:05:49,943
+current expenses, which lets you work less
+
+178
+00:05:49,943 --> 00:05:51,729
+or take a lower stress job.
+
+179
+00:05:51,909 --> 00:05:54,152
+Barista FI means covering part of your
+
+180
+00:05:54,152 --> 00:05:56,689
+expenses from investments and the rest from
+
+181
+00:05:56,689 --> 00:05:57,575
+part time work.
+
+182
+00:05:57,925 --> 00:05:59,776
+So the math works on a normal
+
+183
+00:05:59,776 --> 00:06:00,223
+income.
+
+184
+00:06:00,403 --> 00:06:02,540
+But it requires a high savings rate.
+
+185
+00:06:02,720 --> 00:06:05,030
+And that's where psychology comes in.
+
+186
+00:06:05,210 --> 00:06:06,104
+Angle two.
+
+187
+00:06:06,454 --> 00:06:07,498
+Angle two.
+
+188
+00:06:07,678 --> 00:06:08,770
+The psychology.
+
+189
+00:06:08,950 --> 00:06:12,084
+Six mindset shifts behind early retirement.
+
+190
+00:06:12,435 --> 00:06:13,294
+Shift one.
+
+191
+00:06:13,474 --> 00:06:14,515
+From money as stuff,
+
+192
+00:06:14,515 --> 00:06:15,401
+to money as time.
+
+193
+00:06:15,581 --> 00:06:18,137
+Your Money or Your Life suggested a
+
+194
+00:06:18,137 --> 00:06:21,862
+powerful exercise: calculate your real hourly wage,
+
+195
+00:06:21,862 --> 00:06:24,637
+after taxes, commuting and work costs.
+
+196
+00:06:24,817 --> 00:06:27,076
+Then think of every purchase in hours
+
+197
+00:06:27,076 --> 00:06:27,870
+of your life.
+
+198
+00:06:28,050 --> 00:06:30,263
+A two thousand dollar upgrade might be
+
+199
+00:06:30,263 --> 00:06:31,487
+eighty hours of work.
+
+200
+00:06:31,667 --> 00:06:32,421
+Is it worth it?
+
+201
+00:06:32,772 --> 00:06:33,909
+Shift two.
+
+202
+00:06:34,089 --> 00:06:36,527
+From deprivation, to optimization.
+
+203
+00:06:36,707 --> 00:06:40,260
+Successful early retirees usually don't feel deprived.
+
+204
+00:06:40,440 --> 00:06:42,676
+They cut ruthlessly on things they don't
+
+205
+00:06:42,676 --> 00:06:44,799
+care about and spend happily on things
+
+206
+00:06:44,799 --> 00:06:45,247
+they do.
+
+207
+00:06:45,427 --> 00:06:47,183
+One might drive an old car but
+
+208
+00:06:47,183 --> 00:06:48,236
+travel every year.
+
+209
+00:06:48,416 --> 00:06:50,531
+Another might cook at home but never
+
+210
+00:06:50,531 --> 00:06:51,412
+skip a concert.
+
+211
+00:06:51,762 --> 00:06:52,934
+Shift three.
+
+212
+00:06:53,114 --> 00:06:55,169
+From normal, to intentional.
+
+213
+00:06:55,349 --> 00:06:58,502
+Normal spending in America often includes a
+
+214
+00:06:58,502 --> 00:06:59,822
+large car payment,
+
+215
+00:06:59,822 --> 00:07:00,702
+a big house,
+
+216
+00:07:00,702 --> 00:07:02,315
+and constant upgrades.
+
+217
+00:07:02,495 --> 00:07:05,641
+Early retirement requires stepping away from normal.
+
+218
+00:07:05,821 --> 00:07:07,544
+That can feel uncomfortable,
+
+219
+00:07:07,544 --> 00:07:10,744
+especially when friends and family don't understand.
+
+220
+00:07:10,924 --> 00:07:12,631
+Knowing your why makes it easier.
+
+221
+00:07:12,981 --> 00:07:13,886
+Shift four.
+
+222
+00:07:14,066 --> 00:07:15,310
+From retire from,
+
+223
+00:07:15,310 --> 00:07:16,260
+to retire to.
+
+224
+00:07:16,440 --> 00:07:18,515
+People who plan only to escape a
+
+225
+00:07:18,515 --> 00:07:20,655
+job often struggle after leaving.
+
+226
+00:07:20,835 --> 00:07:23,319
+Purpose, community and routine matter.
+
+227
+00:07:23,499 --> 00:07:26,453
+Many early retirees end up doing meaningful
+
+228
+00:07:26,453 --> 00:07:27,621
+work they choose,
+
+229
+00:07:27,621 --> 00:07:30,094
+volunteering, or building something.
+
+230
+00:07:30,274 --> 00:07:32,073
+Plan what you're retiring to.
+
+231
+00:07:32,424 --> 00:07:33,329
+Shift five.
+
+232
+00:07:33,509 --> 00:07:35,120
+From all or nothing,
+
+233
+00:07:35,120 --> 00:07:36,087
+to progress.
+
+234
+00:07:36,267 --> 00:07:38,152
+You don't need to save sixty percent
+
+235
+00:07:38,152 --> 00:07:38,728
+to benefit.
+
+236
+00:07:38,908 --> 00:07:40,983
+Going from ten to twenty five percent
+
+237
+00:07:40,983 --> 00:07:43,227
+cuts roughly twenty years off the table.
+
+238
+00:07:43,407 --> 00:07:45,661
+Every step up in savings rate buys
+
+239
+00:07:45,661 --> 00:07:48,048
+you freedom, even if you never fully
+
+240
+00:07:48,048 --> 00:07:48,910
+retire early.
+
+241
+00:07:49,260 --> 00:07:50,630
+And shift six.
+
+242
+00:07:50,810 --> 00:07:52,783
+From someday, to F you money.
+
+243
+00:07:52,963 --> 00:07:55,191
+Even before full independence,
+
+244
+00:07:55,191 --> 00:07:57,567
+having a year or two of expenses
+
+245
+00:07:57,567 --> 00:07:59,349
+saved changes your life.
+
+246
+00:07:59,529 --> 00:08:01,274
+You can leave a toxic job,
+
+247
+00:08:01,274 --> 00:08:03,622
+negotiate harder, or take a risk on
+
+248
+00:08:03,622 --> 00:08:05,032
+a better opportunity.
+
+249
+00:08:05,212 --> 00:08:08,021
+Freedom starts long before the finish line.
+
+250
+00:08:08,372 --> 00:08:12,005
+There's another psychological benefit people rarely mention.
+
+251
+00:08:12,185 --> 00:08:14,176
+Once you know your FI number and
+
+252
+00:08:14,176 --> 00:08:17,037
+your timeline, money stops feeling endless and
+
+253
+00:08:17,037 --> 00:08:17,410
+vague.
+
+254
+00:08:17,590 --> 00:08:19,076
+You know what enough looks like.
+
+255
+00:08:19,256 --> 00:08:21,504
+Many people say that simply having a
+
+256
+00:08:21,504 --> 00:08:24,126
+finish line reduced their anxiety and made
+
+257
+00:08:24,126 --> 00:08:26,624
+everyday spending decisions much easier,
+
+258
+00:08:26,624 --> 00:08:29,184
+because every choice connected to a clear
+
+259
+00:08:29,184 --> 00:08:29,496
+goal.
+
+260
+00:08:29,846 --> 00:08:31,645
+And it changes how you see your
+
+261
+00:08:31,645 --> 00:08:31,877
+job.
+
+262
+00:08:32,057 --> 00:08:33,679
+Instead of feeling trapped,
+
+263
+00:08:33,679 --> 00:08:35,780
+you can see each paycheck as buying
+
+264
+00:08:35,780 --> 00:08:37,642
+a piece of your future freedom.
+
+265
+00:08:37,822 --> 00:08:39,999
+Some people say their work became more
+
+266
+00:08:39,999 --> 00:08:41,947
+enjoyable once they knew it had an
+
+267
+00:08:41,947 --> 00:08:44,010
+end date they had chosen themselves.
+
+268
+00:08:44,360 --> 00:08:46,523
+Let's be honest about why many people
+
+269
+00:08:46,523 --> 00:08:47,576
+who try this quit.
+
+270
+00:08:47,756 --> 00:08:50,262
+High savings rates require trade offs,
+
+271
+00:08:50,262 --> 00:08:52,109
+and social pressure is real.
+
+272
+00:08:52,289 --> 00:08:54,223
+Life events, like children,
+
+273
+00:08:54,223 --> 00:08:56,944
+health problems or caring for parents,
+
+274
+00:08:56,944 --> 00:08:58,234
+can slow progress.
+
+275
+00:08:58,414 --> 00:09:00,294
+And market crashes can make the goal
+
+276
+00:09:00,294 --> 00:09:01,862
+feel further away for a while.
+
+277
+00:09:02,212 --> 00:09:05,402
+The people who succeed usually build flexibility
+
+278
+00:09:05,402 --> 00:09:06,333
+into the plan.
+
+279
+00:09:06,513 --> 00:09:08,173
+They don't need a perfect straight line.
+
+280
+00:09:08,353 --> 00:09:11,151
+They accept slower years and faster years.
+
+281
+00:09:11,331 --> 00:09:13,136
+They keep the big picture:
+
+282
+00:09:13,136 --> 00:09:15,982
+a steadily rising savings rate and steady
+
+283
+00:09:15,982 --> 00:09:17,856
+investing, over many years.
+
+284
+00:09:18,206 --> 00:09:20,541
+The idea of retiring early by living
+
+285
+00:09:20,541 --> 00:09:22,292
+below your means isn't new.
+
+286
+00:09:22,472 --> 00:09:24,449
+But it took a clear form in
+
+287
+00:09:24,449 --> 00:09:27,378
+1992, when Vicki Robin and Joe Dominguez
+
+288
+00:09:27,378 --> 00:09:29,868
+published Your Money or Your Life.
+
+289
+00:09:30,048 --> 00:09:32,237
+Dominguez had left Wall Street in his
+
+290
+00:09:32,237 --> 00:09:34,485
+early thirties and lived on the income
+
+291
+00:09:34,485 --> 00:09:36,259
+from conservative investments.
+
+292
+00:09:36,439 --> 00:09:38,281
+The book asked a simple question:
+
+293
+00:09:38,281 --> 00:09:40,011
+is the money you earn worth the
+
+294
+00:09:40,011 --> 00:09:41,629
+life energy you trade for it?
+
+295
+00:09:41,979 --> 00:09:46,365
+In 1994, William Bengen published his withdrawal
+
+296
+00:09:46,365 --> 00:09:47,644
+rate research.
+
+297
+00:09:47,824 --> 00:09:51,598
+In 1998, three professors at Trinity University
+
+298
+00:09:51,598 --> 00:09:55,371
+tested similar ideas with different portfolios.
+
+299
+00:09:55,551 --> 00:09:58,319
+Together, these studies gave people a practical
+
+300
+00:09:58,319 --> 00:10:00,439
+way to estimate how much was enough.
+
+301
+00:10:00,789 --> 00:10:03,057
+Then in the 2000s and 2010s,
+
+302
+00:10:03,057 --> 00:10:06,216
+blogs and online forums spread the idea
+
+303
+00:10:06,216 --> 00:10:07,836
+to a new generation.
+
+304
+00:10:08,016 --> 00:10:10,810
+Many bloggers showed their real budgets and
+
+305
+00:10:10,810 --> 00:10:11,720
+savings rates.
+
+306
+00:10:11,900 --> 00:10:13,699
+Some had high incomes.
+
+307
+00:10:13,879 --> 00:10:15,586
+Many had ordinary ones.
+
+308
+00:10:15,766 --> 00:10:18,623
+The common thread was always the same:
+
+309
+00:10:18,623 --> 00:10:20,127
+a high savings rate,
+
+310
+00:10:20,127 --> 00:10:21,556
+low cost investing,
+
+311
+00:10:21,556 --> 00:10:22,232
+and time.
+
+312
+00:10:22,583 --> 00:10:24,963
+Today, FIRE has many flavors.
+
+313
+00:10:25,143 --> 00:10:27,158
+Lean FIRE, for people who want a
+
+314
+00:10:27,158 --> 00:10:28,103
+minimal budget.
+
+315
+00:10:28,283 --> 00:10:30,226
+Fat FIRE, for those who want a
+
+316
+00:10:30,226 --> 00:10:31,197
+larger cushion.
+
+317
+00:10:31,377 --> 00:10:32,931
+Coast FI and barista FI,
+
+318
+00:10:32,931 --> 00:10:35,197
+for people who want a gentler path.
+
+319
+00:10:35,377 --> 00:10:36,677
+The math is the same.
+
+320
+00:10:36,857 --> 00:10:38,761
+Only the spending number changes.
+
+321
+00:10:39,112 --> 00:10:41,325
+Let's try the most famous exercise from
+
+322
+00:10:41,325 --> 00:10:42,688
+Your Money or Your Life.
+
+323
+00:10:42,868 --> 00:10:44,667
+Start with your take home pay.
+
+324
+00:10:44,847 --> 00:10:47,494
+Then subtract the costs of working:
+
+325
+00:10:47,494 --> 00:10:49,309
+commuting, work clothes,
+
+326
+00:10:49,309 --> 00:10:52,259
+lunches out, the extra takeout on tired
+
+327
+00:10:52,259 --> 00:10:52,788
+nights.
+
+328
+00:10:52,968 --> 00:10:54,918
+Then add up all the hours your
+
+329
+00:10:54,918 --> 00:10:56,023
+job really takes,
+
+330
+00:10:56,023 --> 00:10:58,622
+including the commute and recovery time.
+
+331
+00:10:58,973 --> 00:11:01,469
+Say you take home four thousand dollars
+
+332
+00:11:01,469 --> 00:11:03,582
+a month and work forty five hours
+
+333
+00:11:03,582 --> 00:11:05,950
+a week, plus five hours of commuting.
+
+334
+00:11:06,130 --> 00:11:08,260
+That's about two hundred sixteen hours a
+
+335
+00:11:08,260 --> 00:11:08,580
+month.
+
+336
+00:11:08,760 --> 00:11:11,834
+Subtract four hundred dollars of work related
+
+337
+00:11:11,834 --> 00:11:14,157
+costs, and your real wage is about
+
+338
+00:11:14,157 --> 00:11:17,026
+sixteen dollars and seventy cents an hour.
+
+339
+00:11:17,377 --> 00:11:18,874
+Now look at a purchase.
+
+340
+00:11:19,054 --> 00:11:21,553
+A one thousand dollar phone upgrade costs
+
+341
+00:11:21,553 --> 00:11:23,443
+about sixty hours of your life.
+
+342
+00:11:23,623 --> 00:11:25,187
+A forty dollar dinner,
+
+343
+00:11:25,187 --> 00:11:27,106
+about two and a half hours.
+
+344
+00:11:27,286 --> 00:11:29,794
+Sometimes that's absolutely worth it.
+
+345
+00:11:29,974 --> 00:11:31,274
+Sometimes it's not.
+
+346
+00:11:31,454 --> 00:11:33,765
+Seeing price in hours makes the choice
+
+347
+00:11:33,765 --> 00:11:34,252
+clearer.
+
+348
+00:11:34,602 --> 00:11:35,600
+Quick pause.
+
+349
+00:11:35,780 --> 00:11:38,251
+If the idea of work becoming optional
+
+350
+00:11:38,251 --> 00:11:39,521
+sounds good to you,
+
+351
+00:11:39,521 --> 00:11:41,190
+subscribe to the channel.
+
+352
+00:11:41,370 --> 00:11:43,262
+It's free, and it helps me keep
+
+353
+00:11:43,262 --> 00:11:44,726
+making videos like this.
+
+354
+00:11:44,906 --> 00:11:46,810
+Now, the twelve step plan.
+
+355
+00:11:47,160 --> 00:11:48,088
+Angle three.
+
+356
+00:11:48,268 --> 00:11:49,011
+The playbook.
+
+357
+00:11:49,191 --> 00:11:51,621
+Twelve steps to retire early on a
+
+358
+00:11:51,621 --> 00:11:52,651
+normal income.
+
+359
+00:11:53,002 --> 00:11:53,721
+Step one.
+
+360
+00:11:53,901 --> 00:11:55,504
+Calculate your real spending.
+
+361
+00:11:55,854 --> 00:11:58,130
+Look at the last twelve months of
+
+362
+00:11:58,130 --> 00:12:01,786
+spending, including irregular costs like car repairs,
+
+363
+00:12:01,786 --> 00:12:02,959
+gifts and travel.
+
+364
+00:12:03,139 --> 00:12:05,395
+That yearly total is the foundation of
+
+365
+00:12:05,395 --> 00:12:06,285
+your FI number.
+
+366
+00:12:06,465 --> 00:12:09,116
+Many people underestimate it by twenty percent
+
+367
+00:12:09,116 --> 00:12:09,577
+or more.
+
+368
+00:12:09,927 --> 00:12:12,081
+Then multiply by twenty five,
+
+369
+00:12:12,081 --> 00:12:14,385
+or by twenty eight to thirty if
+
+370
+00:12:14,385 --> 00:12:16,614
+you plan to retire very early.
+
+371
+00:12:16,794 --> 00:12:18,141
+That's your first estimate.
+
+372
+00:12:18,321 --> 00:12:20,491
+It will change as your life changes,
+
+373
+00:12:20,491 --> 00:12:21,455
+and that's okay.
+
+374
+00:12:21,806 --> 00:12:22,793
+Step two.
+
+375
+00:12:22,973 --> 00:12:24,493
+Find your savings rate.
+
+376
+00:12:24,844 --> 00:12:27,304
+Add up everything you save and invest
+
+377
+00:12:27,304 --> 00:12:27,968
+in a year,
+
+378
+00:12:27,968 --> 00:12:31,891
+including retirement contributions and your employer match.
+
+379
+00:12:32,071 --> 00:12:33,958
+Divide by your take home pay plus
+
+380
+00:12:33,958 --> 00:12:35,101
+those contributions.
+
+381
+00:12:35,281 --> 00:12:36,686
+That's your savings rate.
+
+382
+00:12:36,866 --> 00:12:39,652
+Many Americans save in the single digits.
+
+383
+00:12:40,003 --> 00:12:41,094
+Now pick a target.
+
+384
+00:12:41,274 --> 00:12:42,992
+If you're at five percent,
+
+385
+00:12:42,992 --> 00:12:44,711
+aim for fifteen this year.
+
+386
+00:12:44,891 --> 00:12:46,431
+If you're at fifteen,
+
+387
+00:12:46,431 --> 00:12:47,898
+aim for twenty five.
+
+388
+00:12:48,078 --> 00:12:50,272
+Each step cuts years off your timeline.
+
+389
+00:12:50,622 --> 00:12:51,516
+Step three.
+
+390
+00:12:51,696 --> 00:12:53,507
+Cut the big three first.
+
+391
+00:12:53,857 --> 00:12:57,361
+Early retirees almost always have modest housing
+
+392
+00:12:57,361 --> 00:12:59,186
+and transportation costs.
+
+393
+00:12:59,366 --> 00:13:01,645
+A smaller home or a cheaper area,
+
+394
+00:13:01,645 --> 00:13:04,132
+one reliable used car instead of two
+
+395
+00:13:04,132 --> 00:13:06,412
+new ones, and cooking at home can
+
+396
+00:13:06,412 --> 00:13:08,691
+raise your savings rate by ten to
+
+397
+00:13:08,691 --> 00:13:10,418
+twenty percentage points.
+
+398
+00:13:10,769 --> 00:13:12,090
+Small cuts help too,
+
+399
+00:13:12,090 --> 00:13:14,205
+but they can't do the job alone.
+
+400
+00:13:14,385 --> 00:13:16,381
+Cutting a few subscriptions might save a
+
+401
+00:13:16,381 --> 00:13:17,729
+few hundred dollars a year.
+
+402
+00:13:17,909 --> 00:13:20,614
+A cheaper apartment might save several thousand.
+
+403
+00:13:20,794 --> 00:13:23,093
+Focus where the big money is.
+
+404
+00:13:23,443 --> 00:13:24,360
+Step four.
+
+405
+00:13:24,540 --> 00:13:26,038
+Kill high interest debt.
+
+406
+00:13:26,388 --> 00:13:28,735
+You can't build wealth quickly while paying
+
+407
+00:13:28,735 --> 00:13:30,045
+twenty percent interest.
+
+408
+00:13:30,225 --> 00:13:32,252
+Pay off credit cards and other high
+
+409
+00:13:32,252 --> 00:13:33,179
+rate debt first,
+
+410
+00:13:33,179 --> 00:13:35,496
+while still getting your employer match.
+
+411
+00:13:35,676 --> 00:13:38,346
+Then roll those payments straight into investing.
+
+412
+00:13:38,696 --> 00:13:39,877
+Lower rate debts,
+
+413
+00:13:39,877 --> 00:13:42,449
+like some mortgages or student loans,
+
+414
+00:13:42,449 --> 00:13:43,839
+are a judgment call.
+
+415
+00:13:44,019 --> 00:13:46,307
+Many early retirees keep paying them on
+
+416
+00:13:46,307 --> 00:13:48,361
+schedule and invest the difference.
+
+417
+00:13:48,541 --> 00:13:50,759
+Others prefer to be debt free before
+
+418
+00:13:50,759 --> 00:13:51,745
+they leave work.
+
+419
+00:13:51,925 --> 00:13:52,808
+Both can work.
+
+420
+00:13:53,158 --> 00:13:54,052
+Step five.
+
+421
+00:13:54,232 --> 00:13:56,484
+Build a strong emergency fund.
+
+422
+00:13:56,834 --> 00:13:59,284
+Keep three to six months of expenses
+
+423
+00:13:59,284 --> 00:14:00,781
+in high yield savings.
+
+424
+00:14:00,961 --> 00:14:02,500
+With a high savings rate,
+
+425
+00:14:02,500 --> 00:14:05,085
+a lower monthly spending number makes this
+
+426
+00:14:05,085 --> 00:14:06,069
+easier to reach.
+
+427
+00:14:06,249 --> 00:14:09,059
+It protects your investments from being sold
+
+428
+00:14:09,059 --> 00:14:09,953
+at a bad time.
+
+429
+00:14:10,303 --> 00:14:12,424
+As you approach early retirement,
+
+430
+00:14:12,424 --> 00:14:14,932
+many people build a larger cash buffer,
+
+431
+00:14:14,932 --> 00:14:17,440
+sometimes one to two years of expenses,
+
+432
+00:14:17,440 --> 00:14:20,269
+to avoid selling investments during a market
+
+433
+00:14:20,269 --> 00:14:22,133
+downturn early in retirement.
+
+434
+00:14:22,483 --> 00:14:23,574
+Step six.
+
+435
+00:14:23,754 --> 00:14:25,658
+Max your tax advantages.
+
+436
+00:14:26,008 --> 00:14:27,165
+Use your 401k,
+
+437
+00:14:27,165 --> 00:14:30,143
+an IRA, and a health savings account
+
+438
+00:14:30,143 --> 00:14:31,383
+if you qualify.
+
+439
+00:14:31,563 --> 00:14:34,434
+Tax advantaged accounts let more of your
+
+440
+00:14:34,434 --> 00:14:35,510
+money compound.
+
+441
+00:14:35,690 --> 00:14:37,024
+For early retirees,
+
+442
+00:14:37,024 --> 00:14:38,498
+a mix of traditional,
+
+443
+00:14:38,498 --> 00:14:42,006
+Roth and taxable accounts gives flexibility later.
+
+444
+00:14:42,357 --> 00:14:45,050
+An HSA can be especially powerful.
+
+445
+00:14:45,230 --> 00:14:47,772
+Contributions can be tax deductible,
+
+446
+00:14:47,772 --> 00:14:49,396
+growth can be tax free,
+
+447
+00:14:49,396 --> 00:14:52,715
+and withdrawals for qualified medical costs can
+
+448
+00:14:52,715 --> 00:14:53,845
+be tax free too.
+
+449
+00:14:54,025 --> 00:14:57,145
+Some early retirees pay medical costs out
+
+450
+00:14:57,145 --> 00:14:59,427
+of pocket and let the HSA grow
+
+451
+00:14:59,427 --> 00:15:00,341
+for decades.
+
+452
+00:15:00,691 --> 00:15:01,736
+Step seven.
+
+453
+00:15:01,916 --> 00:15:04,609
+Invest in low cost index funds.
+
+454
+00:15:04,959 --> 00:15:08,029
+Most early retirees use broad index funds
+
+455
+00:15:08,029 --> 00:15:09,452
+with very low fees.
+
+456
+00:15:09,632 --> 00:15:10,723
+A total U.
+
+457
+00:15:10,903 --> 00:15:11,205
+S.
+
+458
+00:15:11,385 --> 00:15:12,726
+stock market fund,
+
+459
+00:15:12,726 --> 00:15:14,366
+an international fund,
+
+460
+00:15:14,366 --> 00:15:16,006
+and maybe a bond fund.
+
+461
+00:15:16,186 --> 00:15:17,869
+Or a single target date fund.
+
+462
+00:15:18,049 --> 00:15:20,468
+Low fees matter even more over a
+
+463
+00:15:20,468 --> 00:15:21,451
+long horizon.
+
+464
+00:15:21,801 --> 00:15:23,182
+And then stay the course.
+
+465
+00:15:23,362 --> 00:15:24,941
+Don't sell in crashes.
+
+466
+00:15:25,121 --> 00:15:26,607
+Don't chase hot trends.
+
+467
+00:15:26,787 --> 00:15:29,251
+The plan works because of time and
+
+468
+00:15:29,251 --> 00:15:31,571
+consistency, not clever trading.
+
+469
+00:15:31,921 --> 00:15:32,768
+Step eight.
+
+470
+00:15:32,948 --> 00:15:34,260
+Grow your income.
+
+471
+00:15:34,610 --> 00:15:37,765
+Raising income while keeping spending steady is
+
+472
+00:15:37,765 --> 00:15:40,450
+the fastest way to increase your savings
+
+473
+00:15:40,450 --> 00:15:40,786
+rate.
+
+474
+00:15:40,966 --> 00:15:43,078
+A ten thousand dollar raise with no
+
+475
+00:15:43,078 --> 00:15:46,095
+lifestyle change can add several percentage points
+
+476
+00:15:46,095 --> 00:15:48,025
+to your savings rate in a single
+
+477
+00:15:48,025 --> 00:15:48,327
+year.
+
+478
+00:15:48,677 --> 00:15:50,130
+Side income helps too,
+
+479
+00:15:50,130 --> 00:15:52,640
+especially if it builds skills you can
+
+480
+00:15:52,640 --> 00:15:54,424
+use after early retirement.
+
+481
+00:15:54,604 --> 00:15:57,659
+Many early retirees keep a small business
+
+482
+00:15:57,659 --> 00:16:00,416
+or freelance work for both income and
+
+483
+00:16:00,416 --> 00:16:01,012
+purpose.
+
+484
+00:16:01,363 --> 00:16:02,315
+Step nine.
+
+485
+00:16:02,495 --> 00:16:03,598
+Plan for healthcare.
+
+486
+00:16:03,948 --> 00:16:06,664
+Medicare generally starts at sixty five.
+
+487
+00:16:06,844 --> 00:16:08,040
+Retire before that,
+
+488
+00:16:08,040 --> 00:16:09,677
+and you need another plan.
+
+489
+00:16:09,857 --> 00:16:13,724
+Options include the Affordable Care Act marketplace
+
+490
+00:16:13,724 --> 00:16:15,392
+at healthcare dot gov,
+
+491
+00:16:15,392 --> 00:16:17,288
+a spouse's employer plan,
+
+492
+00:16:17,288 --> 00:16:19,790
+or COBRA for a limited time after
+
+493
+00:16:19,790 --> 00:16:20,852
+leaving a job.
+
+494
+00:16:21,202 --> 00:16:24,912
+Marketplace premium subsidies are based on income,
+
+495
+00:16:24,912 --> 00:16:28,177
+so early retirees with modest taxable income
+
+496
+00:16:28,177 --> 00:16:29,735
+may qualify for help.
+
+497
+00:16:29,915 --> 00:16:32,910
+Rules change, so check current details.
+
+498
+00:16:33,090 --> 00:16:35,784
+Include healthcare clearly in your FI number.
+
+499
+00:16:35,964 --> 00:16:38,152
+Underestimating it is one of the most
+
+500
+00:16:38,152 --> 00:16:39,099
+common mistakes.
+
+501
+00:16:39,449 --> 00:16:40,435
+Step ten.
+
+502
+00:16:40,615 --> 00:16:42,633
+Plan how to access your money before
+
+503
+00:16:42,633 --> 00:16:43,866
+fifty nine and a half.
+
+504
+00:16:44,217 --> 00:16:47,399
+Retirement accounts generally have a ten percent
+
+505
+00:16:47,399 --> 00:16:50,449
+penalty on early withdrawals before fifty nine
+
+506
+00:16:50,449 --> 00:16:51,178
+and a half,
+
+507
+00:16:51,178 --> 00:16:52,239
+with exceptions.
+
+508
+00:16:52,419 --> 00:16:55,043
+Early retirees use several strategies.
+
+509
+00:16:55,223 --> 00:16:58,135
+A taxable brokerage account has no age
+
+510
+00:16:58,135 --> 00:16:58,671
+limits.
+
+511
+00:16:58,851 --> 00:17:00,520
+Roth IRA contributions,
+
+512
+00:17:00,520 --> 00:17:04,076
+not earnings, can generally be withdrawn anytime.
+
+513
+00:17:04,426 --> 00:17:08,111
+Other strategies include a Roth conversion ladder,
+
+514
+00:17:08,111 --> 00:17:11,428
+which converts traditional funds to Roth over
+
+515
+00:17:11,428 --> 00:17:13,786
+time, the rule of fifty five for
+
+516
+00:17:13,786 --> 00:17:16,219
+some 401k plans if you leave your
+
+517
+00:17:16,219 --> 00:17:18,283
+job in or after the year you
+
+518
+00:17:18,283 --> 00:17:19,462
+turn fifty five,
+
+519
+00:17:19,462 --> 00:17:23,221
+and substantially equal periodic payments under IRS
+
+520
+00:17:23,221 --> 00:17:23,663
+rules.
+
+521
+00:17:23,843 --> 00:17:25,276
+These can be complex,
+
+522
+00:17:25,276 --> 00:17:27,733
+so consider professional tax advice.
+
+523
+00:17:28,083 --> 00:17:29,046
+Step eleven.
+
+524
+00:17:29,226 --> 00:17:30,852
+Test drive your retirement.
+
+525
+00:17:31,202 --> 00:17:32,579
+Before leaving your job,
+
+526
+00:17:32,579 --> 00:17:34,991
+live on your planned retirement budget for
+
+527
+00:17:34,991 --> 00:17:35,393
+a year.
+
+528
+00:17:35,573 --> 00:17:37,349
+Include healthcare costs.
+
+529
+00:17:37,529 --> 00:17:38,755
+If it works comfortably,
+
+530
+00:17:38,755 --> 00:17:40,083
+you've proven your number.
+
+531
+00:17:40,263 --> 00:17:41,184
+If it doesn't,
+
+532
+00:17:41,184 --> 00:17:43,026
+adjust before it's too late.
+
+533
+00:17:43,377 --> 00:17:44,630
+Also test the time.
+
+534
+00:17:44,810 --> 00:17:47,265
+Take a long vacation or a sabbatical
+
+535
+00:17:47,265 --> 00:17:48,015
+if you can.
+
+536
+00:17:48,195 --> 00:17:50,204
+Many people discover what they want to
+
+537
+00:17:50,204 --> 00:17:51,473
+do with their free time,
+
+538
+00:17:51,473 --> 00:17:53,059
+and what they miss about work.
+
+539
+00:17:53,410 --> 00:17:54,373
+Step twelve.
+
+540
+00:17:54,553 --> 00:17:56,597
+Stay flexible after you retire.
+
+541
+00:17:56,947 --> 00:17:59,284
+The early years of retirement carry the
+
+542
+00:17:59,284 --> 00:17:59,884
+most risk.
+
+543
+00:18:00,064 --> 00:18:02,689
+If markets fall sharply right after you
+
+544
+00:18:02,689 --> 00:18:05,583
+retire, withdrawing too much can do lasting
+
+545
+00:18:05,583 --> 00:18:06,055
+damage.
+
+546
+00:18:06,235 --> 00:18:08,847
+This is called sequence of returns risk.
+
+547
+00:18:09,027 --> 00:18:11,546
+Flexibility is your best defense.
+
+548
+00:18:11,897 --> 00:18:14,219
+Cut spending a little in bad years.
+
+549
+00:18:14,399 --> 00:18:16,036
+Earn some part time income.
+
+550
+00:18:16,216 --> 00:18:18,793
+Use your cash buffer instead of selling
+
+551
+00:18:18,793 --> 00:18:20,511
+investments at low prices.
+
+552
+00:18:20,691 --> 00:18:24,074
+Small adjustments can dramatically improve the odds
+
+553
+00:18:24,074 --> 00:18:25,533
+that your money lasts.
+
+554
+00:18:25,883 --> 00:18:27,578
+Let's walk through a sample plan.
+
+555
+00:18:27,758 --> 00:18:29,731
+Sam and Jess are both thirty,
+
+556
+00:18:29,731 --> 00:18:32,589
+with a combined income of seventy thousand
+
+557
+00:18:32,589 --> 00:18:33,133
+dollars.
+
+558
+00:18:33,313 --> 00:18:35,893
+After taxes and retirement contributions,
+
+559
+00:18:35,893 --> 00:18:38,348
+they bring home about forty six hundred
+
+560
+00:18:38,348 --> 00:18:38,851
+a month.
+
+561
+00:18:39,031 --> 00:18:41,671
+They contribute ten percent to their 401k
+
+562
+00:18:41,671 --> 00:18:43,796
+plans, with a four percent match,
+
+563
+00:18:43,796 --> 00:18:46,243
+so about eight hundred dollars a month
+
+564
+00:18:46,243 --> 00:18:48,818
+is invested before the paycheck arrives.
+
+565
+00:18:49,169 --> 00:18:51,503
+They rent a modest two bedroom,
+
+566
+00:18:51,503 --> 00:18:53,235
+share one paid off car,
+
+567
+00:18:53,235 --> 00:18:54,741
+and cook most meals.
+
+568
+00:18:54,921 --> 00:18:56,948
+Their spending is about thirty four hundred
+
+569
+00:18:56,948 --> 00:18:57,325
+a month.
+
+570
+00:18:57,505 --> 00:19:00,297
+That leaves twelve hundred a month to
+
+571
+00:19:00,297 --> 00:19:03,089
+invest in IRAs and a taxable account.
+
+572
+00:19:03,269 --> 00:19:06,195
+Total investing: about two thousand a month,
+
+573
+00:19:06,195 --> 00:19:08,988
+roughly thirty seven percent of their take
+
+574
+00:19:08,988 --> 00:19:10,850
+home pay plus contributions.
+
+575
+00:19:11,201 --> 00:19:13,722
+Their yearly spending is about forty one
+
+576
+00:19:13,722 --> 00:19:16,432
+thousand dollars, so twenty five times that
+
+577
+00:19:16,432 --> 00:19:18,259
+is about one million dollars.
+
+578
+00:19:18,439 --> 00:19:20,834
+Investing two thousand a month at five
+
+579
+00:19:20,834 --> 00:19:22,346
+percent after inflation,
+
+580
+00:19:22,346 --> 00:19:24,740
+and using raises to keep their savings
+
+581
+00:19:24,740 --> 00:19:27,953
+growing, they could reach financial independence in
+
+582
+00:19:27,953 --> 00:19:29,214
+their early fifties.
+
+583
+00:19:29,394 --> 00:19:31,722
+Maybe sooner, if their income grows faster
+
+584
+00:19:31,722 --> 00:19:32,830
+than their spending.
+
+585
+00:19:33,180 --> 00:19:34,584
+Is that a sacrifice?
+
+586
+00:19:34,764 --> 00:19:35,879
+In some ways.
+
+587
+00:19:36,059 --> 00:19:38,185
+They don't have two new cars or
+
+588
+00:19:38,185 --> 00:19:39,008
+a big house.
+
+589
+00:19:39,188 --> 00:19:41,013
+But they travel once a year,
+
+590
+00:19:41,013 --> 00:19:42,317
+eat out on weekends,
+
+591
+00:19:42,317 --> 00:19:43,751
+and they're debt free.
+
+592
+00:19:43,931 --> 00:19:46,077
+And they'll likely be free to choose
+
+593
+00:19:46,077 --> 00:19:47,865
+what to do with their time ten
+
+594
+00:19:47,865 --> 00:19:50,071
+or fifteen years before most of their
+
+595
+00:19:50,071 --> 00:19:50,548
+friends.
+
+596
+00:19:50,899 --> 00:19:53,232
+Early retirement looks different for everyone.
+
+597
+00:19:53,412 --> 00:19:56,225
+Take a teacher who earns sixty thousand
+
+598
+00:19:56,225 --> 00:19:56,802
+dollars.
+
+599
+00:19:56,982 --> 00:19:58,878
+Through a state pension,
+
+600
+00:19:58,878 --> 00:20:00,615
+a 403b and a Roth IRA,
+
+601
+00:20:00,615 --> 00:20:02,432
+and by living modestly,
+
+602
+00:20:02,432 --> 00:20:04,643
+she may be able to retire in
+
+603
+00:20:04,643 --> 00:20:07,723
+her mid fifties with a pension covering
+
+604
+00:20:07,723 --> 00:20:09,382
+part of her expenses.
+
+605
+00:20:09,562 --> 00:20:12,216
+Pensions can be a powerful early retirement
+
+606
+00:20:12,216 --> 00:20:14,438
+tool, depending on the plan's rules.
+
+607
+00:20:14,788 --> 00:20:16,927
+Or a nurse who saves forty percent
+
+608
+00:20:16,927 --> 00:20:19,444
+of a seventy five thousand dollar salary
+
+609
+00:20:19,444 --> 00:20:22,086
+while working night shifts and living with
+
+610
+00:20:22,086 --> 00:20:23,785
+a roommate for a few years.
+
+611
+00:20:23,965 --> 00:20:25,396
+By her mid forties,
+
+612
+00:20:25,396 --> 00:20:27,128
+she may reach coast FI,
+
+613
+00:20:27,128 --> 00:20:29,612
+cut to part time work she enjoys,
+
+614
+00:20:29,612 --> 00:20:32,925
+and let her portfolio grow until traditional
+
+615
+00:20:32,925 --> 00:20:34,054
+retirement age.
+
+616
+00:20:34,405 --> 00:20:36,703
+Or an electrician who builds a small
+
+617
+00:20:36,703 --> 00:20:37,597
+side business.
+
+618
+00:20:37,777 --> 00:20:39,466
+Between his union pension,
+
+619
+00:20:39,466 --> 00:20:42,259
+his savings and part time contracting work,
+
+620
+00:20:42,259 --> 00:20:44,533
+he might stop full time work around
+
+621
+00:20:44,533 --> 00:20:46,677
+fifty, and keep doing the jobs he
+
+622
+00:20:46,677 --> 00:20:48,366
+enjoys a few days a month.
+
+623
+00:20:48,546 --> 00:20:50,357
+That's barista FI in action.
+
+624
+00:20:50,707 --> 00:20:52,886
+None of these paths requires a six
+
+625
+00:20:52,886 --> 00:20:53,783
+figure salary.
+
+626
+00:20:53,963 --> 00:20:56,093
+All of them require a high savings
+
+627
+00:20:56,093 --> 00:20:58,661
+rate, patience, and a plan for healthcare
+
+628
+00:20:58,661 --> 00:20:59,350
+and income.
+
+629
+00:20:59,530 --> 00:21:01,323
+These are illustrations,
+
+630
+00:21:01,323 --> 00:21:02,293
+not promises.
+
+631
+00:21:02,473 --> 00:21:04,977
+But the principles behind them are available
+
+632
+00:21:04,977 --> 00:21:05,945
+to almost anyone.
+
+633
+00:21:06,295 --> 00:21:08,903
+What these stories share is a combination
+
+634
+00:21:08,903 --> 00:21:09,476
+of tools.
+
+635
+00:21:09,656 --> 00:21:12,460
+A pension or part time work covers
+
+636
+00:21:12,460 --> 00:21:13,615
+some expenses.
+
+637
+00:21:13,795 --> 00:21:15,455
+Investments cover the rest.
+
+638
+00:21:15,635 --> 00:21:17,945
+Social Security arrives later.
+
+639
+00:21:18,125 --> 00:21:21,225
+Early retirement on a normal income usually
+
+640
+00:21:21,225 --> 00:21:22,955
+isn't one big portfolio.
+
+641
+00:21:23,135 --> 00:21:25,711
+It's several income sources fitted together,
+
+642
+00:21:25,711 --> 00:21:27,175
+with a plan for the gaps.
+
+643
+00:21:27,526 --> 00:21:29,372
+Let's be clear about the risks.
+
+644
+00:21:29,552 --> 00:21:32,336
+Market risk: a major crash right after
+
+645
+00:21:32,336 --> 00:21:33,801
+you retire can hurt.
+
+646
+00:21:33,981 --> 00:21:37,216
+Inflation risk: prices can rise faster than
+
+647
+00:21:37,216 --> 00:21:37,893
+expected.
+
+648
+00:21:38,073 --> 00:21:40,916
+Healthcare risk: costs before Medicare can be
+
+649
+00:21:40,916 --> 00:21:42,369
+high and unpredictable.
+
+650
+00:21:42,549 --> 00:21:43,799
+And longevity risk:
+
+651
+00:21:43,799 --> 00:21:45,970
+your money may need to last fifty
+
+652
+00:21:45,970 --> 00:21:46,891
+years or more.
+
+653
+00:21:47,242 --> 00:21:49,030
+Policy risk matters too.
+
+654
+00:21:49,210 --> 00:21:52,752
+Tax laws, healthcare rules and retirement account
+
+655
+00:21:52,752 --> 00:21:53,981
+rules can change.
+
+656
+00:21:54,161 --> 00:21:57,112
+That's why many early retirees build in
+
+657
+00:21:57,112 --> 00:21:59,609
+margins: a lower withdrawal rate,
+
+658
+00:21:59,609 --> 00:22:00,668
+a cash buffer,
+
+659
+00:22:00,668 --> 00:22:03,090
+some flexibility to earn income,
+
+660
+00:22:03,090 --> 00:22:05,133
+and a mix of account types.
+
+661
+00:22:05,483 --> 00:22:08,060
+None of these risks means early retirement
+
+662
+00:22:08,060 --> 00:22:08,919
+is impossible.
+
+663
+00:22:09,099 --> 00:22:10,635
+It means plan carefully,
+
+664
+00:22:10,635 --> 00:22:11,787
+keep options open,
+
+665
+00:22:11,787 --> 00:22:14,155
+and don't cut your safety margins too
+
+666
+00:22:14,155 --> 00:22:14,475
+thin.
+
+667
+00:22:14,655 --> 00:22:16,599
+A plan that reaches FI two years
+
+668
+00:22:16,599 --> 00:22:18,786
+later but with a stronger cushion is
+
+669
+00:22:18,786 --> 00:22:20,123
+often the better plan.
+
+670
+00:22:20,473 --> 00:22:22,933
+Of course, real life won't follow a
+
+671
+00:22:22,933 --> 00:22:24,339
+spreadsheet exactly.
+
+672
+00:22:24,519 --> 00:22:26,864
+Raises will come at different times,
+
+673
+00:22:26,864 --> 00:22:28,622
+markets will rise and fall,
+
+674
+00:22:28,622 --> 00:22:30,707
+and expenses will surprise them.
+
+675
+00:22:30,887 --> 00:22:31,998
+But the structure,
+
+676
+00:22:31,998 --> 00:22:33,233
+a high savings rate,
+
+677
+00:22:33,233 --> 00:22:35,516
+low fixed costs and steady investing,
+
+678
+00:22:35,516 --> 00:22:37,862
+gives them a strong chance of reaching
+
+679
+00:22:37,862 --> 00:22:40,825
+freedom years ahead of the traditional schedule.
+
+680
+00:22:41,175 --> 00:22:43,087
+Reaching your number is only half the
+
+681
+00:22:43,087 --> 00:22:43,346
+plan.
+
+682
+00:22:43,526 --> 00:22:45,801
+The other half is withdrawing it wisely.
+
+683
+00:22:45,981 --> 00:22:47,849
+A common approach is to hold a
+
+684
+00:22:47,849 --> 00:22:49,780
+cash buffer of one to two years
+
+685
+00:22:49,780 --> 00:22:52,457
+of spending, and refill it from investments
+
+686
+00:22:52,457 --> 00:22:54,201
+when markets are doing well.
+
+687
+00:22:54,381 --> 00:22:55,149
+In bad years,
+
+688
+00:22:55,149 --> 00:22:57,157
+you spend from the buffer and give
+
+689
+00:22:57,157 --> 00:22:59,106
+your investments time to recover.
+
+690
+00:22:59,457 --> 00:23:02,870
+Another approach is a flexible withdrawal rule.
+
+691
+00:23:03,050 --> 00:23:05,607
+Start around three and a half percent,
+
+692
+00:23:05,607 --> 00:23:06,347
+and adjust.
+
+693
+00:23:06,527 --> 00:23:07,578
+In strong years,
+
+694
+00:23:07,578 --> 00:23:08,826
+take a small raise.
+
+695
+00:23:09,006 --> 00:23:10,042
+In weak years,
+
+696
+00:23:10,042 --> 00:23:11,374
+cut back slightly.
+
+697
+00:23:11,554 --> 00:23:15,356
+Research on flexible withdrawal strategies suggests even
+
+698
+00:23:15,356 --> 00:23:18,546
+modest adjustments can greatly improve the odds
+
+699
+00:23:18,546 --> 00:23:19,972
+of the money lasting.
+
+700
+00:23:20,322 --> 00:23:21,761
+And taxes matter.
+
+701
+00:23:21,941 --> 00:23:25,281
+Withdrawals from traditional accounts are usually taxed
+
+702
+00:23:25,281 --> 00:23:25,889
+as income.
+
+703
+00:23:26,069 --> 00:23:28,238
+Roth withdrawals can be tax free if
+
+704
+00:23:28,238 --> 00:23:29,354
+the rules are met.
+
+705
+00:23:29,534 --> 00:23:32,285
+Long term gains in taxable accounts are
+
+706
+00:23:32,285 --> 00:23:34,190
+often taxed at lower rates.
+
+707
+00:23:34,370 --> 00:23:36,562
+With low income in early retirement,
+
+708
+00:23:36,562 --> 00:23:38,633
+some people pay very little tax by
+
+709
+00:23:38,633 --> 00:23:41,313
+drawing carefully from each type of account.
+
+710
+00:23:41,663 --> 00:23:43,673
+This is one area where a few
+
+711
+00:23:43,673 --> 00:23:46,329
+hours with a tax professional can pay
+
+712
+00:23:46,329 --> 00:23:48,267
+for itself many times over,
+
+713
+00:23:48,267 --> 00:23:50,995
+especially when combining withdrawals,
+
+714
+00:23:50,995 --> 00:23:54,010
+Roth conversions and healthcare subsidies,
+
+715
+00:23:54,010 --> 00:23:55,374
+which all interact.
+
+716
+00:23:55,724 --> 00:23:57,866
+Your FI number depends on your spending,
+
+717
+00:23:57,866 --> 00:23:59,420
+and where you live has a huge
+
+718
+00:23:59,420 --> 00:24:00,437
+effect on spending.
+
+719
+00:24:00,617 --> 00:24:04,244
+Housing costs can vary enormously between cities
+
+720
+00:24:04,244 --> 00:24:05,075
+and states.
+
+721
+00:24:05,255 --> 00:24:07,566
+A home that costs five hundred thousand
+
+722
+00:24:07,566 --> 00:24:09,580
+dollars in one area might cost two
+
+723
+00:24:09,580 --> 00:24:11,595
+hundred fifty thousand in another.
+
+724
+00:24:11,945 --> 00:24:14,649
+Some early retirees move to lower cost
+
+725
+00:24:14,649 --> 00:24:16,712
+areas when they stop working,
+
+726
+00:24:16,712 --> 00:24:20,199
+a strategy sometimes called geographic arbitrage.
+
+727
+00:24:20,379 --> 00:24:22,925
+If your spending falls from fifty thousand
+
+728
+00:24:22,925 --> 00:24:24,441
+to forty thousand a year,
+
+729
+00:24:24,441 --> 00:24:26,441
+your FI number falls by about two
+
+730
+00:24:26,441 --> 00:24:28,321
+hundred fifty thousand dollars.
+
+731
+00:24:28,501 --> 00:24:30,695
+That could mean retiring years earlier.
+
+732
+00:24:31,045 --> 00:24:32,322
+It's not for everyone.
+
+733
+00:24:32,502 --> 00:24:35,497
+Family, friends and community matter a lot.
+
+734
+00:24:35,677 --> 00:24:37,108
+But even a smaller move,
+
+735
+00:24:37,108 --> 00:24:39,492
+like a cheaper neighborhood or a smaller
+
+736
+00:24:39,492 --> 00:24:41,459
+home, can make a real difference.
+
+737
+00:24:41,809 --> 00:24:44,529
+For couples, early retirement is a shared
+
+738
+00:24:44,529 --> 00:24:45,059
+project.
+
+739
+00:24:45,239 --> 00:24:47,187
+Both people need to agree on the
+
+740
+00:24:47,187 --> 00:24:49,500
+goal, the trade offs and the timeline.
+
+741
+00:24:49,680 --> 00:24:52,292
+Disagreements about spending are common.
+
+742
+00:24:52,472 --> 00:24:54,727
+Talking early and often about what you
+
+743
+00:24:54,727 --> 00:24:56,745
+each value helps avoid resentment.
+
+744
+00:24:57,095 --> 00:24:59,370
+Some couples choose a staggered path.
+
+745
+00:24:59,550 --> 00:25:02,149
+One partner leaves full time work first,
+
+746
+00:25:02,149 --> 00:25:04,423
+maybe to care for children or start
+
+747
+00:25:04,423 --> 00:25:07,086
+a business, while the other keeps working
+
+748
+00:25:07,086 --> 00:25:09,035
+and provides health insurance.
+
+749
+00:25:09,215 --> 00:25:11,218
+That can reduce risk and make the
+
+750
+00:25:11,218 --> 00:25:12,431
+transition smoother.
+
+751
+00:25:12,782 --> 00:25:14,722
+If you're within five years of your
+
+752
+00:25:14,722 --> 00:25:17,716
+number, focus shifts from accumulation to preparation.
+
+753
+00:25:17,896 --> 00:25:19,359
+Build your cash buffer.
+
+754
+00:25:19,539 --> 00:25:20,793
+Plan healthcare.
+
+755
+00:25:20,973 --> 00:25:23,116
+Map out which accounts you'll draw from
+
+756
+00:25:23,116 --> 00:25:23,445
+first.
+
+757
+00:25:23,625 --> 00:25:25,831
+And test drive your retirement budget,
+
+758
+00:25:25,831 --> 00:25:26,934
+if you haven't yet.
+
+759
+00:25:27,285 --> 00:25:29,595
+Also think about your investment mix.
+
+760
+00:25:29,775 --> 00:25:32,535
+Some people reduce risk slightly as they
+
+761
+00:25:32,535 --> 00:25:34,329
+approach early retirement,
+
+762
+00:25:34,329 --> 00:25:36,606
+because a big drop just before or
+
+763
+00:25:36,606 --> 00:25:39,089
+after they stop working can hurt the
+
+764
+00:25:39,089 --> 00:25:39,434
+most.
+
+765
+00:25:39,614 --> 00:25:41,619
+A balanced mix and a cash buffer
+
+766
+00:25:41,619 --> 00:25:42,935
+can soften that risk.
+
+767
+00:25:43,285 --> 00:25:44,805
+Here's what to do this week.
+
+768
+00:25:44,985 --> 00:25:46,777
+Day one: add up your last twelve
+
+769
+00:25:46,777 --> 00:25:47,842
+months of spending.
+
+770
+00:25:48,022 --> 00:25:50,569
+Day two: multiply by twenty five,
+
+771
+00:25:50,569 --> 00:25:52,654
+and write that number down.
+
+772
+00:25:52,834 --> 00:25:55,783
+Day three: calculate your current savings rate.
+
+773
+00:25:56,133 --> 00:25:58,323
+Day four: look at the savings rate
+
+774
+00:25:58,323 --> 00:26:00,707
+table and find your current timeline.
+
+775
+00:26:00,887 --> 00:26:03,432
+Day five: pick one big three change
+
+776
+00:26:03,432 --> 00:26:06,122
+that would raise your savings rate by
+
+777
+00:26:06,122 --> 00:26:07,795
+five percentage points.
+
+778
+00:26:07,975 --> 00:26:11,364
+Day six: increase your retirement contribution by
+
+779
+00:26:11,364 --> 00:26:12,816
+at least one percent.
+
+780
+00:26:12,996 --> 00:26:14,943
+Day seven: write down what you'd do
+
+781
+00:26:14,943 --> 00:26:17,002
+with your time if work were optional.
+
+782
+00:26:17,182 --> 00:26:17,994
+That's your why.
+
+783
+00:26:18,345 --> 00:26:20,430
+Let's look at the most common mistakes,
+
+784
+00:26:20,430 --> 00:26:21,607
+so you can avoid them.
+
+785
+00:26:21,787 --> 00:26:24,422
+Mistake one: underestimating spending.
+
+786
+00:26:24,602 --> 00:26:27,872
+People often forget irregular costs like roof
+
+787
+00:26:27,872 --> 00:26:30,633
+repairs, new cars every ten or fifteen
+
+788
+00:26:30,633 --> 00:26:32,014
+years, dental work,
+
+789
+00:26:32,014 --> 00:26:33,322
+or helping family.
+
+790
+00:26:33,502 --> 00:26:35,742
+Build these into your yearly number.
+
+791
+00:26:36,093 --> 00:26:38,240
+Mistake two: forgetting healthcare.
+
+792
+00:26:38,420 --> 00:26:41,837
+Before Medicare, premiums and deductibles can be
+
+793
+00:26:41,837 --> 00:26:43,831
+thousands of dollars a year.
+
+794
+00:26:44,011 --> 00:26:46,602
+Price your real options before you quit,
+
+795
+00:26:46,602 --> 00:26:47,250
+not after.
+
+796
+00:26:47,600 --> 00:26:50,490
+Mistake three: retiring right at the edge.
+
+797
+00:26:50,670 --> 00:26:53,024
+If your plan only works with perfect
+
+798
+00:26:53,024 --> 00:26:54,659
+returns and no surprises,
+
+799
+00:26:54,659 --> 00:26:55,639
+it's too tight.
+
+800
+00:26:55,819 --> 00:26:57,221
+A margin of safety,
+
+801
+00:26:57,221 --> 00:26:59,581
+a little extra saved or a little
+
+802
+00:26:59,581 --> 00:27:01,351
+flexibility in spending,
+
+803
+00:27:01,351 --> 00:27:03,343
+protects you from bad luck.
+
+804
+00:27:03,693 --> 00:27:07,535
+Mistake four: losing identity and community.
+
+805
+00:27:07,715 --> 00:27:10,092
+Work gives many people structure,
+
+806
+00:27:10,092 --> 00:27:12,325
+friends and a sense of purpose.
+
+807
+00:27:12,505 --> 00:27:15,860
+Early retirees who thrive usually replace those
+
+808
+00:27:15,860 --> 00:27:18,358
+things deliberately, with projects,
+
+809
+00:27:18,358 --> 00:27:21,142
+groups, volunteering or part time work.
+
+810
+00:27:21,493 --> 00:27:22,773
+And mistake five:
+
+811
+00:27:22,773 --> 00:27:24,128
+going too extreme.
+
+812
+00:27:24,308 --> 00:27:26,507
+Some people cut spending so hard they
+
+813
+00:27:26,507 --> 00:27:28,290
+burn out and abandon the plan.
+
+814
+00:27:28,470 --> 00:27:30,979
+A sustainable savings rate you can keep
+
+815
+00:27:30,979 --> 00:27:33,424
+for fifteen years beats an extreme one
+
+816
+00:27:33,424 --> 00:27:34,647
+you quit after two.
+
+817
+00:27:34,997 --> 00:27:37,813
+So what do early retirees actually do
+
+818
+00:27:37,813 --> 00:27:38,421
+all day?
+
+819
+00:27:38,601 --> 00:27:41,705
+Surveys and interviews with people who've reached
+
+820
+00:27:41,705 --> 00:27:44,302
+financial independence show a wide range.
+
+821
+00:27:44,482 --> 00:27:46,148
+Many travel slowly,
+
+822
+00:27:46,148 --> 00:27:48,602
+spend more time with family,
+
+823
+00:27:48,602 --> 00:27:50,443
+exercise, cook, read,
+
+824
+00:27:50,443 --> 00:27:52,284
+and learn new skills.
+
+825
+00:27:52,464 --> 00:27:54,727
+Many also keep earning some money,
+
+826
+00:27:54,727 --> 00:27:57,189
+often from work they find meaningful.
+
+827
+00:27:57,540 --> 00:27:58,813
+What changes most,
+
+828
+00:27:58,813 --> 00:27:59,874
+they often say,
+
+829
+00:27:59,874 --> 00:28:01,359
+isn't the activities.
+
+830
+00:28:01,539 --> 00:28:02,549
+It's the feeling.
+
+831
+00:28:02,729 --> 00:28:05,121
+Not needing a paycheck changes how you
+
+832
+00:28:05,121 --> 00:28:07,513
+approach work, relationships and time.
+
+833
+00:28:07,693 --> 00:28:09,303
+You say yes to the things you
+
+834
+00:28:09,303 --> 00:28:10,970
+value and no to the things you
+
+835
+00:28:10,970 --> 00:28:11,303
+don't.
+
+836
+00:28:11,483 --> 00:28:13,538
+That freedom is the real goal.
+
+837
+00:28:13,888 --> 00:28:14,910
+Objection one.
+
+838
+00:28:15,090 --> 00:28:15,984
+I'd be bored.
+
+839
+00:28:16,164 --> 00:28:18,258
+Some early retirees are,
+
+840
+00:28:18,258 --> 00:28:19,043
+at first.
+
+841
+00:28:19,223 --> 00:28:20,897
+But many find more purpose,
+
+842
+00:28:20,897 --> 00:28:23,252
+not less, once they choose their work.
+
+843
+00:28:23,432 --> 00:28:25,398
+The key is planning what you're retiring
+
+844
+00:28:25,398 --> 00:28:25,545
+to.
+
+845
+00:28:25,725 --> 00:28:28,129
+Volunteering, learning, creating,
+
+846
+00:28:28,129 --> 00:28:29,441
+caring for family,
+
+847
+00:28:29,441 --> 00:28:31,553
+or meaningful part time work.
+
+848
+00:28:31,903 --> 00:28:33,111
+Objection two.
+
+849
+00:28:33,291 --> 00:28:35,241
+It's only for people without kids.
+
+850
+00:28:35,421 --> 00:28:37,054
+Many families pursue FI,
+
+851
+00:28:37,054 --> 00:28:39,912
+though children add costs and usually slow
+
+852
+00:28:39,912 --> 00:28:40,797
+the timeline.
+
+853
+00:28:40,977 --> 00:28:44,635
+Families often focus on housing and transportation
+
+854
+00:28:44,635 --> 00:28:47,781
+savings, use tax advantaged accounts fully,
+
+855
+00:28:47,781 --> 00:28:50,123
+and aim for a slightly later but
+
+856
+00:28:50,123 --> 00:28:51,879
+still early finish line.
+
+857
+00:28:52,228 --> 00:28:53,297
+Objection three.
+
+858
+00:28:53,477 --> 00:28:54,649
+It sounds miserable.
+
+859
+00:28:54,829 --> 00:28:56,037
+It doesn't have to be.
+
+860
+00:28:56,217 --> 00:28:58,997
+Saving thirty or forty percent while living
+
+861
+00:28:58,997 --> 00:29:01,261
+well is possible when the big three
+
+862
+00:29:01,261 --> 00:29:02,231
+are controlled.
+
+863
+00:29:02,411 --> 00:29:04,551
+And even if you never retire early,
+
+864
+00:29:04,551 --> 00:29:06,935
+a high savings rate gives you security,
+
+865
+00:29:06,935 --> 00:29:09,197
+freedom and lower stress for the rest
+
+866
+00:29:09,197 --> 00:29:09,992
+of your life.
+
+867
+00:29:10,342 --> 00:29:11,514
+Objection four.
+
+868
+00:29:11,694 --> 00:29:14,078
+What if the market crashes right after
+
+869
+00:29:14,078 --> 00:29:14,643
+I retire?
+
+870
+00:29:14,823 --> 00:29:17,130
+That's the sequence of returns risk we
+
+871
+00:29:17,130 --> 00:29:17,737
+discussed.
+
+872
+00:29:17,917 --> 00:29:18,805
+A cash buffer,
+
+873
+00:29:18,805 --> 00:29:20,771
+a conservative withdrawal rate,
+
+874
+00:29:20,771 --> 00:29:22,991
+and willingness to earn a little or
+
+875
+00:29:22,991 --> 00:29:25,020
+spend a little less in bad years
+
+876
+00:29:25,020 --> 00:29:26,416
+are the main defenses.
+
+877
+00:29:26,596 --> 00:29:29,758
+Historical studies suggest plans with these safeguards
+
+878
+00:29:29,758 --> 00:29:31,983
+have held up through severe downturns.
+
+879
+00:29:32,333 --> 00:29:33,633
+And objection five.
+
+880
+00:29:33,813 --> 00:29:35,160
+I love my job.
+
+881
+00:29:35,340 --> 00:29:36,129
+Wonderful.
+
+882
+00:29:36,309 --> 00:29:39,316
+Financial independence doesn't require leaving it.
+
+883
+00:29:39,496 --> 00:29:41,374
+It means you stay because you want
+
+884
+00:29:41,374 --> 00:29:42,921
+to, not because you have to.
+
+885
+00:29:43,101 --> 00:29:45,414
+Many people find they enjoy their work
+
+886
+00:29:45,414 --> 00:29:47,666
+more once the pressure of needing the
+
+887
+00:29:47,666 --> 00:29:48,883
+paycheck disappears.
+
+888
+00:29:49,233 --> 00:29:51,355
+How do people actually go from ten
+
+889
+00:29:51,355 --> 00:29:53,540
+percent to thirty or forty percent?
+
+890
+00:29:53,720 --> 00:29:55,055
+Usually not all at once.
+
+891
+00:29:55,235 --> 00:29:57,383
+A common path looks like this.
+
+892
+00:29:57,563 --> 00:29:59,854
+Year one: track spending and get the
+
+893
+00:29:59,854 --> 00:30:02,590
+full match, reaching about fifteen percent.
+
+894
+00:30:02,770 --> 00:30:04,756
+Year two: pay off a car loan
+
+895
+00:30:04,756 --> 00:30:06,529
+and keep driving the car,
+
+896
+00:30:06,529 --> 00:30:08,231
+redirecting the payment,
+
+897
+00:30:08,231 --> 00:30:09,933
+reaching twenty percent.
+
+898
+00:30:10,284 --> 00:30:12,729
+Year three: move to a cheaper apartment
+
+899
+00:30:12,729 --> 00:30:14,109
+or take in a roommate,
+
+900
+00:30:14,109 --> 00:30:16,367
+and send the savings to investments,
+
+901
+00:30:16,367 --> 00:30:18,248
+reaching twenty eight percent.
+
+902
+00:30:18,428 --> 00:30:20,457
+Year four: get a raise and send
+
+903
+00:30:20,457 --> 00:30:21,898
+most of it to savings,
+
+904
+00:30:21,898 --> 00:30:23,861
+reaching thirty three percent.
+
+905
+00:30:24,041 --> 00:30:26,851
+Year five: cut a few recurring costs
+
+906
+00:30:26,851 --> 00:30:28,412
+and add side income,
+
+907
+00:30:28,412 --> 00:30:30,206
+reaching forty percent.
+
+908
+00:30:30,557 --> 00:30:32,500
+Notice that none of those steps is
+
+909
+00:30:32,500 --> 00:30:33,587
+extreme on its own.
+
+910
+00:30:33,767 --> 00:30:35,195
+Each is one decision.
+
+911
+00:30:35,375 --> 00:30:37,343
+But together, over five years,
+
+912
+00:30:37,343 --> 00:30:39,509
+they can cut decades off the path
+
+913
+00:30:39,509 --> 00:30:41,215
+to financial independence.
+
+914
+00:30:41,395 --> 00:30:44,715
+That's how ordinary incomes become early retirements.
+
+915
+00:30:45,065 --> 00:30:47,133
+And the effect compounds in a second
+
+916
+00:30:47,133 --> 00:30:47,363
+way.
+
+917
+00:30:47,543 --> 00:30:49,721
+Every year at a higher savings rate,
+
+918
+00:30:49,721 --> 00:30:52,141
+you get more comfortable living on less.
+
+919
+00:30:52,321 --> 00:30:54,372
+Many people say they don't miss the
+
+920
+00:30:54,372 --> 00:30:55,428
+spending they cut,
+
+921
+00:30:55,428 --> 00:30:57,889
+and they're surprised how much calmer they
+
+922
+00:30:57,889 --> 00:30:59,531
+feel with a growing cushion.
+
+923
+00:30:59,881 --> 00:31:01,829
+Let me answer the questions I hear
+
+924
+00:31:01,829 --> 00:31:03,433
+most about early retirement.
+
+925
+00:31:03,784 --> 00:31:04,643
+Question one.
+
+926
+00:31:04,823 --> 00:31:07,029
+Is the four percent rule still safe?
+
+927
+00:31:07,209 --> 00:31:08,893
+It's a historical guideline,
+
+928
+00:31:08,893 --> 00:31:09,856
+not a guarantee.
+
+929
+00:31:10,036 --> 00:31:13,403
+Some researchers suggest lower starting rates for
+
+930
+00:31:13,403 --> 00:31:16,426
+very long retirements or when valuations are
+
+931
+00:31:16,426 --> 00:31:16,769
+high.
+
+932
+00:31:16,949 --> 00:31:19,738
+Many early retirees use three to three
+
+933
+00:31:19,738 --> 00:31:21,132
+and a half percent,
+
+934
+00:31:21,132 --> 00:31:24,066
+plus flexibility, to improve their odds.
+
+935
+00:31:24,417 --> 00:31:25,334
+Question two.
+
+936
+00:31:25,514 --> 00:31:27,116
+What about Social Security?
+
+937
+00:31:27,296 --> 00:31:28,575
+If you retire early,
+
+938
+00:31:28,575 --> 00:31:30,302
+your benefits may be lower,
+
+939
+00:31:30,302 --> 00:31:33,116
+because they're based on your highest thirty
+
+940
+00:31:33,116 --> 00:31:34,587
+five years of earnings.
+
+941
+00:31:34,767 --> 00:31:37,286
+But you'll likely still receive something later.
+
+942
+00:31:37,466 --> 00:31:40,433
+Many early retirees treat Social Security as
+
+943
+00:31:40,433 --> 00:31:42,725
+a bonus that reduces how much they
+
+944
+00:31:42,725 --> 00:31:44,815
+need to withdraw later in life.
+
+945
+00:31:44,995 --> 00:31:47,232
+You can check your estimate at ssa
+
+946
+00:31:47,232 --> 00:31:47,759
+dot gov.
+
+947
+00:31:48,109 --> 00:31:49,037
+Question three.
+
+948
+00:31:49,217 --> 00:31:51,138
+Should I pay off my house before
+
+949
+00:31:51,138 --> 00:31:52,039
+retiring early?
+
+950
+00:31:52,219 --> 00:31:54,080
+It can lower your spending and your
+
+951
+00:31:54,080 --> 00:31:55,887
+FI number, which many people like.
+
+952
+00:31:56,067 --> 00:31:57,716
+But it ties up money that could
+
+953
+00:31:57,716 --> 00:31:58,355
+be invested.
+
+954
+00:31:58,535 --> 00:32:00,793
+Many early retirees aim to have their
+
+955
+00:32:00,793 --> 00:32:03,112
+mortgage paid off around the time they
+
+956
+00:32:03,112 --> 00:32:04,699
+retire, for peace of mind.
+
+957
+00:32:05,050 --> 00:32:06,025
+Question four.
+
+958
+00:32:06,205 --> 00:32:08,051
+Do I need a financial advisor?
+
+959
+00:32:08,231 --> 00:32:11,065
+Not necessarily, but a fee only fiduciary
+
+960
+00:32:11,065 --> 00:32:13,346
+or a tax professional can be very
+
+961
+00:32:13,346 --> 00:32:15,696
+helpful for withdrawal strategies,
+
+962
+00:32:15,696 --> 00:32:18,599
+Roth conversions and healthcare subsidies.
+
+963
+00:32:18,779 --> 00:32:21,314
+Even one or two planning sessions can
+
+964
+00:32:21,314 --> 00:32:22,958
+prevent costly mistakes.
+
+965
+00:32:23,308 --> 00:32:24,561
+And question five.
+
+966
+00:32:24,741 --> 00:32:25,972
+What if I start late?
+
+967
+00:32:26,152 --> 00:32:27,793
+Even at forty or forty five,
+
+968
+00:32:27,793 --> 00:32:30,021
+raising your savings rate to thirty or
+
+969
+00:32:30,021 --> 00:32:33,069
+forty percent can significantly move your retirement
+
+970
+00:32:33,069 --> 00:32:33,362
+date.
+
+971
+00:32:33,542 --> 00:32:35,431
+You may not retire at forty five,
+
+972
+00:32:35,431 --> 00:32:38,122
+but you could reach financial independence well
+
+973
+00:32:38,122 --> 00:32:40,183
+before a traditional retirement age.
+
+974
+00:32:40,533 --> 00:32:41,624
+Question six.
+
+975
+00:32:41,804 --> 00:32:43,596
+What about the people who say early
+
+976
+00:32:43,596 --> 00:32:44,672
+retirement is a myth?
+
+977
+00:32:44,852 --> 00:32:46,945
+Some critics point out that many FIRE
+
+978
+00:32:46,945 --> 00:32:49,039
+bloggers earn money from their blogs,
+
+979
+00:32:49,039 --> 00:32:51,133
+so they never really stopped working.
+
+980
+00:32:51,313 --> 00:32:51,963
+That's fair.
+
+981
+00:32:52,143 --> 00:32:54,710
+But many people use the same principles
+
+982
+00:32:54,710 --> 00:32:57,080
+quietly, to switch to work they love
+
+983
+00:32:57,080 --> 00:32:58,726
+or cut back to part time.
+
+984
+00:32:58,906 --> 00:33:01,815
+Financial independence is about options,
+
+985
+00:33:01,815 --> 00:33:02,760
+not idleness.
+
+986
+00:33:03,110 --> 00:33:04,305
+And question seven.
+
+987
+00:33:04,485 --> 00:33:06,471
+What's the single most important number?
+
+988
+00:33:06,651 --> 00:33:07,823
+Your savings rate.
+
+989
+00:33:08,003 --> 00:33:10,078
+It controls how fast you build your
+
+990
+00:33:10,078 --> 00:33:11,974
+portfolio and how much you need.
+
+991
+00:33:12,154 --> 00:33:13,576
+Raise it, keep it high,
+
+992
+00:33:13,576 --> 00:33:14,627
+and give it time.
+
+993
+00:33:14,807 --> 00:33:16,363
+Everything else is detail.
+
+994
+00:33:16,713 --> 00:33:17,572
+Quick recap.
+
+995
+00:33:17,752 --> 00:33:20,179
+Your FI number is roughly twenty five
+
+996
+00:33:20,179 --> 00:33:21,949
+times your yearly spending,
+
+997
+00:33:21,949 --> 00:33:24,114
+or more if you retire very early.
+
+998
+00:33:24,294 --> 00:33:26,188
+The time it takes depends mostly on
+
+999
+00:33:26,188 --> 00:33:27,162
+your savings rate.
+
+1000
+00:33:27,342 --> 00:33:29,513
+Ten percent takes about fifty years.
+
+1001
+00:33:29,693 --> 00:33:31,945
+Fifty percent takes about seventeen.
+
+1002
+00:33:32,295 --> 00:33:33,409
+The twelve steps.
+
+1003
+00:33:33,589 --> 00:33:35,273
+Calculate your real spending.
+
+1004
+00:33:35,453 --> 00:33:36,846
+Find your savings rate.
+
+1005
+00:33:37,026 --> 00:33:38,558
+Cut the big three.
+
+1006
+00:33:38,738 --> 00:33:40,073
+Kill high interest debt.
+
+1007
+00:33:40,253 --> 00:33:42,366
+Build a strong emergency fund.
+
+1008
+00:33:42,546 --> 00:33:44,381
+Max your tax advantages.
+
+1009
+00:33:44,561 --> 00:33:47,359
+Invest in low cost index funds.
+
+1010
+00:33:47,539 --> 00:33:48,769
+Grow your income.
+
+1011
+00:33:48,949 --> 00:33:50,261
+Plan for healthcare.
+
+1012
+00:33:50,441 --> 00:33:52,849
+Plan access before fifty nine and a
+
+1013
+00:33:52,849 --> 00:33:53,193
+half.
+
+1014
+00:33:53,373 --> 00:33:55,080
+Test drive your retirement.
+
+1015
+00:33:55,260 --> 00:33:57,535
+And stay flexible after you retire.
+
+1016
+00:33:57,886 --> 00:33:58,954
+One last thought.
+
+1017
+00:33:59,134 --> 00:34:01,286
+You don't have to decide today whether
+
+1018
+00:34:01,286 --> 00:34:03,156
+you want to retire at forty five,
+
+1019
+00:34:03,156 --> 00:34:04,289
+fifty five or never.
+
+1020
+00:34:04,469 --> 00:34:06,427
+Raising your savings rate gives you the
+
+1021
+00:34:06,427 --> 00:34:06,779
+option.
+
+1022
+00:34:06,959 --> 00:34:09,078
+And options, more than any number,
+
+1023
+00:34:09,078 --> 00:34:11,882
+are what financial freedom really feels like.
+
+1024
+00:34:12,232 --> 00:34:14,440
+This week, calculate two numbers:
+
+1025
+00:34:14,440 --> 00:34:17,317
+your yearly spending and your savings rate.
+
+1026
+00:34:17,497 --> 00:34:19,645
+Those two numbers tell you more about
+
+1027
+00:34:19,645 --> 00:34:21,909
+your future than your salary ever will.
+
+1028
+00:34:22,089 --> 00:34:24,218
+And watch my video on the complete
+
+1029
+00:34:24,218 --> 00:34:25,096
+budget system.
+
+1030
+00:34:25,276 --> 00:34:27,470
+It's how you raise that savings rate.
+
+1031
+00:34:27,650 --> 00:34:28,904
+I'm Ryan Rover.
+
+1032
+00:34:29,084 --> 00:34:30,233
+See you in the next one.
