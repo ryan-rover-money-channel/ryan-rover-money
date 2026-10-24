@@ -1,0 +1,4135 @@
+1
+00:00:00,000 --> 00:00:01,764
+Hi, I'm Ryan Rover.
+
+2
+00:00:01,944 --> 00:00:03,488
+Here's a strange idea.
+
+3
+00:00:03,668 --> 00:00:05,802
+Fifty thousand dollars might be the most
+
+4
+00:00:05,802 --> 00:00:07,883
+dangerous amount of money you can have.
+
+5
+00:00:08,063 --> 00:00:09,340
+Not because it's a lot.
+
+6
+00:00:09,520 --> 00:00:11,636
+Because it's just enough to feel rich,
+
+7
+00:00:11,636 --> 00:00:13,642
+and not nearly enough to actually be
+
+8
+00:00:13,642 --> 00:00:13,920
+rich.
+
+9
+00:00:14,100 --> 00:00:14,962
+And that gap,
+
+10
+00:00:14,962 --> 00:00:17,083
+between how it feels and what it
+
+11
+00:00:17,083 --> 00:00:18,938
+really is, is where a lot of
+
+12
+00:00:18,938 --> 00:00:20,927
+people lose years of progress.
+
+13
+00:00:21,277 --> 00:00:22,751
+Fifty thousand dollars.
+
+14
+00:00:22,931 --> 00:00:24,891
+Enough to buy a new truck in
+
+15
+00:00:24,891 --> 00:00:25,241
+cash.
+
+16
+00:00:25,421 --> 00:00:27,093
+Enough for a down payment.
+
+17
+00:00:27,273 --> 00:00:28,870
+Enough to quit your job for a
+
+18
+00:00:28,870 --> 00:00:29,200
+while.
+
+19
+00:00:29,380 --> 00:00:31,052
+And that's exactly the problem.
+
+20
+00:00:31,402 --> 00:00:33,682
+Think about what fifty thousand dollars looks
+
+21
+00:00:33,682 --> 00:00:34,746
+like in your account.
+
+22
+00:00:34,926 --> 00:00:35,897
+For most people,
+
+23
+00:00:35,897 --> 00:00:38,143
+it's more money than they've ever had
+
+24
+00:00:38,143 --> 00:00:38,932
+in one place.
+
+25
+00:00:39,112 --> 00:00:40,505
+It feels like you've made it.
+
+26
+00:00:40,685 --> 00:00:42,637
+And suddenly, every salesperson,
+
+27
+00:00:42,637 --> 00:00:44,712
+every friend with a business idea,
+
+28
+00:00:44,712 --> 00:00:46,664
+and every voice in your own head
+
+29
+00:00:46,664 --> 00:00:48,556
+has a suggestion for what to do
+
+30
+00:00:48,556 --> 00:00:49,044
+with it.
+
+31
+00:00:49,394 --> 00:00:51,065
+But here's the reality check.
+
+32
+00:00:51,245 --> 00:00:53,356
+Using the four percent rule of thumb,
+
+33
+00:00:53,356 --> 00:00:56,266
+fifty thousand dollars invested could support about
+
+34
+00:00:56,266 --> 00:00:57,863
+two thousand dollars a year.
+
+35
+00:00:58,043 --> 00:00:59,848
+That's less than two hundred dollars a
+
+36
+00:00:59,848 --> 00:01:00,133
+month.
+
+37
+00:01:00,313 --> 00:01:01,927
+It's a fantastic start.
+
+38
+00:01:02,107 --> 00:01:03,778
+It's a terrible finish line.
+
+39
+00:01:03,958 --> 00:01:04,818
+In this video,
+
+40
+00:01:04,818 --> 00:01:07,519
+fifteen dangers that hit people right around
+
+41
+00:01:07,519 --> 00:01:09,483
+this level, and how to walk past
+
+42
+00:01:09,483 --> 00:01:10,588
+every one of them.
+
+43
+00:01:10,938 --> 00:01:13,078
+We'll also look at the whole thing
+
+44
+00:01:13,078 --> 00:01:14,212
+from three angles.
+
+45
+00:01:14,392 --> 00:01:16,866
+The numbers: what fifty thousand can really
+
+46
+00:01:16,866 --> 00:01:18,304
+become if you protect it.
+
+47
+00:01:18,484 --> 00:01:21,159
+The psychology: why this amount messes with
+
+48
+00:01:21,159 --> 00:01:21,781
+your head.
+
+49
+00:01:21,961 --> 00:01:23,034
+And the playbook:
+
+50
+00:01:23,034 --> 00:01:25,432
+exactly what to do with fifty thousand
+
+51
+00:01:25,432 --> 00:01:27,767
+dollars so it turns into five hundred
+
+52
+00:01:27,767 --> 00:01:29,345
+thousand instead of zero.
+
+53
+00:01:29,696 --> 00:01:30,933
+First, the numbers,
+
+54
+00:01:30,933 --> 00:01:33,473
+because they show you exactly what's at
+
+55
+00:01:33,473 --> 00:01:33,863
+stake.
+
+56
+00:01:34,214 --> 00:01:37,094
+Household wealth figures come from the Federal
+
+57
+00:01:37,094 --> 00:01:39,473
+Reserve's Survey of Consumer Finances.
+
+58
+00:01:39,653 --> 00:01:42,081
+Car price and payment data comes from
+
+59
+00:01:42,081 --> 00:01:43,983
+Edmunds and Kelley Blue Book.
+
+60
+00:01:44,163 --> 00:01:46,348
+Fraud data comes from the Federal Trade
+
+61
+00:01:46,348 --> 00:01:48,308
+Commission and the Federal Reserve.
+
+62
+00:01:48,488 --> 00:01:51,292
+Growth examples use a seven percent average
+
+63
+00:01:51,292 --> 00:01:53,444
+yearly return as an illustration,
+
+64
+00:01:53,444 --> 00:01:54,943
+which is not a promise.
+
+65
+00:01:55,123 --> 00:01:56,853
+Markets go up and down.
+
+66
+00:01:57,033 --> 00:01:58,996
+This video is education,
+
+67
+00:01:58,996 --> 00:02:00,714
+not financial advice.
+
+68
+00:02:01,064 --> 00:02:01,807
+Angle one.
+
+69
+00:02:01,987 --> 00:02:02,683
+The numbers.
+
+70
+00:02:02,863 --> 00:02:05,002
+What could fifty thousand dollars become if
+
+71
+00:02:05,002 --> 00:02:06,195
+you just leave it alone?
+
+72
+00:02:06,546 --> 00:02:08,528
+At a seven percent illustration,
+
+73
+00:02:08,528 --> 00:02:11,439
+fifty thousand dollars with nothing added grows
+
+74
+00:02:11,439 --> 00:02:13,792
+to roughly one hundred thousand in ten
+
+75
+00:02:13,792 --> 00:02:16,456
+years, about two hundred thousand in twenty
+
+76
+00:02:16,456 --> 00:02:19,057
+years, and about four hundred six thousand
+
+77
+00:02:19,057 --> 00:02:20,048
+in thirty years.
+
+78
+00:02:20,398 --> 00:02:21,245
+Read that again.
+
+79
+00:02:21,425 --> 00:02:22,917
+Fifty thousand dollars,
+
+80
+00:02:22,917 --> 00:02:26,289
+untouched, could become around four hundred thousand
+
+81
+00:02:26,289 --> 00:02:27,845
+dollars in thirty years.
+
+82
+00:02:28,025 --> 00:02:30,942
+So when someone spends fifty thousand dollars
+
+83
+00:02:30,942 --> 00:02:32,886
+on a new truck at thirty five,
+
+84
+00:02:32,886 --> 00:02:35,154
+the real cost isn't fifty thousand.
+
+85
+00:02:35,334 --> 00:02:37,505
+It's the four hundred thousand that money
+
+86
+00:02:37,505 --> 00:02:39,200
+could have become by sixty five.
+
+87
+00:02:39,380 --> 00:02:42,298
+That's what economists call opportunity cost,
+
+88
+00:02:42,298 --> 00:02:44,372
+and at this level it's enormous.
+
+89
+00:02:44,723 --> 00:02:46,219
+And if you keep adding,
+
+90
+00:02:46,219 --> 00:02:47,521
+it gets much bigger.
+
+91
+00:02:47,701 --> 00:02:50,782
+Fifty thousand dollars plus five hundred dollars
+
+92
+00:02:50,782 --> 00:02:52,965
+a month, at the same seven percent
+
+93
+00:02:52,965 --> 00:02:56,303
+illustration, reaches roughly one million dollars in
+
+94
+00:02:56,303 --> 00:02:57,523
+about thirty years.
+
+95
+00:02:57,873 --> 00:02:59,908
+This is why fifty thousand is such
+
+96
+00:02:59,908 --> 00:03:00,926
+a pivotal number.
+
+97
+00:03:01,106 --> 00:03:03,300
+You're far enough along that compounding has
+
+98
+00:03:03,300 --> 00:03:04,647
+real material to work with.
+
+99
+00:03:04,827 --> 00:03:06,104
+You've proven you can save.
+
+100
+00:03:06,284 --> 00:03:07,808
+And if you keep going,
+
+101
+00:03:07,808 --> 00:03:10,026
+a million dollars is no longer a
+
+102
+00:03:10,026 --> 00:03:10,580
+fantasy.
+
+103
+00:03:10,760 --> 00:03:11,735
+It's a timeline.
+
+104
+00:03:11,915 --> 00:03:13,012
+But if you spend it,
+
+105
+00:03:13,012 --> 00:03:14,384
+you go back to the start,
+
+106
+00:03:14,384 --> 00:03:16,194
+and the hardest part of the climb
+
+107
+00:03:16,194 --> 00:03:16,907
+begins again.
+
+108
+00:03:17,258 --> 00:03:19,022
+Where does fifty thousand put you?
+
+109
+00:03:19,202 --> 00:03:22,033
+The Federal Reserve's Survey of Consumer Finances
+
+110
+00:03:22,033 --> 00:03:24,228
+found the median net worth of families
+
+111
+00:03:24,228 --> 00:03:26,481
+under thirty five was about thirty nine
+
+112
+00:03:26,481 --> 00:03:28,676
+thousand dollars in twenty twenty two.
+
+113
+00:03:28,856 --> 00:03:30,552
+So if you're young and you have
+
+114
+00:03:30,552 --> 00:03:31,810
+fifty thousand dollars,
+
+115
+00:03:31,810 --> 00:03:33,998
+you're already above the middle for your
+
+116
+00:03:33,998 --> 00:03:34,545
+age group.
+
+117
+00:03:34,725 --> 00:03:36,106
+You're doing something right.
+
+118
+00:03:36,286 --> 00:03:38,000
+The goal now is not to undo
+
+119
+00:03:38,000 --> 00:03:38,191
+it.
+
+120
+00:03:38,541 --> 00:03:40,523
+There's one more number that makes this
+
+121
+00:03:40,523 --> 00:03:41,234
+level special.
+
+122
+00:03:41,414 --> 00:03:42,926
+At fifty thousand dollars,
+
+123
+00:03:42,926 --> 00:03:44,729
+a normal year in the market can
+
+124
+00:03:44,729 --> 00:03:47,171
+move your balance by thousands of dollars,
+
+125
+00:03:47,171 --> 00:03:47,811
+up or down.
+
+126
+00:03:47,991 --> 00:03:50,351
+A ten percent drop is five thousand
+
+127
+00:03:50,351 --> 00:03:51,834
+dollars gone on paper.
+
+128
+00:03:52,014 --> 00:03:53,721
+A good year can add the same.
+
+129
+00:03:53,901 --> 00:03:55,046
+For the first time,
+
+130
+00:03:55,046 --> 00:03:57,458
+the market's mood can swing your account
+
+131
+00:03:57,458 --> 00:03:59,026
+by more than you save in a
+
+132
+00:03:59,026 --> 00:03:59,810
+month or two.
+
+133
+00:03:59,990 --> 00:04:01,858
+That's thrilling and terrifying,
+
+134
+00:04:01,858 --> 00:04:03,843
+and it's one of the reasons people
+
+135
+00:04:03,843 --> 00:04:06,352
+make emotional decisions right around here.
+
+136
+00:04:06,703 --> 00:04:08,899
+The way to handle those swings is
+
+137
+00:04:08,899 --> 00:04:09,698
+to zoom out.
+
+138
+00:04:09,878 --> 00:04:11,795
+A single year doesn't matter much on
+
+139
+00:04:11,795 --> 00:04:12,966
+a thirty year journey.
+
+140
+00:04:13,146 --> 00:04:15,778
+What matters is that you stay invested,
+
+141
+00:04:15,778 --> 00:04:16,993
+keep adding money,
+
+142
+00:04:16,993 --> 00:04:19,625
+and give compounding the time it needs.
+
+143
+00:04:19,805 --> 00:04:22,054
+If daily or weekly swings make you
+
+144
+00:04:22,054 --> 00:04:24,634
+nervous, check your balance less often.
+
+145
+00:04:24,814 --> 00:04:26,440
+Once a month is plenty.
+
+146
+00:04:26,620 --> 00:04:28,524
+Once a quarter is even better.
+
+147
+00:04:28,874 --> 00:04:30,209
+So what are the dangers?
+
+148
+00:04:30,389 --> 00:04:31,921
+Here are fifteen of them.
+
+149
+00:04:32,101 --> 00:04:34,263
+The first one is the most common,
+
+150
+00:04:34,263 --> 00:04:35,770
+and it has four wheels.
+
+151
+00:04:36,120 --> 00:04:37,327
+Danger number one.
+
+152
+00:04:37,507 --> 00:04:38,366
+The new car.
+
+153
+00:04:38,716 --> 00:04:41,215
+Kelley Blue Book has reported average new
+
+154
+00:04:41,215 --> 00:04:44,140
+vehicle transaction prices around forty eight to
+
+155
+00:04:44,140 --> 00:04:46,517
+fifty thousand dollars in recent years.
+
+156
+00:04:46,697 --> 00:04:47,744
+In other words,
+
+157
+00:04:47,744 --> 00:04:50,327
+the average new car costs roughly the
+
+158
+00:04:50,327 --> 00:04:52,769
+entire balance we're talking about.
+
+159
+00:04:52,949 --> 00:04:55,231
+And when you have fifty thousand in
+
+160
+00:04:55,231 --> 00:04:57,121
+the bank, buying one in cash,
+
+161
+00:04:57,121 --> 00:04:58,881
+or with a big down payment,
+
+162
+00:04:58,881 --> 00:05:00,055
+feels responsible.
+
+163
+00:05:00,405 --> 00:05:02,680
+But cars lose value fast.
+
+164
+00:05:02,860 --> 00:05:05,052
+Many new cars lose a large share
+
+165
+00:05:05,052 --> 00:05:07,174
+of their value in the first few
+
+166
+00:05:07,174 --> 00:05:07,585
+years.
+
+167
+00:05:07,765 --> 00:05:10,017
+So you trade fifty thousand dollars of
+
+168
+00:05:10,017 --> 00:05:12,270
+money that could grow into hundreds of
+
+169
+00:05:12,270 --> 00:05:14,759
+thousands, for an asset that shrinks every
+
+170
+00:05:14,759 --> 00:05:15,114
+month.
+
+171
+00:05:15,294 --> 00:05:16,817
+And you'll pay insurance,
+
+172
+00:05:16,817 --> 00:05:19,010
+registration and maintenance on top.
+
+173
+00:05:19,360 --> 00:05:21,438
+The fix: if your current car runs
+
+174
+00:05:21,438 --> 00:05:22,320
+well, keep it.
+
+175
+00:05:22,500 --> 00:05:23,933
+When you do need one,
+
+176
+00:05:23,933 --> 00:05:26,116
+a reliable used car that's a few
+
+177
+00:05:26,116 --> 00:05:28,709
+years old lets someone else absorb the
+
+178
+00:05:28,709 --> 00:05:30,279
+steepest drop in value.
+
+179
+00:05:30,459 --> 00:05:31,142
+Set a rule,
+
+180
+00:05:31,142 --> 00:05:33,626
+like never spending more than a fraction
+
+181
+00:05:33,626 --> 00:05:35,799
+of your yearly income on a vehicle.
+
+182
+00:05:35,979 --> 00:05:38,848
+Your fifty thousand stays invested and keeps
+
+183
+00:05:38,848 --> 00:05:39,369
+working.
+
+184
+00:05:39,720 --> 00:05:41,043
+Danger number two.
+
+185
+00:05:41,223 --> 00:05:43,789
+Rushing into a house that's too expensive.
+
+186
+00:05:44,139 --> 00:05:46,706
+Fifty thousand dollars looks like a perfect
+
+187
+00:05:46,706 --> 00:05:47,482
+down payment.
+
+188
+00:05:47,662 --> 00:05:48,864
+And for some people,
+
+189
+00:05:48,864 --> 00:05:50,007
+at the right price,
+
+190
+00:05:50,007 --> 00:05:50,367
+it is.
+
+191
+00:05:50,547 --> 00:05:52,855
+But many buyers use every dollar for
+
+192
+00:05:52,855 --> 00:05:55,099
+the down payment and closing costs,
+
+193
+00:05:55,099 --> 00:05:57,343
+then move in with no emergency fund
+
+194
+00:05:57,343 --> 00:05:57,792
+at all.
+
+195
+00:05:57,972 --> 00:06:00,701
+The first broken water heater goes straight
+
+196
+00:06:00,701 --> 00:06:01,780
+on a credit card.
+
+197
+00:06:02,130 --> 00:06:04,567
+A house also comes with costs the
+
+198
+00:06:04,567 --> 00:06:06,784
+mortgage payment doesn't show:
+
+199
+00:06:06,784 --> 00:06:08,704
+property taxes, insurance,
+
+200
+00:06:08,704 --> 00:06:10,477
+maintenance and repairs.
+
+201
+00:06:10,657 --> 00:06:12,459
+A common rule of thumb is to
+
+202
+00:06:12,459 --> 00:06:14,518
+budget one to two percent of the
+
+203
+00:06:14,518 --> 00:06:17,414
+home's value every year just for maintenance.
+
+204
+00:06:17,594 --> 00:06:19,727
+On a four hundred thousand dollar home,
+
+205
+00:06:19,727 --> 00:06:21,696
+that could be four to eight thousand
+
+206
+00:06:21,696 --> 00:06:22,517
+dollars a year.
+
+207
+00:06:22,867 --> 00:06:24,538
+The fix: before buying,
+
+208
+00:06:24,538 --> 00:06:27,735
+keep a separate emergency fund that survives
+
+209
+00:06:27,735 --> 00:06:30,714
+the purchase, ideally three to six months
+
+210
+00:06:30,714 --> 00:06:31,586
+of expenses.
+
+211
+00:06:31,766 --> 00:06:33,754
+Make sure the total monthly cost,
+
+212
+00:06:33,754 --> 00:06:35,561
+including taxes and insurance,
+
+213
+00:06:35,561 --> 00:06:37,489
+fits comfortably in your budget.
+
+214
+00:06:37,669 --> 00:06:39,933
+A slightly cheaper house with a cushion
+
+215
+00:06:39,933 --> 00:06:42,139
+beats a dream house with nothing left.
+
+216
+00:06:42,490 --> 00:06:43,801
+Danger number three.
+
+217
+00:06:43,981 --> 00:06:45,108
+Lifestyle creep.
+
+218
+00:06:45,458 --> 00:06:47,758
+When you have fifty thousand dollars,
+
+219
+00:06:47,758 --> 00:06:49,312
+small upgrades feel easy.
+
+220
+00:06:49,492 --> 00:06:50,908
+A nicer apartment.
+
+221
+00:06:51,088 --> 00:06:52,482
+A gym with a pool.
+
+222
+00:06:52,662 --> 00:06:53,672
+More restaurants.
+
+223
+00:06:53,852 --> 00:06:55,129
+Better vacations.
+
+224
+00:06:55,309 --> 00:06:57,299
+None of them looks dangerous on its
+
+225
+00:06:57,299 --> 00:06:57,526
+own.
+
+226
+00:06:57,706 --> 00:07:00,362
+But each one raises your monthly costs,
+
+227
+00:07:00,362 --> 00:07:03,222
+and higher monthly costs mean less saving,
+
+228
+00:07:03,222 --> 00:07:03,767
+forever.
+
+229
+00:07:04,117 --> 00:07:05,266
+Here's the hidden math.
+
+230
+00:07:05,446 --> 00:07:07,846
+Every extra one hundred dollars a month
+
+231
+00:07:07,846 --> 00:07:09,262
+you spend, permanently,
+
+232
+00:07:09,262 --> 00:07:11,601
+is about twelve hundred dollars a year
+
+233
+00:07:11,601 --> 00:07:13,201
+that's not being invested.
+
+234
+00:07:13,381 --> 00:07:15,410
+Over thirty years at a seven percent
+
+235
+00:07:15,410 --> 00:07:18,059
+illustration, one hundred dollars a month could
+
+236
+00:07:18,059 --> 00:07:20,313
+have grown to roughly one hundred twenty
+
+237
+00:07:20,313 --> 00:07:21,497
+two thousand dollars.
+
+238
+00:07:21,677 --> 00:07:24,276
+A few small upgrades can quietly cost
+
+239
+00:07:24,276 --> 00:07:25,822
+hundreds of thousands.
+
+240
+00:07:26,172 --> 00:07:28,250
+The fix: upgrade on purpose.
+
+241
+00:07:28,430 --> 00:07:30,504
+Choose the one or two things that
+
+242
+00:07:30,504 --> 00:07:32,516
+genuinely make your life better,
+
+243
+00:07:32,516 --> 00:07:34,339
+and enjoy them without guilt.
+
+244
+00:07:34,519 --> 00:07:36,029
+Keep everything else the same.
+
+245
+00:07:36,209 --> 00:07:38,717
+And whenever you increase a monthly cost,
+
+246
+00:07:38,717 --> 00:07:40,308
+ask how much it adds up to
+
+247
+00:07:40,308 --> 00:07:41,410
+over thirty years.
+
+248
+00:07:41,760 --> 00:07:42,979
+Danger number four.
+
+249
+00:07:43,159 --> 00:07:44,529
+The hot investment tip.
+
+250
+00:07:44,879 --> 00:07:46,822
+Once people know you have money,
+
+251
+00:07:46,822 --> 00:07:48,036
+tips start arriving.
+
+252
+00:07:48,216 --> 00:07:50,237
+A stock that's about to explode.
+
+253
+00:07:50,417 --> 00:07:52,546
+A crypto coin that went up five
+
+254
+00:07:52,546 --> 00:07:53,714
+times last month.
+
+255
+00:07:53,894 --> 00:07:56,029
+A friend who made a fortune on
+
+256
+00:07:56,029 --> 00:07:56,599
+options.
+
+257
+00:07:56,779 --> 00:07:58,357
+With fifty thousand dollars,
+
+258
+00:07:58,357 --> 00:08:00,104
+it's tempting to try to turn it
+
+259
+00:08:00,104 --> 00:08:02,189
+into five hundred thousand overnight.
+
+260
+00:08:02,540 --> 00:08:05,290
+But concentrated bets are how people lose
+
+261
+00:08:05,290 --> 00:08:05,558
+big.
+
+262
+00:08:05,738 --> 00:08:08,240
+A single stock can fall eighty or
+
+263
+00:08:08,240 --> 00:08:10,742
+ninety percent and never recover.
+
+264
+00:08:10,922 --> 00:08:13,627
+Many speculative coins have collapsed.
+
+265
+00:08:13,807 --> 00:08:15,783
+And research on active trading,
+
+266
+00:08:15,783 --> 00:08:18,268
+like work by economists Brad Barber and
+
+267
+00:08:18,268 --> 00:08:21,519
+Terrance Odean, has found that individual investors
+
+268
+00:08:21,519 --> 00:08:23,494
+who trade the most tend to earn
+
+269
+00:08:23,494 --> 00:08:25,789
+less than those who trade the least.
+
+270
+00:08:26,139 --> 00:08:28,543
+The fix: keep the core of your
+
+271
+00:08:28,543 --> 00:08:29,746
+money in broad,
+
+272
+00:08:29,746 --> 00:08:31,990
+low cost, diversified funds.
+
+273
+00:08:32,170 --> 00:08:34,019
+If you really want to speculate,
+
+274
+00:08:34,019 --> 00:08:35,753
+limit it to a small amount you
+
+275
+00:08:35,753 --> 00:08:38,584
+could lose completely without changing your life,
+
+276
+00:08:38,584 --> 00:08:39,740
+maybe a few percent.
+
+277
+00:08:39,920 --> 00:08:43,182
+That way, curiosity doesn't become a catastrophe.
+
+278
+00:08:43,532 --> 00:08:44,809
+Danger number five.
+
+279
+00:08:44,989 --> 00:08:47,311
+Leaving all of it in cash forever.
+
+280
+00:08:47,661 --> 00:08:49,571
+This one is the opposite of the
+
+281
+00:08:49,571 --> 00:08:50,064
+hot tip.
+
+282
+00:08:50,244 --> 00:08:52,369
+Some people get to fifty thousand and
+
+283
+00:08:52,369 --> 00:08:54,149
+are so afraid of losing it that
+
+284
+00:08:54,149 --> 00:08:55,584
+they never invest at all.
+
+285
+00:08:55,764 --> 00:08:57,763
+It sits in a checking account earning
+
+286
+00:08:57,763 --> 00:08:59,491
+nearly nothing, year after year.
+
+287
+00:08:59,842 --> 00:09:01,339
+The problem is inflation.
+
+288
+00:09:01,519 --> 00:09:03,261
+At three percent inflation,
+
+289
+00:09:03,261 --> 00:09:05,455
+money loses about a quarter of its
+
+290
+00:09:05,455 --> 00:09:07,649
+buying power in roughly ten years.
+
+291
+00:09:07,829 --> 00:09:10,014
+So fifty thousand dollars sitting in a
+
+292
+00:09:10,014 --> 00:09:12,313
+zero interest account for a decade might
+
+293
+00:09:12,313 --> 00:09:14,613
+only buy what thirty seven thousand buys
+
+294
+00:09:14,613 --> 00:09:14,958
+today.
+
+295
+00:09:15,138 --> 00:09:17,009
+Playing it too safe is its own
+
+296
+00:09:17,009 --> 00:09:17,820
+kind of risk.
+
+297
+00:09:18,170 --> 00:09:20,368
+The fix: decide how much you need
+
+298
+00:09:20,368 --> 00:09:21,767
+as an emergency fund,
+
+299
+00:09:21,767 --> 00:09:23,698
+and keep that in a high yield
+
+300
+00:09:23,698 --> 00:09:24,764
+savings account.
+
+301
+00:09:24,944 --> 00:09:27,080
+Then invest the rest for the long
+
+302
+00:09:27,080 --> 00:09:29,476
+term, gradually if that feels better,
+
+303
+00:09:29,476 --> 00:09:31,936
+in a diversified mix that matches your
+
+304
+00:09:31,936 --> 00:09:34,331
+timeline and your stomach for ups and
+
+305
+00:09:34,331 --> 00:09:34,720
+downs.
+
+306
+00:09:35,070 --> 00:09:36,451
+Danger number six.
+
+307
+00:09:36,631 --> 00:09:39,650
+Investing in a friend's or relative's business.
+
+308
+00:09:40,000 --> 00:09:42,263
+Your cousin is opening a restaurant.
+
+309
+00:09:42,443 --> 00:09:44,301
+Your friend has an app idea.
+
+310
+00:09:44,481 --> 00:09:46,557
+They need twenty thousand dollars to get
+
+311
+00:09:46,557 --> 00:09:48,011
+started, and you have fifty.
+
+312
+00:09:48,191 --> 00:09:50,164
+Saying no feels selfish.
+
+313
+00:09:50,344 --> 00:09:52,074
+Saying yes feels generous.
+
+314
+00:09:52,254 --> 00:09:54,336
+But small businesses are risky,
+
+315
+00:09:54,336 --> 00:09:56,821
+and a large share don't survive their
+
+316
+00:09:56,821 --> 00:09:58,164
+first several years,
+
+317
+00:09:58,164 --> 00:10:01,119
+according to Bureau of Labor Statistics data
+
+318
+00:10:01,119 --> 00:10:02,529
+on business survival.
+
+319
+00:10:02,879 --> 00:10:05,245
+And when money and relationships mix,
+
+320
+00:10:05,245 --> 00:10:06,396
+you can lose both.
+
+321
+00:10:06,576 --> 00:10:08,315
+If the business struggles,
+
+322
+00:10:08,315 --> 00:10:09,854
+you may feel resentful,
+
+323
+00:10:09,854 --> 00:10:12,463
+and they may feel pressured or ashamed.
+
+324
+00:10:12,643 --> 00:10:15,610
+Some families and friendships never fully recover
+
+325
+00:10:15,610 --> 00:10:17,124
+from a failed investment.
+
+326
+00:10:17,474 --> 00:10:19,222
+The fix: if you want to help,
+
+327
+00:10:19,222 --> 00:10:21,633
+decide on an amount you'd be comfortable
+
+328
+00:10:21,633 --> 00:10:22,778
+treating as a gift,
+
+329
+00:10:22,778 --> 00:10:23,441
+not a loan.
+
+330
+00:10:23,621 --> 00:10:25,997
+Put any real investment in writing,
+
+331
+00:10:25,997 --> 00:10:27,151
+with clear terms.
+
+332
+00:10:27,331 --> 00:10:29,421
+And never invest money you need for
+
+333
+00:10:29,421 --> 00:10:31,452
+your own safety net or retirement.
+
+334
+00:10:31,802 --> 00:10:33,055
+Danger number seven.
+
+335
+00:10:33,235 --> 00:10:35,287
+Quitting your job because you finally have
+
+336
+00:10:35,287 --> 00:10:35,581
+money.
+
+337
+00:10:35,931 --> 00:10:38,647
+Fifty thousand dollars feels like freedom.
+
+338
+00:10:38,827 --> 00:10:40,132
+And for some people,
+
+339
+00:10:40,132 --> 00:10:41,175
+a planned break,
+
+340
+00:10:41,175 --> 00:10:43,523
+a career change or a business launch
+
+341
+00:10:43,523 --> 00:10:44,632
+is exactly right.
+
+342
+00:10:44,812 --> 00:10:46,941
+But many people quit without a plan,
+
+343
+00:10:46,941 --> 00:10:48,655
+assuming the money will last.
+
+344
+00:10:48,835 --> 00:10:51,461
+Spending four thousand dollars a month,
+
+345
+00:10:51,461 --> 00:10:53,885
+fifty thousand lasts about one year.
+
+346
+00:10:54,065 --> 00:10:55,650
+Add health insurance,
+
+347
+00:10:55,650 --> 00:10:57,084
+and it goes faster.
+
+348
+00:10:57,434 --> 00:10:59,098
+And when the money's gone,
+
+349
+00:10:59,098 --> 00:11:01,146
+people often return to work in a
+
+350
+00:11:01,146 --> 00:11:03,514
+worse position, with no savings and a
+
+351
+00:11:03,514 --> 00:11:04,794
+gap on their resume.
+
+352
+00:11:04,974 --> 00:11:07,378
+The fifty thousand that could have grown
+
+353
+00:11:07,378 --> 00:11:08,580
+for decades is gone,
+
+354
+00:11:08,580 --> 00:11:10,083
+and they're back at zero.
+
+355
+00:11:10,433 --> 00:11:12,384
+The fix: if you want to leave,
+
+356
+00:11:12,384 --> 00:11:13,556
+make a plan first.
+
+357
+00:11:13,736 --> 00:11:15,106
+How many months will you fund?
+
+358
+00:11:15,286 --> 00:11:16,586
+What's the goal,
+
+359
+00:11:16,586 --> 00:11:17,399
+a new job,
+
+360
+00:11:17,399 --> 00:11:19,105
+a business, a degree?
+
+361
+00:11:19,285 --> 00:11:20,989
+What's the plan if it doesn't work
+
+362
+00:11:20,989 --> 00:11:21,189
+out?
+
+363
+00:11:21,369 --> 00:11:23,848
+Keep part of your money invested and
+
+364
+00:11:23,848 --> 00:11:26,740
+untouchable, so a break doesn't erase your
+
+365
+00:11:26,740 --> 00:11:27,360
+progress.
+
+366
+00:11:27,710 --> 00:11:28,789
+Quick pause.
+
+367
+00:11:28,969 --> 00:11:30,830
+If you're near fifty thousand,
+
+368
+00:11:30,830 --> 00:11:32,132
+or on your way there,
+
+369
+00:11:32,132 --> 00:11:33,683
+subscribe to the channel.
+
+370
+00:11:33,863 --> 00:11:36,055
+I'm building a full series on every
+
+371
+00:11:36,055 --> 00:11:38,373
+money level, from the first dollar to
+
+372
+00:11:38,373 --> 00:11:40,628
+one million, and new videos come out
+
+373
+00:11:40,628 --> 00:11:41,943
+every couple of days.
+
+374
+00:11:42,123 --> 00:11:44,120
+Okay, danger number eight.
+
+375
+00:11:44,471 --> 00:11:45,748
+Danger number eight.
+
+376
+00:11:45,928 --> 00:11:46,566
+Scams.
+
+377
+00:11:46,917 --> 00:11:49,726
+The Federal Trade Commission has reported that
+
+378
+00:11:49,726 --> 00:11:52,596
+consumers lost more than twelve billion dollars
+
+379
+00:11:52,596 --> 00:11:54,489
+to fraud in twenty twenty four,
+
+380
+00:11:54,489 --> 00:11:57,725
+with investment scams among the costliest categories.
+
+381
+00:11:57,905 --> 00:11:59,325
+And the more money you have,
+
+382
+00:11:59,325 --> 00:12:01,354
+the more attractive you are to scammers.
+
+383
+00:12:01,703 --> 00:12:03,967
+Modern scams are sophisticated.
+
+384
+00:12:04,147 --> 00:12:07,754
+Fake investment platforms that show impressive gains,
+
+385
+00:12:07,754 --> 00:12:09,523
+until you try to withdraw.
+
+386
+00:12:09,703 --> 00:12:12,536
+Romance scams that build trust for months.
+
+387
+00:12:12,716 --> 00:12:14,606
+Calls pretending to be your bank,
+
+388
+00:12:14,606 --> 00:12:16,267
+asking you to move money to a
+
+389
+00:12:16,267 --> 00:12:17,011
+safe account.
+
+390
+00:12:17,191 --> 00:12:19,423
+People who are smart and careful still
+
+391
+00:12:19,423 --> 00:12:20,245
+fall for them.
+
+392
+00:12:20,595 --> 00:12:23,470
+The fix: never move money because someone
+
+393
+00:12:23,470 --> 00:12:25,854
+contacted you and created urgency.
+
+394
+00:12:26,034 --> 00:12:27,792
+Hang up and call your bank using
+
+395
+00:12:27,792 --> 00:12:29,110
+the number on your card.
+
+396
+00:12:29,290 --> 00:12:32,284
+Be suspicious of any investment promising high
+
+397
+00:12:32,284 --> 00:12:33,911
+returns with little risk.
+
+398
+00:12:34,091 --> 00:12:36,143
+And talk to someone you trust before
+
+399
+00:12:36,143 --> 00:12:37,226
+any large transfer.
+
+400
+00:12:37,576 --> 00:12:38,899
+Danger number nine.
+
+401
+00:12:39,079 --> 00:12:40,124
+Overconfidence.
+
+402
+00:12:40,474 --> 00:12:43,453
+Reaching fifty thousand dollars takes discipline,
+
+403
+00:12:43,453 --> 00:12:45,338
+and it's natural to feel proud.
+
+404
+00:12:45,518 --> 00:12:47,991
+But pride can turn into overconfidence.
+
+405
+00:12:48,171 --> 00:12:50,419
+People start believing they have a special
+
+406
+00:12:50,419 --> 00:12:51,329
+talent for money.
+
+407
+00:12:51,509 --> 00:12:52,989
+They take bigger risks,
+
+408
+00:12:52,989 --> 00:12:54,083
+trade more often,
+
+409
+00:12:54,083 --> 00:12:56,336
+or put money into things they don't
+
+410
+00:12:56,336 --> 00:12:57,430
+fully understand.
+
+411
+00:12:57,779 --> 00:13:01,590
+Behavioral finance research has found that overconfident
+
+412
+00:13:01,590 --> 00:13:04,040
+investors tend to trade too much and
+
+413
+00:13:04,040 --> 00:13:05,469
+diversify too little,
+
+414
+00:13:05,469 --> 00:13:07,578
+both of which can hurt returns.
+
+415
+00:13:07,758 --> 00:13:10,291
+Getting to fifty thousand was mostly about
+
+416
+00:13:10,291 --> 00:13:11,497
+saving consistently.
+
+417
+00:13:11,677 --> 00:13:13,778
+Growing it to five hundred thousand is
+
+418
+00:13:13,778 --> 00:13:16,100
+mostly about not interrupting compounding.
+
+419
+00:13:16,451 --> 00:13:18,633
+The fix: remember what got you here.
+
+420
+00:13:18,813 --> 00:13:21,878
+Consistent saving, spending less than you earn,
+
+421
+00:13:21,878 --> 00:13:22,726
+and patience.
+
+422
+00:13:22,906 --> 00:13:25,347
+Write your investment plan down while you're
+
+423
+00:13:25,347 --> 00:13:27,289
+calm, including what you'll do in a
+
+424
+00:13:27,289 --> 00:13:29,452
+market crash, and follow it when you're
+
+425
+00:13:29,452 --> 00:13:29,674
+not.
+
+426
+00:13:30,025 --> 00:13:31,302
+Danger number ten.
+
+427
+00:13:31,482 --> 00:13:33,490
+The wrong financial advisor.
+
+428
+00:13:33,841 --> 00:13:35,461
+At fifty thousand dollars,
+
+429
+00:13:35,461 --> 00:13:38,391
+you start getting attention from people selling
+
+430
+00:13:38,391 --> 00:13:39,576
+financial products.
+
+431
+00:13:39,756 --> 00:13:40,933
+Some are excellent,
+
+432
+00:13:40,933 --> 00:13:43,040
+and some are paid by commission on
+
+433
+00:13:43,040 --> 00:13:43,969
+what they sell,
+
+434
+00:13:43,969 --> 00:13:46,385
+which can create conflicts of interest.
+
+435
+00:13:46,565 --> 00:13:48,635
+High fee products can quietly eat a
+
+436
+00:13:48,635 --> 00:13:50,942
+large part of your growth over decades.
+
+437
+00:13:51,293 --> 00:13:53,747
+A one percent yearly fee doesn't sound
+
+438
+00:13:53,747 --> 00:13:54,392
+like much.
+
+439
+00:13:54,572 --> 00:13:55,939
+But over thirty years,
+
+440
+00:13:55,939 --> 00:13:58,734
+the difference between paying one percent and
+
+441
+00:13:58,734 --> 00:14:00,971
+paying a small fraction of a percent
+
+442
+00:14:00,971 --> 00:14:02,896
+can add up to tens of thousands
+
+443
+00:14:02,896 --> 00:14:05,133
+of dollars, even on a fifty thousand
+
+444
+00:14:05,133 --> 00:14:06,623
+dollar starting balance,
+
+445
+00:14:06,623 --> 00:14:09,108
+because fees compound just like returns.
+
+446
+00:14:09,458 --> 00:14:11,871
+The fix: ask any advisor how they're
+
+447
+00:14:11,871 --> 00:14:13,010
+paid, in writing.
+
+448
+00:14:13,190 --> 00:14:15,081
+Look for fee only advisors who are
+
+449
+00:14:15,081 --> 00:14:17,695
+fiduciaries, meaning they're required to act in
+
+450
+00:14:17,695 --> 00:14:18,751
+your best interest.
+
+451
+00:14:18,931 --> 00:14:21,451
+And compare costs in dollars per year,
+
+452
+00:14:21,451 --> 00:14:22,844
+not just percentages.
+
+453
+00:14:23,194 --> 00:14:24,575
+Danger number eleven.
+
+454
+00:14:24,755 --> 00:14:26,404
+Lending money to people you know.
+
+455
+00:14:26,754 --> 00:14:29,162
+When family and friends know you have
+
+456
+00:14:29,162 --> 00:14:30,724
+money, requests come in.
+
+457
+00:14:30,904 --> 00:14:32,744
+Rent help, a car repair,
+
+458
+00:14:32,744 --> 00:14:33,894
+a medical bill,
+
+459
+00:14:33,894 --> 00:14:34,968
+a fresh start.
+
+460
+00:14:35,148 --> 00:14:36,710
+Many of these are real needs,
+
+461
+00:14:36,710 --> 00:14:38,273
+and wanting to help is a good
+
+462
+00:14:38,273 --> 00:14:38,596
+thing.
+
+463
+00:14:38,776 --> 00:14:41,406
+But informal loans often don't get paid
+
+464
+00:14:41,406 --> 00:14:44,171
+back, and asking for repayment can damage
+
+465
+00:14:44,171 --> 00:14:45,115
+relationships.
+
+466
+00:14:45,465 --> 00:14:47,974
+Every loan that becomes an unplanned gift
+
+467
+00:14:47,974 --> 00:14:49,994
+is money that won't grow for your
+
+468
+00:14:49,994 --> 00:14:50,422
+future.
+
+469
+00:14:50,602 --> 00:14:52,811
+And once word gets around that you
+
+470
+00:14:52,811 --> 00:14:55,281
+lend money, requests tend to multiply.
+
+471
+00:14:55,631 --> 00:14:57,689
+The fix: decide on a yearly helping
+
+472
+00:14:57,689 --> 00:14:59,924
+budget, an amount you can give without
+
+473
+00:14:59,924 --> 00:15:00,983
+hurting your plan.
+
+474
+00:15:01,163 --> 00:15:02,090
+When you help,
+
+475
+00:15:02,090 --> 00:15:03,348
+consider it a gift,
+
+476
+00:15:03,348 --> 00:15:04,077
+not a loan.
+
+477
+00:15:04,257 --> 00:15:06,059
+That way, if it comes back,
+
+478
+00:15:06,059 --> 00:15:07,728
+it's a pleasant surprise.
+
+479
+00:15:07,908 --> 00:15:08,806
+If it doesn't,
+
+480
+00:15:08,806 --> 00:15:10,474
+the relationship survives.
+
+481
+00:15:10,824 --> 00:15:12,240
+Danger number twelve.
+
+482
+00:15:12,420 --> 00:15:16,205
+Having everything invested and no emergency fund.
+
+483
+00:15:16,555 --> 00:15:19,123
+Some people invest every dollar of their
+
+484
+00:15:19,123 --> 00:15:21,756
+fifty thousand, and keep nothing in cash.
+
+485
+00:15:21,936 --> 00:15:23,537
+Then a job loss or a big
+
+486
+00:15:23,537 --> 00:15:25,873
+bill arrives during a market crash,
+
+487
+00:15:25,873 --> 00:15:28,609
+and they're forced to sell investments at
+
+488
+00:15:28,609 --> 00:15:29,076
+a loss.
+
+489
+00:15:29,256 --> 00:15:31,476
+That turns a temporary drop into a
+
+490
+00:15:31,476 --> 00:15:32,391
+permanent one.
+
+491
+00:15:32,741 --> 00:15:35,423
+Market declines often arrive at the same
+
+492
+00:15:35,423 --> 00:15:36,496
+time as layoffs,
+
+493
+00:15:36,496 --> 00:15:39,045
+because both happen during recessions.
+
+494
+00:15:39,225 --> 00:15:41,794
+That's exactly when you're most likely to
+
+495
+00:15:41,794 --> 00:15:44,740
+need cash, and exactly when selling investments
+
+496
+00:15:44,740 --> 00:15:45,680
+hurts the most.
+
+497
+00:15:46,030 --> 00:15:48,096
+The fix: split your money by job.
+
+498
+00:15:48,276 --> 00:15:51,021
+Three to six months of essential expenses
+
+499
+00:15:51,021 --> 00:15:53,164
+in a high yield savings account.
+
+500
+00:15:53,344 --> 00:15:55,387
+The rest invested for the long term.
+
+501
+00:15:55,567 --> 00:15:57,996
+That way, emergencies never force you to
+
+502
+00:15:57,996 --> 00:16:00,060
+sell at the worst possible moment.
+
+503
+00:16:00,411 --> 00:16:01,908
+Danger number thirteen.
+
+504
+00:16:02,088 --> 00:16:04,319
+Using your fifty thousand to pay off
+
+505
+00:16:04,319 --> 00:16:06,860
+cheap debt while ignoring better options.
+
+506
+00:16:07,210 --> 00:16:08,967
+Paying off debt feels great,
+
+507
+00:16:08,967 --> 00:16:11,477
+and high interest debt should usually go
+
+508
+00:16:11,477 --> 00:16:11,854
+first.
+
+509
+00:16:12,034 --> 00:16:14,493
+But some people use all their savings
+
+510
+00:16:14,493 --> 00:16:16,421
+to pay off low interest debt,
+
+511
+00:16:16,421 --> 00:16:18,349
+like a mortgage or a car loan
+
+512
+00:16:18,349 --> 00:16:19,279
+at a low rate,
+
+513
+00:16:19,279 --> 00:16:21,938
+and leave themselves with no cushion and
+
+514
+00:16:21,938 --> 00:16:22,935
+no investments.
+
+515
+00:16:23,286 --> 00:16:25,295
+If your mortgage rate is low and
+
+516
+00:16:25,295 --> 00:16:27,116
+your emergency fund is empty,
+
+517
+00:16:27,116 --> 00:16:29,251
+paying it off early might make you
+
+518
+00:16:29,251 --> 00:16:30,507
+less safe, not more.
+
+519
+00:16:30,687 --> 00:16:32,633
+You can't easily get that money back
+
+520
+00:16:32,633 --> 00:16:34,472
+out of your house in an emergency.
+
+521
+00:16:34,822 --> 00:16:37,260
+The fix: pay off high interest debt
+
+522
+00:16:37,260 --> 00:16:39,419
+first, especially credit cards.
+
+523
+00:16:39,599 --> 00:16:41,584
+Keep a solid emergency fund.
+
+524
+00:16:41,764 --> 00:16:43,390
+Get your full employer match.
+
+525
+00:16:43,570 --> 00:16:45,891
+Then decide about low interest debt,
+
+526
+00:16:45,891 --> 00:16:47,116
+based on your rate,
+
+527
+00:16:47,116 --> 00:16:49,308
+your goals, and how you feel about
+
+528
+00:16:49,308 --> 00:16:49,630
+debt.
+
+529
+00:16:49,810 --> 00:16:50,646
+Order matters.
+
+530
+00:16:50,996 --> 00:16:52,609
+Danger number fourteen.
+
+531
+00:16:52,789 --> 00:16:53,985
+Ignoring taxes.
+
+532
+00:16:54,336 --> 00:16:56,768
+If your fifty thousand dollars sits in
+
+533
+00:16:56,768 --> 00:16:58,432
+a regular taxable account,
+
+534
+00:16:58,432 --> 00:17:00,737
+interest and some gains may be taxed
+
+535
+00:17:00,737 --> 00:17:01,441
+every year.
+
+536
+00:17:01,621 --> 00:17:04,988
+If you're not using tax advantaged accounts,
+
+537
+00:17:04,988 --> 00:17:05,906
+like a 401k,
+
+538
+00:17:05,906 --> 00:17:08,507
+an IRA or a health savings account
+
+539
+00:17:08,507 --> 00:17:11,415
+where eligible, you may be paying more
+
+540
+00:17:11,415 --> 00:17:13,022
+tax than you need to.
+
+541
+00:17:13,372 --> 00:17:16,300
+And selling investments in a regular account
+
+542
+00:17:16,300 --> 00:17:18,364
+can create capital gains taxes.
+
+543
+00:17:18,544 --> 00:17:19,724
+Short term gains,
+
+544
+00:17:19,724 --> 00:17:21,807
+on things held a year or less,
+
+545
+00:17:21,807 --> 00:17:24,445
+are usually taxed at higher rates than
+
+546
+00:17:24,445 --> 00:17:25,556
+long term gains.
+
+547
+00:17:25,736 --> 00:17:28,742
+Frequent trading can quietly raise your tax
+
+548
+00:17:28,742 --> 00:17:29,092
+bill.
+
+549
+00:17:29,442 --> 00:17:32,587
+The fix: use tax advantaged accounts first,
+
+550
+00:17:32,587 --> 00:17:34,782
+within the current IRS limits.
+
+551
+00:17:34,962 --> 00:17:37,132
+Hold long term investments for more than
+
+552
+00:17:37,132 --> 00:17:38,596
+a year when it makes sense.
+
+553
+00:17:38,776 --> 00:17:41,281
+And consider talking to a tax professional
+
+554
+00:17:41,281 --> 00:17:43,189
+once, to make sure your money is
+
+555
+00:17:43,189 --> 00:17:44,442
+in the right buckets.
+
+556
+00:17:44,792 --> 00:17:46,336
+Danger number fifteen.
+
+557
+00:17:46,516 --> 00:17:47,352
+The biggest one.
+
+558
+00:17:47,532 --> 00:17:48,310
+Stopping.
+
+559
+00:17:48,660 --> 00:17:51,440
+Many people reach fifty thousand dollars,
+
+560
+00:17:51,440 --> 00:17:53,338
+feel safe, and stop pushing.
+
+561
+00:17:53,518 --> 00:17:55,306
+They lower their contributions.
+
+562
+00:17:55,486 --> 00:17:56,601
+They stop tracking.
+
+563
+00:17:56,781 --> 00:17:57,536
+They coast.
+
+564
+00:17:57,716 --> 00:18:00,007
+And because fifty thousand feels like a
+
+565
+00:18:00,007 --> 00:18:02,592
+lot, they don't notice that they've stalled.
+
+566
+00:18:02,942 --> 00:18:06,094
+But the difference between stopping and continuing
+
+567
+00:18:06,094 --> 00:18:06,599
+is huge.
+
+568
+00:18:06,779 --> 00:18:09,369
+Fifty thousand left alone might become about
+
+569
+00:18:09,369 --> 00:18:11,724
+four hundred thousand in thirty years at
+
+570
+00:18:11,724 --> 00:18:13,431
+a seven percent illustration.
+
+571
+00:18:13,611 --> 00:18:15,907
+Fifty thousand plus five hundred a month
+
+572
+00:18:15,907 --> 00:18:17,686
+might become about one million.
+
+573
+00:18:17,866 --> 00:18:19,981
+Keeping the habit going is worth more
+
+574
+00:18:19,981 --> 00:18:21,582
+than half a million dollars.
+
+575
+00:18:21,932 --> 00:18:23,880
+The fix: set the next goal before
+
+576
+00:18:23,880 --> 00:18:25,415
+you reach the current one.
+
+577
+00:18:25,595 --> 00:18:27,076
+When you hit fifty thousand,
+
+578
+00:18:27,076 --> 00:18:28,980
+you should already be aiming for one
+
+579
+00:18:28,980 --> 00:18:29,879
+hundred thousand.
+
+580
+00:18:30,059 --> 00:18:32,441
+Keep your automatic contributions running,
+
+581
+00:18:32,441 --> 00:18:34,539
+and raise them every time your income
+
+582
+00:18:34,539 --> 00:18:34,993
+goes up.
+
+583
+00:18:35,343 --> 00:18:37,212
+Let's see these dangers play out.
+
+584
+00:18:37,392 --> 00:18:38,817
+Three example people,
+
+585
+00:18:38,817 --> 00:18:41,464
+each with fifty thousand dollars at age
+
+586
+00:18:41,464 --> 00:18:42,210
+thirty two.
+
+587
+00:18:42,390 --> 00:18:43,338
+They're made up,
+
+588
+00:18:43,338 --> 00:18:45,115
+but each path is one that real
+
+589
+00:18:45,115 --> 00:18:46,419
+people take every day.
+
+590
+00:18:46,769 --> 00:18:48,290
+Person one, Ethan.
+
+591
+00:18:48,470 --> 00:18:51,129
+Ethan has fifty thousand dollars and a
+
+592
+00:18:51,129 --> 00:18:53,439
+car that runs fine but feels old.
+
+593
+00:18:53,619 --> 00:18:55,553
+He buys a new truck for forty
+
+594
+00:18:55,553 --> 00:18:57,288
+eight thousand, pays cash,
+
+595
+00:18:57,288 --> 00:18:58,356
+and feels great.
+
+596
+00:18:58,536 --> 00:19:00,255
+Over the next few years,
+
+597
+00:19:00,255 --> 00:19:02,907
+he upgrades his apartment and takes a
+
+598
+00:19:02,907 --> 00:19:04,770
+couple of expensive trips.
+
+599
+00:19:04,950 --> 00:19:06,485
+He keeps saving a little,
+
+600
+00:19:06,485 --> 00:19:07,713
+but there's no plan.
+
+601
+00:19:07,893 --> 00:19:08,997
+Ten years later,
+
+602
+00:19:08,997 --> 00:19:11,203
+the truck is worth a fraction of
+
+603
+00:19:11,203 --> 00:19:12,100
+what he paid,
+
+604
+00:19:12,100 --> 00:19:15,341
+and Ethan's savings are around fifteen thousand
+
+605
+00:19:15,341 --> 00:19:15,893
+dollars.
+
+606
+00:19:16,073 --> 00:19:18,358
+He's forty two and almost back where
+
+607
+00:19:18,358 --> 00:19:19,056
+he started.
+
+608
+00:19:19,407 --> 00:19:21,137
+Person two, Sofia.
+
+609
+00:19:21,317 --> 00:19:23,530
+Sofia was so nervous about losing her
+
+610
+00:19:23,530 --> 00:19:25,564
+fifty thousand that she left it in
+
+611
+00:19:25,564 --> 00:19:26,820
+her checking account.
+
+612
+00:19:27,000 --> 00:19:28,280
+She kept saving,
+
+613
+00:19:28,280 --> 00:19:31,241
+adding three hundred dollars a month,
+
+614
+00:19:31,241 --> 00:19:32,201
+all in cash.
+
+615
+00:19:32,381 --> 00:19:33,415
+Ten years later,
+
+616
+00:19:33,415 --> 00:19:36,131
+she has about eighty six thousand dollars.
+
+617
+00:19:36,311 --> 00:19:37,364
+That sounds good,
+
+618
+00:19:37,364 --> 00:19:39,594
+but inflation has eaten a large part
+
+619
+00:19:39,594 --> 00:19:40,834
+of its buying power,
+
+620
+00:19:40,834 --> 00:19:43,064
+and she missed a decade of potential
+
+621
+00:19:43,064 --> 00:19:43,498
+growth.
+
+622
+00:19:43,678 --> 00:19:46,536
+She's safe, but she's falling behind without
+
+623
+00:19:46,536 --> 00:19:47,381
+realizing it.
+
+624
+00:19:47,731 --> 00:19:49,519
+Person three, Marcus.
+
+625
+00:19:49,699 --> 00:19:51,696
+Marcus keeps his old car.
+
+626
+00:19:51,876 --> 00:19:54,392
+He sets aside fifteen thousand as an
+
+627
+00:19:54,392 --> 00:19:57,119
+emergency fund in a high yield account,
+
+628
+00:19:57,119 --> 00:20:00,055
+and invests the other thirty five thousand
+
+629
+00:20:00,055 --> 00:20:01,732
+in low cost index funds.
+
+630
+00:20:01,912 --> 00:20:04,288
+He adds five hundred dollars a month,
+
+631
+00:20:04,288 --> 00:20:05,186
+automatically.
+
+632
+00:20:05,366 --> 00:20:06,879
+He ignores the hot tips,
+
+633
+00:20:06,879 --> 00:20:09,275
+says no to a friend's restaurant idea,
+
+634
+00:20:09,275 --> 00:20:11,671
+and keeps going through a market drop.
+
+635
+00:20:11,851 --> 00:20:13,984
+At a seven percent illustration,
+
+636
+00:20:13,984 --> 00:20:16,851
+his investments could be around one hundred
+
+637
+00:20:16,851 --> 00:20:19,852
+fifty seven thousand dollars after ten years,
+
+638
+00:20:19,852 --> 00:20:21,452
+plus his emergency fund.
+
+639
+00:20:21,802 --> 00:20:23,323
+Same starting point.
+
+640
+00:20:23,503 --> 00:20:24,547
+Same age.
+
+641
+00:20:24,727 --> 00:20:25,803
+Ten years later,
+
+642
+00:20:25,803 --> 00:20:28,022
+Ethan has about fifteen thousand,
+
+643
+00:20:28,022 --> 00:20:30,174
+Sofia about eighty six thousand,
+
+644
+00:20:30,174 --> 00:20:33,335
+and Marcus around one hundred seventy thousand,
+
+645
+00:20:33,335 --> 00:20:34,747
+counting his cushion.
+
+646
+00:20:34,927 --> 00:20:37,057
+And the gap keeps widening every year
+
+647
+00:20:37,057 --> 00:20:37,690
+after that.
+
+648
+00:20:37,870 --> 00:20:40,784
+Nobody in this story did anything crazy.
+
+649
+00:20:40,964 --> 00:20:42,381
+Ethan bought a truck.
+
+650
+00:20:42,561 --> 00:20:43,977
+Sofia was careful.
+
+651
+00:20:44,157 --> 00:20:45,608
+Marcus was boring.
+
+652
+00:20:45,788 --> 00:20:46,508
+Boring won.
+
+653
+00:20:46,858 --> 00:20:48,680
+Now let's put some numbers on the
+
+654
+00:20:48,680 --> 00:20:49,122
+choices.
+
+655
+00:20:49,302 --> 00:20:52,128
+Here's what fifty thousand dollars could become
+
+656
+00:20:52,128 --> 00:20:53,210
+over thirty years,
+
+657
+00:20:53,210 --> 00:20:55,014
+depending on what you do next.
+
+658
+00:20:55,194 --> 00:20:57,867
+All of these use simple illustrations,
+
+659
+00:20:57,867 --> 00:20:58,781
+not promises.
+
+660
+00:20:59,131 --> 00:21:00,152
+Scenario one.
+
+661
+00:21:00,332 --> 00:21:01,052
+Spend it.
+
+662
+00:21:01,232 --> 00:21:02,739
+A car, a wedding,
+
+663
+00:21:02,739 --> 00:21:03,891
+a renovation.
+
+664
+00:21:04,071 --> 00:21:04,996
+In thirty years,
+
+665
+00:21:04,996 --> 00:21:07,831
+that fifty thousand is worth nothing financially,
+
+666
+00:21:07,831 --> 00:21:09,739
+though you may have memories or a
+
+667
+00:21:09,739 --> 00:21:10,549
+nicer kitchen.
+
+668
+00:21:10,729 --> 00:21:12,691
+Sometimes that's a fine choice.
+
+669
+00:21:12,871 --> 00:21:14,044
+Just make it knowingly.
+
+670
+00:21:14,224 --> 00:21:15,582
+Scenario two.
+
+671
+00:21:15,762 --> 00:21:18,015
+Leave it in cash at no interest.
+
+672
+00:21:18,195 --> 00:21:19,326
+Thanks to inflation,
+
+673
+00:21:19,326 --> 00:21:21,476
+its buying power in thirty years could
+
+674
+00:21:21,476 --> 00:21:23,061
+be less than half of what it
+
+675
+00:21:23,061 --> 00:21:23,570
+is today.
+
+676
+00:21:23,920 --> 00:21:25,301
+Scenario three.
+
+677
+00:21:25,481 --> 00:21:28,186
+Invest it and never add another dollar.
+
+678
+00:21:28,366 --> 00:21:29,556
+At seven percent,
+
+679
+00:21:29,556 --> 00:21:32,635
+roughly four hundred six thousand dollars in
+
+680
+00:21:32,635 --> 00:21:33,544
+thirty years.
+
+681
+00:21:33,724 --> 00:21:34,851
+Scenario four.
+
+682
+00:21:35,031 --> 00:21:37,240
+Invest it and add five hundred a
+
+683
+00:21:37,240 --> 00:21:37,654
+month.
+
+684
+00:21:37,834 --> 00:21:39,971
+Roughly one million dollars.
+
+685
+00:21:40,151 --> 00:21:41,428
+Scenario five.
+
+686
+00:21:41,608 --> 00:21:43,856
+Invest it and add one thousand a
+
+687
+00:21:43,856 --> 00:21:44,278
+month.
+
+688
+00:21:44,458 --> 00:21:47,082
+Roughly one point six million dollars.
+
+689
+00:21:47,262 --> 00:21:48,678
+Same fifty thousand.
+
+690
+00:21:48,858 --> 00:21:50,356
+Wildly different futures.
+
+691
+00:21:50,706 --> 00:21:52,435
+The lesson isn't that you can never
+
+692
+00:21:52,435 --> 00:21:53,028
+spend money.
+
+693
+00:21:53,208 --> 00:21:54,863
+It's that at fifty thousand,
+
+694
+00:21:54,863 --> 00:21:57,051
+every big decision has a long shadow.
+
+695
+00:21:57,231 --> 00:21:59,831
+A forty thousand dollar purchase today isn't
+
+696
+00:21:59,831 --> 00:22:01,782
+a forty thousand dollar decision.
+
+697
+00:22:01,962 --> 00:22:03,013
+Over thirty years,
+
+698
+00:22:03,013 --> 00:22:05,114
+it could be a three hundred thousand
+
+699
+00:22:05,114 --> 00:22:06,048
+dollar decision.
+
+700
+00:22:06,228 --> 00:22:08,146
+Knowing that doesn't mean saying no to
+
+701
+00:22:08,146 --> 00:22:08,701
+everything.
+
+702
+00:22:08,881 --> 00:22:10,611
+It means saying yes only to the
+
+703
+00:22:10,611 --> 00:22:12,341
+things that are truly worth it.
+
+704
+00:22:12,691 --> 00:22:13,573
+Angle two.
+
+705
+00:22:13,753 --> 00:22:14,891
+The psychology.
+
+706
+00:22:15,071 --> 00:22:17,662
+Why is fifty thousand dollars so dangerous
+
+707
+00:22:17,662 --> 00:22:19,390
+for our brains specifically?
+
+708
+00:22:19,740 --> 00:22:22,424
+The first reason is what psychologists call
+
+709
+00:22:22,424 --> 00:22:23,548
+the wealth effect.
+
+710
+00:22:23,728 --> 00:22:25,280
+When people feel richer,
+
+711
+00:22:25,280 --> 00:22:26,833
+they tend to spend more,
+
+712
+00:22:26,833 --> 00:22:29,161
+even if their income hasn't changed.
+
+713
+00:22:29,341 --> 00:22:31,385
+Seeing a big number in your account
+
+714
+00:22:31,385 --> 00:22:33,312
+makes larger purchases feel safe.
+
+715
+00:22:33,492 --> 00:22:34,708
+That feeling is real,
+
+716
+00:22:34,708 --> 00:22:35,867
+but it's misleading,
+
+717
+00:22:35,867 --> 00:22:38,127
+because fifty thousand dollars is not a
+
+718
+00:22:38,127 --> 00:22:39,343
+lot of yearly income.
+
+719
+00:22:39,693 --> 00:22:42,221
+The second reason is mental accounting,
+
+720
+00:22:42,221 --> 00:22:44,685
+an idea from economist Richard Thaler.
+
+721
+00:22:44,865 --> 00:22:47,252
+We treat money differently depending on where
+
+722
+00:22:47,252 --> 00:22:48,897
+it came from and what bucket we
+
+723
+00:22:48,897 --> 00:22:49,428
+put it in.
+
+724
+00:22:49,608 --> 00:22:51,949
+A bonus or a tax refund feels
+
+725
+00:22:51,949 --> 00:22:53,160
+like fun money.
+
+726
+00:22:53,340 --> 00:22:56,001
+A savings balance that's grown big feels
+
+727
+00:22:56,001 --> 00:22:57,996
+like it's allowed to be spent.
+
+728
+00:22:58,176 --> 00:22:59,209
+But money is money.
+
+729
+00:22:59,389 --> 00:23:01,571
+A dollar from a bonus grows just
+
+730
+00:23:01,571 --> 00:23:03,547
+as well as a dollar from your
+
+731
+00:23:03,547 --> 00:23:04,161
+paycheck.
+
+732
+00:23:04,511 --> 00:23:07,059
+The third reason is that fifty thousand
+
+733
+00:23:07,059 --> 00:23:09,346
+is just big enough to buy something
+
+734
+00:23:09,346 --> 00:23:09,607
+big.
+
+735
+00:23:09,787 --> 00:23:12,216
+Ten thousand dollars can't buy a new
+
+736
+00:23:12,216 --> 00:23:13,363
+truck or a house.
+
+737
+00:23:13,543 --> 00:23:15,500
+A million dollars is so much that
+
+738
+00:23:15,500 --> 00:23:17,456
+one purchase doesn't make a dent.
+
+739
+00:23:17,636 --> 00:23:19,812
+But fifty thousand is right at the
+
+740
+00:23:19,812 --> 00:23:22,373
+size of a single life changing purchase.
+
+741
+00:23:22,553 --> 00:23:25,141
+That makes the temptation stronger than at
+
+742
+00:23:25,141 --> 00:23:26,558
+almost any other level.
+
+743
+00:23:26,908 --> 00:23:28,846
+The fourth reason is the end of
+
+744
+00:23:28,846 --> 00:23:29,346
+urgency.
+
+745
+00:23:29,526 --> 00:23:30,909
+Before fifty thousand,
+
+746
+00:23:30,909 --> 00:23:33,171
+many people were saving out of fear.
+
+747
+00:23:33,351 --> 00:23:35,082
+Fear of emergencies,
+
+748
+00:23:35,082 --> 00:23:36,207
+fear of debt.
+
+749
+00:23:36,387 --> 00:23:37,912
+Once they have a cushion,
+
+750
+00:23:37,912 --> 00:23:39,071
+the fear goes away,
+
+751
+00:23:39,071 --> 00:23:40,718
+and so does the motivation.
+
+752
+00:23:40,898 --> 00:23:42,741
+That's why it's so important to replace
+
+753
+00:23:42,741 --> 00:23:43,545
+fear with a goal.
+
+754
+00:23:43,725 --> 00:23:45,130
+Not, I need money.
+
+755
+00:23:45,310 --> 00:23:47,915
+But, I want to be financially independent
+
+756
+00:23:47,915 --> 00:23:48,804
+by fifty five.
+
+757
+00:23:49,155 --> 00:23:50,838
+And the fifth is social.
+
+758
+00:23:51,018 --> 00:23:53,338
+When people around you notice you're doing
+
+759
+00:23:53,338 --> 00:23:55,217
+well, there's pressure to show it,
+
+760
+00:23:55,217 --> 00:23:56,045
+or to share it.
+
+761
+00:23:56,225 --> 00:23:58,306
+Bigger house, nicer car,
+
+762
+00:23:58,306 --> 00:24:00,126
+more expensive gifts.
+
+763
+00:24:00,306 --> 00:24:03,032
+Remember the research in The Millionaire Next
+
+764
+00:24:03,032 --> 00:24:06,425
+Door: many real millionaires looked completely ordinary.
+
+765
+00:24:06,605 --> 00:24:08,160
+Not showing your wealth is one of
+
+766
+00:24:08,160 --> 00:24:09,716
+the best ways to keep it growing.
+
+767
+00:24:10,066 --> 00:24:11,738
+How do you know if fifty thousand
+
+768
+00:24:11,738 --> 00:24:13,967
+dollars is starting to change your behavior?
+
+769
+00:24:14,147 --> 00:24:16,085
+Here are six warning signs.
+
+770
+00:24:16,265 --> 00:24:17,985
+If you notice two or more,
+
+771
+00:24:17,985 --> 00:24:20,300
+it's time to pause and revisit your
+
+772
+00:24:20,300 --> 00:24:20,631
+plan.
+
+773
+00:24:20,981 --> 00:24:21,642
+Sign one.
+
+774
+00:24:21,822 --> 00:24:23,541
+You've started browsing cars,
+
+775
+00:24:23,541 --> 00:24:25,555
+houses or big trips much more than
+
+776
+00:24:25,555 --> 00:24:28,161
+before, and telling yourself you deserve it.
+
+777
+00:24:28,341 --> 00:24:28,899
+You might.
+
+778
+00:24:29,079 --> 00:24:31,131
+But notice that the browsing started when
+
+779
+00:24:31,131 --> 00:24:31,981
+the balance grew.
+
+780
+00:24:32,161 --> 00:24:32,962
+Sign two.
+
+781
+00:24:33,142 --> 00:24:35,299
+You've stopped tracking your spending,
+
+782
+00:24:35,299 --> 00:24:37,682
+because it doesn't feel necessary anymore.
+
+783
+00:24:37,862 --> 00:24:40,985
+That's exactly when lifestyle creep sneaks in.
+
+784
+00:24:41,335 --> 00:24:42,310
+Sign three.
+
+785
+00:24:42,490 --> 00:24:45,019
+You've lowered or paused your automatic savings,
+
+786
+00:24:45,019 --> 00:24:47,389
+telling yourself you've saved enough for now.
+
+787
+00:24:47,569 --> 00:24:48,394
+Sign four.
+
+788
+00:24:48,574 --> 00:24:50,950
+You've found yourself excited about a single
+
+789
+00:24:50,950 --> 00:24:53,109
+investment that could change everything,
+
+790
+00:24:53,109 --> 00:24:55,215
+and you're thinking about putting a big
+
+791
+00:24:55,215 --> 00:24:56,619
+chunk of your money in it.
+
+792
+00:24:56,799 --> 00:24:58,766
+Excitement is a warning light,
+
+793
+00:24:58,766 --> 00:24:59,946
+not a green light.
+
+794
+00:25:00,296 --> 00:25:01,352
+Sign five.
+
+795
+00:25:01,532 --> 00:25:03,430
+Someone has asked you for money,
+
+796
+00:25:03,430 --> 00:25:04,676
+or for an investment,
+
+797
+00:25:04,676 --> 00:25:06,455
+and you feel guilty saying no.
+
+798
+00:25:06,635 --> 00:25:08,859
+That guilt can lead to decisions you'll
+
+799
+00:25:08,859 --> 00:25:09,259
+regret.
+
+800
+00:25:09,439 --> 00:25:11,302
+Decide your rules in advance,
+
+801
+00:25:11,302 --> 00:25:13,423
+so you don't have to decide under
+
+802
+00:25:13,423 --> 00:25:14,001
+pressure.
+
+803
+00:25:14,181 --> 00:25:15,435
+And sign six.
+
+804
+00:25:15,615 --> 00:25:17,738
+You're thinking about quitting your job,
+
+805
+00:25:17,738 --> 00:25:19,488
+but you don't have a written plan
+
+806
+00:25:19,488 --> 00:25:20,550
+for what comes next.
+
+807
+00:25:20,900 --> 00:25:22,748
+None of these signs mean you're doing
+
+808
+00:25:22,748 --> 00:25:23,547
+something wrong.
+
+809
+00:25:23,727 --> 00:25:26,248
+They're normal human reactions to having more
+
+810
+00:25:26,248 --> 00:25:27,256
+money than before.
+
+811
+00:25:27,436 --> 00:25:29,329
+The point is to notice them early.
+
+812
+00:25:29,509 --> 00:25:30,770
+A five minute pause,
+
+813
+00:25:30,770 --> 00:25:32,789
+and a look at your written plan,
+
+814
+00:25:32,789 --> 00:25:34,745
+can save you years of progress.
+
+815
+00:25:34,925 --> 00:25:37,373
+That's the difference between people who pass
+
+816
+00:25:37,373 --> 00:25:39,441
+through the danger zone and people who
+
+817
+00:25:39,441 --> 00:25:40,312
+get stuck in it.
+
+818
+00:25:40,662 --> 00:25:41,579
+Angle three.
+
+819
+00:25:41,759 --> 00:25:42,455
+The playbook.
+
+820
+00:25:42,635 --> 00:25:44,287
+You have fifty thousand dollars,
+
+821
+00:25:44,287 --> 00:25:45,526
+or you're getting close.
+
+822
+00:25:45,706 --> 00:25:47,370
+Here's what to do with it,
+
+823
+00:25:47,370 --> 00:25:48,202
+step by step.
+
+824
+00:25:48,553 --> 00:25:49,307
+Step one.
+
+825
+00:25:49,487 --> 00:25:51,101
+Wipe out high interest debt.
+
+826
+00:25:51,281 --> 00:25:53,789
+Any credit card or personal loan above
+
+827
+00:25:53,789 --> 00:25:56,297
+about eight to ten percent goes first.
+
+828
+00:25:56,477 --> 00:25:58,725
+Paying off a card at twenty percent
+
+829
+00:25:58,725 --> 00:26:01,167
+is a guaranteed twenty percent return,
+
+830
+00:26:01,167 --> 00:26:04,058
+and nothing in investing reliably beats that.
+
+831
+00:26:04,408 --> 00:26:05,545
+Step two.
+
+832
+00:26:05,725 --> 00:26:07,722
+Set aside your emergency fund.
+
+833
+00:26:07,902 --> 00:26:10,815
+Three to six months of essential expenses,
+
+834
+00:26:10,815 --> 00:26:13,034
+in a high yield savings account.
+
+835
+00:26:13,214 --> 00:26:15,756
+Say your essentials are three thousand dollars
+
+836
+00:26:15,756 --> 00:26:16,198
+a month.
+
+837
+00:26:16,378 --> 00:26:18,328
+That's nine to eighteen thousand.
+
+838
+00:26:18,508 --> 00:26:20,526
+This money is not for investing,
+
+839
+00:26:20,526 --> 00:26:21,409
+not for a car,
+
+840
+00:26:21,409 --> 00:26:22,607
+not for a vacation.
+
+841
+00:26:22,787 --> 00:26:24,424
+It's insurance for your plan.
+
+842
+00:26:24,774 --> 00:26:25,714
+Step three.
+
+843
+00:26:25,894 --> 00:26:27,194
+Max out the free money.
+
+844
+00:26:27,374 --> 00:26:29,760
+Make sure you're getting your full employer
+
+845
+00:26:29,760 --> 00:26:31,647
+match on retirement contributions.
+
+846
+00:26:31,827 --> 00:26:33,626
+Then consider an IRA.
+
+847
+00:26:33,806 --> 00:26:36,275
+Use tax advantaged accounts first,
+
+848
+00:26:36,275 --> 00:26:38,454
+within the current IRS limits,
+
+849
+00:26:38,454 --> 00:26:41,794
+before investing in a regular taxable account.
+
+850
+00:26:42,144 --> 00:26:42,875
+Step four.
+
+851
+00:26:43,055 --> 00:26:44,576
+Invest the rest simply.
+
+852
+00:26:44,756 --> 00:26:47,629
+A diversified mix of low cost index
+
+853
+00:26:47,629 --> 00:26:50,584
+funds, or a single target date fund.
+
+854
+00:26:50,764 --> 00:26:53,013
+Decide how much goes into stocks and
+
+855
+00:26:53,013 --> 00:26:54,262
+how much into bonds,
+
+856
+00:26:54,262 --> 00:26:56,510
+based on your timeline and how you'd
+
+857
+00:26:56,510 --> 00:26:57,510
+feel in a crash.
+
+858
+00:26:57,690 --> 00:27:00,584
+Then automate a monthly contribution on top,
+
+859
+00:27:00,584 --> 00:27:01,834
+and leave it alone.
+
+860
+00:27:02,185 --> 00:27:03,206
+Step five.
+
+861
+00:27:03,386 --> 00:27:04,617
+Write down your rules.
+
+862
+00:27:04,797 --> 00:27:07,630
+No car purchases over a certain amount.
+
+863
+00:27:07,810 --> 00:27:10,450
+No single investment over a few percent
+
+864
+00:27:10,450 --> 00:27:11,397
+of your money.
+
+865
+00:27:11,577 --> 00:27:12,885
+No loans to friends,
+
+866
+00:27:12,885 --> 00:27:15,107
+only gifts within a yearly budget.
+
+867
+00:27:15,287 --> 00:27:17,377
+No moving money because of an urgent
+
+868
+00:27:17,377 --> 00:27:18,015
+phone call.
+
+869
+00:27:18,195 --> 00:27:20,275
+Rules made while calm protect you when
+
+870
+00:27:20,275 --> 00:27:20,877
+you're not.
+
+871
+00:27:21,227 --> 00:27:22,515
+And step six.
+
+872
+00:27:22,695 --> 00:27:24,205
+Set the next milestone.
+
+873
+00:27:24,385 --> 00:27:26,242
+One hundred thousand dollars.
+
+874
+00:27:26,422 --> 00:27:28,404
+Calculate how long it takes at your
+
+875
+00:27:28,404 --> 00:27:29,594
+current savings rate,
+
+876
+00:27:29,594 --> 00:27:31,519
+and put the date on your calendar.
+
+877
+00:27:31,699 --> 00:27:33,629
+At a seven percent illustration,
+
+878
+00:27:33,629 --> 00:27:36,161
+fifty thousand plus one thousand dollars a
+
+879
+00:27:36,161 --> 00:27:38,754
+month reaches one hundred thousand in about
+
+880
+00:27:38,754 --> 00:27:39,478
+three years.
+
+881
+00:27:39,828 --> 00:27:42,078
+Let me answer the questions people ask
+
+882
+00:27:42,078 --> 00:27:43,380
+most about this level.
+
+883
+00:27:43,731 --> 00:27:44,532
+Question one.
+
+884
+00:27:44,712 --> 00:27:46,503
+Should I use fifty thousand for a
+
+885
+00:27:46,503 --> 00:27:47,208
+down payment?
+
+886
+00:27:47,388 --> 00:27:48,559
+It can make sense,
+
+887
+00:27:48,559 --> 00:27:51,031
+if you'll still have an emergency fund
+
+888
+00:27:51,031 --> 00:27:53,763
+after closing, the total monthly cost fits
+
+889
+00:27:53,763 --> 00:27:55,909
+your budget, and you plan to stay
+
+890
+00:27:55,909 --> 00:27:56,885
+for many years.
+
+891
+00:27:57,065 --> 00:27:59,160
+If buying would empty your accounts,
+
+892
+00:27:59,160 --> 00:28:01,255
+it's usually better to wait and keep
+
+893
+00:28:01,255 --> 00:28:01,662
+saving.
+
+894
+00:28:02,013 --> 00:28:02,930
+Question two.
+
+895
+00:28:03,110 --> 00:28:04,951
+Should I invest it all at once
+
+896
+00:28:04,951 --> 00:28:06,117
+or a bit at a time?
+
+897
+00:28:06,297 --> 00:28:08,893
+Research by firms like Vanguard has found
+
+898
+00:28:08,893 --> 00:28:11,173
+that investing a lump sum right away
+
+899
+00:28:11,173 --> 00:28:14,023
+has historically beaten spreading it out more
+
+900
+00:28:14,023 --> 00:28:14,973
+often than not,
+
+901
+00:28:14,973 --> 00:28:17,442
+because markets tend to rise over time.
+
+902
+00:28:17,622 --> 00:28:19,836
+But spreading it over several months can
+
+903
+00:28:19,836 --> 00:28:21,163
+feel easier emotionally.
+
+904
+00:28:21,343 --> 00:28:23,498
+Either is far better than leaving it
+
+905
+00:28:23,498 --> 00:28:24,455
+in cash forever.
+
+906
+00:28:24,805 --> 00:28:25,745
+Question three.
+
+907
+00:28:25,925 --> 00:28:27,966
+Is fifty thousand enough to start a
+
+908
+00:28:27,966 --> 00:28:28,491
+business?
+
+909
+00:28:28,671 --> 00:28:30,490
+For some businesses,
+
+910
+00:28:30,490 --> 00:28:30,854
+yes.
+
+911
+00:28:31,034 --> 00:28:33,568
+But keep your emergency fund separate,
+
+912
+00:28:33,568 --> 00:28:36,369
+start small, test the idea before spending
+
+913
+00:28:36,369 --> 00:28:37,569
+most of the money,
+
+914
+00:28:37,569 --> 00:28:39,904
+and avoid using retirement savings.
+
+915
+00:28:40,084 --> 00:28:43,290
+Many successful businesses start much smaller than
+
+916
+00:28:43,290 --> 00:28:44,252
+people imagine.
+
+917
+00:28:44,602 --> 00:28:45,565
+Question four.
+
+918
+00:28:45,745 --> 00:28:47,630
+What if I got the fifty thousand
+
+919
+00:28:47,630 --> 00:28:48,455
+as a windfall,
+
+920
+00:28:48,455 --> 00:28:50,575
+like an inheritance or a settlement?
+
+921
+00:28:50,755 --> 00:28:51,754
+Slow down.
+
+922
+00:28:51,934 --> 00:28:53,122
+Park it in a safe,
+
+923
+00:28:53,122 --> 00:28:55,300
+insured account for a few months.
+
+924
+00:28:55,480 --> 00:28:57,048
+Don't announce it widely.
+
+925
+00:28:57,228 --> 00:28:59,035
+Pay off high interest debt,
+
+926
+00:28:59,035 --> 00:29:00,775
+build your emergency fund,
+
+927
+00:29:00,775 --> 00:29:03,051
+and consider talking to a fee only
+
+928
+00:29:03,051 --> 00:29:05,192
+planner before any big decision.
+
+929
+00:29:05,542 --> 00:29:06,575
+Question five.
+
+930
+00:29:06,755 --> 00:29:08,702
+Should I buy a rental property with
+
+931
+00:29:08,702 --> 00:29:09,704
+my fifty thousand?
+
+932
+00:29:09,884 --> 00:29:11,794
+Real estate can build wealth,
+
+933
+00:29:11,794 --> 00:29:13,901
+but a single rental with most of
+
+934
+00:29:13,901 --> 00:29:15,811
+your savings tied up in it is
+
+935
+00:29:15,811 --> 00:29:17,523
+concentrated and illiquid.
+
+936
+00:29:17,703 --> 00:29:20,561
+Vacancies, repairs and bad tenants can turn
+
+937
+00:29:20,561 --> 00:29:22,754
+a good deal into a stressful one.
+
+938
+00:29:22,934 --> 00:29:24,143
+If you're interested,
+
+939
+00:29:24,143 --> 00:29:25,755
+learn the numbers carefully,
+
+940
+00:29:25,755 --> 00:29:27,712
+keep your emergency fund separate,
+
+941
+00:29:27,712 --> 00:29:29,497
+and make sure you can cover the
+
+942
+00:29:29,497 --> 00:29:31,397
+mortgage for months without rent.
+
+943
+00:29:31,748 --> 00:29:32,839
+Question six.
+
+944
+00:29:33,019 --> 00:29:35,121
+How do I stop myself from spending
+
+945
+00:29:35,121 --> 00:29:35,306
+it?
+
+946
+00:29:35,486 --> 00:29:35,835
+Move it.
+
+947
+00:29:36,015 --> 00:29:38,891
+Money that's invested in a retirement account
+
+948
+00:29:38,891 --> 00:29:41,257
+or a brokerage account at a different
+
+949
+00:29:41,257 --> 00:29:43,878
+institution is harder to spend on impulse
+
+950
+00:29:43,878 --> 00:29:45,860
+than money sitting in checking.
+
+951
+00:29:46,040 --> 00:29:47,758
+Turn off easy transfers.
+
+952
+00:29:47,938 --> 00:29:49,964
+And give every part of it a
+
+953
+00:29:49,964 --> 00:29:51,465
+job: emergency fund,
+
+954
+00:29:51,465 --> 00:29:53,116
+retirement, next goal.
+
+955
+00:29:53,296 --> 00:29:55,294
+Money with a job is much harder
+
+956
+00:29:55,294 --> 00:29:55,874
+to spend.
+
+957
+00:29:56,224 --> 00:29:57,222
+Question seven.
+
+958
+00:29:57,402 --> 00:29:58,949
+Is it okay to spend some of
+
+959
+00:29:58,949 --> 00:29:59,120
+it?
+
+960
+00:29:59,300 --> 00:30:00,183
+Absolutely.
+
+961
+00:30:00,363 --> 00:30:02,121
+Money is meant to make your life
+
+962
+00:30:02,121 --> 00:30:04,099
+better, and a plan that never allows
+
+963
+00:30:04,099 --> 00:30:05,692
+any enjoyment usually breaks.
+
+964
+00:30:05,872 --> 00:30:08,243
+Many people use a simple rule for
+
+965
+00:30:08,243 --> 00:30:10,040
+windfalls and milestones:
+
+966
+00:30:10,040 --> 00:30:11,477
+spend a small share,
+
+967
+00:30:11,477 --> 00:30:13,345
+maybe five or ten percent,
+
+968
+00:30:13,345 --> 00:30:15,070
+on something meaningful,
+
+969
+00:30:15,070 --> 00:30:16,866
+and put the rest to work.
+
+970
+00:30:17,046 --> 00:30:19,322
+You get the celebration without losing the
+
+971
+00:30:19,322 --> 00:30:19,810
+momentum.
+
+972
+00:30:20,160 --> 00:30:22,319
+Let's recap the fifteen dangers.
+
+973
+00:30:22,499 --> 00:30:23,451
+The new car.
+
+974
+00:30:23,631 --> 00:30:25,164
+The house you can't afford yet.
+
+975
+00:30:25,344 --> 00:30:26,690
+Lifestyle creep.
+
+976
+00:30:26,870 --> 00:30:28,124
+The hot investment tip.
+
+977
+00:30:28,304 --> 00:30:29,767
+Leaving it all in cash.
+
+978
+00:30:29,947 --> 00:30:31,874
+The friend's business idea.
+
+979
+00:30:32,054 --> 00:30:33,204
+Quitting too early.
+
+980
+00:30:33,384 --> 00:30:34,313
+And scams.
+
+981
+00:30:34,663 --> 00:30:35,847
+Overconfidence.
+
+982
+00:30:36,027 --> 00:30:37,362
+The wrong advisor.
+
+983
+00:30:37,542 --> 00:30:38,320
+Lending money.
+
+984
+00:30:38,500 --> 00:30:39,916
+No emergency fund.
+
+985
+00:30:40,096 --> 00:30:41,853
+Paying off cheap debt in the wrong
+
+986
+00:30:41,853 --> 00:30:42,163
+order.
+
+987
+00:30:42,343 --> 00:30:43,678
+Ignoring taxes.
+
+988
+00:30:43,858 --> 00:30:45,897
+And the biggest danger of all:
+
+989
+00:30:45,897 --> 00:30:47,120
+stopping too soon.
+
+990
+00:30:47,471 --> 00:30:48,841
+And the three angles.
+
+991
+00:30:49,021 --> 00:30:51,716
+The numbers: fifty thousand left alone could
+
+992
+00:30:51,716 --> 00:30:53,921
+become around four hundred thousand,
+
+993
+00:30:53,921 --> 00:30:55,514
+and with steady additions,
+
+994
+00:30:55,514 --> 00:30:56,556
+around a million.
+
+995
+00:30:56,736 --> 00:30:59,262
+The psychology: the wealth effect,
+
+996
+00:30:59,262 --> 00:31:02,308
+mental accounting and the end of urgency.
+
+997
+00:31:02,488 --> 00:31:03,609
+And the playbook:
+
+998
+00:31:03,609 --> 00:31:04,928
+kill expensive debt,
+
+999
+00:31:04,928 --> 00:31:06,115
+build the cushion,
+
+1000
+00:31:06,115 --> 00:31:07,433
+grab the free money,
+
+1001
+00:31:07,433 --> 00:31:09,543
+invest simply, write your rules,
+
+1002
+00:31:09,543 --> 00:31:11,324
+and set the next milestone.
+
+1003
+00:31:11,674 --> 00:31:14,414
+Fifty thousand dollars is a turning point.
+
+1004
+00:31:14,594 --> 00:31:16,197
+Behind you is the hardest part of
+
+1005
+00:31:16,197 --> 00:31:18,044
+the climb, the part where every dollar
+
+1006
+00:31:18,044 --> 00:31:19,307
+came from your own effort.
+
+1007
+00:31:19,487 --> 00:31:21,198
+Ahead of you is the part where
+
+1008
+00:31:21,198 --> 00:31:23,308
+your money starts doing more and more
+
+1009
+00:31:23,308 --> 00:31:23,992
+of the work.
+
+1010
+00:31:24,172 --> 00:31:26,013
+The only thing that can stop that
+
+1011
+00:31:26,013 --> 00:31:27,631
+is a decision you make in the
+
+1012
+00:31:27,631 --> 00:31:28,468
+next few years.
+
+1013
+00:31:28,648 --> 00:31:30,391
+Make those decisions slowly,
+
+1014
+00:31:30,391 --> 00:31:32,695
+on purpose, with a plan written down,
+
+1015
+00:31:32,695 --> 00:31:35,498
+and fifty thousand becomes the most important
+
+1016
+00:31:35,498 --> 00:31:38,175
+milestone of your financial life instead of
+
+1017
+00:31:38,175 --> 00:31:39,607
+the most dangerous one.
+
+1018
+00:31:39,958 --> 00:31:41,421
+So here's your homework.
+
+1019
+00:31:41,601 --> 00:31:43,243
+If you're near fifty thousand,
+
+1020
+00:31:43,243 --> 00:31:44,886
+write down your rules tonight.
+
+1021
+00:31:45,066 --> 00:31:46,003
+The car limit,
+
+1022
+00:31:46,003 --> 00:31:47,475
+the speculation limit,
+
+1023
+00:31:47,475 --> 00:31:48,747
+the lending budget.
+
+1024
+00:31:48,927 --> 00:31:50,389
+If you're not there yet,
+
+1025
+00:31:50,389 --> 00:31:52,400
+save this video for when you are,
+
+1026
+00:31:52,400 --> 00:31:54,959
+because the day that balance crosses fifty
+
+1027
+00:31:54,959 --> 00:31:57,641
+thousand, the temptations will show up fast,
+
+1028
+00:31:57,641 --> 00:31:59,652
+and it helps to have your answers
+
+1029
+00:31:59,652 --> 00:32:00,931
+ready before they do.
+
+1030
+00:32:01,111 --> 00:32:02,764
+If you want the full step by
+
+1031
+00:32:02,764 --> 00:32:04,594
+step plan, it's in my playbook,
+
+1032
+00:32:04,594 --> 00:32:06,011
+link in the description.
+
+1033
+00:32:06,191 --> 00:32:07,421
+I'm Ryan Rover.
+
+1034
+00:32:07,601 --> 00:32:08,658
+See you in the next one.
