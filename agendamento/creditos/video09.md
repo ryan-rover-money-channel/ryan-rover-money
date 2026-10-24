@@ -1,0 +1,278 @@
+# Photo credits: Why $50,000 Is the Most Dangerous Amount of Money to Have
+
+All photos from Wikimedia Commons.
+
+- [Savings Bank Building Marquette MI 2009 detail.jpg](https://commons.wikimedia.org/wiki/File:Savings_Bank_Building_Marquette_MI_2009_detail.jpg) by Andrew Jameson, CC BY-SA 3.0
+- [55 Wall Street 003.jpg](https://commons.wikimedia.org/wiki/File:55_Wall_Street_003.jpg) by Kidfly182, CC BY 4.0
+- [55 Wall Street 001.jpg](https://commons.wikimedia.org/wiki/File:55_Wall_Street_001.jpg) by Kidfly182, CC BY 4.0
+- [55 Wall Street 002.jpg](https://commons.wikimedia.org/wiki/File:55_Wall_Street_002.jpg) by Kidfly182, CC BY 4.0
+- [United States National Bank Building, Portland, Oregon (2012) - 22.JPG](https://commons.wikimedia.org/wiki/File:United_States_National_Bank_Building,_Portland,_Oregon_(2012)_-_22.JPG) by Another Believer, CC BY-SA 3.0
+- [HP 10bII+ Financial Calculator with Soft Case.jpg](https://commons.wikimedia.org/wiki/File:HP_10bII%2B_Financial_Calculator_with_Soft_Case.jpg) by Wiki.cullin, CC BY 4.0
+- [Backside of Financial Calculator Hewlett-Packard HP-12C built from 1981, this item produced 1988.jpg](https://commons.wikimedia.org/wiki/File:Backside_of_Financial_Calculator_Hewlett-Packard_HP-12C_built_from_1981,_this_item_produced_1988.jpg) by Pittigrilli, CC0
+- [Financial Calculator Hewlett-Packard HP-12C built from 1981, this item was produced in 1988.jpg](https://commons.wikimedia.org/wiki/File:Financial_Calculator_Hewlett-Packard_HP-12C_built_from_1981,_this_item_was_produced_in_1988.jpg) by Pittigrilli, CC0
+- [Les 32 vents de Provence.jpg](https://commons.wikimedia.org/wiki/File:Les_32_vents_de_Provence.jpg) by Compo, CC BY-SA 4.0
+- [Mediterranean chart fourteenth century2.jpg](https://commons.wikimedia.org/wiki/File:Mediterranean_chart_fourteenth_century2.jpg) by anonymous, probably Genoan, Public domain
+- [Compass rose Langdon Street downtown Montpelier VT August 2016.jpg](https://commons.wikimedia.org/wiki/File:Compass_rose_Langdon_Street_downtown_Montpelier_VT_August_2016.jpg) by Artaxerxes, CC BY-SA 3.0
+- [Horizontal panorama of the Federal Reserve Bank Building of Atlanta.jpg](https://commons.wikimedia.org/wiki/File:Horizontal_panorama_of_the_Federal_Reserve_Bank_Building_of_Atlanta.jpg) by Marc Merlin, CC BY-SA 4.0
+- [Entrance to the 1920 Federal Reserve Bank building in Dallas, Texas.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_the_1920_Federal_Reserve_Bank_building_in_Dallas,_Texas.jpg) by Carol M. Highsmith, Public domain
+- [Federal-reserve-bank-of-chicago.JPG](https://commons.wikimedia.org/wiki/File:Federal-reserve-bank-of-chicago.JPG) by Azamus2011, CC BY-SA 3.0
+- [1938 Dodge Brothers pickup truck (16598619396).jpg](https://commons.wikimedia.org/wiki/File:1938_Dodge_Brothers_pickup_truck_(16598619396).jpg) by Michel Curi, CC BY 2.0
+- [Michael Smith 93 Pickup Truck Donington Park 2024.jpg](https://commons.wikimedia.org/wiki/File:Michael_Smith_93_Pickup_Truck_Donington_Park_2024.jpg) by BWard 1997, CC BY 4.0
+- [Ryan Hadfield 44 Pickup Truck Donington Park 2024.jpg](https://commons.wikimedia.org/wiki/File:Ryan_Hadfield_44_Pickup_Truck_Donington_Park_2024.jpg) by BWard 1997, CC BY 4.0
+- [Inyo Mountain Wilderness (49924160056).jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49924160056).jpg) by blmcalifornia, Public domain
+- [Inyo Mountain Wilderness (49754122802).jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49754122802).jpg) by blmcalifornia, Public domain
+- [Inyo Mountain Wilderness (49753258623).jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49753258623).jpg) by blmcalifornia, Public domain
+- [Young Women at University Graduation - Vilnius - Lithuania - (27586617180) (2).jpg](https://commons.wikimedia.org/wiki/File:Young_Women_at_University_Graduation_-_Vilnius_-_Lithuania_-_(27586617180)_(2).jpg) by Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0
+- [Cultural dance on graduation day.jpg](https://commons.wikimedia.org/wiki/File:Cultural_dance_on_graduation_day.jpg) by Jalamcy2023, CC BY-SA 4.0
+- [USNA Graduation (49923264893).jpg](https://commons.wikimedia.org/wiki/File:USNA_Graduation_(49923264893).jpg) by United States Naval Academy Photo Archive, Public domain
+- [UK Stock Market - Investing in the United Kingdom.jpg](https://commons.wikimedia.org/wiki/File:UK_Stock_Market_-_Investing_in_the_United_Kingdom.jpg) by forextime.com, CC BY 2.0
+- [Market data on display at Taiwan Stock Exchange 20210208.jpg](https://commons.wikimedia.org/wiki/File:Market_data_on_display_at_Taiwan_Stock_Exchange_20210208.jpg) by ​中華民國總統府, CC BY 2.0
+- [Blur-chart-data-69760.jpg](https://commons.wikimedia.org/wiki/File:Blur-chart-data-69760.jpg) by Negative Space, CC0
+- [Derveaux & Tavernier, Le plan de la ville, cité, université fauxbourg de Paris - Paris Musées.jpg](https://commons.wikimedia.org/wiki/File:Derveaux_%26_Tavernier,_Le_plan_de_la_ville,_cit%C3%A9,_universit%C3%A9_fauxbourg_de_Paris_-_Paris_Mus%C3%A9es.jpg) by Derveaux (editor)
+Melchior Tavernier (author of the model), Public domain
+- [Using a different calendar - geograph.org.uk - 7217361.jpg](https://commons.wikimedia.org/wiki/File:Using_a_different_calendar_-_geograph.org.uk_-_7217361.jpg) by Neil Owen, CC BY-SA 2.0
+- [PlanDeCorones edited.jpg](https://commons.wikimedia.org/wiki/File:PlanDeCorones_edited.jpg) by RaminusFalcon, CC BY-SA 3.0
+- [Seattle - Smith-Gandy car dealership, circa 1960s (55091228432).jpg](https://commons.wikimedia.org/wiki/File:Seattle_-_Smith-Gandy_car_dealership,_circa_1960s_(55091228432).jpg) by Seattle Municipal Archives from Seattle, WA, CC BY 4.0
+- [Car Source Kenosha Burned out car lot.jpg](https://commons.wikimedia.org/wiki/File:Car_Source_Kenosha_Burned_out_car_lot.jpg) by Lightburst, CC BY-SA 4.0
+- [Rotting Car Lot Schertz TX 04.jpg](https://commons.wikimedia.org/wiki/File:Rotting_Car_Lot_Schertz_TX_04.jpg) by Jonmallard, CC BY-SA 4.0
+- [Wall between Castle car park and Old Court, Abergavenny, October 2018 (1).jpg](https://commons.wikimedia.org/wiki/File:Wall_between_Castle_car_park_and_Old_Court,_Abergavenny,_October_2018_(1).jpg) by No Swan So Fine, CC BY-SA 4.0
+- [The old Alfred Street car park seen from Queensgate, Huddersfield - geograph.org.uk - 7585488.jpg](https://commons.wikimedia.org/wiki/File:The_old_Alfred_Street_car_park_seen_from_Queensgate,_Huddersfield_-_geograph.org.uk_-_7585488.jpg) by habiloid, CC BY-SA 2.0
+- [Old Deer Park car park - geograph.org.uk - 5277404.jpg](https://commons.wikimedia.org/wiki/File:Old_Deer_Park_car_park_-_geograph.org.uk_-_5277404.jpg) by Michael Dibb, CC BY-SA 2.0
+- [London Classic Car Show Olympia 2020 Fiat 124 for sale - 49572392633.jpg](https://commons.wikimedia.org/wiki/File:London_Classic_Car_Show_Olympia_2020_Fiat_124_for_sale_-_49572392633.jpg) by tonylanciabeta, CC BY-SA 2.0
+- [-2020-10-18 Sign, Pumpkins and potatoes for sale, Antingham, Norfolk.JPG](https://commons.wikimedia.org/wiki/File:-2020-10-18_Sign,_Pumpkins_and_potatoes_for_sale,_Antingham,_Norfolk.JPG) by Kolforn (Kolforn)
+I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope.
+
+
+
+ This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/4.0CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 truetrue, CC BY-SA 4.0
+- [For Sale (4366070075).jpg](https://commons.wikimedia.org/wiki/File:For_Sale_(4366070075).jpg) by JOHN LLOYD from Concrete, Washington, United States, CC BY 2.0
+- [A house for sale at Viktorijas iela (Ozolnieki).jpg](https://commons.wikimedia.org/wiki/File:A_house_for_sale_at_Viktorijas_iela_(Ozolnieki).jpg) by Андрей Романенко, CC BY-SA 4.0
+- [Prieur Street, Broadmoor, New Orleans - New house for sale, Sept 2023.jpg](https://commons.wikimedia.org/wiki/File:Prieur_Street,_Broadmoor,_New_Orleans_-_New_house_for_sale,_Sept_2023.jpg) by Infrogmation of New Orleans, CC BY-SA 4.0
+- [House for sale in Eugene, Oregon by the Bryon Crosby Team.jpg](https://commons.wikimedia.org/wiki/File:House_for_sale_in_Eugene,_Oregon_by_the_Bryon_Crosby_Team.jpg) by Rick Obst, CC BY 2.0
+- [Chimney & Roof repairs at Blackborough House.jpg](https://commons.wikimedia.org/wiki/File:Chimney_%26_Roof_repairs_at_Blackborough_House.jpg) by HA1256, CC BY-SA 4.0
+- [West Dean House roof repair work 2019.jpg](https://commons.wikimedia.org/wiki/File:West_Dean_House_roof_repair_work_2019.jpg) by Sidpickle, CC BY-SA 4.0
+- [FEMA - 44364 - Roof repair workers in Oklahoma.jpg](https://commons.wikimedia.org/wiki/File:FEMA_-_44364_-_Roof_repair_workers_in_Oklahoma.jpg) by Win Henderson, Public domain
+- [Suburban Hospital main entrance Bethesda MD 20210430 073615 1 crop.jpg](https://commons.wikimedia.org/wiki/File:Suburban_Hospital_main_entrance_Bethesda_MD_20210430_073615_1_crop.jpg) by G. Edward Johnson, CC BY 4.0
+- [Suburban houses near a forest (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Suburban_houses_near_a_forest_(Unsplash).jpg) by Nathan Anderson nathananderson, CC0
+- [Edgewater Estates - Winter in Maple Grove, Minnesota - Suburban Houses (40423461672).jpg](https://commons.wikimedia.org/wiki/File:Edgewater_Estates_-_Winter_in_Maple_Grove,_Minnesota_-_Suburban_Houses_(40423461672).jpg) by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0
+- [Luxury and Sports Car dealership, San Juan, Puerto Rico (USA) (52780558339).jpg](https://commons.wikimedia.org/wiki/File:Luxury_and_Sports_Car_dealership,_San_Juan,_Puerto_Rico_(USA)_(52780558339).jpg) by Charles from Port Chester, New York, CC BY 2.0
+- [Luxury and Sports Car dealership, San Juan, Puerto Rico (USA) (52780777833).jpg](https://commons.wikimedia.org/wiki/File:Luxury_and_Sports_Car_dealership,_San_Juan,_Puerto_Rico_(USA)_(52780777833).jpg) by Charles from Port Chester, New York, CC BY 2.0
+- [Ratnak Luxury Car Showroom.jpg](https://commons.wikimedia.org/wiki/File:Ratnak_Luxury_Car_Showroom.jpg) by Ratnakluxurycardealer.bio, CC0
+- [Analyzing Financial Data (5099605109).jpg](https://commons.wikimedia.org/wiki/File:Analyzing_Financial_Data_(5099605109).jpg) by Dave Dugdale from Superior, USA, CC BY-SA 2.0
+- [20250906 155414 Safeway - shopping cart cup holder (pencils, pens, coupons, lists, calculators).jpg](https://commons.wikimedia.org/wiki/File:20250906_155414_Safeway_-_shopping_cart_cup_holder_(pencils,_pens,_coupons,_lists,_calculators).jpg) by Gayest Frogs, CC BY-SA 4.0
+- [Révision Bac.jpg](https://commons.wikimedia.org/wiki/File:R%C3%A9vision_Bac.jpg) by Turki Samia, CC BY-SA 4.0
+- [Person giving thumbs up gesture while using laptop against dark background in a home office setting.jpg](https://commons.wikimedia.org/wiki/File:Person_giving_thumbs_up_gesture_while_using_laptop_against_dark_background_in_a_home_office_setting.jpg) by Shixart1985, CC BY 2.0
+- [Tattooed woman with laptop (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Tattooed_woman_with_laptop_(Unsplash).jpg) by Brooke Cagle brookecagle, CC0
+- [Employees of Google at their office at Taipei 101 20190417.jpg](https://commons.wikimedia.org/wiki/File:Employees_of_Google_at_their_office_at_Taipei_101_20190417.jpg) by 總統府, CC BY 2.0
+- [Adam Osborne and Osborne 1.jpg](https://commons.wikimedia.org/wiki/File:Adam_Osborne_and_Osborne_1.jpg) by Bill Crouch (-1998), Public domain
+- [European Stock Market concept image.jpg](https://commons.wikimedia.org/wiki/File:European_Stock_Market_concept_image.jpg) by forextime.com, CC BY 2.0
+- [US Stock Market - Investing in the United States.jpg](https://commons.wikimedia.org/wiki/File:US_Stock_Market_-_Investing_in_the_United_States.jpg) by forextime.com, CC BY 2.0
+- [Stock Market Crash In The Saatchi Gallery, Chelsea - London. - Flickr - Jim Linwood.jpg](https://commons.wikimedia.org/wiki/File:Stock_Market_Crash_In_The_Saatchi_Gallery,_Chelsea_-_London._-_Flickr_-_Jim_Linwood.jpg) by Jim Linwood from London, CC BY 2.0
+- [Crowds gathering outside New York Stock Exchange (3).jpg](https://commons.wikimedia.org/wiki/File:Crowds_gathering_outside_New_York_Stock_Exchange_(3).jpg) by Associated Press, Public domain
+- [Crowds gathering outside New York Stock Exchange (4).jpg](https://commons.wikimedia.org/wiki/File:Crowds_gathering_outside_New_York_Stock_Exchange_(4).jpg) by Associated Press, Public domain
+- [Foam paper fraction pies.JPG](https://commons.wikimedia.org/wiki/File:Foam_paper_fraction_pies.JPG) by Bernát Kalló, CC BY-SA 4.0
+- [(Covers to) Playfair. Tableaux d'arithmétique linéaire. (IA dr covers-to-playfair-tableaux-darithmetique-lineaire-14319001).jpg](https://commons.wikimedia.org/wiki/File:(Covers_to)_Playfair._Tableaux_d%27arithm%C3%A9tique_lin%C3%A9aire._(IA_dr_covers-to-playfair-tableaux-darithmetique-lineaire-14319001).jpg) by Playfair, William, 1759-1823, Public domain
+- [(Covers to) Élémens de statistiq. (IA dr covers-to-elemens-de-statistiq-14005001).jpg](https://commons.wikimedia.org/wiki/File:(Covers_to)_%C3%89l%C3%A9mens_de_statistiq._(IA_dr_covers-to-elemens-de-statistiq-14005001).jpg) by Playfair, William, 1759-1823., Public domain
+- [Manufacturers Trust Company Building bank vault door.jpg](https://commons.wikimedia.org/wiki/File:Manufacturers_Trust_Company_Building_bank_vault_door.jpg) by Beyond My Ken, CC BY-SA 4.0
+- [Bouldering Project (old University National Bank) 30 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_30_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [Bouldering Project (old University National Bank) 33 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_33_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [SPAR kolonial mat varehandel hyller (Supermarket interior GROCERY store aisle shelves) Marinade sennep ketsjup Dijon Idun Heinz (mustard ketchup chili sauce) etc Tjøme NORWAY 2023-08-31 IMG 1088.jpg](https://commons.wikimedia.org/wiki/File:SPAR_kolonial_mat_varehandel_hyller_(Supermarket_interior_GROCERY_store_aisle_shelves)_Marinade_sennep_ketsjup_Dijon_Idun_Heinz_(mustard_ketchup_chili_sauce)_etc_Tj%C3%B8me_NORWAY_2023-08-31_IMG_1088.jpg) by Wolfmann, CC BY-SA 4.0
+- [SPAR kolonial mat varehandel hyller (Supermarket interior GROCERY store aisle shelves) Frokostblandinger gryn müsli Axa frukt energi 4-korn blåbær (cereals muesli) etc Tjøme NORWAY 2023-08-31 IMG 1095.jpg](https://commons.wikimedia.org/wiki/File:SPAR_kolonial_mat_varehandel_hyller_(Supermarket_interior_GROCERY_store_aisle_shelves)_Frokostblandinger_gryn_m%C3%BCsli_Axa_frukt_energi_4-korn_bl%C3%A5b%C3%A6r_(cereals_muesli)_etc_Tj%C3%B8me_NORWAY_2023-08-31_IMG_1095.jpg) by Wolfmann, CC BY-SA 4.0
+- [Parsley for 99 cents, and other vegetables, in supermarket in Clearwater, Florida, US on 25 September 2020.jpg](https://commons.wikimedia.org/wiki/File:Parsley_for_99_cents,_and_other_vegetables,_in_supermarket_in_Clearwater,_Florida,_US_on_25_September_2020.jpg) by MatthewHoobin, CC0
+- [Night-Shining Clouds.jpg](https://commons.wikimedia.org/wiki/File:Night-Shining_Clouds.jpg) by Jan Erik Paulsen, CC BY 2.0
+- [2021-04-06 Two party preferred centre-weighted trend-line, R3.jpg](https://commons.wikimedia.org/wiki/File:2021-04-06_Two_party_preferred_centre-weighted_trend-line,_R3.jpg) by MathewMunro, CC BY-SA 4.0
+- [2021-04-06 Two-party preferred centre-weighted trend-line, R3.jpg](https://commons.wikimedia.org/wiki/File:2021-04-06_Two-party_preferred_centre-weighted_trend-line,_R3.jpg) by MathewMunro, CC BY-SA 4.0
+- [Rally for SBJSA-small businesses at City Hall, Calling for passage of the Small Business Jobs Survival Act (SBJSA) (41701700641).jpg](https://commons.wikimedia.org/wiki/File:Rally_for_SBJSA-small_businesses_at_City_Hall,_Calling_for_passage_of_the_Small_Business_Jobs_Survival_Act_(SBJSA)_(41701700641).jpg) by Greenwich Village Society for Historic Preservation, CC BY 2.0
+- [Rally for SBJSA-small businesses at City Hall, Calling for passage of the Small Business Jobs Survival Act (SBJSA) (41701688411).jpg](https://commons.wikimedia.org/wiki/File:Rally_for_SBJSA-small_businesses_at_City_Hall,_Calling_for_passage_of_the_Small_Business_Jobs_Survival_Act_(SBJSA)_(41701688411).jpg) by Greenwich Village Society for Historic Preservation, CC BY 2.0
+- [Rally for SBJSA-small businesses at City Hall, Calling for passage of the Small Business Jobs Survival Act (SBJSA) (40802903955).jpg](https://commons.wikimedia.org/wiki/File:Rally_for_SBJSA-small_businesses_at_City_Hall,_Calling_for_passage_of_the_Small_Business_Jobs_Survival_Act_(SBJSA)_(40802903955).jpg) by Greenwich Village Society for Historic Preservation, CC BY 2.0
+- [MY FRIENDS ARE MOVING TO CHAPELIZOD (THEY MISHEARD THE NAME AS CHAPEL LIZARD)-272154.jpg](https://commons.wikimedia.org/wiki/File:MY_FRIENDS_ARE_MOVING_TO_CHAPELIZOD_(THEY_MISHEARD_THE_NAME_AS_CHAPEL_LIZARD)-272154.jpg) by William Murphy, CC BY-SA 4.0
+- [Model Rosie on a bed - In Black and White (14192377223).jpg](https://commons.wikimedia.org/wiki/File:Model_Rosie_on_a_bed_-_In_Black_and_White_(14192377223).jpg) by Lies Thru a Lens , CC BY 2.0
+- [KGO towers (10322051794).jpg](https://commons.wikimedia.org/wiki/File:KGO_towers_(10322051794).jpg) by Robert Ashworth from Bellingham, WA., USA, CC BY 2.0
+- [SCP Foundation - Just doing my paperwork.jpg](https://commons.wikimedia.org/wiki/File:SCP_Foundation_-_Just_doing_my_paperwork.jpg) by SCP Foundation - Scientific Department, CC BY-SA 4.0
+- [Legal Contract & Signature - Warm Tones.jpg](https://commons.wikimedia.org/wiki/File:Legal_Contract_%26_Signature_-_Warm_Tones.jpg) by Blogtrepreneur, CC BY 2.0
+- [Paperwork to travel to the Dominican Republic (onboard an aircraft).JPG](https://commons.wikimedia.org/wiki/File:Paperwork_to_travel_to_the_Dominican_Republic_(onboard_an_aircraft).JPG) by User:Mattes, CC BY 2.0 de
+- [More London Office Development at Dusk, London, UK - Diliff.jpg](https://commons.wikimedia.org/wiki/File:More_London_Office_Development_at_Dusk,_London,_UK_-_Diliff.jpg) by Diliff, CC BY-SA 3.0
+- [San Francisco City Hall as seen from 100 Van Ness at dusk (wide).jpg](https://commons.wikimedia.org/wiki/File:San_Francisco_City_Hall_as_seen_from_100_Van_Ness_at_dusk_(wide).jpg) by Dllu, CC BY-SA 4.0
+- [Office building in Dunn Loring at dusk.jpg](https://commons.wikimedia.org/wiki/File:Office_building_in_Dunn_Loring_at_dusk.jpg) by Ser_Amantio_di_Nicolao, CC BY-SA 3.0
+- [Saslonch da Plan de Cunfin.jpg](https://commons.wikimedia.org/wiki/File:Saslonch_da_Plan_de_Cunfin.jpg) by This Photo was taken by Wolfgang Moroder.  
+
+Feel free to use my photos, but please mention me as the author and send me a  message. 
+
+
+
+This image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate.
+
+
+
+Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract., CC BY-SA 3.0
+- [Plan de Paris vers 1550 color.jpg](https://commons.wikimedia.org/wiki/File:Plan_de_Paris_vers_1550_color.jpg) by Olivier Truschet, engraver (?)Germain Hoyau, designer (?), Public domain
+- [WMAU ctte operational planning meeting Jan 2010 - calendar.JPG](https://commons.wikimedia.org/wiki/File:WMAU_ctte_operational_planning_meeting_Jan_2010_-_calendar.JPG) by Pfctdayelise, CC BY-SA 3.0
+- [Paperlist.jpg](https://commons.wikimedia.org/wiki/File:Paperlist.jpg) by Glenn Carstens-Peters, CC0
+- [Papierkanten -- 2020 -- 9535.jpg](https://commons.wikimedia.org/wiki/File:Papierkanten_--_2020_--_9535.jpg) by Dietmar Rabich, CC BY-SA 4.0
+- [Darwin (AU), Stokes Hill Wharf -- 2019 -- 4362.jpg](https://commons.wikimedia.org/wiki/File:Darwin_(AU),_Stokes_Hill_Wharf_--_2019_--_4362.jpg) by Dietmar Rabich, CC BY-SA 4.0
+- [Backlit keyboard.jpg](https://commons.wikimedia.org/wiki/File:Backlit_keyboard.jpg) by Colin, CC BY-SA 4.0
+- [Happy Hacking Keyboard Professional 2.jpg](https://commons.wikimedia.org/wiki/File:Happy_Hacking_Keyboard_Professional_2.jpg) by Aon fi, CC BY 3.0
+- [Happy Hacking Keyboard Lite 2 (Black) 2014-03-10.JPG](https://commons.wikimedia.org/wiki/File:Happy_Hacking_Keyboard_Lite_2_(Black)_2014-03-10.JPG) by Asanagi, CC0
+- [Callback Comedy Club (1068618831).jpg](https://commons.wikimedia.org/wiki/File:Callback_Comedy_Club_(1068618831).jpg) by metatron1, CC BY-SA 2.0
+- [Man responds to telephone call.jpg](https://commons.wikimedia.org/wiki/File:Man_responds_to_telephone_call.jpg) by Diane A. Reid (Photographer), Public domain
+- [Bell telephone magazine (1922) (14756063795).jpg](https://commons.wikimedia.org/wiki/File:Bell_telephone_magazine_(1922)_(14756063795).jpg) by Internet Archive Book Images, Public domain
+- [55 Wall Street.jpg](https://commons.wikimedia.org/wiki/File:55_Wall_Street.jpg) by Kidfly182, CC BY 4.0
+- [United States National Bank Building, Portland, Oregon (2012) - 06.JPG](https://commons.wikimedia.org/wiki/File:United_States_National_Bank_Building,_Portland,_Oregon_(2012)_-_06.JPG) by Another Believer, CC BY-SA 3.0
+- [United States National Bank Building, Portland, Oregon (2012) - 17.JPG](https://commons.wikimedia.org/wiki/File:United_States_National_Bank_Building,_Portland,_Oregon_(2012)_-_17.JPG) by Another Believer, CC BY-SA 3.0
+- [Chess game Staunton No. 6 perfil view 8.jpg](https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg) by Wilfredor, CC0
+- [Modern Fianchetto Setup. Chess game Staunton No. 6.jpg](https://commons.wikimedia.org/wiki/File:Modern_Fianchetto_Setup._Chess_game_Staunton_No._6.jpg) by Wilfredor, CC0
+- [Chess game Staunton No. 6.jpg](https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6.jpg) by Wilfredor, CC0
+- [Berlin-Marzahn-Magerviehhof-Friedrichsfelde-Zur-Alten-Boerse-Boersengebaeude-Nr.59-Seitenansicht.jpg](https://commons.wikimedia.org/wiki/File:Berlin-Marzahn-Magerviehhof-Friedrichsfelde-Zur-Alten-Boerse-Boersengebaeude-Nr.59-Seitenansicht.jpg) by Bildarbeiter, CC BY-SA 4.0
+- [Berlin-Marzahn-Magerviehhof-Friedrichsfelde-Zur-Alten-Boerse-Boersengebaeude-Nr.59 II.jpg](https://commons.wikimedia.org/wiki/File:Berlin-Marzahn-Magerviehhof-Friedrichsfelde-Zur-Alten-Boerse-Boersengebaeude-Nr.59_II.jpg) by Bildarbeiter, CC BY-SA 4.0
+- [Berlin-Marzahn-Magerviehhof-Friedrichsfelde-Zur-Alten-Boerse-Boersengebaeude-Nr.59.jpg](https://commons.wikimedia.org/wiki/File:Berlin-Marzahn-Magerviehhof-Friedrichsfelde-Zur-Alten-Boerse-Boersengebaeude-Nr.59.jpg) by Bildarbeiter, CC BY-SA 4.0
+- [USDA-HEP-CAMP Internship Summer 2024 Orientation (20240529-USDA-OSEC-PAS-0156).jpg](https://commons.wikimedia.org/wiki/File:USDA-HEP-CAMP_Internship_Summer_2024_Orientation_(20240529-USDA-OSEC-PAS-0156).jpg) by USDAgov, Public domain
+- [Notebook writing.jpg](https://commons.wikimedia.org/wiki/File:Notebook_writing.jpg) by Jairus Monilla, Public domain
+- [Spiralbinderücken -- 2022 -- 9739 (bw).jpg](https://commons.wikimedia.org/wiki/File:Spiralbinder%C3%BCcken_--_2022_--_9739_(bw).jpg) by Dietmar Rabich, CC BY-SA 4.0
+- [Informal Meeting of Ministers Responsible for Competitiveness (Industry) Handshake (39119244335).jpg](https://commons.wikimedia.org/wiki/File:Informal_Meeting_of_Ministers_Responsible_for_Competitiveness_(Industry)_Handshake_(39119244335).jpg) by EU2018BG Bulgarian Presidency, CC BY 2.0
+- [Informal meeting of environment ministers. Handshake Siim Kiisler and Archie Young (35104353913).jpg](https://commons.wikimedia.org/wiki/File:Informal_meeting_of_environment_ministers._Handshake_Siim_Kiisler_and_Archie_Young_(35104353913).jpg) by EU2017EE Estonian Presidency, CC BY 2.0
+- [Kamal Nath, Union Cabinet Minister of Urban Development, India, arriving in Ras Al Khaimah for the 2011 Horasis Global Arab Business Meeting - Flickr - Horasis.jpg](https://commons.wikimedia.org/wiki/File:Kamal_Nath,_Union_Cabinet_Minister_of_Urban_Development,_India,_arriving_in_Ras_Al_Khaimah_for_the_2011_Horasis_Global_Arab_Business_Meeting_-_Flickr_-_Horasis.jpg) by Richter Frank-Jurgen, CC BY-SA 2.0
+- [USSR 1927-08-01 return receipt postcard to Moscow.jpg](https://commons.wikimedia.org/wiki/File:USSR_1927-08-01_return_receipt_postcard_to_Moscow.jpg) by Russian postal authorities, Public domain
+- [USSR 1927-08-01 reverse of return receipt postcard to Moscow.jpg](https://commons.wikimedia.org/wiki/File:USSR_1927-08-01_reverse_of_return_receipt_postcard_to_Moscow.jpg) by Russian postal authorities, Public domain
+- [Elektrostal, payment receipt.jpg](https://commons.wikimedia.org/wiki/File:Elektrostal,_payment_receipt.jpg) by Scanning Dmitry Makeev, scan date - 2020 year., Public domain
+- [Paperwork for a visit to the DDR, November 1989.jpg](https://commons.wikimedia.org/wiki/File:Paperwork_for_a_visit_to_the_DDR,_November_1989.jpg) by Felix O, Public domain
+- [Fostering Paperwork - 49533805007.jpg](https://commons.wikimedia.org/wiki/File:Fostering_Paperwork_-_49533805007.jpg) by perpetual.fostering, CC BY 2.0
+- [Foster Care Paperwork - 49533579966.jpg](https://commons.wikimedia.org/wiki/File:Foster_Care_Paperwork_-_49533579966.jpg) by perpetual.fostering, CC BY 2.0
+- [Schwerin and Freudenberg family at the dinner table circa 1920.jpg](https://commons.wikimedia.org/wiki/File:Schwerin_and_Freudenberg_family_at_the_dinner_table_circa_1920.jpg) by Hans Bernhard Schwerin, Public domain
+- [Dinner table arrangement with food of a middle class Bangladeshi family 01.jpg](https://commons.wikimedia.org/wiki/File:Dinner_table_arrangement_with_food_of_a_middle_class_Bangladeshi_family_01.jpg) by Afifa Afrin, CC BY-SA 4.0
+- [A Brazilian family in Rio de Janeiro by Jean-Baptiste Debret 1839.jpg](https://commons.wikimedia.org/wiki/File:A_Brazilian_family_in_Rio_de_Janeiro_by_Jean-Baptiste_Debret_1839.jpg) by Jean-Baptiste Debret, Public domain
+- [Rosie (15319871419).jpg](https://commons.wikimedia.org/wiki/File:Rosie_(15319871419).jpg) by Lies Thru a Lens, CC BY 2.0
+- [Rosie (15877346088).jpg](https://commons.wikimedia.org/wiki/File:Rosie_(15877346088).jpg) by Lies Thru a Lens, CC BY 2.0
+- [Rosie (15805912379).jpg](https://commons.wikimedia.org/wiki/File:Rosie_(15805912379).jpg) by Lies Thru a Lens, CC BY 2.0
+- [Princess Mary's Gift Box - Christmas 1914 (10132776506).jpg](https://commons.wikimedia.org/wiki/File:Princess_Mary%27s_Gift_Box_-_Christmas_1914_(10132776506).jpg) by Aussie~mobs, Public domain
+- [Box, gift (AM 1985.5-8).jpg](https://commons.wikimedia.org/wiki/File:Box,_gift_(AM_1985.5-8).jpg) by Adshead & Ramsay, CC BY 4.0
+- [Box, gift (AM 1985.5-4).jpg](https://commons.wikimedia.org/wiki/File:Box,_gift_(AM_1985.5-4).jpg) by Adshead & Ramsay, CC BY 4.0
+- [Jean-Léon Gérôme - The Tulip Folly - Walters 372612.jpg](https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Tulip_Folly_-_Walters_372612.jpg) by Jean-Léon Gérôme, Public domain
+- [Cassaday Grey Granite Company Office Building.jpg](https://commons.wikimedia.org/wiki/File:Cassaday_Grey_Granite_Company_Office_Building.jpg) by Larry D. Moore, CC BY 4.0
+- [Unemployed people gathering outside City Hall.jpg](https://commons.wikimedia.org/wiki/File:Unemployed_people_gathering_outside_City_Hall.jpg) by Associated Press, Public domain
+- [Dunn Loring office park at dusk.jpg](https://commons.wikimedia.org/wiki/File:Dunn_Loring_office_park_at_dusk.jpg) by Ser_Amantio_di_Nicolao, CC BY-SA 3.0
+- [Condon Post Office at dusk on a snowy day.jpg](https://commons.wikimedia.org/wiki/File:Condon_Post_Office_at_dusk_on_a_snowy_day.jpg) by Mattsjc, CC BY 4.0
+- [Office park in Dunn Loring at dusk.jpg](https://commons.wikimedia.org/wiki/File:Office_park_in_Dunn_Loring_at_dusk.jpg) by Ser_Amantio_di_Nicolao, CC BY-SA 3.0
+- [Colorful-plastic-chicken-piggy-bank-indonesia.jpg](https://commons.wikimedia.org/wiki/File:Colorful-plastic-chicken-piggy-bank-indonesia.jpg) by Undeka 11, CC BY-SA 4.0
+- [Model 1925 Kenworth Piggy Bank.jpg](https://commons.wikimedia.org/wiki/File:Model_1925_Kenworth_Piggy_Bank.jpg) by Noah Wulf, CC BY-SA 4.0
+- [A plastic container used as a piggy bank.jpg](https://commons.wikimedia.org/wiki/File:A_plastic_container_used_as_a_piggy_bank.jpg) by Сергей Михель, CC BY-SA 3.0
+- [(Association meeting at York) (BM 1868,0808.4671).jpg](https://commons.wikimedia.org/wiki/File:(Association_meeting_at_York)_(BM_1868,0808.4671).jpg) by unknown, Public domain
+- [Ekaterininsky Palace. Tsarskoe Selo. (34760026411).jpg](https://commons.wikimedia.org/wiki/File:Ekaterininsky_Palace._Tsarskoe_Selo._(34760026411).jpg) by Andrey Korchagin from St. Petersburg, Russia, CC BY-SA 2.0
+- [Credit River at Forks of the Credit Provincial Park.jpg](https://commons.wikimedia.org/wiki/File:Credit_River_at_Forks_of_the_Credit_Provincial_Park.jpg) by The Cosmonaut, CC BY-SA 2.5 ca
+- [Gasoline for Sale sign, stilt house, Oak Ridge, Roatan, Honduras.jpg](https://commons.wikimedia.org/wiki/File:Gasoline_for_Sale_sign,_stilt_house,_Oak_Ridge,_Roatan,_Honduras.jpg) by Cory Doctorow, CC BY-SA 2.0
+- [House for Sale, damaged.JPG](https://commons.wikimedia.org/wiki/File:House_for_Sale,_damaged.JPG) by J.smith, CC BY-SA 3.0
+- [Garden produce sale cart at Myddelton House, Enfield, London, England.jpg](https://commons.wikimedia.org/wiki/File:Garden_produce_sale_cart_at_Myddelton_House,_Enfield,_London,_England.jpg) by Acabashi, CC BY-SA 4.0
+- [Wooden staircase steps in the forest of Hallasan Park Eorimok Trail at dusk on Jeju Island in South Korea.jpg](https://commons.wikimedia.org/wiki/File:Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg) by Basile Morin, CC BY-SA 4.0
+- [Wooden spiral stairs (Nebotičnik, Ljubljana).jpg](https://commons.wikimedia.org/wiki/File:Wooden_spiral_stairs_(Neboti%C4%8Dnik,_Ljubljana).jpg) by Petar Milošević, CC BY-SA 4.0
+- [Bulguksa temple entrance gate stairs flower bed and blue sky in Gyeongju South Korea.jpg](https://commons.wikimedia.org/wiki/File:Bulguksa_temple_entrance_gate_stairs_flower_bed_and_blue_sky_in_Gyeongju_South_Korea.jpg) by Basile Morin, CC BY-SA 4.0
+- [Gillie "helping" with the tax forms (4316094077).jpg](https://commons.wikimedia.org/wiki/File:Gillie_%22helping%22_with_the_tax_forms_(4316094077).jpg) by Dwight Sipler from Stow, MA, USA, CC BY 2.0
+- [JANUS-Tête-à-Tête- Sitting President & President-elect, Barack Obama & Donald Trump squatting next to each other on arm-chairs in the Oval Office on November 10th 2016. (31196987133).jpg](https://commons.wikimedia.org/wiki/File:JANUS-T%C3%AAte-%C3%A0-T%C3%AAte-_Sitting_President_%26_President-elect,_Barack_Obama_%26_Donald_Trump_squatting_next_to_each_other_on_arm-chairs_in_the_Oval_Office_on_November_10th_2016._(31196987133).jpg) by Pete Souza, CC BY 2.0
+- [Nevsky 68 in 2011.JPG](https://commons.wikimedia.org/wiki/File:Nevsky_68_in_2011.JPG) by Polyrus, CC BY-SA 3.0
+- [Plan La Rochelle et environs, 1773, Nicolas Chalmandrier, BNF Gallica.jpg](https://commons.wikimedia.org/wiki/File:Plan_La_Rochelle_et_environs,_1773,_Nicolas_Chalmandrier,_BNF_Gallica.jpg) by Nicolas Chalmandrier. Upload, stitch and restoration by Jebulon, Public domain
+- [Fostering Paperwork and Forms - 49533804572.jpg](https://commons.wikimedia.org/wiki/File:Fostering_Paperwork_and_Forms_-_49533804572.jpg) by perpetual.fostering, CC BY 2.0
+- [USS Tripoli Personnel Processing Paperwork (9319725).jpg](https://commons.wikimedia.org/wiki/File:USS_Tripoli_Personnel_Processing_Paperwork_(9319725).jpg) by U.S. Navy photo by Seaman Paul LeClair, Public domain
+- [Paperwork is done (36639483763).jpg](https://commons.wikimedia.org/wiki/File:Paperwork_is_done_(36639483763).jpg) by Rolf Dietrich Brecher from Germany, CC BY-SA 2.0
+- [Relaxing at home while reading a vintage book on a comfortable couch in a cozy living room.jpg](https://commons.wikimedia.org/wiki/File:Relaxing_at_home_while_reading_a_vintage_book_on_a_comfortable_couch_in_a_cozy_living_room.jpg) by Shixart1985, CC BY 2.0
+- [Enjoying vinyl records while relaxing at home.jpg](https://commons.wikimedia.org/wiki/File:Enjoying_vinyl_records_while_relaxing_at_home.jpg) by Shixart1985, CC BY 2.0
+- [Heidemarie Couch, Civ. (9) (14510642164).jpg](https://commons.wikimedia.org/wiki/File:Heidemarie_Couch,_Civ._(9)_(14510642164).jpg) by U.S. Department of Defense Current Photos, Public domain
+- [2021-03-12 youth unemployment with my trend-line (19mth centre-weighted smoothing).jpg](https://commons.wikimedia.org/wiki/File:2021-03-12_youth_unemployment_with_my_trend-line_(19mth_centre-weighted_smoothing).jpg) by MathewMunro, CC BY-SA 4.0
+- [Inyo Mountain Wilderness (49754133787).jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49754133787).jpg) by blmcalifornia, Public domain
+- [Inyo Mountain Wilderness (49924161211).jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49924161211).jpg) by blmcalifornia, Public domain
+- [Inyo Mountain Wilderness (49753798391).jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49753798391).jpg) by blmcalifornia, Public domain
+- [Pickup Truck Monument, Oak Hill Memorial Park, San Jose, Calif.jpg](https://commons.wikimedia.org/wiki/File:Pickup_Truck_Monument,_Oak_Hill_Memorial_Park,_San_Jose,_Calif.jpg) by KaseyWallace, CC BY-SA 4.0
+- [1964 Chevrolet pickup truck Park-&-Ride U.S. Route 2 West Danville VT May 2021.jpg](https://commons.wikimedia.org/wiki/File:1964_Chevrolet_pickup_truck_Park-%26-Ride_U.S._Route_2_West_Danville_VT_May_2021.jpg) by Artaxerxes, CC BY-SA 4.0
+- [Pickup Truck Racing Donington Park 2026 - 4.jpg](https://commons.wikimedia.org/wiki/File:Pickup_Truck_Racing_Donington_Park_2026_-_4.jpg) by BWard 1997, CC BY 4.0
+- [Bouldering Project (old University National Bank) 31 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_31_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [Bouldering Project (old University National Bank) 36 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_36_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [Bouldering Project (old University National Bank) 37 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_37_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [Editing with a View (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Editing_with_a_View_(Unsplash).jpg) by Avi Richards avirichards, CC0
+- [Young man working on a couch (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Young_man_working_on_a_couch_(Unsplash).jpg) by rawpixel.com rawpixel, CC0
+- [Granier - Bakery and Café in Wood Green - 2.jpg](https://commons.wikimedia.org/wiki/File:Granier_-_Bakery_and_Caf%C3%A9_in_Wood_Green_-_2.jpg) by Alan Stanton, CC BY-SA 2.0
+- [Oregon ANG pilot preparing F-15 flight at Nellis - Weapons Instructor Course.jpg](https://commons.wikimedia.org/wiki/File:Oregon_ANG_pilot_preparing_F-15_flight_at_Nellis_-_Weapons_Instructor_Course.jpg) by John Hughel, Public domain
+- [Silhouettes looking at the sky (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Silhouettes_looking_at_the_sky_(Unsplash).jpg) by Xavier Teo wallofxavier, CC0
+- [Three Men (218277709).jpeg](https://commons.wikimedia.org/wiki/File:Three_Men_(218277709).jpeg) by Erwin Bosman, CC0
+- [HK SKD TKO Po Lam Tsui Lam Estate Square Shopping Mall shop 7-Eleven Store rice bags 8kgs for HKD100 July 2025 R12S 01.jpg](https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_Po_Lam_Tsui_Lam_Estate_Square_Shopping_Mall_shop_7-Eleven_Store_rice_bags_8kgs_for_HKD100_July_2025_R12S_01.jpg) by TONGAU DADSAM, CC0
+- [HK SKD TKO Po Lam Tsui Lam Estate Square Shopping Mall shop 7-Eleven Store rice bags 8kgs for HKD100 July 2025 R12S 03.jpg](https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_Po_Lam_Tsui_Lam_Estate_Square_Shopping_Mall_shop_7-Eleven_Store_rice_bags_8kgs_for_HKD100_July_2025_R12S_03.jpg) by TONGAU DADSAM, CC0
+- [HK TKT 大角咀 Tai Kok Tsui 奧海城 Olympian City 2 shopping mall shoe shop female bags February 2023 Px3.jpg](https://commons.wikimedia.org/wiki/File:HK_TKT_%E5%A4%A7%E8%A7%92%E5%92%80_Tai_Kok_Tsui_%E5%A5%A7%E6%B5%B7%E5%9F%8E_Olympian_City_2_shopping_mall_shoe_shop_female_bags_February_2023_Px3.jpg) by TAOKWNANM 2260, CC BY-SA 4.0
+- [Sand clock Enschede.jpg](https://commons.wikimedia.org/wiki/File:Sand_clock_Enschede.jpg) by Gianluca Miscione, CC BY-SA 4.0
+- [Hourglasses.jpg](https://commons.wikimedia.org/wiki/File:Hourglasses.jpg) by Aaaatu, CC BY-SA 4.0
+- [Multiple hourglasses.jpg](https://commons.wikimedia.org/wiki/File:Multiple_hourglasses.jpg) by Sauvagette, CC BY-SA 4.0
+- [Looking at the laptop 02.jpg](https://commons.wikimedia.org/wiki/File:Looking_at_the_laptop_02.jpg) by Kwameghana(Bright Kwame Ayisi), CC0
+- [Looking at the laptop.jpg](https://commons.wikimedia.org/wiki/File:Looking_at_the_laptop.jpg) by Kwameghana(Bright Kwame Ayisi), CC0
+- [A group of female students looking on a laptop 01.jpg](https://commons.wikimedia.org/wiki/File:A_group_of_female_students_looking_on_a_laptop_01.jpg) by Kwameghana(Bright Kwame Ayisi), CC0
+- [Chest for canopic jars of Wadjren, wood - Museo Egizio Turin C 2432 p03.jpg](https://commons.wikimedia.org/wiki/File:Chest_for_canopic_jars_of_Wadjren,_wood_-_Museo_Egizio_Turin_C_2432_p03.jpg) by unknown, CC0
+- [Chest for canopic jars of Wadjren, wood - Museo Egizio Turin C 2432 p04.jpg](https://commons.wikimedia.org/wiki/File:Chest_for_canopic_jars_of_Wadjren,_wood_-_Museo_Egizio_Turin_C_2432_p04.jpg) by unknown, CC0
+- [Chest for canopic jars of Wadjren, wood - Museo Egizio Turin C 2432 p05.jpg](https://commons.wikimedia.org/wiki/File:Chest_for_canopic_jars_of_Wadjren,_wood_-_Museo_Egizio_Turin_C_2432_p05.jpg) by unknown, CC0
+- [Pickup Truck Racing Donington Park 2026 - 6.jpg](https://commons.wikimedia.org/wiki/File:Pickup_Truck_Racing_Donington_Park_2026_-_6.jpg) by BWard 1997, CC BY 4.0
+- [Pickup Truck Racing Donington Park 2026 - 1.jpg](https://commons.wikimedia.org/wiki/File:Pickup_Truck_Racing_Donington_Park_2026_-_1.jpg) by BWard 1997, CC BY 4.0
+- [Pickup Truck Racing Donington Park 2026 - 2.jpg](https://commons.wikimedia.org/wiki/File:Pickup_Truck_Racing_Donington_Park_2026_-_2.jpg) by BWard 1997, CC BY 4.0
+- [Wayanad - Highway Sign Painter.jpg](https://commons.wikimedia.org/wiki/File:Wayanad_-_Highway_Sign_Painter.jpg) by Ingo Mehling, CC BY-SA 4.0
+- [Water Over Road sign, Carnarvon Highway, Mungindi, Queensland, 2024.jpg](https://commons.wikimedia.org/wiki/File:Water_Over_Road_sign,_Carnarvon_Highway,_Mungindi,_Queensland,_2024.jpg) by Chris Olszewski, CC BY-SA 4.0
+- [Distance road sign, Moonie Highway, Queensland, 2024.jpg](https://commons.wikimedia.org/wiki/File:Distance_road_sign,_Moonie_Highway,_Queensland,_2024.jpg) by Chris Olszewski, CC BY-SA 4.0
+- [Suburban home being demolished.jpg](https://commons.wikimedia.org/wiki/File:Suburban_home_being_demolished.jpg) by Tax Fraud!, CC BY-SA 4.0
+- [Chevrolet Suburban - White House Security (2081620344).jpg](https://commons.wikimedia.org/wiki/File:Chevrolet_Suburban_-_White_House_Security_(2081620344).jpg) by dave_7 from Lethbridge, Canada, CC BY-SA 2.0
+- [Suburban Florist Bethesda MD 2021-12-03 08-29-04 1.jpg](https://commons.wikimedia.org/wiki/File:Suburban_Florist_Bethesda_MD_2021-12-03_08-29-04_1.jpg) by G. Edward Johnson, CC BY 4.0
+- [Backlit Laptop Keyboard.jpg](https://commons.wikimedia.org/wiki/File:Backlit_Laptop_Keyboard.jpg) by Gre123gr, CC0
+- [Browsing for Holiday Reviews.jpg](https://commons.wikimedia.org/wiki/File:Browsing_for_Holiday_Reviews.jpg) by Familydestinationsguide.com Images, CC BY 2.0
+- [Framework Laptop 12 running Sway, Firefox, wvkbd, and htop.jpg](https://commons.wikimedia.org/wiki/File:Framework_Laptop_12_running_Sway,_Firefox,_wvkbd,_and_htop.jpg) by Junaruga, CC0
+- [Stock market in Triest today.JPG](https://commons.wikimedia.org/wiki/File:Stock_market_in_Triest_today.JPG) by User:A,Ocram, Public domain
+- [Old Stock Market Ahmedabad - 2.JPG](https://commons.wikimedia.org/wiki/File:Old_Stock_Market_Ahmedabad_-_2.JPG) by Aksi great, Dipan Shukla, CC BY-SA 3.0
+- [Old Stock Market Ahmedabad - 1.JPG](https://commons.wikimedia.org/wiki/File:Old_Stock_Market_Ahmedabad_-_1.JPG) by Aksi great, Dipan Shukla, CC BY-SA 3.0
+- [Laid Flat (15450020003).jpg](https://commons.wikimedia.org/wiki/File:Laid_Flat_(15450020003).jpg) by Lies Thru a Lens, CC BY 2.0
+- [Crossed (15443661083).jpg](https://commons.wikimedia.org/wiki/File:Crossed_(15443661083).jpg) by Lies Thru a Lens, CC BY 2.0
+- [Rosie (14007742237).jpg](https://commons.wikimedia.org/wiki/File:Rosie_(14007742237).jpg) by Lies Thru a Lens , CC BY 2.0
+- [Sharp Curve Ahead (160426748).jpg](https://commons.wikimedia.org/wiki/File:Sharp_Curve_Ahead_(160426748).jpg) by Gary J. Wood from Toronto, ON, Canada, CC BY-SA 2.0
+- [Malaysia Traffic-signs Warning-sign-10.jpg](https://commons.wikimedia.org/wiki/File:Malaysia_Traffic-signs_Warning-sign-10.jpg) by CEphoto, Uwe Aranas, CC BY-SA 3.0
+- [I-295 sb, Al-Jo curve sign, May 2022.jpg](https://commons.wikimedia.org/wiki/File:I-295_sb,_Al-Jo_curve_sign,_May_2022.jpg) by Mr. Matté (if there is an issue with this image, contact me using this image's Commons talk page, my Commons user talk page, or my English Wikipedia user talk page; I'll know about it a lot faster), CC BY-SA 4.0
+- [Old scissors cutting a Serbian passport.jpg](https://commons.wikimedia.org/wiki/File:Old_scissors_cutting_a_Serbian_passport.jpg) by Ivan Radic, CC BY 2.0
+- [Disabled and Here - cutting green onions with kitchen scissors.jpg](https://commons.wikimedia.org/wiki/File:Disabled_and_Here_-_cutting_green_onions_with_kitchen_scissors.jpg) by Chona Kasinger, CC BY 4.0
+- [Wick cutting scissors - Traditional Macedonian brassworking.jpg](https://commons.wikimedia.org/wiki/File:Wick_cutting_scissors_-_Traditional_Macedonian_brassworking.jpg) by Orce Wiki, CC BY-SA 4.0
+- [Piggy-bank-968302.jpg](https://commons.wikimedia.org/wiki/File:Piggy-bank-968302.jpg) by stevepb, CC0
+- [19th century money box.jpg](https://commons.wikimedia.org/wiki/File:19th_century_money_box.jpg) by Prolete, CC0
+- [Juliana 1 cent piggy bank, Winschoten (2019) 02.jpg](https://commons.wikimedia.org/wiki/File:Juliana_1_cent_piggy_bank,_Winschoten_(2019)_02.jpg) by Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International.(Want to use this image?)Original publication 📤: --Donald Trung 『徵國單』 (No Fake News 💬) (WikiProject Numismatics 💴) (Articles 📚) 21:35, 14 December 2019 (UTC), CC BY-SA 4.0
+- [Photograph of President Gerald R. Ford Meeting with Edward Gierek, First Secretary of the Central Committee of the Polish United Workers' Party (PZPR), in the Oval Office - NARA - 7462055.jpg](https://commons.wikimedia.org/wiki/File:Photograph_of_President_Gerald_R._Ford_Meeting_with_Edward_Gierek,_First_Secretary_of_the_Central_Committee_of_the_Polish_United_Workers%27_Party_(PZPR),_in_the_Oval_Office_-_NARA_-_7462055.jpg) by Unknown authorUnknown author or not provided, Public domain
+- [Meeting with workers and volunteers from Healthy Start (8633958383).jpg](https://commons.wikimedia.org/wiki/File:Meeting_with_workers_and_volunteers_from_Healthy_Start_(8633958383).jpg) by Senator Stabenow, CC BY 2.0
+- [FEMA - 39202 - FEMA workers in a meeting in Puerto Rico.jpg](https://commons.wikimedia.org/wiki/File:FEMA_-_39202_-_FEMA_workers_in_a_meeting_in_Puerto_Rico.jpg) by Andrea Booher, Public domain
+- [NY stock exchange traders floor LC-U9-10548-6.jpg](https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg) by Thomas J. O'Halloran, Public domain
+- [President Ronald Reagan During a Trip to New York and a Visit to The New York Stock Exchange Nyse and Addressing The New York Stock Exchange Employees, Including Brokers, Clerks, an - DPLA - 151b56214071912e19b10a868af8851c.jpg](https://commons.wikimedia.org/wiki/File:President_Ronald_Reagan_During_a_Trip_to_New_York_and_a_Visit_to_The_New_York_Stock_Exchange_Nyse_and_Addressing_The_New_York_Stock_Exchange_Employees,_Including_Brokers,_Clerks,_an_-_DPLA_-_151b56214071912e19b10a868af8851c.jpg) by President (1981-1989 : Reagan). White House Photographic Office. 1981-1989, Public domain
+- [New York Stock Exchange, Manhattan, New York (7236984682).jpg](https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange,_Manhattan,_New_York_(7236984682).jpg) by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0
+- [Laptop picture.jpg](https://commons.wikimedia.org/wiki/File:Laptop_picture.jpg) by Solutionservice21, CC BY-SA 4.0
+- [Laptop, Small notebook, Netbook, Rostov-on-Don, Russia.jpg](https://commons.wikimedia.org/wiki/File:Laptop,_Small_notebook,_Netbook,_Rostov-on-Don,_Russia.jpg) by Vyacheslav Argenberg, CC BY 4.0
+- [Laptop computer.jpeg](https://commons.wikimedia.org/wiki/File:Laptop_computer.jpeg) by KK IN HK, CC BY-SA 4.0
+- [The Admiral pub for sale, Southowram - geograph.org.uk - 5783568.jpg](https://commons.wikimedia.org/wiki/File:The_Admiral_pub_for_sale,_Southowram_-_geograph.org.uk_-_5783568.jpg) by Humphrey Bolton, CC BY-SA 2.0
+- [3855 Kevington Avenue for sale in Eugene, Oregon.jpg](https://commons.wikimedia.org/wiki/File:3855_Kevington_Avenue_for_sale_in_Eugene,_Oregon.jpg) by Rick Obst, CC BY 2.0
+- [Old Jefferson, Jefferson Parish, Louisiana -House for Sale.jpg](https://commons.wikimedia.org/wiki/File:Old_Jefferson,_Jefferson_Parish,_Louisiana_-House_for_Sale.jpg) by Infrogmation of New Orleans, CC BY-SA 4.0
+- [NASDAQ stock market display.jpg](https://commons.wikimedia.org/wiki/File:NASDAQ_stock_market_display.jpg) by bfishadow on Flickr, CC BY 2.0
+- [Old Stock Market Ahmedabad - 3.JPG](https://commons.wikimedia.org/wiki/File:Old_Stock_Market_Ahmedabad_-_3.JPG) by Aksi great, Dipan Shukla, CC BY-SA 3.0
+- [Rally for SBJSA-small businesses at City Hall, Calling for passage of the Small Business Jobs Survival Act (SBJSA) (27833376008).jpg](https://commons.wikimedia.org/wiki/File:Rally_for_SBJSA-small_businesses_at_City_Hall,_Calling_for_passage_of_the_Small_Business_Jobs_Survival_Act_(SBJSA)_(27833376008).jpg) by Greenwich Village Society for Historic Preservation, CC BY 2.0
+- [Council Member Margaret Chin at Rally for SBJSA-small businesses at City Hall, Calling for passage of the Small Business Jobs Survival Act (SBJSA) (41701698961).jpg](https://commons.wikimedia.org/wiki/File:Council_Member_Margaret_Chin_at_Rally_for_SBJSA-small_businesses_at_City_Hall,_Calling_for_passage_of_the_Small_Business_Jobs_Survival_Act_(SBJSA)_(41701698961).jpg) by Greenwich Village Society for Historic Preservation, CC BY 2.0
+- [Council Member Antonio Reynoso at Rally for SBJSA-small businesses at City Hall, Calling for passage of the Small Business Jobs Survival Act (SBJSA) (41701692971).jpg](https://commons.wikimedia.org/wiki/File:Council_Member_Antonio_Reynoso_at_Rally_for_SBJSA-small_businesses_at_City_Hall,_Calling_for_passage_of_the_Small_Business_Jobs_Survival_Act_(SBJSA)_(41701692971).jpg) by Greenwich Village Society for Historic Preservation, CC BY 2.0
+- [Bouldering Project (old University National Bank) 35 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_35_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [Bouldering Project (old University National Bank) 39 - sauna (vault) area.jpg](https://commons.wikimedia.org/wiki/File:Bouldering_Project_(old_University_National_Bank)_39_-_sauna_(vault)_area.jpg) by Photo by Joe Mabel, CC BY-SA 4.0
+- [Knowledge Vault, Bank of Thailand Learning Center, December 2024.jpg](https://commons.wikimedia.org/wiki/File:Knowledge_Vault,_Bank_of_Thailand_Learning_Center,_December_2024.jpg) by Paul_012, CC BY-SA 4.0
+- [Dülmen, Alte Brennerei Löhning -- 2015 -- 8609-13.jpg](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg) by Dietmar Rabich, CC BY-SA 4.0
+- [Melrose Apartment Building, Galveston.jpg](https://commons.wikimedia.org/wiki/File:Melrose_Apartment_Building,_Galveston.jpg) by Jim Evans, CC BY-SA 3.0
+- [Apartment buildings on the bank of East River, Manhattan, New York City, 20231001 1104 1010.jpg](https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1104_1010.jpg) by Jakub Hałun, CC BY 4.0
+- [Banca móvil.jpg](https://commons.wikimedia.org/wiki/File:Banca_m%C3%B3vil.jpg) by Torsten Dettlaff, CC BY-SA 4.0
+- [Mobile banking, Bellingham - geograph.org.uk - 5701514.jpg](https://commons.wikimedia.org/wiki/File:Mobile_banking,_Bellingham_-_geograph.org.uk_-_5701514.jpg) by Graham Robson, CC BY-SA 2.0
+- [PNB Bank on wheels1.jpg](https://commons.wikimedia.org/wiki/File:PNB_Bank_on_wheels1.jpg) by unknown, CC BY-SA 4.0
+- [Family walking through to Brighton Beach(GN01538).jpg](https://commons.wikimedia.org/wiki/File:Family_walking_through_to_Brighton_Beach(GN01538).jpg) by State Government Photographer, CC0
+- [P S Krøyer 1899 - Sommeraften ved Skagens strand. Kunstneren og hans hustru.jpg](https://commons.wikimedia.org/wiki/File:P_S_Kr%C3%B8yer_1899_-_Sommeraften_ved_Skagens_strand._Kunstneren_og_hans_hustru.jpg) by Peder Severin Krøyer, Public domain
+- [Family walking at the evening, cox's bazar .jpg](https://commons.wikimedia.org/wiki/File:Family_walking_at_the_evening,_cox%27s_bazar_.jpg) by Ferdous, CC BY-SA 3.0
+- [Desk-laptop-notebook-table (23697249344).jpg](https://commons.wikimedia.org/wiki/File:Desk-laptop-notebook-table_(23697249344).jpg) by www.Pixel.la Free Stock Photos, CC0
+- [Laptop-notebook-grass-meadow (23699141873).jpg](https://commons.wikimedia.org/wiki/File:Laptop-notebook-grass-meadow_(23699141873).jpg) by www.Pixel.la Free Stock Photos, CC0
+- [Ruler and laptop on a desk (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Ruler_and_laptop_on_a_desk_(Unsplash).jpg) by Oli Dale olidale, CC0
+- [Road into Conglomerate Mesa and Inyo Mountain Wilderness.jpg](https://commons.wikimedia.org/wiki/File:Road_into_Conglomerate_Mesa_and_Inyo_Mountain_Wilderness.jpg) by Bureau of Land Management California, Public domain
+- [Road into Conglomerate Mesa and Inyo Mountain Wilderness - 49753046958.jpg](https://commons.wikimedia.org/wiki/File:Road_into_Conglomerate_Mesa_and_Inyo_Mountain_Wilderness_-_49753046958.jpg) by Bureau of Land Management California, Public domain
+- [Inyo Mountain Wilderness Eastside.jpg](https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_Eastside.jpg) by Bureau of Land Management California, Public domain
+- [Compass Rose Spoetzl Brewery 2024.jpg](https://commons.wikimedia.org/wiki/File:Compass_Rose_Spoetzl_Brewery_2024.jpg) by Larry D. Moore, CC BY 4.0
+- [Portolan Sentuzo Pongeto 1404 AD Egyptian National Library shelfmark E 14474.jpg](https://commons.wikimedia.org/wiki/File:Portolan_Sentuzo_Pongeto_1404_AD_Egyptian_National_Library_shelfmark_E_14474.jpg) by DrRachT, CC0
+- [Longhorn cavern compass rose.jpg](https://commons.wikimedia.org/wiki/File:Longhorn_cavern_compass_rose.jpg) by Larry D. Moore, CC BY 4.0
+- [Sunrise over Benmore Range, New Zealand.jpg](https://commons.wikimedia.org/wiki/File:Sunrise_over_Benmore_Range,_New_Zealand.jpg) by Michal Klajban, CC BY-SA 4.0
+- [Sunrise over Lake Wanaka from Boundary Creek, New Zealand.jpg](https://commons.wikimedia.org/wiki/File:Sunrise_over_Lake_Wanaka_from_Boundary_Creek,_New_Zealand.jpg) by Michal Klajban, CC BY-SA 4.0
+- [Ruppberg Sonnenaufgang.jpg](https://commons.wikimedia.org/wiki/File:Ruppberg_Sonnenaufgang.jpg) by Rafael Brix (SehLax), CC BY-SA 3.0
