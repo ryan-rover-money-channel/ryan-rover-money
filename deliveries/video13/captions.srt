@@ -1,0 +1,4143 @@
+1
+00:00:00,000 --> 00:00:02,054
+Hi, I'm Ryan Rover.
+
+2
+00:00:02,234 --> 00:00:04,420
+Walk past a laundromat and it looks
+
+3
+00:00:04,420 --> 00:00:06,855
+like the most boring business on earth.
+
+4
+00:00:07,035 --> 00:00:08,401
+Rows of machines,
+
+5
+00:00:08,401 --> 00:00:09,767
+a change machine,
+
+6
+00:00:09,767 --> 00:00:11,052
+a folding table.
+
+7
+00:00:11,232 --> 00:00:13,078
+But behind that boring front is a
+
+8
+00:00:13,078 --> 00:00:15,763
+money machine that teaches you almost everything
+
+9
+00:00:15,763 --> 00:00:18,280
+about how small businesses really make money.
+
+10
+00:00:18,460 --> 00:00:21,141
+Today we're going to open the books,
+
+11
+00:00:21,141 --> 00:00:22,110
+step by step,
+
+12
+00:00:22,110 --> 00:00:23,823
+using a simple example.
+
+13
+00:00:24,003 --> 00:00:24,860
+And by the end,
+
+14
+00:00:24,860 --> 00:00:26,516
+you'll be able to look at any
+
+15
+00:00:26,516 --> 00:00:28,743
+boring business and see the math behind
+
+16
+00:00:28,743 --> 00:00:28,914
+it.
+
+17
+00:00:29,264 --> 00:00:30,495
+The laundromat math.
+
+18
+00:00:30,675 --> 00:00:32,284
+Revenue, costs, profit,
+
+19
+00:00:32,284 --> 00:00:34,172
+what the business is worth,
+
+20
+00:00:34,172 --> 00:00:36,619
+and how buyers actually pay for it.
+
+21
+00:00:36,969 --> 00:00:38,200
+Why a laundromat?
+
+22
+00:00:38,380 --> 00:00:41,246
+Because it's simple enough to understand in
+
+23
+00:00:41,246 --> 00:00:43,179
+one video, and it has all the
+
+24
+00:00:43,179 --> 00:00:44,446
+pieces that matter:
+
+25
+00:00:44,446 --> 00:00:46,779
+steady demand, expensive equipment,
+
+26
+00:00:46,779 --> 00:00:48,312
+a lease, utility bills,
+
+27
+00:00:48,312 --> 00:00:49,311
+a little labor,
+
+28
+00:00:49,311 --> 00:00:51,511
+and a sale price based on profit.
+
+29
+00:00:51,691 --> 00:00:53,968
+Once you understand these pieces,
+
+30
+00:00:53,968 --> 00:00:56,314
+you can apply the same thinking to
+
+31
+00:00:56,314 --> 00:00:58,107
+car washes, storage units,
+
+32
+00:00:58,107 --> 00:01:01,488
+vending routes, cleaning companies and almost any
+
+33
+00:01:01,488 --> 00:01:02,523
+small business.
+
+34
+00:01:02,873 --> 00:01:04,360
+One important warning.
+
+35
+00:01:04,540 --> 00:01:06,572
+The numbers in this video are an
+
+36
+00:01:06,572 --> 00:01:09,366
+illustration we built to teach the concepts,
+
+37
+00:01:09,366 --> 00:01:11,970
+not industry averages or a real business.
+
+38
+00:01:12,150 --> 00:01:16,054
+Real laundromats vary enormously depending on location,
+
+39
+00:01:16,054 --> 00:01:18,965
+size, prices, competition and management.
+
+40
+00:01:19,145 --> 00:01:21,200
+Some do much better than our example.
+
+41
+00:01:21,380 --> 00:01:22,390
+Some lose money.
+
+42
+00:01:22,570 --> 00:01:25,091
+Always look at real records before making
+
+43
+00:01:25,091 --> 00:01:25,890
+any decision.
+
+44
+00:01:26,240 --> 00:01:28,036
+We'll go through twelve lessons,
+
+45
+00:01:28,036 --> 00:01:29,888
+then look at the whole thing from
+
+46
+00:01:29,888 --> 00:01:30,617
+three angles.
+
+47
+00:01:30,797 --> 00:01:32,922
+The numbers, meaning the actual math.
+
+48
+00:01:33,102 --> 00:01:36,373
+The psychology, meaning why people misjudge these
+
+49
+00:01:36,373 --> 00:01:37,107
+businesses.
+
+50
+00:01:37,287 --> 00:01:38,303
+And the playbook,
+
+51
+00:01:38,303 --> 00:01:40,992
+meaning a checklist for evaluating any boring
+
+52
+00:01:40,992 --> 00:01:43,203
+business before you put a dollar into
+
+53
+00:01:43,203 --> 00:01:43,383
+it.
+
+54
+00:01:43,732 --> 00:01:44,963
+Let's open the books.
+
+55
+00:01:45,313 --> 00:01:48,646
+Our example business is a simplified illustration.
+
+56
+00:01:48,826 --> 00:01:50,660
+Lending rules come from the U.
+
+57
+00:01:50,840 --> 00:01:51,200
+S.
+
+58
+00:01:51,380 --> 00:01:53,361
+Small Business Administration,
+
+59
+00:01:53,361 --> 00:01:56,003
+which describes its seven a loan program
+
+60
+00:01:56,003 --> 00:01:58,381
+and its requirements on its website.
+
+61
+00:01:58,561 --> 00:02:01,466
+Business survival data comes from the Bureau
+
+62
+00:02:01,466 --> 00:02:02,787
+of Labor Statistics.
+
+63
+00:02:02,967 --> 00:02:05,936
+Market return comparisons use a stated seven
+
+64
+00:02:05,936 --> 00:02:09,243
+percent average yearly return as an illustration,
+
+65
+00:02:09,243 --> 00:02:10,188
+not a promise.
+
+66
+00:02:10,368 --> 00:02:12,197
+This video is education,
+
+67
+00:02:12,197 --> 00:02:15,244
+not financial, legal or business advice.
+
+68
+00:02:15,594 --> 00:02:16,396
+Angle one.
+
+69
+00:02:16,576 --> 00:02:17,307
+The numbers.
+
+70
+00:02:17,487 --> 00:02:19,314
+Here's our example laundromat,
+
+71
+00:02:19,314 --> 00:02:21,872
+in a busy neighborhood full of apartments,
+
+72
+00:02:21,872 --> 00:02:24,248
+where many renters don't have their own
+
+73
+00:02:24,248 --> 00:02:25,405
+washers and dryers.
+
+74
+00:02:25,754 --> 00:02:28,553
+Our example laundromat brings in about three
+
+75
+00:02:28,553 --> 00:02:30,589
+hundred thousand dollars a year:
+
+76
+00:02:30,589 --> 00:02:33,388
+two hundred twenty thousand from washers and
+
+77
+00:02:33,388 --> 00:02:35,996
+dryers, sixty thousand from wash and fold
+
+78
+00:02:35,996 --> 00:02:38,858
+service, and twenty thousand from vending and
+
+79
+00:02:38,858 --> 00:02:39,303
+extras.
+
+80
+00:02:39,653 --> 00:02:40,931
+Now the costs.
+
+81
+00:02:41,111 --> 00:02:43,512
+Rent of about sixty thousand a year,
+
+82
+00:02:43,512 --> 00:02:45,779
+utilities of about sixty thousand,
+
+83
+00:02:45,779 --> 00:02:47,714
+labor of forty five thousand,
+
+84
+00:02:47,714 --> 00:02:49,581
+repairs of fifteen thousand,
+
+85
+00:02:49,581 --> 00:02:52,249
+and about twenty thousand for insurance,
+
+86
+00:02:52,249 --> 00:02:54,183
+supplies and everything else.
+
+87
+00:02:54,363 --> 00:02:57,103
+Total costs: about two hundred thousand.
+
+88
+00:02:57,453 --> 00:03:00,454
+That leaves about one hundred thousand dollars
+
+89
+00:03:00,454 --> 00:03:01,824
+a year for the owner,
+
+90
+00:03:01,824 --> 00:03:03,194
+before loan payments,
+
+91
+00:03:03,194 --> 00:03:05,151
+depreciation and income taxes.
+
+92
+00:03:05,331 --> 00:03:07,181
+In the small business world,
+
+93
+00:03:07,181 --> 00:03:10,683
+this is often called seller's discretionary earnings.
+
+94
+00:03:11,033 --> 00:03:13,386
+One hundred thousand dollars a year sounds
+
+95
+00:03:13,386 --> 00:03:15,178
+great, and in our example it is.
+
+96
+00:03:15,358 --> 00:03:17,390
+But notice how fragile it is.
+
+97
+00:03:17,570 --> 00:03:19,634
+If revenue falls by ten percent,
+
+98
+00:03:19,634 --> 00:03:21,956
+that's thirty thousand dollars less,
+
+99
+00:03:21,956 --> 00:03:23,955
+while most costs stay the same.
+
+100
+00:03:24,135 --> 00:03:26,985
+Owner earnings drop from one hundred thousand
+
+101
+00:03:26,985 --> 00:03:28,251
+to seventy thousand,
+
+102
+00:03:28,251 --> 00:03:30,277
+a thirty percent fall from a ten
+
+103
+00:03:30,277 --> 00:03:31,670
+percent drop in sales.
+
+104
+00:03:31,850 --> 00:03:33,837
+That's called operating leverage,
+
+105
+00:03:33,837 --> 00:03:35,763
+and it works in both directions.
+
+106
+00:03:36,112 --> 00:03:37,803
+The good news is that it works
+
+107
+00:03:37,803 --> 00:03:38,423
+upward too.
+
+108
+00:03:38,603 --> 00:03:41,118
+If the owner adds pickup and delivery
+
+109
+00:03:41,118 --> 00:03:43,361
+and grows revenue by ten percent,
+
+110
+00:03:43,361 --> 00:03:45,060
+most costs barely change,
+
+111
+00:03:45,060 --> 00:03:47,575
+so owner earnings could jump by close
+
+112
+00:03:47,575 --> 00:03:48,866
+to thirty thousand.
+
+113
+00:03:49,046 --> 00:03:52,021
+That's why the best laundromat owners obsess
+
+114
+00:03:52,021 --> 00:03:55,063
+over adding revenue without adding much cost:
+
+115
+00:03:55,063 --> 00:03:56,010
+wash and fold,
+
+116
+00:03:56,010 --> 00:03:58,782
+commercial accounts like gyms and salons,
+
+117
+00:03:58,782 --> 00:04:01,554
+longer hours, and card payments that make
+
+118
+00:04:01,554 --> 00:04:03,582
+customers spend a little more.
+
+119
+00:04:03,931 --> 00:04:06,243
+Now let's go through the twelve lessons
+
+120
+00:04:06,243 --> 00:04:07,902
+hidden inside those numbers.
+
+121
+00:04:08,252 --> 00:04:09,077
+Lesson one.
+
+122
+00:04:09,257 --> 00:04:11,393
+Demand comes before everything.
+
+123
+00:04:11,742 --> 00:04:14,551
+A laundromat works because a specific group
+
+124
+00:04:14,551 --> 00:04:16,967
+of people needs it every single week:
+
+125
+00:04:16,967 --> 00:04:18,534
+renters without washers,
+
+126
+00:04:18,534 --> 00:04:20,885
+people in older apartment buildings,
+
+127
+00:04:20,885 --> 00:04:22,714
+and families with big loads.
+
+128
+00:04:22,894 --> 00:04:25,233
+Before looking at machines or prices,
+
+129
+00:04:25,233 --> 00:04:26,624
+the smart question is,
+
+130
+00:04:26,624 --> 00:04:28,079
+who exactly needs this,
+
+131
+00:04:28,079 --> 00:04:30,039
+how often, and how many of them
+
+132
+00:04:30,039 --> 00:04:31,683
+live within a short drive?
+
+133
+00:04:32,033 --> 00:04:34,029
+That's why location is everything.
+
+134
+00:04:34,209 --> 00:04:37,090
+A laundromat surrounded by single family homes
+
+135
+00:04:37,090 --> 00:04:39,469
+with washers and dryers will struggle.
+
+136
+00:04:39,649 --> 00:04:41,319
+One near dense apartments,
+
+137
+00:04:41,319 --> 00:04:43,440
+with parking and good visibility,
+
+138
+00:04:43,440 --> 00:04:45,303
+has a built in customer base.
+
+139
+00:04:45,483 --> 00:04:48,851
+Many experienced buyers look at local population
+
+140
+00:04:48,851 --> 00:04:50,956
+density, the share of renters,
+
+141
+00:04:50,956 --> 00:04:54,184
+and the number of competing laundromats within
+
+142
+00:04:54,184 --> 00:04:55,026
+a few miles.
+
+143
+00:04:55,377 --> 00:04:58,018
+The same lesson applies to every boring
+
+144
+00:04:58,018 --> 00:04:58,627
+business.
+
+145
+00:04:58,807 --> 00:05:01,972
+A septic company needs homes on septic
+
+146
+00:05:01,972 --> 00:05:02,639
+systems.
+
+147
+00:05:02,819 --> 00:05:05,903
+A pest control company needs warm weather
+
+148
+00:05:05,903 --> 00:05:06,580
+and bugs.
+
+149
+00:05:06,760 --> 00:05:09,752
+A storage facility needs people moving in
+
+150
+00:05:09,752 --> 00:05:10,336
+and out.
+
+151
+00:05:10,516 --> 00:05:11,921
+Find the demand first,
+
+152
+00:05:11,921 --> 00:05:13,070
+then the business.
+
+153
+00:05:13,250 --> 00:05:14,643
+Never the other way around.
+
+154
+00:05:14,994 --> 00:05:15,899
+Lesson two.
+
+155
+00:05:16,079 --> 00:05:17,368
+Revenue has layers.
+
+156
+00:05:17,718 --> 00:05:18,591
+In our example,
+
+157
+00:05:18,591 --> 00:05:20,804
+self service machines bring in most of
+
+158
+00:05:20,804 --> 00:05:21,386
+the money.
+
+159
+00:05:21,566 --> 00:05:23,979
+But the services layered on top,
+
+160
+00:05:23,979 --> 00:05:25,412
+like wash and fold,
+
+161
+00:05:25,412 --> 00:05:26,920
+pickup and delivery,
+
+162
+00:05:26,920 --> 00:05:29,332
+and commercial laundry for gyms,
+
+163
+00:05:29,332 --> 00:05:31,142
+salons and small hotels,
+
+164
+00:05:31,142 --> 00:05:34,384
+can grow revenue without needing more floor
+
+165
+00:05:34,384 --> 00:05:34,836
+space.
+
+166
+00:05:35,186 --> 00:05:37,582
+Services often earn more per pound of
+
+167
+00:05:37,582 --> 00:05:40,366
+laundry, and they keep machines busy during
+
+168
+00:05:40,366 --> 00:05:41,142
+quiet hours.
+
+169
+00:05:41,322 --> 00:05:44,305
+A laundromat that's packed on Saturday morning
+
+170
+00:05:44,305 --> 00:05:46,833
+but empty on Tuesday afternoon can fill
+
+171
+00:05:46,833 --> 00:05:49,102
+those slow hours with wash and fold
+
+172
+00:05:49,102 --> 00:05:49,426
+work.
+
+173
+00:05:49,606 --> 00:05:52,313
+That's using the same expensive equipment more
+
+174
+00:05:52,313 --> 00:05:53,020
+of the time.
+
+175
+00:05:53,369 --> 00:05:55,316
+The lesson for any business is to
+
+176
+00:05:55,316 --> 00:05:57,794
+ask: what else could my existing customers
+
+177
+00:05:57,794 --> 00:05:59,209
+and equipment do for me?
+
+178
+00:05:59,389 --> 00:06:01,804
+A lawn care company adds snow removal.
+
+179
+00:06:01,984 --> 00:06:04,631
+A pressure washing company adds gutters.
+
+180
+00:06:04,811 --> 00:06:07,319
+A cleaning company adds move out cleans.
+
+181
+00:06:07,499 --> 00:06:09,755
+Layers of revenue on the same base
+
+182
+00:06:09,755 --> 00:06:12,674
+are how small businesses grow profit without
+
+183
+00:06:12,674 --> 00:06:13,536
+growing risk.
+
+184
+00:06:13,886 --> 00:06:14,908
+Lesson three.
+
+185
+00:06:15,088 --> 00:06:17,120
+The lease is your silent partner.
+
+186
+00:06:17,469 --> 00:06:18,514
+In our example,
+
+187
+00:06:18,514 --> 00:06:21,161
+rent is sixty thousand dollars a year,
+
+188
+00:06:21,161 --> 00:06:23,182
+one of the two biggest costs.
+
+189
+00:06:23,362 --> 00:06:25,624
+And unlike repairs or supplies,
+
+190
+00:06:25,624 --> 00:06:26,427
+it's fixed.
+
+191
+00:06:26,607 --> 00:06:28,381
+It's due whether you have a great
+
+192
+00:06:28,381 --> 00:06:29,672
+month or a terrible one.
+
+193
+00:06:29,852 --> 00:06:31,384
+That's why the lease is one of
+
+194
+00:06:31,384 --> 00:06:33,479
+the most important documents in the whole
+
+195
+00:06:33,479 --> 00:06:33,938
+business.
+
+196
+00:06:34,288 --> 00:06:36,933
+Experienced buyers look closely at how many
+
+197
+00:06:36,933 --> 00:06:38,531
+years remain on the lease,
+
+198
+00:06:38,531 --> 00:06:40,683
+whether there are options to renew,
+
+199
+00:06:40,683 --> 00:06:42,590
+and how much rent can increase.
+
+200
+00:06:42,770 --> 00:06:45,794
+A laundromat with expensive machines and only
+
+201
+00:06:45,794 --> 00:06:47,810
+two years left on its lease is
+
+202
+00:06:47,810 --> 00:06:48,550
+a big risk,
+
+203
+00:06:48,550 --> 00:06:50,969
+because if the landlord won't renew,
+
+204
+00:06:50,969 --> 00:06:53,590
+moving those machines is costly and you
+
+205
+00:06:53,590 --> 00:06:54,867
+lose your location.
+
+206
+00:06:55,217 --> 00:06:58,064
+The lesson: in any location based business,
+
+207
+00:06:58,064 --> 00:07:00,116
+the lease can matter as much as
+
+208
+00:07:00,116 --> 00:07:01,440
+the business itself.
+
+209
+00:07:01,620 --> 00:07:02,865
+Read it carefully,
+
+210
+00:07:02,865 --> 00:07:04,387
+ideally with a lawyer,
+
+211
+00:07:04,387 --> 00:07:06,876
+and try to negotiate long terms with
+
+212
+00:07:06,876 --> 00:07:07,983
+renewal options.
+
+213
+00:07:08,163 --> 00:07:10,396
+A great business in a location you
+
+214
+00:07:10,396 --> 00:07:12,563
+can lose is not a great business.
+
+215
+00:07:12,912 --> 00:07:13,783
+Lesson four.
+
+216
+00:07:13,963 --> 00:07:16,285
+Some costs move with sales.
+
+217
+00:07:16,635 --> 00:07:19,352
+Utilities are the other big cost in
+
+218
+00:07:19,352 --> 00:07:20,827
+our example: water,
+
+219
+00:07:20,827 --> 00:07:22,302
+gas for the dryers,
+
+220
+00:07:22,302 --> 00:07:23,543
+and electricity.
+
+221
+00:07:23,723 --> 00:07:26,494
+Unlike rent, utilities rise and fall with
+
+222
+00:07:26,494 --> 00:07:28,251
+how much the machines run.
+
+223
+00:07:28,431 --> 00:07:31,388
+More customers means a bigger utility bill,
+
+224
+00:07:31,388 --> 00:07:32,901
+but also more revenue.
+
+225
+00:07:33,251 --> 00:07:36,089
+This is the difference between fixed costs
+
+226
+00:07:36,089 --> 00:07:37,373
+and variable costs.
+
+227
+00:07:37,553 --> 00:07:40,280
+Fixed costs, like rent and insurance,
+
+228
+00:07:40,280 --> 00:07:42,418
+stay the same no matter what.
+
+229
+00:07:42,598 --> 00:07:45,978
+Variable costs, like utilities and supplies,
+
+230
+00:07:45,978 --> 00:07:47,207
+grow with sales.
+
+231
+00:07:47,387 --> 00:07:50,240
+A business with mostly fixed costs has
+
+232
+00:07:50,240 --> 00:07:51,967
+big operating leverage:
+
+233
+00:07:51,967 --> 00:07:54,295
+profits swing a lot with sales.
+
+234
+00:07:54,475 --> 00:07:57,267
+A business with mostly variable costs is
+
+235
+00:07:57,267 --> 00:07:59,989
+steadier, but grows profit more slowly.
+
+236
+00:08:00,339 --> 00:08:03,287
+Owners can lower utility costs with efficient
+
+237
+00:08:03,287 --> 00:08:05,973
+machines, which use less water and energy
+
+238
+00:08:05,973 --> 00:08:06,562
+per load.
+
+239
+00:08:06,742 --> 00:08:08,389
+That's often a big part of the
+
+240
+00:08:08,389 --> 00:08:10,640
+math when deciding whether to replace old
+
+241
+00:08:10,640 --> 00:08:11,189
+equipment.
+
+242
+00:08:11,369 --> 00:08:14,378
+Lower variable costs per customer mean more
+
+243
+00:08:14,378 --> 00:08:15,848
+profit on every load,
+
+244
+00:08:15,848 --> 00:08:16,408
+forever.
+
+245
+00:08:16,757 --> 00:08:17,802
+Lesson five.
+
+246
+00:08:17,982 --> 00:08:19,332
+Equipment wears out,
+
+247
+00:08:19,332 --> 00:08:20,885
+and that's a real cost.
+
+248
+00:08:21,234 --> 00:08:24,742
+Commercial washers and dryers are expensive and
+
+249
+00:08:24,742 --> 00:08:26,310
+they last many years,
+
+250
+00:08:26,310 --> 00:08:27,504
+but not forever.
+
+251
+00:08:27,684 --> 00:08:28,770
+In our example,
+
+252
+00:08:28,770 --> 00:08:31,377
+we listed fifteen thousand a year in
+
+253
+00:08:31,377 --> 00:08:31,956
+repairs.
+
+254
+00:08:32,136 --> 00:08:34,506
+But there's a bigger cost that doesn't
+
+255
+00:08:34,506 --> 00:08:36,127
+show up as a monthly bill:
+
+256
+00:08:36,127 --> 00:08:38,434
+one day, all those machines will need
+
+257
+00:08:38,434 --> 00:08:39,369
+to be replaced.
+
+258
+00:08:39,719 --> 00:08:42,053
+Accountants call this depreciation.
+
+259
+00:08:42,233 --> 00:08:44,231
+Smart owners think of it as a
+
+260
+00:08:44,231 --> 00:08:45,403
+replacement fund.
+
+261
+00:08:45,583 --> 00:08:47,771
+If machines will cost a few hundred
+
+262
+00:08:47,771 --> 00:08:50,084
+thousand dollars to replace in ten to
+
+263
+00:08:50,084 --> 00:08:52,647
+fifteen years, part of each year's profit
+
+264
+00:08:52,647 --> 00:08:54,836
+really belongs to that future bill.
+
+265
+00:08:55,016 --> 00:08:57,645
+A business that looks profitable but never
+
+266
+00:08:57,645 --> 00:09:00,713
+saves for equipment replacement is borrowing from
+
+267
+00:09:00,713 --> 00:09:01,401
+its future.
+
+268
+00:09:01,751 --> 00:09:03,511
+This is one of the most common
+
+269
+00:09:03,511 --> 00:09:06,268
+traps when buying any equipment heavy business.
+
+270
+00:09:06,448 --> 00:09:08,549
+A seller may show strong profits,
+
+271
+00:09:08,549 --> 00:09:10,587
+but if the machines are near the
+
+272
+00:09:10,587 --> 00:09:11,733
+end of their life,
+
+273
+00:09:11,733 --> 00:09:13,643
+the buyer will face a big bill
+
+274
+00:09:13,643 --> 00:09:14,853
+soon after closing.
+
+275
+00:09:15,033 --> 00:09:17,213
+Always ask the age of every major
+
+276
+00:09:17,213 --> 00:09:18,468
+piece of equipment,
+
+277
+00:09:18,468 --> 00:09:20,978
+and factor replacement into your math.
+
+278
+00:09:21,327 --> 00:09:22,361
+Lesson six.
+
+279
+00:09:22,541 --> 00:09:23,776
+Labor is a choice,
+
+280
+00:09:23,776 --> 00:09:25,559
+and your time has a price.
+
+281
+00:09:25,909 --> 00:09:28,553
+Many laundromats can run with few employees,
+
+282
+00:09:28,553 --> 00:09:30,356
+which is part of their appeal.
+
+283
+00:09:30,536 --> 00:09:31,620
+In our example,
+
+284
+00:09:31,620 --> 00:09:34,221
+labor is forty five thousand a year,
+
+285
+00:09:34,221 --> 00:09:36,822
+mostly for wash and fold and keeping
+
+286
+00:09:36,822 --> 00:09:37,978
+the place clean.
+
+287
+00:09:38,158 --> 00:09:40,593
+But someone also has to handle repairs,
+
+288
+00:09:40,593 --> 00:09:43,278
+collections, customer issues and the books.
+
+289
+00:09:43,628 --> 00:09:45,312
+If the owner does all of that
+
+290
+00:09:45,312 --> 00:09:48,156
+personally, the business looks more profitable on
+
+291
+00:09:48,156 --> 00:09:48,505
+paper.
+
+292
+00:09:48,685 --> 00:09:50,916
+But the owner is really being paid
+
+293
+00:09:50,916 --> 00:09:51,901
+for their time.
+
+294
+00:09:52,081 --> 00:09:53,970
+When evaluating a business,
+
+295
+00:09:53,970 --> 00:09:56,629
+many buyers subtract a fair salary for
+
+296
+00:09:56,629 --> 00:09:57,328
+a manager.
+
+297
+00:09:57,508 --> 00:09:59,843
+If the business is still profitable after
+
+298
+00:09:59,843 --> 00:10:01,551
+paying someone else to run it,
+
+299
+00:10:01,551 --> 00:10:02,861
+it's a true investment.
+
+300
+00:10:03,041 --> 00:10:05,014
+If not, it's a job you're buying.
+
+301
+00:10:05,364 --> 00:10:07,292
+The lesson applies everywhere.
+
+302
+00:10:07,472 --> 00:10:09,896
+A cleaning company that only makes money
+
+303
+00:10:09,896 --> 00:10:12,198
+because the owner cleans sixty hours a
+
+304
+00:10:12,198 --> 00:10:14,077
+week isn't the same as one that
+
+305
+00:10:14,077 --> 00:10:15,834
+makes money with a team and a
+
+306
+00:10:15,834 --> 00:10:16,319
+manager.
+
+307
+00:10:16,499 --> 00:10:17,769
+Both can be good choices,
+
+308
+00:10:17,769 --> 00:10:19,598
+but you should know which one you're
+
+309
+00:10:19,598 --> 00:10:20,005
+getting.
+
+310
+00:10:20,355 --> 00:10:21,248
+Quick pause.
+
+311
+00:10:21,428 --> 00:10:23,708
+If you're enjoying this kind of business
+
+312
+00:10:23,708 --> 00:10:25,759
+breakdown, subscribe to the channel.
+
+313
+00:10:25,939 --> 00:10:28,374
+More of these deep dives are coming,
+
+314
+00:10:28,374 --> 00:10:29,321
+on car washes,
+
+315
+00:10:29,321 --> 00:10:32,298
+storage units, vending machines and buying a
+
+316
+00:10:32,298 --> 00:10:34,530
+business instead of starting one.
+
+317
+00:10:34,710 --> 00:10:35,843
+Now, lesson seven,
+
+318
+00:10:35,843 --> 00:10:37,857
+which is where the real money in
+
+319
+00:10:37,857 --> 00:10:39,494
+boring businesses is made.
+
+320
+00:10:39,843 --> 00:10:40,761
+Lesson seven.
+
+321
+00:10:40,941 --> 00:10:43,333
+A business is valued as a multiple
+
+322
+00:10:43,333 --> 00:10:44,459
+of its earnings.
+
+323
+00:10:44,808 --> 00:10:47,188
+Small businesses are often priced as a
+
+324
+00:10:47,188 --> 00:10:49,255
+multiple of their owner earnings.
+
+325
+00:10:49,435 --> 00:10:51,481
+For a business like our example,
+
+326
+00:10:51,481 --> 00:10:54,358
+buyers and brokers might talk about something
+
+327
+00:10:54,358 --> 00:10:56,532
+like three to five times earnings,
+
+328
+00:10:56,532 --> 00:10:58,194
+depending on the location,
+
+329
+00:10:58,194 --> 00:11:00,496
+the lease, the age of the equipment,
+
+330
+00:11:00,496 --> 00:11:02,797
+and how much the business depends on
+
+331
+00:11:02,797 --> 00:11:03,437
+the owner.
+
+332
+00:11:03,617 --> 00:11:05,116
+These are rough ranges,
+
+333
+00:11:05,116 --> 00:11:07,007
+and every deal is negotiated.
+
+334
+00:11:07,356 --> 00:11:08,870
+So our example laundromat,
+
+335
+00:11:08,870 --> 00:11:10,966
+earning one hundred thousand a year,
+
+336
+00:11:10,966 --> 00:11:13,644
+might be valued somewhere around three hundred
+
+337
+00:11:13,644 --> 00:11:15,565
+to five hundred thousand dollars.
+
+338
+00:11:15,745 --> 00:11:17,923
+A newer laundromat with a long lease
+
+339
+00:11:17,923 --> 00:11:20,041
+and modern machines would be at the
+
+340
+00:11:20,041 --> 00:11:20,586
+high end.
+
+341
+00:11:20,766 --> 00:11:22,776
+An older one with a short lease
+
+342
+00:11:22,776 --> 00:11:25,045
+and tired equipment would be at the
+
+343
+00:11:25,045 --> 00:11:26,536
+low end, or even lower.
+
+344
+00:11:26,886 --> 00:11:28,268
+Here's why this matters.
+
+345
+00:11:28,448 --> 00:11:30,689
+Every extra ten thousand dollars of steady
+
+346
+00:11:30,689 --> 00:11:32,770
+yearly profit could add thirty to fifty
+
+347
+00:11:32,770 --> 00:11:34,904
+thousand dollars to what the business is
+
+348
+00:11:34,904 --> 00:11:35,971
+worth when you sell.
+
+349
+00:11:36,151 --> 00:11:38,323
+That's the hidden engine of wealth in
+
+350
+00:11:38,323 --> 00:11:39,379
+boring businesses.
+
+351
+00:11:39,559 --> 00:11:41,286
+You earn the profit every year,
+
+352
+00:11:41,286 --> 00:11:43,346
+and you build value every time profit
+
+353
+00:11:43,346 --> 00:11:43,680
+grows.
+
+354
+00:11:44,030 --> 00:11:46,530
+On screen: owner earnings of one hundred
+
+355
+00:11:46,530 --> 00:11:48,030
+thousand dollars a year,
+
+356
+00:11:48,030 --> 00:11:50,467
+valued at three to five times earnings,
+
+357
+00:11:50,467 --> 00:11:52,842
+gives a value of roughly three hundred
+
+358
+00:11:52,842 --> 00:11:55,466
+thousand to five hundred thousand dollars.
+
+359
+00:11:55,816 --> 00:11:56,734
+Lesson eight.
+
+360
+00:11:56,914 --> 00:11:58,957
+Most buyers don't pay cash.
+
+361
+00:11:59,306 --> 00:12:01,828
+Many small businesses are bought with a
+
+362
+00:12:01,828 --> 00:12:02,151
+loan.
+
+363
+00:12:02,331 --> 00:12:02,784
+The U.
+
+364
+00:12:02,964 --> 00:12:03,335
+S.
+
+365
+00:12:03,515 --> 00:12:07,698
+Small Business Administration's seven a program guarantees
+
+366
+00:12:07,698 --> 00:12:10,582
+loans made by banks to small businesses,
+
+367
+00:12:10,582 --> 00:12:13,755
+including loans to buy an existing business.
+
+368
+00:12:13,935 --> 00:12:16,225
+Buyers are usually required to put in
+
+369
+00:12:16,225 --> 00:12:17,711
+some of their own money,
+
+370
+00:12:17,711 --> 00:12:20,125
+and lenders look closely at whether the
+
+371
+00:12:20,125 --> 00:12:22,538
+business's cash flow can cover the loan
+
+372
+00:12:22,538 --> 00:12:23,096
+payments.
+
+373
+00:12:23,445 --> 00:12:25,900
+Let's say our buyer pays three hundred
+
+374
+00:12:25,900 --> 00:12:28,871
+thousand dollars, puts down thirty thousand of
+
+375
+00:12:28,871 --> 00:12:29,905
+their own money,
+
+376
+00:12:29,905 --> 00:12:32,811
+and borrows two hundred seventy thousand over
+
+377
+00:12:32,811 --> 00:12:35,524
+ten years at an illustrative interest rate
+
+378
+00:12:35,524 --> 00:12:37,203
+of ten and a half percent.
+
+379
+00:12:37,383 --> 00:12:39,535
+The monthly payment would be about three
+
+380
+00:12:39,535 --> 00:12:41,418
+thousand six hundred fifty dollars,
+
+381
+00:12:41,418 --> 00:12:43,569
+or roughly forty four thousand dollars a
+
+382
+00:12:43,569 --> 00:12:43,838
+year.
+
+383
+00:12:44,188 --> 00:12:46,216
+So out of one hundred thousand of
+
+384
+00:12:46,216 --> 00:12:49,042
+owner earnings, about forty four thousand goes
+
+385
+00:12:49,042 --> 00:12:50,946
+to the loan in the early years,
+
+386
+00:12:50,946 --> 00:12:53,465
+leaving around fifty six thousand for the
+
+387
+00:12:53,465 --> 00:12:56,107
+owner before income taxes and the equipment
+
+388
+00:12:56,107 --> 00:12:56,414
+fund.
+
+389
+00:12:56,594 --> 00:12:58,697
+Still a solid return on a thirty
+
+390
+00:12:58,697 --> 00:13:00,603
+thousand dollar down payment,
+
+391
+00:13:00,603 --> 00:13:01,852
+but with real risk,
+
+392
+00:13:01,852 --> 00:13:03,495
+because if revenue drops,
+
+393
+00:13:03,495 --> 00:13:05,139
+the loan payment doesn't.
+
+394
+00:13:05,488 --> 00:13:08,485
+On screen: two hundred seventy thousand dollars
+
+395
+00:13:08,485 --> 00:13:11,162
+borrowed over ten years at an illustrative
+
+396
+00:13:11,162 --> 00:13:13,330
+ten and a half percent costs about
+
+397
+00:13:13,330 --> 00:13:15,689
+forty four thousand dollars a year in
+
+398
+00:13:15,689 --> 00:13:16,263
+payments.
+
+399
+00:13:16,612 --> 00:13:17,588
+Lesson nine.
+
+400
+00:13:17,768 --> 00:13:19,600
+Debt magnifies results,
+
+401
+00:13:19,600 --> 00:13:20,635
+good and bad.
+
+402
+00:13:20,985 --> 00:13:23,071
+With thirty thousand dollars down,
+
+403
+00:13:23,071 --> 00:13:25,464
+our example owner might earn over fifty
+
+404
+00:13:25,464 --> 00:13:27,673
+thousand a year after loan payments.
+
+405
+00:13:27,853 --> 00:13:29,626
+That's a huge return on the cash
+
+406
+00:13:29,626 --> 00:13:30,291
+they put in.
+
+407
+00:13:30,471 --> 00:13:32,358
+That's the magic of leverage,
+
+408
+00:13:32,358 --> 00:13:34,635
+and it's why buying a business with
+
+409
+00:13:34,635 --> 00:13:36,717
+a loan can build wealth so fast.
+
+410
+00:13:37,067 --> 00:13:38,797
+But leverage cuts both ways.
+
+411
+00:13:38,977 --> 00:13:41,644
+Remember operating leverage from earlier:
+
+412
+00:13:41,644 --> 00:13:43,790
+a ten percent drop in revenue cut
+
+413
+00:13:43,790 --> 00:13:46,001
+owner earnings by thirty thousand.
+
+414
+00:13:46,181 --> 00:13:48,372
+Now add a fixed loan payment of
+
+415
+00:13:48,372 --> 00:13:50,280
+forty four thousand on top.
+
+416
+00:13:50,460 --> 00:13:52,512
+A bad year could leave the owner
+
+417
+00:13:52,512 --> 00:13:53,602
+with very little,
+
+418
+00:13:53,602 --> 00:13:55,525
+or even force them to put more
+
+419
+00:13:55,525 --> 00:13:56,102
+money in.
+
+420
+00:13:56,282 --> 00:13:59,072
+Two kinds of leverage stacked together create
+
+421
+00:13:59,072 --> 00:13:59,754
+big swings.
+
+422
+00:14:00,103 --> 00:14:02,968
+This is why lenders and experienced buyers
+
+423
+00:14:02,968 --> 00:14:04,264
+look for a cushion:
+
+424
+00:14:04,264 --> 00:14:07,469
+business earnings well above the loan payments,
+
+425
+00:14:07,469 --> 00:14:08,765
+plus cash reserves.
+
+426
+00:14:08,945 --> 00:14:11,056
+Never buy a business where the plan
+
+427
+00:14:11,056 --> 00:14:13,229
+only works if everything goes right.
+
+428
+00:14:13,409 --> 00:14:15,615
+Always ask, what happens to me if
+
+429
+00:14:15,615 --> 00:14:17,553
+revenue drops twenty percent?
+
+430
+00:14:17,903 --> 00:14:19,018
+Lesson ten.
+
+431
+00:14:19,198 --> 00:14:21,566
+Always compare to the boring alternative.
+
+432
+00:14:21,917 --> 00:14:25,006
+Every business decision should be compared with
+
+433
+00:14:25,006 --> 00:14:26,649
+the simplest alternative:
+
+434
+00:14:26,649 --> 00:14:29,345
+putting the same money into a diversified
+
+435
+00:14:29,345 --> 00:14:31,251
+index fund and doing nothing.
+
+436
+00:14:31,431 --> 00:14:33,506
+At a seven percent illustration,
+
+437
+00:14:33,506 --> 00:14:36,619
+three hundred thousand dollars would earn around
+
+438
+00:14:36,619 --> 00:14:39,278
+twenty one thousand dollars in an average
+
+439
+00:14:39,278 --> 00:14:40,575
+year, with no lease,
+
+440
+00:14:40,575 --> 00:14:43,040
+no broken machines and no customers to
+
+441
+00:14:43,040 --> 00:14:43,494
+manage.
+
+442
+00:14:43,843 --> 00:14:45,999
+So the real question about our laundromat
+
+443
+00:14:45,999 --> 00:14:47,524
+isn't whether it makes money.
+
+444
+00:14:47,704 --> 00:14:50,282
+It's whether it makes enough extra money
+
+445
+00:14:50,282 --> 00:14:51,572
+to justify the risk,
+
+446
+00:14:51,572 --> 00:14:53,119
+the time and the stress,
+
+447
+00:14:53,119 --> 00:14:55,053
+compared with the easy option.
+
+448
+00:14:55,233 --> 00:14:56,172
+For many owners,
+
+449
+00:14:56,172 --> 00:14:57,229
+the answer is yes,
+
+450
+00:14:57,229 --> 00:14:59,636
+because they enjoy running a business and
+
+451
+00:14:59,636 --> 00:15:01,456
+the returns can be much higher.
+
+452
+00:15:01,636 --> 00:15:03,739
+For others, the index fund is the
+
+453
+00:15:03,739 --> 00:15:04,631
+better choice.
+
+454
+00:15:04,981 --> 00:15:07,606
+This comparison protects you from falling in
+
+455
+00:15:07,606 --> 00:15:08,859
+love with a business.
+
+456
+00:15:09,039 --> 00:15:11,299
+If the numbers only beat an index
+
+457
+00:15:11,299 --> 00:15:12,874
+fund by a small amount,
+
+458
+00:15:12,874 --> 00:15:15,545
+after paying yourself a fair salary for
+
+459
+00:15:15,545 --> 00:15:18,558
+your time, the business probably isn't worth
+
+460
+00:15:18,558 --> 00:15:19,175
+the risk.
+
+461
+00:15:19,355 --> 00:15:21,081
+If they beat it by a lot,
+
+462
+00:15:21,081 --> 00:15:21,909
+it might be.
+
+463
+00:15:22,259 --> 00:15:23,269
+Lesson eleven.
+
+464
+00:15:23,449 --> 00:15:25,031
+Records tell the truth,
+
+465
+00:15:25,031 --> 00:15:26,200
+and claims don't.
+
+466
+00:15:26,551 --> 00:15:28,288
+When you look at a business for
+
+467
+00:15:28,288 --> 00:15:30,475
+sale, the seller will show you numbers.
+
+468
+00:15:30,655 --> 00:15:33,043
+But numbers on a sales sheet aren't
+
+469
+00:15:33,043 --> 00:15:35,362
+the same as numbers on tax returns
+
+470
+00:15:35,362 --> 00:15:36,727
+and bank statements.
+
+471
+00:15:36,907 --> 00:15:39,260
+In cash heavy businesses especially,
+
+472
+00:15:39,260 --> 00:15:42,463
+buyers should check that reported revenue matches
+
+473
+00:15:42,463 --> 00:15:45,405
+deposits, utility bills and machine counters.
+
+474
+00:15:45,756 --> 00:15:48,159
+Utility bills are a clever check for
+
+475
+00:15:48,159 --> 00:15:48,960
+laundromats.
+
+476
+00:15:49,140 --> 00:15:51,116
+Water use is tied to how much
+
+477
+00:15:51,116 --> 00:15:52,275
+the machines run.
+
+478
+00:15:52,455 --> 00:15:54,786
+If a seller claims high revenue but
+
+479
+00:15:54,786 --> 00:15:56,385
+the water bills are low,
+
+480
+00:15:56,385 --> 00:15:58,051
+something doesn't add up.
+
+481
+00:15:58,231 --> 00:16:01,094
+Similar checks exist in other businesses:
+
+482
+00:16:01,094 --> 00:16:02,840
+fuel for delivery routes,
+
+483
+00:16:02,840 --> 00:16:05,075
+supplies for cleaning companies,
+
+484
+00:16:05,075 --> 00:16:07,240
+or chemicals for pool services.
+
+485
+00:16:07,590 --> 00:16:08,878
+The lesson is simple.
+
+486
+00:16:09,058 --> 00:16:11,322
+Trust, but verify everything.
+
+487
+00:16:11,502 --> 00:16:14,281
+Use an accountant who knows small business
+
+488
+00:16:14,281 --> 00:16:16,662
+deals, and walk away from any seller
+
+489
+00:16:16,662 --> 00:16:18,515
+who won't show real records.
+
+490
+00:16:18,695 --> 00:16:21,115
+The best deals are often with owners
+
+491
+00:16:21,115 --> 00:16:23,199
+who kept clean books for years.
+
+492
+00:16:23,550 --> 00:16:24,606
+Lesson twelve.
+
+493
+00:16:24,786 --> 00:16:26,802
+The owner's real job is to improve
+
+494
+00:16:26,802 --> 00:16:27,572
+the business.
+
+495
+00:16:27,923 --> 00:16:29,295
+Once you own a business,
+
+496
+00:16:29,295 --> 00:16:31,754
+the biggest wealth comes from improving it.
+
+497
+00:16:31,934 --> 00:16:35,343
+Adding services, upgrading to efficient machines,
+
+498
+00:16:35,343 --> 00:16:37,779
+extending hours, improving reviews,
+
+499
+00:16:37,779 --> 00:16:39,727
+signing commercial accounts,
+
+500
+00:16:39,727 --> 00:16:42,441
+and building systems so it runs without
+
+501
+00:16:42,441 --> 00:16:42,720
+you.
+
+502
+00:16:42,900 --> 00:16:44,908
+Each improvement raises profit,
+
+503
+00:16:44,908 --> 00:16:47,306
+and every dollar of profit raises the
+
+504
+00:16:47,306 --> 00:16:47,694
+value.
+
+505
+00:16:48,045 --> 00:16:50,636
+Imagine our owner grows owner earnings from
+
+506
+00:16:50,636 --> 00:16:53,107
+one hundred thousand to one hundred forty
+
+507
+00:16:53,107 --> 00:16:54,614
+thousand over five years,
+
+508
+00:16:54,614 --> 00:16:56,241
+while paying down the loan.
+
+509
+00:16:56,421 --> 00:16:57,755
+At a similar multiple,
+
+510
+00:16:57,755 --> 00:16:59,937
+the business might now be worth well
+
+511
+00:16:59,937 --> 00:17:02,059
+over four hundred thousand dollars,
+
+512
+00:17:02,059 --> 00:17:03,271
+with much less debt.
+
+513
+00:17:03,451 --> 00:17:05,676
+That's how a thirty thousand dollar down
+
+514
+00:17:05,676 --> 00:17:07,678
+payment can turn into a large amount
+
+515
+00:17:07,678 --> 00:17:09,291
+of wealth, if things go well.
+
+516
+00:17:09,641 --> 00:17:11,583
+Then the owner has a choice:
+
+517
+00:17:11,583 --> 00:17:13,387
+keep it for the cash flow,
+
+518
+00:17:13,387 --> 00:17:15,330
+or sell it and use the money
+
+519
+00:17:15,330 --> 00:17:17,064
+to buy a bigger business,
+
+520
+00:17:17,064 --> 00:17:18,313
+invest, or retire.
+
+521
+00:17:18,493 --> 00:17:20,929
+Either way, the wealth came from buying
+
+522
+00:17:20,929 --> 00:17:22,053
+a decent business,
+
+523
+00:17:22,053 --> 00:17:23,490
+improving it patiently,
+
+524
+00:17:23,490 --> 00:17:25,239
+and managing risk carefully.
+
+525
+00:17:25,589 --> 00:17:26,831
+Now here's the payoff.
+
+526
+00:17:27,011 --> 00:17:29,535
+The same twelve lessons work for almost
+
+527
+00:17:29,535 --> 00:17:30,958
+every boring business.
+
+528
+00:17:31,138 --> 00:17:33,063
+Let's apply them quickly to a few
+
+529
+00:17:33,063 --> 00:17:33,472
+others.
+
+530
+00:17:33,822 --> 00:17:34,901
+A car wash.
+
+531
+00:17:35,081 --> 00:17:37,173
+Demand comes from cars in the area
+
+532
+00:17:37,173 --> 00:17:38,587
+and how dirty they get.
+
+533
+00:17:38,767 --> 00:17:40,225
+Revenue has layers:
+
+534
+00:17:40,225 --> 00:17:42,911
+single washes, monthly memberships,
+
+535
+00:17:42,911 --> 00:17:43,679
+detailing.
+
+536
+00:17:43,859 --> 00:17:46,031
+Costs include rent or land,
+
+537
+00:17:46,031 --> 00:17:49,571
+water, chemicals, electricity and equipment.
+
+538
+00:17:49,751 --> 00:17:52,595
+Equipment is expensive and wears out.
+
+539
+00:17:52,775 --> 00:17:55,171
+Memberships create recurring revenue,
+
+540
+00:17:55,171 --> 00:17:57,373
+which buyers usually value highly.
+
+541
+00:17:57,553 --> 00:17:59,515
+Same math, different machine.
+
+542
+00:17:59,865 --> 00:18:01,165
+Self storage.
+
+543
+00:18:01,345 --> 00:18:03,454
+Demand comes from people moving,
+
+544
+00:18:03,454 --> 00:18:05,826
+downsizing and running out of space.
+
+545
+00:18:06,006 --> 00:18:08,224
+Revenue is monthly rent per unit.
+
+546
+00:18:08,404 --> 00:18:10,140
+Costs are mostly fixed:
+
+547
+00:18:10,140 --> 00:18:12,102
+property taxes, insurance,
+
+548
+00:18:12,102 --> 00:18:14,592
+maintenance, staff and marketing.
+
+549
+00:18:14,772 --> 00:18:17,183
+That means huge operating leverage:
+
+550
+00:18:17,183 --> 00:18:18,975
+once the facility is full,
+
+551
+00:18:18,975 --> 00:18:22,144
+extra revenue drops almost straight to profit.
+
+552
+00:18:22,324 --> 00:18:24,505
+But a half empty facility can lose
+
+553
+00:18:24,505 --> 00:18:24,890
+money.
+
+554
+00:18:25,240 --> 00:18:26,261
+A vending route.
+
+555
+00:18:26,441 --> 00:18:29,556
+Demand comes from busy locations with hungry
+
+556
+00:18:29,556 --> 00:18:30,052
+people.
+
+557
+00:18:30,232 --> 00:18:32,368
+Revenue is sales per machine.
+
+558
+00:18:32,548 --> 00:18:33,793
+Costs are products,
+
+559
+00:18:33,793 --> 00:18:36,021
+commissions to the location owner,
+
+560
+00:18:36,021 --> 00:18:38,446
+and your time driving and restocking.
+
+561
+00:18:38,626 --> 00:18:40,795
+Each machine is a tiny business,
+
+562
+00:18:40,795 --> 00:18:42,896
+and the route is a portfolio of
+
+563
+00:18:42,896 --> 00:18:43,235
+them.
+
+564
+00:18:43,415 --> 00:18:46,231
+Efficiency in routing is the difference between
+
+565
+00:18:46,231 --> 00:18:47,908
+profit and a low paying job.
+
+566
+00:18:48,259 --> 00:18:49,454
+And a cleaning company.
+
+567
+00:18:49,634 --> 00:18:52,943
+Demand comes from busy households and offices.
+
+568
+00:18:53,123 --> 00:18:55,341
+Revenue is recurring contracts.
+
+569
+00:18:55,521 --> 00:18:57,218
+The biggest cost is labor,
+
+570
+00:18:57,218 --> 00:18:58,849
+which is mostly variable,
+
+571
+00:18:58,849 --> 00:19:01,394
+so operating leverage is lower but risk
+
+572
+00:19:01,394 --> 00:19:02,243
+is lower too.
+
+573
+00:19:02,423 --> 00:19:05,252
+Value comes from recurring clients and systems
+
+574
+00:19:05,252 --> 00:19:06,974
+that work without the owner.
+
+575
+00:19:07,154 --> 00:19:08,809
+Every business is different,
+
+576
+00:19:08,809 --> 00:19:11,055
+but the questions are always the same.
+
+577
+00:19:11,405 --> 00:19:13,812
+Let's run our example forward with three
+
+578
+00:19:13,812 --> 00:19:16,159
+different owners who buy the exact same
+
+579
+00:19:16,159 --> 00:19:18,928
+laundromat for three hundred thousand dollars.
+
+580
+00:19:19,108 --> 00:19:21,193
+Same machines, same lease,
+
+581
+00:19:21,193 --> 00:19:22,637
+same neighborhood.
+
+582
+00:19:22,817 --> 00:19:24,686
+Made up, but realistic.
+
+583
+00:19:25,037 --> 00:19:26,685
+Owner one, the improver.
+
+584
+00:19:26,865 --> 00:19:29,080
+She keeps the place spotless,
+
+585
+00:19:29,080 --> 00:19:30,989
+adds pickup and delivery,
+
+586
+00:19:30,989 --> 00:19:33,662
+signs contracts with two gyms and a
+
+587
+00:19:33,662 --> 00:19:36,641
+small hotel, and installs card readers.
+
+588
+00:19:36,821 --> 00:19:37,903
+Over five years,
+
+589
+00:19:37,903 --> 00:19:40,609
+revenue grows and owner earnings rise to
+
+590
+00:19:40,609 --> 00:19:43,450
+around one hundred forty thousand dollars.
+
+591
+00:19:43,630 --> 00:19:45,554
+She's paid down much of the loan,
+
+592
+00:19:45,554 --> 00:19:48,061
+and the business is worth considerably more
+
+593
+00:19:48,061 --> 00:19:48,878
+than she paid.
+
+594
+00:19:49,058 --> 00:19:51,599
+Her thirty thousand dollar down payment has
+
+595
+00:19:51,599 --> 00:19:53,727
+turned into a large amount of equity
+
+596
+00:19:53,727 --> 00:19:54,909
+and a strong income.
+
+597
+00:19:55,260 --> 00:19:56,989
+Owner two, the absentee.
+
+598
+00:19:57,169 --> 00:19:58,923
+He thought it was passive income,
+
+599
+00:19:58,923 --> 00:20:00,304
+so he visits once a month.
+
+600
+00:20:00,484 --> 00:20:02,620
+Machines stay broken for weeks,
+
+601
+00:20:02,620 --> 00:20:04,067
+the floor gets dirty,
+
+602
+00:20:04,067 --> 00:20:05,720
+and online reviews drop.
+
+603
+00:20:05,900 --> 00:20:08,922
+Customers drift to a competitor two miles
+
+604
+00:20:08,922 --> 00:20:09,290
+away.
+
+605
+00:20:09,470 --> 00:20:11,533
+Revenue falls fifteen percent,
+
+606
+00:20:11,533 --> 00:20:14,490
+which, thanks to operating leverage and the
+
+607
+00:20:14,490 --> 00:20:17,172
+loan payment, cuts his take home income
+
+608
+00:20:17,172 --> 00:20:18,410
+by more than half.
+
+609
+00:20:18,590 --> 00:20:19,626
+Five years later,
+
+610
+00:20:19,626 --> 00:20:21,516
+he sells for less than he paid.
+
+611
+00:20:21,866 --> 00:20:24,002
+Owner three, the unlucky one.
+
+612
+00:20:24,182 --> 00:20:25,282
+He runs it well,
+
+613
+00:20:25,282 --> 00:20:26,450
+but two years in,
+
+614
+00:20:26,450 --> 00:20:29,406
+a big new apartment complex nearby includes
+
+615
+00:20:29,406 --> 00:20:30,506
+in unit washers,
+
+616
+00:20:30,506 --> 00:20:33,187
+and the landlord raises rent sharply at
+
+617
+00:20:33,187 --> 00:20:33,737
+renewal.
+
+618
+00:20:33,917 --> 00:20:36,703
+Revenue falls while costs rise.
+
+619
+00:20:36,883 --> 00:20:39,090
+He survives because he kept a cash
+
+620
+00:20:39,090 --> 00:20:40,843
+reserve and didn't overpay,
+
+621
+00:20:40,843 --> 00:20:42,595
+but his returns are modest.
+
+622
+00:20:42,775 --> 00:20:43,746
+Not a disaster,
+
+623
+00:20:43,746 --> 00:20:45,364
+but not the dream either.
+
+624
+00:20:45,715 --> 00:20:48,060
+Same business, three outcomes.
+
+625
+00:20:48,240 --> 00:20:50,715
+The improver won because of effort and
+
+626
+00:20:50,715 --> 00:20:51,758
+smart additions.
+
+627
+00:20:51,938 --> 00:20:54,648
+The absentee lost because he believed the
+
+628
+00:20:54,648 --> 00:20:56,036
+passive income story.
+
+629
+00:20:56,216 --> 00:20:58,701
+And the unlucky owner survived because he
+
+630
+00:20:58,701 --> 00:21:00,883
+protected himself from the downside.
+
+631
+00:21:01,063 --> 00:21:03,680
+That's small business in one picture:
+
+632
+00:21:03,680 --> 00:21:05,732
+effort matters, luck matters,
+
+633
+00:21:05,732 --> 00:21:08,844
+and risk management decides whether bad luck
+
+634
+00:21:08,844 --> 00:21:10,966
+is a setback or a catastrophe.
+
+635
+00:21:11,317 --> 00:21:13,546
+So what does the improver actually do?
+
+636
+00:21:13,726 --> 00:21:16,009
+Here are five ways to raise profit
+
+637
+00:21:16,009 --> 00:21:18,023
+in almost any boring business,
+
+638
+00:21:18,023 --> 00:21:20,239
+without taking on much more risk.
+
+639
+00:21:20,589 --> 00:21:21,378
+Lever one.
+
+640
+00:21:21,558 --> 00:21:23,137
+Raise prices carefully.
+
+641
+00:21:23,317 --> 00:21:26,494
+Many small business owners haven't raised prices
+
+642
+00:21:26,494 --> 00:21:27,090
+in years.
+
+643
+00:21:27,270 --> 00:21:28,569
+A modest increase,
+
+644
+00:21:28,569 --> 00:21:31,888
+explained well, often loses very few customers
+
+645
+00:21:31,888 --> 00:21:33,981
+and drops straight to profit.
+
+646
+00:21:34,161 --> 00:21:35,020
+Lever two.
+
+647
+00:21:35,200 --> 00:21:37,046
+Fill the slow hours.
+
+648
+00:21:37,226 --> 00:21:38,983
+Discounts for quiet times,
+
+649
+00:21:38,983 --> 00:21:41,821
+commercial work, or services that use idle
+
+650
+00:21:41,821 --> 00:21:44,389
+equipment turn dead time into revenue.
+
+651
+00:21:44,740 --> 00:21:45,552
+Lever three.
+
+652
+00:21:45,732 --> 00:21:47,183
+Add recurring revenue.
+
+653
+00:21:47,363 --> 00:21:52,240
+Memberships, subscriptions, maintenance plans and commercial contracts
+
+654
+00:21:52,240 --> 00:21:54,260
+make income more predictable,
+
+655
+00:21:54,260 --> 00:21:56,977
+which also raises the business's value.
+
+656
+00:21:57,157 --> 00:21:57,958
+Lever four.
+
+657
+00:21:58,138 --> 00:21:59,868
+Cut waste, not quality.
+
+658
+00:22:00,048 --> 00:22:03,758
+Efficient machines, better energy contracts and smarter
+
+659
+00:22:03,758 --> 00:22:07,536
+scheduling lower costs without making customers unhappy.
+
+660
+00:22:07,886 --> 00:22:08,896
+And lever five.
+
+661
+00:22:09,076 --> 00:22:10,434
+Improve reputation.
+
+662
+00:22:10,614 --> 00:22:11,937
+In local businesses,
+
+663
+00:22:11,937 --> 00:22:14,318
+reviews are a form of marketing that
+
+664
+00:22:14,318 --> 00:22:14,979
+compounds.
+
+665
+00:22:15,159 --> 00:22:16,173
+A clean, safe,
+
+666
+00:22:16,173 --> 00:22:18,998
+friendly business with fast fixes and a
+
+667
+00:22:18,998 --> 00:22:21,750
+responsive owner earns better reviews,
+
+668
+00:22:21,750 --> 00:22:23,705
+which bring more customers,
+
+669
+00:22:23,705 --> 00:22:25,806
+which fund more improvements.
+
+670
+00:22:25,986 --> 00:22:27,154
+Of the five levers,
+
+671
+00:22:27,154 --> 00:22:29,244
+this one is the cheapest and often
+
+672
+00:22:29,244 --> 00:22:30,351
+the most powerful.
+
+673
+00:22:30,701 --> 00:22:33,204
+Finally, the part most people forget to
+
+674
+00:22:33,204 --> 00:22:34,102
+plan: selling.
+
+675
+00:22:34,453 --> 00:22:35,693
+When an owner sells,
+
+676
+00:22:35,693 --> 00:22:37,802
+the buyer looks at the same things
+
+677
+00:22:37,802 --> 00:22:39,228
+we discussed: earnings,
+
+678
+00:22:39,228 --> 00:22:40,531
+the lease, equipment,
+
+679
+00:22:40,531 --> 00:22:43,074
+records and how much the business depends
+
+680
+00:22:43,074 --> 00:22:43,880
+on the owner.
+
+681
+00:22:44,060 --> 00:22:45,851
+A business with clean books,
+
+682
+00:22:45,851 --> 00:22:46,682
+a long lease,
+
+683
+00:22:46,682 --> 00:22:49,049
+newer machines and a manager in place
+
+684
+00:22:49,049 --> 00:22:50,968
+can command a higher multiple.
+
+685
+00:22:51,148 --> 00:22:53,179
+A messy one sells for less,
+
+686
+00:22:53,179 --> 00:22:54,909
+or doesn't sell at all.
+
+687
+00:22:55,260 --> 00:22:57,210
+Taxes matter at the exit too.
+
+688
+00:22:57,390 --> 00:22:59,680
+The sale of a business can create
+
+689
+00:22:59,680 --> 00:23:02,110
+taxable gains, and how the price is
+
+690
+00:23:02,110 --> 00:23:03,776
+split between equipment,
+
+691
+00:23:03,776 --> 00:23:06,621
+goodwill and other assets affects the tax
+
+692
+00:23:06,621 --> 00:23:06,968
+bill.
+
+693
+00:23:07,148 --> 00:23:09,362
+That's another reason to work with an
+
+694
+00:23:09,362 --> 00:23:11,216
+accountant years before a sale,
+
+695
+00:23:11,216 --> 00:23:12,233
+not weeks before.
+
+696
+00:23:12,413 --> 00:23:14,809
+Planning ahead can make a meaningful difference
+
+697
+00:23:14,809 --> 00:23:15,676
+in what you keep.
+
+698
+00:23:16,026 --> 00:23:17,632
+The best time to prepare for a
+
+699
+00:23:17,632 --> 00:23:18,916
+sale is the day you buy.
+
+700
+00:23:19,096 --> 00:23:20,376
+Keep clean records,
+
+701
+00:23:20,376 --> 00:23:22,396
+document how everything works,
+
+702
+00:23:22,396 --> 00:23:25,426
+build relationships that don't depend only on
+
+703
+00:23:25,426 --> 00:23:27,783
+you, and keep the equipment in good
+
+704
+00:23:27,783 --> 00:23:28,187
+shape.
+
+705
+00:23:28,367 --> 00:23:29,792
+Even if you never sell,
+
+706
+00:23:29,792 --> 00:23:31,899
+a business that's ready to sell is
+
+707
+00:23:31,899 --> 00:23:33,882
+a business that's easier to own.
+
+708
+00:23:34,232 --> 00:23:36,252
+Before we get into the psychology,
+
+709
+00:23:36,252 --> 00:23:37,738
+let's protect your money.
+
+710
+00:23:37,918 --> 00:23:40,061
+Here are ten red flags I'd look
+
+711
+00:23:40,061 --> 00:23:42,343
+for before buying any laundromat,
+
+712
+00:23:42,343 --> 00:23:44,003
+car wash, vending route,
+
+713
+00:23:44,003 --> 00:23:45,731
+or other boring business.
+
+714
+00:23:45,911 --> 00:23:48,306
+Any one of them isn't automatically a
+
+715
+00:23:48,306 --> 00:23:50,895
+deal breaker, but each one deserves hard
+
+716
+00:23:50,895 --> 00:23:51,542
+questions.
+
+717
+00:23:51,892 --> 00:23:53,087
+Red flag one.
+
+718
+00:23:53,267 --> 00:23:55,561
+The seller can't or won't show tax
+
+719
+00:23:55,561 --> 00:23:56,100
+returns.
+
+720
+00:23:56,280 --> 00:23:58,418
+If the business earns what they say,
+
+721
+00:23:58,418 --> 00:24:00,379
+the returns should roughly match.
+
+722
+00:24:00,559 --> 00:24:03,074
+Big gaps usually mean the real numbers
+
+723
+00:24:03,074 --> 00:24:05,325
+are lower, or the seller is hiding
+
+724
+00:24:05,325 --> 00:24:07,840
+cash income, which is a problem either
+
+725
+00:24:07,840 --> 00:24:08,105
+way.
+
+726
+00:24:08,285 --> 00:24:09,527
+Red flag two.
+
+727
+00:24:09,707 --> 00:24:11,016
+The lease is short,
+
+728
+00:24:11,016 --> 00:24:13,289
+or the landlord won't commit to a
+
+729
+00:24:13,289 --> 00:24:13,840
+renewal.
+
+730
+00:24:14,020 --> 00:24:15,150
+Without a secure lease,
+
+731
+00:24:15,150 --> 00:24:17,017
+you're buying a business that could be
+
+732
+00:24:17,017 --> 00:24:17,411
+evicted.
+
+733
+00:24:17,760 --> 00:24:19,119
+Red flag three.
+
+734
+00:24:19,299 --> 00:24:21,180
+The equipment is old and the price
+
+735
+00:24:21,180 --> 00:24:22,120
+assumes it isn't.
+
+736
+00:24:22,300 --> 00:24:24,798
+Ask the age of every major machine
+
+737
+00:24:24,798 --> 00:24:26,782
+and what replacements cost.
+
+738
+00:24:26,962 --> 00:24:28,250
+Red flag four.
+
+739
+00:24:28,430 --> 00:24:30,450
+Revenue jumped right before the sale.
+
+740
+00:24:30,630 --> 00:24:32,466
+Sometimes owners push prices,
+
+741
+00:24:32,466 --> 00:24:35,314
+cut maintenance, or stop paying themselves to
+
+742
+00:24:35,314 --> 00:24:37,213
+make the last year look great.
+
+743
+00:24:37,393 --> 00:24:39,308
+Look at three to five years,
+
+744
+00:24:39,308 --> 00:24:39,855
+not one.
+
+745
+00:24:40,204 --> 00:24:41,331
+Red flag five.
+
+746
+00:24:41,511 --> 00:24:44,123
+One customer or one contract is a
+
+747
+00:24:44,123 --> 00:24:45,864
+huge share of revenue.
+
+748
+00:24:46,044 --> 00:24:47,514
+If that customer leaves,
+
+749
+00:24:47,514 --> 00:24:49,411
+the business changes overnight.
+
+750
+00:24:49,591 --> 00:24:50,915
+Red flag six.
+
+751
+00:24:51,095 --> 00:24:52,871
+The owner is the business.
+
+752
+00:24:53,051 --> 00:24:54,440
+If every relationship,
+
+753
+00:24:54,440 --> 00:24:56,966
+skill and decision lives in the seller's
+
+754
+00:24:56,966 --> 00:24:59,303
+head, what you're buying may walk out
+
+755
+00:24:59,303 --> 00:25:00,818
+the door on closing day.
+
+756
+00:25:00,998 --> 00:25:02,754
+Ask how long they'll stay to train
+
+757
+00:25:02,754 --> 00:25:02,960
+you.
+
+758
+00:25:03,310 --> 00:25:04,495
+Red flag seven.
+
+759
+00:25:04,675 --> 00:25:06,497
+A new competitor is coming,
+
+760
+00:25:06,497 --> 00:25:08,926
+or the neighborhood is changing in a
+
+761
+00:25:08,926 --> 00:25:10,410
+way that hurts demand.
+
+762
+00:25:10,590 --> 00:25:11,513
+Drive the area,
+
+763
+00:25:11,513 --> 00:25:13,114
+talk to nearby businesses,
+
+764
+00:25:13,114 --> 00:25:15,083
+and check city planning records.
+
+765
+00:25:15,263 --> 00:25:16,412
+Red flag eight.
+
+766
+00:25:16,592 --> 00:25:18,349
+The seller is in a hurry and
+
+767
+00:25:18,349 --> 00:25:20,482
+pressures you to skip inspections.
+
+768
+00:25:20,662 --> 00:25:23,251
+A good deal survives due diligence.
+
+769
+00:25:23,431 --> 00:25:25,439
+A bad deal needs you to rush.
+
+770
+00:25:25,789 --> 00:25:26,939
+Red flag nine.
+
+771
+00:25:27,119 --> 00:25:28,952
+Unpaid bills, liens,
+
+772
+00:25:28,952 --> 00:25:30,602
+or legal disputes.
+
+773
+00:25:30,782 --> 00:25:32,500
+A lawyer can search for these,
+
+774
+00:25:32,500 --> 00:25:35,076
+and the purchase agreement should protect you
+
+775
+00:25:35,076 --> 00:25:36,680
+from the seller's old debts.
+
+776
+00:25:36,860 --> 00:25:38,346
+And red flag ten.
+
+777
+00:25:38,526 --> 00:25:40,950
+The numbers only work if everything goes
+
+778
+00:25:40,950 --> 00:25:41,556
+perfectly.
+
+779
+00:25:41,736 --> 00:25:43,430
+If one broken machine,
+
+780
+00:25:43,430 --> 00:25:44,816
+one rent increase,
+
+781
+00:25:44,816 --> 00:25:47,279
+or one slow month makes the loan
+
+782
+00:25:47,279 --> 00:25:50,513
+payment impossible, the deal is too tight.
+
+783
+00:25:50,693 --> 00:25:53,642
+Walk away, or negotiate a lower price.
+
+784
+00:25:53,992 --> 00:25:56,909
+Here's a simple rule many experienced buyers
+
+785
+00:25:56,909 --> 00:25:59,229
+use: assume revenue comes in ten to
+
+786
+00:25:59,229 --> 00:26:02,012
+fifteen percent lower than the seller says
+
+787
+00:26:02,012 --> 00:26:04,465
+and costs come in ten percent higher.
+
+788
+00:26:04,645 --> 00:26:06,709
+If the business still pays the loan,
+
+789
+00:26:06,709 --> 00:26:08,830
+covers your living costs and leaves a
+
+790
+00:26:08,830 --> 00:26:11,181
+cushion, you may have a real opportunity.
+
+791
+00:26:11,361 --> 00:26:12,261
+If it doesn't,
+
+792
+00:26:12,261 --> 00:26:14,703
+you've just saved yourself from a very
+
+793
+00:26:14,703 --> 00:26:15,796
+expensive lesson.
+
+794
+00:26:16,146 --> 00:26:19,235
+Due diligence feels slow and expensive.
+
+795
+00:26:19,415 --> 00:26:21,824
+A few thousand dollars for an accountant,
+
+796
+00:26:21,824 --> 00:26:24,175
+a lawyer and an equipment inspection can
+
+797
+00:26:24,175 --> 00:26:25,115
+feel like a lot.
+
+798
+00:26:25,295 --> 00:26:27,535
+But compared with a three hundred thousand
+
+799
+00:26:27,535 --> 00:26:30,202
+dollar mistake, it's the cheapest insurance you'll
+
+800
+00:26:30,202 --> 00:26:30,682
+ever buy.
+
+801
+00:26:31,032 --> 00:26:32,043
+Angle two.
+
+802
+00:26:32,223 --> 00:26:33,349
+The psychology.
+
+803
+00:26:33,529 --> 00:26:35,832
+Why do smart people make bad decisions
+
+804
+00:26:35,832 --> 00:26:37,650
+when buying boring businesses?
+
+805
+00:26:38,000 --> 00:26:40,299
+The first trap is the passive income
+
+806
+00:26:40,299 --> 00:26:40,682
+dream.
+
+807
+00:26:40,862 --> 00:26:44,561
+Laundromats, vending and storage are often sold
+
+808
+00:26:44,561 --> 00:26:46,528
+online as passive income.
+
+809
+00:26:46,708 --> 00:26:50,017
+People imagine collecting money while doing nothing.
+
+810
+00:26:50,197 --> 00:26:53,452
+Then they discover broken machines at midnight,
+
+811
+00:26:53,452 --> 00:26:56,153
+unhappy customers and tricky landlords.
+
+812
+00:26:56,333 --> 00:26:59,544
+Expecting passive income leads people to underestimate
+
+813
+00:26:59,544 --> 00:27:01,328
+the work, and to overpay for a
+
+814
+00:27:01,328 --> 00:27:03,647
+business they don't really want to run.
+
+815
+00:27:03,997 --> 00:27:06,586
+The second trap is anchoring on revenue.
+
+816
+00:27:06,766 --> 00:27:09,619
+Three hundred thousand dollars of revenue sounds
+
+817
+00:27:09,619 --> 00:27:10,273
+impressive.
+
+818
+00:27:10,453 --> 00:27:12,113
+But revenue isn't profit.
+
+819
+00:27:12,293 --> 00:27:14,411
+Buyers who focus on the big top
+
+820
+00:27:14,411 --> 00:27:17,281
+line number often forget to subtract every
+
+821
+00:27:17,281 --> 00:27:19,536
+cost, a fair salary for their own
+
+822
+00:27:19,536 --> 00:27:22,405
+time, loan payments and an equipment fund.
+
+823
+00:27:22,585 --> 00:27:24,650
+Always work down to the money that's
+
+824
+00:27:24,650 --> 00:27:25,453
+actually left.
+
+825
+00:27:25,802 --> 00:27:27,834
+The third trap is deal fever.
+
+826
+00:27:28,014 --> 00:27:29,529
+After months of searching,
+
+827
+00:27:29,529 --> 00:27:31,509
+buyers want the search to be over.
+
+828
+00:27:31,689 --> 00:27:33,543
+They start ignoring red flags,
+
+829
+00:27:33,543 --> 00:27:35,892
+like a short lease or missing records,
+
+830
+00:27:35,892 --> 00:27:38,179
+because they're emotionally invested.
+
+831
+00:27:38,359 --> 00:27:40,813
+The best protection is a written checklist
+
+832
+00:27:40,813 --> 00:27:41,807
+of deal breakers,
+
+833
+00:27:41,807 --> 00:27:43,560
+made before you start looking,
+
+834
+00:27:43,560 --> 00:27:45,371
+and a willingness to walk away.
+
+835
+00:27:45,721 --> 00:27:48,254
+And the fourth trap is overconfidence in
+
+836
+00:27:48,254 --> 00:27:49,077
+improvements.
+
+837
+00:27:49,257 --> 00:27:52,487
+Every buyer believes they'll increase revenue and
+
+838
+00:27:52,487 --> 00:27:53,146
+cut costs.
+
+839
+00:27:53,326 --> 00:27:54,092
+Some do.
+
+840
+00:27:54,272 --> 00:27:56,223
+But a price based on the improvements
+
+841
+00:27:56,223 --> 00:27:58,121
+you plan to make means you're paying
+
+842
+00:27:58,121 --> 00:28:00,019
+the seller for your own future work.
+
+843
+00:28:00,199 --> 00:28:02,643
+Smart buyers pay for the business as
+
+844
+00:28:02,643 --> 00:28:03,458
+it is today,
+
+845
+00:28:03,458 --> 00:28:06,105
+and keep the upside of improvements for
+
+846
+00:28:06,105 --> 00:28:06,852
+themselves.
+
+847
+00:28:07,201 --> 00:28:08,049
+Angle three.
+
+848
+00:28:08,229 --> 00:28:08,984
+The playbook.
+
+849
+00:28:09,164 --> 00:28:11,153
+Here's a checklist you can use to
+
+850
+00:28:11,153 --> 00:28:12,902
+evaluate any boring business.
+
+851
+00:28:13,252 --> 00:28:13,450
+One.
+
+852
+00:28:13,630 --> 00:28:15,298
+Demand: who needs this,
+
+853
+00:28:15,298 --> 00:28:17,546
+how often, and how many of them
+
+854
+00:28:17,546 --> 00:28:18,343
+are nearby?
+
+855
+00:28:18,523 --> 00:28:18,744
+Two.
+
+856
+00:28:18,924 --> 00:28:20,834
+Revenue: what are the layers,
+
+857
+00:28:20,834 --> 00:28:22,546
+and how much is recurring?
+
+858
+00:28:22,726 --> 00:28:23,214
+Three.
+
+859
+00:28:23,394 --> 00:28:25,837
+Costs: which are fixed and which are
+
+860
+00:28:25,837 --> 00:28:26,447
+variable?
+
+861
+00:28:26,627 --> 00:28:28,843
+What does a ten or twenty percent
+
+862
+00:28:28,843 --> 00:28:30,656
+drop in sales do to profit?
+
+863
+00:28:30,836 --> 00:28:31,277
+Four.
+
+864
+00:28:31,457 --> 00:28:33,529
+Location: how long is the lease,
+
+865
+00:28:33,529 --> 00:28:35,407
+what are the renewal options,
+
+866
+00:28:35,407 --> 00:28:36,960
+and how can rent change?
+
+867
+00:28:37,310 --> 00:28:37,798
+Five.
+
+868
+00:28:37,978 --> 00:28:39,714
+Equipment: how old is it,
+
+869
+00:28:39,714 --> 00:28:41,867
+and what will replacement cost?
+
+870
+00:28:42,047 --> 00:28:42,407
+Six.
+
+871
+00:28:42,587 --> 00:28:45,090
+Labor: what's left after paying a fair
+
+872
+00:28:45,090 --> 00:28:46,802
+salary to whoever runs it?
+
+873
+00:28:46,982 --> 00:28:47,284
+Seven.
+
+874
+00:28:47,464 --> 00:28:49,251
+Records: do tax returns,
+
+875
+00:28:49,251 --> 00:28:52,304
+bank deposits and utility bills match the
+
+876
+00:28:52,304 --> 00:28:53,570
+seller's numbers?
+
+877
+00:28:53,750 --> 00:28:54,099
+Eight.
+
+878
+00:28:54,279 --> 00:28:57,010
+Debt: can the business comfortably cover the
+
+879
+00:28:57,010 --> 00:28:59,120
+loan payments, even in a bad year?
+
+880
+00:28:59,470 --> 00:28:59,946
+Nine.
+
+881
+00:29:00,126 --> 00:29:02,937
+Alternative: does this beat an index fund
+
+882
+00:29:02,937 --> 00:29:05,199
+by enough to justify the time and
+
+883
+00:29:05,199 --> 00:29:05,815
+the risk?
+
+884
+00:29:05,995 --> 00:29:06,564
+And ten.
+
+885
+00:29:06,744 --> 00:29:08,685
+You: do you actually want to run
+
+886
+00:29:08,685 --> 00:29:10,929
+this business, or at least manage the
+
+887
+00:29:10,929 --> 00:29:11,899
+person who does?
+
+888
+00:29:12,079 --> 00:29:14,253
+A great business you hate owning is
+
+889
+00:29:14,253 --> 00:29:15,806
+a bad investment for you.
+
+890
+00:29:16,155 --> 00:29:17,655
+And before any of this,
+
+891
+00:29:17,655 --> 00:29:19,220
+protect your foundation.
+
+892
+00:29:19,400 --> 00:29:21,923
+Keep an emergency fund outside the business,
+
+893
+00:29:21,923 --> 00:29:24,102
+keep your retirement savings separate,
+
+894
+00:29:24,102 --> 00:29:25,936
+and never put in money you can't
+
+895
+00:29:25,936 --> 00:29:26,796
+afford to lose.
+
+896
+00:29:26,976 --> 00:29:29,028
+Buy with the help of an accountant
+
+897
+00:29:29,028 --> 00:29:31,200
+and a lawyer who know small business
+
+898
+00:29:31,200 --> 00:29:31,562
+deals.
+
+899
+00:29:31,742 --> 00:29:34,056
+Their fees are small compared with the
+
+900
+00:29:34,056 --> 00:29:35,457
+cost of a bad purchase.
+
+901
+00:29:35,807 --> 00:29:37,943
+Let me answer the questions people ask
+
+902
+00:29:37,943 --> 00:29:39,685
+most about the laundromat math.
+
+903
+00:29:40,035 --> 00:29:40,918
+Question one.
+
+904
+00:29:41,098 --> 00:29:43,222
+Is a laundromat a good first business?
+
+905
+00:29:43,402 --> 00:29:43,996
+It can be,
+
+906
+00:29:43,996 --> 00:29:46,134
+especially for people who are handy,
+
+907
+00:29:46,134 --> 00:29:48,569
+organized and comfortable with equipment.
+
+908
+00:29:48,749 --> 00:29:50,253
+But it requires capital,
+
+909
+00:29:50,253 --> 00:29:52,696
+a good lease and careful due diligence.
+
+910
+00:29:52,876 --> 00:29:53,782
+Question two.
+
+911
+00:29:53,962 --> 00:29:55,785
+Is it better to build or buy?
+
+912
+00:29:55,965 --> 00:29:59,098
+Buying an existing laundromat with records removes
+
+913
+00:29:59,098 --> 00:30:00,540
+guesswork about demand,
+
+914
+00:30:00,540 --> 00:30:03,047
+but you pay for the established customer
+
+915
+00:30:03,047 --> 00:30:03,360
+base.
+
+916
+00:30:03,540 --> 00:30:05,998
+Building lets you choose a great location
+
+917
+00:30:05,998 --> 00:30:07,017
+and new machines,
+
+918
+00:30:07,017 --> 00:30:09,055
+but you start from zero customers.
+
+919
+00:30:09,404 --> 00:30:10,473
+Question three.
+
+920
+00:30:10,653 --> 00:30:13,009
+What about cash and card payments?
+
+921
+00:30:13,189 --> 00:30:15,972
+Many laundromats now use card systems or
+
+922
+00:30:15,972 --> 00:30:18,337
+apps, which can increase spending,
+
+923
+00:30:18,337 --> 00:30:20,980
+reduce theft and make records cleaner.
+
+924
+00:30:21,160 --> 00:30:22,170
+Question four.
+
+925
+00:30:22,350 --> 00:30:24,459
+How long until I make my money
+
+926
+00:30:24,459 --> 00:30:24,811
+back?
+
+927
+00:30:24,991 --> 00:30:26,202
+In our illustration,
+
+928
+00:30:26,202 --> 00:30:28,744
+with thirty thousand down and around fifty
+
+929
+00:30:28,744 --> 00:30:30,923
+thousand a year after loan payments,
+
+930
+00:30:30,923 --> 00:30:33,283
+the down payment could come back within
+
+931
+00:30:33,283 --> 00:30:34,070
+a year or so.
+
+932
+00:30:34,250 --> 00:30:35,838
+But that ignores risk,
+
+933
+00:30:35,838 --> 00:30:37,930
+taxes and the equipment fund.
+
+934
+00:30:38,110 --> 00:30:40,165
+Real results vary widely.
+
+935
+00:30:40,515 --> 00:30:41,409
+Question five.
+
+936
+00:30:41,589 --> 00:30:42,823
+Do I need to be there every
+
+937
+00:30:42,823 --> 00:30:43,006
+day?
+
+938
+00:30:43,186 --> 00:30:44,370
+Not necessarily.
+
+939
+00:30:44,550 --> 00:30:47,719
+Many owners hire attendants and visit regularly,
+
+940
+00:30:47,719 --> 00:30:50,426
+using cameras and card systems to monitor
+
+941
+00:30:50,426 --> 00:30:51,284
+the business.
+
+942
+00:30:51,464 --> 00:30:54,350
+But someone needs to handle problems quickly,
+
+943
+00:30:54,350 --> 00:30:57,109
+and absentee owners often find that service
+
+944
+00:30:57,109 --> 00:30:59,161
+quality slips without attention.
+
+945
+00:30:59,511 --> 00:31:00,591
+Question six.
+
+946
+00:31:00,771 --> 00:31:03,147
+What happens if a big machine breaks
+
+947
+00:31:03,147 --> 00:31:04,335
+right after I buy?
+
+948
+00:31:04,515 --> 00:31:07,007
+That's exactly why the equipment fund and
+
+949
+00:31:07,007 --> 00:31:08,405
+the cash reserve exist.
+
+950
+00:31:08,585 --> 00:31:11,701
+Before closing, get the machines inspected and
+
+951
+00:31:11,701 --> 00:31:13,733
+ask for a price reduction or a
+
+952
+00:31:13,733 --> 00:31:16,375
+repair credit for anything near the end
+
+953
+00:31:16,375 --> 00:31:17,188
+of its life.
+
+954
+00:31:17,368 --> 00:31:20,563
+After closing, set aside money every month
+
+955
+00:31:20,563 --> 00:31:22,541
+so a repair is an expense,
+
+956
+00:31:22,541 --> 00:31:23,835
+not an emergency.
+
+957
+00:31:24,184 --> 00:31:25,206
+Question seven.
+
+958
+00:31:25,386 --> 00:31:26,908
+Can I buy a business with no
+
+959
+00:31:26,908 --> 00:31:27,615
+money at all?
+
+960
+00:31:27,795 --> 00:31:29,862
+Some deals use seller financing,
+
+961
+00:31:29,862 --> 00:31:32,057
+where the seller lets you pay part
+
+962
+00:31:32,057 --> 00:31:33,542
+of the price over time,
+
+963
+00:31:33,542 --> 00:31:35,609
+often combined with a bank loan.
+
+964
+00:31:35,789 --> 00:31:37,880
+That can reduce the cash you need,
+
+965
+00:31:37,880 --> 00:31:39,602
+but you still need reserves,
+
+966
+00:31:39,602 --> 00:31:41,632
+good credit and a deal that works
+
+967
+00:31:41,632 --> 00:31:42,186
+on paper.
+
+968
+00:31:42,366 --> 00:31:44,843
+Be careful with anyone selling a course
+
+969
+00:31:44,843 --> 00:31:46,813
+promising no money down riches.
+
+970
+00:31:46,993 --> 00:31:48,734
+The math still has to work.
+
+971
+00:31:49,083 --> 00:31:49,873
+Question eight.
+
+972
+00:31:50,053 --> 00:31:52,519
+Is a boring business better than real
+
+973
+00:31:52,519 --> 00:31:53,652
+estate or stocks?
+
+974
+00:31:53,832 --> 00:31:54,645
+It's different.
+
+975
+00:31:54,825 --> 00:31:57,425
+Stocks are passive and diversified.
+
+976
+00:31:57,605 --> 00:32:01,042
+Real estate offers leverage and tangible assets.
+
+977
+00:32:01,222 --> 00:32:03,931
+A small business can offer higher returns,
+
+978
+00:32:03,931 --> 00:32:06,576
+but it demands your time and concentrates
+
+979
+00:32:06,576 --> 00:32:08,060
+your risk in one place.
+
+980
+00:32:08,240 --> 00:32:10,549
+Many wealthy people own all three,
+
+981
+00:32:10,549 --> 00:32:13,401
+but they usually build the foundation with
+
+982
+00:32:13,401 --> 00:32:14,962
+steady investing first.
+
+983
+00:32:15,312 --> 00:32:16,195
+Question nine.
+
+984
+00:32:16,375 --> 00:32:17,993
+How do I learn this before risking
+
+985
+00:32:17,993 --> 00:32:18,279
+money?
+
+986
+00:32:18,459 --> 00:32:20,397
+Work in or near the industry,
+
+987
+00:32:20,397 --> 00:32:22,670
+talk to owners who aren't selling,
+
+988
+00:32:22,670 --> 00:32:25,277
+and study real listings on business for
+
+989
+00:32:25,277 --> 00:32:28,084
+sale websites, running the numbers on each
+
+990
+00:32:28,084 --> 00:32:29,755
+one the way we did today.
+
+991
+00:32:29,935 --> 00:32:32,370
+After analyzing twenty or thirty listings,
+
+992
+00:32:32,370 --> 00:32:34,166
+you'll start to see what a good
+
+993
+00:32:34,166 --> 00:32:36,543
+deal looks like and which numbers sellers
+
+994
+00:32:36,543 --> 00:32:37,470
+like to inflate.
+
+995
+00:32:37,820 --> 00:32:39,910
+Let's recap the twelve lessons.
+
+996
+00:32:40,090 --> 00:32:41,588
+Demand comes first.
+
+997
+00:32:41,768 --> 00:32:43,138
+Revenue has layers.
+
+998
+00:32:43,318 --> 00:32:45,176
+The lease is your silent partner.
+
+999
+00:32:45,356 --> 00:32:47,608
+Some costs move with sales.
+
+1000
+00:32:47,788 --> 00:32:49,007
+Equipment wears out.
+
+1001
+00:32:49,187 --> 00:32:50,370
+Labor is a choice,
+
+1002
+00:32:50,370 --> 00:32:52,078
+and your time has a price.
+
+1003
+00:32:52,427 --> 00:32:54,867
+A business is valued as a multiple
+
+1004
+00:32:54,867 --> 00:32:56,015
+of its earnings.
+
+1005
+00:32:56,195 --> 00:32:57,936
+Most buyers use debt.
+
+1006
+00:32:58,116 --> 00:32:59,881
+Leverage cuts both ways.
+
+1007
+00:33:00,061 --> 00:33:02,337
+Always compare to the boring alternative.
+
+1008
+00:33:02,517 --> 00:33:03,933
+Records tell the truth.
+
+1009
+00:33:04,113 --> 00:33:05,943
+And the owner's real job is to
+
+1010
+00:33:05,943 --> 00:33:07,224
+improve the business,
+
+1011
+00:33:07,224 --> 00:33:08,687
+then hold it or sell it.
+
+1012
+00:33:09,037 --> 00:33:10,442
+And the three angles.
+
+1013
+00:33:10,622 --> 00:33:13,492
+The numbers: three hundred thousand of revenue
+
+1014
+00:33:13,492 --> 00:33:15,988
+can become one hundred thousand of owner
+
+1015
+00:33:15,988 --> 00:33:18,047
+earnings, and a value of three to
+
+1016
+00:33:18,047 --> 00:33:19,045
+five times that,
+
+1017
+00:33:19,045 --> 00:33:20,293
+in our illustration.
+
+1018
+00:33:20,473 --> 00:33:23,783
+The psychology: beware the passive income dream,
+
+1019
+00:33:23,783 --> 00:33:26,816
+revenue anchoring, deal fever and paying for
+
+1020
+00:33:26,816 --> 00:33:28,333
+your own improvements.
+
+1021
+00:33:28,513 --> 00:33:29,748
+And the playbook:
+
+1022
+00:33:29,748 --> 00:33:31,347
+a ten point checklist,
+
+1023
+00:33:31,347 --> 00:33:33,308
+and a protected foundation.
+
+1024
+00:33:33,658 --> 00:33:35,063
+So here's your homework.
+
+1025
+00:33:35,243 --> 00:33:37,776
+Pick any small business in your neighborhood,
+
+1026
+00:33:37,776 --> 00:33:39,295
+and try to sketch its math.
+
+1027
+00:33:39,475 --> 00:33:40,613
+Who are the customers?
+
+1028
+00:33:40,793 --> 00:33:42,221
+What are the big costs?
+
+1029
+00:33:42,401 --> 00:33:43,283
+What might it be worth?
+
+1030
+00:33:43,463 --> 00:33:45,477
+Doing that for a few businesses will
+
+1031
+00:33:45,477 --> 00:33:47,771
+train your eye faster than anything else.
+
+1032
+00:33:47,951 --> 00:33:49,589
+If you want the full plan for
+
+1033
+00:33:49,589 --> 00:33:51,680
+building wealth, it's in my playbook,
+
+1034
+00:33:51,680 --> 00:33:53,036
+link in the description.
+
+1035
+00:33:53,216 --> 00:33:54,481
+I'm Ryan Rover.
+
+1036
+00:33:54,661 --> 00:33:55,822
+See you in the next one.
